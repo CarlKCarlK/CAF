@@ -1,0 +1,379 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 19, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "A user argues that academic freedom requires the freedom of personal expression to prevent administrators from arbitrarily deciding what constitutes 'academic' versus 'personal' expression.",
+        "A debate exists over whether university-owned equipment (like .plan files) can be used for personal political or artistic expression against administrative requests.",
+        "Arguments are made that restricting content based on the strictest international laws would effectively allow the most restrictive country to set global Usenet standards."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Michigan",
+        "Boston University",
+        "Rice University",
+        "University of Waterloo"
+      ],
+      "people": [
+        "Adam C. Gross",
+        "Joe Wells",
+        "Carl M. Kadie",
+        "William W. Arnold",
+        "Elizabeth M. Reid",
+        "Paul Joslin",
+        "Mark C. Sheehan",
+        "Ranjan Bagchi"
+      ],
+      "summary": "This digest summarizes several debates regarding the boundaries of academic freedom and network policy on Usenet. Key discussions include the economic and legal implications of hosting 'alt.sex', the use of university-owned .plan files for personal expression (specifically lyrics to Ice-T's 'Cop Killer'), and the introduction of internet user fees in Chile.",
+      "title": "Abstract of CAF-News 02.35",
+      "topics": [
+        "Usenet",
+        "academic freedom",
+        "censorship",
+        "network costs",
+        "free speech",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "ag3j+@andrew.cmu.edu (Adam C. Gross)",
+      "item_count": 9,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n35",
+      "subject": "Article 0 -- Abstract of CAF-News 02.35",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 13, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Usenet is an informal congregation of sites rather than an official organization",
+        "University Internet connection fees are typically flat rates regardless of the specific newsgroups carried"
+      ],
+      "organizations": [
+        "University of Oregon"
+      ],
+      "people": [
+        "John Martin",
+        "Steve Franklin"
+      ],
+      "summary": "John Martin responds to Steve Franklin regarding the financial cost of hosting controversial or 'illegal' content on Usenet. Martin argues that because universities typically pay flat fees for Internet connectivity and maintain their own news servers, removing specific newsgroups does not reduce operational costs.",
+      "title": "Re: Surprise. You've made the evening news again.",
+      "topics": [
+        "Usenet",
+        "network funding",
+        "content moderation",
+        "academic infrastructure"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 13 Jul 92 00:13:49 GMT",
+      "from": "johnm@cajal.uoregon.edu (John Martin)",
+      "item_count": 9,
+      "item_index": 1,
+      "message_id": "<1992Jul13.001349.12315@nntp.uoregon.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n35",
+      "subject": "Article 2--Re: Surprise. You've made the evening news again.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 13, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Manual filtering of Usenet content is more costly than the resources used to host it.",
+        "Culling specific groups does not prevent crossposting of offensive material into unrelated academic or professional groups.",
+        "Economic arguments regarding the cost of hosting 'offensive' content are often proxies for censorship efforts."
+      ],
+      "organizations": [
+        "Clemson University"
+      ],
+      "people": [
+        "Mike Percy"
+      ],
+      "summary": "Mike Percy responds to an argument that public funding of Usenet is unjustified due to the presence of pornography. He argues that manual censorship of newsgroups would be prohibitively expensive and would effectively turn administrators into censors. He contends that economic arguments are often used as a distraction from the core issue of censorship.",
+      "title": "Re: Surprise. Economic arguement vis net porn cost",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "public funding",
+        "internet governance",
+        "pornography"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 13 Jul 1992 13:39:49 GMT",
+      "from": "grimlok@hubcap.clemson.edu (Mike Percy)",
+      "item_count": 9,
+      "item_index": 2,
+      "message_id": "<1992Jul13.133949.8564@hubcap.clemson.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n35",
+      "subject": "Article 3--Re: Surprise.  Economic arguement vis net porn cost",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 13, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Applying the laws of the strictest participating country to USENET would create a 'lowest common denominator' for speech.",
+        "The provision of university disk space for non-educational entertainment is an institutional policy issue rather than a network issue."
+      ],
+      "organizations": [],
+      "people": [
+        "Scott Moir",
+        "Steve Franklin"
+      ],
+      "summary": "Scott Moir responds to Steve Franklin regarding the funding and hosting of USENET content on university systems. Moir argues against applying the strictest international laws to global network content and suggests that disk space allocation for non-educational purposes is a local institutional policy matter.",
+      "title": "Re: Surprise. You've made the evening news again.",
+      "topics": [
+        "USENET",
+        "academic freedom",
+        "network censorship",
+        "resource allocation"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 13 Jul 1992 14:21:03 GMT",
+      "from": "pentangl@spdcc.com (Scott Moir)",
+      "item_count": 9,
+      "item_index": 3,
+      "message_id": "<1992Jul13.142103.15845@spdcc.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n35",
+      "subject": "Article 4--Re: Surprise. You've made the evening news again.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 13, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Expression, including pornography, is protected under the Canadian Charter.",
+        "The author claims many Canadians are ignorant of the Charter's significance."
+      ],
+      "organizations": [],
+      "people": [
+        "Brad Shapcott",
+        "Steve Franklin"
+      ],
+      "summary": "Brad Shapcott responds to a discussion regarding media coverage and content on Usenet. He argues that expression, including pornography, is protected under the Canadian Charter of Rights and Freedoms. He encourages users to educate themselves on legal protections for speech.",
+      "title": "Re: Surprise. You've made the evening news again.",
+      "topics": [
+        "freedom of expression",
+        "Canadian Charter of Rights and Freedoms",
+        "Usenet content",
+        "media criticism"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 13 Jul 1992 14:41:21 GMT",
+      "from": "dbshapco@undergrad.math.waterloo.edu (Brad Shapcott)",
+      "item_count": 9,
+      "item_index": 4,
+      "message_id": "<BrC0sz.Gu8@undergrad.math.waterloo.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n35",
+      "subject": "Article 5--Re: Surprise. You've made the evening news again.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "17 Jul 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        ".plan files were used as traditional spaces for personal expression in early academic computing",
+        "Private university status limits the applicability of the Bill of Rights regarding campus censorship"
+      ],
+      "organizations": [
+        "Boston University",
+        "AAUP",
+        "League for Programming Freedom"
+      ],
+      "people": [
+        "Joe Wells"
+      ],
+      "summary": "Joe Wells, a member of the League for Programming Freedom at Boston University, reports that his department chair requested he remove Ice-T's 'Cop Killer' lyrics from his .plan file following complaints. Wells refuses to comply and seeks arguments against censorship, noting that as a private institution, BU is not bound by the Bill of Rights. He suggests citing accreditation standards or AAUP positions to defend his use of the .plan file for personal expression.",
+      "title": "Article 6--putting lyrics to \"Cop Killer\" in .plan file",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        ".plan files",
+        "private universities",
+        "free speech"
+      ]
+    },
+    "identity": {
+      "date": "17 Jul 92 00:58:14 GMT",
+      "from": "jbw@bigbird.bu.edu (Joe Wells)",
+      "item_count": 9,
+      "item_index": 5,
+      "message_id": "<JBW.92Jul16195814@bigbird.bu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n35",
+      "subject": "Article 6--putting lyrics to \"Cop Killer\" in .plan file",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 17, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The university may have the right to determine content on its own equipment regardless of First Amendment claims.",
+        "Academic freedom is defined as the freedom to pursue lines of inquiry or study, distinct from general personal expression.",
+        "Private universities may still be subject to certain legal tenets regarding free speech."
+      ],
+      "organizations": [
+        "Boston University",
+        "Rice University",
+        "EFF",
+        "AAUP",
+        "League for Programming Freedom"
+      ],
+      "people": [
+        "Joe Wells",
+        "Joseph A. Watters"
+      ],
+      "summary": "A discussion regarding a student at Boston University who placed controversial song lyrics in his .plan file and faced pressure from the department chair to remove them. The exchange debates whether university-owned computing resources constitute a protected venue for free speech or if the institution's property rights allow for censorship of offensive content. It further distinguishes between general freedom of expression and academic freedom.",
+      "title": "Re: putting lyrics to \"Cop Killer\" in .plan file",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "free speech",
+        "university computing resources",
+        ".plan files"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 17 Jul 1992 21:26:41 GMT",
+      "from": "jaw@is.rice.edu (Joseph A. Watters)",
+      "item_count": 9,
+      "item_index": 6,
+      "message_id": "<1992Jul17.212641.18596@rice.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n35",
+      "subject": "Article 7--Re: putting lyrics to \"Cop Killer\" in .plan file",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Jul 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The user argues that academic freedom requires the freedom of personal expression to prevent administrators from arbitrarily defining what constitutes 'academic' speech.",
+        "The user cites Massachusetts law and the case Abromowitz vs. B.U. as potential legal protections for free expression on campus.",
+        "A counter-argument is made that university-owned equipment does not grant a right to a venue for personal expression."
+      ],
+      "organizations": [
+        "Boston University",
+        "EFF",
+        "League for Programming Freedom"
+      ],
+      "people": [
+        "Joe Wells",
+        "Joseph A. Watters"
+      ],
+      "summary": "Joe Wells defends his decision to post provocative song lyrics in a university .plan file against arguments that the institution has property rights over its hardware. The exchange debates whether tuition-paying students have a right to use university computing resources for personal expression and how this relates to academic freedom.",
+      "title": "Re: putting lyrics to \"Cop Killer\" in .plan file",
+      "topics": [
+        "censorship",
+        "university computing resources",
+        ".plan files",
+        "academic freedom",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "18 Jul 92 04:15:47 GMT",
+      "from": "jbw@bigbird.bu.edu (Joe Wells)",
+      "item_count": 9,
+      "item_index": 7,
+      "message_id": "<JBW.92Jul17231548@bigbird.bu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n35",
+      "subject": "Article 8--Re: putting lyrics to \"Cop Killer\" in .plan file",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Charging for Internet traffic by volume can prevent students and professors from engaging in international academic exchange.",
+        "High user fees shift control of the network toward government and corporate entities, marginalizing non-profit and individual users."
+      ],
+      "organizations": [
+        "CONICYT",
+        "Council of Rectors",
+        "University of Saskatchewan"
+      ],
+      "people": [
+        "Earl Fogel",
+        "Patricio Mason",
+        "Alberto Cabezas"
+      ],
+      "summary": "Patricio Mason reports that CONICYT, Chile's National Council on Science and Technology, implemented a per-megabyte charging model for international Internet traffic. The author argues that these high costs create barriers to academic freedom by restricting students and professors from communicating internationally. This shift is presented as a move that empowers corporate and government users while marginalizing individuals and non-profits.",
+      "title": "User fees for Internet use",
+      "topics": [
+        "Internet access fees",
+        "digital divide",
+        "academic freedom",
+        "Chile",
+        "network censorship"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 15 Jul 1992 09:34:25 GMT",
+      "from": "fogel@jester.usask.ca (Earl Fogel)",
+      "item_count": 9,
+      "item_index": 8,
+      "message_id": "<9207152134.AA18513@jester.usask.ca>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n35",
+      "subject": "Article 9--User fees for Internet use",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,981 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.37 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 37
+
+
+----------------------------------------------------------------------
+
+From: emr@eff.org (Elizabeth M. Reid)
+Subject: Article 0 -- Abstract of CAF-News 02.37
+
+[Week ending August 2nd, 1992
+
+   [Issues #28, #33, #34, #35, and #36 in production - Carl]
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+
+Notes 1 to 3 concern whether or not to grant access to a deceased
+user's account to the user's family.
+
+1. "Today we [had] a very interesting and sensitive situation arise --
+a user passed away and now the user's parents would like access to the
+user's account."  Given that I feel a user's account to be private,
+and that the account "may contain information that could be considered
+`sensitive' or `revealing'" what should I do?
+    <1992Jul23.215931.13522@menudo.uh.edu>
+
+2. The executor of the user's estate should have the legal right - and
+obligation - to inspect the user's account, along with all his or her
+other effects.
+    <1992Jul29.100142.21482@ms.uky.edu>
+
+3. I doubt that the user's heirs or executors have the right to *use*
+the account.  Whether they have a right to a copy of the files held in
+the account is more difficult to determine.  Some of the files might
+be the property of the owners of the machine.  It might be difficult
+to decide which files were the user's personal property and which were
+not.
+    <1992Jul29.215819.15965@news.iastate.edu>
+
+
+Notes 4 to 6 are part of a debate on censorship which has arisen in
+the wake of the refusal of some Canadian universities to carry
+alt.sex.* groups, and the publication of an article entitled
+"Computers Graphic When it Comes to Porn" in the Canadian newspaper
+_The Globe and Mail_.
+
+4. "There are three main questions here:... (1) Is there erotic
+material that, if it were readily available, would make some people
+more prone to commit acts of rape and child sexual abuse?... (2) Is
+the risk (in terms of infringement of general human rights) of
+censoring such material so high that we should allow it to be
+available anyway?... [and] (3) Where do you draw the line?"
+    <1992Jul31.235725.25121@cs.sfu.ca>
+
+5. "Don't shut people out of information, the more information we have
+the wiser we become... I propose that the elimination of a.s.b. was an
+elimination of a group comitted to the dissemination of information
+with regards to a consensual activity, that sought to avoid any damage
+to the psyche or body of it's practitioners.
+    <hurd.712717031@sfu.ca>
+
+6. This article, which seeks to correct the view of the Internet as a
+public medium for the dissemination of "sleazy" material, has been
+sent to the editor of the _Globe & Mail_.
+    <philip.12@SMU.StMarys.CA>
+
+
+Articles 7 to 9 are on miscellaneous subjects.
+
+7. "You have every right, as the administrator, representing the owner
+of the machine, to make certain restrictions.  Having Freedom of
+Speech doesn't obligate anyone to Provide the Soap Box.  But it won't
+do you a whole lot of good in the long run."
+    <18937@fritz.filenet.com>
+
+8. [Forwarded from the Computer Underground Digest] At a hearing this
+week before the National Commission on Library and Information
+Science, Computer Professionals for Social Responsibility (CPSR)
+recommended a privacy policy for the National Research and Education
+Network or `NREN.'
+    <9207281913.AA11355@herodotus.cs.uiuc.edu>
+
+9. The policy of the University of Kentucky's Engineering Computing
+Centre will be that "The installation of recreational network
+resources, such as MUD, Netrek, or IRC clients/servers, are explicitly
+prohibited UNLESS these programs include use restrictions based on
+time of day and number of users.  The installation of these resources
+may only be performed by ECC staff."
+    <1992Jul30.94721.2490@ms.uky.edu>
+
+- Elizabeth]
+
+
+In this issue:
+
+Paul S. Sears    53  Survey on user privacy
+Wes Morgan       37  >
+John Hascall     45  >
+Jamie Andrews   162  >"Computers graphic when it comes to porn"
+Peter L. Hurd   153  >
+Philip Howard    98  >"Computers graphic...", letter to the Globe
+                 60  >Articles violatating newgroups charter
+Carl M. Kadie    70  [Cu Digest] CPSR Recommends NREN Privacy
+Wes Morgan       72  >User services
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Jul 28 17:47:14 1992
+From: sears@tree.egr.uh.edu (Paul S. Sears)
+Subject: Article 1--Survey on user privacy
+Message-ID: <1992Jul23.215931.13522@menudo.uh.edu>
+Date: Thu, 23 Jul 1992 21:59:31 GMT
+
+
+
+Today we have a very interesting and sensitive situation arise -- a user  
+passed away and now the user's parents would like access to the user's  
+account.
+
+This is a situation that I have not had to deal with before.  There are some  
+ethical considerations that need to be understood.  I am wondering how other  
+Administrators/Managers have handled similar situations.
+
+1)  I consider a users's account to be "private" and that privacy would only  
+be compromised by their own choice (i.e., lend their password to a friend, not  
+acceptable under our computer usage policies, btw, but it does happen) or in  
+the event of a system/security problem.  Is privacy still an issue when the  
+user is deceased?
+
+2)  The account of the deceased user may contain information that could be  
+considered "sensitive" or "revealing."  And then it may not.  I am not in the  
+position to determine what is sensitive.  However, there may be information in  
+that account that the user would never want anyone to see.  But what about the  
+desire of the parents to claim his "personal" files, much like cleaning out  
+his office (this is being done also)?
+
+3) Is there legal recourse for the parents or relatives of the user if access  
+is denied?  
+
+4) The current policy of Academic Computing is that the only person who can  
+*legally* access an account is the one who signed the account application,  
+which means that the parents cannot be given access.  In essence I agree, but  
+shows a lack of compassion.  One manager suggested that I move all the users  
+files to removable media and then give the media to the parents and then  
+archive the account.  It is fairly obvious after searching through policies  
+and talking with various administrators and managers that this it not a common  
+problem.  Has any organization's computing policy explicitly cover this  
+particular situation?  If so and the policy was to completely deny access, was  
+that a decision that would legally hold water??  
+
+I would really appreciate hearing from those who have faced a similar  
+situation.  I would like to see this issue resolved fairly and ethically to  
+all parties involved.  
+
+
+I will provide a summary.
+
+--
+Paul S. Sears               * sears@uh.edu (NeXT Mail OK)
+The University of Houston   * suggestions@tree.egr.uh.edu (NeXT
+Engineering Computing Center*     comments, complaints, questions)
+NeXT System Administration  * DoD#1967 '83 NightHawk 650SC SSI#755020059
+"Programming is like sex: One mistake and you support it a lifetime."
+
+
+------------------------------
+
+From caf-talk Caf Jul 29 10:07:25 1992
+From: morgan@ms.uky.edu (Wes Morgan)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Article 2--Re: Survey on user privacy
+Message-ID: <1992Jul29.100142.21482@ms.uky.edu>
+Date: 29 Jul 92 14:01:42 GMT
+
+In article <1992Jul23.215931.13522@menudo.uh.edu> sears@tree.egr.uh.edu writes:
+>
+>Today we have a very interesting and sensitive situation arise -- a user  
+>passed away and now the user's parents would like access to the user's  
+>account.
+>
+>This is a situation that I have not had to deal with before.  There are some  
+>ethical considerations that need to be understood.  I am wondering how other  
+>Administrators/Managers have handled similar situations.
+>
+
+One of my coworkers recently discovered that one of this University's 
+systems still had an active userid for her father, who passed away in
+1988 (OK, so the bookkeeping isn't quite up to par).
+
+She will be approaching this situation from the legal standpoint of
+'executor's privilege'.  In most states, the Executor of an estate
+has, by law, access to ALL portions of the estate.  I would strongly
+suspect that this access would extend to online resources of the estate.
+
+After all, what if the deceased was working on a patent, book, or article
+that could have monetary value to the estate?  In such an example, the
+executor would have both the need AND the legal obligation to investigate
+those resources.
+
+Check with your local counsel; your mileage may vary.  
+
+--Wes
+
+-- 
+MORGAN@UKCC         |       Wes Morgan       |        ...!ukma!ukecc!morgan 
+morgan@ms.uky.edu   | Engineering  Computing |   morgan@wuarchive.wustl.edu
+morgan@engr.uky.edu | University of Kentucky | JWMorgan@dockmaster.ncsc.mil
+  Mailing list for AT&T StarServer S/E  - starserver-request@engr.uky.edu
+
+
+------------------------------
+
+From caf-talk Caf Jul 29 18:09:42 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: john@iastate.edu (John Hascall)
+Subject: Article 3--Re: Survey on user privacy
+Message-ID: <1992Jul29.215819.15965@news.iastate.edu>
+Date: Wed, 29 Jul 1992 21:58:19 GMT
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+}sears@tree.egr.uh.edu writes:
+}>Today we have a very interesting and sensitive situation arise -- a user  
+}>passed away and now the user's parents would like access to the user's  
+}>account.
+}She will be approaching this situation from the legal standpoint of
+}'executor's privilege'.  In most states, the Executor of an estate
+}has, by law, access to ALL portions of the estate.  I would strongly
+}suspect that this access would extend to online resources of the estate.
+}After all, what if the deceased was working on a patent, book, or article
+}that could have monetary value to the estate?  In such an example, the
+}executor would have both the need AND the legal obligation to investigate
+}those resources.
+
+I think there are two questions here, because the original poster didn't
+saw what "access" was:
+
+	access == use of the account
+
+	access == (a copy of) the files in the account
+
+I doubt my heirs would have any claims on the use of my account (and rightly
+so).  If it was something I paid, say, an annual fee for (at a public access
+site or some such), then perhaps they would (or a refund).
+
+As to whether they have claim to any of the files in my account is a stickier
+question.  It would not be unreasonable for an employer to claim that anything
+in my account was their property not mine (they bought it with my salary),
+hence my heirs would have no claim.  Now, if my employer graciously allowed
+me storage of personal files, then I would expect that my heirs would have a
+claim on those.  But they would have no more claim on the Ultrix source here,
+for example, then they would have on the desk in my office.  The question of
+the who/how/when of this division of property would be more difficult than the
+physical property in the office, I would think (it's pretty clear who owns the
+desk, the boombox, etc., but what the devil is "xyz.17jun92"?).
+
+John
+-- 
+John Hascall                                       ``Live with it pink-boy!''
+Project Vincent                                                              
+Iowa State University Computation Center                     john@iastate.edu
+Ames, IA  50011                                      515/294-9551 [fax -1717]
+
+
+------------------------------
+
+From caf-talk Caf Aug  1 21:18:05 1992
+Newsgroups: news.admin,alt.censorship,alt.comp.acad-freedom.talk,sfu.general
+From: jamie@cs.sfu.ca (Jamie Andrews)
+Subject: Article 4--Re: "Computers graphic when it comes to porn"
+Message-ID: <1992Jul31.235725.25121@cs.sfu.ca>
+Date: Fri, 31 Jul 1992 23:57:25 GMT
+
+     This non-"debate" is just amazing to me.  There's now a
+standard litany of extremizations, generalizations, and ad
+hominem attacks that gets trotted out every time someone objects
+to the Absolute Freedom of Speech party line.
+
+     The real "debate" content is about 1 percent.  It is very
+possible to disagree with me and truly make some sensibly-
+constructed counter-arguments.  To postings and email of this
+kind, I always respond seriously.  The rest of the postings and
+email, I either ignore or respond to with the ridicule they
+deserve.
+
+     Look.  There are three main questions here, and I seem to
+disagree with most people on these newsgroups (though not with
+most people in the world) about their answers.  Most of the rest
+is just hot air.
+
+			*	*	*
+
+(1) Is there erotic material that, if it were readily available,
+  would make some people more prone to commit acts of rape and
+  child sexual abuse?
+
+     I say "yes", many people say "no".  No one can "prove"
+this, *one way or the other*.  The researchers are the first to
+point out that their experiments don't "prove" anything.  But at
+some point we have to move from what the experiments show to
+public policy.  The decision to not ban, or unban, certain
+material is just as much an experiment-based decision as the
+decision to ban.
+
+     Read Donnerstein and Malamuth's studies, Zillman and
+Bryant's studies, and books like _Take Back the Night_ (which is
+anti-pornography) and _Men Confronting Pornography_ (which is
+not exclusively anti-pornography).  I defy anyone to still say,
+after reading such material, that there is *no* erotic material
+involving rape and sex with children which affects *anyone*
+adversely.
+
+     I'm not saying you will be affected, I'm not saying me,
+I'm not saying most people.  But there are some who will be
+affected, IMHO.  Which leads to the next question.
+
+			*	*	*
+
+(2) Is the risk (in terms of infringement of general human
+  rights) of censoring such material so high that we should
+  allow it to be available anyway?
+
+     I say "no", many people say "yes".  I have no doubt that
+the legalization of erotic material involving rape and sex with
+children would lead to the creation of widely-accessible shops
+and groups which distribute such material in such a way as to
+reinforce, not break down, certain people's tendencies to commit
+such acts.  There are already such groups, underground since
+such material is illegal (in Canada), and we can never eliminate
+them entirely; but we can at least restrict their accessibility.
+
+     In fact, I have no doubt that alt.sex.bondage and
+alt.sex.stories unwittingly serve such a purpose already, and
+that there are rapists and child molesters who read the stories
+and just ignore the discussions (too much of a turnoff).  The
+reinforcement of these people's tendencies, and the resulting
+real human misery, is too high a price to pay for some dogmatic
+ideal of absolute freedom of speech.
+
+			*	*	*
+
+(3) Where do you draw the line?
+
+     This is almost a non-question, since lawmakers, judges, and
+juries have been drawing lines like this for centuries.  My
+answer is that *I* don't draw the line, *they* do.
+
+     The existence of censorship laws is not going to lead to
+Stalinist repression of ideas any more than the existence of
+traffic laws has led to Stalinist restrictions on movement.
+The existing censorship laws will always lead to debate, and will
+always be on the dividing line between what some people think and
+what other people think.  That line has shifted a lot in recent
+decades.  It will probably shift some more.
+
+     I personally think the Canadian laws are not perfect,
+insofar as they lump pro-rape erotica and consensual spanking
+erotica together under "violence".  But I'm unlikely to get a
+law which I consider perfect.  Neither are you.  My opinions are
+not an attempt by me to control your reading, they are an attempt
+to contribute to public discourse on a legal point.
+
+			*	*	*
+
+     Those are the main points.  The rest is just babble, and
+the avoidance of these real discussions and the raising of the
+standard litany of non-arguments is the mark of someone who
+hasn't really thought things out.
+
+     The latest poster child of this kind is John Chapman, of
+right here at SFU.  I'll close with my comments to his postings,
+tuned to the level of his discourse.
+
+			*	*	*
+
+>Just who the hell do you think you are, that you think you can tell me
+>what to read?
+
+     You must be thinking of someone else.  I haven't been
+telling you what to read.
+
+> You want the ability to draw lines? Fine. I suggest
+>we only let people with 2 PhD's (or proven kernel hacking abilities -
+>just to be flexible :-) decide what can appear in newspapers, books,
+>movies etc.
+
+     Fine, peace be upon you.  Now go argue your position in the
+House of Commons, and see how far you get.
+
+> In fact people who want to control other people seem especially
+>dangerous - perhaps we should have them confined until they learn to
+>see things the *correct* way......hmmmm?
+
+     I think you should see the ship's counsellor about this
+paradoxical self-hatred you have.
+
+>>     What "idea" is contained in "Cindy's Torment"?  It's a
+>>piece of violent erotica.  You can't argue with it because it
+>>doesn't present any arguments; it just affects you by pressing
+>>sexual buttons, which are not subject to rational thought.
+>
+>Would you care to provide some proof for this assertion or is
+>it just an unctrollable emotional reaction not subject to rational
+>thought.
+
+     No.  (Er, I assume that was a question.)
+
+>You know, the very first thing university's ought to teach undergrads
+>is how frequently "common sense" leads to incorrect conclusions.
+
+     Great idea.  Second thing should be spelling.
+
+> Perhaps
+>the second (just to anticipate the usual attempt at supporting the
+>quoted argument above) ought to be the difference between correlations
+>and causal relationships.
+
+     Oh OK, spelling can be third.  But didn't you learn the
+difference between correlation and causation in university?
+I sure did.  No, come to think of it, I tell a lie.  I learned
+it in highschool.
+
+> The third might be some education on bullshit
+>research by people with an axe to grind.
+
+     Oh OK, spelling can be fourth.  But John, I would never ask
+you to accept any research like that.  Now go read Malamuth and
+Donnerstein and so on.
+
+--Jamie.
+  jamie@cs.sfu.ca
+"Every \item command in item_list must have an optional argument." LaTeX pg.168
+
+
+------------------------------
+
+From caf-talk Caf Aug  2 00:23:53 1992
+Newsgroups: news.admin,alt.censorship,alt.comp.acad-freedom.talk,sfu.general
+From: hurd@fraser.sfu.ca (Peter L. Hurd)
+Subject: Article 5--Re: "Computers graphic when it comes to porn"
+Message-ID: <hurd.712717031@sfu.ca>
+Date: Sun, 2 Aug 1992 00:57:11 GMT
+
+jamie@cs.sfu.ca (Jamie Andrews) wr
+ites :   [oops]
+
+>(1) Is there erotic material that, if it were readily available,
+>  would make some people more prone to commit acts of rape and
+>  child sexual abuse?
+
+alt.sex.stories would carry this stuff, and still does, alt.sex.bondage
+was a discussion group that dealt with the technical how to, how not to,
+how not to injure, or infect, how to get the most enjoyment out of, 
+consensual sexual activities of a minority interest.  The "erotic" material
+that most people would find objectionable are in groups still readily 
+available there at sfu on nn. (I don't find most of the colliding body
+net erotica to be a turn on, just to explain the scare quotes).
+What was removed was a book judged by it's cover.  I posted semi-regularly 
+on a.s.b., mostly to offer advice to those who asked for information about
+body peircing.  This is the spirit of the vast majoriy of what went on
+in a.s.b., advice on how to do what people want to do.  A.s.b. was by and
+for those who enjoyed (from both angles, all angles) what they were discussing.
+The aim was that everyone involved have the greatest time ever, and if
+everyone wasn't enjoying themselves then they should all stop and go bowling,
+or find a new hobby.  The whole point to a.s.b. was to make the giving of
+consent, and the open questioning of "normal" power relations inherant
+in sex appear in the foreground as something to step back and question.
+Is the removal of these groups going to have a beneficial or deleterious
+effect in the immediate future, damn right I think.  Aside from the larger
+abstractions, I can tell you that people will try things, be it tying
+up their consensual partner, or peircing their nipples.  Like abortion,
+it will be done, the question is only how much information and safety
+will be available to those who decide to do it.  The harmful effects of
+cheap frat boy fantasy porn has not been avoided, it's still out there
+in the bucket load, the harmful effects (the destruction of romance, and
+the explicit ignoring of loaded power relations) that a.s.b. was all
+about the challanging of, will be left there.  Don't shut people out of
+information, the more information we have the wiser we become, a mind
+pushed over the edge to rape is one that hasn't questioned the mainstream
+views on sex, and one that was bent way out of balance to begin with.
+	To make a clear debate point for you to consider, I propose that
+the elimination of a.s.b. was an elimination of a group; comitted to the
+dissemination of information with regards to a consensual activity, that
+sought to avoid any damage to the psyche or body of it's practioners, that
+activly sought to empower all the people who engaged in sex of a minority
+interest style by acknowleging the wisdom and accepatbility of consenting
+individuals exploring an alternative to the mainstream power abuse present
+in the sexroles learned from such depraved and pornographic sources as
+COSMOPOLITAN, GQ, FLAIR and whatever.  Conversely the attitudes that 
+encourage the worst of mainstream sexual power assymmetries, abuse &c
+are all cruising along as normal.  Thirdly that thought, not information is
+what produces attitudes, you do not raise pacifist children by keeping them
+away from cartoons, but if they are to deal construcively with conflict
+they must realize how stupid those cartoons are.  I've read some very
+good, thought provoking smut, dealing with responsability and weakness
+and strength via the net, but in order to question myself with such things
+I had to wade through a lot of cartoon sex, (I'm not saying it was worth it).
+
+>     Read Donnerstein and Malamuth's studies, Zillman and
+>Bryant's studies, and books like _Take Back the Night_ (which is
+>anti-pornography) and _Men Confronting Pornography_ (which is
+>not exclusively anti-pornography).  I defy anyone to still say,
+>after reading such material, that there is *no* erotic material
+>involving rape and sex with children which affects *anyone*
+>adversely.
+
+The adverse effect may be that the borderline porn of babies in makeup
+advertizing, or the perfume ads with prepubescent kids, then strike the
+individual as being deeply disturbing.  I won't defend such trash, but
+I wish you to realize that a.s.b. was NOT about such things, and such
+things are still on the net, and that a group explicity about consensual
+activities was removed in the guise of dealing with such material.  To 
+debate such a point WRT a.s.b. is a total straw man.
+
+>(2) Is the risk (in terms of infringement of general human
+>  rights) of censoring such material so high that we should
+>  allow it to be available anyway?
+
+	Is a group like a.s.b. to be removed because the activities
+it discusses have bad pr.  Is it O.K. to censor someone because the
+popular portayal of that person's beleifs are of something horrible.
+You are asking whether, for instance, someone who is thinking of
+putting a ring through their nipple, will have an avenue to information
+about the propper care and cleaning, because someone else has called
+it bondage, and a third person says that bondage means dragging children
+off the street and tying them up and torturing them.  There are
+lots of really gross and scary things that people do to each other, and
+it really disturbs me that people feel it is alright to force their
+will on someone else.  Dig that sentence?  Someone once said that
+censorship is mental bondage, it's say that to say such a thing is to 
+sully the name of something engaged in by caring consesual adults.
+	Is the risk of allowing the particulars of how to have anal
+intercourse safely and painlessly so high that such information should
+be kept secret?  What information, what material, is really being
+silenced here?  I think it is that of one of the most caring, loving,
+sexually open minded commuity of minority interested malcontents.
+You seem to think that child rapist propaganda has been silenced, it's
+as here as it ever was.  What isn't is gay/lesbian/stright sexual
+malcontents who aren't happy having the world tell them what is and
+is not acceptable behaviour in their bedrooms, or what is and is not
+acceptable accessories to use in their play.
+
+>     In fact, I have no doubt that alt.sex.bondage and
+>alt.sex.stories unwittingly serve such a purpose already, and
+>that there are rapists and child molesters who read the stories
+>and just ignore the discussions (too much of a turnoff).  The
+>reinforcement of these people's tendencies, and the resulting
+>real human misery, is too high a price to pay for some dogmatic
+>ideal of absolute freedom of speech.
+
+	How many people can't find mainstream propaganda in glossy
+magazines, or on tv or in popsongs advocating a truely unhealthy
+attitude.  But what has been silenced is a source of information 
+pertaining directly to the theory and practice of giving pleasure
+safely in a scary world.  The twisted minds have now triumphed by
+silencing the discussion, while the cartoons continue endlessly.
+Real human misery, is not being able to sexually please your partner(s)
+in the way that they would like.  I'm sorry that is way to strong,
+there is real horror being perpetrated by monsters in inhuman ways,
+and I do not wish to sound like I am excusing date-rapists, rapists,
+sexists, homophobes, or any of their ill ilk.  But why stifle attempts
+to produce happiness in a severely misunderstood underground, when it
+has no effect on the real villains?
+
+>			*	*	*
+
+>(3) Where do you draw the line?
+
+>     The existence of censorship laws is not going to lead to
+>Stalinist repression of ideas any more than the existence of
+>traffic laws has led to Stalinist restrictions on movement.
+
+       Wrong! it has just happened before your eyes.  The ideas just don't
+happen to be yours so you may have a hard time seeing it.  But the
+idea that one can transfer responsability to a lover by consenting to
+have your ability to directly move towards satisfaction has just been
+zapped.  What other ideas are gone with, I don't know, they might have
+been ideas worth pondering, if only to reject them, but how will I
+know?
+
+>			*	*	*
+
+>     Those are the main points.  The rest is just babble, and
+Hve you not here dismissed a view out of hand?
+
+>--Jamie.
+>  jamie@cs.sfu.ca
+>"Every \item command in item_list must have an optional argument." LaTeX pg.168
+-- 
+-- Pete Hurd, hurd@sfu.ca          |   Truth never set anyone free,          
+Behavioural Ecology Research Group |   it is only doubt which will           
+Dept.Biol.Sci., Simon Fraser Univ. |   bring mental emancipation.               
+Burnaby B.C. V5A 1S6 Canada        |               -- Anton LaVey                      
+
+
+------------------------------
+
+From caf-talk Caf Jul 29 15:36:38 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: philip@SMU.StMarys.CA (Philip Howard (Computer Services))
+Subject: Article 6--RE: "Computers graphic...", letter to the Globe
+Message-ID: <philip.12@SMU.StMarys.CA>
+Date: Wed, 29 Jul 1992 18:46:59 GMT
+
+The following letter was faxed to the Globe today. Not 30min. later I got a 
+call from Peter Moon, the reporter who wrote the article. He was still 
+chuckling... He admitted, though, that the Internet is a hard concept to 
+grasp (no ribald pun intended).
+
+
+
+
+
+                                                  610-5681 Rhuland Street
+                                                  Halifax, Nova Scotia
+                                                  
+     The Editor,
+     The Globe & Mail
+     Toronto, Ontario
+     Fax: (416) 585-5085
+
+     Dear Sir or Madam,
+
+     The following response to your front page "expos‚" of the Internet is
+     written in the style of a network article, or "post." On "the Net", quoted
+     passages are preceded by the '>' symbol (inserted automatically by software
+     when replying to a post). Puns or tongue-in-cheek remarks often end in a
+     "smilie", a sideways happy-face symbol made up of keyboard characters; eg,
+     :-). Critical remarks are known as "flames." Postings are usually far more
+     casual than is common with written correspondence. Acronyms like IMHO (In
+     My Humble Opinion) and BTW (By The Way) are used freely to the distress of
+     those new to the system, the "newbies." Postings usually conclude with
+     information about the poster. These signature lines, or "sigs", may include
+     sarcastic disclaimers along the lines of "The opinions expressed are not
+     necessarily those of my employer."
+
+     (Note: For correct spacing, reproduce the following in a mono-spaced font
+     like courier, 80 column page width.)
+
+     ----------------------Cut Here-----------------------------------
+     X-NEWS: husky1 can.globe&mail.sex: 50
+     Relay-Version: VMS News - V6.0-3 14/03/90 VAX/VMS; site husky1.stmarys.ca
+     Newsgroups: can.globe&mail.sex
+     Subject: Computers graphic when it comes to porn
+     From: phoward@husky1.stmarys.ca
+     Date: 27 Jul 92 13:46:50 -0400
+     Organization: St. Mary's University, Halifax, N.S., Canada
+     Lines: 50
+
+     In article<1992July20.frontpage@globe.to.ont>,"Computers graphic when it
+     comes to porn", Moon@globe.to.ont<"Peter Moon"> writes:
+
+     >Pornographic photographs and obscene stories... are available to
+     >virtually anyone in Canada with a computer and a telephone link.
+
+     Uh, well, nooo... unless one has purchased the network service, access is
+     not *publicly* available, Peter... as you confess later in the article. But
+     then that would not have grabbed your readers' ...uh... attention, right?
+
+     >Canadian universities enter the computer system that includes the
+     >controversial sex bulletin boards through Internet.
+
+     Peter, I think you really missed the mark on this one. Of the almost 3,000
+     *Usenet* (to be accurate) discussion groups with worldwide distribution,
+     you mentioned the three or four sleazy ones. In fact, Usenet discussion
+     groups or "netnews" is only one feature of this "network of networks."
+     Electronic mail, the speedy transfer of vast data files, and Internet
+     accessible library catalogs and databases make up a far greater portion of
+     network traffic. The Internet is a tremendous knowledge resource and your
+     article only covered the worst of it.
+
+     It was as if you had visited a foreign land and spent your entire visit at
+     the garbage dump! You overlooked the language and the culture. The Internet
+     is becoming, to employ a common phrase, a "distinct society." Its ethos is
+     people helping people, sharing information and computing resources, working
+     together in a way that outsiders cannot fully appreciate. We are not the
+     computer hackers of common lore. We come from all disciplines because every
+     field of endeavour benefits from improved access to information.
+     Future, faster networks like the Internet have been called "the critical
+     infrastructure of information superhighways" by one supporter, American
+     Vice Presidential candidate Sen. Albert Gore. IMHO the subject deserved
+     fuller coverage than that very narrow article which could only have been
+     meant to appeal the most prurient interests of your readers.
+
+     BTW, these comments will have been available to tens of thousands of people
+     by the time you get around to deciding whether or not to include them on
+     the Letters to the Editor page. They will circle the globe in can.general
+     and alt.comp.acad-freedom.talk :-)
+
+     Please direct any flames to my email box since I am not a regular reader of
+     can.sex.globe&mail... *wink* ;-)
+
+     -----
+     Philip M. Howard             | internet: phoward@husky1.stmarys.ca
+     Technical Support Analyst    |    voice: (902) 420-5481
+     Saint Mary's University      |      fax: (902) 420-5115
+     Halifax, Nova Scotia         | "Maintaining regularity
+     C A N A D A  B3H 3C3         |     without drugs or medication."
+
+
+
+------------------------------
+
+From caf-talk Caf Jul 28 18:00:55 1992
+Newsgroups: news.admin,news.groups,news.misc
+Subject: Article 7--Re: Articles violatating newgroups charter
+Message-ID: <18937@fritz.filenet.com>
+Date: 17 Jul 92 19:51:55 GMT
+
+Written in article <1992Jul13.223839.10459@opencon.com>
+ by news@opencon.com (News Admin):
+
+: As a reader of newsgroups, and as a administrator, few newsgroup violate
+: their Charter, for example soc.culture.indian, inclosed is the article.
+: Is there a way news administrators, especially in the universities, admin
+: to put up statements saying not to post any FLAMES, and if they see any
+: to warn the students/users/employees,etc. of such behavior.
+
+: I thought, that
+: as educated (technical) people, on the net we would know better??
+
+HAH!
+
+: When a newsgroup is created it has a purpose, i.e., it's charter.  If people
+: violate the charter, shouldn't something be done buy the "news" administrators,
+: even though the "group" by itself is unadministrated.
+
+Of course, you CAN do something about it.  You have every right, as the
+administrator, representing the owner of the machine, to make certain
+restrictions.  Having Freedom of Speech doesn't obligate anyone to Provide
+the Soap Box.  But it won't do you a whole lot of good in the long run.
+
+Issues of free speech aside, there's really little you can do about it,
+except post occasional friendly reminders.
+
+If people choose to ignore your reminders, what can you do?  If, as the
+administrator, you manage to "kill-file" anything coming into or going
+out of your site, folks will only manage to find other sites, or
+sneakier ways of slipping past your kill file algorithms.  It's more
+trouble, but if they really want to spew hatred, they'll find a way.
+
+You might as well try to out-law cross-burning on the private property
+of burner.  Sure it's disgusting, but unless you want to fine him for
+air pollution, there's nothing you can do.  So long as he's not burning
+the cross on someone else's property, it's legal, as it should be.
+
+If you pass a law against it, or try to force it to stop, they'll only 
+put up a full-size picture of a burning cross.  Not quite the same
+impact, but it gets the point across.  Forbidding that, they'll send
+hate-mail to select groups through the postal service.  In other words,
+you can't stop them from hating somebody by stopping them from express- 
+ing their hatred.  They'll simply find other, possibly more insidious,
+methods of expression.
+
+My point is that there really nothing you can or should do about it.
+Just post reminders now and then, send e-mail now and then, and hope for
+the best.
+
+-- 
+The Chipmunk.
+Opinions are mine, batteries not included, void where prohibited.
+The truth of a proposition has nothing to do with its credibility.  
+And vice versa.
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Jul 28 15:13:59 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 8--[Cu Digest] CPSR Recommends NREN Privacy
+Message-ID: <9207281913.AA11355@herodotus.cs.uiuc.edu>
+Date: Tue, 28 Jul 1992 09:13:46 GMT
+
+
+[Forwarded from the Computer Underground Digest]
+
+>Date: Fri, 24 Jul 1992 17:25:57 EDT
+>From: Dave Banisar <banisar@WASHOFC.CPSR.ORG>
+>Subject: File 10--CPSR Recommends NREN Privacy
+
+               CPSR Recommends NREN Privacy Principles
+                            (PRESS RELEASE)
+
+WASHINGTON, DC -- Computer Professionals for Social Responsibility
+(CPSR), a national public interest organization, has recommended
+privacy guidelines for the nation's computer network.
+
+At a hearing this week before the National Commission on Library and
+Information Science, CPSR recommended a privacy policy for the
+National Research and Education Network or "NREN."  Marc Rotenberg,
+Washington Director of CPSR, said "We hope this proposal will get the
+ball rolling.  The failure to develop a good policy for the computer
+network could be very costly in the long term."
+
+The National Commission is currently reviewing comments for a report
+to the Office of Science and Technology Policy on the future of the
+NREN.
+
+Mr. Rotenberg said there are several reasons that the Commission
+should address the privacy issue.  "First, the move toward
+commercialization of the network is certain to exacerbate privacy
+concerns.  Second, current law does not do a very good job of
+protecting computer messages.  Third, technology won't solve all the
+problems."
+
+The CPSR principles are (1) protect confidentiality, (2) identify
+privacy implications in new services, (3) limit collection of personal
+data, (4) restrict transfer of personal information,(5) do not charge
+for routine privacy protection, (6) incorporate technical safeguards,
+(7) develop appropriate security policies, and (8) create an
+enforcement mechanism.
+
+Professor David Flaherty, an expert in telecommunications privacy law,
+said "The CPSR principles fit squarely in the middle of similar
+efforts in other countries to promote network services.  This looks
+like a good approach."
+
+Evan Hendricks, the chair of the United States Privacy Council and
+editor of Privacy Times, said that the United States is "behind the
+curve" on privacy and needs to catch up with other countries who are
+already developing privacy guidelines.  "The Europeans are racing
+forward, and we've been left with dust on our face."
+
+The CPSR privacy guidelines are similar to a set of principles
+developed almost 20 years ago called The Code of Fair Information
+practices.  The Code was developed by a government task force that
+included policy makers, privacy experts, and computer scientists.  The
+Code later became the basis of the United States Privacy Act.
+
+Dr. Ronni Rosenberg, who has studied the role of computer scientists
+in public policy, said that  "Computer professionals have an important
+role to play in privacy policy. The CPSR privacy guidelines are
+another example of how scientists can contribute to public policy."
+
+CPSR is a membership organization of 2500 professionals in the
+technology field. For more information about the Privacy Policies and
+how to join CPSR, contact CPSR, P.O. Box 717, Palo Alto CA 94302.
+415/322-3778 (tel) and 415/322-3798 (fax).  Email at
+cpsr@csli.stanford.edu.
+
+
+
+------------------------------
+
+From caf-talk Caf Jul 30 09:53:19 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Article 9--Re: User services 
+Message-ID: <1992Jul30.94721.2490@ms.uky.edu>
+Date: Thu, 30 Jul 1992 13:47:21 GMT
+
+kadie@eff.org (Carl M. Kadie) writes:
+>betsys@cs.umb.edu (Elizabeth Schwartz) writes:
+>
+>[...]
+>>Funny you should mention that. We just drafted a rough policy file,
+>>adn one thing we put in is that providing public services is the
+>>responsibility of the administrators and must be approved by us.
+>[...]
+>
+>What criteria will you use? You will likely be pressured to use your
+>new authority to censor your users.
+
+I'm adding a similar paragraph to our policy (which, by the way, is
+*still* generating email comments; thanks, folks!).  My paragraph
+will apply to admins and users alike, with wording like this:
+
+     Publicly accessible network resources will be installed
+     ONLY by ECC staff.  Such resources must be directly re-
+     lated to the ECC mission, engineering education.
+     
+   * The installation of recreational network resources, such as 
+   * MUD, Netrek, or IRC clients/servers, are explicitly prohibited
+   * UNLESS these programs include use restrictions based on time of
+   * day and number of users.  The installation of these resources
+   * may only be performed by ECC staff; however, users are welcome
+   * to submit programs for inclusion in this category.  
+
+24-hour access will only be given to those network resources which
+directly relate to our mission.  Anonymous FTP would be an example
+of such a service; we don't have anything in our FTP archive that
+isn't related to the work of the College.
+
+The paragraph marked with "*" has been proposed as a compromise.  If
+it's 11:30 pm and there are only 5 people logged in, I don't think I'll
+have a problem with MUD/IRC/whatever usage.  During working hours, which
+I'll probably set as 0800-2200, I have to preserve the system for the
+(rather heavy) academic users.
+
+I'm writing the code to implement these restrictions; the algorithm looks
+something like this:
+
+	if(time > 2200 and time < 0700)  /* limit subject to tuning */
+		AND if(users logged in < 30)  /* subject to tuning */
+			AND if(recreational users < 15) /* subject to tuning */
+				allow access to game/MUD/IRC/whatever
+
+I would place all recreational resources under the umbrella of a "play"
+command; users might give the command "play irc" or "play nethack".  This
+scheme allows me to easily extract recreational users from the system 
+process lists.
+
+If the system turns out to be over- or under-utilized, I'll modify the
+"30 users" and "15 recreational users" limits accordingly.  These limits
+will probably "float" with the academic year; as finals week approaches,
+the academic use goes through the roof (all-nighters for final projects,
+et cetera).
+
+I believe that this approach will give us the best of both worlds; the
+recreational users can still have fun, but they cannot do so at the ex-
+pense of the academic users (unless the academic users come in at 2 am).
+
+I'm just happy that I finally have a system that can bear the recreational
+AND academic users; it's a luxury I have not enjoyed in the past.
+
+Comments?
+
+
+-- 
+MORGAN@UKCC         |       Wes Morgan       |        ...!ukma!ukecc!morgan 
+morgan@ms.uky.edu   | Engineering  Computing |   morgan@wuarchive.wustl.edu
+morgan@engr.uky.edu | University of Kentucky | JWMorgan@dockmaster.ncsc.mil
+  Mailing list for AT&T StarServer S/E  - starserver-request@engr.uky.edu
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

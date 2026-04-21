@@ -1,0 +1,568 @@
+Computers and Academic Freedom (news version)
+June 15, 1991
+Vol. 1, No. 12
+Editor: Carl M. Kadie (kadie@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your
+note will appear immediately on the caf-talk mailing list and in
+the alt.comp.acad-freedom.talk newsgroup.
+
+Back issues and a report on the number of CAF readers is available via
+anonymous ftp from eff.org. See file academic/README.
+
+[This compilation includes more discussion about GIF images
+of nude people. A correspondent tells how librarians deal with
+similar material. Also, sexual harassment issues are again addressed.
+
+Another note argues that the mistreatment of even a fraction of a
+system's users is important.  And a sys admin describes the
+inconvenience of creating and enforcing a formal policy.
+
+Finally, two related propositions are debated:
+    Resolved: Users should not be suspended or expelled from computer
+              systems as punishment for computer-policy infractions.
+    Resolved: The punishment that a computer administrator can impose on a
+              student should be not exceed that which an instructor can impose.
+
+- Carl]
+
+
+In this issue:
+
+kadie            73  >publicly-readable "adult"<>tate University CIS Policies)
+mojo!russotto    23  >OSU--not just for breakfast anymore
+Jane Fraser      54  >publicly-readable "adult"<>tate University CIS Policies)
+kadie            33  
+kadie            33  >publicly-readable "adult"<>tate University CIS Policies)
+treeves          71  OSU ACS policies & lack of them
+kadie            28  Punishment
+kadie            33  Punisher
+Neil Rickert     54  >Punishment
+junger@cwru      32  >
+Sanjay Kapur     42  >
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Mon, 10 Jun 1991 04:17:18 GMT
+Message-Id: <1991Jun10.041718.19730@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+Subject: Re: publicly-readable "adult" gifs (was Re: Ohio State University CIS Policies)
+
+fwp1@CC.MsState.Edu (Frank Peters) writes:
+[...]
+>A Doctor made issues of Playboy and Penthouse available to adult
+>patients in his waiting room (with precautions to prevent minors from
+>seeing them).  A nurse in his employ noticed an upswing in the number
+>of offensive comments and the like from patients.  When the doctor
+>refused to stop making the magazines available she filed suit claiming
+>that the distribution of the magazines in the office created an
+>environment in which she was much more likely to be sexually harrassed
+>even though the doctor did not in any way harrass her.  She won the
+>suit and the doctor was forced to stop making them available.
+[...]
+
+The case you sight (site?) is certainly a tough one. [Anyone have a
+reference?]
+
+I think the key to the case is that the nurse was able to make a
+reasonable case that she was actually being harassed (by the some of
+the patients) and that, with the removal of the magazines, this
+harassment would likely stop. The explicitness of the material was not
+(directly) relevent; if the magazines in question had been Readers'
+Digest and Highlights, the case would have been settled the same.
+
+Also, the freedom to read in a doctor's office is not considered
+important. In contrast, the freedom to read at a university or library
+is of the highest importance.
+
+(In a perfect world, the harassing customers and no one else would be
+accountable for their actions.)
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 10 Jun 91 15:08:02 GMT
+Message-Id: <1991Jun10.150802.29622@eng.umd.edu>
+Organization: College of Engineering, Maryversity of Uniland, College Park
+From: mojo!russotto@mimsy.umd.edu
+References: , <9106071728.AA03206@tillicum.frame.com>, <JGREELY.91Jun7185731@morganucodon.cis.ohio-state.edu>aarpa
+Subject: Re: OSU--not just for breakfast anymore
+
+In article <JGREELY.91Jun7185731@morganucodon.cis.ohio-state.edu> J Greely <jgreely@cis.ohio-state.edu> writes:
+>
+>With all due respect to Mr. Hogarth, I'm forced to say that it appears
+>he attended a different university than the one I've been kicking
+>around at for the past seven years.  I'm familiar with incidents that
+>fit his description, but they have mostly been the exception rather
+>than the rule.
+
+But of course-- most users behave like the sheep the sysadmins want them to be,
+they do their coursework, maybe send a little electronic mail across campus,
+and nothing else.  You only get trouble when someone pushes the system --
+accidentally or purposely, legitimately or not, creating some work for the
+system administrator.
+
+There are several hundred, maybe more than 1000 accounts of the type I have
+at the University of Maryland computer science center.  I know personally of
+about 5 people who have had negative run-ins with the system administrators.
+That's 1/2 of 1% -- looks good on paper, right?  Except when you realize that
+ALL the conflicts were handled badly.
+--
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+     .sig under construction, like the rest of this campus.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Tue, 11 Jun 1991 00:23:31 GMT
+Message-Id: <1991Jun11.002331.13159@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+Subject: Re: publicly-readable "adult" gifs (was Re: Ohio State University CIS Policies)
+
+[Reposted from comp.admin.policy - Carl]
+~From: jfraser@magnus.acs.ohio-state.edu (Jane Fraser)
+
+In article <1991Jun8.200358.13482@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>Refering to OSU's subscription to Playboy ...
+>
+>jgreely@morganucodon.cis.ohio-state.edu (J Greely) writes:
+>[...]
+>>I know; I checked too, before I posted.  I didn't have a chance to ask
+>>how they regulate access, although I note that it's currently recieved
+>>in the rare books room, which requires you to give your ID when
+>>requesting materials.
+>[...]
+>
+>It's my impression that materials such as Playboy are kept in places
+>such as the Rare Book room to protect the magazine from the reader,
+>not the reader from the magazine. (Playboy is prone to be stolen; a
+>vulnerable not shared by GIF files).
+>
+>Perhaps a real-life librarian can set Mr. Greely and me straight (just
+>send e-mail to caf-talk@eff.org).
+>-- 
+>Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+>
+
+I happened to have lunch today with Bill Studer, Director of the
+Libraries here at Ohio State.  Playboy is available only by
+temporarily trading your student/faculty/staff ID for it, but anyone
+may read it.  The only age limit imposed would be that the person
+would have to be able to reach the counter to present his/her ID. :-)
+
+The librarians assembled (most of the OSU Library administration) were
+strong in their remarks that librarians everywhere believe in
+unregulated access to library materials.
+
+By the way, the OSU Library is believed to be the only place with a
+complete collection of Hustlers.  Someone in sociology needed them for
+research and used research funding to assemble the back collection.
+The researcher gave it to the library on condition that they maintain
+a subscription to keep the collection up-to-date.
+
+Jane M. Fraser
+Co-Director
+CAST, Center for Advanced Study in Telecommunications
+The Ohio State University
+210 Baker Systems, 1971 Neil Avenue
+Columbus, OH 43210
+614-292-4129
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Tue, 11 Jun 1991 01:20:24 GMT
+Message-Id: <1991Jun11.012024.13653@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+
+References (David, Lassner), <CMM.0.88.676574793.david@uhunix1.uhcc.Hawaii.Edu>
+~Subject: Re: publicly-readable "adult" gifs (was Re: Ohio State University CIS Policies)
+
+david@uhunix.uhcc.Hawaii.EDU (David Lassner) writes:
+
+>Using Playboy as the example makes it too easy.  That's clearly a mainstream
+>magazine. Extend the analogy to harder-core material (including the kind of
+>stuff that brings on criminal proceedings in many states) and scanned bitmaps
+>of copyrighted information.
+
+>Then questions might become: how many University libraries subscribe to
+>Penthouse Letters?  How many audio-visual collections make animal porn widely
+>available?  How many computer labs on campus distribute pirated software?
+[...]
+
+According to earlier note, the Ohio State Univeristy library
+subscribes to Hustler. The Chicago Theological Seminary library
+collection includes the "The Joy of Lesbian Sex".
+
+Your other point is well taken. A univerisity can certainly prohibit
+illegal activity on its campus. I would hope, however, the university
+would act even handedly. Remember a scanned picture of Calvin and
+Hobbs is just as bad (with repect to copyright) as a scanned picture
+from Playboy. Also, I note that next to many university photocopiers
+is an explaination of copywrite law. There is not, however, a guard.
+Also, I have never heard of a university searching assigned office
+space or dorm rooms for material photocopied in violation of someone's
+copyright.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Tue, 11 Jun 1991 01:23:52 GMT
+Message-Id: <1991Jun11.012352.13809@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <5B1F32269020908C@ccmail.sunysb.edu>
+Subject: Re: publicly-readable "adult" gifs (was Re: Ohio State University CIS Policies)
+
+I write:
+>(In a perfect world, the harassing customers and no one else would be
+>accountable for their actions.)
+
+SKAPUR@ccmail.SUnysb.EDU (Sanjay Kapur) writes:
+> In a perfect world, there would be no harassment of the receptionist at all.
+
+I condemn sexual (and every kind of) harassment and don't defend the
+display of offensive material in the classroom, lab, or office. In my
+opinion, the solution is to prohibit the offensive display (i.e.
+prohibit the harassment), not to ban the offensive material (electronic
+book burning.)
+
+SKAPUR@ccmail.SUnysb.EDU (Sanjay Kapur) writes: 
+
+>Personally, I believe that ALL Anti-Pornography laws are
+>unconstitutional.  (I AM NOT A LAWYER, PERSONAL OPINION ONLY)
+
+>Officially, I am sworn to uphold the constitution and all the laws of
+>New York state and of the United States and so my oath requires me to
+>uphold even Anti-Pornography laws.
+
+We need to be clear with our terms here. I know of no laws against
+"pornography", only laws against "obscenity".  Most pornography (the
+nonobscene stuff) is protected by the first amendment. Especially, in
+New York :-)
+
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Wed, 12 Jun 1991 15:26:31 GMT
+Message-Id: <1991Jun12.152631.6126@magnus.acs.ohio-state.edu>
+Organization: The Ohio State University
+From: cis.ohio-state.edu!magnus.acs.ohio-state.edu!treeves@uunet.uu.net
+Subject: OSU ACS policies & lack of them
+
+	Sbrack says academic computing services at OSU has no policy - 
+interesting comment since I have read that policy and I have been told
+(by one who knows) that mr brack signed a copy (possibly after the hpuxa
+incidents which I have no firsthand knowledge of)
+	
+	I do know that we have a number of file servers on microcomputer 
+networks which normaly do not have student accounts. In 4 labs for classes
+ we have generic numbered accounts which are issued for a quarter at a time.
+ For this we have no written policy just an understanding with the faculty
+(who are to tell students) that this is class use only.
+	In this case we HAVE operated on trust and common sense. After a
+couple of years of this we have had only a few very minor incidents, with
+one exception.
+	 In 3 of 4 labs we have had NO TROUBLE WHATSOEVER. Not a SINGLE file
+stored on a server that was not a product of the class. The minor incidents in
+the one lab were a couple games stored on server, which I dumped. 
+	The one exception was mr brack who IMO severely abused his access
+and suggested the solution was force (enforced quotas) rather than good old
+trust and common sense. Appleshare servers do not in fact offer that option,
+but I would use it if I could.
+	Thanks to mr brack what we may be forced to do is give every student
+in all those classes a written policy statement and possibly make them sign
+them and turn them in before we allow access.
+	You see, mr brack forced us to take action, but he can correctly state
+that he recieved no written policy and we had no formal procedure (i am talking
+about the micro servers ONLY). None has been needed.
+	 This puts us in an awkward posiiton and while he may not believe
+it we are VERY concerned about academic freedom, privacy of computer files and
+generaly avoiding stupid rules and restrictions. 
+	This would be a significant chunk of extra work which I do not have
+time for. Therefore my service to students (and that's what my job boils down
+to) in other areas would be reduced.
+	Who benefits? An informal system of trust will be replaced with rigid,
+very strict rules and a stupid waste of paper.
+
+	We will try to get away with just posting a sign in the lab
+saying only class work may be stored on server. Progams will be deleted
+without notice. Documents will NOT be read to determine class relatedness, but
+if we think the amount is excessive we will ask via instructor (I don't have
+students names) for them to clean up. After a short period we will remove 
+oldest files if they don't clean up.
+
+	Is the sign idea adequate  ? what do you all think
+
+
+-- 
+ _____________________________________________________________________________
+|                   That's my story, and I'm sticking to it!                  |
+|_____________________________________________________________________________|
+| Microcomputer software support,     |   treeves@magnus.ACS.OHIO-STATE.EDU   |
+
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Fri, 14 Jun 1991 18:55:03 GMT
+Message-Id: <1991Jun14.185503.29844@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+Subject: Punishment
+
+Resolved: Users should not be suspended or expelled from computer
+systems as punishment for computer-policy infractions.
+
+[My mind is still open on this question, but for the sake of debate,
+I'll try to make the case.]
+
+The most common punishment for a computer-policy infraction seems to
+suspension or expulsion from the computer. I think think is often
+inappropriate and harsh.
+
+It is inappropriatate because the computer system, like the library, is
+not a treat for rewarding good students; rather it is an indispensable
+educational resource.
+
+When punishment is motivated by a desire to set an example for others
+or as response to an hysterical fear of so-called hackers, it is often
+overly harsh.  Disciplinary action should respond to the indent of
+the student and the damage caused by the student, not outside pressures
+In developing responsible student conduct, disciplinary proceedings
+play a role substantially secondary to example, counseling, guidance,
+and admonition. For example, a written warning with a copy to the
+student's file may suffice.
+
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Fri, 14 Jun 1991 19:27:22 GMT
+Message-Id: <1991Jun14.192722.339@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+Subject: Punisher
+
+Resolved: The punishment that a computer administrator can impose on a
+student should be not exceed that which an instructor can impose.
+
+In 1904, the student regulations at the University of Illinois allowed
+an instructor to punish a rule infraction by suspending a student from
+class for up to three days. Such suspensions had to be reported to the
+President immediately.
+
+Today, an instructor can lower a grade or give the student a written
+warning with a copy going to the student's file. An instructor cannot
+suspend or expel a student (but can, of course, recommend such
+action).
+
+This policy is wise; it is a check against overly harsh punishment. (A
+suspension from the classroom, computer, or campus is serious because
+it may prevent a student from completing a required homework or
+test.)
+
+Today (not at U of Illinois that I've heard of, but at other places),
+computer administrators expel students from the computers. The
+expulsion are often indefinite. There is often no report made
+to anyone outside the computer organization. The student
+is given no explanation of his or her rights (apparently because
+computer administrator believes that the student has no rights.)
+
+Computer administrators should work under the same constraints
+as instructors. They should not be allowed to punish a student
+with suspension or expulsion for the computer system.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Message-Id: <199106142048.AA30684@mp.cs.niu.edu>
+Subject: Re: Punishment
+Newsgroups: info.academic-freedom
+Organization: Northern Illinois University
+Date: Fri, 14 Jun 91 15:47:59 -0500
+From: Neil Rickert <rickert@cs.niu.edu>
+
+In article <1991Jun14.185503.29844@eff.org> Carl Kadie writes:
+>Resolved: Users should not be suspended or expelled from computer
+>systems as punishment for computer-policy infractions.
+
+ Resolved: Drivers shall not have their licenses suspended or cancelled
+as punishment for driving infractions (including, but not limited to,
+DUI).
+
+>The most common punishment for a computer-policy infraction seems to
+>suspension or expulsion from the computer. I think think is often
+>inappropriate and harsh.
+
+ The most common punishment for drunk driving seems to be suspension or
+cancellation of driving privileges.  I think it is innappropriate and harsh.
+
+>It is inappropriatate because the computer system, like the library, is
+>not a treat for rewarding good students; rather it is an indispensable
+>educational resource.
+
+ It is inappropriate because the highways are not a treat for rewarding
+good drivers, but are an essential transportation requirement of our
+modern society.
+
+>When punishment is motivated by a desire to set an example for others
+>or as response to an hysterical fear of so-called hackers, it is often
+
+----------------------------------
+
+ I know you are going to disagree with the comparison, although I think it
+is really not that far off.
+
+ The whole trouble with your view is your emphasis on PUNISHMENT.  If you
+strictly mean that, I agree.  Removal of computer resources, or of driving
+privileges, as punishment is usually not appropriate.  But when a drunk
+driver loses his license the usual purpose is not punishment, but the
+protection of other drivers, and sometime just to get a message to the
+driver as to the seriousness of his actions.  Likewise when a student
+computer privileges are suspended it is usually to prevent his further
+harm to other users, or to bring matters to his attention.
+
+ On this system I have students whose phone number is not available to me
+because the student has decided to keep this private.  I have students who
+never read their mail.  When I suspend their account in such a way that
+the next time they log on they see a message explaining why the account was
+suspended, and what action they must take to resolve the present problem and
+to avoid recurrences, I get their attention in a manner not otherwise
+possible.
+
+--
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+  Neil W. Rickert, Computer Science               <rickert@cs.niu.edu>
+  Northern Illinois Univ.
+  DeKalb, IL 60115                                   +1-815-753-6940
+
+From: junger@cwru.cwru.edu
+Message-Id: <9106142225.AA03883@eff.org>
+Date: 14 Jun 91 18:21:00 EST
+Subject: Re: Punishment
+Cc: junger@cwru.cwru.edu
+
+	Once again the question of due process confronts us.  It is
+one thing to suspend a student's account when he is apparently doing
+something that puts the system at risk, until the matter can be
+straightened out.  It is something quite different to expel a student
+from the system as a punishment.  
+	Suspensions of the first sort must, of course, be done by
+those responsible for the system, but they should never be punitive and
+they should only be for the amount of time necessary to straighten the
+matter out.
+	I do not see how it can ever be an appropriate punishment for a
+student to be permanently expelled from a computer system (or a library) if 
+access to the system (or library) is necessary for the student's course work.
+I am sure that it is never appropriate for computer system administrators
+to be the one who punish students, or anyone else.  Punishment is
+a matter within the jurisdiction of deans of students, student honor courts,
+and similar institutions, not systems administrators.
+	It may, of course, be appropriate for systems adminsitrators to
+file complaints against a student who is accused of violating the rules
+relating to computers, but the ststems administrators should only
+serve as complaining witnesses not as judges, and the student who
+is accused is entitled to due process in such a case.
+	The real difficulty is getting the faculty and administrators
+who are not sophisticated in the ways of computers to understand
+that there is no significant distinction, as far a punishment of
+students is concerned, between access to academic libraries and access
+to academic computers.
+
+Peter D. Junger
+Law School
+Case Western Reserve University
+------
+
+Date: Sat, 15 Jun 1991 15:36 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Subject: Re: Punishment
+Message-Id: <AF2446734020F454@ccmail.sunysb.edu>
+X-Organization: State University of New York, Stony Brook
+X-Vms-Cc: SKAPUR
+
+>Mr. Kapur demonstrates an almost poetic ability to come up with weird
+>anologies.  He has persuaded me that the concern I expressed in my
+>original posting was too limited.  Another real problem is the inability
+>of computer systems administrators to understand complicated concepts like 
+>fairness or due process. 
+>
+>Peter D. Junger
+>CWRU Law School
+>------
+
+The reason is very simple.  Systems Administrators are not appointed for their
+ability to understand those concepts.  The reasons are historical.  Most of 
+the bosses of systems administrators came from the old MIS background of 
+financial data processing, payroll and similar applications.  Due process 
+is just not relevant in those computer applications.  I know of several 
+instances across the country where systems administrators got into trouble 
+with their boss for allowing "free expression" on the computer bulletin 
+boards.
+
+The supposed lack of ability to understand democratic concepts that you very 
+gratiously attribute to systems administrators is unfair and is stereotyping a 
+whole group of people.
+
+It is very easy for a (highly paid) lawyer to ask the Systems Administrator to 
+do something for which a systems administrator is most likely to get fired.  
+Not suspending a trouble maker's account who then proceeds to lock out the 
+University President from the computer is most probably going to put me out of 
+a job.  Are you or the ACLU going to come to my defense then?
+
+For fairness and due process to work in the real world:
+
+BEFORE A USER CAN GET DUE PROCESS, SYSTEMS ADMINISTRATORS HAVE TO BE PROTECTED.
+
+
+I will NOT stick my neck out for someone to chop it.  Give me good armor to 
+protect my neck, and I will stick out my neck to defend due process.
+
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+

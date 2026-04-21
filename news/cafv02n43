@@ -1,0 +1,2534 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.43 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 43
+
+
+----------------------------------------------------------------------
+
+From: barnhart@ddsw1.mcs.com (Aaron Barnhart)
+Subject: Article 0 -- Abstract of CAF-News 02.43
+
+Topics:
+
+   1-6    review issues related to decisions by certain Canadian
+               universities to ban newsgroups on grounds they contain
+               pornography
+   7-8    offer points of view from two sysadmins weighing issues of
+               community responsibility versus issues of academic freedom
+   9-10   profile two system-snooping programs that recently made the news
+   11     reviews an Electronic Frontier Foundation forum regarding the
+               future of NSFNet, the Internet's backbone
+   12     a statement by the Computer Professionals for Social
+               Responsibility (CPSR) regarding the future of communications
+               privacy
+
+
+Abstract:
+
+[Best of August 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the articles,
+or QUOTES from them, NOT AN OBJECTIVE SUMMARY and not necessarily my
+opinion. The selections are based on earlier abstracts
+by Elizabeth and me.
+===============================================================
+
+  [We need new guest (or regular) editors, for information send
+   email to kadie@eff.org.  - Carl]
+
+Notes 1-6 review issues related to decisions by certain Canadian
+universities to ban newsgroups on grounds they contain pornography.
+
+1.  "Following some unfavourable publicity, the University of Manitoba banned
+all newsgroups dealing with sex.  This kind of heavy-handed reaction is
+deplorable.  [...] An enlightened policy would treat electronic media in the
+same way that libraries treat written material.  Library acquisition policies
+have a strong history of ensuring access to all materials legally obtainable,
+and of not unjustly excluding material on the grounds that it might be
+offensive to some people.  The ultimate choice of what to read can and should
+rest with the readers themselves."
+	<1992Aug24.205712.7453@zooid.guild.org>
+
+2.  "Here is some of the history of government [U.S., U.K., Canada]
+suppression of sexual materials. I think history shows
+that such suppression is relatively new and that it exists in spite
+of, not because of, scientific evidence."  (Includes references.)
+	<1992Aug7.151318.9822@eff.org>
+
+3.	And to supplement the items in the previous note: "Here is a
+repost listing many studies that tested the [U.S.] Meese [Commission
+on Pornography's] conclusions scientifically. (Many of the studies
+were done in Canada.)"  (Very long bibliography follows.)
+	<1992Aug7.151709.9915@eff.org>
+
+4.	Carl Kadie wants to know: "Has textual material been found to
+be obscene in Canada or the U.S. since _Ulysses_?"  A reader replies,
+"Yes," and offers numerous examples.  (Includes references.)
+	<TSDAVIES.92Aug13021657@rodan.syr.EDU>
+
+5.  A Simon Fraser University student's response to newsgroup
+cancellations at her university: "The question of censorship is a
+tricky one, however, because censors after all, exist to censor, and
+they don't usually act in the interests of women when they doit - they
+act as representatives of the state, and this is problematic to say
+the least. [...] I'm not so sure the discussion groups should have
+been cancelled, since these were often a legitimate forum for
+discourse, and do not intrude on people wandering through a given lab
+in the way that an unencoded .gif file has a way of doing."
+	<1992Aug15.213252.22415@sfu.ca>
+
+6.  "I read recently in UBC Reports that the [University of British
+Columbia] President has 'asked all UBC units to ensure that university
+property is not being used to gain access to, create, or store (such)
+pornographic material on university computing equipment'. I am
+disturbed by the possibilities in this. [...] Given operator
+privileges, it would be easy to write programs that would scan users
+files and mailboxes for keywords, according to some particular scheme
+of sexual or political censorship."
+	<21AUG199215492898@reg.triumf.ca>
+
+Notes 7-8 offer points of view from two sysadmins weighing issues of
+community responsibility versus issues of academic freedom.
+
+7.  A UMass-Boston sysadmin: "We alow folks to have ANYTHING THEY WANT in
+their private files and to make ANYTHING THEY WANT publicly readable. They
+may create any mailing list they want, and post to usenet within the standard
+guidelines distributed in Comp.news.newusers etc. ALL we are limiting is what
+may be displayed in certain public, unsolicited areas... mainly finger (which
+is considered a systems tool) and publicly visible X-terminal screens. If
+someone wanted to post the lyrics to cop killer, we would NOT ban it from the
+system, we would just ask them to replace the message with a pointer to a
+publicly readable file. [...] I think it's analagous to making users check
+out a library book, or take the book from an open stack, as opposed to
+posting the contents of the book on the walls. If we limited access in any
+way, or made users go through any paperwork to get acess, I think that would
+be censorship."
+	<BETSYS.92Aug3155829@ra.cs.umb.edu>
+
+8.  A Mount Holyoke sysadmin: "I have decided that for the time being I will
+continue my current policy of carrying everything, and if I am challenged on
+it by my superiors, will strongly recommend AGAINST restricting the flow of
+News through our system in any way." Among the reasons why: "It seems likely
+that the legal responsibility for distributing copyrighted material rests
+with the poster. [... And:] If (when) this issue does result in law-suits, it
+is unlikely to be here at my small institution, and more likely will involve
+an organization such as UUNET which is already prepared for this eventuality
+and has formalized it's policy on the issue."
+	<BszA6L.2E9@mtholyoke.edu>
+
+Notes 9-10 profile two system-snooping programs that recently made the
+news.
+
+9.	"Questions have been raised about a program used by Computing
+Services to find profane file names. [...] Hart Bezner, Director of
+Computing Services [at Wilfrid Laurier University], said the program
+operated routinely during the mid-eighties, 'but it [the language]
+cleaned up so we quit looking.' [...] Bezner, however, was not
+explicit as to what was done with the results from the program. A
+former Laurier student [...] said that when he contacted Computing
+Service, he was told he would have to get a new [password]: "They said
+that the computer went through and deleted nasty words".
+	<1992Aug13.182157.5688@m.cs.uiuc.edu>
+
+10. Then there's Crack, the password-cracking program.  What should
+sysadmins' position be toward users found to possess it?  "I've been a
+sysadmin for 4 years, and I've used Unix for 11 years.  However, many
+sites' admins are inexperienced; indeed, many of them become sysadmins
+by default. [...] Many of those novice sysadmins depend on the
+assistance of their more experienced colleagues. In some ways, we
+*are* our 'brother's keeper'. I believe that I, as a sysadmin, have a
+certain obligation to the other systems using our common network(s).
+Why should I allow my system to be used as a 'forward base' from which
+to attack other systems?  Should I adopt an attitude such as 'well,
+he's not cracking MY password file, so I don't care'?  [...] shouldn't
+I prevent it in the first place, if such a goal is (relatively)
+attaniable?"
+ 	<1992Aug27.115813.28741@ms.uky.edu>
+  
+Note 11 reviews an Electronic Frontier Foundation forum regarding the
+future of NSFNet, the Internet's backbone.
+
+11.  "Two major themes emerged from the nearly six hours of discussion
+[...]  First, there has been substantial lack of shared understanding
+about some of the draft's key elements," namely many unexplained
+technical terms and concepts of the new NSFNet.  Second, regarding the
+bidding process to determine the vendor that will support NSFNet for
+the next few years, "the draft has no guidelines to suggest how bids
+will be evaluated," nor is there one word about NSFNet's relationship
+to the next-generation federal National Research and Education
+Network, which is eventually expected to displace it.  "The draft also
+fails to illuminate how the NSF determines when a technology is no
+longer 'experimental' and can be provided commercially without further
+government funding."
+	<1992Aug19.150341.18832@eff.org>
+
+Note 12 is a statement by the Computer Professionals for Social Responsibility
+(CPSR) regarding the future of communications privacy.
+
+12.  "We anticipate that there will be three different types of privacy
+problems as the NREN" -- which eventually will succeed NSFNet as the backbone
+of the Internet -- "continues to evolve.  First, as commercial organizations
+become users of the network, they will gather personal data, and wish to sell
+lists.  The address files for list servers could be sold, and users may find
+themselves 'subscribed' to lists they have no interest in. [...] Second,
+efforts to promote competitiveness in the  delivery of network services may
+also lead to the disclosure of network data which will compromise user
+privacy. [...] The disclosure of Customer Proprietary Network Information
+(CPNI) has already surprised many telephone customers who now receive calls
+from companies with whom they  have no prior relationship.  These companies
+are able to describe the customer's telephone calling habits in great 
+detail.  Users of NREN services are also likely to object to the disclosure
+of network information. The third problem is that law enforcement agencies
+are likely to make 'greater demands' on communication service  providers to
+turn over records of electronic communications to the government and to
+provide assistance in the execution of warrants." (Includes CPSR
+recommendations.)
+	<1992Aug30.202432.22763@eff.org>
+
+- Aaron]
+
+
+Contents:
+
+Dronon Brassmane 49  Censorship Update
+Carl M. Kadie   188  >"Computers graphic when it comes to porn"
+Carl M. Kadie   690  >
+Real life Ha!   145  >
+Theresa Kiefer  117  >
+A.Daviel         43  Searching for computer porn at UBC
+E Schwartz       43  >putting lyrics to "Cop Killer" in .plan file
+Jurgen Botz      61  Follow-up: illegal material in newsgroups
+Carl M. Kadie   103  WLU sys admins search out "nasty" filenames and passwords
+Wes Morgan       88  >Policy regarding Crack
+Rita M Rouvalis 253  EFFector Online 3.2 -- Future of NSFNet
+Carl M. Kadie   402  NREN Privacy Policy Proposal by CSPR
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: John F. Nixon (fnixon@sol.utc.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Aug 25 08:04:15 1992
+Newsgroups: alt.sex
+From: Dronon Brassmane <dronon@zooid.guild.org>
+Subject: Article 1--Censorship Update
+Date: Mon, 24 Aug 1992 20:57:12 GMT
+Message-ID: <1992Aug24.205712.7453@zooid.guild.org>
+
+
+     Some time ago you'll recall the "Congratulations!  You've made the
+evening news!"  subject header and a couple of other subjects involving an
+article in Toronto's Globe & Mail newspaper and a broadcast about alt.sex
+and related uucp newsgroups on City-TV... in today's Globe & Mail there is a
+letter in the editorials page, A14, reproduced like this:
+ 
+Avoid censorship
+ 
+Re Computers Graphic When It Comes To Porn (July 20):
+  Computer newsgroups offer a forum for the exchange of information and ideas
+to hundreds of thousands of people.  It is an important and growing new
+resource, which may eventually supplant much of the traditional written media.
+  Among the most popular discussion groups are those dealing with sex.  Some
+of the posted material is extremely valuable, some of it juvenile, some of it
+may be offensive to some people, and a tiny fraction of it may be illegal
+under Canada's definition of obscenity.  Unfortunately, the latter has drawn
+the most media attention.  Discussions about AIDS, birth control, sexual
+lifestyles, and common misperceptions about sex have received little or no
+attention.
+  Following some unfavourable publicity, the University of Manitoba banned all
+newsgroups dealing with sex.  This kind of heavy-handed reaction is
+deplorable.  It can be likened to using a sledgehammer to kill a fly.  If a
+university feels obliged to screen illegal material, this can be accomplished
+automatically based on the content or origin of an article.  Anything more
+than that is censorship, and is against the academic tradition of intellectual
+freedom.
+  An enlightened policy would treat electronic media in the same way that
+libraries treat written material.  Library acquisition policies have a strong
+history of ensuring access to all materials legally obtainable, and of not
+unjustly excluding material on the grounds that it might be offensive to some
+people.  The ultimate choice of what to read can and should rest with the
+readers themselves.
+                      P.G. Blunden, Winnipeg
+
+
+
+(When the July 20 article came out, I kept a watch of articles in response to
+it... when none came in the following week or so, I gave up, but I luckily
+stumbled across the above article accidentaly this morning during breakfast.
+Has anyone else heard of other reactions to the TV and newspaper coverage?)
+ 
+Tom Turrittin / Dronon Brassmane
+tthomas@vm1.yorku.ca / dronon@zooid.guild.org
+"He never said anything, but he always managed to say too much.  And that's
+what counts."
+
+
+------------------------------
+
+From caf-talk Caf Aug  7 11:13:25 1992
+Newsgroups: news.admin,alt.censorship,alt.comp.acad-freedom.talk,sfu.general
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 2--Re: "Computers graphic when it comes to porn"
+Message-ID: <1992Aug7.151318.9822@eff.org>
+Date: Fri, 7 Aug 1992 15:13:18 GMT
+
+jamie@cs.sfu.ca (Jamie Andrews) writes:
+[...]
+>     Then how was it that _Playboy_ (which didn't even show
+>pubic hair) was banned for so long, in so many places, under
+>the US Constitution + First Amendment?  And that so much other
+>material was banned for decades before that, under the same
+>US Constitutional + First Amendment?  I think everyone has always
+>recognized that "freedom of speech" is subject to balance with
+>other freedoms and rights that people enjoy; what gets banned
+>depends on the mores of the time.
+[...]
+
+What right is being defended when my speech banned because of your
+mores. The "right" not to have other people violate your mores? If
+there is such a right then there is no room for other rights.
+
+Censors often claim that they are balancing the right not to be raped
+or the right of equality against the right of free expression. If so,
+they have their thumb on the scale.
+
+Here is some of the history of government [U.S., U.K., Canada]
+suppression of sexual materials. I think history shows
+that such suppression is relatively new and that it exists in spite
+of, not because of, scientific evidence. I'll follow this up in a
+second article that lists some of the scientific evidence.
+
+[Sources:
+ 
+   ACLU Handbook: The Rights of Authors and Artists by Kenneth
+       P. Norwick and Jerry Simon Chasen
+ 
+   The First Amendment Book by Robert J. Wagman]
+
+"[T]he suppression of explicit sexual materials is little more than a
+hundred years old. Although government censorship has existed
+throughout record history, it has mostly been direct toward political
+and religious heresy rather than obscenity. In Greek and Roman times,
+and indeed until a few centuries ago, sexual explicitness was widely
+accepted in popular literature, drama, and ballads." [Norwick, p. 148]
+
+In the U.S. "explicit sexual materials were very much in circulation
+through out the colonies, only Massachusetts had any law addressed to
+them and it was not until 1821 -- 110 years after its enactment --
+that anyone was prosecuted for violation of the statute." [Norwick, p.
+149]
+
+In the first half of the last century, "[b]ooks and pamphlets that
+would be considered hard-core pornography today circulated freely in
+England; if they lacked anti-religious content they apparently
+violated no law" [Norwick, p. 149]
+
+"No obscenity legislation was enacted in England until 1824 ... By
+1857 ...  what was called Lord Campbell's Act generally prohibited the
+dessemission of obscene materials in England." [Norwick, p. 149]
+
+In Britain, in 1868, the most important obscenity prosecution of the
+period occurred. In _Regina v. Hicklin_, the judge said that "a
+publication may be considered obscene if _any_ part of it (even a
+single paragraph or illustration in a thousand-page book) can be
+adjudged to have a _tendency_ to "deprave and corrupt" even the most
+sensitive and susceptible mind -- such as a young child into whose
+hands the publication might accidently fall." [Wagman, p. 202] This
+definition (the Hicklin Rule) was adopted by judges in the U.S.
+
+In the U.S., "[m]modern obscenity jurisprudence really began in 1934,
+when [the courts were asked] to determine if author-poet James Joyce's
+_Ulysses_ was obscene. The legal test started when the U.S.  Customs
+Service refused to admit copies of the book under a law prohibited the
+importation of obscene works." The [U.S. district] judge ruled that it
+wasn't obscene.  "In doing so, three significant changes in the
+Hicklin Rule. First, he ruled that a jury in determining obscenity
+should judge the work in its entirety and not just isolated passages.
+Second, he believe that works 'deprave' and 'corrupt', as used in the
+Rule, too vague. He said the material must 'lead to sexually impure and
+lustful thoughts."  Finally, he ruled that the jury must consider the
+effect of the work in its entirety on a normal, average person -- a
+person 'average sexual instincts' -- and not on a child or a person
+with the most susceptible mind." [Wagner, p. 203] The decision was
+upheld by the 2nd Circuit Court of Appeals and not appeals further.
+
+"In September 1970 the [first] President's Commission on Obscenity,
+which had been appointed by Lyndon Johnson in 1967, released its
+final report. ... At the hear of that report was the recommendation
+that all government censorship be ended of materials aimed at
+consenting adults ...  The report started a firestorm of criticisms
+range from the Senate, which reject its finding 60 to 5, to Richard
+Nixon in the White House, who called it 'morally bankrupt' and vowed
+to continue appointing to the high court justices who believed that
+'American morality is not to be trifled with.'" [Wagman, 210]
+
+The U.S. Supreme Court's current definition of obscenity (the
+so-called _Miller_ test) is:
+
+1) must appeal to the prurient interest of the average person
+
+2) must describe sexual conduct in a way that is "patently offensive"
+to community standards
+
+and
+
+3) when taken as a whole, it "must lack serious literary, artistic,
+political, or scientific value"
+
+Note that only "patently offensiveness" is decided by community
+standards and even here, as Rehnquist wrote in a later case, "it would
+be a serious misunderstanding of Miller to conclude that juries have
+unbridled discretion in determining what is 'patently offensive.'"
+
+                        * * *
+
+(This part of my response is based on U.S. law. It is a summary of the
+ACLU's Bill of Rights Briefing Paper #10: Freedom of Expression.)
+
+On a related topic, is there a right to speech that goes beyond
+fiction and actually advocates illegal acts or violence?
+
+In 1919 the Court said no. Indeed, it said that any speech that had a
+'tendency' to cause a volation of the law could be punished. This
+principle was used to convict a Socialist for mailing antiwar
+leaflets.
+
+In 1925 the Court established stronger speech protections, stating
+that speech could not be punished unless it presented 'a clear a
+present danger' of imminent harm. In 1931, this was used to overturn a
+conviction based on a California law. That law make it illegal to
+publically salute a red flag -- the symbol of (violent) revolution.
+
+In 1950's during the second Red Scare, the Court backtracked saying
+that the clear-and-present-danger principle did not apply to speakers
+who advocated overthrowing the government, no matter how remote the
+danger of such an occurrence might be. (This paved the way for jailing
+policitial activists, loyalty oaths, etc).
+
+In the 1969 case of Brandenberg v. Ohio, the Supreme Court struck down
+the conviction of a Ku Klux Klan member under a criminal syndicalism
+law and established a new standard: Speech may not be suppressed or
+punished unless it is intended to produce 'imminent lawless action'
+and it is 'likely to produce such action.' Otherwise, the First
+Amendment protects even speech that advocates violence. In the U.S.,
+the Brandenberg test is the law today.
+
+                          * * *
+
+Canada, according to May/June 1992 _Ms. magazine, has a new definition
+of obscenity that is based squarely in the "bad tenancy". The new
+definition is based not on science, but on the political arguments
+of U. of Michigan law professor Catherine A.  MacKinnon and writer
+Andrea Dworkin.
+
+In a decision given in February, Justice John Sopinka of the Canadian
+Supreme Court wrote: "If true equality between male and female persons
+is to be archived we cannot ignore the threat to equality resulting
+from exposure to audiences of certain types of violent and degrading
+material."
+
+The _Ms._ article says: [...]  'The case provided the court with the
+opportunity to clarify the weak and muddled obscenity law, which was
+based on "undue exploitation of sex", violating undefined "community
+standards." The court's more precise definitions of these terms no
+longer include morality and taste,. But violence and degradation will
+invariable push pornography over the line into illegal obscenity: "The
+portrayal of sex coupled with violence will almost always constitute
+the undue exploitation of sex," said the court in its ruling.
+"Explicit sex which is degrading or dehumanizing may be undue if the
+risk of harm is substantial."  [...]  '[T]he guidelines are now clear:
+degradation, bondage, child pornography, and violence are out; adult
+erotica, no matter how explicit, will not be considered obscene.'
+
+According to the _Ms._ article: "The ruling has the support of most
+women's groups in Canada, where the free-speech tradition is not a
+dominant as it is in the U.S.; as a result, feminist debate on
+pornography is less intense." Also: "'This is of world historic
+importance,' proclaimed Catherine A. MacKinnon, the University of
+Michigan law professor whose analysis of pornography and the law,
+co-authored with writer Andrea Dworkin, helped form the basis of
+LEAF's [Woman's Legal Education and Acuation Fund] argument.
+
+I note that _Ms's._ prediction that "adult erotica, no matter how
+explicit, will not be considered obscene" seems, as a practical matter
+incorrect. If it were true, alt.sex would not have been banned.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Aug  7 11:17:19 1992
+Newsgroups: news.admin,alt.censorship,alt.comp.acad-freedom.talk,sfu.general
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 3--Re: "Computers graphic when it comes to porn"
+Message-ID: <1992Aug7.151709.9915@eff.org>
+Date: Fri, 7 Aug 1992 15:17:09 GMT
+
+Here is a repost listing many studies that tested the Meese conclusions
+scientifically. (Many of the studies were done in Canada.)
+
+- Carl
+
+>From alt.sex Fri Apr  5 16:19:04 1991
+>From: gwangung@milton.u.washington.edu (Just another theatre geek.....)
+>Newsgroups: alt.sex,talk.rape
+>Subject: Re: pornography (long)
+>Message-ID: <1991Apr5.193828.27539@milton.u.washington.edu>
+>Date: 5 Apr 91 19:38:28 GMT
+
+
+	Sounds like this is needed to be posted again.
+
+	Clogging the net again...
+
+
+Pornography, erotica, and attitudes toward women: 
+	The effects of repeated exposure.
+Padgett,-Vernon-R.; Brislin-Slutz,-Jo-A.; Neal,-James-A.
+Rio Hondo Coll, Whittier, CA, US
+Journal-of-Sex-Research; 1989 Nov Vol 26(4) 479-491
+PY: 1989
+AB: Assessed the relationship between pornography and attitudes
+ toward women in 2 correlational studies, and tested the effect
+ of nonviolent erotica on attitudes toward women with 184
+ psychology students and 20 patrons at an "adult" theater. Hours
+ of viewing pornography was not a reliable predictor of attitudes
+ toward women in either sample. Patrons of the adult theater, who
+ viewed more pornography, had more favorable attitudes toward
+ women than male or female Ss. 
+
+Pornography and sexual offences.
+Langevin,-Ron; Lang,-Reuben-A.; Wright,-Percy; Handy,-Lorraine; et-al
+Clarke Inst of Psychiatry, Toronto, ON, Canada
+Annals-of-Sex-Research; 1988 Vol 1(3) 335-362
+LA: English
+PY: 1988
+AB: Examined whether erotica is harmful and incites sexual crimes
+ by interviewing 227 male sex offenders and 50 control Ss from
+ the community in Canada about purchase of erotic magazines and
+ videos and attendance at erotic movies. Erotica use was not a
+ pertinent factor in offenders' sex offenses nor to their legal
+ situation. Results do not support the conclusion of the Meese
+ Commission (1986) that there is a causal association of sexual
+ violence and use of violent pornography. 
+
+Physiological desensitization and judgments about female victims of violence.
+Linz,-Daniel; Donnerstein,-Edward; Adams,-Steven-M.
+U California, Santa Barbara, US
+Human-Communication-Research; 1989 Sum Vol 15(4) 509-522
+AB: 29 male undergraduates viewed a control film (nonviolent with
+ explicit sexual content) and 34 male undergraduates viewed an
+ experimental film (violent with explicit sexual content). All Ss
+ were then exposed to 2 brief clips of violence perpetrated by a
+ man against a woman while their heart rates were monitored.
+ Results indicate that heart rates for Ss exposed to the violent
+ videotape were lower during the final 90 sec of each violent
+ dependent measure film clip than controls. Although the
+ violence-viewing Ss experienced no change in moods, control Ss
+ experienced significant increases in hostility, anxiety, and
+ depression during the dependent measure clips. Ss in the
+ violence-viewing condition attributed less injury to the victims
+ but greater responsibility to the perpetrators in the dependent
+ measure clips, compared to control Ss. 
+
+Child sexual abuse and pornography: Is there a relationship?
+Knudsen,-Dean-D.
+Purdue U, West Lafayette, IN, US
+Journal-of-Family-Violence; 1988 Dec Vol 3(4) 253-267
+AB: A review of official reports and other research indicates
+ that the circumstances surrounding sexual abuse are inadequately
+ specified to allow specific causal interpretations. The role of
+ pornography in contributing to such abuse is explored by
+ reviewing laboratory studies and the circumstances of child
+ sexual abuse. An assessment of the research literature suggests
+ that pornography is a minor and indirect influence on child
+ sexual maltreatment. 
+
+Exposure to sexually explicit materials and attitudes toward rape: 
+	A comparison of study results.
+Linz,-Daniel
+U California Communication Studies Program, Santa Barbara, US
+Journal-of-Sex-Research; 1989 Feb Vol 26(1) 50-84
+AB: Reviews experimental studies conducted since the 1970
+ pornography commission that have tested the effects of exposure
+ to sexually explicit materials on attitudes and perceptions
+ about rape. Studies of short-term exposure to nonaggressive
+ sexually explicit communications have yielded mixed results.
+ When effects do exist for this material, they are both fewer and
+ weaker than antisocial effects from sexually violent material.
+ Studies of the effects of long-term exposure to nonviolent
+ pornography have also yielded mixed results: Some experiments
+ find increases in negative attitudes about rape, and others show
+ no effects. Studies that have included violent film conditions
+ have consistently found less sensitivity toward rape victims
+ after exposure to these materials. 
+
+A preliminary examination of the pornography experience of sex offenders,
+	paraphiliacs, sexual dysfunction patients and controls based on 
+	Meese Commission recommendations.
+Condron,-Mary-K.; Nutter,-David-E.
+Sexual Behavior Ctr, Lancaster, PA, US
+Journal-of-Sex-and-Marital-Therapy; 1988 Win Vol 14(4) 285-298
+AB: The Meese Commission Report (1986) claims that exposure to
+ pornography leads to sex offenses and states that it is
+ important to examine the developmental patterns of offenders.
+ The present study found that the frequency of use of pornography, age of
+ exposure to pornography, age of 1st masturbation experience and use of 
+ pornography during 1st masturbation experience for 62 male sex offenders, 
+ paraphiliacs, sexual dysfunction patients, and controls were not significantly
+ different.
+
+Pornography and rape: A causal model.
+Russell,-Diana-E.
+Mills Coll, Oakland, CA, US
+Political-Psychology; 1988 Mar Vol 9(1) 41-73
+AB: Contends that in order for rape to occur, a man must not only
+ be predisposed to rape, but his internal and social inhibitions
+ against acting out rape desires must be undermined. It is
+ theorized that pornography (1) predisposes some men to want to
+ rape women or intensifies the predisposition in other men
+ already so predisposed; (2) undermines some men's internal
+ inhibitions against acting out their rape desires; and (3)
+ undermines some men's social inhibitions against the acting out.
+ Research substantiating this theory is presented and discussed,
+ and suggestions are made for further research. 
+
+Rape rates and the circulation rates of adult magazines.
+Scott,-Joseph-E.; Schwalm,-Loretta-A.
+Ohio State U, Columbus, US
+Journal-of-Sex-Research; 1988 Vol 24 241-250
+AB: Examination of reported rape rates and the sale of 10 popular
+ adult magazines by states for 1982 revealed a significant
+ relationship. Although the assumption was that the more sexually
+ explicit magazines and those containing the most violent sexual
+ depictions would have higher correlations with rape rates,
+ correlations for individual magazines indicate the opposite.
+
+The censorship of pornography: Catharsis or learning?
+McCormack,-Thelma
+York U, Toronto, ON, Canada
+American-Journal-of-Orthopsychiatry; 1988 Oct Vol 58(4) 493-504
+AB: Asserts that contemporary research on pornography reveals an
+ impasse between the models of catharsis and learning. It is
+ suggested that preference for the latter by a recent government
+ report (US Department of Justice, 1986) is based on ideological
+ rather than scientific considerations. The breakdown in the
+ liberal tradition, current pornography research based on
+ behaviorism, and 2 major theoretical problems are discussed. An
+ alternative approach is suggested that uses knowledge of
+ sexuality, gender inequality, and institutional oppression, and
+ the meaning of texts to better understand pornography. It is
+ argued that censorship may obstruct research and fail to advance
+ feminist goals. (
+
+Beitrag zur Beziehung von Video-Filmkonsum und Kriminalitat in der Adoleszenz. / Relationship between viewing of video films and criminality in adolescents.
+Klosinski,-G.
+U Bern, Jugendpsychiatrischen Klinik und Poliklinik, Switzerland
+Praxis-der-Kinderpsychologie-und-Kinderpsychiatrie; 1987 Feb-Mar Vol 36(2) 66-71
+AB: Presents 3 forensic-psychiatric case reports in which
+ criminal acts perpetrated by adolescent males were associated
+ with previously viewed horror or pornographic videos. In each
+ case, the videos served to precipitate and legitimize a neurotic
+ solution to existing conflicts. It is suggested that in
+ exceptionally unusual, ludicrous, or cruel offenses by
+ adolescents, the possibility of video-induced criminality should
+ be considered. 
+
+Effects of long-term exposure to violent and sexually
+ degrading depictions of women.
+Linz,-Daniel-G.; Donnerstein,-Edward; Penrod,-Steven
+U California, Communication Studies Program, Santa Barbara, US
+Journal-of-Personality-and-Social-Psychology; 1988 Nov Vol 55(5) 758-768
+AB: Investigated the effects of emotional desensitization to
+ films of violence against women and the effects of sexually
+ degrading explicit and nonexplicit films on beliefs about rape
+ and the sexual objectification of women. Males viewed either 2
+ or 5 R-rated violent "slasher," X-rated nonviolent
+ "pornographic," or R-rated nonviolent teenage-oriented ("teen
+ sex") films. Affective reactions and cognitive perceptions were
+ measured after each exposure. Later, these men and no-exposure
+ control Ss completed a voir dire questionnaire, viewed a
+ reenacted acquaintance or nonacquaintance sexual assault trial,
+ and judged the defendant and alleged rape victim. Ss in the
+ violent condition became less anxious and depressed and showed
+ declines in negative affective responses. They were also less
+ sympathetic to the victim and less empathetic toward rape
+ victims in general. However, longer film exposure was necessary
+ to affect general empathy. There were no differences in response
+ between the R-rated teen sex film and the X-rated, sexually
+ explicit, nonviolent film, and the no-exposure control
+ conditions on the objectification or the rape trial variables. A
+ model of desensitization to media violence and the carryover to
+ decision making about victims is proposed. (
+
+Violent pornography and self-reported likelihood of sexual aggression.
+Demare,-Dano; Briere,-John; Lips,-Hilary-M.
+U Winnipeg, MB, Canada
+Journal-of-Research-in-Personality; 1988 Jun Vol 22(2) 140-153
+AB: 222 undergraduate males were administered an attitudes survey
+ examining pornography use, attitudes, and self-reported
+ likelihood of rape (LR) or using sexual force (LF). Nonviolent
+ pornography was used by 81% of Ss within the previous year,
+ whereas 41% and 35% had used violent and sexually violent
+ pornography, respectively. 27% of Ss indicated some hypothetical
+ LR or LF. Discriminant function analysis revealed that use of
+ sexually violent pornography and acceptance of interpersonal
+ violence against women were uniquely associated with LF and LR.
+ It is hypothesized that the specific fusion of sex and violence
+ in some pornographic stimuli and in certain belief systems may
+ produce a propensity to engage in sexually aggressive behavior.
+
+An empirical investigation of the role of pornography in the
+ verbal and physical abuse of women.
+Sommers,-Evelyn-K.; Check,-James-V.
+York U, Toronto, ON, Canada
+Violence-and-Victims; 1987 Fal Vol 2(3) 189-209
+AB: Studied the presence of pornography and both sexual and
+ nonsexual violence in the lives of 44 battered women drawn from
+ shelters and counseling groups, and a comparison group of 32
+ women from a mature university population. It was found that the
+ partners of the battered Ss read or viewed significantly greater
+ amounts of pornographic materials than did the partners of the
+ comparison group. In addition, 39% of the battered Ss (in
+ contrast to 3% of the comparison group) responded in the
+ affirmative to the question, "Has your partner ever upset you by
+ trying to get you to do what he'd seen in pornographic pictures,
+ movies, or books?" It was also found that battered Ss
+ experienced significantly more sexual aggression at the hands of
+ their partners than did the Ss in the comparison group. 
+
+Four theories of rape: A macrosociological analysis.
+ International Congress on Rape (1986, Tel Aviv, Israel).
+Baron,-Larry; Straus,-Murray-A.
+U California Ctr for the Study of Women, Los Angeles, US
+Social-Problems; 1987 Dec Vol 34(5) 467-489
+AB: Presents a theoretical model that integrates 4
+ macrosociological theories of gender inequality, proliferation
+ of pornographic materials, cultural spillover of violence to
+ other social contexts, and social disorganization as mechanisms
+ promoting rape. The theoretical model was tested, using 1980
+-1982 data on rapes known to the police in the 50 states in the
+ US. The results show that gender inequality, social
+ disorganization, percent residing in standard metropolitan
+ statistical areas, the circulation of pornography, economic
+ inequality, and percent unemployed had direct effects on the
+ incidence of rape. 
+
+The use of sexually explicit stimuli by rapists, child molesters
+    and nonoffenders.
+Marshall,-W.-L.
+Queen's U, Kingston, ON, Canada
+Journal-of-Sex-Research; 1988 May Vol 25(2) 267-288
+AB: 89 male sex offenders (voluntary outpatients) and 24 male
+ nonoffenders were asked to retrospectively recall their use of
+ sexually explicit materials during pubescence, and currently. 23
+ rapists and 51 men who molested children other than their own
+ (i.e., child molesters) reported significantly greater use of
+ materials than was indicated by either incest offenders or
+ nonoffender controls. Rapists and child molesters reported
+ frequent use of these materials while preparing themselves to
+ commit an offense. Current use was significantly related to the
+ chronicity of their sexual offending (as revealed by number of
+ victims) among the child molesters and to laboratory-assessed
+ sexual preferences for children in the heterosexual child molesters.
+
+The pornography/aggression linkage: Results from a field study.
+Smith,-M.-Dwayne; Hand,-Carl
+Tulane U, New Orleans, LA, US
+Deviant-Behavior; 1987 Vol 8(4) 389-399
+AB: Assessed the impact of presenting a pornographic movie on a
+ college campus in a longitudinal, self-report study of 230 women
+ students to determine effects of the film's showing on the Ss'
+ experiences with aggression from males. Compared with the weeks
+ prior to and following the movie's showing, no significant
+ difference in reported aggression was found. Those Ss reporting
+ association with males attending the movie reported no
+ significantly different levels of experienced aggression from
+ those Ss whose companions did not view the film. PO: Human
+
+Use of pornography in the criminal and developmental histories 
+     of sexual offenders.
+Carter,-Daniel-L.; Prentky,-Robert-A.; Knight,-Raymond-A.; Vanderveer,-Penny-L.; et-al
+Massachusetts Treatment Ctr, Research Dept, Bridgewater, US
+Journal-of-Interpersonal-Violence; 1987 Jun Vol 2(2) 196-211
+AB: Investigated exposure to and use of pornography in the
+ familial, developmental, and criminal histories of 64
+ incarcerated male volunteers (38 rapists and 26 child
+ molesters). Data were gathered using a paper-and-pencil self
+-report questionnaire. Results show that while both groups
+ reported similar exposure to pornography in the home and during
+ development, child molesters indicated significantly more
+ exposure than rapists in adulthood and were significantly more
+ likely both to use such materials prior to and during the
+ offenses and to employ pornography to relieve an impulse to act
+ out. Findings are discussed with regard to the catharsis
+ hypothesis and to the role of pornography in the commission of
+ sexual offenses for certain types of rapists and child
+ molesters. 
+
+"Stranger" child--murder: Issues relating to causes and controls.
+Wilson,-Paul-R.
+Australian Inst of Criminology, Canberra, ACT, Australia
+International-Journal-of-Offender-Therapy-and-Comparative-Criminology; 1987 Vol 31(1) 49-59
+AB: Discusses the causes and control of serial killings of
+ children. Despite the tendency to view such killers as
+ psychiatrically ill, studies suggesting that these offenders do
+ not differ psychologically from nonoffenders are cited. It is
+ suggested that subcultural and other sociological perspectives
+ stressing social disadvantage have low levels of explanatory
+ power. While evidence concerning the effects of media on sexual
+ and violent crime is inconclusive, case studies indicate that
+ pornography and even popular music may increase the propensity
+ of some individuals to commit atrocities. It is concluded that
+ countermeasures to control stranger killing of children lie in
+ more sophisticated law enforcement, long periods of
+ incarceration, and more sophisticated crime analysis. 
+
+The findings and recommendations of the Attorney General's Commission on Pornography: Do the psychological "facts" fit the political fury?
+Linz,-Daniel; Donnerstein,-Edward; Penrod,-Steven
+U California, Los Angeles
+American-Psychologist; 1987 Oct Vol 42(10) 946-953
+AB: The Attorney General's Commission on Pornography has
+ concluded that there is a causal relationship between exposure
+ to many forms of pornography and several antisocial effects,
+ including increased levels of violence against women. As a
+ result of these findings, the commission has called for more
+ strict enforcement of existing obscenity laws and serious
+ consideration of additional legal measures not traditionally
+ handled under obscenity law. The authors question whether the
+ social science data relied on by the commission justifies either
+ the commission's conclusions about harm or the call for more
+ stringent law enforcement. Although some of the commission's
+ findings appear to be sound extrapolations from the empirical
+ studies, the authors find several of the commission's findings
+ and recommendations incongruent with available research data.
+ Instead of advocating stricter legal controls the authors
+ reiterate their call for educational programs to mitigate the
+ effects of sexual violence in the media. 
+
+Exposure to pornography and attitudes about women and rape: 
+     A correlational study.
+Garcia,-Luis-T.
+Rutgers U, Camden Coll
+Journal-of-Sex-Research; 1986 Aug Vol 22(3) 378-385
+AB: Investigated the relationship between exposure to sexually
+ explicit material and attitudes toward rape in 115 male
+ undergraduates. Data provide mixed support for the hypothesis
+ that exposure to pornographic materials would be correlated with
+ less liberal attitudes toward women: Only exposure to coercive
+ or violent sexual themes was related to more traditional
+ attitudes about women. Contrary to predictions, Ss having
+ greater exposure to sexual materials were found to express more
+ liberal attitudes toward women in the area of sexual behavior.
+
+Pornography and sex-related crime: A sociological
+ perspective. Hong Kong Psychological Society: Psychosocial
+ aspects of pornography (1986, Hong Kong).
+Sharp,-Imogen
+U Hong Kong
+Bulletin-of-the-Hong-Kong-Psychological-Society; 1986 Jan-Jul No 16-17 73-81
+AB: Suggests that the incidence of reported rape is lower in
+ areas in which there are more liberal attitudes toward
+ pornography. Women may choose to not report a rape because of
+ fear, threat of further victimization, or powerlessness and
+ helplessness. In a society that has a liberal tolerance for
+ pornography and in which rape is often presented as a normal
+ part of male-female relations, a woman may assume that rape
+ would not be viewed as a serious offense by authorities.
+
+Pornography as cause or pornographic experience as constituted? 
+Hong Kong Psychological Society: Psychosocial aspects of pornography 
+(1986, Hong Kong).
+Tsang,-Adolf
+U Hong Kong
+Bulletin-of-the-Hong-Kong-Psychological-Society; 1986 Jan-Jul No 16-17 29-32
+AB: Suggests that pornography should not be viewed as the cause
+ of certain behaviors but as the material constituent of a
+ pornographic experience. Experiments that attempt to assess the
+ effects of pornography on behavior ignore the element of choice
+ in the real-life pornographic situation, since the experimental
+ Ss are presented with pornography while it must be actively
+ sought out in real life. It is also suggested that determining
+ what constitutes pornography may depend on an individual's
+ personal experience. 
+
+Fifteen years of pornography research: Does exposure to pornography have
+ any effects? Hong Kong Psychological Society: Psychosocial aspects of 
+ pornography (1986, Hong Kong).
+Hui,-C.-Harry
+U Hong Kong
+Bulletin-of-the-Hong-Kong-Psychological-Society; 1986 Jan-Jul No 16-17 41-62
+AB: Reviews 35 studies published between 1972 and 1985 on whether
+ exposure to pornography (EP) has any effects on behavior. One
+ study examined the effects of EP on prosocial behavior (none was
+ found); 20 studies assessed the effects of EP on antisocial
+ behavior and found general support for a causal link between EP
+ and aggression; 3 studies found some evidence of a link between
+ EP and rape; and 11 studies examined the relationship between EP
+ and moral values and attitudes and found some evidence relating
+ EP to a greater acceptance by men of the victimization of women.
+ Overall, the studies indicate that pornography does have
+ psychosocial effects on users, contrary to the 1970 report by
+ the US Congress's Commission on Obscenity and Pornography.
+
+The question of pornography.
+Donnerstein,-Edward-I.; Linz,-Daniel-G.
+U California, Santa Barbara
+Psychology-Today; 1986 Dec Vol 20(12) 56-59
+AB: Questions the conclusions of the 1986 US Attorney General's
+ Commission on Pornography and argues that the most important
+ problem in the media is not pornography but violence. Research
+ is summarized that suggests that the amount of violence depicted
+ in pornography has not increased, that the aggression-evoking
+ effects of exposure to sexually violent material may be
+ temporary, that materials depicting women "enjoying" rape have
+ especially damaging effects on male attitudes, and that violence
+ against women need not occur in a sexual context to have a
+ negative effect on viewer attitudes and behavior. 
+
+Mass media sexual violence and male viewers: Current theory and research.
+Donnerstein,-Edward-I.; Linz,-Daniel-G.
+U Wisconsin, Ctr for Communication Research, Madison
+American-Behavioral-Scientist; 1986 May-Jun Vol 29(5) 601-618
+AB: Reviews research on aggressive pornography and research that
+ examines nonpornographic media images of violence against women.
+ The question of whether pornography influences behaviors and
+ attitudes toward women is considered. There is no evidence for
+ any "harm"-related effects from sexually explicit materials. But
+ research may support potential harmful effects from aggressive
+ materials. Although messages about violence and the sexualized
+ nature of violence may be part of some forms of pornography,
+ they are also pervasive in media messages in general, from
+ prime-time TV to popular films. It is concluded that the media
+ is just one of many influences in society that contribute to
+ men's callous attitudes about rape and sexual aggression.
+
+Repeated exposure to violent and nonviolent pornography: Likelihood of 
+raping ratings and laboratory aggression against women.
+Malamuth,-Neil-M.; Ceniti,-Joseph
+U California, Los Angeles
+Aggressive-Behavior; 1986 Vol 12(2) 129-137
+AB: Examined the long-term effects of repeated exposure to
+ violent and nonviolent pornography on males' laboratory
+ aggression against women and their self-reported likelihood of
+ raping. 42 university students were randomly assigned to the
+ sexually violent, sexually nonviolent, or control exposure
+ conditions. Those assigned to the sexually violent or sexually
+ nonviolent conditions were exposed over a 4-wk period to 10
+ stimuli including feature-length films and written and pictorial
+ depictions, whereas controls were not exposed to any stimuli.
+ Following the end of the exposure phase, Ss participated in what
+ they believed to be a totally unrelated experiment in which
+ aggression was assessed within a Buss paradigm. Exposure to the
+ violent or nonviolent pornographic stimuli did not affect
+ laboratory aggression, but likelihood of raping ratings
+ predicted laboratory aggression. 
+
+"Prudes" and "pornographiles": Effects of subject and audience attitudes 
+on the viewing and rating of pornographic materials.
+Yuen,-Kenneth; Ickes,-William
+U Wisconsin
+Journal-of-Social-and-Clinical-Psychology; 1984 Fal Vol 2(3) 215-229
+AB: Examined stereotyped conceptions of the prude and the pornographile 
+by testing the responses of 72 male undergraduates with anti- or 
+propornography attitudes to pornographic stimuli presented in varying 
+social contexts. Specifically, both types of Ss were allowed to view 
+and rate a series of pornographic slides in 1 of 3 conditions: alone 
+(control) or in the presence of a peer whose expressed attitude toward 
+pornography was either favorable or unfavorable. For measures of viewing 
+time and rated pornographic value, the antipornography Ss were more 
+susceptible to the influence of the peer audience's expressed attitude 
+than were the propornography Ss. In general, the stereotyped images of 
+the prude and the pornographile were supported. However, it remains to 
+be determined to what degree the observed differences were due to 
+personality, social comparison, and arousal-attribution processes. 
+
+Self-regulated exposure to erotica, recall errors, and 
+The relief of sexual problems through pornography.
+Court,-John-H.
+Australian-Journal-of-Sex,-Marriage-and-Family; 1984 May Vol 5(2) 97-106
+AB: Examines the scientific foundations for claimed efficacy of sexually
+ explicit materials for use in sex therapy. The term   pornography   is
+ examined to establish important distinctions between different 
+ materials, and the case for pornography, as advanced by W. C. Wilson 
+ (1978), is examined critically. While acknowledging that many therapists
+ are finding sexually explicit materials educationally valuable in the
+ treatment of sexual disorders, it is concluded that the evidence is 
+ insufficient for the therapeutic use of what most people mean by 
+ pornography. (28 ref) 
+
+Pornography and sexual abuse of women.
+Silbert,-Mimi-H.; Pines,-Ayala-M.
+Delancey Street Foundation, San Francisco, CA
+Sex-Roles; 1984 Jun Vol 10(11-12) 857-868
+AB: Interviewed 200 juvenile and adult, current and former, female 
+ street prostitutes, aged 10-46 yrs, to investigate the sexual abuse of
+ street prostitutes. 70% of the Ss were less than 21 yrs old; 60% were
+ less than 17 yrs old. 69% of the Ss were White and 18% were Black. 68%
+ were single and never married. 42% described themselves as very poor.
+ The Ss were administered a sexual assault experience questionnaire
+ consisting of questions on background information, forms of assault
+ experienced, history of juvenile sexual exploitation, and self-concept.
+ Many of the descriptions of sexual assaults made reference to the role
+ played by pornography; these references were unsolicited by the
+ interviewers. A detailed content analysis of 193 cases of rape and of
+ 178 cases of juvenile sexual abuse revealed a clear relationship
+ between violent pornography and sexual abuse in the experience of
+ street prostitutes. Results can neither confirm nor reject the
+ catharsis model of pornography; however, they lend considerable weight
+ to the imitation model. 
+
+The effects of erotica and pornography on attitudes and behavior: 
+A review.
+Masterson,-John
+U Dublin, Trinity Coll, Ireland
+Bulletin-of-the-British-Psychological-Society; 1984 Aug Vol 37 249-252
+AB: Reviews the literature on the effects of erotica (ER) and
+ pornography (PN) on attitudes and behavior, noting that researching
+ these topics poses difficult experimental problems. The reliability of
+ data on availability and use of PN is questionable. It is asserted that
+ the context in which PN thrives needs to be reexamined. Of particular
+ interest is the degree of acceptance of coercion in sexual relations
+ by "normal" males and females. Findings on ER vs PN are discussed, and
+ decisions concerning the effects of PN and ER by the US National
+ Commission on Obscenity and Pornography and the Committee on Obscenity
+ and Film Censorship (UK) are reviewed. Current concern centers around
+ violent sexual material. Research has shown that exposure to sexually
+ violent material can lead to antisocial attitudes and behavior. It has
+ been argued that the enjoyment of PN by individuals will decline when
+ such individuals begin to accord women their status as fully human. It
+ is concluded that PN can be viewed as a useful indicator of the state
+ of male-female relations in society
+
+Debriefing effectiveness following exposure to pornographic rape 
+depictions.
+Malamuth,-Neil-M.; Check,-James-V.
+U California, Los Angeles
+Journal-of-Sex-Research; 1984 Feb Vol 20(1) 1-13
+AB: Examined the ethics of exposing undergraduate students to
+ pornographic rape portrayals followed by a debriefing designed to
+ dispel a number of rape myths. 150 Ss were randomly assigned to read
+ pornographic stories. Some of these depicted a rape, whereas others
+ depicted mutually consenting intercourse. Afterwards, those exposed to
+ the rape version were given a debriefing that included statements
+ concerning the true horror of rape and the existence of rape myths.
+ About 10 days later, a survey ostensibly conducted by a local committee
+ of citizens was given to Ss in their classes. As part of the survey, Ss
+ indicated their reactions to a rape article and their opinions about the
+ general causes of rape. Results indicate that those exposed to the rape
+ depictions followed by a debriefing were less accepting of certain rape
+ myths than Ss exposed to mutually consenting intercourse depictions.
+ Implications are discussed both in terms of work focusing on the
+ potential antisocial impact of violent pornography and of research
+ specifically designed to identify the conditions most likely to change
+ acceptance of rape myths. 
+
+Can there be positive effects of participation in pornography experiments?
+Check,-James-V.; Malamuth,-Neil-M.
+York U, Downsview, Canada
+Journal-of-Sex-Research; 1984 Feb Vol 20(1) 14-31
+AB: Conducted a 2-phase experiment in response to recent ethical concerns
+ about the possible antisocial effects of exposing research Ss to
+ pornographic rape portrayals. In Phase 1, 64 male and 94 female
+ undergraduates were randomly assigned to read either an "acquaintance"
+ or a "stranger" rape depiction, or to read control materials. Ss who
+ read the rape depictions were then given a rape debriefing that included
+ a communication about the undesirable desensitizing effects of pairing
+ sexual violence with other highly explicit and pleasing sexual stimuli.
+ Half of the Ss who read the control materials were also given the rape
+ debriefing. In Phase 2, Ss were presented with a number of newspaper
+ articles in which a newspaper report of a rape was embedded and asked
+ to give their opinions. Results indicate that the rape debriefing
+ generally increased Ss' perceptions of pornography as a cause of rape.
+ Ss in the rape debriefing conditions also gave the rapist in the
+ newspaper report a higher sentence and saw the rape victim as less
+ responsible than did Ss in the control conditions. This latter effect,
+ however, occurred only under conditions where Ss had earlier been
+ exposed to an example of a rape depiction that was relevant to both
+ the rape myths discussed in the rape debriefing and the newspaper report
+ of the rape. (24 ref) (PsycLIT Database Copyright 1985 American Psychological Assn, all rights reserve
+
+Pornography and social science research:  . . .higher moralities.
+Zillmann,-Dolf; Bryant,-Jennings, Indiana U
+Journal-of-Communication; 1983 Fal Vol 33(4) 111-114
+AB: Responds to comments by L. Gross (see PA, Vol 71:23017)
+ concerning the present authors' (see PA, Vol 70:1038) study on
+ pornography, which found that massive exposure to pornography
+ results in a loss of compassion for female rape victims and
+ women in general. The present authors provide sources for
+ information on their debriefing procedures and address the
+ issues of possible damage to research Ss and the contamination
+ of results because Ss may have talked about their experience in
+ the study with others. 
+
+Pornography and social science research: Serious questions. . . .
+Gross,-Larry, U Pennsylvania
+Journal-of-Communication; 1983 Fal Vol 33(4) 107-111
+AB: Contends that D. Zillmann and J. Bryant's (see PA, Vol 
+70:1038) study on pornography, which found that massive exposure to 
+ pornography resulted in a loss of compassion toward women as rape
+ victims and toward women in general, cannot be taken at face value
+ because information on how the research was conducted is lacking. In
+ addition, according to the present author, the research raises serious
+ questions of ethics concerning experimental procedures and conditions
+ and "damage" to the Ss that the researchers did not address.
+
+Exposure to pornography, permissive and nonpermissive cues, and male aggression
+    toward females.
+Leonard,-Kenneth-E.; Taylor,-Stuart-P.
+U Pittsburgh School of Medicine, Western Psychiatric Inst & Clinic
+Motivation-and-Emotion; 1983 Sep Vol 7(3) 291-299
+AB: 40 male undergraduates viewed either neutral slides with a silent
+ female or erotic slides with a female who made permissive,
+ nonpermissive, or no comments about the slides. Ss rated the slides and
+ subsequently rated the female confederate. Ss were then given an
+ opportunity to administer their choice of several intensities of
+ shock to the female in a competitive RT task. Ss in the permissive cues
+ condition rated the erotic slides as more arousing, saw the female as
+ more reasonable and accepting, and selected more intense shocks for the
+ female than did Ss in the other conditions. One explanation of these
+ results is that permissive cues in the presence of erotica led the S
+ to believe that other normally inappropriate behaviors would be
+ tolerated. 
+
+Pornography, sexual callousness, and the trivialization of rape.
+Zillmann,-Dolf; Bryant,-Jennings
+Indiana U, Inst for Communication Research, Bloomington
+Journal-of-Communication; 1982 Fal Vol 32(4) 10-21
+AB: Studied the effect of pornography on perceptions of sexuality and
+ behavioral dispositions toward sex and gender. 160 male and female
+ undergraduates were assigned to 1 of 4 conditions in which exposure to
+ pornography was massive, intermediate, or nil. Ss were tested for
+ habituation effects, perceptions of sexuality, and dispositions
+ concerning sex and gender. A control group was tested with no prior
+ exposure to pornographic materials. Results show that numerous
+ persisting perceptual and dispositional changes concerning sexuality,
+ especially female sexuality, were recorded during the 3rd wk after the
+ exposure treatment. Findings show that massive exposure to standard
+ pornography resulted in a loss of compassion toward women as rape
+ victims and toward women in general. 
+
+Effects of erotica on retaliatory behavior as a function of level of prior provocation.
+Ramirez,-John; Bryant,-Jennings; Zillmann,-Dolf
+Indiana U, Inst for Communication Research, Bloomington
+Journal-of-Personality-and-Social-Psychology; 1982 Nov Vol 43(5) 971-978
+AB: 72 male undergraduates were mildly or severely provoked by the
+ experiments; exposed to nonerotic, suggestive, or explicitly erotic
+ stimuli; and then provided with an opportunity to treat their provoker
+ in a hostile manner. The effect of exposure to suggestive erotica
+ interacted with degree of provocation. Exposure to such erotica
+ significantly reduced hostile behavior under conditions of mild
+ provocation, but it had no appreciable effect under conditions of
+ severe provocation. In contrast, exposure to explicit erotica
+ significantly increased hostile behavior, and this effect did not
+ reliably interact with degree of provocation. There was some indication,
+ however, that the hostility-enhancing effect of exposure to explicit
+ erotica was strongest under conditions of severe provocation. (
+
+Exposure to pornography and aggression toward women: The case of the
+ angry male.
+Gray,-Susan-H.
+Fordham U, Lincoln Ctr Campus
+Social-Problems; 1982 Apr Vol 29(4) 387-398
+AB: Reviews research since 1970 on the effects of pornography on men's
+ treatment of and underlying attitudes toward women. There is little
+ evidence that exposure to hard-core pornography produces aggressive
+ behavior in men. However, levels of aggression in already angered men
+ are increased by exposure to hard-core materials. Research on the
+ long-term effects of exposure to pornography and the difference between
+ laboratory-induced anger and deeper anger that is a product of
+ psychosexual development are discussed. It is concluded that anger is a
+ greater social problem than pornography, particularly in men who are
+ unable to resolve it or distinguish it from sexual arousal and control
+ over women. 
+
+-- 
+-----
+Roger Tang, gwangung@milton.u.washington.edu
+Middle-class weenie and art nerd
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Aug 13 16:42:31 1992
+Newsgroups: news.admin,alt.censorship,alt.comp.acad-freedom.talk
+From: tsdavies@rodan.syr.EDU (Real life?  Ha!)
+Subject: Article 4--Re: "Computers graphic when it comes to porn"
+Message-ID: <TSDAVIES.92Aug13021657@rodan.syr.EDU>
+Date: Thu, 13 Aug 92 02:26:07 EDT
+
+
+Carl> == Carl Kadie <kadie@m.cs.uiuc.edu>
+
+Carl> *  Has textual material been found to be obscene in Canada or the U.S.
+Carl>    since _Ulysses_?
+Carl> *  Has a university ever been found guilty of obscenity?
+Carl> *  Has a university even ever been charged with obscenity?
+Carl> *  Did the university administrators bother to get legal advice?
+Carl> *  Did the university administrators bother to discuss the issues
+Carl>    with representatives of the faculty and students?
+
+Carl> (To the best of my knowledge, in every case, the answer to all these
+Carl> questions is "no").
+
+I can't speak to the rest of the questions, but the answer to the
+first is definitely "yes".  (I suspect you may be right on the others,
+though.)
+
+To name a few (the _Ulysses_ decision is made in 1933):
+
+	1943-5	Various crime magazine distributors are prosecuted
+		for distributing various crime magazines under New
+		York obscenity law.  (Law struck down by the U.S.
+		Supreme Court in _Winters_ v. _New York_.)
+
+	1946	Edmund Wilson's _Memoirs of Hecate County_ is seized
+		by John Sumner (the head of the New York Society for
+		the Suppression of Vice) under State obscenity laws.
+		(Upheld by the U.S. Supreme Court in (I believe)
+		_Doubleday_ v. _New York_.)  The book was not republished
+		in the United States until the 1960's, by a subsidiary
+		of Farrar, Straus, and Young.
+
+	1955	Samuel Roth imprisoned on charges of sending obscenity
+		through the mails (including advertisements and the
+		third issue of _American Aphrodite_, a hardbound
+		magazine which contained Aubrey Beardsley's "Venus and
+		Tannhauser" -- upheld by the U.S. Supreme Court in
+		_Roth_ v. _United States_). 
+
+	1958	The University of Chicago suppresses the Winter 1958,
+		issue of the _Chicago Review_, which contains material
+		by Jack Kerouac and William S. Burroughs.  This
+		material was published in the first issue of _Big
+		Table_ in March, 1959, (by the editors who resigned
+		from the _Chicago Review_), and is seized by the
+		United States Post Office, and ruled obscene by the
+		Post Office's hearing examiner.  It is set free by
+		Judge Julius Hoffmann under _Roth_ v. _United States_.
+
+	1961	Henry Miller's _Tropic of Cancer_ is published by
+		Grove Press and is declared obscene in various parts
+		of the country.  The book is finally freed by the U.S.
+		Supreme Court in _Grove Press_ v. _Gerstein_ (decided in
+		conjunction with _Jacobellis_ v. _Ohio_, which involved a
+		film by Louis Malle called _The Lovers_.)
+
+	196?	_Fanny Hill_ is found obscene by the Supreme Judicial
+		Court of Massachusetts.  Overturned by the U.S.
+		Supreme Court in 1966, in _Memoirs of a Lady of
+		Pleasure_ v. _Massachusetts_ [?].
+
+	1963	Proceedings against William S. Burroughs' _Naked
+		Lunch_ are begun in Massachusetts on the grounds that
+		it may be obscene.  (Won in appeal in the Massachusetts
+		Supreme Judicial Court in 1966.)
+
+	1966	Ralph Ginzburg's conviction on charges of distributing
+		obscenity through the mails is upheld by the U.S.
+		Supreme Court in _Ginzburg_ v. _United States_. 
+
+	1973	In _Miller_ v. _California_, the Supreme Court upholds
+		the conviction of a distributor of illustrated books and
+		films which were held to violate California obscenity
+		law, and partially redefines the conditions under
+		which an item can be found to be obscene.
+
+Other prosecutions and decisions since then mostly deal with films,
+photographic images, and artistic performances; including the various
+attempts to pass anti-pornography legislation; the arrest of Dennis
+Barrie, the director of the Cincinnati, Ohio, Contemporary Arts Center
+in 1990 for the presentation of Robert Mapplethorpe's "homoerotic"
+photographs; and the actions of the U.S. Congress to establish limits
+on NEA grantees.
+
+Carl> Thus, I don't think the legal fear is rational.
+
+In _Redrup_ v. _New York_, the U.S. Supreme Court laid out a decision
+which implied "that consenting adults in the United States ought to be
+constitutionally entitled to read and acquire any publication that
+they wished -- including concededly obscene or pornographic ones --
+without governmental interference."  (de Grazia 1992: 516)  In
+_Stanley_ v. _Georgia_, the Court "held that adults had a constitutional
+right to possess, read, or watch concededly obscene books and films in
+the privacy of their homes."  (de Grazia 1992: 516)
+
+The Burger Court chose to limit the interpretation of this decision to
+the facts, however, and deny that the decision "implied that people had
+a constitutional right to exhibit or sell such materials outside the
+home, or that anyone had a constitutional right to bring them to his
+home, for example, from abroad." (de Grazia 1992: 516)  In July, 1990,
+"the Rehnquist Court further narrowed the principle by holding that
+the right of Americans to read and watch anything they wished in the
+privacy of their homes did not include 'child pornography.'" [In
+_Osborne_ v. _Ohio_.]  (de Grazia 1992: 337)
+
+So there's an opening there, but chances are that the current Supreme
+Court would not look favorably upon a case asking for sanctioning of a
+constitutional right to read "obscene" Usenet News (in one's home,
+business, dorm room, school terminal room, etc.).
+
+Carl> I think it is more likely that administrators want to avoid the
+Carl> real risk of publicity, even at the expense of academic freedom.
+
+Their attempts to control bad (or potentially bad) publicity over
+incidents like this one often result in even more bad publicity from
+the response to the attempted suppression/cover-up.  This is often
+good publicity for the artists/persons/groups under attack, who can
+get a great deal of free publicity.  (E.g.: 2 Live Crew.)
+
+Carl> Finally, although bans may solve publicity problems in the short
+Carl> term, in the long term it not only hurts academic freedom, it
+Carl> also opens a university up to bad publicity as folks make demand
+Carl> after demand for bans of material that they don't want other
+Carl> folks see. 
+
+(Which you said.  ;-) )
+
+Source:
+
+de Grazia, Edward
+
+	1992	_Girls Lean Back Everywhere: The Law Of Obscenity And
+		The Assault On Genius_.  New York: Random House.
+
+		(ISBN: 0-394-57611-X, $30.00)
+
+--
+"If a man slept by day, he had little time to work.  That was a satisfying 
+notion to Escargot." 		-- _The Stone Giant_, James P. Blaylock
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+T.S. Davies		tsdavies@mailbox.syr.edu		SHC, DS
+
+
+------------------------------
+
+From caf-talk Caf Aug 15 18:29:02 1992
+From: kiefer@connext.ucs.sfu.ca (Theresa Kiefer)
+Subject: Article 5--Re: "Computers graphic when it comes to porn"
+Message-ID: <1992Aug15.213252.22415@sfu.ca>
+Date: Sat, 15 Aug 1992 21:32:52 GMT
+
+ 
+In sfu.general article <1992Aug14.184417.32@NCoast.ORG> you wrote:
+> As quoted from <z=5my6g.barry@netcom.com> by barry@netcom.com (Kenn Barry):
+>
+As someone who has been following this debate for quite some time, I think
+It would be wise to recall the original purpose of the discussion - ie. the  
+question of the graphic material on the altnet system at SFU...  This is a very  
+concrete circumnstance, and the abstract debate concerning freedom of speeck  
+notwithstanding, one that continues to require a serious response.  IMHO, the  
+issue here comes down to the question of whether it is legitimate for an  
+institution of higher education, that claims to be so strapped for cash that  
+they've cut back on scholarships this fall, to dedicate some of these precious  
+resources to the provision of  material that couldn't even be displayed in the  
+Dean of Arts office, and which, moreover, makes some students incredibly  
+uncomfortable.  The needs of this particular community need to be taken into  
+account when determining what material is appropriate to the public computer  
+monitors in labs around campus.  I wouldn't feel too damn comfortable if  
+someone I had to work beside was busy admiring the commodified sexual display  
+of some man or woman - especially if this activity was being conducted by  
+several fellow students.  We don't sell soft-core porn magazines on this campus  
+for much this same reason; that doesn't mean I think that it shouldn't be  
+available anywhere, just that as a woman at SFU I don't want to be confronted  
+with it as part of the social environment I have to accomodate myself to in
+order to get an education.
+ 
+> > 	I suspect I know how porn affects people: it makes some bad
+> > people worse, some good people better, and most people it don't have
+> > much effect on at all :-). That's how most things seem to work, after
+> > all. The Bible probably helped turned a man that was good to begin with
+> > into St. Francis of Assisi, but it also likely helped turn Torquemada
+> > (whom I suspect was a _rotten_ kid :-) into the Grand Inquisitor.
+
+It affects everyone, but the causal link between violence and pornography in  
+this discussion has been a little bit too simplistic.  The argument linking  
+porn to violence is really a little more subtle than either side of this debate  
+have acknowledged.  Pornography, and by this I'm referring to the explicit  
+display of women for consumption by men, is part of the reproduction of  
+cultural meaning in our society.  It DOES discuss ideas. It addresses the  
+question of what is the cultural standard for a sexually desireable woman, and  
+what her power relation is to the man who can have access to a commodified  
+version of her sexuality through the purchase of a representation of this  
+idealized sexuality.  IMHO, the exploitation of women through porn can't be  
+separated from advertising and other media in our culture that address women  
+only in their role as consumers, and which presents their sexuality in the form  
+of a commodity that they exchange in their relations with men for security and  
+other values that they are presumed to be incapable of acquiring on their own.   
+Pornography is particularly pernicous, though, because it exposes women's most  
+intimate selves, through a representation that is designed purely for its  
+ability to provide voyeristic pleasure to others they individually may not ever  
+choose to relate to in this manner, and through its mass distribution, porn
+exposes a homogenized idea of women's sexuality to the culture at large.  This  
+idea is designed for male consumption in a patriarchial context.  This is not a  
+version of our sexuality that women have chosen for themselves - it has been  
+imposed with as much authority as any censor could muster, in fact more so  
+because these values are internalized by women themselves.  The number of women  
+today suffering from eating disorders is proof enough of the extreme  
+difficulties many women experience trying to remake their bodies according to  
+these images so that they can reclaim the sexuality that is denied them because  
+some men defend the right to freedom of expression.
+
+> 
+> An EXCELLENT point.  If we can have a Pornography Victims Compensation Act, 
+> there's no constitutional reason why we can't have a Religious Doctrine  
+Victims
+> Compensation Act.  Anybody who claims that a LOT more people HAVEN'T died 
+> under hideous circumstances, because of religion, is being diplomatically 
+> speaking, "differently honest"....
+
+Yes, many people have suffered due to religious persecution.  This is a far  
+more serious type of discrimination than being asked by your sysadmin not to  
+store 2nudes.gif on SFU's system.  The patriarchy of traditional religion and  
+sexism share more than a few values in common, however.
+
+Pornography also reproduces power relationships between men and women.  It 
+confirms in the minds of men and women that its OK for women to be objectified.
+Studies of rape and violence together with pornography consistently show that  
+it is the link between these concepts that is explosive in terms of inciting  
+violent attitudes in viewers.  There is no question that exposure causes  
+desensitization to the material shown.  This does not establish the link  
+between an individual's attitude and their tendency to act in a violent manner,  
+but it does affect what in considered by the culture to be acceptable.  Where  
+the net effect is a society that is increasingly violent, and indifferent  
+toward the violence perpetuated toward women, the question of what factors  
+contribute to that violence must be answered.  I suspect that violent
+pornography might play a role.  I also suspect that non-violent porn, which  
+purports to compensate men who feel increasingly helpless in their daily lives  
+by offering them a representational power over women's sexuality, also  
+consitutes an element.  Both of these factors contribute to a climate where  
+human contact is reduced to the level of commodity exchange, and in which tacit  
+social approval is granted to the idea that women's sexuality exists only to  
+satisfy men's desires and on men's terms.
+
+The question of censorship is a tricky one, however, because censors after all,
+exist to censor, and they don't usually act in the interests of women when they  
+doit - they act as representatives of the state, and this is problematic to say  
+the least.
+
+However, at SFU, I think it is safe to say that the removal of the alt.sex  
+groups will not prevent anyone from having access to pornographic ideas if  
+these are of interest to them.  All they have to do is turn on the television,  
+if they want access to the ideas.  Sexually explicit pictoral material is  
+available in many places.  I'm not so sure the discussion groups should have  
+been cancelled, since these were often a legitimate forum for discourse, and do  
+not intrude on people wandering through a given lab in the way that an  
+unencoded .gif file has a way of doing...  Freedom of speech is not absolute.
+In a community, such as SFU, it is both relevant and important to consider the 
+needs of the various constituants in order to provide a tolerant and inclusive
+environment for learning.  This includes the unlearning of sexism.
+
+Theresa Kiefer  
+kiefer@sfu.ca
+> 
+> 
+> 
+
+
+------------------------------
+
+From caf-talk Caf Aug 21 19:19:04 1992
+From: advax@reg.triumf.ca (A.Daviel)
+Subject: Article 6--Searching for computer porn at UBC
+Message-ID: <21AUG199215492898@reg.triumf.ca>
+Date: Fri, 21 Aug 1992 22:49:00 GMT
+
+I read recently in UBC Reports that the UBC President has "asked all UBC 
+units to ensure that university property is not being used to gain access to, 
+create, or store (such) pornographic material on university computing 
+equipment".
+
+I am disturbed by the possibilities in this. Not so much that I think it is 
+OK to store 10Gbytes of sexually explicit GIF files on univerity disks (or 
+10Gb of pictures of sports cars, for that matter), but that such a thing 
+(ensuring ...) may be possible, at least for ASCII files.
+
+Computer users on a big system (VMS, Unix, etc.) are prevented from reading 
+each others mail by default, and may optionally protect any other files 
+against unauthorised access. But they enjoy no such protection from 
+privileged users, such as system managers. We rely on the personal integrity 
+of privileged users, and hope that they are far too busy to have time to 
+ferret around in users files.
+
+Users could encrypt data, but I do not believe this is common practice.
+Systems such as Sun that come with DES software in the USA are prevented from
+doing so outside the US. 
+
+Given operator privileges, it would be easy to write programs that 
+would scan users files and mailboxes for keywords, according to some 
+particular scheme of sexual or political censorship. Admittedly machine
+inspection of picture and sound files would not currently be possible, if the
+files were hidden in 'innocent' directories with innocuous filenames, though 
+a program could produce a list of all picture files for subsequent visual
+inspection. 
+
+Regardless of the legal and technical facts (for instance, that bitnet 
+mail may be logged, that store-and-forward mail may be backed up on tape, 
+etc.), users have come to believe that electronic mail has the same 
+confidentiality as letter mail or telephone converstions.
+
+I believe that the possibilities for abuse of privacy are numerous, if system 
+operators are effectively directed to search their systems for 'offensive 
+material'.
+
+
+A.Daviel, Vancouver BC
+
+
+------------------------------
+
+From caf-talk Caf Aug  3 17:48:41 1992
+From: betsys@cs.umb.edu (Elizabeth Schwartz)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 7--Re: putting lyrics to "Cop Killer" in .plan file
+Message-ID: <BETSYS.92Aug3155829@ra.cs.umb.edu>
+Date: 3 Aug 92 20:58:29 GMT
+
+In article <1992Jul30.074946.15202@ms.uky.edu> sean@ms.uky.edu (Sean Casey) writes:
+
+>In article <BETSYS.92Jul29175625@ra.cs.umb.edu> betsys@cs.umb.edu (Elizabeth Schwartz) writes:
+>:I still don't see why. What's unconstitutional about our policy of 
+>:setting an obsenity standard, for example? Our policy is that all
+>:finger info and public X-terminal screens should be of roughly PG-13
+>:offensiveness or less.
+
+>My first thought when I read this was: "I wonder how many of their
+>users are under 13?"
+
+At least half a dozen. 
+
+Also it seemed a reasonable measure of obscenity...it *is* harassment
+if people in the workplace are exposed to unsolicited obscene
+material.
+
+We alow folks to have ANYTHING THEY WANT in their private files and to
+make ANYTHING THEY WANT publicly readable. They may create any mailing
+list they want, and post to usenet within the standard guidelines
+distributed in Comp.news.newusers etc.
+
+ALL we are limiting is what may be displayed in certain public,
+unsolicited areas... mainly finger (which is considered a systems
+tool) and publicly visible X-terminal screens. 
+  If someone wanted to post the lyrics to cop killer, we would NOT ban
+it from the system, we would just ask them to replace the message with
+a pointer to a publicly readable file.
+  This isn't censorship, and it's not an "unreasonable hardship" to
+those who which to read this material. It simply makes accessing
+this material a matter of conscious choice. I think it's analagous to
+making users check out a library book, or take the book from an open
+stack, as opposed to posting the contents of the book on the walls.
+  If we limited access in any way, or made users go through any
+paperwork to get acess, I think that would be censorship.
+--
+System Administrator                  Internet: betsys@cs.umb.edu
+MACS Dept, UMass/Boston               BITNET:ESCHWARTZ%UMBSKY.DNET@NS.UMB.EDU
+100 Morrissy Blvd                     Staccato signals
+Boston, MA 02125-3393                      of constant information....
+
+
+------------------------------
+
+From caf-talk Caf Aug 14 11:37:31 1992
+From: jbotz@mtholyoke.edu (Jurgen Botz)
+Subject: Article 8--Follow-up: illegal material in newsgroups
+Message-ID: <BszA6L.2E9@mtholyoke.edu>
+Date: Fri, 14 Aug 1992 14:42:20 GMT
+
+Less than 24 hours after posting my initial article raising this issue,
+there are about 30 follow-ups in news.admin.policy and I have received
+again as many replies via e-mail.
+
+Many excellent points have been raised.  A surprisingly small percentage
+of the total traffic was pure "you're a fascist censor" noise.
+
+To summarize, after reading other people's views on the issue, I have
+decided that for the time being I will continue my current policy of
+carrying everything, and if I am challenged on it by my superiors, will
+strongly recommend AGAINST restricting the flow of News through our
+system in any way.
+
+The main reasons for my decission are...
+
+o  A considerable quantity of copyrighted material is posted to groups
+   other than a.b.p.e.*, so monitoring groups to determine which groups
+   carry illegal material, and which don't, appears impractical.
+
+o  It seems likely that the legal responsibility for distributing
+   copyrighted material rests with the poster.
+
+o  There seems to be a good chance that a "common-carrier" type argument
+   can be applied, and by making policy decissions on what to carry and
+   what not to carry I'm more likely to hurt than help this argument.
+
+o  If (when) this issue does result in law-suits, it is unlikely to be
+   here at my small institution, and more likely will involve an organization
+   such as UUNET which is already prepared for this eventuality and has
+   formalized it's policy on the issue.
+
+Those are my personal reasons for my decission, but the issue remains.
+
+I think we will do well to discuss further what the impact on the
+Altnet and USENET will be when this issue does get exposed to public
+scrutiny.  Maybe one should start a directed campaign to discourage
+the posting of copyrighted materials?  (After all, there does appear
+to be a fair amount of "amateur" pornography posted to a.b.p.e which
+can continue).  Not that I would expect such a campaign to have much
+immediate impact, but again, I think it might in the best interest of
+the Altnet to demonstrate that the majority of it's readership does
+not condone it's use for the distribution of illegal materials.
+
+I would like to repeat once again that I'm very much against censorship,
+and that my primary reason for bring this issue up in the first place
+is because I fear that the illegality of the materials under discussion
+will serve as wellcome ammunition for those who would advocate broad
+censorship of everything they do not like.  In fact, I'm sure it has
+already happened at several sites that the entire Altnet was discontinued
+because someone successfully argued that it was being used to distribute
+illegal materials.
+--
+Jurgen Botz                  |   Internet: JBotz@mtholyoke.edu
+Academic Systems Consultant  |     Bitnet: JBotz@mhc.bitnet
+Mount Holyoke College        |      Voice: (US) 413-538-2375 (daytime)
+South Hadley, MA, USA        | Snail Mail: J. Botz, 01075-0629
+
+
+
+
+------------------------------
+
+From caf-talk Caf Aug 13 14:37:16 1992
+Newsgroups: alt.comp.acad-freedom.talk,alt.censorship
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 9--WLU sys admins search out "nasty" filenames and passwords
+Message-ID: <1992Aug13.182157.5688@m.cs.uiuc.edu>
+Date: Thu, 13 Aug 1992 18:21:57 GMT
+
+[This article, by Jim Boyce, jboyce1@mamut.wlu.ca, appeared on July
+14th in the Wilfrid Laurier University's student newspaper, the Cord.
+It is posted with Jim Boyce's permission.]
+
+     Questions have been raised about a program used by Computing
+Services to find profane file names. In May, The Cord obtained
+computer printouts from Kathy O'Grady, a student, which showed
+that the program was running as recently as last October and was
+designed to search through accounts in a section of the computer
+system and find files with the words "cunt", "shit" and "fuck" in
+their names.
+     O'Grady said she had been sceptical of rumours about the
+program's existence until last summer when she saw it operating
+(it could be viewed by typing a computer command which causes all
+running programs to be listed on the screen). She said she
+continued to check the system regularly during the summer and the
+fall and found it several more times. Copies of the program were
+saved on computer and printed out by her and two other Laurier
+students as proof.
+     Carl Langford, the Systems Administrator, said the program
+was started up two or three years ago and discontinued after a
+few weeks. The program discovered last year by O'Grady and other
+students was left running by mistake, he said, and had evaded
+detection because it ran sporadically and late at night. "As I
+recall, it was set to fire up at some ungodly hour of the
+morning," he said, but added that no action was taken with the
+results.
+     Hart Bezner, Director of Computing Services, said the
+program operated routinely during the mid-eighties, "but it [the
+language] cleaned up so we quit looking." He also said that it
+may have been running as recently as the past year: "there was
+one occasion when we had a complaint and that must have been
+within the last six months, maybe eight months, and I think we
+ran it two or three nights on all six unix machines to see how
+big the problem was."
+     Bezner, however, was not explicit as to what was done with
+the results from the program. A former Laurier student has told
+the Cord that the password to his account was changed last
+October, a few days before he had an assignment due. His password
+included the word "fuck" [in reference to a Kurt Vonnegut novel]
+and he said that when he contacted Computing Service, he was told
+he would have to get a new one: "They said that the computer went
+through and deleted nasty words".
+     Bezner would neither confirm or deny that such incidents had
+happened saying that no account had ever been cancelled but it
+was, "quite possible that we changed a password".
+     Langford and Bezner gave two reasons for intially creating
+the program.
+     First, according to Bezner, there had been many complaints
+about profane file names during the mid-eighties. Some of these
+complaints came from within Computing Services: "When the
+operators do file saves, the names of files roll past and they
+appear on a printout or a screen or both... and what triggered it
+was a file called `curly cunt hairs'."
+     Others came from computer users. Bezner said that during
+these years output from the laser printer carried file names in
+"inch-high letters" on the front page: "people flipping through
+their output would come across these words and it just wasn't
+very nice."
+     He said that only the names of files were checked and never
+the contents.
+     Secondly, according to Langford and Bezner, two students
+complained to Computer Services after seeing profane file names
+on terminals that other students were using. The program was then
+run to discover the degree to which profanity was being used.
+     When asked whether those students should have been looking
+at the terminals Bezner said, "it happens quite accidentally"
+when they are passing by. He explained that the computer room was
+a public place and equated the incident with someone going into
+an elevator and seeing a swear word written on the wall.
+     Kathy O'Grady, who has been the using the computers daily
+for more than two years, disagreed with such a comparison:
+"[Graffiti] forces the public to look at it, that's the whole
+point of graffiti, it makes people look at it.... When I'm typing
+in the main computer room I don't expect somebody to come up and
+look at what I'm writing."
+     Furthermore, it does not explain why a password should be
+cancelled since it is known only to the user and cannot be seen
+by anyone else.
+     O'Grady said she talked to a professor several times during
+the fall and winter about the program but decided to pursue the
+matter further and contacted Bezner. She said she wrote to him
+via computer mail and asked for an interview because she was
+thinking of writing an article for The Cord. Bezner responded
+with the following message: "If such a program still runs, it is
+a hangover from the distant past when such words were less
+acceptable. The program certainly doesn't appear to take any
+action. Will look into it. HB." (February 10, 1992).
+     O'Grady said that she has not seen the program running since
+that time but has concerns that it might be "masked" or kept
+dormant until she has left the university. She continues to check
+for it regularly and maintains her opposition to such actions by
+Computing Services: "it is totally ridiculous for any individual
+or small group of individuals to determine the language that
+students, or even professors, use."
+
+
+
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Aug 27 12:13:53 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Article 10--Re: Policy regarding Crack
+Message-ID: <1992Aug27.115813.28741@ms.uky.edu>
+From: morgan@ms.uky.edu (Wes Morgan)
+Date: 27 Aug 92 15:58:13 GMT
+
+ckd@eff.org (Christopher Davis) writes:
+>
+> Wes> 	- I can set a simple policy that says "this system is not to be used
+> Wes> 	  for the development or use of password cracking software".  My users
+> Wes> 	  are Engineering students; they have no curricular need to develop
+> Wes> 	  such software on our systems.  
+>
+>
+>Or you could run shadow passwords, and run Crack yourself, and have a
+>proactive password checker.
+
+I run Crack and COPS on a regular basis; a real-time password checker
+is in the works.  8)
+
+>This also benefits everyone, because it means that people are less
+>likely to have their accounts broken into, you don't get into problems
+>with people being duped into giving out your /etc/passwd for Joe Cracker
+>to run through Crack on his 486/50 (or on the SS2 he broke into last
+>week), and even if someone does get your shadow file, your passwords
+>will have some degree of strength.
+>
+>I realize that this isn't always doable, but it's a big improvement.
+
+There are external factors to be considered........
+
+Here's a "real world" problem:
+
+Earlier this year, I received a call from an admin at another university.  
+He found a user cracking his (and other) systems, and proceeded to follow 
+the normal procedures for disciplinary proceedings.  During the ensuing 
+investigation, it was discovered that this individual had copies of password
+files from many sites; system accounting records revealed that he had also
+been running Crack.  During the auditing of his files, electronic mail 
+archives indicated that some of those password files may have come from my 
+university; the admin requested my assistance in tracking down the (possibly) 
+compromised systems.
+
+Thankfully, none of the systems here were compromised (or even attacked).
+However, I discovered that this cracker had accumulated password files
+from at least 10 different systems in 5 states.  
+
+{ Enter philosophical mode }
+
+Many people have spoken of the "cooperative spirit" of networking.  We've
+discussed policies, shared code, and helped each other through problems.
+
+I've been a sysadmin for 4 years, and I've used Unix for 11 years.  However,
+many sites' admins are inexperienced; indeed, many of them become sysadmins
+by default.  (How many times have we seen postings such as "I've just been
+told that I'm going to be administering our Sun workstations, so....."?)  Many
+of those novice sysadmins depend on the assistance of their more experienced
+colleagues. 
+
+In some ways, we *are* our 'brother's keeper'.
+
+Why, then, should our assistance be restricted to reactive functions?
+If I can take steps to prevent potential problems WITHOUT affecting
+my core mission (Engineering education, in my case), why *shouldn't*
+I do so?  
+
+[As I mentioned in an earlier posting, some sites may have a curricular
+ (or professional) obligation to provide facilities for cryptographic
+ work.  Were I in such a situation, I would find some means of isolating
+ them from 'live' systems.  This university recently offered a CompSci class 
+ entitled "Computer Security"; in the course of instruction, the students 
+ were given a copy of Crack.  At the request of the instuctor, I created a 
+ dummy /etc/passwd file which was completely devoid of "real world" informa-
+ tion.  The appropriate warnings against extracurricular use of the program 
+ were issued, the course proceeded, and everyone was satisfied.]
+
+I believe that I, as a sysadmin, have a certain obligation to the other
+systems using our common network(s).  Why should I allow my system to be
+used as a 'forward base' from which to attack other systems?  Should I
+adopt an attitude such as "well, he's not cracking MY password file, so
+I don't care"?  If I found someone attempting to crack the password file 
+for kragar.eff.org, wouldn't you want me to notify you?  If so, why shouldn't 
+I prevent it in the first place, if such a goal is (relatively) attaniable?
+
+{ Exit philosophical mode }
+
+-- 
+MORGAN@UKCC         |       Wes Morgan       |        ...!ukma!ukecc!morgan 
+morgan@ms.uky.edu   | Engineering  Computing |   morgan@wuarchive.wustl.edu
+morgan@engr.uky.edu | University of Kentucky | JWMorgan@dockmaster.ncsc.mil
+  Mailing list for AT&T StarServer S/E  - starserver-request@engr.uky.edu
+
+
+------------------------------
+
+From caf-talk Caf Aug 19 12:09:55 1992
+From: rita@eff.org (Rita Marie Rouvalis)
+Subject: Article 11--EFFector Online 3.2 -- Future of NSFNet
+Message-ID: <1992Aug19.150341.18832@eff.org>
+Date: Wed, 19 Aug 1992 15:03:41 GMT
+
+
+########## ########## ########## |    
+########## ########## ########## |   
+####       ####       ####       |                                   
+########   ########   ########   |       THE FUTURE OF NSFNET
+########   ########   ########   |    
+####       ####       ####       |                   
+########## ####       ####       |                                   
+########## ####       ####       |                   
+=====================================================================
+EFFector Online             August 19, 1992                Issue  3.2
+         A Publication of the Electronic Frontier Foundation         
+                           ISSN 1062-9424                            
+=====================================================================
+
+
+               GETTING A HANDLE ON THE FUTURE OF NSFNET
+                    by Andrew Blau (blau@eff.org)
+
+                  A Report on the July 23 Meeting 
+                 of the Communications Policy Forum 
+                          in Washington, D.C.
+
+The National Science Foundation (NSF) is responsible for the NSFNet. 
+Originally a network created to link a handful of supercomputing 
+centers serving the U.S. research and education community, NSFNet 
+became the backbone of the Internet in this country, now serving 
+millions of people and thousands of organizations.  Since 1987, the 
+NSF has contracted with a partnership of Merit Network, Inc., IBM 
+and MCI to provide and manage these "backbone network services.  
+That contract will expire in November of this year.
+
+In order to award a contract for the next phase of the NSFNet's 
+growth and management, NSF staff is preparing a solicitation that 
+will describe the network that the NSF wants and invite interested 
+organizations to bid to become the provider of those services.  
+However, before releasing the final solicitation that will be bid 
+on, the NSF released a draft and asked for public comment on it. 
+Comments were to be filed by August 3rd of this year.
+
+In response to this, EFF, which administers the Communications 
+Policy Forum in Washington, DC convened a roundtable on July 23 to 
+bring together a wide cross-section of groups that would either be 
+bidding on the new contract or would be affected by its outcome. 
+Also attending the meeting were members of the NSF staff. The 
+meeting itself, in order to stimulate an open exchange of views, was 
+"off-the-record" in that while notes on the sense of the speakers 
+were maintained, no speaker was directly quoted.
+
+                 The Proposed New Shape of NSFNet
+
+The Draft Solicitation describes a new architecture for the NSFNet. 
+It specifies certain requirements for those who are interested in 
+providing these services.  
+
+Until now, the "backbone network services" that lie at the heart of 
+the NSFNet worked as a single package. This package was a trunk for 
+connecting regional or "mid-level" networks across the country. It 
+was provided by an organization that also controlled access to the 
+backbone and directed traffic on it.  In recent years, this 
+arrangement created a sense of unfairness among competitors in the 
+independent commercial sector who are eager to provide network 
+services and Internet connections. 
+
+In order to address these and other concerns, the Draft Solicitation 
+proposes that the next generation will split this package into two 
+distinct units. The first unit would be a "very high speed backbone" 
+or "vBNS". The second unit would provide a number of "network access 
+points" or "NAPs."  The entity responsible for providing the NAPs 
+will also be the Routing Authority that oversees network traffic.
+
+The draft also specifies some requirements for the new architecture. 
+First the vBNS must operate at 155 mbps or higher. Second, it must 
+connect to all NAPs. Third, it must provide high speed interregional 
+connectivity. Fourth it must be restricted to research and education 
+traffic only. Fifth, the NAPs must operate at speeds of at least 100 
+mbps, may connect any number of networks to each other or the vBNS, 
+and are open to any kind of traffic.  Finally, the vBNS provider and 
+the NAP manager must be two different entities.
+
+                        Reactions at the CPF
+
+Two major themes emerged from the nearly six hours of discussion at 
+the July 23rd CPF meeting.  
+
+First, there has been substantial lack of shared understanding about 
+some of the draft's key elements.  Among items mentioned were such 
+basic questions as what is a NAP, what is the vBNS, how will they 
+relate, are there ways of connecting to the vBNS without going 
+through a NAP, how many NAPs will there be and where will they be 
+located, what will it cost to connect to a NAP and how will charges 
+be set?
+
+Second, it became clear that there were many important issues about 
+which the NSF remained "intentionally silent."  Most obviously, the 
+draft has no guidelines to suggest how bids will be evaluated.  In 
+addition, the draft is silent about how this generation of the 
+NSFNet intersects with the development of the NREN. It does not 
+suggest how prices for NAP attachment will be set, and when. The 
+draft fails to address the procedure for starting a non-NSF 
+sponsored NAP and connecting to the vBNS. The draft also fails to 
+illuminate how the NSF determines when a technology is no longer 
+"experimental" and can be provided commercially without further 
+government funding.
+
+Additional issues came from the various constituencies around the 
+table who brought with them very different concerns.  For example, 
+the research and education community appreciated that the draft 
+seemed to make it easier to access commercial services through the 
+Internet, yet expressed concern that the new architecture would 
+disrupt the regional arrangements that allow costs to be shared.  
+These cost sharing arrangements, they argue, foster more widespread 
+connectivity, and disrupting them could reduce rather than increase 
+the number of networked institutions.
+
+Commercial network service providers expressed a range of opinions.  
+Some supported the basic architecture, although suggested certain 
+modifications, such as that the Routing Authority be separate from 
+the entity that manages the NAPs.  Others argued that the draft 
+continues to unfairly distort the marketplace for network services 
+by subsidizing standard connections such as e-mail.
+
+Local telephone companies, who have not previously been involved in 
+the development of the NSFNet, pointed out that the NSF was 
+proposing a new commercial network without taking into account the 
+infrastructure and regulatory boundaries of the nation's local 
+exchange telephone companies.  Since the breakup of the Bell System, 
+for example, the Baby Bells cannot transport traffic across certain 
+regional boundaries.  If the NSF's architecture does not put a NAP 
+in every one of these regions, then these network providers are 
+automatically excluded from full participation.
+
+Following the meeting, the EFF staff prepared a summary of the major 
+issues that arose during the course of the discussion and circulated 
+it to all those in attendance. The EFF also submitted it to the NSF as 
+a record of important concerns that the EFF believes should be 
+considered in preparing the final solicitation.  In addition, the EFF 
+asked the NSF to resubmit a draft solicitation for public comment 
+before issuing a final version.
+                       *      *      *      *      *
+
+Want more information?
+
+For more information about the NSFNet draft solicitation and bidding
+process, contact our Washington office at eff.org.  DC staff members 
+Danny Weitzner(djw@eff.org) and Andrew Blau (blau@eff.org), as well as 
+Jerry Berman (jberman@eff.org), the Director of the Washington office, 
+have all been working on this issue.
+
+About the Communications Policy Forum
+
+The Communications Policy Forum, a project administered by the EFF, 
+provides consumer and public interest groups, telecommunications 
+companies, computer industry groups and policy makers a common forum 
+in which to discuss telecommunications issues and exchange views in 
+a non-partisan setting.  The CPF also undertakes non-partisan 
+research.  It is co-sponsored with the Consumer Federation of 
+America and the ACLU.
+
+                        -==--==--==-<-==--==--==-
+
+             MEMBERSHIP IN THE ELECTRONIC FRONTIER FOUNDATION
+If you support our goals and our work, you can show that support by
+becoming a member now. Members receive our quarterly newsletter,
+EFFECTOR, our bi-weekly electronic newsletter, EFFector Online (if you
+have an electronic address that can be reached through the Net), and
+special releases and other notices on our activities.  But because we
+believe that support should be freely given, you can receive these
+things even if you do not elect to become a member.
+
+Our memberships are $20.00 per year for students, $40.00 per year for
+regular members.  You may, of course, donate more if you wish.
+
+Our privacy policy: The Electronic Frontier Foundation will never, under
+any circumstances, sell any part of its membership list.  We will, from
+time to time, share this list with other non-profit organizations whose
+work we determine to be in line with our goals. If you do not grant
+explicit permission, we assume that you do not wish your membership
+disclosed to any group for any reason.
+
+---------------- EFF MEMBERSHIP FORM ---------------
+
+Mail to: The Electronic Frontier Foundation, Inc.
+         155 Second St. #32
+         Cambridge, MA 02141
+
+I wish to become a member of the EFF  I enclose:$__________
+            $20.00 (student or low income membership)
+            $40.00 (regular membership)
+            $100.00(Corporate or company membership.
+                    This allows any organization to
+                    become a member of EFF. It allows
+                    such an organization, if it wishes
+                    to designate up to five individuals
+                    within the organization as members.)
+
+    |     I enclose an additional donation of $___________
+
+Name:______________________________________________________
+
+Organization:______________________________________________
+
+Address: __________________________________________________
+
+City or Town: _____________________________________________
+
+State:_______ Zip:________ Phone:(    )_____________(optional)
+
+FAX:(    )____________________(optional)
+
+Email address: ______________________________
+
+I enclose a check [  ]   .
+Please charge my membership in the amount of $_____________
+to my Mastercard [  ]     Visa [  ]      American Express [ ]
+
+Number:____________________________________________________
+
+Expiration date: ____________
+
+Signature: ________________________________________________
+
+Date:______________________
+
+I hereby grant permission to the EFF to share my name with
+other non-profit groups from time to time as it deems
+appropriate   [  ]  .
+                       Initials:___________________________
+
+Your membership/donation is fully tax deductible.
+=====================================================================
+                   EFFector Online is published by
+                 The Electronic Frontier Foundation
+                155 Second Street, Cambridge MA 02141
+             Phone: +1 617 864 0665 FAX: +1 617 864 0866
+                    Internet Address: eff@eff.org
+ Reproduction of this publication in electronic media is encouraged
+             To reproduce signed articles individually,
+      please contact the authors for their express permission.
+=====================================================================
+       This newsletter is printed on 100% recycled electrons.
+
+
+
+
+-- 
+Rita Marie Rouvalis              rita@eff.org 
+Electronic Frontier Foundation   | 
+155 Second Street                | "Stop me before I post again."
+Cambridge, MA 02141 617-864-0665 | 
+
+
+------------------------------
+
+From caf-talk Caf Aug 30 16:24:39 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 12--NREN Privacy Policy Proposal by CSPR
+Message-ID: <1992Aug30.202432.22763@eff.org>
+Date: Sun, 30 Aug 1992 20:24:32 GMT
+
+====== ftp.eff.org:pub/academic/statements/nren.privacy.cpsr ======
+
+          "Proposed Privacy Guidelines for the NREN"
+
+                 Statement of Marc Rotenberg,
+                     Washington Director
+   Computer Professionals for Social Responsibility (CPSR)
+
+ Open Forum on Library and Information Service's Roles in the
+        National Research and Education Network (NREN)
+
+             National Commission on Libraries and 
+                 Information Science (NCLIS)
+                       Washington, DC
+                        July 21, 1992
+
+	Thank you for the opportunity to testify today before 
+the National Commission on Library and Information Science 
+(NCLIS).  My name is Marc Rotenberg and I am the Director of 
+the Washington Office of Computer Professionals for Social 
+Responsibility (CPSR).  CPSR is a national organization of 
+professionals in the computing field.  
+	I would like to speak with you about privacy protection 
+and the future of the NREN. This is item 6 identified in the 
+NREN research agenda.  Richard Civille will speak with you 
+next about CPSR's work to promote Local Civic Networks.
+	During the past few years CPSR has coordinated several 
+national efforts to promote privacy protection for network 
+communication.  From cryptography to Caller ID, we have 
+sought to ensure that the rapid developments in the 
+communications infrastructure do not diminish the privacy we 
+all value.  We believe that the future of network 
+communications depends largely on the ability to make certain 
+that sufficient privacy protection is available for all users 
+of the network.
+	In this effort we have worked closely with the library 
+community.  It became clear to us that library organizations 
+have a special appreciation for the importance of privacy 
+protection.  For many, privacy is the critical safeguard that 
+protects intellectual freedom and promotes the open exchange 
+of information.  The American Library Association, the 
+Association of Research and other library organizations have 
+all shown their support for privacy protection through codes 
+of conduct, policy statements, and research conferences.
+	We have also worked closely with telecommunication 
+policy makers  in the United States and around the world.  
+The New York state Public Service Commission issued a policy 
+on telecommunication privacy which set out several principles 
+for network communications.  These recommendations have been 
+followed in several states.  More recently, the Minister of 
+Communications in Canada issued a series of principles on 
+communications policy.  Meanwhile, the Commission of the 
+European Communities has put forward a draft directive on 
+Data Protection in Telecommunications. 
+	The European Commission made a critical point about 
+future network development.  It said that "the effective 
+protection of personal data and privacy is developing into an 
+essential precondition for social acceptance of new digital 
+networks and services."  This view is shared by agencies in 
+other countries that have looked at the implications of 
+advanced networking services.  For example, the Ministry of 
+Posts and Telecommunications in Japan recently concluded a 
+study on the protection of personal data in the 
+telecommunications business and recommended a series of 
+privacy guidelines to accompany the introduction of new 
+network services.
+	In the United States, however, we find ourselves in the 
+midst of the greatest privacy debate in a generation.  In the 
+absence of a coherent federal policy to protect privacy, 
+consumers have been left to fend for themselves, and the 
+response is not encouraging.  From Pennsylvania to 
+California, telephone companies now face widespread and well-
+founded consumer opposition to new telephone services.  Part 
+of the reason for this is that there has been little effort 
+in the United States at the federal level to develop privacy 
+principles for new network services.
+	CPSR would like to see an agency in the United States 
+take on the task of developing and promulgating privacy 
+principles for network services.  We have already recommended 
+the creation of a data protection board which could, among 
+other tasks, develop appropriate principles for network 
+communications.  There is a proposal before Congress to 
+establish such an agency, but is unclear whether it will be 
+enacted this year.
+	Meanwhile, the Federal Communications Commission (FCC) 
+has been unwilling to address the privacy implications of new 
+network services.  We are also somewhat disappointed that 
+neither the Computer Science and Technology Board (CSTB) of 
+the National Research Council or the Office of Technology 
+Assessment (OTA) has addressed privacy concerns for network 
+users.  Both the CSTB and the OTA are well qualified to 
+tackle this problem.
+	In the interim, NCLIS could take a leadership role, and 
+help develop and promulgate privacy principles for the 
+emerging communications infrastructure.  It is clearly in the 
+interest of the library and information science community to 
+ensure adequate privacy protection, but unless some agency 
+takes on this responsibility it appears unlikely that the 
+work will be undertaken.
+	CPSR believes that it is in the long-term interest of 
+our country and of computer users around the world to ensure 
+protection for networked communication.  The failure to 
+develop such policy may impose very high costs on all network 
+users, and may ultimately reduce greatly the value of the 
+network to users.  
+	Speaking academically, the absence of adequate 
+protection for electronic communication is a substantial gap 
+in NREN policy that should soon be addressed if the full 
+potential of the infrastructure is to be realized.  Speaking 
+practically, if we don't get some good policy soon, we may 
+all be buried in a blizzard of electronic junkmail the likes 
+of which we have never known.
+	I would like now to make three points about the current 
+state of privacy protection for NREN, and then propose a 
+series of principles for privacy protection.  These 
+principles may help "get the ball rolling" and encourage the 
+development of other initiatives.  I hope that NCLIS will 
+recommend that the Office of Science and Technology Policy 
+(OSTP) give these principles full consideration.  
+
+FINDING 1:
+	Commercialization of the NREN will exacerbate 
+existing privacy problems.  Without a clear mechanism 
+to protect privacy, user concerns will increase.
+	Much of the discussion surrounding the NREN today 
+focuses on the opportunity to develop commercial services and 
+to provide network access for private carriers.  We do not 
+oppose efforts to provide commercial services. Clearly, there 
+is an important opportunity to develop new services and to 
+offer products through the network.  At the same time, it is 
+apparent that the commercialization of the NREN will create 
+new pressures on privacy protection.  
+	In the current network environment, made up primarily of 
+researchers and scientists, there is little incentive or 
+opportunity to gather personal data, to compile lists, or to 
+sell personal information.  This is likely to change.  Once 
+commercial transactions begin to take place on the net, the 
+information environment will resemble a hybrid of credit card 
+and telephone call transactions.  Records of individual 
+purchases will be available and will possess commercial 
+value.  The NREN community will face a whole new set of 
+privacy issues.
+	We anticipate that there will be three different types 
+of privacy problems as the NREN continues to evolve.  First, 
+as commercial organizations become users of the network, they 
+will gather personal data, and wish to sell lists.  The 
+address files for list servers could be sold, and users may 
+find themselves "subscribed" to lists they have no interest 
+in.  These activities will raise traditional privacy concerns 
+about the restrictions on disclosure and secondary use, the 
+opportunity for users to obtain information held by others, 
+and the need to minimize the collection of personal 
+information.
+	Second, efforts to promote competitiveness in the 
+delivery of network services may also lead to the disclosure 
+of network data which will compromise user privacy.   
+	This problem is already apparent in the current rules 
+for the operation of the telephone network.  The Federal 
+Communication Commission requires telephone companies to 
+provide records of customer phone calls to other companies so 
+that competing companies may analyze calling patterns and 
+sell their services.  Large companies objected to the 
+disclosure of this sensitive information.  As a result the 
+FCC required that telephone companies obtain authorization 
+before releasing these numbers.  But this restriction only 
+applies to telephone customers with more than 20 lines.
+	 The disclosure of Customer Proprietary Network 
+Information (CPNI) has already surprised many telephone 
+customers who now receive calls from companies with whom they 
+have no prior relationship.  These companies are able to 
+describe the customer's telephone calling habits in great 
+detail.  Users of NREN services are also likely to object to 
+the disclosure of network information. 
+	The third problem is that law enforcement agencies are 
+likely to make "greater demands" on communication service 
+providers to turn over records of electronic communications 
+to the government and to provide assistance in the execution 
+of warrants.  I say "greater demands" with some reservation 
+since the recent proposal from the Federal Bureau of 
+Investigation to require that all communications equipment in 
+the United States be capable of wiretapping seems about the 
+greatest demand conceivable.  Still, we should anticipate 
+that the government demands for access to the contents and 
+records of NREN communications are likely to increase.
+
+FINDING 2:
+	Current privacy protections are inadequate
+	Electronic communications are provided some protection 
+against unlawful interception by the Electronic 
+Communications Privacy Act (ECPA) of 1986.  This law extends 
+the very important guarantees contained within the 1968 
+wiretap statute to digital communication and stored 
+electronic mail.  But this protection now appears inadequate.  
+As a general matter, the wiretap law protects the contents of 
+an electronic message against unlawful disclosure; it does 
+not protect the record of the transaction against disclosure.  
+	ECPA also does not appear to protect critical personal 
+information, such as a person's telephone number, from 
+improper disclosure. For example, the Calling Number 
+Identification (CNID) service is probably a violation of the 
+wiretap statute and clearly a violation of the wiretap law of 
+several states.  Nonetheless,  the service has been offered 
+over the objection of consumer groups, technical experts, and 
+legal scholars.
+
+FINDING 3:
+	Technical safeguards provide only a partial 
+solution
+	There are some in the network community who believe that 
+technology will provide a solution to these emerging privacy 
+problems.  New techniques in cryptography provide ways to 
+protect the contents of an electronic message and even to 
+protect the identity of the message author.  An article that 
+will appear next month in Scientific American titled 
+"Achieving Electronic Privacy" describes in more detail how 
+it may be possible through technical means to recapture some 
+privacy.
+	CPSR has supported many efforts to improve technical 
+means for privacy protection. In fact, CPSR has been of the 
+leading proponents of the widespread us of cryptography to 
+protect electronic communications.  We have opposed 
+restrictions by both the National Security Agency and the 
+Federal Bureau of Investigation on the use of cryptography.  
+We have also supported the development of privacy-enhancing 
+technologies, such as telephone cards which are widely used 
+in Europe and Japan, and recommended that policy makers 
+explore technical means to protect information.
+	Nonetheless, we do not believe that technical safeguards 
+will provide sufficient protection for networked 
+communications.  Our right of privacy is based on 
+Constitutional principles and our national history, and 
+reflects our commitment to certain political ideals.  The 
+protection of privacy is ultimately a policy decision that 
+must be resolved through our political institutions.  
+Clearly, technology provides useful developments that we 
+should incorporate into future networks, but it would be a 
+mistake to assume that technology alone will provide 
+sufficient protection.
+	This point was made two decades ago by former White 
+House Science Adviser Jerome Wiesner who also served as 
+president of MIT. In testimony before Congress on the privacy 
+implications of databanks, Professor Wiesner said:
+
+"There are those who hope new technology can redress 
+these invasions of personal autonomy that information 
+technology now makes possible, but I don't share this 
+hope.  To be sure, it is possible and desirable to 
+provide technical safeguards against unauthorized 
+access.  It is even conceivable that computers could be 
+programmed to to have their memories fade with time and 
+to eliminate specific identity.  Such safeguards are 
+highly desirable, but the basic safeguards cannot be 
+provided by new inventions.  They must be provided by 
+the legislative and legal systems of this country.  We 
+must face the need to provide adequate guarantees for 
+individual privacy."
+	We believe that the development of NREN privacy policy 
+should be conducted in this spirit: looking for opportunities 
+to incorporate technical safeguards while recognizing that 
+the ultimate decisions are policy-based.
+
+PRIVACY GUIDELINES
+	Before discussing the proposed privacy principles, I 
+would like to say a few words about the desirability of 
+developing these principles.  Privacy protection in 
+electronic environments is a particularly complex policy 
+problem.  There is legal jargon and technical jargon.  There 
+are rapid changes.  And there are certainly a wide range of 
+opinions about how best to achieve privacy, even about what 
+privacy means.
+	Privacy principles have helped to clarify goals and to 
+convey objectives in non-technical terms.  Well developed 
+polices are "technology neutral" and are adaptable as new 
+technologies emerge. Professional organizations have made 
+widespread use of such principles for codes of ethics and for 
+public education.
+	There are a number of such polices in the privacy realm.  
+Some of these polices have been extremely influential in the 
+development of public policy, national law, and international 
+agreements.  For example, the Code of Fair Information 
+Practices was the basis for the Privacy Act of 1974, the most 
+extensive privacy law in the United States. The Code was 
+developed by a special task force created by the Secretary of 
+Health, Education, and Welfare in 1973.  Other codes have 
+formed the basis for data protection law in Great Britain.  
+	All of these codes seek to establish certain 
+responsibilities for organizations that collect personal 
+information, and  to create certain rights for individuals.
+	In developing these telecommunication privacy 
+guidelines, we examined existing codes and particularly the 
+principles developed by the Organization for Economic and 
+Cooperative Development (OECD) in 1981.  We also incorporated 
+several additional principles that we believe are necessary 
+to protect personal information in communication 
+environments.
+	Taken as a whole, the principles are intended to improve 
+privacy protection for network communications as the NREN 
+continues to evolve.
+
+RECOMMENDATION 1: 
+	The confidentiality of electronic communications 
+should be protected. 
+	The primary purpose of a communication network is to 
+ensure that information can travel between two points without 
+alteration, interception, or disclosure.  A network that 
+fails to achieve this goal will not serve as a reliable 
+conduit for information.  Therefore the primary goal should 
+be to guarantee the confidentiality of electronic 
+communications.
+
+RECOMMENDATION 2:
+ 	Privacy considerations must be recognized 
+explicitly in the provision, use and regulation of 
+telecommunication services.
+	The addition of new services to a communications 
+infrastructure will necessarily raise privacy concerns.  
+Users should be fully informed about the privacy implications 
+of these services so that they are able to make appropriate 
+decisions about the use of services.
+
+RECOMMENDATION 3:
+	The collection of personal data for 
+telecommunication services should be limited to the 
+extent necessary to provide the service.
+	Users should not be required to disclose personal data 
+which is not necessary for the rendering of the service.  In 
+particular, the use of the Social Security number should be 
+avoided.  In no instance, should it be used as both an 
+identifier and authenticator.
+
+RECOMMENDATION 4:
+	Service providers should not disclose information 
+without the explicit consent of service users.  
+Service providers should be required to make known 
+their data collection practices to service users.  
+	Service providers have a responsibility to inform users 
+about the collection of personal information and to protect 
+the information against unlawful disclosure.  Personally 
+identifiable information should not be disclosed without the 
+affirmative consent of the user.
+
+RECOMMENDATION 5:
+	Users should not be required to pay for routine 
+privacy protection.  Additional costs for privacy 
+should only be imposed for extraordinary protection.
+	The premise of the federal wiretap statue is that all 
+users of the public network are entitled to the same degree 
+of legal protection against the unlawful disclosure of 
+electronic communications.  This principle should be carried 
+forward into the emerging network environment.  Segmented 
+levels of privacy protection are also likely to introduce new 
+transaction costs and create inefficiencies.  Where special 
+charges are imposed for privacy, it should be for "armored 
+car" service.
+
+RECOMMENDATION 6:
+	Service providers should be encouraged to explore 
+technical means to protect privacy.
+	Service providers should pursue technical means to 
+protect privacy, particularly where such means may improve 
+the delivery of service and reduce the risk of privacy loss.  
+
+RECOMMENDATION 7:
+	Appropriate security polices should be developed 
+to protect network communications
+	Security is an element of privacy protection but it is 
+not synonymous with privacy protection.  Appropriate security 
+policies should be put in place to protect privacy.  However, 
+it should be recognized that some security measures may 
+compromise privacy protection.  Network monitoring, for 
+example, or the collection of detailed audit trail 
+information will raise substantial privacy concerns.  
+Therefore, security policies should be designed to serve the 
+larger goal of privacy protection.
+
+RECOMMENDATION 8:
+	A mechanism should be established to ensure the 
+observance of these principles.
+	Good principles without appropriate oversight and 
+enforcement are insufficient to protect privacy.  This has 
+been the experience of the United States with the Privacy Act 
+of 1974 and of the European countries with the OECD 
+principles of 1981.  In both instances, fine principles 
+lacked sufficient oversight and enforcement mechanisms.
+
+	Additional principles may be appropriate and these 
+principles may well need modification.  But we hope that they 
+will provide a good starting point for a discussion on 
+communications privacy for the NREN.
+
+[Attachments: "Protecting Privacy," Communications of the 
+ACM, April 1992; "Communications Privacy: Implications for 
+Network Design," Proceedings of INET '92, Kobe, Japan)]
+
+=============================================================
+CPSR Washington Office, 666 Pennsylvania Ave., SE, Suite 303
+Washington, DC 20003  202-544-9240 (tel)  202-547-5481 (fax)
+                 rotenberg@washofc.cpsr.org
+=============================================================
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

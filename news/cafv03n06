@@ -1,0 +1,909 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 03.06 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 03, No. 06
+
+
+----------------------------------------------------------------------
+
+From: elee9sf@Menudo.UH.EDU (Karl Barrus)
+Subject: Article 0 -- Abstract of CAF-News 03.06
+
+Topics:
+
+   1-4    concern logging anonymous ftp usage
+   5-6    concern file privacy
+   7-8    concern the rights of an expired account
+   9-10   concern the ethics of virus distribution
+   11     describe problems with ftp at SRI
+   12-13  concern revoking computer accounts
+
+
+Abstract:
+
+[Week ending February 7, 1993
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+  [We need new guest (or regular) editors, for information
+  send email to kadie@eff.org.  - Carl]
+
+Notes 1-4 concern logging anonymous ftp usage.
+
+1. Many anonymous ftp servers log host name, host address, identity,
+password, and file transfers for anonymous users, with no stated
+policy.  Is this proper and should the logs be public record, or is
+this an invasion of privacy?
+    <1993Feb3.103442.12179@nntp.hut.fi>
+
+2. "The main reason system administrators log anonymous ftp
+activity... is for system security."  Ftp is an attack point of
+crackers; logs can help identify crackers, security holes, and
+provide information for possible prosecution.
+    <1993Feb3.211057.22700@netcom.com>
+
+3. "Ftp logs here are definitely NOT considered public records...
+naive users of anonymous FTP might actually type in their password."
+    <1993Feb3.214249.9068@mp.cs.niu.edu>
+
+4. "A site should make its policy on log information known to the user
+in advance."  If you don't see an explicit statement of policy, don't
+presume one.
+    <1ks213$in6@nic.near.net>
+
+Notes 5-6 concern file privacy
+
+5. My account was terminated after the files on my account were
+examined by the system administrator.
+    <38470@uflorida.cis.ufl.edu>
+
+6. A search may have violated your 4th Amendment right against
+unreasonable search, and the termination of your account may have
+violated your constitutional and contractual right to due process.
+Punishment may violate your rights to freedom of expression.
+    <1993Feb3.225041.10325@eff.org>
+
+Notes 7-8 concern the rights of an expired account
+
+7. An account that was supposed to have been terminated appears to
+have been used for mischief such as password cracking.  What action
+may we take against the owner, who is no longer a student?
+    <1993Feb4.013614.25163@scott.skidmore.edu>
+
+8. If it can be shown that the student knew it was not OK to continue
+using the account, then pursue the matter to the fullest.
+    <3FEB199323193511@ctrvx1.vanderbilt.edu>
+
+Note 9-10 concern the ethics of virus distribution
+
+9. Is it a good idea to distribute computer viruses?
+    <1993Feb4.101803.29931@nntp.hut.fi>
+
+10. "Distribution of ANY program, regardless of its intended purpose
+or use should NEVER be made illegal."
+    <93036.140046JDG111@psuvm.psu.edu>
+
+Note 11 describe problems with ftp at SRI
+
+11. I was searching for AI code at SRI available via anonymous FTP, and
+looked at their password file (I didn't know this at the time).  It
+turns out that the administrator at SRI had called my school's
+computer services, which in turn called my department chair, who
+called my professor, who warned me not to try to break into SRI's
+computer system.
+    <1993Feb4.230239.5445@memstvx1.memst.edu>
+
+Notes 12-13 concern revoking computer accounts
+
+12. Should students who abuse their computer accounts have them
+suspended?  Yes, because allowing an abuser to continue using the
+account is unfair to other users of the system.
+    <1993Jan31.185656.10384@anomaly.sbs.com>
+
+13. But this is unfair to me if I am only suspected of abusing my account.
+    <PLUMMER.93Feb3171133@cilantro.cs.swarthmore.edu>
+
+- Karl Barrus]
+
+
+Contents:
+
+Jyrki Kuoppala   37  Logging anon. ftp usage
+Tom Mandel       34  >
+Neil Rickert     18  >
+John Curran      22  >
+                 27  Can the admin look at my files?
+Carl M. Kadie   214  >
+Leo D. Geoffrion 40  an unusual privacy/rights question
+MCGEEGE          69  >
+Jyrki Kuoppala    9  Ethics of distributing computer viruses
+Doug             14  >
+Mark C. Langston 74  Legal Tangles During FTP at SRI
+Michael Deignan  32  >FAST CASH!!!
+Barker-Plummer   32  >
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Associate Editor: Leslie Regan Shade (shade@ice.cc.mcgill.ca)
+Associate Editor: Henry E. Hardy (seraphim@ais.org)
+Associate Editor: Karl Barrus (elee9sf@Menudo.UH.EDU)
+Associate Editor: Bruce Umbaugh (BDU100F@oduvm.cc.odu.edu)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Feb  3 12:57:26 1993
+Newsgroups: comp.admin.policy,comp.org.eff.talk,alt.privacy,alt.comp.acad-freedom.talk
+From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Subject: Article 1--Logging anon. ftp usage
+Message-ID: <1993Feb3.103442.12179@nntp.hut.fi>
+Date: Wed, 3 Feb 1993 10:34:42 GMT
+
+Many anon. ftp servers currently log the host name&address,
+ident/password and file transfers of the "anon" users, with no stated
+policy on what to use the logs for.
+
+What's the net.wisdom on this?
+
+Is it only right and proper, and necessary to catch all the child
+molesters, drug pushers and cryptojunkies and report their identities
+to the proper authorities?
+
+Or a case of "it's my ftp server, my property and I'll log whatever I
+damn please and do whatever I want with the info - you're free to not
+connect"?
+
+What about when the ftp server is public property, ie. funded by
+taxpayers?  Should the logs be a matter of public record to account
+for the use of the taxpayer money, or just cheap food for the
+respective domestic intelligence agencies' profile gathering
+activities?
+
+Is logging a case of "the fascist big brother should have no business
+invading my privacy, and it's probably illegal collection of personal
+information in many countries"?
+
+Should we start keeping a list of "the bad guys" keeping ftp servers
+(who don't log the identities, or who do look the id's, depending on
+your answers to previous questions) and start badmouthing/boycotting
+them?  Should ftp maintainers/users/uploaders take personal
+responsibility and stand on the issue and decline to cooperate with
+sites who log/don't log information?
+
+What is the meaning of life?
+
+//Jyrki
+
+
+------------------------------
+
+From caf-talk Caf Feb  3 16:39:36 1993
+From: mandel@netcom.com (Tom Mandel)
+Newsgroups: comp.admin.policy,comp.org.eff.talk,alt.privacy,alt.comp.acad-freedom.talk
+Subject: Article 2--Re: Logging anon. ftp usage
+Message-ID: <1993Feb3.211057.22700@netcom.com>
+Date: 3 Feb 93 21:10:57 GMT
+
+In article <1993Feb3.103442.12179@nntp.hut.fi> jkp@cs.HUT.FI (Jyrki Kuoppala) writes:
+>Many anon. ftp servers currently log the host name&address,
+>ident/password and file transfers of the "anon" users, with no stated
+>policy on what to use the logs for.
+>
+>What's the net.wisdom on this?
+>
+>//Jyrki
+
+The main reason system administrators log anonymous ftp activity, per
+your description is for system security.  ftp is one of several common
+points of attack by computer crackers and it makes good sense to
+maintain logs in order to identify potential crackers, locate (and then
+patch) security holes they may be trying to exploit, and in some instances,
+collect information for future prosecution.
+
+I've seen some very interesting ftp logs of cracking attempts over
+the years.  Often one sees a lot of ftp users just making simple
+mistakes or behaving "inappropropriately" because of naivete.
+For instance, trying to read files so they can get email addresses
+of people on a particular system; most people who try to do that
+via ftp just don't understand that there are appropriate tools for
+getting such info.  But sometimes you also see crackers up to the
+same sorts of info gathering.
+
+-- 
+Tom Mandel   mandel@netcom.com   mandel@qm.sri.com
+
+[1] What my employer doesn't know, it can't have an opinion about.
+[2] I insulted the entire WELL and lived to tell about it.
+[3] Email to the above; flames to /dev/camille-paglia
+
+
+------------------------------
+
+From caf-talk Caf Feb  3 16:46:11 1993
+Newsgroups: comp.admin.policy,comp.org.eff.talk,alt.privacy,alt.comp.acad-freedom.talk
+From: rickert@mp.cs.niu.edu (Neil Rickert)
+Subject: Article 3--Re: Logging anon. ftp usage
+Message-ID: <1993Feb3.214249.9068@mp.cs.niu.edu>
+Date: Wed, 3 Feb 1993 21:42:49 GMT
+
+In article <1993Feb3.103442.12179@nntp.hut.fi> jkp@cs.HUT.FI (Jyrki Kuoppala) writes:
+>
+>What about when the ftp server is public property, ie. funded by
+>taxpayers?  Should the logs be a matter of public record to account
+>for the use of the taxpayer money, or just cheap food for the
+>respective domestic intelligence agencies' profile gathering
+>activities?
+
+I suppose a state university counts as taxpayer funded.  FTP logs here
+are definitely NOT considered public records.  That is, the file is not
+publically readable.  This is because naive users of anonymous FTP might
+actually type in their password.  In case they do, I don't want it to
+be public.  [Incidently, logs are only looked if there are problems.
+Normally they are discarded after an appropriate amount of time.]
+
+
+
+------------------------------
+
+From caf-talk Caf Feb  4 16:37:35 1993
+From: jcurran@nic.near.net (John Curran)
+Newsgroups: comp.admin.policy,comp.org.eff.talk,alt.privacy,alt.comp.acad-freedom.talk
+Subject: Article 4--Re: Logging anon. ftp usage
+Date: 4 Feb 1993 16:32:19 -0500
+Message-ID: <1ks213$in6@nic.near.net>
+
+In article <sfarrell.728835419@unix2.tcd.ie> sfarrell@unix2.tcd.ie (Sean Farrell) writes:
+>I think it'd be fair if the logs were treated the same as library records,
+>and if any site operating a different policy informed the user of that fact.
+>Thoughts?
+
+50% agreement.  A site should make its policy on log information known to 
+the user in advance.  Users should _not_ assume any default policy, anymore
+than you can assume that statistics on your usenet posting activities would
+be private.
+
+The same guidelines apply to mailing lists, database entries, server logs, 
+and interactive services.  If you don't see an explicit statement of policy,
+don't presume that the operator shares a "common sense of responsibility"
+with the raw data or even derived information.
+
+Look at rfc1355 (Privacy and Accuracy issues in NIC DB's) for related
+background information.
+
+/John
+
+
+------------------------------
+
+From caf-talk Caf Feb  3 17:43:36 1993
+Newsgroups: misc.legal.computing
+Subject: Article 5--Can the admin look at my files?
+Message-ID: <38470@uflorida.cis.ufl.edu>
+Date: 3 Feb 93 21:18:20 GMT
+
+
+I was recently involved in an incident where the files on my account 
+where examined by the system administrator.  My account was 
+terminated because they did not like the information contained in 
+them.   I will not go into exactly was what in them, but there was 
+nothing that would be considered illegal.  It has also come to my 
+attention that the system administrator has been discussing the files 
+with other people who had nothing to do with the administration of 
+our system or our department.  What I want to know is, is this legal?  
+Can they just look through my files?  Is there any legal action I can 
+take against them?  
+
+(Please reply via e-mail as I do not normally read this group)
+
+Thanks
+Brooks Taylor
+bwt@cis.ufl.edu
+
+
+
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb  3 17:50:49 1993
+Newsgroups: misc.legal.computing,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 6--Re: Can the admin look at my files?
+Message-ID: <1993Feb3.225041.10325@eff.org>
+Date: Wed, 3 Feb 1993 22:50:41 GMT
+
+[Disclaimers: I do not represent EFF; this is just me. I'm not a lawyer.]
+
+bwt@beach.cis.ufl.edu (Brooks Taylor) writes:
+
+>I was recently involved in an incident where the files on my account 
+>where examined by the system administrator.
+
+This may have violated your 4th Amendment right against unreasonable
+search [see references] (but, as far as I know it has never been
+tested in court).
+
+>My account was terminated because they did not like the information
+>contained in them.
+
+This may have violated your constitutional and contractual right
+to due process [see references].
+
+>   I will not go into exactly was what in them, but there was 
+>nothing that would be considered illegal.
+
+If you were punished for the legal content of material, your
+constitutional and contractual rights to freedom of expression may
+have been violated.
+
+>It has also come to my 
+>attention that the system administrator has been discussing the files 
+>with other people who had nothing to do with the administration of 
+>our system or our department.
+
+Your rights under the Family Educational Rights and Privacy Act quite
+likely have been violated (FERPA).
+
+>What I want to know is, is this legal?  
+>Can they just look through my files?  Is there any legal action I can 
+>take against them?  
+
+Legal action is very expensive. Less expensive is 1) talking to the
+University omnibudsman 2) filing a formal complaint with the school 3)
+filing a FERPA complaint.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+law/mass-student-searches
+=================
+* Privacy --  Mass Students Searches
+
+An excerpt from The ACLU Handbook: _The Rights of Students_, stating that
+"there must a reasonable suspicion directed specifically at each student
+before a school official can search students."
+
+=================
+law/gillard-v-schmidt
+=================
+* Privacy -- School -- Staff Desk -- Gillard v. Schmidt
+
+Description of an appellate court ruling that the school board could
+not search the desk of a school counselor without a warrant.
+
+=================
+law/new-jersey-v-tlo
+=================
+* Privacy -- High School Students -- New Jersey v. TLO
+
+Summary of laws protecting high school students from unreasonable
+searches.
+
+=================
+law/constraints.constitutional
+=================
+* Constitution -- Public University -- Constraints
+
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_ by Partrica A. Hollander, D. Parker Young, and Donald D.
+Gehring.  (College Administration Publication, 1985).  Discusses the
+constitutional constraints on public universities including the
+requires for freedom of expression, freedom against unreasonable
+searches and seizures, due process, specific rules.
+
+=================
+law/constitution.us
+=================
+* Constitution -- U.S. -- Full Text
+
+The Constitution of the United States
+
+=================
+law/constraints.contractual
+=================
+* Universities -- Contractual Constraints
+
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_. Explains that University Code is part of the contract
+between the student and school. The University can be liable for a
+breach of the contract (i.e. for not following its own rules).
+
+=================
+faq/due-process
+=================
+* Due Process
+ 
+q: Should users be suspended from the computer pending formal discipline?
+ 
+a: No, with one exception. Just as students should not be expelled
+...
+
+=================
+law/ferpa
+=================
+* Privacy -- School Records -- FERPA -- Excerpts
+
+Excerpts from _College and University Student Records: A Legal
+Compendium_, Edited by Joan E. Van Tol, 1989. Details the Family
+Education Rights and Privacy Act's (Buckley Amendment's) provisions on
+directory information.
+
+=================
+faq/censorship-and-harassment
+=================
+* Censorship And Harassment
+ 
+q: Must/should universities ban material that some find offensive
+(from Netnews facilities, email, libraries, and student publications,
+etc) in order to comply with antiharassment laws?
+ 
+a: No. The federal courts have said that harassing speech is different
+...
+
+=================
+faq/netnews.reading
+=================
+* Netnews -- Policies on What Users Read
+ 
+q: Should my university remove (or restrict) Netnews newsgroups
+because some people find them offensive? If it doesn't have the
+resources to carry all newsgroups, how should newsgroups be selected?
+ 
+a: Material should not be restricted just because it is offensive to
+...
+
+=================
+policies/uiuc.edu
+=================
+* Edu -- U. of Illinois at U-C -- Privacy
+
+This is the University of Illinois's Interim E-Mail and Computer File
+Privacy Policy. It says that "network and system administrators are
+expected to treat the contents of electronic files as private and
+confidential." and "Any inspection of electronic files, and any action
+based upon such inspection, will be governed by all applicable U. S.
+and Illinois laws and by University policies."
+
+=================
+caf
+=================
+* About the CAF mailing lists (and newsgroups)
+
+A description of the comp-academic-freedom-talk mailing list. It is a
+free-forum for the discussion of questions such as: How should general
+principles of academic freedom (such as freedom of expression, freedom
+to read, due process, and privacy) be applied to university computers
+and networks? How are these principles actually being applied? How can
+the principles of academic freedom as applied to computers and
+networks be defended?
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/law/mass-student-searches
+  pub/academic/law/gillard-v-schmidt
+  pub/academic/law/new-jersey-v-tlo
+  pub/academic/law/constraints.constitutional
+  pub/academic/law/constitution.us
+  pub/academic/law/constraints.contractual
+  pub/academic/faq/due-process
+  pub/academic/law/ferpa
+  pub/academic/faq/censorship-and-harassment
+  pub/academic/faq/netnews.reading
+  pub/academic/policies/uiuc.edu
+  pub/academic/caf
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/law mass-student-searches
+send acad-freedom/law gillard-v-schmidt
+send acad-freedom/law new-jersey-v-tlo
+send acad-freedom/law constraints.constitutional
+send acad-freedom/law constitution.us
+send acad-freedom/law constraints.contractual
+send acad-freedom/faq due-process
+send acad-freedom/law ferpa
+send acad-freedom/faq censorship-and-harassment
+send acad-freedom/faq netnews.reading
+send acad-freedom/policies uiuc.edu
+send acad-freedom caf
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb  3 21:03:17 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: ldg@scott.skidmore.edu (Leo D. Geoffrion)
+Subject: Article 7--an unusual privacy/rights question
+Message-ID: <1993Feb4.013614.25163@scott.skidmore.edu>
+Date: Thu, 4 Feb 1993 01:36:14 GMT
+
+We have an unusual situation that has several of our administrator's
+puzzled.
+
+We issued a user account to a summer school student.  At the end of
+the summer, that student left the college but continues to reside in
+the local area.  Our normal practice is to purge such accounts from
+the system at the end of the summer school, but by oversight this
+account was missed.
+
+Since then, this account appears to have been used for suspicipious
+activities, including password cracking and other mischief.  To this
+point, we've limited our search to open information such as accounting
+logs and file names without looking at the contents of the files
+themselves.
+
+We've disabled the account since it was not supposed to be valid
+anyway since the person is no longer affiliated with the college.  
+Following standard practice, we've consulted with the various campus
+disciplinary committees, but they all state that they have no
+jurisdiction since this person is no longer a student or employee.
+They feel they have no authority to authorize (or disapprove)
+examination of the files in order to confirm illicit activity.
+
+We've been cooperating with the police and may ask them to issue a
+search warrant, but we're very curious about how far we can go in
+examining the files without a formal warrant.  Simply put, what
+privacy rights does an invalid account have?  Since it does not belong
+there in the first place, what protections should it have?
+
+If this person were a current student, we'd have procedures in place
+to present our suspicions to the student integrity board who would
+listen to any counter objections from the student and decide whether
+to permit further search of the user files.  
+-- 
+Leo Geoffrion, Skidmore College Computer Services, Saratoga Springs, NY 12866
+EMAIL: ldg@scott.skidmore.edu   VOICE: (518) 584-5000 Ext. 2919
+
+
+
+------------------------------
+
+From caf-talk Caf Feb  4 00:31:05 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: mcgeege@ctrvx1.vanderbilt.edu (MCGEEGE)
+Subject: Article 8--Re: an unusual privacy/rights question
+Message-ID: <3FEB199323193511@ctrvx1.vanderbilt.edu>
+Date: Thu, 4 Feb 1993 05:19:00 GMT
+
+In article <1993Feb4.013614.25163@scott.skidmore.edu>, ldg@scott.skidmore.edu (Leo D. Geoffrion) writes...
+>We have an unusual situation that has several of our administrator's
+>puzzled.
+> 
+>We issued a user account to a summer school student.  At the end of
+>the summer, that student left the college but continues to reside in
+>the local area.  Our normal practice is to purge such accounts from
+>the system at the end of the summer school, but by oversight this
+>account was missed.
+> 
+>Since then, this account appears to have been used for suspicipious
+>activities, including password cracking and other mischief.  To this
+>point, we've limited our search to open information such as accounting
+>logs and file names without looking at the contents of the files
+>themselves.
+> 
+>We've disabled the account since it was not supposed to be valid
+>anyway since the person is no longer affiliated with the college.  
+>Following standard practice, we've consulted with the various campus
+>disciplinary committees, but they all state that they have no
+>jurisdiction since this person is no longer a student or employee.
+>They feel they have no authority to authorize (or disapprove)
+>examination of the files in order to confirm illicit activity.
+> 
+>We've been cooperating with the police and may ask them to issue a
+>search warrant, but we're very curious about how far we can go in
+>examining the files without a formal warrant.  Simply put, what
+>privacy rights does an invalid account have?  Since it does not belong
+>there in the first place, what protections should it have?
+> 
+>If this person were a current student, we'd have procedures in place
+>to present our suspicions to the student integrity board who would
+>listen to any counter objections from the student and decide whether
+>to permit further search of the user files.  
+>-- 
+>Leo Geoffrion, Skidmore College Computer Services, Saratoga Springs, NY 12866
+>EMAIL: ldg@scott.skidmore.edu   VOICE: (518) 584-5000 Ext. 2919
+
+Let's distinguish ethical and legal responsibilities here, then reintegrate 
+them once it is clear that we see the confluence.  This guy (person) has your
+password, and is authorized to use the computer with it during a certain 
+period of time. At the end of that period, you terminate that priveledge.
+Only in this case, your technologies didn't terminate that priveledge, and
+those technologies represented your school's policy toward that student at 
+that time (unless the student was told not to use the computer after a 
+certain date, in which case you made merely a computer and not ethical error).
+The student has continued to use the computer, but as a non-student now that
+the period of his involvement with the school is over.  What activity would
+ be ethical for him to take regarding the computer?  If he believed that it
+was Ok to use the computer, he did not act unethically by doing so. However,
+if you can demonstrate viably that he believed otherwise (eg. by acting in
+a different way after Date X), then the legal question ensues.
+
+At this point, the obvious response is: hang him.  The student violated laws,
+protocols, etc. that are crucial to the integrity of student life and the
+university's covenant with its community and the community at large. The 
+student has a responsibility legally to the law regarding the violations, but
+also (I think) has a responsibility to the university on its own terms. Why
+can't you freeze his records? Pending his participation in the university's
+investigation? This action seems appropriate.
+
+Good luck. 
+
+Glenn McGee, Vanderbilt Department of Philosophy/Center for Clinical Ethics
+
+> 
+
+
+------------------------------
+
+From caf-talk Caf Feb  4 06:17:25 1993
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.censorship
+From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Subject: Article 9--Ethics of distributing computer viruses
+Message-ID: <1993Feb4.101803.29931@nntp.hut.fi>
+Date: Thu, 4 Feb 1993 10:18:03 GMT
+
+Is it a good idea or a bad idea to have computer viruses available for
+ftp?  Should such distribution be prohibited by law?  Should sites and
+people dsitributing virus be shunned?  Should sites censoring uploaded
+viruses be shunned?
+
+//Jyrki
+
+
+------------------------------
+
+From caf-talk Caf Feb  5 14:39:05 1993
+Date: Fri, 5 Feb 1993 14:00:46 EST
+From: Doug <JDG111@psuvm.psu.edu>
+Message-ID: <93036.140046JDG111@psuvm.psu.edu>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.censorship
+Subject: Article 10--Re: Ethics of distributing computer viruses
+
+In article <1993Feb4.101803.29931@nntp.hut.fi>, jkp@cs.HUT.FI (Jyrki
+Kuoppala) says: > >Is it a good idea or a bad idea to have computer viruses
+available for >ftp?  Should such distribution be prohibited by law?  Should
+sites and >people dsitributing virus be shunned?  Should sites censoring
+uploaded >viruses be shunned?  > >//Jyrki
+
+Distribution of ANY program, regardless of its intended purpose or use
+should NEVER be made illegal.  __NEVER!!__
+
+As far as viruses go, well, I run a ratio-free virus board, so I guess that
+about says it all....
+
+
+------------------------------
+
+From caf-talk Caf Feb  5 00:05:53 1993
+From: langston@memstvx1.memst.edu (Mark C. Langston)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 11--Legal Tangles During FTP at SRI
+Message-ID: <1993Feb4.230239.5445@memstvx1.memst.edu>
+Date: 4 Feb 93 23:02:39 -0600
+
+Given all the talk about anon FTP, this should prove interesting...
+
+Last nite, I was FTPing around, looking for some AI (artificial intelligence)
+code, as I am taking a class in it and wanted some code to analyze/run.
+Anyway, I ftp'ed to a few sites I know of, downloaded some stuff.  Then I
+checked ARCHIE for sites...found a few, went there, and looked around.
+Then, being a good information locator, I thought of a few institutions that
+do this type of research, but whose domain names I neither knew or got through
+archie.  Therefore, I WHOIS'ed 'em, and found domain names for a few places
+I hadn't looked yet.  (Stanford research Institute being one...SRI.COM).
+Anyway, I browsed these, and ftp'ed to SRI.
+
+  Well...they didnt have much.  I did a few GET foo.bar - just to display
+the contents of some of the files on my screen.  One of them was named
+passwrd.  (I didnt know what was in it).  I did a GET passwrd - and 
+displayed its contents...apparently some binary or encrypted file having to 
+do with (through powers of deduction and hindsight) their system passwords.
+Like I knew?  Anyway, I didnt think mmuch of it (any of you sightread encrypted
+textfiles?) and looked around a bit more, then left.  (I never downloaded
+anything from them).
+
+Point number 1:  I logged in as anonymous
+point # 2: I sent them my full internet address for the password.
+
+Now, g'wn figger....tonight, between classes, I jump on a terminal to check
+my mail.  On my way out the door, I grab a phone and call home to check my
+messages.  Theres a message on there from my prof saying "we need to talk.
+Do _not_ log on to the vax again and try to break into SRI's computer system."
+
+eh?
+
+So I call him.  He says he got a call from the department chair, who got a
+call from computer services, who got a call from an unknown person at SRI,
+telling them someone at my university, having my name and email address
+malisciously tried to break into their system last nite.  They say I tried to
+log in using different usernames, and tried to take/change the passwords to
+the system.
+
+Pierce my ears and call me breezy!
+
+Anyway, nmow I have to explain to: my prof, the dept. chair, the folks at
+comp. srvcs., and quite possibly SRI (who, i am sure, will listen attentavely),
+that I did nothing wrong.  I dont care if it was their ultra-secret hush-hush
+higher-than-god password file.  I didnt know what it was, there was no 
+indication of what it was, i couldnt decipher it, and it was in a public ftp 
+site.  
+
+Now then.  Where do they get off defaming my character and falsely accusing me?
+
+anyway, if you cant guess, im still a bit steamed, but then again, I have
+to take my GRE's in about 36 hours, and dont need this crap.  Opinions?
+Suggestions?
+
+Mark C. Langston
+Dept. of Psychology
+Memphis State University
+Memphis, TN  38152
+(901) 678-7939 home    (901) 678-2364 lab
+langston@memstvx1.memst.edu
+fugue@mindvox.phantom.com
+
+
+
+
+
+-- 
++--------8<------Cut Here------8<------Cut Here------8<------Cut Here---------+
+  Mark C. Langston                 "Secrecy is the beginning of tyranny."
+  Psychology Dept.    C A R P E    "Always listen to experts.  They'll tell you
+  Memphis State U.  your own #@$%   what can't be done, and why.  Then do it." 
+      "Pftph!"         D I E M      --- From the notebooks of Lazarus Long ---  
+
+
+------------------------------
+
+From caf-talk Caf Feb  3 14:47:40 1993
+Newsgroups: news.admin.policy,alt.comp.acad-freedom.talk
+From: kd1hz@anomaly.sbs.com (Michael P. Deignan)
+Subject: Article 12--Re: FAST CASH!!!
+Date: Sun, 31 Jan 1993 18:56:56 GMT
+Message-ID: <1993Jan31.185656.10384@anomaly.sbs.com>
+
+kadie@cs.uiuc.edu (Carl M. Kadie) writes:
+
+>=============== ftp.eff.org:pub/academic/faq/due-process ===============
+>q: Should users be suspended from the computer pending formal discipline?
+
+>a: No, with one exception. Just as students should not be expelled
+>from class without due process they shouldn't be expelled from
+>computer facilities without due process. Declaring computer use a
+>"privilege" does not remove due process requirements.
+
+a: Yes. Just as students are suspended from attending class pending
+	academic discipline, they should have their computer access
+	suspended. Upon resolution of the matter, access should be
+	restored unless another decision is rendered.
+
+
+According to your logic, if I use my account on a computer to break in
+and wreak havoc with other student's access, I should be allowed to keep
+my account until I have a disciplinary hearing. 
+
+Such an incident is unfair to the other users of the system.
+
+MD
+
+-- 
+--  Michael P. Deignan, KD1HZ               ------------------------
+--  Domain: mpd@anomaly.sbs.com             -  I'm not a bigot,    -
+--    UUCP: ...!uunet!anomaly!mpd           -  I hate everyone...  -
+-- Telebit: +1 401 455 0347                 ------------------------
+
+
+------------------------------
+
+From caf-talk Caf Feb  3 17:23:55 1993
+Newsgroups: news.admin.policy,alt.comp.acad-freedom.talk
+From: plummer@cs.swarthmore.edu (David Barker-Plummer)
+Subject: Article 13--Re: FAST CASH!!!
+Message-ID: <PLUMMER.93Feb3171133@cilantro.cs.swarthmore.edu>
+Date: Wed, 3 Feb 1993 22:11:33 GMT
+
+In article <1993Jan31.185656.10384@anomaly.sbs.com> kd1hz@anomaly.sbs.com (Michael P. Deignan) writes:
+
+MPD> kadie@cs.uiuc.edu (Carl M. Kadie) writes:
+
+>=============== ftp.eff.org:pub/academic/faq/due-process ===============
+>q: Should users be suspended from the computer pending formal discipline?
+
+>a: No, with one exception. Just as students should not be expelled
+>from class without due process they shouldn't be expelled from
+>computer facilities without due process. Declaring computer use a
+>"privilege" does not remove due process requirements.
+
+MPD> a: Yes. Just as students are suspended from attending class pending
+MPD> academic discipline, they should have their computer access
+MPD> suspended. Upon resolution of the matter, access should be
+MPD> restored unless another decision is rendered.
+
+MPD> According to your logic, if I use my account on a computer to break in
+MPD> and wreak havoc with other student's access, I should be allowed to keep
+MPD> my account until I have a disciplinary hearing. 
+
+MPD> Such an incident is unfair to the other users of the system.
+
+Using your logic, if I am *suspected* of using (but did not use) my
+account on a computer to break in and wreak havoc with other student's
+access, my account should be suspended pending a disciplinary hearing.
+
+Such an incident is unfair to me.
+
+Can you say "innocent until proved guilty?"    :-)
+
+-- Dave
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

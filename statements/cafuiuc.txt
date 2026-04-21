@@ -1,0 +1,2049 @@
+This is a plain-text version of a talk I gave on April 28, 1994 to the
+student chapter of the ACM at the U. of Illinois (Urbana).  It is
+based on my talks at the '93 and '94 conferences on Computers,
+Freedom, and Privacy (see references for details).
+
+If you have access to a WWW browser (like Mosaic or Lynx), the
+best version of the talk is hypertext. Its URL is
+        http://www.eff.org/CAF/cafuiuc.html
+For the actual presentation, I used Mosaic live on a color Sun 2,
+projected on to a big screen. It worked great except for problems
+with X and fonts.
+
+At the very end of this document, I've added selected plain-text
+references.
+
+The URL for this plain-text version is
+   ftp://ftp.eff.org/pub/CAF/statements/cafuiuc.txt
+
+- Carl
+
+================
+   Computers and Academic Freedom: Sex, Censorship, and the Internet
+     _________________________________________________________________
+   
+   
+   Carl M. Kadie
+    kadie@eff.org, kadie@cs.uiuc.edu
+    
+
+Abstract:
+
+Should the University carry newsgroup 'alt.sex'?
+Should students be punished for using vulgarities on the Net?
+Should Free-Nets such as PrairieNet label material
+    as 'not suitable for children'?
+
+I'll try to answers these and similar questions by looking to the
+experience of public libraries, student newspapers, and the computer
+facilities at other universities.
+
+
+   Next:Talk Outline
+   
+___________
+   
+                                    OUTLINE
+                                       
+     * Introduction
+     * Current Policies and Experience
+     * Academic Freedom
+     * Two Types of Acceptable Use Policies
+     * Applying Academic Freedom to Academic Computers
+     * Top Library Intellectual Freedom Policies
+     * The Case of NYX
+     * The Case of CICA
+     * The Case of the Greek List
+     * The Case of the Free-Net
+     * The Case of Iowa State University
+     * The Case of the V-Chip
+     * The Case of CERT
+     * The Case of K-12
+     * Summary and Conclusion
+     * Resources
+     * About This Document and Other Stuff
+
+     * Plain-Text References       
+___________
+   
+                                 INTRODUCTION
+                                       
+   What offensive material is out there?
+   
+   Let's find out ...
+   
+     * Search a student forum at U. of Illinois the four-letter word
+       referring to sexual intercourse. [Expected result]
+       
+     * Computer search for archived material available over one of our
+       networks.
+       
+___________
+   
+                           SOME POSSIBLE RESULTS ...
+                                       
+     * Complete text of the Mein Kampf
+     * Text of the Protocols of the Elders of Zion
+     * Instructions on how to open locks without keys
+     * Pictures of nude women (stated purpose: to entertain men).
+     * Extremely violent and very sexually explicit text descriptions of
+       homicidal rape. 
+       
+   Next: What was the student forum? What was the network?
+   
+   [Optional: Do some searches on your own.]
+   
+___________
+   
+               WHAT WAS THE STUDENT FORUM? WHAT WAS THE NETWORK?
+                                       
+   Both were traditional university forums.
+   
+     * The Daily Illini
+       
+     * The University Library and one of its interlibrary loan networks
+       
+        Hitler, Adolf, 1889-1945.
+                Mein Kampf, by Adolf Hitler, translated by Ralph Manheim.
+                Boston, Houghton Mifflin :1971: xxi, 694 p. ; 21 cm. ISBN
+                0395078016. 0395083621 pbk.
+                
+        Protocols of the wise men of Zion.
+                World conquest through world government : the protocols
+                of the learned elders of Zion / translated from the
+                Russian of Sergyei A. Nilus by Victor E. Marsden. Devon :
+                Britons Pub. Co., c1968. 96 p., :2: pages of plates ; 19
+                cm.
+                
+        Magorian, James.
+                Training at home to be a locksmith / James Magorian.
+                Lincoln, Neb.: Black Oak Press, c1981. 112 p. : ill. ; 22
+                cm. ISBN 0930674057
+                
+        Playboy. v. 1- :Dec.: 1953- :Chicago, Playboy:
+                v. ill. (part col.), ports. (part col., part fold.) 29
+                cm. "Entertainment for men." ISSN 0032-1478
+                
+        Ellis, Bret Easton.
+                American psycho : a novel / by Brett Easton Ellis. 1st
+                ed. New York: Vintage Books, c1991. 399 p. ; 20 cm.
+                (Vintage contemporaries.) ISBN 0679735771 (pbk.)
+                
+   Lessons:
+     * Extreme material on campus is not new.
+     * Wisdom and experience may be codified in long-standing academic
+       principles. 
+       
+   Next: Back to the Outline
+   
+   [Also available: CFP '93's intro and CFP '94's intro)]
+   
+   
+   
+___________
+   
+                   CURRENT COMPUTER POLICIES AND EXPERIENCE
+                                       
+   Both suppression and expression ...
+   
+     * Suppression
+        
+            
+          + Stanford University
+               o rec.humor.funny on-line edited humor forum
+               o Editorial policy: Select what is funny even if it is
+                 offensive to many.
+               o In 1988, this joke appeared:
+                 
+     A Jew and a Scotsman have dinner. At the end of the dinner the
+     Scotsman is heard to say, 'I'll pay.' The newspaper headline next
+     morning says, 'Jewish ventriloquist found dead in alley.'
+               o MIT student Jonathan Richmond challenged rec.humor.funny
+               o Newspaper articles, ban at the University of Waterloo.
+               o 2 months later, ban at Stanford University
+                 
+   
+   
+   Iowa State University
+     * May 6, 1992
+     * University restricted rec.arts.erotica (an edited newsgroup)
+     * Student Mark Smucker reposted 8 or 9 articles to isu.newsgroup (an
+       open newsgroup)
+     * Summarily expelled from his fee-supported account
+       
+     * E-criticism, newspaper article
+     * Expulsion ended
+     * Restriction continues
+       
+   
+   
+   1992 Academic Sites with Censorship Incidents or Challenges (For
+   details see "banned.1992")
+     * Ball State U.
+     * Boston U. (2)
+     * Carnegie Mellon U.
+     * German universities
+     * Iowa State U. (3)
+     * Irish universities
+     * James Madison U.
+     * Middle East Technical U.
+     * North Dakota State U.
+     * Pennsylvania State U.
+     * Princeton
+     * Simon Fraser U.
+     * U. of British Columbia
+     * U. of California at Berkeley [challenge unsuccessful]
+     * U. of Illinois at Urbana-Champaign
+     * U. of Manitoba
+     * U. of Nebraska at Lincoln
+     * U. of Newcastle
+     * U. of Ottawa
+     * U. of Texas
+     * U. of Toledo
+     * U. of Toronto [challenge unsuccessful]
+     * U. of Wyoming
+     * United Kingdom Net
+     * Virginia Public Education Network
+     * Virginia Tech
+     * Western Washington U. (& U. of Washington)
+     * Wilfrid Laurier U. (2)
+     * Williams College [College not directly involved]
+       
+   
+   
+   
+   
+   Expression
+     * Stanford University
+          + Eventually reversed its ban
+          + A report from its Academic Council Committee on Libraries:
+            
+     The Preamble to the [Stanford] Statement on Academic Freedom (1974)
+     states that "Expression of the widest range of viewpoints should be
+     encouraged, free from institutional orthodoxy and from internal or
+     external coercion."
+     
+     It is the view of the Academic Council Committee on Libraries that
+     this statement pertains to materials received on computer bulletin
+     boards on campus. Acquisition and access to information in new forms
+     should be subject only to financial limits and other standard
+     criteria of collection such as the useful life of the materials,
+     storage capacity, etc.
+   
+       
+     * Explicit freedom of expression protection:
+          + University of Wisconsin-Milwaukee
+          + University of Toronto
+          + University of Waterloo
+   
+       
+     * Implicit is harder to measure
+          + alt.sex is second post popular newsgroup (after
+            news.announce.newsusers)
+          + estimated readership of 350,000
+            
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '93's "Current Policies"]
+   
+   
+   
+___________
+   
+                               ACADEMIC FREEDOM
+                                       
+   Statements
+     * AAUP, et al's "Joint Statement on the Rights and Freedoms of
+       Students":
+       
+     Academic institutions exist for [...] the pursuit of truth [.] Free
+     inquiry and free expression are indispensable[. ... S]tudents should
+     be encouraged [...] to engage in a sustained and independent search
+     for truth.
+     * AAUP's "On Freedom and Expression and Campus Speech Codes":
+       
+     Universities [...] interpret, explore, and expand that knowledge by
+     testing the old and proposing the new[, ...] outside the classroom
+     [...] as much as in[. ... V]iews will be expressed that may seem to
+     many wrong, distasteful, or offensive. Such is the nature of freedom
+     to sift and winnow ideas. On a campus that is free and open, no idea
+     can be banned or forbidden. No viewpoint or message may be deemed so
+     hateful or disturbing that it may not be expressed. [... R]ules that
+     ban or punish speech based upon its content cannot be justified.
+     
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '93's "Academic Freedom"]
+   
+   
+   
+___________
+   
+                 TWO TYPES OF ACCEPTABLE USE POLICIES (AUP'S)
+                                       
+   Academic freedom requires that we distinguish the "Social AUP" from
+   the "Legal AUP.
+     * Social AUP
+          + Material is legal
+          + Offends you
+          + Not enforced with official sanctions
+          + Enforced socially
+               o informal criticism
+               o refutations
+               o leaving
+               o shunning
+               o etc.
+     * Legal AUP
+          + Material is not legal
+          + Defined with clear, formal rules
+          + Enforced by authorities with due process
+            
+   We should distinguish between what we dislike and what we outlaw.
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '93's "Two AUP's"]
+   
+   
+   
+___________
+   
+                    APPLYING ACADEMIC FREEDOM TO COMPUTERS
+                                       
+   (Based on an unofficial, draft "Statement on Computers and Academic
+   Freedom" and critiques)
+     * The principles of intellectual freedom developed by libraries
+       should be applied to the administration of information material on
+       computers. (More on this in the next section.)
+       
+     * The principles of academic freedom applicable to student and
+       faculty publication in traditional media, apply to student and
+       faculty publication in computer media.
+       
+          + An article or note posted by a student to a newsgroup is a
+            student publication.
+            
+            (The next three statements are paraphrases of the AAUP, et
+            al's "Joint Statement on the Rights and Freedoms of
+            Students": 
+            
+          + "Student publications [and the publications of other users]
+            are a valuable aid in establishing and maintaining an
+            atmosphere of free and responsible discussion and of
+            intellectual exploration on the campus. They are a means of
+            bringing [...] concerns to the attention of the faculty and
+            the institutional authorities and of formulating [...]
+            opinion on various issues on the campus and in the world at
+            large."
+            
+          + "The institutional control of campus facilities should not be
+            used as a device of censorship." "[User publications] should
+            be free of censorship and advance approval of copy ..." (A
+            paraphrase of the "Joint Statement")
+            
+          + "All university published and financed [user] publications
+            [can be required to state] that the opinions there expressed
+            are not necessarily those of the college, university, or
+            student body. [academic/student.freedoms.aaup]
+            
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '93's "Application of AF"]
+   
+   
+   
+___________
+   
+                   TOP LIBRARY INTELLECTUAL FREEDOM POLICIES
+                                       
+    1. 135 Library Bill of Rights
+    2. 117 Diversity in Collection Development
+    3. 104 Selection Policy Writing Workbook
+    4. 94 Intellectual Freedom Statement (American)
+    5. 85 Definition of "Censorship" and Related Terms
+    6. 68 Freedom to Read Statement
+    7. 46 Intellectual Freedom Statement (Canadian)
+    8. 45 Labeling
+    9. 19 Statement Concerning Confidentiality of Personally Identifiable
+       Information about Library Users
+   10. 17 Challenged Materials
+   11. 13 Access for Children and Young People to Videotapes and Other
+       Nonprint Formats
+   12. 10 Free Access to Libraries for Minors
+   13. 8 Expurgation of Library Materials
+   14. 7 Grade and High School Library Policy
+   15. 7 Restricted Access to Library Materials
+   16. 7 Regulations, policies, and Procedures Affecting Access to
+       Library Resources and Services
+   17. 5 Policy on Confidentiality of Library Records
+   18. 1 Evaluating Library Collections
+   19. 1 Exhibit Spaces and Bulletin Boards
+       
+   For each illustrative real-life cases:
+    1. the scenario,
+    2. the library principles I think relevant,
+    3. how I think those principles should be instantiated in the case,
+       and
+    4. what really happened.
+       
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: "What is a library?" and "The Library/Netnews
+   Analogy" discuss the applicability of library standards of academic
+   computer facilities. Also of possible interest: CFP '94's "Top
+   Library Intellectual Freedom Policies"and CFP '94's "Overview and
+   Disclaimers"]
+   
+   
+   
+___________
+   
+                                THE CASE OF NYX
+                                       
+  THE SCENARIO
+  
+   March 12, 1994 (Saturday)
+   
+     * You are a CS professor at Denver U. and creator of NYX, a free
+       public access computer service affiliated with the U.
+     * Sunday Denver Post reports that NYX carries alt.sex.intergen
+     * alt.sex.intergen is a newsgroup about intergenerational sexual
+       relations
+     * Newspaper suggests the newsgroup carries illegal material
+     * In fact, the newsgroup just discusses "is pedophilia ok/evil"
+       
+   Do you kill the newsgroup?
+   
+   
+   
+   
+   
+   Next: "What Library Policy says ..."
+   
+   References
+     * news/mar_13_1994
+     * Denver Post, March 13, 1994
+       
+   
+   
+___________
+   
+                             LIBRARY POLICY SAYS:
+                                       
+   The "Library Bill of Rights" says:
+   
+     Materials should not be proscribed or removed because of partisan or
+     doctrinal disapproval.
+     
+   So,
+     * Don't remove something just because it is offensive to many or
+       even to yourself
+     * If you believe that the principles of intellectual freedom
+       developed for libraries apply to public access computer sites, you
+       should not remove the newsgroup. 
+       
+   To see if NYX is still up, try telnetting to it.
+   
+   
+   
+   Next: The Rest of the Story ...
+   
+   References
+     * library/bill-of-rights.ala
+       
+   
+   
+___________
+   
+                            THE REST OF THE STORY:
+                                       
+     * Sys Op Andrew Burt declined to kill the newsgroup
+     * Last I checked, NYX is still on-line
+     * The Denver Post has received faxes critical of its one-sided
+       reporting
+       
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '94's "The Case of NYX"]
+   
+   
+   
+___________
+   
+                               THE CASE OF CICA
+                                       
+  THE SCENARIO
+  
+   January 2, 1994 - February 6, 1994
+   
+     * You're a computer staffer at Indiana U. and creator of the CICA
+       on-line archive
+     * The archive is the most popular Microsoft-Windows-software archive
+       in the World
+     * You work on the archive on your own time
+     * The U. provides significant computer and network resources
+     * Someone submits a Windows hypertext version of Fanny Hill, the
+       18th century sexual novel
+     * Someone else says that having Fanny Hill on the Net violates New
+       Zealand law
+     * You fear the University considers sexual subject matter
+       unacceptable 
+       
+   How should you decide whether to include Fanny Hill in your
+   collection?
+   
+   
+   
+   
+   
+   Next: "What Library Policy says ..."
+   
+   References
+     * The Chronicle of Higher Education, January 29, 1994
+     * Sunday Times-Harold, Bloomington, Indiana, February 6, 1994
+     * news/jan_02_1994
+     * news/jan_09_1994
+     * news/jan_09_1994.html
+     * news/jan_30_1994
+     * news/feb_06_1994
+     * news/feb_13_1994
+       
+   
+   
+___________
+   
+                             LIBRARY POLICY SAYS:
+                                       
+   The American Library Association's statement on "Challenged Materials"
+   says:
+   
+     [I]t is the responsibility of every library to have a clearly
+     defined materials selection policy in written form which reflects
+     the LIBRARY BILL OF RIGHTS, and which is approved by the appropriate
+     governing authority.
+     
+   The American Library Association's Workbook for Selection Policy
+   Writing lists "legitimate" selection criteria (with respect to
+   intellectual freedom). Some are:
+     * contribution the subject matter makes to the curriculum and to the
+       interests of the students
+     * contribution the material makes to breath of representative
+       viewpoints on controversial issues
+     * high degree of potential user appeal
+     * value commensurate with cost and/or need
+       
+   "Offensiveness" is not considered a legitimate
+   
+   The "Freedom to Read" statement of the ALA and others says:
+   
+     There is no place in our society for efforts [...] to confine adults
+     to the reading matter deemed suitable for adolescents [...].
+     
+   You, the CICA archivist, should clarify your authority, create a
+   selection policy consistent with intellectual freedom, and apply it
+   fairly.
+   
+   
+   
+   
+   
+   Next: The Rest of the Story ...
+   
+   References
+     * library/challenged-materials.ala
+     * library/selection-workbook.ala
+     * library/freedom-to-read.ala
+       
+   
+   
+___________
+   
+                            THE REST OF THE STORY:
+                                       
+   The CICA archivist created this selection policy:
+   
+     As is a standard practice with most anonymous-ftp sites (that are
+     supported with funds from an independent host institution), certain
+     programs, files, or software are outside the general scope of
+     archive operations, and therefore will NOT be accepted. These files
+     include (but are not limited to) any software: containing political,
+     religious, racist, ethnic, or other prejudiced or discriminatory
+     messages therein; that is adult or sexually-explicit in nature;
+     otherwise considered unsuitable by the site moderator.
+     
+   Critique:
+     * Does not clarify authority
+     * Violates intellectual freedom standards
+     * Is not applied fairly (e.g. The Bible)
+       
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '94's "The Case of CICA"]
+   
+   References
+     * news/jan_30_1994
+       
+   
+   
+___________
+   
+                          THE CASE OF THE GREEK LIST
+                                       
+  THE SCENARIO
+  
+   July 1993
+   
+     * You are a sys admin at Brown U., American U., or the U. of Georgia
+     * Your site is a node for the Hellas (Greek) mailing list
+     * You have just received Email from Dr. Georgious, the sys admin at
+       the Democritus National Research Center in Athens, Greece
+     * He says he is suing your U. because people on Hellas "libel,
+       slander, defame his character" and cause him "great emotional
+       stress, and problems with his family and friends."
+       
+   What do you do?
+   
+   
+   
+   
+   
+   Next: "What Library Policy says ..."
+   
+   References
+     * news/jul_18_1993
+     * news/jul_18_1993
+       
+   
+   
+___________
+   
+                             LIBRARY POLICY SAYS:
+                                       
+   The American Library Association's "Intellectual Freedom Statement"
+   says:
+   
+     We need not endorse every idea contained in the materials we produce
+     and make available.
+     
+   The statement on "Challenged Materials" says:
+   
+     Freedom of expression is protected by the Constitution of the United
+     States, but constitutionally protected expression is often separated
+     from unprotected expression only by a dim and uncertain line. The
+     Constitution requires a procedure designed to focus searchingly on
+     challenged expression before it can be suppressed. An adversary
+     hearing is a part of this procedure.
+     
+   You should get advice from the university legal counsel. No action
+   should be taken because of a one-sided legal threat.
+   
+   
+   
+   
+   
+   Next: The Rest of the Story ...
+   
+   References
+     * library/int-freedom.ala
+     * library/challenged-materials.ala
+       
+   
+   
+___________
+   
+                            THE REST OF THE STORY:
+                                       
+     * Within a day all three sys admin shut down their Hellas node
+     * Then, shut-out forum participants spoke up
+     * They said Hellas did talk about the censorship, privacy
+       violations, and arbitrary punishment at the DNRC
+     * They said this was legitimate and should not be censored
+       
+   As of July 13, 1993, two of the sites restored their nodes.
+   
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '94's "The Case of the Greek List"]
+   
+   References
+     * news/jul_18_1993
+       
+   
+   
+___________
+   
+                           THE CASE OF THE FREE-NET
+                                       
+  THE SCENARIO
+  
+   Pre-1991
+   
+     * You are on the organizing committee of the Cleveland Free-Net
+     * The Free-Net mission: to provide free computer and network
+       resources to the community
+     * Some parents may not want their kids to access some of the more
+       "adult" resources
+     * Ohio may have a "harmful to minors law"
+       
+   What do you do?
+   
+   
+   
+   
+   
+   Next: "What Library Policy says ..."
+   
+   References
+     * news/cafv01n32
+       
+   
+   
+___________
+   
+                             LIBRARY POLICY SAYS:
+                                       
+   The ALA "Library Bill of Rights" says:
+   
+     A person's right to use a library should not be denied or abridged
+     because of origin, age, background, or views.
+     
+   The ALA's "Free Access to Libraries for Minors" says:
+   
+     . . .[P]arents - and only parents - have the right and the
+     responsibility to restrict the access of their children - and only
+     their children - to library resources. [...] Librarians and
+     governing bodies cannot assume the role of parents or the functions
+     of parental authority in the private relationship between parent and
+     child.
+     
+   The ALA's "Access for Children and Young People to Videotapes and
+   Other Nonprint Formats" says:
+   
+     ALA acknowledges and supports the exercise by parents of their
+     responsibility to guide their own children's reading and viewing.
+     
+   The "Freedom to Read" statement says:
+   
+     There is no place in our society for efforts to coerce the taste of
+     others, to confine adults to the reading matter deemed suitable for
+     adolescents, or to inhibit the efforts of writers to achieve
+     artistic expression.
+     
+   The Intellectual Freedom Statement says:
+   
+     With every available legal means, we will challenge laws or
+     governmental action restricting or prohibiting the publication of
+     certain materials or limiting free access to such materials.
+     
+   So,
+     * Don't ban so-called adult material
+     * Don't stop access by minors unless your competent legal advisor
+       says you must
+     * Lobby to repeal so-called "harmful to minor" laws (especially as
+       applied to not-for-profit information providers)
+       
+   
+   
+   
+   
+   Next: The Rest of the Story ...
+   
+   References
+     * library/bill-of-rights.ala
+     * library/access.minors.ala
+     * library/access.children.nonprint.ala
+     * library/freedom-to-read.ala
+     * library/int-freedom.ala
+       
+   
+   
+___________
+   
+                            THE REST OF THE STORY:
+                                       
+   As of 1991, the Cleveland Free-Net:
+     * Segregates adult material
+     * For access, users must certify
+          + 18 years old, or
+          + have parents permission
+            
+   I believe other Free-Nets ban all adult material.
+   
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '94's "The Case of the Free-Net"]
+   
+   
+   
+___________
+   
+                       THE CASE OF IOWA STATE UNIVERSITY
+                                       
+  THE SCENARIO
+  
+   February 1992 - present
+   
+     * You are a professor at Iowa State U.
+     * Your computer admins have changed the Netnews facilities
+     * Users can now access sex-related newsgroups (e.g. alt.sex) only
+          + from a computer account on a special computer, and
+          + after "acknowledg[ing] their responsibility in access, using,
+            and distributing material from it" (by signing a statement)
+            
+   Some people say the university's action is OK because anyone who want
+   access can get it. What do you think?
+   
+   
+   
+   
+   
+   Next: "What Library Policy says ..."
+   
+   References
+     * news/cafv02n11
+     * news/cafv02n08
+     * news/cafv02n30
+     * banned.1992
+     * ftp://ftp.iastate.edu/pub/netinfo/news/
+       
+   
+   
+___________
+   
+                             LIBRARY POLICY SAYS:
+                                       
+   ALA's "Books/Materials Challenge Terminology" statement says
+   "censorship" is:
+   
+     The change in the access status of material, made by a governing
+     authority or its representatives. Such changes include: exclusion,
+     restriction, removal, or age/grade level changes.
+     
+   The ALA "Restricted Access to Library Materials" says:
+   
+     Attempts to restrict access to library materials violate the basic
+     tenets of the LIBRARY BILL OF RIGHTS. [...] In any situation which
+     restricts access to certain materials, a barrier is placed between
+     the patron and those materials. [...] Because restricted collections
+     often are composed of materials which some library patrons consider
+     objectionable, the potential user may be predisposed to think of the
+     materials as objectionable and, therefore, are reluctant to ask for
+     them.
+     
+   
+   
+   
+   
+   Next: The Rest of the Story ...
+   
+   References
+     * library/censorship.def.ala
+     * library/access.restrictons.ala
+       
+   
+   
+___________
+   
+                            THE REST OF THE STORY:
+                                       
+   The restrictions at Iowa State University continue.
+   
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '94's "The Case of Iowa State University"]
+   
+   
+   
+___________
+   
+                            THE CASE OF THE V-CHIP
+                                       
+  THE SCENARIO
+  
+   May 1993 - present
+   
+     * You are United States Congressperson
+     * Congressman Markey has introduced the "V-Chip" bill
+     * Under this bill,
+          + Broadcasters must send a violence signal when ever they
+            depict "violence"
+          + New TV's must have a violence-signal detection chip
+          + When the chip is enabled, say, by a parent, the TV blanks the
+            screen
+            
+   Do you support the bill?
+   
+   
+   
+   
+   
+   Next: "What Library Policy says ..."
+   
+   References
+     * HR.2888 & S.1811
+     * Washington Post, February 4, 1994, "TV to Name Violence
+       Monitors; Some on Hill Say Move Isn't Enough"
+     * BNA Daily Report for Executives 8/6/93 A23
+     * Newsbytes, May 13 1993, "Proposal Sees Chip Blocking TV
+       Violence"
+       
+   
+   
+___________
+   
+                             LIBRARY POLICY SAYS:
+                                       
+   The American Library Association's "Statements on Labeling" says:
+   
+     Labeling is the practice of describing or designating materials by
+     affixing a prejudicial label and/or segregating them by a
+     prejudicial system. The American Library Association opposes these
+     means of predisposing people's attitudes toward library materials
+     for the following reasons: Labeling is an attempt to prejudice
+     attitudes and as such, it is a censor's tool.[...]
+     
+   You should oppose the bill.
+   
+   
+   
+   
+   
+   Next: The Rest of the Story ...
+   
+   References
+     * library/labeling.ala
+       
+   
+   
+___________
+   
+                            THE REST OF THE STORY:
+                                       
+   The bill is in committee.
+   
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '94's "The Case of the V-Chip"]
+   
+   
+   
+___________
+   
+                               THE CASE OF CERT
+                                       
+  THE SCENARIO
+  
+   December, 1992 - present
+   
+     * You are a U. computer sys admin
+     * CERT (the Computer Emergency Response Team) suggests a sign-in
+       message that says (in part):
+       
+     Individuals using this computer ... in excess of their authority are
+     subject to having all of their activities on this system monitored
+     and recorded [...] In the course of monitoring individuals
+     improperly using this system, or in the course of system
+     maintenance, the activities of authorized users may also be
+     monitored. ... Anyone using this system expressly consents to such
+     monitoring and is advised that if such monitoring reveals possible
+     evidence of criminal activity, system personnel may provide the
+     evidence of such monitoring to law enforcement officials.
+     
+   Do you put a sign-in message on your system?
+   
+   
+   
+   
+   
+   Next: "What Library Policy says ..."
+   
+   References
+     * policies/cert.org
+     * news/cafv02n62
+     * news/cafv02n63
+     * news/cafv02n64
+     * news/cafv02n65
+     * news/cafv03n01
+     * news/cafv03n09
+     * news/nov_07_1993
+     * news/nov_14_1993
+     * news/nov_28_1993
+       
+   
+   
+___________
+   
+                             LIBRARY POLICY SAYS:
+                                       
+   The ALA's "Statement Concerning Confidentiality of Personally
+   Identifiable Information about Library Users" says:
+   
+     The First Amendment [...] requires [... that] the corresponding
+     rights to hear what is spoken and read what is written be preserved,
+     free from fear of government intrusion, intimidation or reprisal.
+     [...] If there is a reasonable basis to believe such records are
+     necessary to the progress of an investigation or prosecution, our
+     judicial system provides the mechanism for seeking release of such
+     confidential records: the issuance of a court order, following a
+     showing of good cause based on specific facts, by a court of
+     competent jurisdiction.
+     
+   So,
+     * Reject the CERT suggested message -- Users should not lose all
+       their privacy based on your personal determination about "in
+       excess of their authority"
+     * Work with the U. Legal Counsel and U. policy makers to:
+          + See if needed
+          + Make as narrow as necessary
+            
+   
+   
+   
+   
+   Next: The Rest of the Story ...
+   
+   References
+     * library/confidentiality.2.ala
+     * policies/cert.org.critique
+       
+   
+   
+___________
+   
+                            THE REST OF THE STORY:
+                                       
+   At least the following school's have adopted a variant of the CERT
+   banner:
+   
+     * Salt Lake Community College
+     * Northwestern U.
+     * an anonymous state university
+     * Weber State U.
+     * Stevens Institute of Technology
+     * U. of Michigan
+     * Arizona State University
+     * Worcester Polytechnic Institute
+     * U. of South Florida
+     * Northern Arizona University
+       
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '94's "The Case of CERT"]
+   
+   References
+     * policies/cert.org
+       
+   
+   
+___________
+   
+                               THE CASE OF K-12
+                                       
+  THE SCENARIO
+  
+   January 1993
+   
+     * You are a sys admin at the U. of Kentucky
+     * Goal: Provide a Netnews newsfeed to high schools
+     * You and the teachers have decided:
+          + Not to provide alt.sex, but
+          + If possible, to provide newsgroup news.answers
+     * Problem: The alt.sex FAQ (Frequently Asked Questions) file appears
+       in news.answers
+       
+   Should you filter out the alt.sex FAQ from news.answers before passing
+   it on?
+   
+   
+   
+   
+   
+   Next: "What Library Policy says ..."
+   
+   References
+     * batch/jan_17_1993
+     * batch/jan_24_1993
+       
+   
+   
+___________
+   
+                             LIBRARY POLICY SAYS:
+                                       
+   The ALA statement "Expurgation of Library Materials" says:
+   
+     Expurgating library materials is a violation of the LIBRARY BILL OF
+     RIGHTS. Expurgation [...] includes any deletion [or] excision [...]
+     of any part(s) of books or other library resources by the library[.
+     ...] By such expurgation, the library is in effect denying access to
+     the complete work and the entire spectrum of ideas that the work
+     intended to express.
+     
+   You should not remove the FAQ. (And if you do, you should at least
+   change the name of the resulting newsgroup so that readers know that
+   it is being censored.)
+   
+   
+   
+   
+   
+   Next: The Rest of the Story ...
+   
+   References
+     * library/expurgation.ala
+       
+   
+   
+___________
+   
+                            THE REST OF THE STORY:
+                                       
+   As of January 1993, the U. of Kentucky was providing an expurgated
+   feed with no notice to its readers.
+   
+   
+   
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '94's "The Case of K-12"]
+   
+   
+   
+___________
+   
+                            SUMMARY AND CONCLUSION
+                                       
+     * Issues of content on campus are not new
+     * Freedom of expression and freedom to read are central to the
+       academic mission
+     * Treat computer facilities like traditional forums and facilities
+     * Don't punish those who violate the Social AUP with institutional
+       sanctions
+       
+   I would like you do:
+   
+    1. Get a copy of this talk for reference (And share it).
+    2. Report any incidents to the alt.comp.acad-freedom.talk newsgroup
+       or via email to caf-talk@eff.org.
+    3. Join the discussion
+    4. If you are a sys admin, lead the defense of intellectual freedom
+       (the way that librarians do).
+    5. With one line of text, a university can bring 100 years of
+       intellectual-freedom experience to its computers.
+       
+       From the University of Wisconsin at Milwaulkee's Netnews policy:
+       
+     [T]he same standards and principles of intellectual and academic
+     freedom developed for university libraries be applied to material
+     received from the news network.
+     
+   One more thing, I couldn't end an interactive presentation on sex and
+   the Internet without showing a nude picture. To see picture of a nude
+   girl bathing click here and then select "a girl washing". Or click
+   here]
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '93's "Conclusion" and CFP '94's "Conclusion"] 
+   
+   
+   
+___________
+   
+                                   RESOURCES
+                                       
+   This document is available via WWW/Mosaic from the CAF Archive as
+   http://www.eff.org/CAF/cafuiuc.html. The plain text version is
+   ftp://ftp.eff.org/pub/CAF/statements/cafuiuc.txt.
+   
+   
+   
+   Via gopher as
+   
+
+  gopher -p1/CAF gopher.eff.org
+
+   then select "Academic Freedom Statements" and "Sex, Censorship, and
+   the Internet". Via anonymous ftp to ftp.eff.org, directory
+   /pub/CAF/statements, file cafuiuc.txt. Other files of possible
+   interest are /pub/CAF/README and /pub/CAF/caf.
+   
+   For email access, send email to ftpmail@decwrl.dec.com. Include the
+   lines:
+   
+
+  connect ftp.eff.org
+  get caf
+  get README
+  cd  /pub/CAF/statements
+  get cafuiuc.txt
+
+   
+   
+   Next: Back to the Outline
+   
+   [Also available: CFP '93's "Conclusion" and CFP '94's "Conclusion"] 
+   
+   
+   
+___________
+   
+                      ABOUT THIS DOCUMENT AND OTHER STUFF
+                                       
+   These are the appendices of the talk. Some of the sections are
+   material that didn't fit, other is local back ups in case links to the
+   outside don't work.
+   
+     * The Story behind the Story
+     * How to present, for example, this talk on a color Sun
+     * About "Autojoke"
+     * Introductory Joke
+     * Emergency Joke
+     * gopher://gopher.uiuc.edu/77/UI/DI/1994/.waisindex/indexg?fuck
+     * Girl Washing by Degas
+       
+   
+   
+   Back to the Outline
+   
+   
+   
+___________
+   
+                          THE STORY BEHIND THE STORY
+                                       
+   This document was prepared for a presentation to the student chapter
+   the ACM at U. of Illinois on April 28, 1994. It was intended to cover
+   both the application academic-freedom and library-intellectual-freedom
+   to academic and public computer facilities. It is based on two
+   previous talks/papers: cfp93.kadie and cfp94.kadie). Plain text
+   version of all three papers are available via ftp as
+   ftp://ftp.eff.org/pub/CAF/statements/cafuiuc.txt,
+   ftp://ftp.eff.org/pub/CAF/statements/cfp93.kadie, and
+   ftp://ftp.eff.org/pub/CAF/statements/cfp94.kadie
+   
+   The presentation was on a Sun 2, running X11r4 and Mosiac. The main
+   glitch was that we couldn't get all the fonts I wanted installed in
+   time.
+   
+   Back to "About This Document and Other Stuff"
+   
+   Back to the Outline
+   
+   
+   
+___________
+   
+             HOW TO PRESENT, FOR EXAMPLE, THIS TALK ON A COLOR SUN
+                                       
+   Principles:
+     * Put the text of the whole talk in one file so that the
+       presentation easier to edit, print, and read later.
+     * Don't depend on outside links. Create local links that you can use
+       if the outside links don't work.
+     * Put a big GIF graphic between "pages" so that the audience can't
+       see ahead. Replace this with a small graphic when you archive the
+       talk, so that later readers can read more easily.
+     * Create and use an outline. Show the outline, jump to a section,
+       jump back to the outline, jump to the next section, etc. This lets
+       the audience know where they are in the talk, positions each
+       section well on the screen, and makes on-the-fly navigation easy,
+       and avoids references from one section to another.
+     * Test on the actual machine you will be doing the presentation
+       on before the talk. Things like fonts can easily be different
+       from one machine to another.
+       
+   Details:
+     * Get local copies of
+       
+
+        http://www.eff.org/CAF/cafuiuc.html
+        http://www.eff.org/CAF/caf.gif
+        http://www.eff.org/CAF/scilogo.gif
+        http://www.eff.org/CAF/degas.gif
+
+   (You don't want a presentation to depend on the Network or another
+       computer). Also get
+       
+
+        http://www.eff.org/CAF/bigblue.gif
+
+   but rename it
+       
+
+        pageend.gif
+
+     * Change Mosaic's parameters. On Unix this is done by creating a
+       file with the parameters you want, for example
+       
+slideparms
+
+   
+       
+       =============== slideparms ==============
+       
+
+Mosaic*Foreground: white
+Mosaic*Background: blue
+Mosaic*anchorColor: red
+Mosaic*visitedAnchorColor: red
+Mosaic*activeAnchorFG: red
+Mosaic*activeAnchorBG: red
+Mosaic*font: -adobe-helvetica-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*italicFont: -adobe-helvetica-*-*-normal-*-25-*-*-*-*-*-*
+Mosaic*boldFont:  -adobe-helvetica-bold-r-*-*-25-*-*-*-*-*-*
+Mosaic*fixedFont:  -adobe-courier-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*plainFont:  -adobe-courier-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*addressFont:  -adobe-helvetica-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*listingFont:  -adobe-helvetica-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*header1Font:  -adobe-new century schoolbook-bold-r-*-34-*-*-*-*-*-*
+Mosaic*header2Font:  -adobe-helvetica-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*header3Font:  -adobe-helvetica-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*header4Font:  -adobe-helvetica-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*header5Font:  -adobe-helvetica-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*header6Font:  -adobe-helvetica-*-r-normal-*-25-*-*-*-*-*-*
+Mosaic*annotationsOnTop: True
+Mosaic*defaultHeight: 850
+Mosaic*defaultWidth: 1150
+
+   =========================
+       
+       Then run the command
+       
+
+         xrdb -merge slideparms
+
+   and quit and restart Mosaic.
+     * Use Mosiac's File/Open Local menus to load the presentation
+       file.
+       
+   
+   
+   Back to "About This Document and Other Stuff"
+   
+   Back to the Outline
+   
+   
+   
+___________
+   
+                               ABOUT "AUTOJOKE"
+                                       
+   [I thought it might be funny to introduce the talk with a joke and to
+   "automate" the process of selecting a joke. An emergency joke is
+   needed in case the Net is down. I eventually chose a different
+   introduction. Here is what the "autojoke" would have looked like:
+   
+                               INTRODUCTORY JOKE
+                                       
+   Select a joke source, then select a joke:
+     * rec.humor.funny
+     * rec.humor
+     * emergency joke
+       
+   
+   
+   Back to "About This Document and Other Stuff"
+   
+   Back to the Outline
+   
+   
+   
+___________
+   
+                                EMERGENCY JOKE
+                                       
+    Mon, 25 Apr 94 19:30:03 EDT dodson@wagner.convex.com (Dave Dodson)
+    
+                        I DIDN'T KNOW I COULD DO THAT!
+                                       
+   Newsgroups:
+          rec.humor.funny
+          
+From the Dallas Morning News:
+
+A prospective juror in a Dallas District Court was surprised by the
+definition of voluntary manslaughter given the panel:
+
+        "an intentional killing that occurs while the defendant
+        is under the immediate influence of sudden passion arising
+        from an adequate cause, such as when a spouse's mate is
+        found in a 'compromising position.'"
+
+"See, I have a problem with that passion business," responded the jury
+candidate.  "During my first marriage, I came in and found my husband in
+bed with my neighbor.  All I did was divorce him.  I had no idea that I
+could have shot him."
+
+She wasn't selected for the jury.
+
+----------------------------------------------------------------------
+
+Dave Dodson                                          dodson@convex.com
+Convex Computer Corporation      Richardson, Texas      (214) 497-4234
+--
+Selected by Maddi Hausmann Sojourner.  MAIL your joke to funny@clarinet.com.
+Attribute the joke's source if at all possible.  A Daemon will auto-reply.
+
+Remember: Always give your jokes a descriptive "Subject:" line.
+Don't use "joke" or "submission" or "joke submission," please.
+
+    
+    
+    Back to "About This Document and Other Stuff"
+    
+    Back to the Outline
+    
+    
+    
+___________
+    
+         GOPHER://GOPHER.UIUC.EDU/77/UI/DI/1994/.WAISINDEX/INDEXG?FUCK
+                                       
+                                  GOPHER MENU
+                                       
+          * Page 8, Beck, Mellow Gold (1994/Apr/1)
+          * Page 9, Suburban Like Me (1994/Jan/28)
+          * Page 14, A nice place to visit but I wouldn't want
+          (1994/Jan/25)
+          * Page 2, From the Sean T. Files... (1994/Jan/19)
+          * Page 8, Nine Inch Nails, The Downward Spiral
+          (1994/Mar/25)
+          * Page 8, Frankie Goes To Hollywood, Bang!...
+          (1994/Mar/25)
+          * Page 13, Smut curve finally gets the best of ex-su
+          (1994/Apr/6)
+          
+   
+   
+   Back to "About This Document and Other Stuff"
+   
+   Back to the Outline
+   
+   
+   
+___________
+   
+                            GIRL WASHING BY DEGAS
+                                       
+   [Image by Degas goes here]
+   
+   Source:
+   http://www.ncsa.uiuc.edu/SDG/Experimental/anu-art-history/prints.image
+   s.html
+   
+   
+   
+   Back to "About This Document and Other Stuff"
+   
+   Back to the Outline
+   
+   
+   
+___________
+
+===============
+
+                     PLAIN TEXT REFERENCES
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+academic/speech-codes.aaup
+=================
+* Speech Codes (AAUP)
+
+On Freedom of Expression and Campus Speech Codes Expression - An
+official statement of the American Association of University
+Professors (AAUP)
+
+It says in part: "On a campus that is free and open, no idea can be
+banned or forbidden.  No viewpoint or message may be deemed so hateful
+or disturbing that it may not be expressed."
+
+=================
+academic/student.freedoms.aaup
+=================
+* Student Freedoms (AAUP)
+
+Joint Statement on Rights and Freedoms of Students -- This is the main
+U.S. statement on student academic freedom.
+
+=================
+banned.1992
+=================
+* Computer material that was banned/challenged in academia in 1992
+
+A list of computer material that was banned or challenged in academia
+in 1992. The institutions mentioned are:
+
+Ball State U., Boston U. (2), Carnegie Mellon U., German universities,
+Iowa State U. (3), Irish universities, James Madison U., Middle East
+Technical U., North Dakota State U., Pennsylvania State U., Princeton,
+Simon Fraser U., U. of British Columbia, U. of California at Berkeley
+*, U. of Illinois at Urbana-Champaign, U. of Manitoba, U. of Nebraska
+at Lincoln, U. of Newcastle, U. of Ottawa, U. of Texas, U. of Toledo,
+U. of Toronto *, U. of Wyoming, United Kingdom Net, Virginia Public
+Education Network, Virginia Tech, Western Washington U. (& U. of
+Washington), Wilfrid Laurier U. (2), Williams College **
+
+========
+* Site of an unsuccessful challenge
+** College not directly involved.
+
+=================
+batch/jan_17_1993
+=================
+[No annotation available.]
+
+=================
+batch/jan_24_1993
+=================
+[No annotation available.]
+
+=================
+library/access.children.nonprint.ala
+=================
+* Access for Young People to Nonprint Material (ALA)
+
+"Access for Children and Young People to Videotapes and Other Nonprint
+Formats"
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+=================
+library/access.minors.ala
+=================
+* Free Access to Libraries for Minors (ALA)
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+=================
+library/access.policies.ala
+=================
+* Access Policies (ALA)
+
+"Regulations, policies, and Procedures Affecting Access to Library
+Resources and Services"
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+=================
+library/access.restrictions.ala
+=================
+* Restricted Access to Library Materials (ALA)
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+It says in part: "In any situation which restricts access to certain
+materials, a barrier is placed between the patron and those materials.
+That barrier may be age related, linguistic, economic, or
+psychological in nature."  ... "Because restricted collections often
+are composed of materials which some library patrons consider
+'objectionable,' the potential user may be predisposed to think of the
+materials as 'objectionable' and, therefore, are reluctant to ask for
+them."
+
+=================
+library/bill-of-rights.ala
+=================
+* Library Bill of Rights (ALA)
+
+=================
+library/bulletin-boards.ala
+=================
+* Exhibit Spaces and Bulletin Boards (ALA)
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+=================
+library/censorship.def.ala
+=================
+* Definition of "Censorship" and Related Terms (ALA)
+
+=================
+library/challenged-materials.ala
+=================
+* Challenged Materials (ALA)
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights". It says in part "The Constitution requires a
+procedure designed to focus searchingly on challenged expression
+before it can be suppressed.  An adversary hearing is a part of this
+procedure."
+
+=================
+library/confidentiality.1.ala
+=================
+* Confidentiality -- 1 (ALA)
+
+The American Library Association's "Policy on Confidentiality of
+Library Records"
+
+=================
+library/confidentiality.2.ala
+=================
+* Confidentiality -- 2 (ALA)
+
+The American Library Association's "Statement Concerning
+Confidentiality of Personally Identifiable Information about Library
+Users"
+
+=================
+library/diversity.ala
+=================
+* Diversity in Collection Development (ALA)
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+It says that collections should be inclusive, not exclusive. And that
+materials should cover the needs and interest of all patrons. "This
+includes materials that reflect political, economic, religious,
+social, minority, and sexual issues."
+
+=================
+library/evaluating-collections.ala
+=================
+* Evaluating Library Collections (ALA)
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+=================
+library/expurgation.ala
+=================
+* Expurgation of Library Materials (ALA)
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights". It says in part: "By such expurgation, the library is
+in effect denying access to the complete work and the entire spectrum
+of ideas that the work intended to express. ... Further, expurgation
+without written permission from the holder of the copyright on the
+material may violate the copyright provisions of the United States
+Code."
+
+=================
+library/freedom-to-read.ala
+=================
+* Freedom to Read Statement (ALA)
+and Association of American Publishers.
+
+It says in part: "We trust Americans to recognize propaganda, and to
+reject it.  We do not believe they need the help of censors to assist
+them in this task.  We do not believe they are prepared to sacrifice
+their heritage of a free press in order to be "protected" against what
+others think may be bad for them.  We believe they still favor free
+enterprise in ideas and expression."
+
+=================
+library/int-freedom.ala
+=================
+* Intellectual Freedom Statement -- American Library Assoc
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+=================
+library/int-freedom.can
+=================
+* Intellectual Freedom Statement -- Canadian Library Assoc
+
+=================
+library/labeling.ala
+=================
+* Labeling (ALA)
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+It gives three reasons why labeling is bad. The first is that
+"[l]abeling is an attempt to prejudice attitudes and as such, it is a
+censor's tool."
+
+=================
+library/library-netnews-analogy
+=================
+* The Library/Netnews analogy (C. M. Kadie)
+
+An article from CAF-News 1.30. Carl Kadie tries to clarify the analogy
+between a traditional library and a computer. The note says that
+Netnews should compared to a library, rather it should be compared to
+the set of publications from which a library selects. The note also
+includes the Hypothetical Netnews Bill of Rights, a modification of
+the ALA's Library Bill of Rights.
+
+=================
+library/school-libraries.ala
+=================
+* Grade and High School Library Policy (ALA)
+
+It says that the principles of the Library Bill of Rights apply to
+school libraries. The statement's full title is "Access to Resources
+And Services in the School Library Media Program". It is an
+interpretation by the American Library Association of the "Library
+Bill of Rights".
+
+=================
+library/selection-workbook.ala
+=================
+* Selection Policy Writing Workbook (ALA)
+
+The American Library Association's "Workbook on Selection Policy
+Writing". Although aimed at textbook and library book selection in
+grade and high schools, it also seems applicable to newsgroup
+selection. It includes information about how create a selection policy
+and how to handle complaints. It also includes a sample selection
+policy.
+
+=================
+news/cafv01n32
+=================
+[No annotation available.]
+
+=================
+news/cafv02n08
+=================
+[No annotation available.]
+
+=================
+news/cafv02n11
+=================
+[No annotation available.]
+
+=================
+news/cafv02n30
+=================
+[No annotation available.]
+
+=================
+news/cafv02n62
+=================
+[No annotation available.]
+
+=================
+news/cafv02n63
+=================
+[No annotation available.]
+
+=================
+news/cafv02n64
+=================
+[No annotation available.]
+
+=================
+news/cafv02n65
+=================
+[No annotation available.]
+
+=================
+news/cafv03n01
+=================
+[No annotation available.]
+
+=================
+news/cafv03n09
+=================
+[No annotation available.]
+
+=================
+news/feb_06_1994
+=================
+[No annotation available.]
+
+=================
+news/feb_13_1994
+=================
+[No annotation available.]
+
+=================
+news/jan_02_1994
+=================
+[No annotation available.]
+
+=================
+news/jan_09_1994
+=================
+[No annotation available.]
+
+=================
+news/jan_30_1994
+=================
+[No annotation available.]
+
+=================
+news/jul_18_1993
+=================
+[No annotation available.]
+
+=================
+news/mar_13_1994
+=================
+[No annotation available.]
+
+=================
+news/nov_07_1993
+=================
+[No annotation available.]
+
+=================
+news/nov_14_1993
+=================
+[No annotation available.]
+
+=================
+news/nov_28_1993
+=================
+[No annotation available.]
+
+=================
+policies/cert.org
+=================
+* Org -- CERT -- An example login disclaimer
+
+The original CERT example login disclaimer and 10 actual login
+disclaimers. See cert.org.critique for a suggested replacement
+disclaimers.
+
+=================
+policies/cert.org.critique
+=================
+* Org -- CERT -- A critique and draft replacements
+1
+A critique of the CERT example policy (policies/cert.org) and some
+suggested replacement policies.
+
+=================
+statements/caf-statement.critique
+=================
+* Computer and Academic Freedom Statement -- Draft -- Critique
+
+This is a critique of an attempt to codify the application of academic
+freedom to academic computers. It reflects our seven months of on-line
+discussion about computers and academic freedom. It covers free
+expression, due process, privacy, and user participation.
+
+Additional comments and suggestions are very welcome (especially when
+posted to CAF-talk). All the documents referenced are available
+on-line.
+
+=================
+statements/cafuiuc.txt
+=================
+* "Sex, Censorship, and the Internet" by Carl M. Kadie
+
+Presented to the Student Chapter of the ACM on April 28, 1994. If you
+have access to WWW/Mosaic, the best version of this paper is
+http://www.eff.org/CAF/cafuiuc.html.
+
+The talk covers both the application academic-freedom and
+library-intellectual-freedom to academic and public computer
+facilities. It is based on "cfp93.kadie" and "cfp94.kadie".
+
+=================
+statements/cfp94.kadie
+=================
+* "Applying Library Intellectual Freedom Principles to Computers" by Carl Kadie
+
+Presented at the Fourth Conference on Computers, Freedom, and Privacy,
+in Chicago, March 1994. If you have access to WWW/Mosaic, the best
+version of this paper is http://www.eff.org/CAF/cfp94.kadie.html.
+
+The talk covers newsgroup selection at public access systems, file
+selection at ftp archives, complaints to the hosts of mailing lists,
+so-called adult material at Free-Nets, access restrictions on
+newsgroups, labeling TV shows as "violent", the CERT banner and
+privacy, and filtering newsfeeds for grade and high schools.
+
+=================
+statements/stanford.statements
+=================
+* Edu -- Stanford U. -- Netnews Selection Statements
+
+"In 1989 rec.humor.funny was suppressed in some of the Stanford
+University computers.  After a campaign it was re-installed in those
+computers." 
+
+This file contains 
+1) the "Statement of Protest about the AIR Censorship of rec.humor.funny" 
+2) a statement by the Stanford faculty committee on libraries
+3) Notes from Professor John McCarthy on how censorship was fought at Stanford
+
+(also see "pub/academic/cases/jmcabstract")
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and then:
+
+  cd  /pub/CAF/academic
+  get speech-codes.aaup
+  cd  /pub/CAF/academic
+  get student.freedoms.aaup
+  cd  /pub/CAF
+  get banned.1992
+  cd  /pub/CAF/batch
+  get jan_17_1993
+  cd  /pub/CAF/batch
+  get jan_24_1993
+  cd  /pub/CAF/library
+  get access.children.nonprint.ala
+  cd  /pub/CAF/library
+  get access.minors.ala
+  cd  /pub/CAF/library
+  get access.policies.ala
+  cd  /pub/CAF/library
+  get access.restrictions.ala
+  cd  /pub/CAF/library
+  get bill-of-rights.ala
+  cd  /pub/CAF/library
+  get bulletin-boards.ala
+  cd  /pub/CAF/library
+  get censorship.def.ala
+  cd  /pub/CAF/library
+  get challenged-materials.ala
+  cd  /pub/CAF/library
+  get confidentiality.1.ala
+  cd  /pub/CAF/library
+  get confidentiality.2.ala
+  cd  /pub/CAF/library
+  get diversity.ala
+  cd  /pub/CAF/library
+  get evaluating-collections.ala
+  cd  /pub/CAF/library
+  get expurgation.ala
+  cd  /pub/CAF/library
+  get freedom-to-read.ala
+  cd  /pub/CAF/library
+  get int-freedom.ala
+  cd  /pub/CAF/library
+  get int-freedom.can
+  cd  /pub/CAF/library
+  get labeling.ala
+  cd  /pub/CAF/library
+  get library-netnews-analogy
+  cd  /pub/CAF/library
+  get school-libraries.ala
+  cd  /pub/CAF/library
+  get selection-workbook.ala
+  cd  /pub/CAF/news
+  get cafv01n32
+  cd  /pub/CAF/news
+  get cafv02n08
+  cd  /pub/CAF/news
+  get cafv02n11
+  cd  /pub/CAF/news
+  get cafv02n30
+  cd  /pub/CAF/news
+  get cafv02n62
+  cd  /pub/CAF/news
+  get cafv02n63
+  cd  /pub/CAF/news
+  get cafv02n64
+  cd  /pub/CAF/news
+  get cafv02n65
+  cd  /pub/CAF/news
+  get cafv03n01
+  cd  /pub/CAF/news
+  get cafv03n09
+  cd  /pub/CAF/news
+  get feb_06_1994
+  cd  /pub/CAF/news
+  get feb_13_1994
+  cd  /pub/CAF/news
+  get jan_02_1994
+  cd  /pub/CAF/news
+  get jan_09_1994
+  cd  /pub/CAF/news
+  get jan_30_1994
+  cd  /pub/CAF/news
+  get jul_18_1993
+  cd  /pub/CAF/news
+  get mar_13_1994
+  cd  /pub/CAF/news
+  get nov_07_1993
+  cd  /pub/CAF/news
+  get nov_14_1993
+  cd  /pub/CAF/news
+  get nov_28_1993
+  cd  /pub/CAF/policies
+  get cert.org
+  cd  /pub/CAF/policies
+  get cert.org.critique
+  cd  /pub/CAF/statements
+  get caf-statement.critique
+  cd  /pub/CAF/statements
+  get cafuiuc.txt
+  cd  /pub/CAF/statements
+  get cfp94.kadie
+  cd  /pub/CAF/statements
+  get stanford.statements
+
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com
+Include the line(s):
+
+  connect ftp.eff.org
+  cd  /pub/CAF/academic
+  get speech-codes.aaup
+
+and so on.

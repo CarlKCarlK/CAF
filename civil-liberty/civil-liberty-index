@@ -1,0 +1,257 @@
+Newsgroups: alt.society.civil-liberty,alt.activism,clari.net.talk,alt.censorship
+Subject: Civil Liberty Index
+
+[Last posted April 30, 1993. Last updated Jan 10, 1994]
+
+I have a mailing list that consists of nothing but pointers to "newsy"
+civil liberties articles on the Net. (Alternatively, the index is
+available via the WWW. See http://www.eff.org/CAF/cl-index.html.) From
+the mailing list you can create an interesting local newsgroup for
+news and discussion of civil liberties. If you don't want to set up a
+local newsgroup, you can just retrieve the articles for yourself,
+saving them to a mailbox file.  If your site subscribes to ClariNet,
+the index make it easy to read hard-to-find UPI articles about civil
+liberties.
+
+Enclosed are the directions for 1) creating a local civil liberties
+newsgroup 2) reading the articles yourself.
+
+
+============================================================================
+Creating a Local Civil Liberties Newsgroup
+
+The newsgroup will make it easy for you and others at your site to
+read civil-liberties-related news items. Also, it will be a place for
+local discussion.
+
+How to do it:
+
+1) If you want the UPI articles, your site must subscribe to ClariNet,
+   a commerical distributor of UPI and other news articles.
+    "For more info on ClariNet, write to info@clarinet.com or
+     phone 1-800-USE-NETS."
+
+  But even with only "free" articles and no UPI articles, I think
+  newsgroup is worthwhile. Here are some recent "free" articles:
+
+	[talk.politics.drugs, et al.] Re: Rush Limbaugh on Civil Rights
+	[misc.activism.progressive] Free Radio: FCC's Actions In San Francisco
+	[misc.legal] US reverses position in kid-porn case before S Ct
+	[talk.politics.drugs] Forfeiture Horror Story
+
+2) Have a new local newsgroup created. At the U. of Illinois, it is
+    called uiuc.civil-liberty. At EFF, it is called eff.civil-liberty.
+    IF YOUR SITE GETS CLARINET, THIS NEWSGROUP MUST NOT BE DISTRIBUTED
+    TO NONCLARINET SUBSCRIBERS.  It should be treated like the clari.*
+    newsgroups. BE SURE THIS IS CLEAR TO WHOEVER CREATES THE
+    NEWSGROUP.
+
+3) Subscribe to the civil-liberty-index mailing list by sending
+   email to listserv@eff.org. Include the line:
+	   add civil-liberty-index
+   or
+   	   add SOME-EMAIL-ADDRESS civil-liberty-index
+  About once a day, you will receive an index to newsy civil-liberty-related
+  articles. For example, one index was:
+
+       ==================================
+       From: kadie@uiuc.edu
+       Content-type: application/x-netnews-index
+       Subject: Civil Liberty Index
+       
+       talk.politics.drugs: <1484000329@igc.apc.org>
+       misc.legal: <27vl05$ilv@panix.com>
+       misc.activism.progressive: <1993Sep24.204556.11979@mont.cs.missouri.edu>
+       clari.news.group.gays: <us-aspin-gaysURc8c_3SO@clarinet.com>
+       clari.tw.telecom: <us-fccURcf2_3SN@clarinet.com>
+       clari.local.illinois: <il-ruknsUR7ce_3SM@clarinet.com>
+       clari.local.texas: <tx-copchargeUR89_3SM@clarinet.com>
+       clari.local.texas: <tx-vidorUR29d_3SN@clarinet.com>
+       clari.local.california: <ca-inmatesUR81e_3SN@clarinet.com>
+       clari.nb.telecom: <NB930923.30@clarinet.com>
+       clari.nb.telecom: <NB930924.16@clarinet.com>
+       ===================================
+
+4) Get "index2news", a Perl program for posting the articles referenced
+in an index. Information about this program is enclosed. Delete
+the first line of this program (i.e. "# remove this first line").
+
+5) Create a "clp" script:
+         ==================
+         #!/bin/csh
+         setenv LOCALCL "yoursite.civil-liberty"
+         setenv NS "news.yoursite"
+         index2news -n$NS -g$LOCALCL -s
+         ==================
+   In the script, set the variable LOCALCL to the name of
+   your local civil liberty newsgroup, set the variable NS
+   to your local NNTP news server.
+
+6) When you get a civil liberty index, run in through "clp".
+For example, if you use the usual Unix mail program, and
+the civil liberty index is message 4, type:
+  | 4 clp
+
+7) Report any problems or bugs to kadie@uiuc.edu.
+
+The uiuc.civil-liberty newsgroup has been a great means for getting
+people to think about civil liberties.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+admin/index2news
+=================
+A Perl program for posting the articles referenced by a list of
+Netnews message-id's.
+
+Usage: index2news [-nNNTPSERVER -gREPOSTGROUP -h -s] < INDEXFILE
+-h	help
+-s	skip header
+
+ If -g is empty, output will go to STDOUT
+
+If a message-id is preceded by a newsgroup, for example:
+	  clari.news.demonstration: <ny-kkkU2NT340pe@clarinet.com>
+and if the message-id cannot be found, then the program will look for
+the first article in the newsgroup that references the message-id. In
+the case of ClariNet articles this is usually an updated version of
+the same article.
+
+REMEMBER: ClariNet articles are copyrighted. The newsgroup you repost
+to, must have distribution no wider than the ClariNet newsgroups.
+
+Before using, remove the first line of the file.
+
+=================
+admin/clp
+=================
+[No annotation available.]
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/admin/index2news
+  pub/academic/admin/clp
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/admin index2news
+send acad-freedom/admin clp
+
+===================================================================
+
+How to Read the Articles Yourself
+
+
+If you don't want to set up a local newsgroup, you can just retrieve
+the articles for yourself, saving them to a mailbox file.
+
+How to do it:
+
+1) If you want the UPI articles, your site must subscribe to ClariNet,
+   a commerical distributor of UPI and other news articles.
+    "For more info on ClariNet, write to info@clarinet.com or
+     phone 1-800-USE-NETS."
+
+2) Subscribe to the civil-liberty-index mailing list by sending
+   email to listserv@eff.org. Include the line:
+	   add civil-liberty-index
+   or
+   	   add SOME-EMAIL-ADDRESS civil-liberty-index
+  About once a day, you will receive an index to newsy civil-liberty-related
+  articles. For example, one index was:
+
+3) Get "index2mbox", a Perl program for saving to file the articles
+   referenced in an index. Information about this program is enclosed.
+   Delete the first line of this program (i.e. "# remove this first line").
+
+4) Create a "clm" script:
+        ==================
+	#!/bin/csh
+	setenv CLMBOX "~/clmbox"
+	setenv NS "news.yoursite"
+	index2mbox -n$NS -s > $CLMBOX
+        ==================
+   In the script, set the variable NS to your local NNTP news server.
+
+5) When you get a civil liberty index, run in through "clm".
+For example, if you use the usual Unix mail program, and
+the civil liberty index is message 4, type:
+  | 4 clp
+
+6) This will put the articles in "~/clmbox" (deleting any previous
+articles). You can read these articles with any file or mailbox
+reading program. For example:
+   more ~/clmbox
+   mail -f ~/clmbox
+   nn -f ~/clmbox
+
+7) Report any problems or bugs to kadie@uiuc.edu.
+
+- Carl
+
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+admin/index2mbox
+=================
+A Perl program for turning a list of Netnews message-id's into a
+mailbox file.
+
+Usage: index2mbox [-nNNTPSERVER -h -s] < INDEXFILE > MBOXFILE
+-h	help
+-s	skip header
+
+MBOXFILE can be read with "nn MBOXFILE", "mail -f MBOXFILE", or with
+an editor or browser program.
+
+If a message-id is preceded by a newsgroup, for example:
+	  clari.news.demonstration: <ny-kkkU2NT340pe@clarinet.com>
+and if the message-id cannot be found, then the program will look for
+the first article in the newsgroup that references the message-id. In
+the case of Clarinet articles this is usually an updated version of
+the same article.
+
+Before using, remove the first line of the file.
+
+=================
+admin/clm
+=================
+[No annotation available.]
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/admin/index2mbox
+  pub/academic/admin/clm
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/admin index2mbox
+send acad-freedom/admin clm

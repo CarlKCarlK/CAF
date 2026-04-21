@@ -1,0 +1,363 @@
+Xref: eff comp.admin.policy:1999 alt.comp.acad-freedom.talk:5373
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: New Princeton Policy
+Message-ID: <1992Sep8.235540.18036@eff.org>
+Originator: kadie@eff.org
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <1992Sep8.193517.12597@eff.org>
+Date: Tue, 8 Sep 1992 23:55:40 GMT
+Lines: 68
+
+This is a critique of the most recent version of Princeton
+Univeristy's Guidelines for use of Campus and Network Computing
+Resources. The policy could be improved by detailing due process
+procedures and privacy protection. Also, free expression for users
+could be improved.
+
+I. Free Expression
+
+The policy imposes speech restrictions, but apparently these
+apply to all of Princeton and not just the computer facilities.
+
+The only computer-specific restriction is a prohibition against
+friviolus messages. The policy could be improved by removing this
+meaninglessly vague restriction.
+
+II. Due Process
+
+The policy does not address due process at all.
+
+III. Privacy
+
+The policy does not address user privacy and university searches at
+all.
+
+IV. Participation
+
+The policy does not specify if users participated in its
+creation and refinement.
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+academic/speech-codes.aaup
+=================
+On Freedom of Expression and Campus Speech Codes Expression - An
+official statement of the American Association of University
+Professors (AAUP)
+
+It says in part: "On a campus that is free and open, no idea can be
+banned or forbidden.  No viewpoint or message may be deemed so hateful
+or disturbing that it may not be expressed."
+
+=================
+faq/policy
+=================
+q: What guidance is there for creating or evaluating a computer policy?
+
+=================
+=================
+
+These document(s) are available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/academic/speech-codes.aaup
+  pub/academic/faq/policy
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/academic speech-codes.aaup
+send acad-freedom/faq policy
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+-------------------------------------------------------------------------
+
+
+Xref: eff comp.admin.policy:2001 alt.comp.acad-freedom.talk:5377
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!sol.ctr.columbia.edu!spool.mu.edu!yale.edu!jvnc.net!princeton!phoenix.Princeton.EDU!mgflax
+From: mgflax@phoenix.Princeton.EDU (Marshall G. Flax)
+Subject: Re: New Princeton Policy
+Message-ID: <1992Sep8.215238.13612@Princeton.EDU>
+Sender: news@Princeton.EDU (USENET News System)
+Nntp-Posting-Host: phoenix.princeton.edu
+Organization: Princeton University
+References: <1992Sep8.193517.12597@eff.org>
+Date: Tue, 8 Sep 1992 21:52:38 GMT
+Lines: 120
+
+In article <1992Sep8.193517.12597@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+
+>	2. ... (Note: if an individual has explicitly
+>	and intentionally established a public server, or
+>	clearly designated a set of files as being for
+>	shared public use, others may assume
+>	authorization.)
+
+This parenthetical comment was added, in part, to allow people to browse
+through others' ~/pub and ~/Pub directories without fear of disciplinary
+action.
+
+>	3.  You must not attempt to decrypt or translate
+>	encrypted material, or obtain system privileges to
+>	which you are not entitled. Attempts to do any of
+>	these will be considered serious transgressions.
+
+According to a CIT representative, the phrase "to which you are not
+entitled" modifies *both* "system privileges" and "encrypted material",
+so one is allowed to decrypt material to which one is entitled.  (You'd
+think the lawyers would have picked up on the ambiguity!)
+
+>	6.  You must be sensitive to the public nature of
+>	shared facilities, and take care not to display on
+>	screens in such locations images, sounds or
+>	messages which could create an atmosphere of
+>	discomfort or harassment for others. You must also
+>	refrain from transmitting to others in any location
+>	inappropriate images, sounds or messages which
+>	might reasonably be considered harassing.
+
+This seems reasonable: public clusters are shared, and people should
+show some consideration and politeness.  Notice that the tone of this
+paragraph is less "imperative" than many of the others, and seems to be
+an exact parallel to PU's regulations regarding printed matter.  The
+issue of USENET porn has been raised in campus newspapers last year.
+
+>	7.  You must avoid tying up computing resources for
+>	excessive game playing or other trivial
+>	applications;  sending frivolous or excessive mail
+>	or messages locally or over an affiliated network;
+>	printing excessive copies of documents, files,
+>	images or data. You must refrain from using
+>	unwarranted or excessive amounts of storage;
+>	printing documents or files numerous times because
+>	you have not checked thoroughly for all errors and
+>	corrections; or running grossly inefficient
+>	programs when efficient ones are available. You
+>	must be sensitive to special need for software and
+>	services available in only one location, and cede
+>	place to those whose work requires the special
+>	items.
+
+It should be noted that P'ton is liberal with disk space, makes games
+available for Macs through public file servers, offers nearly unlimited
+laser printing, and (regarding "grossly inefficient programs") offers
+emacs in addition to vi.
+
+>	8.  You must not prevent others from using shared
+>	resources by running unattended processes or
+>	placing signs on devices to "reserve" them without
+>	authorization. Your absence from a public computer
+>	or workstation should be no longer than warranted
+>	by a visit to the nearest restroom. A device
+>	unattended for more than ten minutes may be assumed
+>	to be available for use, and any process running on
+>	that device terminated. You must not lock a
+>	workstation or computer which is in a public
+>	facility. You must also be sensitive to performance
+>	effects of remote login to shared workstations:
+>	when there is a conflict, priority for use of the
+>	device must go to the person seated at the keyboard
+>	rather than to someone logged on remotely.
+
+This does raise the unattended terminal problem, but it's hard to arrive
+at a platform-independent solution.
+
+>	10. If you create or maintain electronically-stored
+>	information which is important to your work or to
+>	the University in general, you are responsible for
+>	making frequent backups of the information.
+
+The University still backs up mainframes, but they have a point here.
+
+>	11. Messages, sentiments, and declarations sent as
+>	electronic mail or sent as electronic postings must
+>	meet the same standards for distribution or display
+>	as if they were tangible documents or instruments.
+>	You are free to publish your opinions, but they
+>	must be clearly and accurately identified as coming
+>	from you, or, if you are acting as the authorized
+>	agent of a group recognized by the University, as
+>	coming from the group you are authorized to
+>	represent. Attempts to alter the "From" line or
+>	other attribution of origin in electronic mail,
+>	messages, or postings, will be considered
+>	transgressions of University rules.
+
+These also seem to mirror the U's policy for written material.
+
+>	12. If you create, alter, or delete any electronic
+>	information contained in, or posted to, any campus
+>	computer or affiliated network it will be
+>	considered forgery if it would be considered so on
+>	a tangible document or instrument.
+
+This looks pretty good.
+
+>	13. You must not create and send, or forward,
+>	electronic chain letters.
+
+There is a school of thought which considers all of USENET to be a
+single chain letter.
+
+marshall
+-- 
+============ 40 Linden Lane, Princeton, NJ 08540, 609-921-0962 ============
+=========== 5 Joyce Lane, Woodbury, NY 11797, 516-364-9331,9379  ==========
+===== c/o Jack Gelfand,Psych Dept,Princeton U.,NJ 08544,609-258-2930  =====
+= Original material(c) 1992, Marshall Flax <mgflax@phoenix.Princeton.EDU> =
+
+
+-------------------------------------------------------------------------
+
+
+~Newsgroups: comp.admin.policy
+~From: S_TITZ@iravcl.ira.uka.de (Olaf Titz)
+~Subject:  Re: New Princeton Policy
+Message-ID: <1992Sep9.094246.819@rz.uni-karlsruhe.de>
+~Date: Wed, 9 Sep 1992 09:42:46 GMT
+
+In <1992Sep8.193517.12597@eff.org> kadie@eff.org writes:
+
+>...
+>  	1.  If you have any computer account, you are
+>  	responsible for the use made of that account. You
+>  	should set a password which will protect your
+>  	account from unauthorized use, and which will not
+>  	be guessed easily.  If you discover that someone
+>  	has made unauthorized use of your account, you
+>  	should change the password and report the intrusion
+>  	to a CIT Information Center. You should change your
+>  	password on a regular basis, to assure continued
+>  	security of your account.
+
+Why only 'should' in that place?
+
+>  	2.  You must not intentionally seek information
+>  	about, browse, obtain copies of, or modify files,
+>  	passwords, or tapes belonging to other people,
+>  	whether at Princeton or elsewhere, unless
+>  	specifically authorized to do so by those
+>  	individuals. (Note: if an individual has explicitly
+>  	and intentionally established a public server, or
+>  	clearly designated a set of files as being for
+>  	shared public use, others may assume
+>  	authorization.)
+
+Note especially that this explicitly PERMITS users to set up public
+servers. Very good!
+
+>...
+>  	7.  You must avoid tying up computing resources for
+>  	excessive game playing or other trivial
+>  	applications;  sending frivolous or excessive mail
+>  	or messages locally or over an affiliated network;
+>  	printing excessive copies of documents, files,
+>  	images or data. You must refrain from using
+>  	unwarranted or excessive amounts of storage;
+>  	printing documents or files numerous times because
+>  	you have not checked thoroughly for all errors and
+>  	corrections; or running grossly inefficient
+>  	programs when efficient ones are available. You
+>  	must be sensitive to special need for software and
+>  	services available in only one location, and cede
+>  	place to those whose work requires the special
+>  	items.
+
+This sounds good. But who is it to determine the border between
+reasonable use and misuse? The whole policy does not state any means
+of dealing with conflicts.
+
+>  	8.  You must not prevent others from using shared
+>  	resources by running unattended processes or
+>  	placing signs on devices to "reserve" them without
+>  	authorization. Your absence from a public computer
+>  	or workstation should be no longer than warranted
+>  	by a visit to the nearest restroom. A device
+>  	unattended for more than ten minutes may be assumed
+>  	to be available for use, and any process running on
+>  	that device terminated. You must not lock a
+>  	workstation or computer which is in a public
+>  	facility. You must also be sensitive to performance
+
+This means: 'If you must go to the restroom you HAVE to leave the
+terminal open, so that other users can terminate your session if they
+need the machine.' This is IMO simply unacceptable. Other policies
+would REQUIRE to lock the terminal to prevent tampering with your
+account.
+
+>  	effects of remote login to shared workstations:
+>  	when there is a conflict, priority for use of the
+>  	device must go to the person seated at the keyboard
+>  	rather than to someone logged on remotely.
+
+Questionable. Which 'devices' are there to be conflicted about? CPU
+and memory gets usually equally divided between users.
+
+Just a few thoughts.
+
+MfG,
+        Olaf
+-- 
+    o     Olaf Titz - comp.sc.student - univ of karlsruhe - germany
+ _ /<_    s_titz@iravcl.ira.uka.de - uknf@dkauni2.bitnet - praetorius@irc
+(_)>(_)   +49-721-60439 - did i forget something?
+What high-level language should one use for system programming? The only
+ reasonable candidate today is PL/I. - Fred Brooks (1975)
+
+
+-------------------------------------------------------------------------
+
+
+~Newsgroups: comp.admin.policy
+~From: ckd@eff.org (Christopher Davis)
+~Subject:  Re: New Princeton Policy
+Message-ID: <CKD.92Sep9143724@loiosh.eff.org>
+~Date: Wed, 9 Sep 1992 18:37:26 GMT
+
+Olaf> == Olaf Titz <S_TITZ@iravcl.ira.uka.de> 
+
+ Princeton> 8.  You must not prevent others from using shared resources
+ Princeton> by running unattended processes or placing signs on devices
+ Princeton> to "reserve" them without authorization. Your absence from a
+ Princeton> public computer or workstation should be no longer than
+ Princeton> warranted by a visit to the nearest restroom. A device
+ Princeton> unattended for more than ten minutes may be assumed to be
+ Princeton> available for use, and any process running on that device
+ Princeton> terminated. You must not lock a workstation or computer
+ Princeton> which is in a public facility.
+
+ Olaf> This means: 'If you must go to the restroom you HAVE to leave the
+ Olaf> terminal open, so that other users can terminate your session if
+ Olaf> they need the machine.' This is IMO simply unacceptable. Other
+ Olaf> policies would REQUIRE to lock the terminal to prevent tampering
+ Olaf> with your account.
+
+MIT's Athena workstation policy is that you can lock it for no more than
+20 minutes before someone can feel free to reboot it or otherwise
+"forcibly unlock" it.  The "standard" screenlocker has a displayed timer
+of "how long I've been locked".
+
+Perhaps Princeton could provide a similar one with a button (cleaner
+than a reboot, especially since MIT Athena workstation can't have rlogin
+users ;-) that would only appear after N minutes, saying "break lock and
+kill X server".  This would protect accounts while keeping workstation
+resources available.
+--
+Christopher Davis   | ]CALL -151       
+<ckd@eff.org>       | *300: 20 DD FB 60
+System Administrator| *3D0G            
+EFF +1 617 864 0665 | ]CALL 768        
+

@@ -1,0 +1,513 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Cornell University removed erotica newsgroups due to a legal investigation into a single article.",
+        "CERT recommended that system administrators use login banners to warn users of keystroke monitoring to make such surveillance legally defensible.",
+        "The Ninth U.S. Circuit Court of Appeals ruled parts of the Protection of Children Against Sexual Exploitation Act of 1977 invalid on First Amendment grounds."
+      ],
+      "organizations": [
+        "Cornell University",
+        "Computer Emergency Response Team (CERT)",
+        "FIRST",
+        "University of Nebraska at Omaha",
+        "Texas Tech University",
+        "Secret Service",
+        "EFF"
+      ],
+      "people": [
+        "Leslie Regan Shade",
+        "Mark Lehrer",
+        "Matt Welsh",
+        "Carl M. Kadie"
+      ],
+      "summary": "This digest abstract summarizes multiple controversies regarding digital rights and academic freedom, including the removal of erotica newsgroups at Cornell University and the legality of keystroke monitoring by system administrators. It also covers legal cases involving BBS operators and a Secret Service raid on Texas Tech University dorms for software piracy. The items highlight early tensions between university administrative control, law enforcement surveillance, and the principles of academic freedom in computing.",
+      "title": "Abstract of CAF-News 02.65",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "keystroke monitoring",
+        "software piracy",
+        "Usenet",
+        "BBS",
+        "child pornography laws"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "shade@ice.cc.mcgill.ca (Leslie Regan Shade)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 0 -- Abstract of CAF-News 02.65",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 4, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Screening Netnews for offensive articles may increase a university's legal liability by demonstrating editorial control.",
+        "Courts have generally found institutions free from liability when control of publications remains with students.",
+        "The Cubby v. CompuServe decision suggests that a no-screening policy is preferable for distributors to avoid being held liable for defamatory content."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation (EFF)",
+        "American Association of University Professors (AAUP)"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Rich Wales"
+      ],
+      "summary": "Carl Kadie responds to an inquiry regarding whether university system administrators are liable for libelous statements made by users. He argues that screening content may actually increase institutional liability by establishing editorial control, citing legal precedents from student press law and the Cubby v. CompuServe case.",
+      "title": "Libel by computer user -> liability by sysadmins?",
+      "topics": [
+        "libel",
+        "system administrator liability",
+        "editorial control",
+        "academic freedom",
+        "netnews"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 4 Dec 1992 22:10:07 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<Byr9Kv.7wB@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 2--Re: Libel by computer user -> liability by sysadmins?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 6, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Canceling posts by third parties (outside of moderators) is viewed as a violation of the system administrator's domain of authority over their newsspool."
+      ],
+      "organizations": [
+        "Mount Holyoke College"
+      ],
+      "people": [
+        "Jurgen Botz",
+        "Tim Pierce",
+        "Dennis G Rears"
+      ],
+      "summary": "Jurgen Botz discusses the ethics and authority surrounding the cancellation of Usenet posts by third parties. He argues that only authors and group moderators should have the authority to cancel messages, opposing 'net.police' who delete content they deem illegal. Botz frames the issue as one of ownership and system administration authority over stored data.",
+      "title": "Article 3--Re: Canceling other people's postings",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "digital authority",
+        "netiquette",
+        "data ownership"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 6 Dec 1992 15:22:53 GMT",
+      "from": "jbotz@mtholyoke.edu (Jurgen Botz)",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<ByuG25.A5v@mtholyoke.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 3--Re: Canceling other people's postings",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 2, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Police used a 15-year-old boy to press a return key to simulate illegal access for a sting operation.",
+        "The prosecution used 'possession of criminal tools' as a felony charge because the case involved a computer system.",
+        "Digital images were used as evidence of child pornography despite poor resolution and lack of expert consensus."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Ohio Bureau of Criminal Identification and Investigation",
+        "Cleveland Plain Dealer"
+      ],
+      "people": [
+        "David Lehrer",
+        "Mark Lehrer"
+      ],
+      "summary": "David Lehrer provides an update on the prosecution of Mark Lehrer, a BBS sysop in Munroe Falls, Ohio. The case highlights the legal risks for sysops regarding 'disseminating matter harmful to juveniles' and the use of 'criminal tools' statutes to justify seizing entire computer systems. It emphasizes the lack of a 'library defense' for digital distributors compared to physical bookstores.",
+      "title": "Article 4--Akron BBS trial update!",
+      "topics": [
+        "BBS",
+        "sysop liability",
+        "First Amendment",
+        "search and seizure",
+        "child pornography laws"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 2 Dec 1992 16:49:08 GMT",
+      "from": "71756.2116@compuserve.com (David Lehrer)",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<921202164908_71756.2116_DHG64-1@CompuServe.COM>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 4--Akron BBS trial update!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 8, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "18 U.S.C. section 2510 does not expressly authorize keystroke monitoring by system administrators.",
+        "Banner notices are necessary to obtain express consent from unauthorized intruders to avoid legal liability."
+      ],
+      "organizations": [
+        "CERT Coordination Center",
+        "Software Engineering Institute",
+        "Carnegie Mellon University",
+        "United States Department of Justice",
+        "FIRST (Forum of Incident Response and Security Teams)"
+      ],
+      "people": [
+        "Robert S. Mueller, III",
+        "Scott Charney",
+        "Marty Stansell-Gamm",
+        "Carl M. Kadie"
+      ],
+      "summary": "The CERT Coordination Center shared guidance from the U.S. Department of Justice regarding the legality of keystroke monitoring by system administrators under 18 U.S.C. section 2510. Because the law did not explicitly address modern threats like viruses and worms, the DOJ recommended using sign-on banner notices to establish express consent for monitoring. This was intended to mitigate potential criminal and civil liability for administrators tracking intruders.",
+      "title": "CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "keystroke monitoring",
+        "surveillance",
+        "legal liability",
+        "system administration",
+        "privacy"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 8 Dec 1992 04:10:23 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<1992Dec8.041023.4125@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 5--CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "14 Dec 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Keystroke logs may be inadmissible or lead to wiretapping charges unless users are warned they are being recorded.",
+        "CERT is funded by DARPA to provide services for Internet sites lacking their own security teams.",
+        "FIRST serves as an umbrella organization for interoperability between diverse security response teams."
+      ],
+      "organizations": [
+        "NASA Science Internet",
+        "CERT",
+        "DARPA",
+        "SEI of Carnegie-Mellon University",
+        "FIRST",
+        "US Dept. of Justice"
+      ],
+      "people": [
+        "Ron Tencati",
+        "John P. Eisenmenger",
+        "Jyrki Kuoppala"
+      ],
+      "summary": "Ron Tencati explains the relationship between CERT, DARPA, and FIRST (Forum of Incident Response and Security Teams). He discusses how these organizations coordinate security incident responses across government, academic, and private sectors. The post specifically addresses a US Department of Justice warning regarding the legality of keystroke monitoring for catching hackers.",
+      "title": "Article 6--Incident Response Teams",
+      "topics": [
+        "incident response",
+        "keystroke monitoring",
+        "computer security",
+        "legal policy",
+        "network privacy"
+      ]
+    },
+    "identity": {
+      "date": "14 Dec 92 20:16:00 GMT",
+      "from": "tencati@nssdca.gsfc.nasa.gov (NSI Security Manager +1-202-434-4541)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<14DEC199215163611@nssdca.gsfc.nasa.gov>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 6--Incident Response Teams (WAS: Re: CERT and the Dept. of Justice on keystroke monitoring)",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 18, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "CERT expanded a U.S. Dept of Justice recommendation for federal agencies to apply to all systems globally.",
+        "The author suggests boycotting CERT due to its support for unilateral monitoring policies."
+      ],
+      "organizations": [
+        "CERT",
+        "U.S. Dept of Justice",
+        "EFF",
+        "CPSR"
+      ],
+      "people": [
+        "Jyrki Kuoppala",
+        "Chris Walsh"
+      ],
+      "summary": "Jyrki Kuoppala discusses a CERT advisory that recommends keystroke monitoring across all systems, regardless of whether they are private, public, or government-owned. He argues that this recommendation unilaterally removes the reasonable expectation of privacy for users and suggests that those valuing privacy rights should cease cooperation with CERT. He proposes seeking alternatives for reporting security vulnerabilities that respect individual freedoms.",
+      "title": "Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "keystroke monitoring",
+        "privacy rights",
+        "surveillance",
+        "academic freedom",
+        "security advisories"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 18 Dec 1992 10:02:54 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<1992Dec18.100254.4122@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 7--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 11, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Nebraska at Omaha instituted a general ban on the originating or relaying of chain-letters."
+      ],
+      "organizations": [
+        "University of Nebraska at Omaha"
+      ],
+      "people": [
+        "Paul W Schleck"
+      ],
+      "summary": "Paul W. Schleck shared a sexually explicit joke chain-letter that had been circulated at the University of Nebraska at Omaha. The post was intended to provide context for a debate on computers and academic freedom following the university's implementation of a general ban on originating or relaying chain-letters.",
+      "title": "Joke \"Chain-Letter\" Distributed at UN-Omaha",
+      "topics": [
+        "censorship",
+        "acceptable use policy",
+        "chain-letters",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 11 Dec 1992 05:23:28 GMT",
+      "from": "pschleck@cwis.unomaha.edu (Paul W Schleck KD3FU)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<pschleck.724051408@cwis>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 8--Joke \"Chain-Letter\" Distributed at UN-Omaha",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 11, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The administrator claims that the distribution method of chain letters constitutes resource abuse.",
+        "The university's system policy prohibits non-academic use of computing resources."
+      ],
+      "organizations": [
+        "University of Nebraska at Omaha",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Michael S. McMahon"
+      ],
+      "summary": "A system administrator at the University of Nebraska at Omaha responds to Carl M. Kadie regarding a prohibition on chain letters. The administrator argues that while he supports academic freedom, the distribution of such material constitutes resource abuse and violates policies against non-academic use of university systems.",
+      "title": "Re: Chain letters?",
+      "topics": [
+        "resource abuse",
+        "acceptable use policy",
+        "academic freedom",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 11 Dec 1992 21:51:56 GMT",
+      "from": "cwis@cwis.unomaha.edu (Campus Wide Information Service)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<cwis.724110716@cwis>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 9--Re: Chain letters?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-12-17",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The ruling potentially removes legal risks for sysops regarding the unintentional hosting or transmission of prohibited materials."
+      ],
+      "organizations": [
+        "Ninth U.S. Circuit Court of Appeals",
+        "X-Citement Video Inc."
+      ],
+      "people": [
+        "John Nagle"
+      ],
+      "summary": "John Nagle reports on a Ninth U.S. Circuit Court of Appeals ruling in US vs X-Citement Video Inc. regarding the Protection of Children Against Sexual Exploitation Act of 1977. The court found sections concerning distribution and receipt invalid under the First Amendment, though production remained illegal. Nagle suggests this could reduce legal liability for system operators (sysops) and network nodes handling third-party content.",
+      "title": "Appeals court declares child pornography law unconstitutional",
+      "topics": [
+        "First Amendment",
+        "sysop liability",
+        "network law",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 17 Dec 1992 23:26:18 GMT",
+      "from": "nagle@netcom.com (John Nagle)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<1992Dec17.232618.19727@netcom.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 10--Appeals court declares child pornography law unconstitutional",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Dec 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The ruling in US vs X-Citement Video Inc. may remove legal risks for US sysops regarding the unintentional hosting of illegal materials.",
+        "There is no overall duty for site administrators to inquire about the age of performers in materials passing through their systems."
+      ],
+      "organizations": [
+        "Ninth U.S. Circuit Court of Appeals"
+      ],
+      "people": [
+        "Michael C. Berch",
+        "John Nagle"
+      ],
+      "summary": "The post discusses the Ninth U.S. Circuit Court of Appeals ruling in US vs X-Citement Video Inc., which found certain sections of the Protection of Children Against Sexual Exploitation Act of 1977 unconstitutional regarding distribution and receipt. The authors argue that this ruling reduces legal liability for system operators (sysops) and network nodes who may unknowingly host or transport illegal material. They suggest that without actual knowledge of a performer's age, site administrators should not be held criminally liable.",
+      "title": "Re: Appeals court declares child pornography law unconstitutional",
+      "topics": [
+        "sysop liability",
+        "First Amendment",
+        "network law",
+        "child pornography laws"
+      ]
+    },
+    "identity": {
+      "date": "18 Dec 92 02:23:13 GMT",
+      "from": "mcb@presto.ig.com (Michael C. Berch)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<921217.37008063@robbe-grillet.postmodern.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 11--Re: Appeals court declares child pornography law unconstitutional",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "A 1992 copyright law revision allowed felony charges for trading more than 10 pieces of copyrighted software.",
+        "The raid involved an expanded right to use forfeiture against computer equipment used in crimes."
+      ],
+      "organizations": [
+        "Secret Service",
+        "Texas Tech University",
+        "Software Publishers Association",
+        "Computer Professionals for Social Responsibility"
+      ],
+      "people": [
+        "Joe Abernathy",
+        "R. David Freriks",
+        "Scott Chasin",
+        "Marc Rotenberg"
+      ],
+      "summary": "The Secret Service raided a Texas Tech University dorm to seize computers from students allegedly using the Internet to trade pirated software. The action highlighted new copyright law revisions that lowered the felony threshold for software piracy and expanded government forfeiture rights over computer hardware.",
+      "title": "Federal Agents Raid Dorm, Seize Computer Equipment",
+      "topics": [
+        "software piracy",
+        "search and seizure",
+        "copyright law",
+        "Internet history",
+        "computer crime"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Joe.Abernathy@HOUSTON.CHRON.COM(Joe Abernathy)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<fwd.BzMzto.HC5@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n65",
+      "subject": "Article 12--File 2--Secret Service Raids Dorm",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,558 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 20, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "CERT recommended that users be warned if keystroke logs are to be used as legal evidence.",
+        "Critics argued that computer system owners should not have unilateral rights to monitor all user data without probable cause.",
+        "Iowa State University administration claimed newsgroup censorship was based on recommendations from legal advisors.",
+        "The Ninth U.S. Circuit Court ruling in US vs X-Citement Video Inc. potentially reduced liability for sysops regarding the passive distribution of unlawful materials."
+      ],
+      "organizations": [
+        "CERT",
+        "Department of Justice",
+        "FIRST",
+        "Prodigy",
+        "Iowa State University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Leslie Regan Shade",
+        "Mike Godwin",
+        "Adam Gaffin",
+        "Carl M. Kadie"
+      ],
+      "summary": "This digest summarizes several debates regarding digital rights and censorship in the early 1990s. Key discussions include CERT's recommendations on keystroke monitoring, Prodigy's content moderation policies, newsgroup censorship at Iowa State University, and a Ninth Circuit Court ruling on child pornography laws affecting system administrators.",
+      "title": "Abstract of CAF-News 02.63",
+      "topics": [
+        "keystroke monitoring",
+        "online censorship",
+        "academic freedom",
+        "sysop liability",
+        "privacy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "shade@ice.cc.mcgill.ca (Leslie Regan Shade)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 0 -- Abstract of CAF-News 02.63",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "14 Dec 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Keystroke logs may be inadmissible or lead to wiretapping charges unless users are warned they are being recorded.",
+        "FIRST serves as an umbrella organization for interoperability between diverse security response teams."
+      ],
+      "organizations": [
+        "NASA Science Internet",
+        "CERT",
+        "DARPA",
+        "SEI of Carnegie-Mellon University",
+        "FIRST",
+        "U.S. Dept. of Justice"
+      ],
+      "people": [
+        "Ron Tencati",
+        "John P. Eisenmenger",
+        "Jyrki Kuoppala"
+      ],
+      "summary": "Ron Tencati explains the relationship between CERT, DARPA, and FIRST (Forum of Incident Response and Security Teams). He discusses how these organizations coordinate security incident responses across government agencies, universities, and private vendors. The post specifically addresses a Department of Justice warning regarding the legality of keystroke monitoring for catching hackers.",
+      "title": "Article 1--Incident Response Teams",
+      "topics": [
+        "computer security",
+        "incident response",
+        "keystroke monitoring",
+        "privacy law",
+        "network governance"
+      ]
+    },
+    "identity": {
+      "date": "14 Dec 92 20:16:00 GMT",
+      "from": "tencati@nssdca.gsfc.nasa.gov (NSI Security Manager +1-202-434-4541)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<14DEC199215163611@nssdca.gsfc.nasa.gov>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 1--Incident Response Teams (WAS: Re: CERT and the Dept. of Justice on keystroke monitoring)",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 15, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The monitoring notice applies to all system users regardless of authorization status."
+      ],
+      "organizations": [
+        "CERT",
+        "Dept. of Justice"
+      ],
+      "people": [
+        "Jyrki Kuoppala",
+        "William Unruh"
+      ],
+      "summary": "Jyrki Kuoppala critiques a notice regarding keystroke monitoring by CERT and the Department of Justice. He argues that the language 'Anyone using this system' implies that all users, not just unauthorized ones, are subject to surveillance and potential law enforcement reporting.",
+      "title": "Article 2--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "surveillance",
+        "keystroke monitoring",
+        "privacy",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 15 Dec 1992 22:22:34 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1992Dec15.222234.29589@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 2--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 16 Dec 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Ownership of a workstation by an institution does not automatically justify the monitoring of user keystrokes at public universities.",
+        "Public university sites, as governmental entities, are bound by the Constitution regarding privacy and eavesdropping."
+      ],
+      "organizations": [
+        "CERT",
+        "Dept. of Justice"
+      ],
+      "people": [
+        "Chris Walsh"
+      ],
+      "summary": "Chris Walsh argues against the notion that ownership of hardware justifies unrestricted keystroke monitoring, particularly at public universities. He contends that governmental entities are bound by constitutional privacy protections and distinguishes between technical troubleshooting and evidence-gathering. He suggests that property rights alone do not negate a user's expectation of privacy in electronic communications.",
+      "title": "Article 3--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "keystroke monitoring",
+        "privacy",
+        "academic freedom",
+        "surveillance",
+        "property rights"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 16 Dec 1992 19:26:39 GMT",
+      "from": "mack23@avalon.eecs.nwu.edu (Chris Walsh)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1992Dec16.192639.12991@eecs.nwu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 3--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Fri, 18 Dec 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "CERT expanded a DOJ advisory on keystroke monitoring to apply to all systems, not just federal ones.",
+        "The author suggests boycotting CERT due to its support for unilateral monitoring policies."
+      ],
+      "organizations": [
+        "CERT",
+        "U.S. Dept of Justice",
+        "EFF",
+        "CPSR"
+      ],
+      "people": [
+        "Jyrki Kuoppala",
+        "Chris Walsh"
+      ],
+      "summary": "Jyrki Kuoppala discusses a CERT advisory regarding keystroke monitoring, noting that CERT expanded the scope of U.S. Department of Justice advice to apply to all systems regardless of ownership. He argues that recommending unilateral monitoring without negotiation is an offensive invasion of privacy and suggests that those valuing privacy rights should cease cooperation with CERT. He proposes seeking alternatives for reporting security vulnerabilities that respect individual freedoms.",
+      "title": "Article 4--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "keystroke monitoring",
+        "privacy rights",
+        "surveillance",
+        "academic freedom",
+        "security advisories"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 18 Dec 1992 10:02:54 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1992Dec18.100254.4122@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 4--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 17 Dec 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Paying for computer resources should imply a transfer of certain property rights to the user, limiting the system operator's right to monitor files and processes."
+      ],
+      "organizations": [
+        "University of Colorado"
+      ],
+      "people": [
+        "Bear Giles",
+        "John De Armond"
+      ],
+      "summary": "Bear Giles argues against the notion that system owners have absolute rights to monitor users' activities. He uses an analogy of apartment leasing to suggest that paying for computer resources should grant a user temporary property rights and privacy from the system operator. He specifically mentions that students at the University of Colorado pay computing fees, framing their access as a paid service rather than philanthropy.",
+      "title": "Article 5--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "privacy",
+        "property rights",
+        "system administration",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 17 Dec 1992 18:12:17 GMT",
+      "from": "bear@tigger.cs.Colorado.EDU (Bear Giles)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1992Dec17.181217.6001@colorado.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 5--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 23, 1991",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "Prodigy employed dozens of editors to screen every public message, sometimes delaying posts by 40 hours.",
+        "Prodigy's policy barred messages directed at other members but allowed messages condemning groups, leading to the persistence of anti-Semitic content while blocking responses.",
+        "Users migrated to email mailing lists to bypass public forum censorship until Prodigy introduced per-message charges."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Prodigy",
+        "Anti-Defamation League",
+        "IBM",
+        "Sears",
+        "CompuServe",
+        "the WELL",
+        "GEnie"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Rita Marie Rouvalis",
+        "Henry Heilbrunn",
+        "Bruce Thurlby",
+        "Cliff Figallo",
+        "Adam Gaffin",
+        "Herb Rothman",
+        "Steve Hein",
+        "Brian Ek",
+        "Solon Owens",
+        "Henry Niman",
+        "Penny Hay"
+      ],
+      "summary": "Two articles critique the online service Prodigy for its restrictive censorship policies and transition to paid email. Mike Godwin argues that Prodigy's 'Disney Channel' approach to content control creates an environment where hate speech can persist while rebuttals are censored. Adam Gaffin details user protests against new email charges and the company's use of human editors to screen all public messages.",
+      "title": "Prodigy stumbles again as a forum",
+      "topics": [
+        "censorship",
+        "online forums",
+        "free speech",
+        "content moderation",
+        "user protests"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 23 Oct 1991 23:10:02 GMT",
+      "from": "rita@eff.org (Rita Marie Rouvalis)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1991Oct23.231002.24258@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 6--Prodigy stumbles again as a forum",
+      "to_or_newsgroups": "",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 17, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Prodigy's content moderation is distinct from newspaper editorial processes due to lack of space constraints.",
+        "Paying users for access changes the ethical nature of restricting their speech.",
+        "There are allegations that Prodigy monitors and deletes 'unacceptable' private emails."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Prodigy",
+        "New York Times"
+      ],
+      "people": [
+        "J. S. Greenfield",
+        "Brad Templeton"
+      ],
+      "summary": "J. S. Greenfield argues against comparing the content moderation policies of the online service Prodigy to the editorial process of the New York Times. He contends that because bulletin boards lack the space constraints of newspapers and users pay for access, Prodigy's restrictions constitute censorship rather than editing. Additionally, he raises concerns regarding potential privacy violations if Prodigy monitors and deletes private emails.",
+      "title": "Article 7--Re: Prodigy summary, anyone?",
+      "topics": [
+        "censorship",
+        "online moderation",
+        "privacy",
+        "bulletin board systems"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 17 Dec 1992 06:41:26 GMT",
+      "from": "greeny@eff.org (J S Greenfield)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1992Dec17.064126.13063@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 7--Re: Prodigy summary, anyone?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 18, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The ISU news policy was developed based on recommendations from university legal advisors to conform with Iowa state law.",
+        "Access to newsgroups remained available to students and faculty via the HDS system."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "Daily Iowan"
+      ],
+      "people": [
+        "Linda Hutchison",
+        "Carl M. Kadie"
+      ],
+      "summary": "Linda Hutchison, a member of the Computer Center administration at Iowa State University, defends the university's Usenet censorship policy. She asserts that the restrictions were based on legal advice regarding state laws rather than reactions to student newspaper articles. She claims that access remains unrestricted for users via the HDS platform.",
+      "title": "Re: ONE YEAR AGO: New news censorship policy at Iowa State University",
+      "topics": [
+        "Usenet censorship",
+        "academic freedom",
+        "university policy",
+        "state law"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 18 Dec 1992 22:50:36 GMT",
+      "from": "linda@iastate.edu (Linda Hutchison)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<BzH8sH.B52@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 8--Re: ONE YEAR AGO: New news censorship policy at Iowa State University",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 19, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The ISU Netnews policy was implemented without approval from the Computation Center Newsgroup committee.",
+        "Access to restricted newsgroups required users to sign a form, effectively creating a list of interested parties.",
+        "Iowa's state obscenity law reportedly exempts educational institutions, contradicting the university's legal justification for censorship."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "Electronic Frontier Foundation",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Linda Hutchison",
+        "Mike Godwin"
+      ],
+      "summary": "Carl Kadie challenges a representative from Iowa State University regarding the implementation of a restrictive Netnews policy. The exchange highlights a conflict over whether restricting access to groups like alt.sex constitutes censorship and disputes the university's claim that legal advisors mandated the restrictions. Kadie argues that the policy was developed without proper committee approval and creates a 'pervert list' by requiring users to sign forms for access.",
+      "title": "Re: ONE YEAR AGO: New news censorship policy at Iowa State University",
+      "topics": [
+        "Usenet censorship",
+        "academic freedom",
+        "network policy",
+        "obscenity laws"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 19 Dec 1992 02:24:11 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<1992Dec19.022411.22138@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 9--Re: ONE YEAR AGO: New news censorship policy at Iowa State University",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 20, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "University administrators used legal advisors to retroactively justify content-based censorship of newsgroups.",
+        "Restricting access to specific newsgroups by moving them to less accessible platforms is a form of censorship."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Iowa State University"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Linda Hutchison"
+      ],
+      "summary": "Mike Godwin of the EFF critiques a Usenet censorship policy at Iowa State University, arguing that legal justifications were created after the decision to ban certain newsgroups. He challenges the university's claim that state law required the removal of groups like alt.sex and argues that moving access to less-featured platforms constitutes censorship.",
+      "title": "Re: ONE YEAR AGO: New news censorship policy at Iowa State University",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "First Amendment",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 20 Dec 1992 04:34:45 GMT",
+      "from": "mnemonic@eff.org (Mike Godwin)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1992Dec20.043445.941@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 10--Re: ONE YEAR AGO: New news censorship policy at Iowa State University",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-12-17",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The ruling potentially removes legal risks for US sysops regarding the unintentional hosting or transmission of illegal materials."
+      ],
+      "organizations": [
+        "Ninth U.S. Circuit Court of Appeals"
+      ],
+      "people": [
+        "John Nagle"
+      ],
+      "summary": "John Nagle reports on a Ninth U.S. Circuit Court of Appeals ruling in US vs X-Citement Video Inc., which found certain sections of the Protection of Children Against Sexual Exploitation Act of 1977 unconstitutional regarding distribution and receipt. Nagle suggests this ruling could reduce legal liability for system operators (sysops) and network nodes handling third-party content. The prohibition on the production of such material remained intact.",
+      "title": "Article 11--Appeals court declares child pornography law unconstitutional",
+      "topics": [
+        "First Amendment",
+        "sysop liability",
+        "network law",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 17 Dec 1992 23:26:18 GMT",
+      "from": "nagle@netcom.com (John Nagle)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1992Dec17.232618.19727@netcom.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 11--Appeals court declares child pornography law unconstitutional",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Dec 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The ruling in US vs X-Citement Video Inc. may remove legal risks for sysops regarding the unintentional distribution of illegal materials.",
+        "Possession of material does not necessarily imply knowledge of the status of performers, meaning there is no overall duty to inquire."
+      ],
+      "organizations": [
+        "Ninth U.S. Circuit Court of Appeals"
+      ],
+      "people": [
+        "Michael C. Berch",
+        "John Nagle"
+      ],
+      "summary": "The post discusses the Ninth U.S. Circuit Court of Appeals ruling in US vs X-Citement Video Inc., which found certain sections of the Protection of Children Against Sexual Exploitation Act of 1977 unconstitutional regarding distribution and receipt. The authors argue that this ruling reduces legal liability for system operators (sysops) and network nodes who may unknowingly host or transport illegal material. They suggest it establishes that site administrators lack a general duty to inquire about the age of performers in materials passing through their systems.",
+      "title": "Article 12--Re: Appeals court declares child pornography law unconstitutional",
+      "topics": [
+        "sysop liability",
+        "First Amendment",
+        "network law",
+        "child pornography laws",
+        "US vs X-Citement Video Inc."
+      ]
+    },
+    "identity": {
+      "date": "18 Dec 92 02:23:13 GMT",
+      "from": "mcb@presto.ig.com (Michael C. Berch)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<921217.37008063@robbe-grillet.postmodern.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n63",
+      "subject": "Article 12--Re: Appeals court declares child pornography law unconstitutional",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

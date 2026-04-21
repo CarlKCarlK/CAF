@@ -1,0 +1,209 @@
+#!/usr/bin/perl
+# !/local/all/perl
+
+# History
+#  Dec 6           cmk - modifed input a bookmark to a directory
+#  Nov 23-30, 1992 cmk - initial development
+
+require "getopts.pl";
+
+&Getopts("p:l:");
+
+$toppath = $opt_p;
+
+#print STDERR "opt_l=$opt_l\n";
+if ($opt_l ne '') {
+	$line_limit = int($opt_l);
+	if ($line_limit < 0) {$line_limit=0;}
+} else {
+	$line_limit = 200;
+}	
+
+($tophost,$topport) = @ARGV;
+$topport = 70 if ! $topport;
+
+if (! $tophost) {
+	print "USAGE: gopher2mbox -pGOPHER-PATH -lLINE-LIMIT HOST PORT > MBOX\n";
+	print "\n";
+	print "    HOST is required\n";
+	print "    PORT defaults to 70\n";
+	print "    GOPHER-PATH defaults to \"\"\n";
+	print "    LINE-LIMIT defaults to 200\n";
+	print "\n";
+	print " MBOX can be read with a text editor, or with\n";
+	print "     nn MBOX\n";
+	print " or with\n";
+	print "     mail -f MBOX\n";
+	exit(1);
+	}
+
+$| = 1;
+
+local(@cltmp3) = &CLIENT($tophost,$topport,"$toppath\r\n",-1);
+#print STDERR ">5.0>$name,$type,$port,$path,$host<1<\n";
+($lines,$count) = @cltmp3;
+#print STDERR ">5.1>$name,$type,$port,$path,$host<1<\n";
+#print "lines = $lines\n";
+foreach $_ (split("\n",$lines)) {
+	#print "_ = $_\n";
+	#chop; # chop off \r
+	&LOOKUP($_);
+	}
+#print STDERR ">5.2>$name,$type,$port,$path,$host<1<\n";
+# Based on "client" on page 344 of _Programming Perl_ by Wall and Schwartz
+
+sub CLIENT {
+
+local($them,$port,$input,$maxlines) = @_;
+local($client,$name);
+
+if (($them eq "error.host") || ($maxlines==0)) {
+	$client="";$maxlines = 0;
+ 	local(@cltmp2) = ($client,$maxlines);
+	return(@cltmp2);
+	}
+
+# If $maxlines is negative, then no limit.
+
+#open(OUT,$fileout);
+
+$port = 2345 unless $port;
+$them = 'localhost' unless $them;
+
+$AF_INET =2;
+$SOCK_STREAM = 1;
+
+$SIG{'INT'} = 'dokill';
+
+$sockaddr = 'S n a4 x8';
+
+chop($hostname = `hostname`);
+
+($name,$aliases,$proto) = getprotobyname('tcp');
+($name,$aliases,$port) = getservbyname($port,'tcp')
+     unless $port =~ /^\d+$/;;
+($name,$aliases,$type1,$len,$thisaddr) = gethostbyname($hostname);
+($name,$aliases,$type2,$len,$thataddr) = gethostbyname($them);
+
+$this = pack($sockaddr,$AF_INET, 0, $thisaddr);
+$that = pack($sockaddr,$AF_INET, $port, $thataddr);
+
+# Make the socket filehandle
+
+if (socket(S, $AF_INET, $SOCK_STREAM, $proto)) {
+	#print "socket ok\n";
+}
+else {
+    die $!;
+}
+
+# Give the socket an address.
+
+if (bind(S, $this)) {
+	#print "bind ok\n";
+}
+else {
+    die $!;
+}
+
+# Call up the server.
+
+if (connect(S,$that)) {
+	#print "connect ok\n";
+}
+else {
+    print STDERR "CANNOT CONNECT TO $them $port $input $maxlines $!\n";
+	$client="";$maxlines = 0;
+ 	local(@cltmp2) = ($client,$maxlines);
+	return(@cltmp2);
+}
+
+# Set socket to be command buffered.
+
+$oldhandle = select(S); $| = 1; select ($oldhandle);
+#select(S); $| = 1; select (STDOUT);
+
+# Avoid deadlock by forking.
+
+#if (!($child = fork)) {
+#	# child
+	print S $input;
+#	exit;
+#}
+#else {
+#	# parent
+	READ: while (<S>) {
+		last READ if ($maxlines == 0);
+		$maxlines--;
+		#print OUT;
+		chop;chop;
+		last READ if ($_ eq ".");
+		$client .= "$_\n";
+	}
+#}
+
+#close(OUT);
+local(@cltmp2) = ($client,$maxlines);
+@cltmp2;
+}
+
+#sub dokill {
+#	kill 9,$child if $child;
+#}
+
+sub LOOKUP {
+
+local($gopherref) = @_;
+print "gr=$gopherref\n";
+$*=1;
+#print STDERR ">0>$gopherref<0<";
+local($type_and_name,$path,$host,$port) = split("\t",@_[0]);
+local($type,$name) = $type_and_name =~ /^(.)(.*)/;
+#print STDERR ">1>$name,$type,$port,$path,$host<1<\n";
+
+$date = `date`;
+chop($date);
+#print STDERR $date;
+print "From gopher2mbox $date
+From: $port ($path)
+Subject: $name
+";
+#print STDERR ">2>$name,$type,$port,$path,$host<1<\n";
+if ($type == 0) {
+	#print STDERR "line_limit = $line_limit\n";
+	#print STDERR ">3.0>$name,$type,$port,$path,$host<1<\n";
+	local(@cltmp3) = &CLIENT($host,$port,"$path\r\n",$line_limit);
+	#print STDERR ">3.1>$name,$type,$port,$path,$host<1<\n";
+	($lines,$count) = @cltmp3;
+	#print STDERR ">3.2>$name,$type,$port,$path,$host<1<\n";
+	#print STDERR "count=$count\n";
+	print "\n$lines";
+	#print STDERR ">3.3>$name,$type,$port,$path,$host<1<\n";
+        if ($count ==0){
+		print "======== ... ================
+
+[This is only the first part of this item. To retrieve the
+full item, use gopher.]
+";
+    } else {
+print "======== End of \"$name\" ================\n";
+   }
+  } else {
+#print STDERR ">4>$name,$type,$port,$path,$host<1<\n";
+print "
+$name
+is a nontext item in Gopher. To access this item, try
+	gopher -p \"$path\" $host $port
+";
+}
+#print STDERR ">5>$name,$type,$port,$path,$host<1<\n";
+print "For reference, the \"bookmark\" for this gopher item is:
+     Name=$name
+     Type=$type
+     Port=$port
+     Path=$path
+     Host=$host
+
+";
+#print STDERR ">1>$name,$type,$port,$path,$host<1<\n";
+}

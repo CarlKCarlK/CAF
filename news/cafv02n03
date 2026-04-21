@@ -1,0 +1,955 @@
+Computers and Academic Freedom News
+Vol. 02, No. 03
+
+[Week ending January 19th, 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Notes 1-2 concern the UC's court-ordered search of computer files.
+
+1. Dean Pentcheff (dean2@garnet.berkeley.edu): This is a summary of
+the events surrounding "UC's court-ordered search of files on two of
+its Unix mainframe computers... [This summary is] based on my own
+understanding of what's going on.  These are not "official" summaries,
+either from the University of California, or from the plaintiff in the
+case.  I am not involved with the case in any capacity except as an
+interested observer."
+    <knesbiINN8d1@agate.berkeley.edu>
+
+2. There are some grave inconsistencies inherent in defining a user's
+files as 'university records'.
+    <1992Jan14.032659.8519@m.cs.uiuc.edu>
+
+Notes 3-5 regard the rights of universities to restrict use of their
+facilities. 
+
+3. Universities have the authority to limit the uses to which their
+facilities are put, provided that those limitations are impartially
+applied. 
+    <1992Jan14.161057.27161@ux1.cso.uiuc.edu>
+
+4. The owner of a computer system does not have the right to freely
+inspect private mail held on that system. The owner may make it clear
+to users that he or she reserves the right to inspect mail, but
+without the tacit or explicit consent of the user such a declaration
+is meaningless.
+    <920115103016.21400522@DARWIN.NTU.EDU.AU>
+
+5. The onus is on an institution to make users aware of its policies
+and intentions regarding private mail. Without such an explicit
+statement the user can assume that a reasonable expectation of privacy
+is warranted.
+    <920115105919.21400522@DARWIN.NTU.EDU.AU>
+
+Note 6 states students' rights with regard the closure of computer accounts.
+
+6. A university cannot cut off a student's computer access - or deny
+him or her the use of any other university facility - without due process.
+    <1992Jan15.025831.29351@m.cs.uiuc.edu>
+
+Notes 7-8 are a response to Brian Peretti's paper "Computer
+Publications and the First Amendment".
+
+7. Peretti gives a definition of computer publications, and offers a
+rationale for giving such publications the same protection afforded to
+the printed press, radio and television.
+    <920116161057.2140105f@DARWIN.NTU.EDU.AU>
+
+8. Peretti's claim that computer 'publication' is most nearly
+analogous to the public media has some problems with it. It does not
+address the issues of electronic mail, and is based on a prioritising
+of the channel of communication over the content.
+    <920117103003.21401617@DARWIN.NTU.EDU.AU>
+
+Note 9 describes a trivial reason behind a request for an account closure.
+
+9. CERT requested that a user's account be investigated after a
+complaint that the user had made 'offensive' netnews postings. The
+offensiveness turned out to consist of the relatively minor flaming of
+the complainant during a political discussion.
+    <406@blue.cis.pitt.edu.UUCP>
+
+Note 10 describes the outcome of the recent Cubby vs. Compuserve case.
+
+10. The effect of the Compuserve decisions has been to show that the
+more a computer-mediated forum is monitored, the greater the liability
+of the moderators/owners for what is said in that forum. If there is no
+censorship then liability rests entirely with the authors of
+individual posts.
+    <oDeReB6w164w@cellar.org>
+
+- Elizabeth]
+
+
+In this issue:
+
+Dean Pentcheff  213  UC computer searches: Summary #3.
+Carl M. Kadie    42  >hackers, crackers, privacy on KQED
+Steve Dorner     44  Speech & the University (<>Dorner vs. the lunatic fringe)
+Mark P Neely     89  >[uiuc.general] Re: Dorner vs. the lunatic fringe
+Mark P Neely     49  >[uiuc.general] Speech & t<>orner vs. the lunatic fringe)
+Carl M. Kadie    26  "kicking you out" (was Re: Dorner vs. the lunatic fringe)
+Mark P Neely     99  Computer Publications & the 1st Amendment
+Mark P Neely     59  Computer publications...
+Terry J. Wood    69  >There is No Such Thing (was: Pornography)
+Rachel McGregor  49  >Effect of the Compuserve decision
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the line:
+  send acad-freedom README
+
+Disclaimer: This CAF-news was compiled by a guest editor or by me,
+Carl M. Kadie. It is not an EFF publication. The views I express and
+editorial decisions I make are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From caf-talk Fri Jan 17 00:00:00 1992
+Xref: eff comp.org.eff.talk:6023 alt.comp.acad-freedom.talk:2880 ba.politics:2473 uc.general:17
+Path: eff!iWarp.intel.com|uunet!spool.mu.edu!agate!garnet.berkeley.edu!dean2
+From: dean2@garnet.berkeley.edu (Dean Pentcheff)
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,ba.politics,ucb.general,uc.general
+Subject: UC computer searches: Summary #3.
+Message-ID: <knesbiINN8d1@agate.berkeley.edu>
+Date: 18 Jan 92 00:14:42 GMT
+Article-I.D.: agate.knesbiINN8d1
+Sender: Dean Pentcheff
+Reply-To: dean2@garnet.berkeley.edu (Dean Pentcheff)
+Followup-To: comp.org.eff.talk
+Organization: Department of Integrative Biology, UC Berkeley
+Lines: 212
+NNTP-Posting-Host: garnet.berkeley.edu
+
+
+Friday Jan 17, 1992
+
+UC computer search summary number 3.
+        - Dean Pentcheff (dean2@garnet.berkeley.edu)
+====================================================
+
+This is the third (and probably final) in a short series of summaries
+I've provided regarding the UC's court-ordered search of files on two
+of its Unix mainframe computers.  I will maintain the mailing list of
+interested parties, just in case something else comes up.  If you have
+a continuing interest in these issues, please see the end of this
+summary for suggestions on where to find more information.
+
+**Please note**  This summary (and the preceeding two) are based on my
+own understanding of what's going on.  These are not "official"
+summaries, either from the University of California, or from the
+plaintiff in the case.  I am not involved with the case in any
+capacity except as an interested observer.
+
+A brief summary of the case runs as follows (based primarily on a
+discussion with the University counsel involved).  This repeats some
+information contained in earlier postings, but also corrects some
+misunderstandings.
+
+A UC student is alleged to have broken into a UC computer system.  The
+University has initiated disciplinary proceedings against him.
+
+Based on due process requirements, the student's family has retained a
+lawyer and computer experts and gone to court to get court orders for
+certain University maintained records for the disciplinary hearing.
+NOTE: the only involvement of the court is to order (or not order, as
+the case may be) the University to divulge records.  Contrary to my
+previous postings, the student's family is not suing the University.
+They are preparing a case for the University disciplinary hearing, and
+are using the court purely to require the University to provide
+evidence they feel is important to the hearing.  There is no "discovery
+procedure" involved.
+
+The judge involved is not particularly familiar either with electronic
+communications law or computers.  The strategy of the student's case
+seems to be to obfuscate and complicate the entire sequence of hearings
+as much as possible in an attempt to nullify the whole disciplinary
+action.  Hence, they requested that the court order the University to
+produce all University maintained student records on the student in
+question.
+
+The key question here is the interpretation of "university maintained
+records."  The simple interpretation of the California State Buckley
+Amendment is that a student is entitled access to conventional
+administrative or faculty records of their university progress.  In
+this case, the student's lawyers chose to push an interpretation that
+made university maintained records encompass any record about the
+student that exists on university maintained systems.
+
+The student's lawyers informed the judge that it would be simple to
+just have the University search _all_ backups for the mainframes for
+anything relevant.  The University lawyers figuratively coughed and
+sputtered, saying this was _most_ impractical.  The judge, unwilling
+(and unable) to decide between the claims of the lawyers arguing in
+front of him, ordered them out into the hall to come up with a
+compromise.  The lawyers bargained and came up with a deal: the
+University would search some specific backups and the online disks for
+files that contain the student's name.
+
+The University fought to search only for files that contained both the
+student's first and last name.  The student's lawyers wanted files that
+contained the first or the last name.  The judge, unwilling to accept
+the University's claim that the latter option would produce too much,
+ordered the University to do a search to determine how much text would
+actually be located by these searches.
+
+At this point, the University posted a message on the mainframes,
+telling all users that they intended to search the disks on two of the
+campus mainframes for any files "that may contain a particular
+individual's name..."  At this point, also, the University lawyers
+became aware of the Electronic Communications Privacy Act of 1986.
+Considering that this case was too complicated already, realizing that
+they already accepted a court order to search, and feeling that the
+ECPA might not actually apply to this search, they chose not to mount a
+secondary effort to stop the search.
+
+The Electronic Frontier Foundation became interested in the case, but
+discovered that they had been contacted by the plaintiff last year and
+had given him some help.  This provides a potential conflict of
+interest, so they have been carefully investigating their options.
+
+At this point, the University has proceeded with the search, as ordered
+by the court (though I'm not sure whether it's the first and last name
+search or the first or last name search).  The files that are located
+by this procedure will be inspected.  Any that are not relevant to the
+disciplinary proceeding will not be divulged.  If, for example,
+someones mailbox file with 50 letters in it is a "hit", only the
+individual letters that are relevant to the case will be extracted and
+printed.  All interaction with the court is complete.  The disciplinary
+hearing itself will occur in a few weeks.
+
+What's the upshot?  Files (including electronic mail files) on two
+mainframes at UC Berkeley have been electronically searched (under
+court order) for a particular character string.  The University
+resisted the search, not on grounds of protection of privacy, but
+simply on the grounds of undue burden.
+
+The next few paragraphs summarize my own reactions to the incident, and
+are no longer "news" summaries.
+
+The clearest lesson of this incident is the exposure of lack of
+knowledge of information privacy issues.  This applies both to the the
+court and to the University counsel's office.  Apparently the judge
+involved (who is nearing retirement), asked the lawyers to send him a
+letter, once he's retired, explaining what was _really_ being argued in
+front of him, since it clearly had little to do with a simple minded
+request for student records.
+
+The "moral" of the story is that the EFF, the Association for Computing
+Machinery, and other organizations definitely have an important job
+ahead of them.  We need clear policies and leadership on issues of
+electronic privacy.  We definitely need to educate the legal
+profession, legislators, and the general public on these issues.
+
+Actual damage to users' privacy?  Pretty minimal (in my opinion).  The
+University computer center has done its best to be as nonintrusive as
+possible while still complying with the court order.
+
+Theoretical damage to users' privacy?  Perhaps not so minimal.  As
+students, faculty, or staff using the University's mainframes, what
+expectation of privacy do we have?  Technically, it is trivial for
+anyone with systems privilege to go on a fishing expedition for any
+character string.  Under what circumstances, though, is this
+permissible?  The issues in this case (users' privacy vs. right of
+access to records) are not clear cut.  What constitutes a university
+record of a student?  What legal protection's do computer user's files
+have?  I don't know.  Nor does the University legal staff, the local
+courts, or the University computer administration.  I find that
+disturbing.
+
+========================================================================
+
+Further sources of information on issues of electronic privacy and freedom
+of information.
+
+************************************************************ 
+THE ELECTRONIC FRONTIER FOUNDATION
+
+"The Electronic Frontier Foundation has been established to civilize
+the electronic frontier; to make it useful and beneficial not just to a
+technical elite, but to everyone; and to do this in keeping with our
+society's highest traditions of the free and open flow of information
+and communication."
+
+You can request to be added to the EFF mailing list by sending a note
+to "eff-request@eff.org".  Alternatively, you can subscribe to the
+moderated Usenet newsgroup "comp.org.eff.news" (which carries
+everything sent out on the mailing list).  You are also welcome to
+participate in the unmoderated Usenet news group "comp.org.eff.talk".
+
+You can get more information about the EFF via anonymous FTP from the
+site "eff.org" (Internet number 192.88.144.3).  Send electronic mail to
+"ftphelp@eff.org" if you have questions or are unable to use FTP.
+
+EFF ADDRESS:
+The Electronic Frontier Foundation, Inc.
+155 Second Street
+Cambridge, MA 02142  
++1 617 864 0665
++1 617 864 0866 FAX
+
+THE EFF STAFF: 
+Mitchell Kapor, President and Co-founder (mkapor@eff.org);
+John Perry Barlow, Co-founder (barlow@eff.org);
+Michael Godwin, General Counsel (mnemonic@eff.org);
+Gerard Van der Leun, Director of Communications (van@eff.org);
+Christopher Davis, System Administrator (ckd@eff.org);
+Helen Rose, System Administrator (hrose@eff.org);
+Rita Rouvalis, Administrator (rita@eff.org)
+
+THE EFF BOARD OF DIRECTORS:  
+Jerry Berman, John Perry Barlow, Stewart Brand, Esther Dyson, John
+Gilmore, Mitchell Kapor, Steve Wozniak.
+
+
+************************************************************ 
+USENET NEWSGROUPS
+
+If you subscribe to Usenet news, there are several newsgroups that may
+be of interest to you:
+   comp.risks 
+        A long running, well respected, moderated group that deals with
+        the risks of computers in society.
+   comp.org.eff.talk 
+        Discussions of privacy and freedom of information in the 
+        computer age.
+   comp.org.eff.news 
+        Moderated group of the Electronic Frontier Foundation.
+   alt.comp.acad-freedom.talk
+   alt.comp.acad-freedom.news
+        Two other newsgroups dealing with issues of academic freedom.
+
+If you don't know what Usenet news is, but are reading this message via
+electronic mail, there's a good chance that your system supports the
+Usenet news, but you just don't know about it.  Check for information
+about the "rn" command, or ask your systems administrator how you can
+subscribe to Usenet news.
+
+--
+Dean Pentcheff  (Internet: dean2@garnet.berkeley.edu)
+Department of Integrative Biology, University of California, Berkeley CA 94720
+Work Phone: (510) 643-9048   Home Phone: (510) 839-1790    Fax: (510) 643-6264
+-- 
+Dean Pentcheff  (Internet: dean2@garnet.berkeley.edu)
+Department of Integrative Biology, University of California, Berkeley CA 94720
+Work Phone: (510) 643-9048   Home Phone: (510) 839-1790    Fax: (510) 643-6264
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject: Re: hackers, crackers, privacy on KQED
+Message-ID: <1992Jan14.032659.8519@m.cs.uiuc.edu>
+Date: 14 Jan 92 03:26:59 GMT
+References: <1992Jan11.083311.25336@odin.corp.sgi.com> <1992Jan13.235159.3451@eff.org> <1992Jan14.014608.5742@odin.corp.sgi.com>
+
+lear@oni.sgi.com (Eliot Lear) writes:
+
+[...]
+>A communication becomes a record once it is delivered to the final
+>addressees.  One could argue that only *official* communications are
+>covered, but it's a red herring.
+
+Not for students, like me, who are not employees of the University.
+
+>  After all, if I, in my capacity as
+>system administrator at Podunk U. mail my boss alerting him to a
+>break-in and student X's account that was broken into/did the breaking
+>in, is that not an official record?
+[...]
+
+Maybe.
+
+But email between student A and student B about student X (archived in
+the home directories of A and B), should not be considered a
+University maintained record about X.
+
+If it is
+  1) The A&B's email could not be disclosed to any nonuniversity
+     personnel without X's consent. In other words, A&B could
+     not read their own email archive.
+  2) X could see A&B's email
+  3) X could demand a hearing to challenge and possibly amend
+    inaccurate information in A&B's email.
+  4) The University must make a "reasonble effort" to notify
+     students mentioned in the email before releasing the
+     email under a subpoena. Timely notice is to allow
+     the students mentioned the opportunity to contest
+     the validity of the subpoena on their own behalf.
+  5) All requests for disclosure would need to be logged.
+     The log becomes part of X's record (and A's and B's)
+
+(Based on _Your Right To Privacy_, 2nd edition, by Even Hendricks, et al)
+     
+- Carl
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: dorner@pequod.cso.uiuc.edu (Steve Dorner)
+Subject:  Speech & the University (was Re: Dorner vs. the lunatic fringe)
+Message-ID: <1992Jan14.161057.27161@ux1.cso.uiuc.edu>
+Date: Tue, 14 Jan 1992 16:10:57 GMT
+
+bfrg9732@uxa.cso.uiuc.edu (Brian F. Redman) writes:
+>Is the university a sort of "East Berlin"
+>in which one leaves their rights as a citizen at "Checkpoint Charley"
+
+This is unnecessarily alarmist and slanted (cf. Lee Iacocca).
+
+>The area of constitutional rights on university campuses seems fuzzy to me.
+
+That's quite true.
+
+I would certainly support the exercise of student (and faculty and staff)
+rights without sanctions from the University.  However, I also support the
+idea that the University has the authority to limit the use of
+University-owned facilities.
+
+I should be able to write a letter to the editor of the News Gazette that
+says "Vote Libertarian".  This should not result in disciplinary action
+>from the University.
+
+However, I do NOT support the "right" to "exercise free speech" by having
+the same letter published by the University Press and delivered to everyone
+via campus mail, at University expense.  Were I to do this and charge it
+to CSO, the University would be quite right to take disciplinary action.
+
+Therefore, I do not agree with what seems to be Carl Kadie's position;
+that any restriction on the content of network traffic (above the usual
+things like fraud and slander) is impermissible.  I think that the
+University foots the bill, and so can exercise control without infringing
+on anyone's rights.
+
+On the other hand, I think it would be an abuse of power for the University
+to deny the mailing of a "Vote Libertarian" letter, but permit the mailing
+of a "Vote Tsongas" letter.  The University ought to be fair in the
+application of its restrictions.
+
+Please note that I am expressing *my opinion* of how things *ought* to be.
+I am not enough of a University policy or legal scholar to say whether
+or not my opinions agree with University policy (of which I have yet to
+see a formal statement) or current legal thought.
+-- 
+Steve Dorner, U of Illinois Computing Services Office
+Internet: s-dorner@uiuc.edu  UUCP: uunet!uiucuxc!uiuc.edu!s-dorner
+                "What is Truth?"--Pontius Pilate.
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)
+Subject: RE: [uiuc.general]  Re: Dorner vs. the lunatic fringe
+Message-ID: <920115103016.21400522@DARWIN.NTU.EDU.AU>
+Sender: warnold
+Date: 15 Jan 92 10:30:16 GMT
+
+>Date: Tue, 14 Jan 92 14:31:00 -0600
+~From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+>davis@kahane.cogsci.uiuc.edu (Gordon Davis) writes:
+>
+>>carey@m.cs.uiuc.edu (John Carey) writes:
+>
+>[...]
+>>>I wonder how many of these managers would feel 
+>>>about going through their employees' U. S. Mail mailboxes?
+>
+>>Now, wait a minute here.  Do I understand that you do not see a difference
+>>between the U.S. mail and sending/receiving electronic mail via an 
+>>employer-owned machine using an employer-owned account.
+>[...]
+>This is a good point.
+
+No it isn't...I think this is an area in which people will have to agree to
+disagree! Until there is clear legislation on point, no-one will be able to say
+conclusively what is right/wrong.
+
+IMHO, (and yes this has been debated for ever) the simple fact that someone
+_owns_ the computer system does not ipso facto (by that fact) give them the
+right to inspect _private_ email.
+
+They may _reserve_ for themselves the right to do so, by posting appropriate
+notices and ensuring that it comes to _every_ users' attention. The ability to
+reserve this right is said to come from their owning the system.
+
+But let me draw an analogy: In many supermarkets there are signs saying that
+Management reserves  the right to inspect baggage etc of people who enter their
+store. These signs are displayed prominantly at the entrance of the shop and
+(usually) at the registers.
+
+The argument goes that it is a term of the contract entered into between
+shopper and store management that if they agree to enter the shop, then they
+must submit themselves to baggage inspection.
+
+Actually, this is false! There is _NO_ right on the behalf of store management
+to request/require that shoppers submit to baggage inspection. The signs at the
+entrance and at registers are of no effect!
+
+I am unclear on the basis of this assertion (but I think it has something to do
+with the store attempting to enforce a unilaterally imposed term in the alleged
+contract). Any attempt of store security personel to inspect you bags will
+constitute a trespass to property (unless you give tacit approval to the act),
+so too, any attempt to detain you whilst the search is carried out will amount
+to false imprisonment (in the civil sense).
+
+The above is from common (case) law, and may (but I doubt it) have been altered
+in the US by statute.
+
+My point:
+
+You are on the Stores' property (as you are on someone elses' system). They
+attempt to reserve rights of inspection (or monitoring of email on a computer).
+They have at law, NO RIGHT to do so!
+
+I would argue that it is all a bluff. There is no firm legal precedent (I
+haven't yet heard the decision in the Epson/Nissan cases...perhaps someone
+could fill me in) on the area, so it is just words/rhetoric at the moment.
+
+>I believe that the university has a right to look through US mail
+>that they pay for.  
+
+Nope...would disagree with that also...there is still a privacy element which
+must be satisfied/met before this occurs. The Uni. may be able to open it _with
+your permission_, and they must first have good reason for doing so (I exclude
+here the search/seizure type openings).
+
+>If I put a stamp on a letter and put it
+>in the outgoing mailbox, then it is a federal crime for the
+>university to look at it.  If I put a letter in the 
+>"mail needing postage" box, then the university can look
+>at it.  I think this is university policy.
+
+So you say that 30 cents makes all the difference?
+
+Note - Uni. policy (just as store policy) is _not_ law.
+
+>John Holm
+>jgholm@crhc.uiuc.edu
+
+
+Mark N.
+___
+Mark Neely					neely_mp@darwin.ntu.edu.au
+Research Student
+Northern Territory University Law School
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)
+Subject: RE: [uiuc.general]  Speech & the University (was Re: Dorner vs. the lunatic fringe)
+Message-ID: <920115105919.21400522@DARWIN.NTU.EDU.AU>
+Sender: warnold
+Date: 15 Jan 92 10:59:19 GMT
+
+>bfrg9732@uxa.cso.uiuc.edu (Brian F. Redman) writes:
+>I would certainly support the exercise of student (and faculty and staff)
+>rights without sanctions from the University.  However, I also support the
+>idea that the University has the authority to limit the use of
+>University-owned facilities.
+>
+[stuff deleted]
+>
+>Therefore, I do not agree with what seems to be Carl Kadie's position;
+>that any restriction on the content of network traffic (above the usual
+>things like fraud and slander) is impermissible.  I think that the
+>University foots the bill, and so can exercise control without infringing
+>on anyone's rights.
+
+As long as the Univ. doesn't _pretend_ to be a forum for free speech then!
+
+Now if the Univ. wants to impose a restriction on network traffic, then that it
+it's prerogative. BUT...I would argue that the onus is on the Univ. to make it
+absolutely clear to the USERS what it's policies and intentions are! How many
+do so?
+
+If this Univ. were to pull out a piece of my mail and then tell me that it
+disagreed with its content, I would be onto them in a flash! This site has
+never intimated any intent to restrict content of postings, nor notified users
+that they intended to monitor e-mail/postings (I am not saying they do, just
+giving an example).
+
+As such, and until I am told otherwise, I would submit that I had a reasonable
+expectation of privacy over what I do/say etc. If it were brought to my
+attention that the Univ. intended to monitor/filter, then I would have no such
+reasonable expectation, and hence (probably) no recourse (unless I could
+establish mala fides or something along those lines).
+
+The fact that I work on Univ.'s machines is of little consequence in my mind.
+The basic right to privacy pervades even private property (can K-Mart film
+users of it's toilets??) until the opposite is brought to the user's attention.
+
+>-- 
+>Steve Dorner, U of Illinois Computing Services Office
+>Internet: s-dorner@uiuc.edu  UUCP: uunet!uiucuxc!uiuc.edu!s-dorner
+>                "What is Truth?"--Pontius Pilate.
+
+Mark N.
+
+___
+Mark Neely					neely_mp@darwin.ntu.edu.au
+Research Student
+Northern Territory University Law School
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject: "kicking you out" (was Re: Dorner vs. the lunatic fringe)
+Message-ID: <1992Jan15.025831.29351@m.cs.uiuc.edu>
+Date: 15 Jan 92 02:58:31 GMT
+References: <1991Dec31.144936.19661@ux1.cso.uiuc.edu> <1992Jan13.220006.6737@ux1.cso.uiuc.edu> <1992Jan14.125650.2487@ux1.cso.uiuc.edu> <1992Jan14.143031.11603@ux1.cso.uiuc.edu>
+
+brownfld@mrcnext.cso.uiuc.edu (Kenneth R Brownfield) writes:
+
+>     A more accurate version would be "If the U lets me sit in the quad for
+>free, can they kick me out, too?"  The answer would be yes
+
+dorner@pequod.cso.uiuc.edu (Steve Dorner) writes:
+
+>Ken's got it wrong.  The University can revoke an account; that's the
+>parallel to "kicking you out" of the quad.
+[...]
+
+Instructors at U of I used to able to expel a student from their
+classes arbitrarily. Under current rules, however, a student can't be
+expelled from class without due process. Due process basically means
+that if the student wants a hearing, he or she can have one.
+
+As far as I know, the University can't ban a student from the Quad
+without due process. Also, I assume that the University can't expel a
+student from, say, their free student computers accounts, without due
+process.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)
+Subject: Computer Publications & the 1st Amendment
+Message-ID: <920116161057.2140105f@DARWIN.NTU.EDU.AU>
+Sender: NEELY_MP@DARWIN.NTU.EDU.AU
+Date: 16 Jan 92 16:10:57 GMT
+
+I'd like to express a few thoughts and concerns that arose as a result of
+reading a paper entitled "Computer Publications and the First Amendment", by 
+Brian J. Peretti (to be published in _Computers and the Law_, by Ronald 
+Polanski)
+
+Peretti begins by expressing one of the main truisms in the interpretation 
+of any constitutional document - that the US Constitution was expressed in 
+broad language so as to enable it to change and expand (with the help of a 
+progressive Supreme Court) over time, in order to adjust with an ever changing
+society.
+
+Peretti states that although the Founding Fathers did have an idea of what 
+the 'press' was in their day, the concept has since been expanded to cover 
+television and radio. In line with this, he argues that it should also be 
+interepreted so as to encompass the new media of computer publications.
+
+What constitutes a "computer publication" is denoted by a fairly strict set 
+of criteria. 
+
+Peretti stipulates that the material comprising the publication must have 
+been created/gathered on/with a computer (i.e written in final form on a 
+computer) and should not have been printed in hard copy after the initial 
+information was entered into the computer.
+
+Secondly, the publications' production (spell-checking, formatting etc) must
+occur _exclusively_ on the computer (which, he notes, would even include the
+letterhead/coverpage).
+
+Finaly, the distribution of the publication must occur via electronic
+(non-print) medium.
+
+Once a publication falls within this new catagory, it should, Peretti argues,
+be accorded similar privilleges/protections to those granted to printed press,
+radio and television.
+
+In support of this, he cites _Lovell v. City of Griffin_ Ga 303 US 444, 452 
+(1938), where the court held:
+
+    The liberty of the press is not confined to newspapers and periodicals.
+    It necessarily embraces pamphlets and leaflets....The press in its
+    historical connotation comprehends every sort of publication which affords
+    a vehicle of information and opinion".
+
+Such protection has been extended to motion pictures and even to computer
+bulletin board services (BBS): Legi-Tech v. Keiper 766 F.2d 728, 734-35
+(2d. Cir 1985).
+
+Under the Lovell doctrine, publications such as Craig Neidorf's _Phrack_
+magazine, and the Legion of Doom's Technical journals would surely constitute
+protected speech, and as such would not be subject to prior restraint. Peretti
+does note, however, that publication of information in furtherance of a
+crime or ciminal activity may not receive protection.
+
+One exception to the Lovell doctrine is the decision of _Brandenburg v.
+Ohio (1969), where the court ruled that no speech should be subject
+to prior restraint or criminal prosection unless it is intended
+to incite - and is likely to cause - imminent lawless action.
+
+As was recently noted by Mitch Kapor (co-founder of the Electronic Frontier
+Foundation), there is little speech or publications which would fall 
+outside this protection, as most people are able to reflect before acting
+on written or spoken suggestion[1].
+
+Whilst the author is unsure if that is the approach taken to this situation
+by American courts, it is certainly a factor that should be noted prior to
+effecting a prior restraint.
+
+Types of Restrictions?
+
+However, it must be conceded that computer publications should, and no doubt
+will be, subject to some forms of restriction. But in what manner will these
+restrictions be expressed? 
+
+Peretti notes that there are two types to First Amendment protection:
+that which attaches to newspapers; and that which applies to radio and
+television. 
+
+Newspaper publishers have fewer restrictions than do radio and television
+broadcasters (who are subject to licensing and content regulations). Peretti
+views computer publications as similar to newspapers, and as such 
+should be subjected to only minimal limitations.
+
+However, the scope of protection accorded to computer publications is unclear
+to say the least. That this is so is evidenced by the attemted Neidorf
+prosecution. That the editor of a magazine which provided information to 
+a group of computer enthusiasts sharing similar interests was brought to
+trial is a sorry indictment (no pun intended) on the civil liberties record
+of the United States.
+
+However, until time, energy and resources are engaged in an effort to clear
+the murkied waters surrounding the application of existing laws and civil
+liberties in Cyberspace, one wonders how many other computer publishers might
+suffer a similar fate?
+
+Mark Neely 1992.
+
+1. M. Kapor, Civil Liberties in Cyberspace, _Scientific American_ (Sept. 1991) 
+   116.
+
+From caf-talk Fri Jan 17 00:00:00 1992
+From: NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)
+Subject: Computer publications...
+Message-ID: <920117103003.21401617@DARWIN.NTU.EDU.AU>
+Sender: NEELY_MP@DARWIN.NTU.EDU.AU
+Newsgroups: alt.comp.acad-freedom.talk
+Organization: EFF mail-news gateway
+Date: 17 Jan 92 10:30:03 GMT
+Approved: usenet@eff.org
+Lines: 59
+
+This is a reply to my original posting entitled "Computer Publications
+and the First Amendment" to the ethics-l mailing list. I thought CAF readers
+would be interested in some of the points raised by it.
+
+Mark N.
+
+
+>Reply-To:     Discussion of Ethics in Computing <ETHICS-L%POLYGRAF.BitNet@pucc.PRINCETON.EDU>
+>From:         Jim Porter <ooi@MACE.CC.PURDUE.EDU>
+>
+>Just to further muddy already murky waters ... The
+>Peretti article suggests that electronic publications
+>are subject to the set of laws covering public media like
+>printed press, radio, and television.  It's not at all clear to
+>me that electronic publications belong in any of these categories ...
+>though maybe they do given Peretti's restrictive definition of "computer
+>publication."
+>
+>The definition still leaves a lot unanswered: e.g., is any e-mail
+>posting a "computer publication"?  It strikes me that individual
+>e-mail postings might be more appropriately treated as telephone
+>conversations rather than as public media.  What happens when an
+>individual posting is entered into an electronic journal
+>(like often happens with Computers & Composition Digest)?
+>
+>We're into the question of which analogy--and hence, which
+>body of law--best fits electronic text: public media, whether
+>broadcast or print; telephone conversation (which I imagine
+>affords a greater protection for privacy); or something
+>else (private speech, general print)?  I'm not sure that
+>cozying up to public media is the best tactic for
+>advocates of electronic publication--but I'd like to hear
+>more discussion of the issue.
+>
+>Other thought: One way (the Peretti way) to look at electronic
+>publication is to regard the communication channel as the
+>significant factor in determining its legal status: from that
+>point of view, electronic material looks like a public medium
+>that needs controlling.  Another view (the one I'm favoring
+>at the moment) looks not at the communication channel so
+>much as the individual node (the posting, which we might
+>call a "text"?).  From that angle, electronic text looks
+>more a private statement ... though maybe the law will
+>not permit us to overlook its method of wide distribution.
+>(Question: what status does the letter to the editor of
+>a newspaper have?  Could an individual e-mail post have
+>similar status?)
+>
+>Thanks to Mark Neely for posting his thoughts about the
+>Peretti article.
+>
+>Jim Porter
+>Purdue University
+>ooi@mace.cc.purdue.edu
+___
+Mark Neely					neely_mp@darwin.ntu.edu.au
+Research Student
+Northern Territory University Law School
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: tjw+@cis.pitt.edu (Terry J. Wood)
+Subject:  Re: There is No Such Thing (was: Pornography)
+Message-ID: <406@blue.cis.pitt.edu.UUCP>
+Date: 16 Jan 92 18:35:52 GMT
+
+In article <1992Jan15.231155.26434barry@netcom.COM> barry@netcom.COM (Kenn Barry) writes:
+>In article <62391@netnews.upenn.edu> jmoore@tucker.cis.upenn.edu (Joseph Moore) writes:
+
+>>But the line needs to
+>>be drawn, and why not start with the material that in the majority of
+>>people's mind's is way across it.
+
+>	No lines needed, Joe, nor is there any "majority of people"
+>standing behind you to cheer your line-drawing fetish on. Most of the
+>time, when the censors try to snuff a new target, juries just say no,
+>thank goodness.
+
+You'd be amazed (or maybe not) at where some people would like to draw
+the line.  I get requests (demands) to revoke people's accounts here
+at the Univ of Pgh at regular intervals.  [When this new news-server
+machine becomes available to the Pitt public, I'm sure I'm going to
+see even more requests].
+
+CERT (the Computer Emergency Response Team) asked me to investigate an
+account here at Pitt (PUBLIC@vms.cis.pitt.edu) because someone at Penn
+State was offended by what PUBLIC posted in a French speaking mailing
+list.  They would not tell me who the person was at PSU, nor could they
+tell me what was so offensive, since the posting in question was in French.
+
+I translated the posting and found it to be a discussion about whether
+French or English should be the primary language of Quebec.  I guessed the
+offensive part of the message was "people like you should be sat in front
+of a cannon and I'll piss on your grave..." (or at least that's how I
+think it translated).
+
+In any case, I could not see what the problem was.
+
+CERT informed me that the reader WAS OFFENDED!!!  My reply:  "So what?
+It's his/her god given right to be offended.  Show me something that's
+obscene or breaks a law (makes a threat to do bodily harm)".
+
+In other words it appeared to be the usual type of political discussion
+with the obvious flames that come with them.  
+
+I believe that such discussion is in keeping with the purpose of mailing
+lists.  Now if this had been posted to rec.cooking or sci.aquaria, I could
+see where they users of the group would have a beef.  Similarly, if
+someone is trying to shut a newsgroup/mailing-list down via other forms of
+harassment, I think it's appropriate to revoke an account.
+
+But honest debate is no reason to shut down an account.  Especially when
+the loser of the debate is making the demand! ;-)
+
+I did pull the account PUBLIC, but for the reason that the account had
+been forged!  (I found some BITNET hackers had gotten an FAIS
+adminstrator's password and authorized the account).  
+
+[Hacker's take note:  If you have too high of a profile, you'll get
+caught.  Theft of services is a crime in PA, whether you check into a
+hotel and don't pay, or take Cable TV and don't pay, or create a computer
+account and don't pay].
+
+But if I PERSONALLY were to draw these "lines", I guess I'd start with
+most of USENET.  People who don't respect the First Amendment OFFEND ME!
+
+Off with their heads!
+
+Terry
+-- 
+INTERNET: tjw+@pitt.edu         BITNET: TJW@PITTVMS
+
+"Laugh while you can, Monkey Boy!" - Various characters from Buckaroo Banzai
+"I've been dead before"            - Mr. Spock
+
+From caf-talk Sun Jan 19 00:00:00 1992
+From: rogue@cellar.org (Rachel McGregor)
+Newsgroups: comp.org.eff.talk
+Subject:  Re: Effect of the Compuserve decision
+Message-ID: <oDeReB6w164w@cellar.org>
+Date: 18 Jan 92 18:54:35 GMT
+
+Harry.Lee@p0.f10.n396.z1.FIDONET.ORG (Harry Lee) writes:
+
+>  I wasn't clear.  Consider the following two situations: let's say I get
+>  what you call rec.funny (?) or what we would call Humor.  Let's assume that
+>  in the main, these conferences don't violate prevailing community standards.
+>  However, perhaps 1% of the traffic is questionable.  You seem to be saying
+>  that if I post-screen, my liability is small.  But in the other case, if I
+>  pre-screen, and I let something through that does violate prevailing
+>  community standards, would my liability be greater?
+> 
+>  I hope I don't seem pedantic here.
+
+And I hope I don't blow Mike's argument.
+
+I believe what Mike is saying (colored by my own interpretation, natch) is 
+
+that a censor bears some liability for the material he or she approves.  
+
+If you run your system with a policy of no censorship, or at least one in 
+which you remove offensive or illegal messages only after a complaint has 
+been made to you, your liability is less than if you held messages in a 
+pre-screening area before you released them to the bbs.  There are four ways 
+to censor messages on a system.  With each policy, your liability increases 
+with they level of the censor's activism.
+
+Least activist: No censorship
+             2: Evaluation and/or removal of offensive messages after a user
+                has complained to you about them.
+             3: Your decision, based on your interpretation of the board's
+                community standards, to remove a message you've seen after a
+                user posted it, regardless of how long it's been visible to
+                the user community.
+ Most activist: Messages must be pre-screened by you or another user before
+                they will be released into the public message bases.  After
+                a user posts a message, it is held for your next login and
+                approval based on your interpretation of community standards.
+
+Censorship in the most activist case above carries the implication that if an 
+offensive message is posted, it reached the public because of the agreement 
+or negligence of the censor.  Therefore, the censor can be held responsible 
+for the message and the effects of its release.  (In no case does it absolve 
+the original author, though, if there is a criminal intent behind the 
+message.)
+
+(Just to remind you: I'm not a lawyer, just another bitch with an opinion.)
+
+----
+Rachel McGregor  | "Once in a wile an idea comes along that is so wonderful
+rogue@cellar.org |  that you forget it immediately."
+
+
+
+

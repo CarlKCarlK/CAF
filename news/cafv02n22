@@ -1,0 +1,1213 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.22 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 22
+
+
+----------------------------------------------------------------------
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 0 -- Abstract of CAF-News 02.22
+
+[Best of March, 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the articles,
+or QUOTES from them, NOT AN OBJECTIVE SUMMARY and not necessarily my
+opinion. Many of the paraphrases are based on earlier paraphrases by
+Adam, me, and by guest editors Terry Rooker and David Swanlund.
+===============================================================
+
+Notes 1-3 are about the U. of Nebraska at Lincoln's ban of
+all alt.* newsgroups.
+
+1. For anyone who has been following the alt.* controversy at UNL,
+the following article appeared on page one of _The Daily Nebraskan_,
+the student newspaper of the University of Nebraska - Lincoln, on
+Tuesday, March 7, 1992. _UNL loses `alt' computer files_ by Mike
+Lewis staff reporter. Used with permission of the Daily Nebraskan.
+    <9203212232.AA24018@cse.unl.edu>
+
+2. [A UNL alum:] "The reasons given for the decision are so
+transparent as to be internationally embarrassing to the University."
+"There may be newsgroups that you wish not to take. If that is the
+case, be honest about it." "If you are in need of additional
+resources, they should be requested [...]"
+    <1992Mar26.214421.26447@sparky.imd.sterling.com>
+
+Note 3 is about Switzerland's SWITCH (an academic networking
+consortium).
+
+3. "In addition to banning some usenet newsgroups, SWITCH is also blocking
+packets to the local eunet chapter (chuug). We have to route most
+packets from Zurich to Geneva and back to Zurich. Others go as far as
+Amsterdam, and, yes, still others go to the USA and come back (hee
+hee). SWITCH is blocking nntp, telnet and ftp to local sites connected
+to eunet."
+    <1992Mar2.135005.14877@neptune.inf.ethz.ch>
+
+Note 4 is about student and sys admin reaction to actions such as the
+U of Cincinnati's move to terminate accounts of users who telnet to
+"game" and IRC hosts.
+
+4. "Yes, the users have to become responsible with the use of the
+resources and get involved in policy-making. But the administrators
+should help in this process by asking for input, opening policy
+meetings, and by acting less arbitrarily upon the users they are
+trying to serve."
+    <1992Mar1.230835.9357@ms.uky.edu>
+
+Notes 5-6 are critiques of computer policies.
+
+5. "This is a critique/review of the U. of Delaware computer policy
+proposal." The policy is *very* polished. "I do have some concern
+about punishment before 'conviction'" and "[t]he policy could be
+improved by saying that nondisruptive, noncommercial "personal use" of
+the computer [is] permitted and encouraged subject to whatever
+limitations local sites may impose."
+    <1992Mar26.220927.5131@eff.org>
+
+6. The _Penalties for Misuse of UIC Computing Resources_ is a detailed
+list of infractions and penalties. This article is a critique of this
+policy. The infraction descriptions are vague, and the penalties are
+severe. In general, the stated policy would allow system
+administration to enforce any arbitrary policy and still be in
+accordance with this policy.
+    <1992Mar18.191830.5134@eff.org>
+
+Notes 7-9 are about email and "anonymous" ftp privacy.
+
+7. Here are the results of an informal poll of sys admins about email
+privacy. One respondent says that searches for technical reasons are
+not the same as searches to investigate wrong doing. One says that he
+or she was once asked to search a users files, but flatly refused.
+    <1992Mar23.184747.13631@eff.org>
+
+8. Enclosed is a sample account request form from the U. of
+New Mexico. It specifies under what conditions the user can and cannot
+expect privacy for their email.
+    <bill.701078510@chaos.cs.umn.edu>
+
+9. Anonymous ftp does not necessarily mean that the process is
+anonymous. ftp.uu.net is one such system that requires a domain style
+email address for a password. All file transfers are logged, but the
+initial login message informs the user of this.
+    <1992Mar12.213307.11252@uunet.uu.net>
+
+Notes 10-12 are about what harassment is and how email filtering can
+sometimes stop it.
+
+10. [A professor who studies sexual harassment:] "It sounds generally
+right" that merely making offensive-to-some information available has
+never been found to create an illegal hostile environment. "The
+availability of all kinds of materials in libraries is completely
+protected....now, that's a TRUE First Amendment issue!"
+    <1992Mar25.180208.4528@eff.org>
+
+11. A technique for email filtering using elm is explained.
+    <1992Mar5.164036.26921@sunb10.cs.uiuc.edu>
+
+12. Another technique for email filtering, using HM, is explained.
+    <1992Mar6.021936.5715@m.cs.uiuc.edu>
+
+- Carl]
+
+
+In this issue:
+
+David Burchell   81  Newspaper article at U. of Nebraska (alts)
+Kent Landfield   71  An Open Letter to UNL CRC: Removal of alt.*
+Mitchell Wyle   155  >Censorship and bigotry come up strong in Switzerland
+Sean Casey       35  >Why I hate IRC
+Carl M. Kadie   211  >[eff.mail.ethics-l] Statu<> Responsible Computing Policy
+Carl M. Kadie    89  >U of Illinois at Chicago Penalties Policy
+Carl M. Kadie    87  >How do U. of I. sys admin<>bout email privacy for users?
+bill@chaos.cs    66  >EMAIL PRIVACY
+James R Revell   34  >Logging usage of services (FTP)
+Carl M. Kadie    55  >Network distribution of Pornographic material.
+Brygg Ullmer     33  >Is there a way I can block-out certain e-mail?
+Mike Schwager    22  >
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Mar 21 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: burchell@cse.unl.edu (David Burchell)
+Subject: Article 1--Newspaper article at U. of Nebraska (alts)
+Message-ID: <9203212232.AA24018@cse.unl.edu>
+Date: Sat, 21 Mar 1992 22:32:24 GMT
+
+
+For anyone who has been following the alt.* controversy at UNL,
+the following article appeared on page one of _The Daily Nebraskan_,
+the student newspaper of the University of Nebraska - Lincoln, on
+Tuesday, March 17, 1992.
+
+UNL loses `alt' computer files
+by Mike Lewis
+staff reporter
+
+	Many UNL computer-users got hot under their collars a few 
+weeks ago, but it wasn't because of radiation from their monitors.
+	They were angry because the Computing Resource Center at the
+University of Nebraska-Lincoln had stopped feeding an entire set
+of "bulletin board" news groups, called alternative or alt groups,
+into UNLINFO, a machine that provides information via computers to
+the UNL community.
+	Paul Kenyon, a UNL graduate student in computer science, said 
+he was angry that the alt groups were eliminated from UNLINFO.
+	"I would like to find a leginimate way to regain access to 
+the alt groups," he said.
+	The alt groups disappeared from UNLINFO without any warning
+from the Computing Resource Center, Kenyon said.
+	"We found out about it after the fact," he said.
+	Kenyon said the alt groups made up one category of news groups
+available on USENET, a worldwide computer "bulletin board" on which
+users can post information for the general public.  Kenyon called
+USENET a "forum for discussion."
+	The USENET service is available on about 200,000 computers
+worldwide, he said, and about 1 million people use the service for 
+research, entertainment and other reasons.
+	USENET holds a "big, big volume of data," Kenyon said, and 
+UNLINFO stors only a small fraction of all the USENET groups.
+	Most USENET news group categories deal with specific subjects,
+such as science, computers or recreation, he said.  The groups in
+these categories often have moderators or editors who decide what
+information will be posted.
+	But the alt groups never have editors, Kenyon said. Anyone can
+start an alt group, and anyone can add to one.
+	Kenyon said he thought the alt groups were taken out of UNLINFO
+because some of them were pornographic in nature, such as 
+"alt.sex.bondage" and "alt.sex.bestiality." Others dealt with trivial
+subjects, such as "alt.tv.simpsons."
+	But other alt groups are worthwhile, he said.
+	"I'll guarantee you that out of 400 (alt groups), there are 200 that
+are as legitimate as the rest of USENET," Kenyon said.
+	Douglas Gale, director of computing at UNL, said he was tired of
+hearing students complain about the removal of the alt groups from
+UNLINFO.
+	"They haven't been denied anything," he said.
+	People still can gain access to the alt groups by logging into
+systems elsewhere, Gale said. A list of alternative sites was posted on
+UNLINFO, he said.
+	Many students do not understand why those groups could no longer be
+stored on UNLINFO, Gale said.
+	"We're dealing very much with a resource issue," he said.
+	The amount of memory on UNLINFO was doubling every four months, he
+said, and the increase of data was making UNLINFO run more slowly.
+	Gale said he got the impression that some students would limit access
+to valuable educational resources, such as library catalogs and news
+wire services, just to look at "alt.tv.simpsons."
+	The content of the USENET groups also makes a difference, Gale said,
+when taxpayers' money is involved.
+	"Some of that stuff (in the alt groups) is pretty sick," he said.
+"There's stuff that would not be in the adult bookstore downtown."
+	CRC decided to stop storing the alt groups after a Feb. 27 meeting of
+the UNL Academic Senate Computational Services and Facilities Committee.
+	Leo Chouinard, the Academic Senate representative on the Computational
+Committee, said the committee discussed several considerations before 
+making a decision about the alt groups, including possible violations of
+state pornography laws and concerns about computer resources being used
+for non-educational purposes.
+
+-- 
+Dave Burchell         |                  Review your options.
+burchell@cse.unl.edu  |                         Amiga. 
+ianr056@unlvm.bitnet  |
+
+
+
+------------------------------
+
+From caf-talk Caf Mar 26 00:00:00 1992
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,unl.general
+From: kent@sparky.imd.sterling.com (Kent Landfield)
+Subject: Article 2--An Open Letter to UNL CRC: Removal of alt.*
+Message-ID: <1992Mar26.214421.26447@sparky.imd.sterling.com>
+Date: Thu, 26 Mar 1992 21:44:21 GMT
+
+For those of you out there who know little about UNL, it is a *great* school 
+in a super town with dedicated people.  Please don't view all at UNL within 
+the framework of this silly decision.  Yes, Big Red is important to UNL and 
+to the state, but as a pastime.  The primary focus at UNL is education. Take
+it from someone who was involved as a student and an athlete at UNL (Swim 
+team, not football).
+
+If there is someone at UNL who would like to redirect the following *anywhere*
+within the University of Nebraska system or the State Legislature, feel free.
+Does the Daily Nebraskan have email access ?
+
+==========================================================================
+As someone who received their education from the University of Nebraska at
+Lincoln, I am saddened to hear of the CRC decision to remove availability of 
+the USENET alt newsgroup hierarchy from within the UNL system.  The reasons 
+given for the decision are so transparent as to be internationally embarrassing
+to the University.  The grounds for the decision are perceived as very weak 
+indeed...  
+
+I urge the person or persons responsible for this mistake to reconsider.
+There may be newsgroups that you wish not to take.  If that is the case, be 
+honest about it.  People can accept honesty.  There may be legitimate reasons 
+for not carrying certain newsgroups, but slashing the entire alt hierarchy is 
+rather extreme and unnecessary.  This issue does not place the University in 
+a good light.  This topic is currently being actively discussed in multiple 
+internationally available USENET newsgroups.  The issue will do more to keep 
+excellent students from enrolling than keep unacceptable material off your 
+systems.  GIFs will be downloaded.  Students are very resourceful individuals.  
+
+If you are in need of additional resources, they should be requested and 
+obtained.  If the budget does not allow that, please feel free to call me 
+directly and I will gladly help assist in lobbying the Unicameral for the 
+needed resources.  UNL has been contributing to the Internet as a whole by 
+making Archie access available from archie.unl.edu.  For that we thank you!
+If you can justify contributing to the general Internet community by making 
+that system available to anyone, anywhere in the world for resource location, 
+you should have little trouble justifying the availability of the alt 
+newsgroups for your own researchers and students.
+
+If the University of Nebraska expects to continue to compete in advanced 
+technology fields as the quality education institution it has been in the 
+past, it will need to have the most basic of facilities available to its 
+researchers and student population.  The University should be taking a *full*
+USENET feed as there is valuable and necessary information contained in other 
+hierarchies outside of the "Top Eight" that can be of immediate use to 
+researchers.  Those too would require disk space and cpu access but the 
+trade off is worth the minimal expenses.  The amount of News is growing at 
+a rapid rate. Lets hope that the hierarchies comp, rec, soc, and talk are 
+not the next to go in search of disk space.  Planning for the future growth 
+of USENET is hard but USENET has emerged as an essential core facility that 
+any University must supply in order to adequately support of its mission.
+
+	Kent Landfield 
+	Nebraska Resident
+	Moderator USENET's comp.sources.misc newsgroup
+	(402) 291-8300
+
+==========================================================================
+
+I should not have to do this but...
+This article reflects *my* personal opinions and mine alone.
+
+			-Kent+
+---
+Kent Landfield                   INTERNET: kent@IMD.Sterling.COM
+Sterling Software, IMD           UUCP:     uunet!sparky!kent
+Phone:    (402) 291-8300         FAX:      (402) 291-4362
+Please send comp.sources.misc-related mail to kent@uunet.uu.net.
+
+
+------------------------------
+
+From caf-talk Caf Mar  2 00:00:00 1992
+From: wyle@inf.ethz.ch (Mitchell Wyle)
+Newsgroups: ch.general,ch.network,epfl.general,news.admin,eunet.news
+Subject: Article 3--Re: Censorship and bigotry come up strong in Switzerland
+Message-ID: <1992Mar2.135005.14877@neptune.inf.ethz.ch>
+Date: 2 Mar 92 13:50:05 GMT
+
+I haven't posted to this thread for a while...
+
+
+<1992Mar02.082931.21643@clarinet.com> 
+brad@clarinet.com (Brad Templeton) writes:
+
+>What SWITCH is planning is bad, but
+>it is insignificant, puny, nothing, when compared to censorship.
+
+There is no plan; SWITCH cut off all the groups quite some time ago.
+One moment the groups were there, and the next minute they were gone.
+Some people call such policy administrative fiat.  Others think that
+Fiat is an Italian car.
+
+Earlier in this discussion (when it was still local to Switzerland), I
+was arguing Brad's point that SWITCH's action is not censorship.  I
+quoted from Chip Salzenberg's intro article, posted every month to
+news.announce.newusers with the title ``Subject:  What is Usenet?''
+
+``Usenet is not a right.
+
+    ``Some people misunderstand their local right of "freedom of speech"
+    to mean that they have a legal right to use others' computers to
+    say what they wish in whatever way they wish, and the owners of
+    said computers have no right to stop them.
+
+    ``Those people are wrong.  Freedom of speech also means freedom not
+    to speak.  If I choose not to use my computer to aid your speech,
+    that is my right.  Freedom of the press belongs to those who own
+    one.
+
+``Usenet is not a public utility.
+
+    ``Some Usenet sites are publicly funded or subsidized.  Most of
+    them, by plain count, are not.  There is no government monopoly
+    on Usenet, and little or no government control.
+
+``Usenet is not an academic network.
+
+    ``It is no surprise that many Usenet sites are universities,
+    research labs or other academic institutions.  Usenet originated
+    with a link between two universities, and the exchange of ideas
+    and information is what such institutions are all about.  But the
+    passage of years has changed Usenet's character.  Today, by plain
+    count, most Usenet sites are commercial entities.
+
+Later in the section entitled ``THE CAMEL's NOSE'' Chip writes:
+
+``Property rights being what they are, there is no higher authority on
+Usenet than the people who own the machines on which Usenet traffic is
+carried.  If the owner of the machine you use says, "We will not carry
+alt.sex on this machine," and you are not happy with that order, you
+have no Usenet recourse.  What can we outsiders do, after all?
+
+``That doesn't mean you are without options.  Depending on the nature of
+your site, you may have some internal political recourse.  Or you
+might find external pressure helpful.  Or, with a minimal investment,
+you can get a feed of your own from somewhere else. Computers capable
+of taking Usenet feeds are down in the $500 range now, and
+UNIX-capable boxes are going for under $2000, and there are at least
+two UNIX lookalikes in the $100 price range.
+
+``No matter what, though, appealing to "Usenet" won't help.  Even if
+those who read such an appeal are sympathetic to your cause, they will
+almost certainly have even less influence at your site than you do.
+
+``By the same token, if you don't like what some user at another site is
+doing, only the administrator and owner of that site have any
+authority to do anything about it.  Persuade them that the user in
+question is a problem for them, and they might do something -- if they
+feel like it, that is.
+
+``If the user in question is the administrator or owner of the site from
+which she posts, forget it; you can't win.  If you can, arrange for
+your newsreading software to ignore articles from her; and chalk one
+up to experience.''
+
+SWITCH owns and runs SWITCH machines.  They can carry what they want.
+If the owner of your machine wants to get the banned groups, he can
+either go through SWITCH (convince them to feed your machine) or buy a
+feed from chuug.  Such feeds are not expensive.
+
+Apparantly the people at the Swiss federal institute of technology in
+Laussanne (and in other places downstream of SWITCH) are going to
+Hawaii and other international sites to nntp the banned groups.
+Perhaps SWITCH will block port 119 in retaliation.  Or, maybe SWITCH
+banned the groups in order to INCREASE network traffic  (if 2,000
+individuals nntp directly to Hawaii and Ohio instead of reading news
+locally on their machines...) Conspiracy theories don't seem likely in
+this case.
+
+Another fact Brad and other late-comers to this discussion might want
+to consider is that SWITCH blocked port 25 out of Switzerland for quite
+some time.  SMTP is not a politically acceptable protocol and very
+buggy x.400 software needed testing.  You can't imagine how terrible
+e-mail service was at that time or how many thousands of sys-admin
+hours were invested in that fiasco.  Eventually, SWITCH backed down and
+allowed port 25 packets to flow.  I personally would not be surprized
+to see smtp turned off again (on a whim).
+
+In addition to banning some usenet newsgroups, SWITCH is also blocking
+packets to the local eunet chapter (chuug).  We have to route most
+packets from Zurich to Geneva and back to Zurich.  Others go as far as
+Amsterdam, and, yes, still others go to the USA and come back (hee
+hee).  SWITCH is blocking nntp, telnet and ftp to local sites connected
+to eunet.
+
+% ping chsun.chuug.ch
+chsun.chuug.ch is alive
+
+[ ping works  ]
+
+
+
+% finger poole@chsun.chuug.ch
+[chsun.chuug.ch]
+Login name: poole                       In real life: Simon Poole
+Directory: /users/poole                 Shell: /bin/csh
+On since Feb 20 10:38:30 on ttyp0 from magnolia
+2 days 19 hours Idle Time
+Mail last read Mon Mar  2 14:29:20 1992
+No Plan.
+
+[ port 79 is open ]
+
+
+% telnet chsun.chuug.ch
+Trying 146.228.10.15 ...
+telnet: connect: Host is unreachable
+
+[ port 23 is blocked ]
+
+% ftp chsun.chuug.ch
+ftp: connect: Host is unreachable
+
+[ ports 20 and 21 seem closed ]
+
+% telnet chsun.chuug.ch stmp
+Connected to chsun.chuug.ch.
+Escape character is '^]'.
+
+220 chsun.chuug.ch Sendmail 5.65c8/1.34 ready at Mon, 2 Mar 1992 14:36:11 +0100
+
+
+[ Hmmmm, port 25 does not seem to be blocked at the moment. ]
+
+
+% telnet chsun.chuug.ch nntp
+Trying 146.228.10.15 ...
+telnet: connect: Host is unreachable
+
+[ ...but port 119 is :-)    I wonder why?]
+
+
+------------------------------
+
+From caf-talk Caf Mar  2 00:00:00 1992
+Newsgroups: comp.unix.admin
+From: sean@ms.uky.edu (Sean Casey)
+Subject: Article 4--Re: Why I hate IRC
+Message-ID: <1992Mar1.230835.9357@ms.uky.edu>
+Date: Mon, 2 Mar 1992 04:08:35 GMT
+
+an288@cleveland.Freenet.Edu (Mark Hittinger) writes:
+
+[regarding shutting down controversial services]
+
+|I wouldn't feel guilty about doing these things because they can get together
+|and send a petition to your bosses.  If they believe so strongly that it is
+|their right than they certainly can and should fight for it.  If they will
+|not take the appropriate political steps then they are not really serious.
+
+Why not ask students why they don't get together and send a petition?
+
+I can tell you why; because most of them are convinced it won't make
+any difference. These kids come out of high school and still have
+authority stamped all over their behinds. Most of the college people I
+know don't even conceive of trying to change the system until 
+their last year, and then they're too busy trying to graduate to get
+involved.
+
+I don't think lack of involvement implies a lack of seriousness.
+
+Yes, the users have to become responsible with the use of the resources
+and get involved in policy-making. But the administrators should help
+in this process by asking for input, opening policy meetings, and by
+acting less arbitrarily upon the users they are trying to serve.
+
+Sean
+
+-- 
+                  |``Wind, waves, etc. are breakdowns in the face of the
+Sean Casey        | commitment to getting from here to there. But they are the
+sean@s.ms.uky.edu | conditions for sailing -- not something to be gotten rid
+U of KY, Lexington| of, but something to be danced with.''
+
+
+------------------------------
+
+From caf-talk Caf Mar 26 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 5--Re: [eff.mail.ethics-l] Status of UDel's Responsible Computing Policy
+Message-ID: <1992Mar26.220927.5131@eff.org>
+Date: Thu, 26 Mar 1992 22:09:27 GMT
+
+This is a critique/review of the U. of Delaware computer policy proposal.
+
+I. Participation
+
+The proposed policy was created in the open. Users and other have been
+able to look at drafts of the policy and make comment. Drafts have
+also been presented at conferences and via electronic mailing lists.
+Before being finalized, the proposal will be presented to the faculty
+senate. The result is all this openness and participation is the most
+refined and detailed policy I have seen.
+
+II. Due process
+
+Due process is provided by processing alleged rule violations via
+regular university channels.
+
+I do have some concern about punishment before "conviction". The
+"Joint Statement on Rights and Freedoms of Students" says:
+
+"Pending action on the charges, the status of a student should not be
+altered, or his right to be present on the campus and to attend
+classes suspended, except for reasons relating to his physical or
+emotional safety and well being, or for reasons relating to the safety
+and well-being of students, faculty, or university property."
+
+In contrast, the U. of Delaware policy says:
+
+"A system administrator may find it necessary to suspend or restrict a
+user's computing privileges during the investigation of a problem.  The
+system administrator should confer with his or her administrative
+officer or other person designated by that administrative officer
+before taking this step.  A user may appeal such a suspension or
+restriction and petition for reinstatement of computing privileges
+through the University's judicial system, through the grievance
+procedures outlined in University collective bargaining agreements, or
+by petition to the Dean of Students."
+
+And:
+
+"If staff in the Department of Public Safety or system administrators
+have a preponderance of evidence that intentional or malicious misuse
+of computing resources has occurred, and if that evidence points to the
+computing activities or the computer files of an individual, they have
+the obligation to pursue any or all of the following steps to protect
+the user community:
+...
+        Suspend or restrict the alleged abuser's computing privileges
+	during the investigation and judicial processing.  A user may
+	appeal such a suspension or restriction and petition for
+	reinstatement of computing privileges through the University's
+	judicial system, through the grievance procedures outlined in
+	University collective bargaining agreements, or by petition to
+	the Dean of Students."
+
+The two quotes from the proposed policy don't seem to agree on when a
+user should be suspended from the computer. The first quote doesn't
+provide guidance as to when a sys admin may find suspension
+"necessary". The second quote seems to authorize punishment for an
+offense before it has been established that an offense as occurred.
+
+I think the policy could be improved by reconciling these two quotes
+and by making it clear that suspension before "conviction" is only
+allowed when it is necessary to protect university property; it should
+not be used to punish.
+
+III. Privacy
+
+The policy acknowledges that a user, not the University, is the owner
+of his or her own data:
+
+"Data Owner: the individual or department that can authorize access to
+information, data, or software and that is responsible for the
+integrity and accuracy of that information, data, or software.
+Specifically, the data owner can be the author of the information,
+data, or software or can be the individual or department that has
+negotiated a license for the University's use of the information,
+data, or software."
+
+The policy says "Under certain unusual circumstances, a system
+administrator is authorized to access your computer files." And: "A
+system administrator must treat information about and information
+stored by the system's users as confidential."
+
+The circumstances when a inspection/search of user files is permitted
+is detailed later in the policy:
+
+"While investigating a suspected abuse of computing; a suspected
+hardware failure; a disruption of service; or a suspected bug in an
+application program, compiler, network, operating system, or system
+utility, a system administrator should ordinarily ask a user's
+permission before inspecting that user's files, diskettes, or tapes.
+The next two paragraphs outline exceptions to this rule.
+
+If, in the best judgment of the system administrator, the action of
+one user threatens other users or if a system or network for which the
+system administrator is responsible is in grave, imminent danger of
+crashing, sustaining damage to its hardware or software, or sustaining
+damage to user jobs, the system administrator should act quickly to
+protect the system and its users.  In the event that he or she has had
+to inspect user files in the pursuit of this important responsibility,
+he or she must notify, as soon as possible, his or her own
+administrative officer or other individual designated by that
+administrative officer of his or her action and the reasons for taking
+that action.  The administrative officer needs to be certain that one
+of the following are also notified:  the user or users whose files were
+inspected; the user's supervisor, project director, administrative
+officer, or academic advisor.  It is a departmental responsibility that
+this notification occur, not a personal responsibility of the system
+administrator.
+
+In cases in which the user is not available in a timely fashion, in
+which the user is suspected of malicious intent to damage a computer
+system, or in which notifying the user would impede a sensitive
+investigation of serious computer abuse, the system administrator may
+inspect the information in question so long as he notifies his or her
+own administrative officer or other individual designated by the
+administrative officer of his or her actions and the reasons for taking
+those actions.  The administrative officer needs to be certain that the
+user's supervisor, project director, administrative officer, or
+academic advisor is notified of the situation.  In the case of
+suspected malicious intent, the administrative officer may also need to
+refer the matter to the appropriate University judicial body or to the
+Department of Public Safety."
+
+And:
+
+"If staff in the Department of Public Safety or system administrators
+have a preponderance of evidence that intentional or malicious misuse
+of computing resources has occurred, and if that evidence points to the
+computing activities or the computer files of an individual, they have
+the obligation to pursue any or all of the following steps to protect
+the user community:
+[...]
+-       Inspect the alleged abuser's files, diskettes, and/or tapes.
+	System administrators must be certain that the trail of
+	evidence leads to the user's computing activities or computing
+	files before inspecting any user's files.  (See "User
+	Confidentiality and System Integrity" on page 6 of these
+	Guidelines for more information.)"
+
+This is consistent with the Joint Statement, I wonder, however, how it
+compares to University policy for office space. Personally, I think a
+University should be required to get a search warrant before searching
+user email.
+
+III. Free expression
+
+The policy says:
+
+"Misuse of computing and information resources and privileges
+includes, but is not restricted to, the following:
+[...]
+-       using the University's computing resources to harass or
+	threaten other users"
+
+This is good. I assume that "harass and threaten" are defined and
+prohibited by other University policies. This policy could be improved
+by just referring to established University policy rather than creating
+a new and distinct "harass and threaten" on-the-computer policy.
+
+(If they are not defined elsewhere, then the policy is too vague.)
+
+IV. Tone of policy and policy on "personal use"
+
+The tone of the policy is that anything that is not acceptable is
+prohibited. This can be seen most clearly in rules such as
+
+"Misuse of computing and information resources and privileges
+includes, but is not restricted to, the following:
+[...]
+        using computing facilities, computer accounts, or computer data
+        for purposes other than those for which they were intended or
+        authorized"
+
+And:
+
+"University computing facilities and accounts are to be used for the
+University-related activities for which they are assigned.  University
+computing resources are not to be used for commercial purposes or
+non-University-related activities without written authorization from
+the University.  In these cases, the University will require payment
+of appropriate fees.  This policy applies equally to all University-
+owned or University-leased computers."
+
+The meaning of these prohibitions is unclear. Does this mean that I
+can't use email to ask a friend to meet me at the student union for
+lunch? Does it mean that as a computer science major I can't read
+"alt.fishing"? Does it mean that a English professor can't try to
+teach him or herself to program in "C" by writing programs on a
+University computer? Does it mean that recreational programs are
+prohibited?
+
+To the last question the policy offers a clue. It explicitly prohibits
+"encroaching on others' use of the University's computers (e.g.,
+disrupting others' computer use by excessive game playing; ...)"
+Presumably then, some recreational use is permitted on some computers
+at some times.
+
+The policy could be improved by saying that nondisruptive,
+noncommercial "personal use" of the computer and permitted and
+encouraged subject to whatever limitations local sites may impose.
+
+
+- Carl
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Mar 18 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 6--Re: U of Illinois at Chicago Penalties Policy
+Message-ID: <1992Mar18.191830.5134@eff.org>
+Date: Wed, 18 Mar 1992 19:18:30 GMT
+
+This is a critique of the UIC policy. I've reformatted it a bit.
+
+Summary: This is the most creatively repressive policy I read in a
+long time. The policy gives the false illusion of explicitness and due
+process.  In fact, however, it makes almost everything illegal and
+subject to harsh and disproportionate punishment. It then gives the
+Computer Center expansive discretion on enforcement and punishment.
+The effect for users is the same as if there was no policy at all.
+
+> Penalties for Misuse of UIC Computing Resources > 09/23/91
+
+>SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 3 DAYS TO 1 WEEK:
+[...]
+>    - Sending an unsolicited message, mail or communication of any kind to
+>     persons who have not requested it or who cannot be reasonably
+>     expected to welcome such communication
+[...]
+
+So, if I get unwelcome email from a student computer operator telling
+me I'm me I'm over my disk quota, he or she will automatically be
+suspended from the computer for 3 days?
+
+Sounds good :-)
+
+I think this rule is so over broad that it necessarily will be enforced
+very selectively and arbitrary.
+
+(Somewhere on the net there is an FAQ about "You don't need permission
+to send email." If you know where, please post it or send it to me.)
+
+> * Frequent frivolous use of computing resources
+
+This is vague.
+
+
+>SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 3 MONTHS:
+[...]
+> * Using an account, account units or online disk storage that belong to
+>   another person
+
+So, if my friend tells me to look in her .login to see how she set her
+"PATH" statement, I will be suspended for 3 months? This is
+ridiculously harsh. Is it really enforced?
+
+>SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 1 YEAR:
+> * A pattern of any misuse of computing resources
+
+Like looking at her .login twice?
+
+>The Computer Center will consider extenuating circumstances to reduce imposed
+>penalties.
+
+So, it is factually incorrect to call the penalties "minimum".
+
+This policy gives the false illusion of explicitness and due process.
+In fact, however, it makes almost everything illegal and subject to
+harsh and disproportionate punishment. It then gives the Computer Center
+expansive discretion on enforcement and punishment. The effect for
+users is the same as if there was no policy at all.
+
+The Joint Statement on Rights and Freedoms of Students says "In
+developing responsible student conduct, disciplinary proceedings play
+a role substantially secondary to example, counseling, guidance, and
+admonition." This does not see to be the case at UIC where warning
+are, according to the policy, never issued.
+
+The Statement also says "Disciplinary proceedings should be instituted
+only for violations of standards of conduct formulated with
+significant student participation and published in advance through
+such means as a student handbook or a generally available body of
+institutional regulations." I doubt if student and faculty
+participated in the create of this users this heavy-handed policy.
+
+One way to resist this policy might be to follow it! If I were at
+student at UIC (rather than UIUC), I would ask the computer
+administration to review almost every email note that I thought about
+sending so they could tell me it could be reasonable expected to be
+welcome. I would also request written permission from the head of the
+Computer Center ever time a friend tell me I can look at her .login
+file. I might also report every Computer Center staff member who sent
+me unwelcome mail.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Mar 23 00:00:00 1992
+Newsgroups: uiuc.general,alt.comp.acad-freedom.talk,comp.admin.policy,comp.org.eff.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 7--Re: How do U. of I. sys admins feel about email privacy for users?
+Message-ID: <1992Mar23.184747.13631@eff.org>
+Date: Mon, 23 Mar 1992 18:47:47 GMT
+
+At the same time I posted to uiuc.general, I put a similar query to
+alt.comp.acad-freedom.talk and comp.admin.policy. I received two
+responses. Here is a paraphrase of the responses (items in double
+quotes are direct quotes).
+
+cmk> 1) Most universities require authorization before an office or dorm
+cmk> room can be search, or before a university telephone can be tapped.
+cmk> Who should be authorized to authorize searches of user computer files
+cmk> and taps of email? (e.g. anyone, operators, sys admin, department
+cmk> head, dean, judical committee, judge)
+
+Dean of students, someone similar for faculty, judges.
+
+The premise of the question is incorrect because universities can
+search dorms without authorization if they give 24 hour warning or if
+there is an emergency. "Offices are presumed to belong to the
+University including all the papers in locked cabinets." "Telephones
+are routinely checked for quality without any notice or warning before
+or after the check." "As the above illustrates, there is a big
+difference between checking for quality or emergencies and checking
+for other reasons.  The individual at the front line should be
+presumed to have the authority to correct problems as they arise,
+especially in an emergency." "It is wrong for people in supervisory
+positions to order or authorize the search because then the search is
+not for fixing technical problems but for finding non-technical
+faults."
+
+cmk> 1.1) Should it make any difference if the user is a professor rather
+cmk> than a student?
+
+No.
+
+No.
+
+cmk> 1.2) Are email searches comparable (in terms of authorization that
+cmk> should be requried) to office and dorm seaches and telephone taps? If
+cmk> not, what makes them different?
+
+Yes.
+
+No. "They are much easier." "They leave no trace of the search."
+
+cmk> 2) If your system has an email policy, who does that policy give
+cmk> search authority to?
+
+No policy (yet).
+
+"No mention of any search authority in the email policy."
+
+cmk> 3) Have you ever been asked or ordered to search user email or files
+cmk> but felt uncomfortable with the order?
+
+"I was asked once, and I flatly refused; that was the end of the matter."
+
+No.
+
+cmk> 4) Some searches of email might be illegal or immoral. On the other
+cmk> hand, refusing a supervisor's order to search might be insubordinate.
+cmk> Do you think that written email policies that detail when a search
+cmk> request is valid offer you important protection.
+
+"I would draw a parallel between this situation and the military
+solution.  Enlisted soldiers have the explicit right to disobey orders
+which they believe to be illegal"
+
+"No. Challenging an order and citing a policy is an easy way to loose
+a job. Supervisors dislike being quoted policy and will find some
+reason to get rid of you."
+
+cmk> 5) The law relating to email privacy is unclear. Do you think that
+cmk> universities should wait until the law is settled (via lawsuits and
+cmk> court cases) before creating written email policy?
+
+"No; I believe that we can initiate a policy before the law is
+''settled''.  We may have to modify that policy to meet the laws
+developed at a later date, but this is a common procedure."
+
+"YES.  There is the large risk of writing policy that is illegal.
+Illegal policy will not protect anyone and may make persons
+implementing such policy guilty of conspiracy."
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Mar 20 00:00:00 1992
+Newsgroups: alt.privacy,comp.unix.admin
+From: bill@chaos.cs.umn.edu ()
+Subject: Article 8--Re: EMAIL PRIVACY
+Message-ID: <bill.701078510@chaos.cs.umn.edu>
+Date: Fri, 20 Mar 1992 08:01:50 GMT
+
+[request for example deleted]
+sorry had to post this as the mail bounced and i want to go home and go to bed
+i gotta be in here for work in about 5 hours. anyway i edited it to remove
+identifing stuff for my employer (i'm on contract) it looks better when it's
+printed from a wp instead of pumped through the keyboard buffer.
+
+
+ RS/6000 ACCESS REQUEST SHEET
+
+
+YourName __________________________________________________________________
+
+Your SectionName ___________________________________________________________
+
+Your Telephone Number ______________________________________________________
+
+Your Supervisor's Name ______________________________________________________
+
+Your Supervisor's Telephone Number ___________________________________________
+
+Your Supervisor's Signature ___________________________________________________
+
+Authorizing Signature (Dave Johnson) __________________________________________
+
+Access Required:
+
+General AIX Access ........................................................................... ______
+General ORACLE Access (read permission) ______
+General ORACLE Access (write permission) ______
+why? ____________________________________________________
+xxxxxxx Data Access (read permission) ______
+xxxxxxx Data Generation Access (write permission) ______
+why? ____________________________________________________
+CASE Dictionary & CASE Generator Access ______
+why? ____________________________________________________
+Modem Access ______
+why? ____________________________________________________
+
+FOR THE ABOVE ACCESS IT IS ASSUMED THAT THE REQUESTER (USER) KNOWS HOW TO USE THE
+SOFTWARE/SYSTEMS FOR WHICH THEY ARE REQUESTING ACCESS TO
+
+Notes:
+  * The only access offered at this time is via Xwindows; this includes access to the ORACLE Database.
+  * EMail regarding AIX or ORACLE crashes or bugs should be directed to the user
+known as sysadmin.  General training in the use of AIX or ORACLE is not currently
+offered.
+  * Users are expected to adhere to xx/DOT information systems policy, including (but not restricted to):  the right of privacy of EMail (users should expect EMail to be private) except in the following cases:
+
+ termination of employment, 
+
+ researching security breaches (to be done by an authorized user), 
+
+ extended absences (due to illness, vacation, etc. where access to EMail contents may be required to support ongoing xx/Dot activities.  Try to assign another user [person] to intercept your critical EMail and avoid this predicament.
+
+* In short, we shall attempt to preserve the privacy of EMail,
+BUT PRIVACY CANNOT BE GUARANTEED!!
+* You are required to NOT access or attempt to access files other than your own!!
+* It is your responsibility to use these data systems in the manner for which they are normally intended.  The use of this system as a tool to illegally access, damage, or attempt to cause damage, to the smooth operation of other computer systems, or data, will not be tolerated.  Intentional, malicious, or ignorant misuse of these systems can be cause for termination of user accounts an/or disciplinary action.
+* Please help us to maintain a friendly, courteous relationship.
+
+Thank you,
+
+signed:  sysadmin
+
+
+------------------------------
+
+From caf-talk Caf Mar 12 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: revell@uunet.uu.net (James R Revell Jr)
+Subject: Article 9--Re: Logging usage of services (FTP)
+Message-ID: <1992Mar12.213307.11252@uunet.uu.net>
+Date: Thu, 12 Mar 1992 21:33:07 GMT
+
+ftp.uu.net is an example of an archive where the "anonymous" in
+anonymous FTP is a myth.  UUNET's archive is available *only* to
+people we can identify.  I recently cracked down on this policy
+due to the large number of abuse.
+
+Guest FTP to ftp.uu.net, via the anonymous or ftp logins, requires
+that the client:
+   . originate the FTP from a host with appropriatly configured
+     reverse server information (ie: a PTR record)
+   . use a password consisting of their domain style email address
+   . not originate from a host we have determined to be involved in
+     security or copyright infringement
+
+We log all file transfers, and the initial login message tells FTP
+users to disconnect if they can't live by that.  I investigate all
+questionable activity and infractions of our archive policy (concerning
+incoming files).  The policy on incoming files is automatically
+displayed to each FTP user when they enter the incoming directory.
+
+As some users and system admins at internet sites may know, I check
+incoming files for various security problems or copyright infringement
+and report all occurences to CERT and other authorities who may be
+involved.  FTP access is denied to hosts causing such problems until
+the problem has been resolved.  The amount of such abuse is simply to
+high to allow to continue.
+
+Are these actions too extreme?  Some will say yes, but if some hot-shot
+prosecutor tries to hold UUNET responsible for some problem with a file
+placed in our archive then we have no choice.
+-- 
+James Revell   sr uunet postmaster   <revell@uunet.uu.net>   /8^{~
+
+
+------------------------------
+
+From caf-talk Caf Mar 25 00:00:00 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 10--Re: Network distribution of Pornographic material.
+Message-ID: <1992Mar25.180208.4528@eff.org>
+Date: Wed, 25 Mar 1992 18:02:08 GMT
+
+I asked Prof. Louise Fitzgerald of the U. of Illinois to look over my
+last posting on this. She is a professor of educational psychology and
+psychology who stuides the effects of sexual harassment. With her
+permission, here is her email response, followed by the note I sent to
+her.
+
+======================================
+>>From: Louise Fitzgerald <lfitzger@psych.uiuc.edu>
+>>Message-Id: <199203251736.AA18378@s.psych.uiuc.edu>
+>>Subject: Re: Playboy in the University library
+>>To: kadie@eff.org (Carl M. Kadie)
+>>Date: Wed, 25 Mar 92 11:36:55 CST
+
+It sounds generally right, but I think that students can indeed be
+punished for making offensive comments to someone privately, i.e.,
+pursuing someone who wants you to leave them alone, saying sexually
+offensive stuff, and so forth......but you are correct that you can
+make pretty much whatever comments you want in a classroom context
+(as can professors) if they are related to the subject at hand....
+The availability of all kinds of materials in libraries is completely
+protected....now, that's a TRUE First Ammendment issue!
+LFF
+=========================
+
+>From kadie Wed Mar 25 12:00:37 1992
+To: l-fitzgerald1@uiuc.edu
+Subject: Playboy in the University library
+
+This is part of a note I just wrote to a computer newsgroup. Does
+it sound right?
+
+=================
+
+As far as I know, merely making offensive-to-some information
+available has never been found to create an illegal hostile
+environment. It it did, only students would be allowed to use the
+library (And professors would have to return all those books they keep
+checked out for years :-) )
+
+The real difference seems to be what a person can be punished for
+saying. As a staff member, you can be punished for making some types
+of offensive comments in the context of your job to another employee
+(or student). If you make too many of them and your employer does
+nothing to stop you, then your employer might be liable for a "hostile
+environment". As a student at a state university, I can't be punished
+for making offensive comments. (Exception: at U. of California
+schools, fighting words are prohibited.)
+
+[I'm not sure this is quite right, I'll double check.]
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Mar  5 00:00:00 1992
+Newsgroups: uiuc.cs.problems
+From: ullmer@suna3.cs.uiuc.edu (Brygg Ullmer)
+Subject: Article 11--Re: Is there a way I can block-out certain e-mail?
+Message-ID: <1992Mar5.164036.26921@sunb10.cs.uiuc.edu>
+Date: Thu, 5 Mar 1992 16:40:36 GMT
+
+In <1992Mar3.013144.3462@m.cs.uiuc.edu> soufi@m.cs.uiuc.edu (Khaled S. Soufi) writes:
+
+>I was wondering if anyone out there knows of any simple (?!) way to
+>block-out certain people (addresses) from sending e-mail to me!  I
+>guess I can write a little utility that can search my mail file and
+>delete all messages that came from undesirable addresses but is there
+>anything better than that?  Thanks in advance for any *wise*
+>suggestion.
+
+Yes... you can use the filter program, if elm has been installed on your
+system.  If you haven't run elm before, run it once so that it can create
+the appropriate directories in your account.  Then, you have filter invoked
+by the reception of new mail by putting "| /usr/local/bin/filter" (with the
+quotes) in your .forward file (the directory may be different from system
+to system; type "which filter" to get the appropriate directory).  Finally,
+you set up a filter-rules file in your .elm directory, which might contain
+the following:
+
+if (from contains "unwanted-person-name") then save unwanted.message 
+#alternatively, replace "save unwanted..." with "delete"
+if (always) then leave
+
+Be sure to check your filter-rules out for proper working order by
+running "filter -n < sample.msg" on both messages which should be deleted and
+messages which should be saved (including the header); filter will tell you what
+it would do with the message if run with the current filter-rules.
+
+Check the filter man page for more information.
+
+Brygg Ullmer
+
+
+------------------------------
+
+From caf-talk Caf Mar  5 00:00:00 1992
+Newsgroups: uiuc.cs.problems
+From: schwager@cs.uiuc.edu (Mike Schwager)
+Subject: Article 12--Re: Is there a way I can block-out certain e-mail?
+Message-ID: <1992Mar6.021936.5715@m.cs.uiuc.edu>
+Date: Fri, 6 Mar 1992 02:19:36 GMT
+
+In article <1992Mar3.013144.3462@m.cs.uiuc.edu>, soufi@m.cs.uiuc.edu (Khaled S. Soufi) writes:
+|> I was wondering if anyone out there knows of any simple (?!) way to
+|> block-out certain people (addresses) from sending e-mail to me!  I
+|> guess I can write a little utility that can search my mail file and
+|> delete all messages that came from undesirable addresses but is there
+|> anything better than that?  Thanks in advance for any *wise*
+|> suggestion.
+ +------------------------------------+--------------------------+
+
+I suggest using MH.  There are manuals in the library.  Basically, you can create a .forward file that looks like this:
+
+"| /local/lib/mh/slocal -user schwager"
+
+and then you can have a mail delivery file that looks like this:
+
+from nastyperson qpipe ?: "/bin/cat > /dev/null 2>&1"
+addr schwager qpipe ?: "/local/lib/mh/rcvstore +Sysadm"
+
+Automagic!
+
+Many more configuration options are available.
+-Mike
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

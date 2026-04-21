@@ -1,0 +1,545 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Usenet is described as an 'electronic library of ideas' that universities should keep free of arbitrary censorship.",
+        "The Cubby v. CompuServe decision established that a service acting as a distributor rather than a publisher has less liability for user content.",
+        "Defining individual user files as 'university records' may create legal inconsistencies regarding federal law and email privacy."
+      ],
+      "organizations": [
+        "Carnegie Mellon University",
+        "University of Wisconsin",
+        "Iowa State University",
+        "University of California",
+        "CompuServe",
+        "University of Wyoming",
+        "ACLU",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Eric Jefferson",
+        "Dean Pentcheff",
+        "Mike Godwin"
+      ],
+      "summary": "This digest summarizes several early 1990s conflicts regarding digital academic freedom, including sexual harassment charges stemming from bulletin board posts at Carnegie Mellon and the filtering of Usenet newsgroups at Iowa State University. It also covers legal precedents such as Cubby v. CompuServe regarding distributor liability and reports on court-ordered file searches at the University of California and software bans at the University of Wyoming.",
+      "title": "Abstract of CAF-News 02.08",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "sexual harassment",
+        "distributor liability",
+        "privacy",
+        "IRC",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Article 0 -- Abstract of CAF-News 02.08",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "The university's sexual harassment policy was described as vague by the accused student.",
+        "The administration threatened a disciplinary committee and possible expulsion if the student continued posting."
+      ],
+      "organizations": [
+        "Carnegie Mellon University",
+        "Equal Employment Opportunity Commission (EEOC)"
+      ],
+      "people": [
+        "Eric Jefferson",
+        "Micheal Murphy",
+        "Todd Masco",
+        "Chris Newman",
+        "Josh Knauer",
+        "Ann Simonton",
+        "Matt Bushey"
+      ],
+      "summary": "A student at Carnegie Mellon University, Eric Jefferson, faced potential disciplinary action and expulsion after posting messages critical of feminism and lesbians on the university's Andrew bulletin boards. The incident sparked a debate over whether such posts constituted protected free speech or violated the university's sexual harassment policy. This case highlights early conflicts between digital communication platforms and campus conduct codes.",
+      "title": "Speech restrictions on CMU computer bboards",
+      "topics": [
+        "academic freedom",
+        "online speech",
+        "sexual harassment policy",
+        "bulletin boards",
+        "student discipline"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 28 Jan 1992 22:34:29 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<1992Jan28.223429.20426@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Article 1--Speech restrictions on CMU computer bboards",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 29, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "A federal judge found the University of Wisconsin's harassment rule to be too vague and broad.",
+        "There is a distinction between sending unwanted email to an individual and posting offensive content in a general university forum."
+      ],
+      "organizations": [
+        "Carnegie Mellon University",
+        "University of Wisconsin",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "C. D. Tavares"
+      ],
+      "summary": "Carl Kadie discusses the distinction between targeted harassment and offensive speech in university forums. He provides a former University of Wisconsin rule as a comparison to Carnegie Mellon University's policies, noting that a federal judge found the Wisconsin rule too vague despite its requirement that harassment be directed at an individual.",
+      "title": "Speech restrictions on CMU computer bboards",
+      "topics": [
+        "academic freedom",
+        "harassment",
+        "speech restrictions",
+        "university policy",
+        "bulletin boards"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 29 Jan 1992 22:14:41 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1992Jan29.221441.18673@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Article 2--Re: Speech restrictions on CMU computer bboards",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Feb 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Constitutional protections for free speech do not apply to privately owned bulletin boards.",
+        "The university's harassment policies justify the restriction of speech that targets sensitive cultural scars or intends to cause harm."
+      ],
+      "organizations": [
+        "Carnegie Mellon University"
+      ],
+      "people": [
+        "John Gardiner Myers",
+        "Eric Jefferson"
+      ],
+      "summary": "A complainant in the Eric Jefferson case at Carnegie Mellon University argues that university-owned bulletin boards are private property and not subject to First Amendment restrictions. The author contends that posts intended to provoke 'flame wars' constitute harassment under university policy rather than protected free speech. This highlights the tension between academic freedom, harassment policies, and the ownership of digital communication infrastructure.",
+      "title": "Article 3--Fwd: I comment once.",
+      "topics": [
+        "free speech",
+        "harassment policy",
+        "university computing",
+        "private property"
+      ]
+    },
+    "identity": {
+      "date": "3 Feb 92 00:28:25 GMT",
+      "from": "jm36+@andrew.cmu.edu (John Gardiner Myers)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<8dX8mdS00WBwAAGCdi@andrew.cmu.edu>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Article 3--Fwd: I comment once.",
+      "to_or_newsgroups": "alt.politics.correct,alt.comp.acad-freedom.talk,alt.censorship",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 24, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "ISU's original newsgroup policy was open access.",
+        "Student-accessible machines were restricted from groups such as alt.sex.* and alt.drugs by default.",
+        "Faculty/staff could request uncensored feeds, creating a disparity in access between students and employees."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "John Hascall",
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "John Hascall describes the censorship policies for Usenet newsgroups at Iowa State University (ISU). He explains that machines available to students are restricted by default, while faculty/staff machines may have full access depending on department head approval. A group of students and staff is currently lobbying the Computation Center director to move toward a policy based on personal choice and responsibility.",
+      "title": "Article 4--Re: Duties of state universities regarding 1st amendment",
+      "topics": [
+        "Usenet censorship",
+        "academic freedom",
+        "first amendment",
+        "university network policy"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 24 Jan 1992 16:00:39 GMT",
+      "from": "john@iastate.edu (John Hascall)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1992Jan24.160039.20161@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Article 4--Re: Duties of state universities regarding 1st amendment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "26 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Usenet has evolved from a research tool into a form of mass communication and an electronic library.",
+        "Arbitrary censorship of specific newsgroups on university systems is analogous to censoring books in a university library.",
+        "The availability of material via commercial providers does not justify the censorship of state-funded academic resources."
+      ],
+      "organizations": [
+        "University of Michigan"
+      ],
+      "people": [
+        "Brad Baillod",
+        "Michael P. Deignan"
+      ],
+      "summary": "Brad Baillod argues against the restriction of Usenet newsgroups (specifically alt.sex) on university systems, countering the claim that such access is merely a 'perk'. He posits that because Usenet serves as a form of mass communication and an electronic library of ideas, universities should be held to the same non-censorship standards as physical libraries.",
+      "title": "Article 5--Re: Duties of state universities regarding 1st amendment",
+      "topics": [
+        "First Amendment",
+        "Usenet censorship",
+        "academic freedom",
+        "digital libraries"
+      ]
+    },
+    "identity": {
+      "date": "26 Jan 92 04:58:44 GMT",
+      "from": "baillod@sparky.eecs.umich.edu (Brad Baillod)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1992Jan26.045844.10853@zip.eecs.umich.edu>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Article 5--Re: Duties of state universities regarding 1st amendment",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,misc.legal,alt.censorship",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Jan 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University resisted the search based on undue burden rather than privacy grounds.",
+        "There was significant uncertainty among the court and university counsel regarding electronic communications law."
+      ],
+      "organizations": [
+        "University of California",
+        "Electronic Frontier Foundation",
+        "Association for Computing Machinery"
+      ],
+      "people": [
+        "Dean Pentcheff"
+      ],
+      "summary": "Dean Pentcheff summarizes a case where the University of California was court-ordered to search Unix mainframe backups and disks for files containing a student's name during disciplinary proceedings. The incident highlights a lack of legal clarity regarding whether 'university maintained records' include all data on university systems and the applicability of the Electronic Communications Privacy Act (ECPA). Pentcheff argues that the event demonstrates an urgent need for electronic privacy policies and legal education.",
+      "title": "UC computer searches: Summary #3",
+      "topics": [
+        "electronic privacy",
+        "court-ordered search",
+        "student records",
+        "ECPA",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "18 Jan 92 00:14:42 GMT",
+      "from": "dean2@garnet.berkeley.edu (Dean Pentcheff)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<knesbiINN8d1@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "UC computer searches: Summary #3.",
+      "to_or_newsgroups": "comp.org.eff.talk,alt.comp.acad-freedom.talk,ba.politics,ucb.general,uc.general",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "14 Jan 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Classifying student-to-student email as university records would grant students the right to challenge or amend information in others' private archives.",
+        "Treating personal emails as official records could prevent users from reading their own archives without consent."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Eliot Lear"
+      ],
+      "summary": "Carl Kadie argues that private email exchanges between students should not be classified as official university records. He outlines the legal and administrative burdens that would arise if personal student emails were subject to institutional record-keeping laws, such as mandatory disclosure logs and notification requirements.",
+      "title": "Re: hackers, crackers, privacy on KQED",
+      "topics": [
+        "privacy",
+        "student rights",
+        "email archives",
+        "institutional records"
+      ]
+    },
+    "identity": {
+      "date": "14 Jan 92 03:26:59 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1992Jan14.032659.8519@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Re: hackers, crackers, privacy on KQED",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "A censor bears more liability for material they explicitly approve via pre-screening than for material they remove after a complaint."
+      ],
+      "organizations": [
+        "Compuserve"
+      ],
+      "people": [
+        "Rachel McGregor",
+        "Harry Lee"
+      ],
+      "summary": "Rachel McGregor discusses the legal liability of system administrators regarding content moderation. She argues that pre-screening messages increases a censor's liability because it implies approval or negligence, whereas post-screening or no censorship reduces it.",
+      "title": "Effect of the Compuserve decision",
+      "topics": [
+        "censorship",
+        "intermediary liability",
+        "content moderation",
+        "online law"
+      ]
+    },
+    "identity": {
+      "date": "18 Jan 92 18:54:35 GMT",
+      "from": "rogue@cellar.org (Rachel McGregor)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<oDeReB6w164w@cellar.org>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Re: Effect of the Compuserve decision",
+      "to_or_newsgroups": "comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 6, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The court in Cubby, Inc. v. CompuServe held that online services are more like bookstores/distributors than publishers.",
+        "Liability for defamation on such platforms requires 'actual knowledge' of the content.",
+        "Holding service providers liable for all user content would create a burden that conflicts with First Amendment protections."
+      ],
+      "organizations": [
+        "EFF",
+        "CompuServe"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Ric Helton",
+        "Danny Weitzner"
+      ],
+      "summary": "Mike Godwin discusses the legal implications of Cubby, Inc. v. CompuServe, where a court held that an online service provider is not liable for defamatory content unless it has actual knowledge of it. The decision compared CompuServe to a bookstore or library rather than a publisher, arguing that requiring pre-screening of all user posts would chill First Amendment rights. This case established an early legal precedent regarding the liability of system operators and online service providers.",
+      "title": "Effect of the Compuserve decision",
+      "topics": [
+        "First Amendment",
+        "online liability",
+        "defamation",
+        "intermediary liability",
+        "sysop liability"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 6 Jan 1992 20:43:41 GMT",
+      "from": "mnemonic@eff.org (Mike Godwin)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<1992Jan6.204341.5096@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Re: Effect of the Compuserve decision",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "10 Jan 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Over 20 users at the University of Wyoming were 'dis-usered' for using IRC.",
+        "Users had to agree to refrain from IRC activities and remove all traces of the software to regain account access."
+      ],
+      "organizations": [
+        "University of Wyoming"
+      ],
+      "people": [
+        "Robert Wedlock"
+      ],
+      "summary": "Robert Wedlock reports that the University of Wyoming disabled accounts for over 20 users after they utilized Internet Relay Chat (IRC). Users were required to delete all IRC-related files and agree to refrain from using the service to have their VMS accounts reinstated. The incident highlights early institutional hostility toward real-time communication tools on academic networks.",
+      "title": "IRC outlawed at U Wyoming...",
+      "topics": [
+        "IRC",
+        "acceptable use policy",
+        "account suspension",
+        "academic computing"
+      ]
+    },
+    "identity": {
+      "date": "10 Jan 92 01:38:00 GMT",
+      "from": "RWED@corral.uwyo.edu (Robert Wedlock)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<3803321809011992_A11466_POSSE_11614C9F3200@mrgate.uwyo.edu>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "IRC outlawed at U Wyoming...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "10 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Public universities are constrained by the U.S. Constitution and state constitutions regarding searches and due process.",
+        "Searching user computer files should require similar authorization to searching a professor's physical file cabinet."
+      ],
+      "organizations": [
+        "University of Wyoming",
+        "Electronic Frontier Foundation",
+        "American Association of University Professors",
+        "U.S. National Student Association",
+        "Association of American Colleges"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie responds to a debate regarding the University of Wyoming's decision to ban IRC and suspend users. He argues that public universities are constrained by constitutional law, student codes, and moral obligations to respect academic freedom. Specifically, he challenges the university's practice of suspending users without due process and searching computer files without proper authorization.",
+      "title": "IRC outlawed at U Wyoming...",
+      "topics": [
+        "IRC",
+        "due process",
+        "search and seizure",
+        "academic freedom",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "10 Jan 92 08:00:56 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<199201101800.AA13167@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "IRC outlawed at U Wyoming...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 5, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Speech protected by the First Amendment does not lose protection because its tone is sharp.",
+        "Public debate requires tolerance of insulting or outrageous speech to maintain constitutional freedoms."
+      ],
+      "organizations": [
+        "EFF",
+        "ACLU"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Heath"
+      ],
+      "summary": "Carl Kadie responds to a debate regarding 'inappropriate use' of network resources and freedom of speech. He argues that First Amendment protections extend to speech that is sharp, impolite, or outrageous, citing ACLU guidance and the Supreme Court case Hustler Magazine v. Falwell.",
+      "title": "Re: Inappropriate Use by 2714sviatkos",
+      "topics": [
+        "freedom of speech",
+        "network etiquette",
+        "First Amendment",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 5 Jan 1992 02:55:18 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1992Jan5.025518.11163@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/january_1992",
+      "subject": "Re: Inappropriate Use by 2714sviatkos",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

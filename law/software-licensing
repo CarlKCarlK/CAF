@@ -1,0 +1,614 @@
+               SOFTWARE LICENSING FLEXIBILITY
+
+                COMPLEMENTS THE DIGITAL AGE
+
+
+                      Fred Greguras[1]
+                      Sandy J. Wong[2]
+                     September 30, 1994
+
+                          ABSTRACT
+
+  This paper summarizes our observations  on  current  and
+  future  trends  in  software  licensing practices. While
+  U.S. issues are emphasized, some global issues are  also
+  addressed  because  of the trend toward global computing
+  environments and the importance of  international  reve-
+  nues to the U.S. software industry.
+
+  Our  observations  reflect  the  changes  in   computing
+  environments,  particularly  the  on-going transition to
+  client/server  computing  which  will  ultimately   move
+  toward  enterprise-wide  computing environments. Distri-
+  buted processing may ultimately create a  seamless  vir-
+  tual global computing environment in which new licensing
+  approaches will be needed. The U.S. software industry is
+  evolving  toward  more  flexible licensing practices and
+  pricing methods that reflect the overall business  value
+  of  software to users. At the same time, vendors must be
+  able to implement a reasonable degree of protection  for
+  their  intellectual  property and produce enough revenue
+  to fund the next generation of products to  sustain  its
+  global  lead  in  information technology. Because of the
+  growing use of mass market methods for software  distri-
+  bution,  statutory intellectual property protection such
+  as copyright and patent protection is  extremely  impor-
+  tant  since  no  agreement is needed for implementation.
+  While statutory intellectual  property  protection  pro-
+  vides   proprietary   protection  for  software  assets,
+  insurance is the possible safety net for potential  lia-
+  bility for mass-market software when no contractual lim-
+  itations on liability and warranty  disclaimers  can  be
+  implemented.
+
+  Other observations  include  that  licensing  approaches
+  must  accommodate  the  emerging  market requirement for
+  electronic delivery of software.   The  paper  concludes
+  with  discussion  of a number of other licensing issues,
+  including licensing beyond the application level to  the
+  object  level,  the  use  and  enforcement of shrinkwrap
+  licenses  and  a  proposal  for  establishing   standard
+  licensing practices for shareware and freeware.
+
+  ========================================================
+  Copyright (C) 1994 Fenwick & West  and  Sandy  J.  Wong.
+  Permission  is granted to distribute this article freely
+  for educational and  non-commercial  purposes,  provided
+  that  this  copyright  notice appears on all such copies
+  distributed.
+
+  ========================================================
+  1 Law firm of  Fenwick  &  West,  Two  Palo  Alto
+    Square, Suite 800, Palo Alto, CA 94306;
+    Telephone  (415)  494-0600;  FAX  (415)   424-0859;
+    InterNet: fmg@fwpa.com
+  2 Sandy Jane Wong, M.P.A.,  Two  Ohlone,  Portola
+    Valley, CA 94028; Telephone    (415)    851-7233;
+    InterNet: sandy@oikoumene.batnet.com
+
+
+
+  ========================================================
+                          CONTENTS
+
+          INTRODUCTION
+
+          OBSERVATIONS
+               Network Licensing
+               Distributed-Processing Licensing
+               Evolving Pricing Models
+               Object-Level Licensing
+               Shrinkwrap Licensing
+               Sales Not Licenses
+               Intellectual Property Protection
+               Software Performance Risks
+               Volume Licenses
+               Signed Licenses
+               Patent Infringement Risks
+               Specific License Agreements
+               Damage Limitations
+               Performance-Warranty Disclaimers
+               Virus Protection
+               Open Systems Issues
+               Shareware and Freeware Licensing
+               International Transactions
+               Electronic Delivery
+
+          CONCLUSION
+  ========================================================
+
+
+
+  INTRODUCTION
+
+ The U.S. software industry is facing the challenges of more
+ sophisticated  network  environments,  greater competition,
+ increasingly dominant players and, at least in the PC  seg-
+ ment, substantial price cuts, with resulting lower margins.
+ More software than ever before must  be  distributed  on  a
+ high   volume,  mass-marketed  basis.  High-end  commercial
+ software has been the most resistant to  price  cuts  while
+ workstation  and PC software prices continue to trend down-
+ ward.  Other important challenges which impact the foresee-
+ able future include the evolution of distributed processing
+ aspects of today's client/server computing to more  compli-
+ cated global enterprise-wide distributed computing.
+
+ At the  same  time,  the  scope  and  nature  of  available
+ software  products  are  ever  expanding.  They  range from
+ graphical user interfaces familiar to PC users to  applica-
+ tions  programs  like  mass-market  spreadsheets,  to  more
+ sophisticated software used to design integrated  circuits.
+ Less obvious is embedded software, critical to equipment in
+ locations as disparate as the factory floor and a  doctor's
+ office.  In  fact,  instruments  and  devices  of all types
+ depend more and more on software because software  provides
+ the flexibility to meet the needs of a variety of users.
+
+ These changing business conditions continue  to  impact  on
+ the direction of the software industry and software licens-
+ ing  practices.   The  result  is  more  flexible   license
+ arrangements for all types of software. Licensing practices
+ must be constantly monitored so they fit  this  real  world
+ business  environment.  In particular, licensing approaches
+ must match changing network usage  and  evolve  toward  the
+ vision  of  the  virtual  corporation  in  the  information
+ infrastructure.
+
+ Vendor and user consortiums, such as Open Users Recommended
+ Solutions  (OURS)  in  New  York and Microcomputer Managers
+ Association  (MMA),  are  addressing   software   licensing
+ issues.  Both groups have prepared papers to educate vendor
+ and user communities on such issues.  There have been  many
+ stories  in the media about user/vendor licensing issues. A
+ recent proposed Information Week survey identified  product
+ pricing,  scope of permitted use limitations and the impact
+ of the following licensee business changes  as  having  the
+ greatest potential for user/vendor disagreements:  acquisi-
+ tion of a licensee, outsourcing of a  licensee's  computing
+ facility and hardware platform changes.
+
+
+
+ OBSERVATIONS
+
+ Following are our observations on current and future trends
+ in  software  licensing practices, particularly in the U.S.
+ Certain international issues are also addressed because  of
+ the  trend  toward  global  computing  environments and the
+ importance of overseas revenues to the U.S. software indus-
+ try.
+
+
+ Network Licensing
+
+ License agreements and related pricing must  be  consistent
+ with  current  network  environments.  The proliferation of
+ networks is causing licensing practices to evolve even fas-
+ ter  to accommodate both users' and vendors' needs. Current
+ primary network licenses are concurrent use,  site,  enter-
+ prise, and node. Concurrent use licenses authorize a speci-
+ fied  number  of  users  to  access  and  execute  licensed
+ software at any time. Site licenses authorize use at a sin-
+ gle site but are losing favor to enterprise  licenses  that
+ cover  all  sites within a corporation because of more vir-
+ tual computing environments.  Node  licenses  are  becoming
+ less  appropriate  in  the client/server environment, since
+ the licensed software may  be  used  only  on  a  specified
+ workstation  which a user must log on to in order to access
+ and execute the application.
+
+ Use measurement software (``license manager'') is  allowing
+ vendors to be more flexible in licensing arrangements. This
+ management software monitors and restricts  the  number  of
+ users or clients who may access and execute the application
+ software at any one time. This is important so a user  pays
+ only  for  needed  use and a vendor can monitor such use to
+ protect intellectual property.
+
+ License manager software can generate reports covering such
+ items  as the number of users waiting to use an application
+ at a given time, the number of users accessing an  applica-
+ tion  at  a  given time, the client they are accessing them
+ from, and the dollar cost of software in  use  at  a  given
+ time.  These  reports  can  help identify changes needed in
+ software procurement approaches. Asset-management software,
+ which helps track the inventory of software used in a busi-
+ ness, has also  become  an  important  tool.  The  software
+ inventory  identified  in  an  audit can be reconciled with
+ purchasing records and illegal copies removed.
+
+ Other innovative, use-related  approaches  have  also  been
+ welcomed   by   users,  such  as  currency-based  licenses.
+ Currency-based licensing provides a user with  a  specified
+ monetary  amount  of  software licenses, i.e., licenses for
+ different business application software,  so  long  as  the
+ total  value  in  use at a given time is less than dollars.
+ Users would also like platform-independent licensing  under
+ which  one license permits software to be used on a variety
+ of different computer systems within a business, instead of
+ buying  a  different  license  for each version of the same
+ software used by different systems.
+
+
+ Distributed-Processing Licensing
+
+ Licensing  for  client/server  and  distributed  processing
+ environments  must  become  even more flexible. Distributed
+ processing may ultimately create a seamless virtual  global
+ computing  environment  in  which  new licensing approaches
+ will be needed. More flexible licensing  schemes  that  are
+ easier  to  administer  will  be  needed  for  the  growing
+ client/server  and  distributed  processing   environments.
+ Keeping  track  of  which  software  is licensed for use by
+ ``x'' number of users can be a full time job. The shift  to
+ client/server  computing  is  the most significant trend in
+ the software industry today.  This  shift  will  ultimately
+ move toward enterprise wide, peer-to-peer, distributed pro-
+ cessing environments. Eventually, any platform may be  able
+ to function as a client or server.
+
+ Microsoft recently announced a new pricing policy for  Back
+ Office,  a suite of integrated network, e-mail and database
+ applications, in which servers  and  clients  are  licensed
+ independently. Customers obtain a single server license for
+ each server and a single  license  for  each  client.  Most
+ current  licensing  practices  assume  that  a client needs
+ access to only one server and, therefore, client and server
+ pricing  is  bundled  together. This requires a user to pay
+ extra when a client may access more than  one  server.  The
+ new  pricing  model is intended to reflect the move to more
+ distributed computing  environments  by  separating  client
+ access  from  the server so a user pays only for additions,
+ either more clients or more servers. In addition, the avai-
+ lability  of such a suite provides the benefit of buying an
+ integrated set of applications from a single vendor.
+
+ At present, vendors try  to  be  very  specific  about  the
+ number  of users per server because that is the price meas-
+ urement mechanism  generally  available  today.  Users  are
+ seeking  actual  usage pricing within a distributed network
+ rather than hardware-dependent pricing schemes. Many  users
+ want  pricing  to  be  on the basis of a software product's
+ overall business value, i.e., actual usage levels, not  the
+ number  of  servers, concurrent users or size of the CPU on
+ which it runs.
+
+ Other than, perhaps the act of  access  and  time  of  use,
+ there  is no standard definition of ``usage'' nor the means
+ to measure such usage on a real-time  basis  in  a  network
+ environment. There also are no pricing models. For example,
+ current license managers  monitor  and  restrict  how  many
+ users  may have access to and execute an application at any
+ one time. Elements of value beyond mere access  would  have
+ to  be  defined to measure usage for billing purposes. Dif-
+ ferent applications would likely have both common  elements
+ and  distinct  elements  of value. Common elements could be
+ frequency of access and time of use. Distinct elements,  on
+ the  other hand, could be the frequency of the execution of
+ an algorithm (in a design application, for  example)  or  a
+ module  and  would differ from product to product. The bil-
+ ling formula would likely be a combination  of  such  value
+ factors,   probably   with   different   weights.    Global
+ enterprise-wide software access and  use  requirements  may
+ make such technical capability a necessity. One approach is
+ to incorporate management capabilities  directly  into  the
+ network  operating system. Such functions must be invisible
+ to the user and not cause any delay in application  perfor-
+ mance.  Novell  has  announced software metering as part of
+ its NetWare strategy.
+
+
+ Evolving Pricing Models
+
+ License pricing models are evolving at  the  same  time  as
+ computing  environments are changing. User and vendor pric-
+ ing requirements must be balanced so that new, as  well  as
+ existing licensing approaches result in enough working cap-
+ ital for R&D  for  the  development  of  new  and  enhanced
+ software  products.  Flexible  software  licensing  pricing
+ needs to develop in ways that optimize bottom-line profita-
+ bility   for  both  vendors  and  users.  From  a  vendor's
+ viewpoint, the business issue is whether the pricing models
+ result  in  enough  revenue  to fund the next generation of
+ products. Revenue and profit estimates are  more  difficult
+ to  project in the changing computing environments. Revenue
+ pressure is also causing some vendors to consider  shifting
+ from  the  present widely-used model of a perpetual license
+ fee with about fifteen percent recurring maintenance  reve-
+ nues to other models with greater recurring revenues.
+
+
+ Object-Level Licensing
+
+ Licensing must go  beyond  the  application  level  to  the
+ object  level  for  business  and  multimedia applications.
+ License managers to monitor and restrict use will be needed
+ which permit licensing at the object or module level rather
+ than at the entire application level. This is  particularly
+ important for objects which can be used for multimedia con-
+ tent.
+
+
+ Shrinkwrap Licensing
+
+ The use of shrinkwrap licenses is growing. Software vendors
+ are  increasing  the use of shrinkwrap licenses (as opposed
+ to  a  signed  agreement)  on  PC  and  other   mass-market
+ platforms. The concept is that the license terms are deemed
+ accepted once the user breaks a shrinkwrap seal or opens  a
+ sealed  envelope  containing  the  software.   As explained
+ below, this probably  does  not  establish  an  enforceable
+ agreement  in most cases. Competitors' actions, the comput-
+ ing platform, the nature of licensed use and price are  key
+ factors  in this consideration. Users' procurement policies
+ may create an upper dollar limit  for  shrinkwrap  transac-
+ tions  as  opposed  to signed agreements. From the vendor's
+ side, we have observed the use of the  shrinkwrap  approach
+ up to a $50,000 price point.
+
+
+ Sales Not Licenses
+
+ Many shrinkwrap transactions are sales not  licenses.  More
+ software  transactions  are intended to be sales. The basic
+ legal concept is that any purported license agreement which
+ is  introduced  after  the sale has been consummated is not
+ enforceable. No major mass-market software  vendor  appears
+ to  have a shrinkwrap license visible on the outside of its
+ packaging. Some have a 1 or 2 line license  notice  on  the
+ outside of the package while others have nothing visible on
+ the outside but do have a license inside the  box.  Due  to
+ the multiple ways that such software can be ordered (retail
+ store, catalog, telemarketing, preinstalled,  etc.),  there
+ is a high likelihood that a court would treat many of these
+ transactions as sales rather than ``licenses.'' Video  game
+ companies  pioneered  the  sale  of units of their software
+ products. Many lower-priced application  software  packages
+ are  also  distributed  without  any attempt to implement a
+ license agreement. The consequence of the transaction being
+ a sale is that the scope of use and other customer restric-
+ tions in  shrinkwrap  licenses  are  not  enforceable,  and
+ attempts  to  limit warranties and liabilities are probably
+ not effective.
+
+
+ Intellectual Property Protection
+
+ Statutory intellectual  property  protection  is  extremely
+ important.  Only statutory intellectual property protection
+ (patent, copyright, trademark) is possible when software is
+ sold  rather  than licensed since no agreement is needed to
+ implement such protection. Trade secret protection  is  not
+ feasible  for  software  in  the  increasingly larger mass-
+ market because there is no enforceable confidentiality con-
+ tractual  provision and, in some cases, the sheer number of
+ copies distributed. In other markets, the trade secret pro-
+ vision  is  often  negotiated  when  a  signed  license  is
+ employed, which slows down the sales cycle. Therefore, ven-
+ dors  more  critically evaluate whether to try to implement
+ trade secret protection. Patent  and  copyright  protection
+ are often acceptable alternatives.
+
+
+ Software Performance Risks
+
+ While statutory intellectual property  protection  provides
+ proprietary  protection,  insurance  is the possible safety
+ net  for  potential  liability  for  mass-market  software.
+ Errors  and  omissions  (``E&O'') insurance for performance
+ risks is the only certain safety net  available  for  mass-
+ market software, since either no signed agreement is possi-
+ ble or a shrinkwrap license containing a limitation of lia-
+ bility  may  not  be  enforceable.  Insurance is growing in
+ importance as more complex software  products  are  distri-
+ buted  by  mass-market  methods.  For example, consider the
+ risk level of a word processing package as  compared  to  a
+ computer-aided design package.
+
+
+ Volume Licenses
+
+ Corporate customers want some type of volume  licenses  for
+ widely-used  PC  applications.  Corporate  and  other major
+ software users want volume licenses of some type (including
+ enterprise  and  site licenses) for widely-used PC applica-
+ tion software such as  word  processing  and  spreadsheets.
+ They also desire value-added services in such arrangements.
+ These multi-copy arrangements help reduce the incidence  of
+ piracy  of  such  applications.  Vendors  continue  to make
+ application suites  (discounted  bundles  of  applications)
+ attractive with volume licensing programs. Flexible licens-
+ ing of software suites is also providing users a choice  of
+ which applications in the suite to deploy from a CD-ROM.
+
+
+ Signed Licenses
+
+ Signed license agreements are generally more user friendly.
+ Even  when  a  signed  license  agreement is employed, such
+ agreements tend to be more readable, user friendly and bal-
+ anced  in  risk allocation between the vendor and user than
+ ever before. Reductions in software prices and  competition
+ in  most  software  industry segments have created the need
+ for simplification. The business goal is to reduce the cost
+ and  time  of  the  negotiation  phase  of the sales cycle.
+ While some negotiation may always be required, the strategy
+ is  to  minimize it by improving the chances of receiving a
+ customers' positive response to a standard agreement.
+
+
+ Patent Infringement Risks
+
+ The patent infringement risk is generally allocated to  the
+ vendor  who puts software into distribution channels. Major
+ software vendors are building patent portfolios of software
+ related  inventions  for  both offensive and defensive pur-
+ poses. A portfolio  can  be  used  defensively  for  cross-
+ licensing and to otherwise fend off or reduce the impact of
+ infringement claims.  While  vendors  carefully  craft  and
+ qualify  intellectual  property indemnities in most license
+ agreements,  particularly  with  respect  to  patents,  the
+ bottom-line  commercial  reality  is  that users will force
+ vendors  to  provide  a  reasonable  degree  of  protection
+ against  patent,  copyright, and trade secret claims in the
+ geographical territory where the software will be  used  or
+ distributed.
+
+
+ Specific License Agreements
+
+ Major U.S. companies are leveraging their software purchas-
+ ing power more effectively. Some Fortune 500 U.S. companies
+ insist on using their own end use software  license  agree-
+ ment forms if a vendor wants to do business with them. This
+ business practice is also being imposed by some  big  Euro-
+ pean companies but (as yet) not by Japanese companies.
+
+
+ Damage Limitations
+
+ Users are negotiating proposed damage limitation caps  more
+ aggressively. Vendors try to limit possible damages through
+ two types of contractual provisions; a disclaimer  of  cer-
+ tain types of damages (such as consequential damages) and a
+ maximum dollar amount limit on  liability  (a  ``cap'').  A
+ disclaimer  of consequential damages is still acceptable in
+ a negotiated license agreement in almost all instances.  On
+ the  other  hand,  a cap on the vendor's total liability in
+ the  amount  of  the  license  fee  is  more  difficult  to
+ implementhat  is,  ``Licensor's  total liability under this
+ Agreement will be limited to the license fee.''  Some  mul-
+ tiple of the fee is often the compromise reached. Even when
+ a cap is negotiated, most  discerning  licensees  will  not
+ agree  to  apply  it  to intellectual property infringement
+ indemnities.
+
+
+ Performance-Warranty Disclaimers
+
+ ``AS IS'' transactionsthat is, without any performance war-
+ ranty,  are the exception in commercial transactions. Users
+ want vendors to  stand  behind  their  product  performance
+ representations.   Vendors usually offer a limited software
+ performance warranty for a specified period with  reference
+ to  user documentation or specifications. For example, com-
+ pare the following two licenses:
+
+``THE SOFTWARE IS PROVIDED `AS IS' WITHOUT WARRANTY OF  ANY
+  KIND, EXPRESS, IMPLIED OR OTHERWISE.''
+
+``Licensor  warrants  that  during  the  ninety  (90)  days
+  following  delivery  to Licensee:  (i)  the Software will
+  perform in accordance with its then current  User  Manual
+  in all material respects; and (ii) the storage media con-
+  taining the Software will be free from defects in materi-
+  als and workmanship.''
+
+
+
+ Virus Protection
+
+ More customers are asking software vendors for  a  warranty
+ of ``virus free'' software. For example:
+
+``Vendor warrants that the Software  contains  no  computer
+  viruses  or other contaminants, including but not limited
+  to any code or instructions that may be used  to  modify,
+  damage or disable Licensee's computer system.''
+
+ While there is more antivirus software available, this risk
+ is  more  difficult  for vendors to manage than performance
+ risk because of the difficulty in detecting viruses.
+
+
+ Open Systems Issues
+
+ Open system issues are much more important in the work sta-
+ tion  and mainframe markets. Compatibility, portability and
+ migration paths may be important factors in a buy  decision
+ for  software.  The  license  agreement may have to address
+ these issues, including pricing implications.
+
+
+ Shareware and Freeware Licensing
+
+ Standard license rights provisions  should  be  established
+ for  shareware and freeware to provide more certainty about
+ deployment rights and obligations. Simplicity is not always
+ helpful.  Industry groups should establish a set of routine
+ licensing  rights  and  obligations  for  low  or  no  cost
+ software.  The  simplicity  in  how  rights  are  presently
+ granted results in too much uncertainty because any  rights
+ not expressly granted by a licensor are reserved. For exam-
+ ple:  ``Permission to use, copy,  modify,  distribute,  and
+ sell this software and its documentation for any purpose is
+ hereby granted without any fee,  provided  that  the  above
+ copyright  notices and this permission notice appear in all
+ copies of the software and related  documentation.''   This
+ language  is  clearer than most but since the right to ter-
+ minate the grant may be a reserved right, continuing use is
+ unpredictable.  A  business  cannot deploy such software in
+ important applications either internally or in a commercial
+ product  under  such  circumstances.  Two sets of licensing
+ practices could be established; one for internal  use  only
+ and  the  other  for  commercial  distribution. The routine
+ practices would cover copying, modification, network rights
+ and  permitted distribution.  There would be no performance
+ or no noninfringement warranty or indemnity because of  the
+ low  or no cost aspect of the transaction.  A user can test
+ performance  but  would  remain  at  risk  on  infringement
+ issues. No termination of rights would be permitted so long
+ as the activities were within those authorized.  Once  such
+ practices  are  established,  the software owner could keep
+ the grant simple: ``This software may be used for  internal
+ purposes  as specified in the X Association licensing prac-
+ tices.''  The owner could also specify  exceptions  to  the
+ set of rights and obligations.
+
+
+ International Transactions
+
+ International transactions are an essential source of reve-
+ nue.  Greater percentages of vendor revenue are coming from
+ international sales as opposed  to  domestic  transactions.
+ The U.S. is the world's largest software exporter. Overseas
+ sales of PC software totaled about $2.5  billion  in  1993,
+ according to the Software Publisher's Association. Interna-
+ tional transactions require vendors to have more  knowledge
+ of local licensing legal requirements such as the EC direc-
+ tive on copyright protection for software and  of  interna-
+ tional payment mechanisms such as letters of credit. The EC
+ interpretation of copyright law's ``first  sale  doctrine''
+ may  cause  a  shift  from  perpetual  licenses  to  annual
+ licenses to prevent a ``license' from becoming a sale. Some
+ vendors  differentiate  between U.S. and foreign markets by
+ continuing to obtain signed licenses in foreign markets for
+ enforceability  reasons  even  when a shrinkwrap is used in
+ the U.S.
+
+
+ Electronic Delivery
+
+ Licensing approaches must accommodate the  emerging  market
+ requirement  for  electronic  delivery of software. Current
+ practices of  distributing  software  must  change  as  the
+ economic   need   for  conducting  business  in  cyberspace
+ enfolds. The software industry may shift to commercial dis-
+ tribution  systems  in which networks link software vendors
+ and users to distribute all  types  of  software.  Software
+ delivery  and  licensing  will  increasingly be implemented
+ through  networks  including  the  Internet.  Networks  are
+ already  being  used  for  the  delivery  and  licensing of
+ demonstration copies of  software,  and  some  vendors  are
+ delivering actual release copies. IBM, for example, report-
+ edly is planning a service that would  allow  customers  to
+ order,  receive and distribute software over its IBM Global
+ Network and through online services such as Prodigy and the
+ Internet. E-mail has become a widely-used means of software
+ maintenance  communications.    Electronic   delivery   and
+ licensing are components of a future integrated license and
+ asset management tool. That software tool will be the  ena-
+ bling  utility  for  distributing  software, monitoring and
+ billing for software use charges and for preventing piracy.
+ It  will  provide more use flexibility and management capa-
+ bility for users while helping vendors protect their intel-
+ lectual property.
+
+
+
+ CONCLUSION
+
+ In summary, both users and vendors must make adjustments as
+ computing  environments  evolve. Vendors need to offer more
+ flexible licensing options that fit the  evolving  environ-
+ ments  and also protect their intellectual property. On the
+ other hand, pricing for such options must be balanced in  a
+ way  that  the U.S. software industry continues to generate
+ the revenues needed to fund R&D and to retain its advantage
+ over  foreign  competition.  America's edge in software and
+ overseas sales of information technology, a key  factor  in
+ its  recent  replacement  of Japan as the world's most com-
+ petitive economy, is critical to economic viability in  the
+ future.
+

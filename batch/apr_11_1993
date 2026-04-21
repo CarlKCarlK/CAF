@@ -1,0 +1,3645 @@
+From caf-talk Caf Apr  5 00:23:05 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: mtn4583@silver.sdsmt.edu (Ty Naus)
+Subject: Re: U. of Washington AUP
+Message-ID: <9304050422.AA09454@silver.sdsmt.edu>
+Date: Sun, 4 Apr 1993 16:22:50 GMT
+
+
+Concerning the flaming issue of Carl and the University of Wasington...
+I don't see it as being a "flame" at all.  If Carl had attacked a person
+directly, and had included every name not-suited for networks, then I would
+consider it a flame.  From my perspective, as an unaffected outside viewer of
+the situation, I saw Carl's posts as being informative and to the point.  Sure,
+he wasn't trying to impress the subscribers of this group with profound e
+"netequitte", but maybe sometimes there is a need for things such as this to
+bring the real issues into the light.
+
+If my memory serves me correctly, the issue is a disregard for computer privacy
+(someone correct me if I am wrong).  Maybe the reason that it is being inter-
+preted as a flame is that it may mean a loss in the academic business of the
+said university.  I view it like this.... if people hadn't of flamed Exxon
+for the accident in Valdeaze (sp?), Alaska, then they might not have been as
+inclined to address the situation, and sort out the truths from the lies.
+
+mtn4583@silver.sdsmt.edu
+
+P.S.  Feel free to "flame" me... I enjoy it  :)
+
+From caf-talk Caf Apr  5 09:04:47 1993
+From: s_titz@ira.uka.de (Olaf Titz)
+Newsgroups: alt.sex,news.admin.policy,comp.admin.policy,alt.comp.acad-freedom.talk,comp.security.misc
+Subject: Fake anon posting, Macs in dorms etc
+Date: 5 Apr 1993 13:03:09 GMT
+Message-ID: <1ppamd$9oh@nz12.rz.uni-karlsruhe.de>
+
+Note redirected followups. Sorry for the big quoting, but it is
+necessary to get the context.
+
+In article <C4tn8G.GGD@andy.bgsu.edu> hreutte@andy.bgsu.edu (Jean-Luc for you counselor just Jean-Luc) writes:
+> julf@penet.fi (Ze Julf) writes:
+> >This faked posting was brought to my attention. As you can see from the
+> >headers, this message did *not* orginate from anon.penet.fi, but is a (rather
+> >clumsy) forgery posted from either andy.bgsu.edu or m64-135.bgsu.edu. It just
+> >illustrates how easy it is just as easy to abuse the network without any
+> >anonymous servers.
+
+> >> Newsgroups: alt.sex
+> >> Path: ...!magnus.acs.ohio-state.edu!bgsuvax!m64-135.bgsu.edu!user
+> >> From: AN18656@ANON.PENET.FI. (Mo-dog )
+> >>[Stupid trash, the sort you want to hide your identity for]
+
+> Julf is right!
+> This is a fake anon message, posted from Bowling Green State University,
+> Bowling Green, Ohio, USA.
+> Unfortunately there are many MacIntoshs in the undergraduate dormitories that
+> are connected directly to andy.bgsu.edu, the BGSU usenet connection and
+> require NO user authorization or user ID. Among many of these undergraduate
+> residents and their friends it is common 'cool thing to do', to post all kinds
+> of offending articles on the net. Usually these articles are about football and
+> college basketball ("Your team sucks, mine is the greatest") but recently there
+> have been more and more posts like the one above.
+
+> Why they allow access to the net without an user ID remains a mystery to me!
+
+It's simple: On the Net level, there is no such thing as a User ID.
+Since a Macintosh, unlike Unix or VMS, doesn't provide for User IDs by
+itself, you can enter just anything into the appropriate field on all
+Mac newsreaders - i.e. every user can define hir own From: lines.
+
+The only means to stop this would be to cut off IP access from those
+machines, but that is most probably disruptive to normal operation.
+
+> What to do about it?
+> I don't know. I think it is best to ignore these posts, even if they are
+> obviously written by rather racistic students like the one above...
+> By the way: these posts from the dormitories can be easily identified by the
+> Mxx-xxx MacIntosh terminal number.
+
+Of course you can, but how does the world know how to?
+(Here we have a similar numbering scheme for the office Macs:
+NBI-UG-MAC12 is Mac #12 in the basement (UG) of the new CS building
+(NBI) and while such numbers at least look suspicious, it's generally
+not possible to tell single-user boxes from multi-user boxes [wrt. OS]
+just by their IP numbers or DNS names...)
+
+Julf has shown how to identify such postings as forgeries - by
+analyzing the Path header (but this requires knowledge about RFC 1036
+and those things, a skill not to be expected from the occasional
+simple user who probably feels most annoyed by such postings.)
+
+My question is now: as I am in great favor of equipping dorms with
+network connections and providing public access terminals (or Macs,
+PCs or other things which don't have user ID) I'd like to know how
+this obvious problem - abuse by news forgeries, or other potential
+abuses based on the absence of user IDs - is handled in other
+places. 
+
+A potential solution would be to firewall the "dangerous" network
+sections, i.e. require every Internet access to run via telnet over a
+trusted (with user IDs) host - but this could, depending on the
+precise situation, be infeasible or undesirable. Furthermore, this can
+probably be circumvented with not much more effort than required for
+the original forgery (with most NNTP servers, providing an arbitrary
+From: line is trivial, and to get aroung the automatic Sender:
+insertion isn't too hard...)
+
+Can anyone suggest better solutions?
+
+Olaf
+-- 
+        olaf titz     o       olaf@bigred.ka.sub.org      voice@49-721-60439
+  comp.sc.student    _>\ _         s_titz@ira.uka.de          praetorius@irc
+karlsruhe germany   (_)<(_)      uknf@dkauni2.bitnet        happy linux user
+what good is a photograph of you? everytime i look at it it makes me feel blue
+
+From caf-talk Caf Apr  5 10:08:59 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: jstewart@alfred.carleton.ca (John Stewart)
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <jstewart.734017933@cunews>
+Date: Mon, 5 Apr 1993 13:52:13 GMT
+
+In <1ppamd$9oh@nz12.rz.uni-karlsruhe.de> s_titz@ira.uka.de (Olaf Titz) writes:
+>My question is now: as I am in great favor of equipping dorms with
+>network connections and providing public access terminals (or Macs,
+>PCs or other things which don't have user ID) I'd like to know how
+>this obvious problem - abuse by news forgeries, or other potential
+>abuses based on the absence of user IDs - is handled in other
+>places. 
+
+Machines which don't perform any form of user authorization should not
+be permitted to post news articles.  In the NNTP access control file, it is
+possible to specify that a machine can read news articles but not post
+articles.
+
+Forcing users to login to a Unix machine to post a message won't eliminate
+the opportunity to forge messages, but it would make it more difficult which
+would likely cut down on the number of forgeries.
+
+-- 
+John Stewart -- Computing and Communications Services, Carleton University
+Internet: jstewart@ccs.carleton.ca or Mr.Canoehead@algonquin.carleton.ca  
+"This ad was paid for by the Liberal party of Canada, desperate to get back
+into power!" -- CBC radio comedy "Double Exposure"
+
+From caf-talk Caf Apr  5 15:12:26 1993
+From: Antitrack@fm11pc02.tu-graz.ac.at (Antitrack of Legend)
+Newsgroups: misc.legal.computing,alt.comp.acad-freedom.talk
+Subject: Re: Can the admin look at my files?
+Date: 5 Apr 1993 19:01:44 GMT
+Message-ID: <Antitrack.19.0@fm11pc02.tu-graz.ac.at>
+
+  
+Same thing happened to me. Since then, I'm encoding all my files and emails,
+and never had a problem since then. This is a bit cumbersome, but the 
+cheap way of solving problems.
+
+	Alex
+
+
+From caf-talk Caf Apr  5 15:52:21 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: nagle@netcom.com (John Nagle)
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <nagleC50zt4.KwE@netcom.com>
+Date: Mon, 5 Apr 1993 19:36:39 GMT
+
+jstewart@alfred.carleton.ca (John Stewart) writes:
+>Machines which don't perform any form of user authorization should not
+>be permitted to post news articles.  In the NNTP access control file, it is
+>possible to specify that a machine can read news articles but not post
+>articles.
+
+      Has NNTP been Kerberized yet?  That seems an obvious step.
+
+					John Nagle
+
+From caf-talk Caf Apr  5 17:35:43 1993
+From: andrewt@csd4.csd.uwm.edu (Andrew Terrance Trembley)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: Fake anon posting, Macs in dorms etc
+Date: 5 Apr 1993 21:34:43 GMT
+Message-ID: <1pq8ljINNro4@uwm.edu>
+
+From article <1ppamd$9oh@nz12.rz.uni-karlsruhe.de>, by s_titz@ira.uka.de (Olaf Titz):
+<<comments about forged messages... by several people about forged postings
+  summary: with various PCs with direct internet access, it's possible to
+           post and leave from/reply-to line which is not your own.>>
+
+> The only means to stop this would be to cut off IP access from those
+> machines, but that is most probably disruptive to normal operation.
+
+> Julf has shown how to identify such postings as forgeries - by
+> analyzing the Path header (but this requires knowledge about RFC 1036
+> and those things, a skill not to be expected from the occasional
+> simple user who probably feels most annoyed by such postings.)
+
+This isn't that difficult.  Just set your newsreader to display the path
+header, if the last item in the bang(!) list is not "anon" then it's not
+from anon.penet.fi.  I've been dropping notes to Julf whenever I see
+something suspicious.  If your newsreader doesn't display the path, pipe the
+file to MORE which will.
+
+> 
+> My question is now: as I am in great favor of equipping dorms with
+> network connections and providing public access terminals (or Macs,
+> PCs or other things which don't have user ID) I'd like to know how
+> this obvious problem - abuse by news forgeries, or other potential
+> abuses based on the absence of user IDs - is handled in other
+> places. 
+> 
+> A potential solution would be to firewall the "dangerous" network
+> sections, i.e. require every Internet access to run via telnet over a
+> trusted (with user IDs) host - but this could, depending on the
+> precise situation, be infeasible or undesirable. Furthermore, this can
+> probably be circumvented with not much more effort than required for
+> the original forgery (with most NNTP servers, providing an arbitrary
+> From: line is trivial, and to get aroung the automatic Sender:
+> insertion isn't too hard...)
+> 
+> Can anyone suggest better solutions?
+> 
+
+Well, here at UWM, we've got 25,000 students, and the only way to access
+news is through the CSD4 mainframe (ultrix).  There are macs which are
+connected (IP) to CSD4, but that's a discrete network which has no direct
+access to the internet.  When I want to read my news, I have to telnet into
+CSD4 and login.  No big deal.  The only annoyance is that I only have 2meg
+of account space, and sometimes I want to telnet big files.  Then I just
+drop a note to Computer Services, and they bump my account to make space for
+the information.
+
+-- 
+as always, I'm...	Andy Trembley		andrewt@csd4.csd.uwm.edu
+    S7 b g l- y(-) z n+ o+(+) x a++-- u-(++) j++ B3 t++ w- g k+ s-- r- p
+------------------------ From the Archives of Rev. Ted -----------------------
+    "I'm a man.  I like looking at men.  Does that make me a sexist?"
+
+From caf-talk Caf Apr  5 21:53:00 1993
+From: jstc_ss@troi.cc.rochester.edu (justin m. collins)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <1993Apr6.012745.27142@galileo.cc.rochester.edu>
+Date: 6 Apr 93 01:27:45 GMT
+
+In <nagleC50zt4.KwE@netcom.com> nagle@netcom.com (John Nagle) writes:
+
+>jstewart@alfred.carleton.ca (John Stewart) writes:
+>Machines which don't perform any form of user authorization should not
+>be permitted to post news articles.  In the NNTP access control file, it is
+>possible to specify that a machine can read news articles but not post
+>articles.
+
+At the university of rochester we have macintosh's directly on the
+network (not dorm, but departmental and computing center's) and you can
+read news from any where, but you can only post from certain machines
+that are allowed access.  This works really well.
+
+peace,
+-justin m. collins
+<jstc_ss@troi.cc.rochester.edu>
+
+From caf-talk Caf Apr  5 22:30:04 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <C51HvG.M8M@cantua.canterbury.ac.nz>
+From: Jason Haar <j.haar@csc.canterbury.ac.nz>
+Date: Tue, 6 Apr 1993 02:06:51 GMT
+
+In article <1993Apr6.012745.27142@galileo.cc.rochester.edu> justin m. collins (jstc_ss@troi.cc.rochester.edu) wrote:
+>
+> At the university of rochester we have macintosh's directly on the
+> network (not dorm, but departmental and computing center's) and you can
+> read news from any where, but you can only post from certain machines
+> that are allowed access.  This works really well.
+
+That's what we do here - with an additional feature. What I'm doing is
+promoting desktop (Mac and PC) users to grab nntp readers that are
+"AUTHINFO" aware. This is an extended feature to NNTP which allows the
+server to negotiate access via authentication.
+
+All hosts here have read access, some (big machines) have post access, and
+all the rest have post access if the authenticate themselves first via
+nntp's authinfo.
+
+ --
+
+Cheers
+
+Jason Haar, Network Consultant
+
+From caf-talk Caf Apr  6 03:46:49 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: evansmp@uhura.aston.ac.uk (Mark Evans)
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <1993Apr6.073730.28794@aston.ac.uk>
+Date: Tue, 6 Apr 1993 07:37:30 GMT
+
+Olaf Titz (s_titz@ira.uka.de) wrote:
+: 
+: Julf has shown how to identify such postings as forgeries - by
+: analyzing the Path header (but this requires knowledge about RFC 1036
+: and those things, a skill not to be expected from the occasional
+: simple user who probably feels most annoyed by such postings.)
+: 
+: My question is now: as I am in great favor of equipping dorms with
+: network connections and providing public access terminals (or Macs,
+: PCs or other things which don't have user ID) I'd like to know how
+: this obvious problem - abuse by news forgeries, or other potential
+: abuses based on the absence of user IDs - is handled in other
+: places. 
+
+Well one thing would be to run multi-user OS's on the machines,
+however with such machines some hardware mods would be needed
+to prevent someone simply booting from floppy.
+(but then sun's are not much more secure if someone can gain
+acces to the machine)
+
+: 
+: A potential solution would be to firewall the "dangerous" network
+: sections, i.e. require every Internet access to run via telnet over a
+: trusted (with user IDs) host - but this could, depending on the
+: precise situation, be infeasible or undesirable. Furthermore, this can
+: probably be circumvented with not much more effort than required for
+: the original forgery (with most NNTP servers, providing an arbitrary
+: From: line is trivial, and to get aroung the automatic Sender:
+: insertion isn't too hard...)
+
+
+You could possibly just firewall the mail.
+All mail goes through one machine, with smtp connections from other machines
+blocked by a router. 
+
+Also incoming mail goes through the same machine. Also quite useful,
+since someone need only connect (or nfs mount) one machine to read
+all their mail.
+
+--
+-------------------------------------------------------------------------
+Mark Evans                                   |evansmp@uhura.aston.ac.uk
++(44) 21 429 9199  (Home)                    |evansmp@cs.aston.ac.uk
++(44) 21 359 6531 x4039 (Office)             |
+
+From caf-talk Caf Apr  6 17:32:50 1993
+From: eoliver@ralph.cs.haverford.edu (Erik Oliver)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <1ppm6i$n7o@venus.haverford.edu>
+Date: 5 Apr 93 16:19:30 GMT
+
+I think this very problem of using a Mac/PC with a fake
+username/mailname is exactly the reason why we have Computer Center
+personel in charge of the INTERNET connection.  For example, if you
+believed a forged/fake post originated from Haverford, you would do a
+whois HAVERFORD.EDU, and mail the director of Academic Computing your
+commplaint.  They would take the matter from there, attempting to track
+the person down.  Ultimately, they may not find the person, but they can
+make it an extremely hostile environment to try to forge things in.
+
+Also, the whole net community should encourage makers of PC and Mac
+netnews software to build some kind of authenticating Newsreaders that
+would require passwords from INN.  Thus only authenticated users could
+access your news server.
+
+This would offer another useful degree of security.
+
+-Erik
+
+From caf-talk Caf Apr  6 18:48:10 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: jstewart@alfred.carleton.ca (John Stewart)
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <jstewart.734134952@cunews>
+Date: Tue, 6 Apr 1993 22:22:32 GMT
+
+In <1ppm6i$n7o@venus.haverford.edu> eoliver@ralph.cs.haverford.edu (Erik Oliver) writes:
+>Also, the whole net community should encourage makers of PC and Mac
+>netnews software to build some kind of authenticating Newsreaders that
+>would require passwords from INN.  Thus only authenticated users could
+>access your news server.
+
+Another problem is that many institutions want to avoid the administrative
+overhead of giving each undergraduate student an authorization.  Creating
+and distributing authorizations to each student is time consuming and/or
+expensive and then there are the inevitable calls when someone forgets their
+password.  We did that on our first microcomputer networks, but individual
+authorizations on our Novell networks were dropped a number of years ago.
+As a result, it would be difficult for us to permit posting from our
+microcomputer networks.  
+-- 
+John Stewart -- Computing and Communications Services, Carleton University
+Internet: jstewart@ccs.carleton.ca or Mr.Canoehead@algonquin.carleton.ca  
+"This ad was paid for by the Liberal party of Canada, desperate to get back
+into power!" -- CBC radio comedy "Double Exposure"
+
+From caf-talk Caf Apr  6 19:19:30 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [comp.admin.policy]  Is IRC channel a 'public forum'?
+Message-ID: <C52EzL.JIy@cs.uiuc.edu>
+Date: Tue, 6 Apr 1993 14:02:09 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  6 19:19:30 1993
+From: krol@ux1.cso.uiuc.edu (Ed Krol)
+Subject:  Is IRC channel a 'public forum'?
+Message-ID: <C527A8.40t@ux1.cso.uiuc.edu>
+Date: Tue, 6 Apr 1993 11:15:29 GMT
+
+Our campus policy on free speech vs harassment revolves around
+whether the speaking was done in a public forum (where it would
+be declared free speech and most anything goes) vs a private forum
+where preventing people from holding a meeting could be viewed
+as harassment.
+
+Now here is the question is an IRC channel a public forum or
+a private meeting?  I can give a fictional example to illustrate: 
+
+A channel named the pro-choice channel is created and an anti-abortionist
+essentially comes in and makes it unusable by generating so much
+traffic and hate talk that all the particpants leave.
+
+Did the anti-abortionist disrupt a private meeting or exercise his
+right of free speech?
+
+If this happened on usenet in an unmoderated list we would say tough
+luck free speech.  It couldn't happen on a moderated list (except to the
+moderator which is another issue).  But since a channel can be controlled
+somewhat and you could make the case that this intrudee was not an
+invited guest.
+
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  6 19:19:32 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [comp.admin.policy]  Re: Is IRC channel a 'public forum'?
+Message-ID: <C52F0J.JK3@cs.uiuc.edu>
+Date: Tue, 6 Apr 1993 14:02:43 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  6 19:19:32 1993
+Newsgroups: comp.admin.policy
+Subject:  Re: Is IRC channel a 'public forum'?
+Date: 6 Apr 1993 12:35:02 GMT
+Message-ID: <1prtdm$qbo@nz12.rz.uni-karlsruhe.de>
+
+In article <C527A8.40t@ux1.cso.uiuc.edu> krol@ux1.cso.uiuc.edu (Ed Krol) writes:
+> Our campus policy on free speech vs harassment revolves around
+> whether the speaking was done in a public forum (where it would
+>... 
+> Now here is the question is an IRC channel a public forum or
+> a private meeting?  I can give a fictional example to illustrate: 
+>...
+
+An IRC channel can be designed as a private forum with 
+/mode #channel +i (perhaps +ptsi).
+This would clearly declare it as a private forum, since it requires an
+explicit invitation from the channel op (i.e. the channel creator(s))
+to join. If some other joins without being invited, he exploits a
+software bug or abuses IRC operator status and therefore can be judged
+as disrupting. The channel creators can also ban and boot off any
+person from that channel, thus qualifying the channel for status as
+private place even more.
+
+Since *every* IRC channel can be made private with this commands upon
+cration, I think that other IRC channels (who haven't chosen to run
+private) are public places.
+
+(Besides this obvious technical solution, I am amazed how people try to
+solve every potential conflict with legal means. Perhaps I'm just on
+the wrong side of the Atlantic, but I really don't understand these
+heated debates over the meaning of single words in some laws and
+regulations - I have really good experience with solving most problems
+on an informal level...)
+
+Olaf
+-- 
+        olaf titz     o       olaf@bigred.ka.sub.org      voice@49-721-60439
+  comp.sc.student    _>\ _         s_titz@ira.uka.de          praetorius@irc
+karlsruhe germany   (_)<(_)      uknf@dkauni2.bitnet        happy linux user
+what good is a photograph of you? everytime i look at it it makes me feel blue
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 00:14:17 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [comp.admin.policy]  Re: Is IRC channel a 'public forum'?
+Message-ID: <C53Hv9.JFs@cs.uiuc.edu>
+Date: Wed, 7 Apr 1993 04:01:57 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 00:14:17 1993
+Newsgroups: comp.admin.policy
+Subject:  Re: Is IRC channel a 'public forum'?
+Date: 6 Apr 1993 17:06:43 -0500
+Message-ID: <1psutjINN732@matt.ksu.ksu.edu>
+
+krol@ux1.cso.uiuc.edu (Ed Krol) writes:
+
+>A channel named the pro-choice channel is created and an anti-abortionist
+>essentially comes in and makes it unusable by generating so much
+>traffic and hate talk that all the particpants leave.
+
+>Did the anti-abortionist disrupt a private meeting or exercise his
+>right of free speech?
+
+The IRC medium is a public medium, and most administers will argue
+that there is no such thing as 'channel ownership' on the IRC network.
+For the most part, I agree with this philosophy, and believe anything
+that one says on IRC *is* protected under the same guidelines as, say,
+standing in front of an auditorium or shouting out in a crowd.
+However, even in the 'Real World' there are limitations to these
+freedoms.  
+
+>If this happened on usenet in an unmoderated list we would say tough
+>luck free speech.  It couldn't happen on a moderated list (except to the
+>moderator which is another issue).  But since a channel can be controlled
+           ^^^^^^^^^^^^^^^^^^^^^^
+>somewhat and you could make the case that this intrudee was not an
+>invited guest.
+
+Actually, the question of a moderator being the *cause* of an IRC
+channel's problem *is* a frequent issue when these questions come up.
+To become a 'channel operator', either 1) you must be the one that
+created the channel, or 2) another channel operator must have passed
+this status to you.  If someone gets the channel op status and then
+abuses it, it's generally considered that the fault is with the people
+that gave her the opportunity.
+
+All this aside, channels are pretty well protected against the
+'average' bozo trying to disrupt things.  Anyone can use the 'ignore'
+command if the intruder is being offensive.  Anyone with channel op
+status can use the 'kick' command to boot the offender off the
+channel.  And if she keeps comeing back, anyone with channel op status
+can add her to the ban list, keeping her off the channel until someone
+removes her.  What's more, post channels have the 't' and 'n' flags
+set which keep people from disrupting a channel from outside, and from
+setting the topic without channel op.  There are even more flags that
+can be set for invite only, put a limit on the number of participants,
+channel op moderation, and others.
+
+But even with all these safeguards against casual abuse, IRC is still
+not considered a private medium.  Any determined individual can tap
+into the words being typed, or even break past the electronic barriors
+that protect IRC channels.  It is possible to communicate directly
+from client to client, but this is (as of yet) not implemented very
+well and is still pretty easy to crack.
+
+What all this blils down to is that if the Nth order of Zog wanted to
+hold a meeting using the IRC medium and established servers, they'd
+have about as much privacy as a Nudist Nuns convention in the
+middle of Times Square.
+
+Stratocaster
+
+
+-- 
+	   Steve Davis (I'm a student, not a spokesperson!)
+      strat@cis.ksu.edu - Kansas State University - Manhattan KS
+
+If voting could change anything, they would have made it illegal by now.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 00:14:19 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [comp.admin.policy]  Re: Is IRC channel a 'public forum'?
+Message-ID: <C53HxA.JoD@cs.uiuc.edu>
+Date: Wed, 7 Apr 1993 04:03:10 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 00:14:19 1993
+From: krol@ux1.cso.uiuc.edu (Ed Krol)
+Subject:  Re: Is IRC channel a 'public forum'?
+Message-ID: <C53CIB.GEw@ux1.cso.uiuc.edu>
+Date: Wed, 7 Apr 1993 02:05:56 GMT
+
+I guess the real problem arose because the people who were trying
+to hold the meeting were prevented from doing it by a person (actually
+two) who were irc bombing the channel.  (Using a script to send about
+1000 lines to the channel).  Then the operator kicked the people out
+of the channel and they tryed to mailbomb him personally.
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 00:27:01 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Re: Is IRC channel a 'public forum'?
+Message-ID: <C53I8M.K5M@cs.uiuc.edu>
+Date: Wed, 7 Apr 1993 04:09:58 GMT
+
+krol@ux1.cso.uiuc.edu (Ed Krol) writes:
+
+>I guess the real problem arose because the people who were trying
+>to hold the meeting were prevented from doing it by a person (actually
+>two) who were irc bombing the channel.  (Using a script to send about
+>1000 lines to the channel).  Then the operator kicked the people out
+>of the channel and they tryed to mailbomb him personally.
+
+The U. of Illinois has rules against disruptive and coercive action.
+The standard is substantial interference with the rights of others.
+University agents may act in the performance of their duties to end
+"disorder". Penalties can be imposed after (and only after) a
+disciplinary process.
+
+Here are the potentially relevant parts of the rules (from the Code
+on Campus Affairs):
+
+---start quote---
+
+Conduct for which students are subject to discipline or expulsion
+include, without limitation, knowingly engaging in disruptive or
+coercive action. Disruptive or coercive action include the following:
+
+(1) Participation in a disruptive or coercive demonstration. A
+demonstration is disruptive or coercive if it substantially impedes
+University operations, or substantially interferes with the rights of
+others, or takes place on premises or at times where students are not
+authorized to be. There is no requirement that University authorities
+order students to cease participation in a disruptive or coercive
+demonstration.
+
+[... (2) use of force or violence ...]
+
+(3) Unauthorized entry to or use of property or facilities owned or
+controlled by the University.
+
+[... (4) physical abuse ...]
+
+[... (5) endangering the safety or health of others ...]
+
+[... (6) Theft and vandalism ...]
+
+(7) Failure to comply with direction of a member or agent of the
+University acting in the performance of her or his duty in connection
+with a potential or actual disorder.
+
+(8) Any conduct which substantially threatens or interferes with the
+maintainence of appropriate order and discipline in the operation of
+the University, or any conduct on University property or in connection
+with a University activity which invades the rights of others. Without
+excluding other situation, examples include shouting, noisemaking,
+obstruction and other disruptive actions designed or intended to
+interfere with or prevent meetings, assemblies, classes or other
+scheduled or routine University operations or activities.
+
+(9) Inciting, aiding, or encouraging others to engage in a disruptive
+or coercive action.
+
+When, through the disciplinary process, a student is found to have
+knowingly engage in a disruptive or coercive action, as above defined,
+the penalty will be dismissal or, upon a finding that substantial
+mitigating circumstances exist, suspended dismissal or other sanctions
+or coercive actions.
+[....]
+-----end quote---
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 03:31:21 1993
+Newsgroups: alt.comp.acad-freedom.talk,comp.admin.policy
+From: evansmp@uhura.aston.ac.uk (Mark Evans)
+Subject: Re: [comp.admin.policy]  Is IRC channel a 'public forum'?
+Message-ID: <1993Apr7.072019.6610@aston.ac.uk>
+Date: Wed, 7 Apr 1993 07:20:19 GMT
+
+Carl M Kadie (kadie@cs.uiuc.edu) wrote:
+: [A repost - Carl]
+: 
+: Newsgroups: comp.admin.policy
+: From: krol@ux1.cso.uiuc.edu (Ed Krol)
+: Subject:  Is IRC channel a 'public forum'?
+: Message-ID: <C527A8.40t@ux1.cso.uiuc.edu>
+: Date: Tue, 6 Apr 1993 11:15:29 GMT
+: 
+: Now here is the question is an IRC channel a public forum or
+: a private meeting?  I can give a fictional example to illustrate: 
+: 
+: A channel named the pro-choice channel is created and an anti-abortionist
+: essentially comes in and makes it unusable by generating so much
+: traffic and hate talk that all the particpants leave.
+: 
+: Did the anti-abortionist disrupt a private meeting or exercise his
+: right of free speech?
+
+I think the whole point about free speech is that it ceases to exist
+once one party has prevented others from exercising it.
+: 
+: If this happened on usenet in an unmoderated list we would say tough
+: luck free speech.  It couldn't happen on a moderated list (except to the
+: moderator which is another issue).  But since a channel can be controlled
+: somewhat and you could make the case that this intrudee was not an
+: invited guest.
+: 
+: 
+: -- 
+: Carl Kadie -- I do not represent any organization; this is just me.
+:  = kadie@cs.uiuc.edu =
+
+--
+-------------------------------------------------------------------------
+Mark Evans                                   |evansmp@uhura.aston.ac.uk
++(44) 21 429 9199  (Home)                    |evansmp@cs.aston.ac.uk
++(44) 21 359 6531 x4039 (Office)             |
+
+From caf-talk Caf Apr  7 07:09:53 1993
+From: s_titz@ira.uka.de (Olaf Titz)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: Anonymous Posting, alt groups, and sysoping
+Date: 7 Apr 1993 11:07:37 GMT
+Message-ID: <1puclp$r5u@nz12.rz.uni-karlsruhe.de>
+
+In article <1ptn0e$4rk@merlin.resmel.bhp.com.au> djk@bhppmel.bhp.com.au (David Keegel) writes:
+
+> Can you tell us *why* Georgia Tech does not carry the alt groups?
+> If it is their policy not to allow anyone there access to them,
+> I think it would be wrong for us outsiders to suggest anything which
+> would enable you to break the rules of your organization.
+
+Okay, it is wrong, but your policy then is even more wrong. Of all
+cases that I know, such restrictions (the more global they are, the
+higher the probablilty) are mostly given out of no other reasons than
+the will to 'get things under control', read to get people under
+control. Technical reasons are mostly not given since they are not
+there.
+
+If they for example don't carry the alt groups because of volume/
+storage concerns, they are wrong since not all alt groups are big and
+there are big non-alt groups too. If they say 'alt is all about
+illegal or questionable concerns', they are wrong (mail me for
+references.) And so on.
+
+I suggest following procedure:
+first *talk* to the people responsible. Don't get around the
+restrictions with what could be considered 'disrupting dirty tricks'.
+Ask them about *why* the restrictions are there. If you think they are
+invalid, tell them why. Tell other people with influence in your
+organization too.
+
+If all that fails and all ppl responsible show no understanding of
+*valid* arguments, then you could try to get around.
+
+> If I was a network administrator and found that some dept's users were
+> using NNTP to a foreign country, I would be a *very* unhappy person.
+
+Of technical concerns, I assume, since this sort of around-globe
+access is unnecessary and wasteful. (But just think over the much
+bigger problem of unnecessary FTP, especially in Europe...)
+If it is just of political reasons, you'd better overthink your
+policy.
+
+Olaf
+-- 
+        olaf titz     o       olaf@bigred.ka.sub.org      voice@49-721-60439
+  comp.sc.student    _>\ _         s_titz@ira.uka.de          praetorius@irc
+karlsruhe germany   (_)<(_)      uknf@dkauni2.bitnet        happy linux user
+what good is a photograph of you? everytime i look at it it makes me feel blue
+
+From caf-talk Caf Apr  7 10:18:24 1993
+From: snyderra@dunx1.ocs.drexel.edu (Bob Snyder)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <1993Apr7.131846.27676@netnews.noc.drexel.edu>
+Date: 7 Apr 93 13:18:46 GMT
+
+In article <1ppm6i$n7o@venus.haverford.edu> eoliver@ralph.cs.haverford.edu (Erik Oliver) writes:
+
+>I think this very problem of using a Mac/PC with a fake
+>username/mailname is exactly the reason why we have Computer Center
+>personel in charge of the INTERNET connection.  For example, if you
+>believed a forged/fake post originated from Haverford, you would do a
+>whois HAVERFORD.EDU, and mail the director of Academic Computing your
+>commplaint.  They would take the matter from there, attempting to track
+>the person down.  Ultimately, they may not find the person, but they can
+
+Or, more likely, shutdown unauthenticated posting after the 2nd or 3rd
+problem they have.
+
+Or in some cases, ask what this "Usenet" is, and why the University is
+actively promoting pornography.
+
+Bob
+
+From caf-talk Caf Apr  7 11:04:35 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [comp.admin.policy]  Re: Is IRC channel a 'public forum'?
+Message-ID: <C54C5H.yJ@cs.uiuc.edu>
+Date: Wed, 7 Apr 1993 14:56:05 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 11:04:35 1993
+Newsgroups: comp.admin.policy
+Subject:  Re: Is IRC channel a 'public forum'?
+Date: 7 Apr 1993 09:29:56 GMT
+Message-ID: <1pu6uk$pje@nz12.rz.uni-karlsruhe.de>
+
+In article <1psutjINN732@matt.ksu.ksu.edu> strat@matt.ksu.ksu.edu (Steve Davis) writes:
+
+> But even with all these safeguards against casual abuse, IRC is still
+> not considered a private medium.  Any determined individual can tap
+> into the words being typed, or even break past the electronic barriors
+>...
+> hold a meeting using the IRC medium and established servers, they'd
+> have about as much privacy as a Nudist Nuns convention in the
+> middle of Times Square.
+
+While you are right in the technical sense, this isn't a valid
+argument since tapping into IRC, 'mode hacking' and these things are
+more like lockpicking - it's possible, but that doesn't make it right.
+
+I consider a +ptsi channel private, but don't give in to the delusion
+that this means noone *can* get in - these are different things.
+
+Olaf
+-- 
+        olaf titz     o       olaf@bigred.ka.sub.org      voice@49-721-60439
+  comp.sc.student    _>\ _         s_titz@ira.uka.de          praetorius@irc
+karlsruhe germany   (_)<(_)      uknf@dkauni2.bitnet        happy linux user
+what good is a photograph of you? everytime i look at it it makes me feel blue
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 11:23:47 1993
+From: lind@cit.med.upenn.edu (Janet)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: AUTHINFO aware News readers?
+Message-ID: <lind-070493110708@microlab3.med.upenn.edu>
+Date: 7 Apr 93 15:11:30 GMT
+
+> promoting desktop (Mac and PC) users to grab nntp readers that are
+> "AUTHINFO" aware. This is an extended feature to NNTP which allows the
+> server to negotiate access via authentication.
+
+> all the rest have post access if the authenticate themselves first via
+> nntp's authinfo.
+
+Can anyone recommend specific news readers (Macintosh and/or PC) that *are*
+authinfo aware?
+
+Thanks,
+Janet
+
+Standard Disclaimer.
+
+From caf-talk Caf Apr  7 18:34:47 1993
+From: kbarger@haverford.edu (Kyle Barger)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <1pvf27$cg5@venus.haverford.edu>
+Date: 7 Apr 93 20:54:31 GMT
+
+In article <C51HvG.M8M@cantua.canterbury.ac.nz> Jason Haar,
+j.haar@csc.canterbury.ac.nz writes:
+>What I'm doing is promoting desktop (Mac and PC) users to
+>grab nntp readers that are "AUTHINFO" aware. This is an 
+>extended feature to NNTP which allows theserver to negotiate
+>access via authentication.
+
+That sounds like the best solution yet.  Could you post the names of some
+readers that do AUTHINFO?
+--
+Kyle Barger                  Haverford College Academic Computing
+kbarger@haverford.edu
+
+From caf-talk Caf Apr  7 21:20:48 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.culture.hongkong]  DON"T MOVE TO CANADA
+Message-ID: <C554KC.Axy@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 01:09:47 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 21:20:48 1993
+Newsgroups: soc.culture.hongkong
+Subject:  DON"T MOVE TO CANADA
+Date: 7 Apr 1993 06:05:42 GMT
+Message-ID: <1ptqvmINNq4o@shelley.u.washington.edu>
+
+
+
+This is a anouncement for all the people living in Hongkong:
+
+STAY WHERE YOUR AT AND DON"T RELOCATE TO CANADA!!!!!!!!
+
+IF YOU DON'T LIKE THE LIVING CONDITIONS IN HONGKONG STAY AND CHANGE THEM,
+your a wimp and a loser if you can't stand and fight.
+
+CANADA IS NOT THE PROMISED LAND!!!
+
+Canada has enough people, we don't need anymore especially your kind.
+
+If you didn't breed so much there would be less people in your country.
+
+White CANADIANS don't really want you moving here, it causes an  
+unnecessary change in the demographics.
+
+
+NORTH AMERICAN BROTHERS AND SISTERS UNITE and save the Western  
+Civialization.
+
+The Jammer (An American who loves Canada as it is) 
+  
+
+ 
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 21:20:50 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.culture.canada, et al.]  Re: Offending Post
+Message-ID: <C554o3.B5o@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 01:12:03 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 21:20:50 1993
+Newsgroups: soc.culture.canada,soc.culture.hongkong
+Subject:  Re: Offending Post
+Date: 7 Apr 1993 19:48:40 -0400
+Message-ID: <1pvp8oINN4h5@SALMON.ZOO2.CS.YALE.EDU>
+
+In article <C54yyJ.E12@newsflash.concordia.ca> davec@ECE.Concordia.CA (Dave Chu) writes:
+>In article <1pvgetINN3ur@SALMON.ZOO2.CS.YALE.EDU> yan-dicky@cs.yale.edu (Dicky Yan) writes:
+>>
+>>Yes, I have done the same too. I got a mail from the Director of the 
+>>University Computing Services citing the "freedom of speech" as the
+>
+>     I've also sended the postmaster at U of washington filing a compliant.
+>     I have not received a reply yet, so I'll waiting until I get a official
+>     respond from U of washington before doing anything else.
+>
+>     **  Fantasy mode on (Don't take the following paragraph seriously ***
+>
+>     If I were to get a similar respond as to what Dicky got, I would suggest
+>     doing the following.  Since they like "freedom of speech"[sic.] so much
+>     why don't people on the net who are offened by Jammer's or whoever
+>     posted that article, send to him or sandy messages that are a thousand 
+>     lines long and see how much "freedom of speech" their mail spool 
+>     directory could hold.  My message would be only one line repeated a 
+>     thousand times, and it would read "I like freedom of speech and I don't 
+>     think it would be taken away".
+>    
+>     ** Fantasy mode off (back to reality) **
+>
+>     Please don't anyone try to do what I've just describe because it could
+>     cause havoc on their mail server.  But seriously, if that is their
+>     attitude toward dealing with complaints I would follow it up and
+>     go higher up the food chain at U of washington.
+
+      Yes, please, please, do _not_ send any hate mail to the postmaster at 
+      U-dub. It will not help the situation (and you may also get yourself
+      into trouble since he/she can complain to _your_ postmaster, and it
+      just proves to others that some (unfounded) accusations about HK people
+      are justified.) And as Dave says, if we are not getting anywhere, we 
+      should contact the "higer up" people in U-dub. 
+     
+      Dicky.
+
+      P.S. If anyone is interested, I can send you the reply I get from U-dub.
+      Also, although I do not agree with what sandy told me, his/her reply has
+      be reasonably polite and friendly. There is really no reason at all to
+      send him/her any hate mail. 
+
+
+
+>
+>>reason for them not doing anything about it. 
+>>(His/her e-mail address is: sandy@u.washington.edu)
+>
+>
+
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 21:21:16 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.culture.hongkong]  Re: DON"T MOVE TO CANADA
+Message-ID: <C554KI.Ayv@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 01:09:53 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 21:21:16 1993
+Newsgroups: soc.culture.hongkong
+Subject:  Re: DON"T MOVE TO CANADA
+Date: 7 Apr 1993 05:21:10 -0400
+Message-ID: <1pu6e6INN2ku@SALMON.ZOO2.CS.YALE.EDU>
+
+
+If you find the following post offending, I suggest you write a FRIENDLY 
+mail to the postmaster (e.g. postmaster@shelley.u.washington.edu.
+It seems to me the user address is a forged one.) to complain about it.
+
+I think the Canadians are nice people. It is a pity someone is abusing
+the net to make such posts.  
+
+
+In article <1ptqvmINNq4o@shelley.u.washington.edu> Jammer@michael.u.washington.edu (Reonn Rabon) writes:
+>
+>
+>This is a anouncement for all the people living in Hongkong:
+>
+>STAY WHERE YOUR AT AND DON"T RELOCATE TO CANADA!!!!!!!!
+>
+>IF YOU DON'T LIKE THE LIVING CONDITIONS IN HONGKONG STAY AND CHANGE THEM,
+>your a wimp and a loser if you can't stand and fight.
+>
+>CANADA IS NOT THE PROMISED LAND!!!
+>
+>Canada has enough people, we don't need anymore especially your kind.
+>
+>If you didn't breed so much there would be less people in your country.
+>
+>White CANADIANS don't really want you moving here, it causes an  
+>unnecessary change in the demographics.
+>
+>
+>NORTH AMERICAN BROTHERS AND SISTERS UNITE and save the Western  
+>Civialization.
+>
+>The Jammer (An American who loves Canada as it is) 
+>  
+>
+> 
+>
+
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 21:21:18 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.culture.canada, et al.]  Re: Offending Post
+Message-ID: <C554nC.B2J@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 01:11:35 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 21:21:18 1993
+From: <3225200@QUCDN.QueensU.CA>
+Message-ID: <93097.1511133225200@QUCDN.QueensU.CA>
+Newsgroups: soc.culture.canada,soc.culture.hongkong
+Subject:  Re: Offending Post
+
+A complaint has been filed to the postmaster at U. Washington. I urge others to
+do the same.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 21:21:19 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.culture.canada, et al.]  Re: Offending Post
+Message-ID: <C554nJ.B3I@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 01:11:43 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 21:21:19 1993
+Newsgroups: soc.culture.canada,soc.culture.hongkong
+Subject:  Re: Offending Post
+Date: 7 Apr 1993 17:18:21 -0400
+Message-ID: <1pvgetINN3ur@SALMON.ZOO2.CS.YALE.EDU>
+
+In article <93097.1511133225200@QUCDN.QueensU.CA> <3225200@QUCDN.QueensU.CA> writes:
+>A complaint has been filed to the postmaster at U. Washington. I urge others to
+>do the same.
+
+Yes, I have done the same too. I got a mail from the Director of the 
+University Computing Services citing the "freedom of speech" as the
+reason for them not doing anything about it. 
+(His/her e-mail address is: sandy@u.washington.edu)
+I have written back given him/her my opinion plus urging him/her to trace the
+user who made the post when it is still possible to do so.
+
+
+I wish all of you who find yourself offended by the post send a mail to 
+him/her. I think a short, polite and to the point mail will be most effective.
+
+
+I personally feel that unless it is the policy of the University of Washington
+to allow its members to make use of university facilities to make racist
+remarks in a public forum, they should take action against the poster.
+(e.g. remove his/her right to read/post net news).       
+
+
+If you are from U-dub, can you send me the addresses of the appropriate
+authorities to write to? (e.g. HK/Canadian student associations,
+Public Relations Offices at the university, and the appropriate offices
+regarding racial descrimination.) 
+
+
+If we are not doing anything about this, this kind of racist views will
+only be spread around. Don't wait until it is too late.
+At the same time, I hope everyone will not let what this individual
+has posted change our views about Americans (in the USA) or the Canadians.
+
+Dicky.
+P.S. Sandy also gave me this address to write/call to:
+
+                University of Washington
+                Office of the Ombudsman
+                301 Student Union Building, FK-30
+                Seattle, WA  98195
+                (206) 543-6028
+
+ 
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 21:21:20 1993
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: [soc.culture.canada, et al.]  Re: Offending Post
+Message-ID: <C554nv.B4H@cs.uiuc.edu>
+Date: 8 Apr 93 01:11:54 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 21:21:20 1993
+From: davec@ECE.Concordia.CA (Dave Chu)
+Subject:  Re: Offending Post
+Message-ID: <C54yyJ.E12@newsflash.concordia.ca>
+Date: Wed, 7 Apr 1993 23:08:43 GMT
+
+In article <1pvgetINN3ur@SALMON.ZOO2.CS.YALE.EDU> yan-dicky@cs.yale.edu (Dicky Yan) writes:
+>
+>Yes, I have done the same too. I got a mail from the Director of the 
+>University Computing Services citing the "freedom of speech" as the
+
+     I've also sended the postmaster at U of washington filing a compliant.
+     I have not received a reply yet, so I'll waiting until I get a official
+     respond from U of washington before doing anything else.
+
+     **  Fantasy mode on (Don't take the following paragraph seriously ***
+
+     If I were to get a similar respond as to what Dicky got, I would suggest
+     doing the following.  Since they like "freedom of speech"[sic.] so much
+     why don't people on the net who are offened by Jammer's or whoever
+     posted that article, send to him or sandy messages that are a thousand 
+     lines long and see how much "freedom of speech" their mail spool 
+     directory could hold.  My message would be only one line repeated a 
+     thousand times, and it would read "I like freedom of speech and I don't 
+     think it would be taken away".
+    
+     ** Fantasy mode off (back to reality) **
+
+     Please don't anyone try to do what I've just describe because it could
+     cause havoc on their mail server.  But seriously, if that is their
+     attitude toward dealing with complaints I would follow it up and
+     go higher up the food chain at U of washington.
+
+>reason for them not doing anything about it. 
+>(His/her e-mail address is: sandy@u.washington.edu)
+
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 21:29:52 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.culture.canada, et al.]  Re: Offending Post
+Message-ID: <C554oF.B6M@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 01:12:15 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  7 21:29:52 1993
+Newsgroups: soc.culture.canada,soc.culture.hongkong
+Subject:  Re: Offending Post
+Date: 8 Apr 1993 00:58:51 GMT
+Message-ID: <1pvtcb$6e5@agate.berkeley.edu>
+
+
+I think that guy's correct address should be
+      jammer@shelley.u.washington.edu 
+and if you finger it, you will find his name to be "Timi Delrosario". 
+
+I am afraid that the original poster used a faked address.
+In order to avoid "Killing the wrong person", can someone up
+in UW confirm the background of this guy ? Those who are in
+Computer Sciennce or Math major, please take a search.
+
+If we over-react, such as sending too many e-mails to the postmaster,
+we might make the system administrator angry and hurt the HK
+students in UW.
+
+Since I graduated from UW, I can find out the address of the 
+correct place of sending a complain letter. But the most important
+thing is to CONFIRM who the original poster is.
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 21:50:15 1993
+Newsgroups: soc.culture.canada,soc.culture.hongkong,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Re: Offending Post
+Message-ID: <C555M2.C3J@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 01:32:25 GMT
+
+yan-dicky@cs.yale.edu (Dicky Yan) writes:
+
+[...]
+>I personally feel that unless it is the policy of the University of
+>Washington to allow its members to make use of university facilities
+>to make racist remarks in a public forum, they should take action
+>against the poster.  (e.g. remove his/her right to read/post net
+>news).
+[...]
+
+The way to fight offensive speech and hate speech is to out compete
+it, not to outlaw it. If you outlaw it, you only push it underground,
+if you out compete it, you wither it with the light of reason.
+
+If you outlaw it, you give the authorities the dangerous power to
+decide what is and isn't "offensive". If you out compete it, you
+exercise the power of a free person to search for truth without
+government barriers. (If you live in a country were the authorties can
+be trusted with the power to decide what is and isn't offensive, I
+envy you.)
+
+As the American Association of University Professors says: "On a
+campus that is free and open, no idea can be banned or forbidden.  No
+viewpoint or message may be deemed so hateful or disturbing that it
+may not be expressed."
+
+At state universities in the U.S., free expression is not just a good
+idea; it is the law. The U. of Wisconsin and the U.  of Michigan have
+tried to ban "hate speech". The federal courts said the bans were
+illegal.
+
+I'm enclosing pointers to on-line material on these points. I commend
+those posters who attacked the hateful message rather than the freedom
+that allowed it to be expressed.
+
+- Carl Kadie
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+academic/speech-codes.aaup
+=================
+* Speech Codes (AAUP)
+
+On Freedom of Expression and Campus Speech Codes Expression - An
+official statement of the American Association of University
+Professors (AAUP)
+
+It says in part: "On a campus that is free and open, no idea can be
+banned or forbidden.  No viewpoint or message may be deemed so hateful
+or disturbing that it may not be expressed."
+
+=================
+books/emord,_johnathan_w.3
+=================
+[From _On Liberty_, 1859. This excerpt is quoted on page 121 of
+_Freedom, Technology, and the First Amendment_ by Johnathan W. Emord.]
+
+So what's wrong with suppressing offensive speech? Here is John Stuart
+Mills' answer.
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+* Expression -- Hate Speech -- UWM Post v. U Of Wisconsin
+
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+=================
+law/doe-v-u-of-michigan
+=================
+* Expression -- Hate Speech -- Doe v. U of Michigan
+
+This is Doe v. University of Michigan. In this widely referenced
+decision, the district judge down struck the University's rules
+against discriminatory harassment because the rules were found to be too
+broad and too vague.
+
+=================
+caf
+=================
+* About the CAF mailing lists (and newsgroups)
+
+A description of the comp-academic-freedom-talk mailing list. It is a
+free-forum for the discussion of questions such as: How should general
+principles of academic freedom (such as freedom of expression, freedom
+to read, due process, and privacy) be applied to university computers
+and networks? How are these principles actually being applied? How can
+the principles of academic freedom as applied to computers and
+networks be defended?
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/academic/speech-codes.aaup
+  pub/academic/books/emord,_johnathan_w.3
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/doe-v-u-of-michigan
+  pub/academic/caf
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/academic speech-codes.aaup
+send acad-freedom/books emord,_johnathan_w.3
+send acad-freedom/law uwm-post-v-u-of-wisconsin
+send acad-freedom/law doe-v-u-of-michigan
+send acad-freedom caf
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 21:50:17 1993
+Newsgroups: soc.culture.canada,soc.culture.hongkong,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Re: Offending Post
+Message-ID: <C555rG.C7w@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 01:35:39 GMT
+
+davec@ECE.Concordia.CA (Dave Chu) writes:
+
+[...]
+>     **  Fantasy mode on (Don't take the following paragraph seriously ***
+>
+>     If I were to get a similar respond as to what Dicky got, I would suggest
+>     doing the following.  Since they like "freedom of speech"[sic.] so much
+>     why don't people on the net who are offened by Jammer's or whoever
+>     posted that article, send to him or sandy messages that are a thousand 
+>     lines long and see how much "freedom of speech" their mail spool 
+>     directory could hold.
+[...]
+
+Substantially distruptive activities can be banned in the U.S. as long
+as the ban is content neutral.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  7 23:47:43 1993
+Newsgroups: alt.comp.acad-freedom.talk,soc.culture.canada,soc.culture.hongkong
+From: cburian@ux4.cso.uiuc.edu (Christopher J Burian)
+Subject: Re: [soc.culture.canada, et al.] Re: Offending Post
+Date: Thu, 8 Apr 1993 03:35:07 GMT
+Message-ID: <C55BAJ.8wq@news.cso.uiuc.edu>
+
+]In article <93097.1511133225200@QUCDN.QueensU.CA> <3225200@QUCDN.QueensU.CA> writes:
+]>A complaint has been filed to the postmaster at U. Washington. I urge others to
+]>do the same.
+
+]Yes, I have done the same too. I got a mail from the Director of the 
+]University Computing Services citing the "freedom of speech" as the
+]reason for them not doing anything about it. 
+](His/her e-mail address is: sandy@u.washington.edu)
+]I have written back given him/her my opinion plus urging him/her to trace the
+]user who made the post when it is still possible to do so.
+
+
+]I wish all of you who find yourself offended by the post send a mail to 
+]him/her. I think a short, polite and to the point mail will be most effective.
+
+I was very offended by that bigotted message.  I was more offended by the 
+net-police calling for punishment of unpopular views, so I sent the following:
+
+~To: postmaster@shelley.u.washington.edu
+~Subject: Offensive posts about HongKong
+
+~From: Jammer@michael.u.washington.edu (Reonn Rabon)
+~Newsgroups: soc.culture.hongkong
+~Subject:  DON"T MOVE TO CANADA
+~Date: 7 Apr 1993 06:05:42 GMT
+~Message-ID: <1ptqvmINNq4o@shelley.u.washington.edu>
+
+~This is a anouncement for all the people living in Hongkong:
+~
+~STAY WHERE YOUR AT AND DON"T RELOCATE TO CANADA!!!!!!!!
+
+Others have called for people to email complaints about this message.
+
+While I find it offensive, I fully support the rights of individuals to
+publicly state any opinions they wish.  It's my impression that U of 
+Washington declines to interfere with postings from the account "Jammer".
+I thank you for you support of freedom of speech.
+
+Christopher J. Burian
+
+--------------------------------------------------------------------------
+|  Chris Burian  |     PGP public key available on a server near you     |   
+<cburian@uiuc.edu>--------------------------------------------------------
+  ----- You can have my encryption algorithm when you pry my cold -----
+    ----  dead fingers from its private key.--John Perry Barlow  ---- 
+
+
+From caf-talk Caf Apr  8 00:35:36 1993
+From: jin@caip.rutgers.edu (Gavin)
+Newsgroups: alt.comp.acad-freedom.talk,soc.culture.canada,soc.culture.hongkong
+Subject: Re: [soc.culture.canada, et al.] Re: Offending Post
+Message-ID: <Apr.8.00.32.23.1993.27814@caip.rutgers.edu>
+Date: 8 Apr 93 04:32:23 GMT
+
+cburian@ux4.cso.uiuc.edu (Christopher J Burian) writes:
+
+>While I find it offensive, I fully support the rights of individuals to
+>publicly state any opinions they wish.  It's my impression that U of 
+>Washington declines to interfere with postings from the account "Jammer".
+>I thank you for you support of freedom of speech.
+
+Ancestors of Jammer said to Jews living in Nazi Germany:
+
+ STAY WHERE YOUR AT AND DON"T RELOCATE TO USA!!!!!!!!
+
+Ancestors of Christopher J. Burian said:
+
+  While I find it offensive, I fully support the rights of individuals to
+  publicly state any opinions they wish.  It's my impression that U of 
+  Washington declines to interfere with postings from the account "Jammer".
+  I thank you for you support of freedom of speech.
+ 
+
+From caf-talk Caf Apr  8 00:45:10 1993
+From: mcelwre@cnsvax.uwec.edu
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: UFO EVIDENCE VS. Carl Sagan
+Message-ID: <1993Apr7.190836.5835@cnsvax.uwec.edu>
+Date: 7 Apr 93 19:08:36 -0600
+
+          
+          
+                           UFO EVIDENCE VS. Carl Sagan
+
+               I watched all of Dr. Carl Sagan's updated "Cosmos" 
+          programs on PBS during summer 1991.  In one of them, he STILL 
+          maintains that there is no physical evidence for UFO 
+          Spacecraft, "just stories". 
+    
+               I should think that by now he would have heard about the 
+          Roswell Incident in which UFO WRECKAGE and ALIEN BODIES were 
+          found on a ranch (in New Mexico, I think), gathered up by the 
+          U.S. military, and hidden away in an Air Force hanger 
+          somewhere.  The wreckage included materials NOT KNOWN on 
+          Earth, and some of it even had ALIEN SYMBOLS written on it.  
+          All of this was witnessed by many People, both civilian and 
+          military.  A couple of years ago, the TV program "Unsolved 
+          Mysteries" showed an excellent segment about the incident. 
+    
+               The Roswell Incident illustrates a serious problem here.  
+          Whenever there IS physical evidence of a UFO Spacecraft, the 
+          military always confiscates it, using "national security" as 
+          an excuse, and then ACTS LIKE THE MAFIA toward the finders 
+          and other witnesses by THREATENING them if they don't keep 
+          silent!  (They did it to the rancher in the Roswell 
+          Incident.) 
+    
+               I wonder if Carl Sagan has been pressured by the 
+          government into continuing to make negative public statements 
+          about UFO's.  It's too bad that so many people accept his 
+          pronouncements without question.  He may very well be another 
+          case of THE BLIND LEADING THE BLIND. 
+       
+               This is supposed to be a FREE country.  FREEDOM OF 
+          SPEECH is guaranteed by the highest law of the land.  The 
+          government (and its military) is supposed to be of, by, and 
+          for The People, NOT the other way around.  People need to 
+          know THE TRUTH about EVERYTHING in order to intelligently 
+          participate in the democratic process.  It is an ORGANIZED 
+          CRIME for the government to withhold or suppress information 
+          and physical evidence of UFO's from us. 
+    
+
+               UN-altered REPRODUCTION and DISSEMINATION of this 
+          IMPORTANT Information is ENCOURAGED. 
+
+
+                                   Robert E. McElwaine
+                                   B.S., Physics and Astronomy, UW-EC
+
+                                                            
+
+From caf-talk Caf Apr  8 02:33:55 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [misc.legal, et al.]  Soliciting opinions: USENET and the 1st amendment
+Message-ID: <C55IJ9.9B0@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 06:11:32 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  8 02:33:55 1993
+From: cdvaugha@nickel.ucs.indiana.edu (Chris Vaughan)
+Subject:  Soliciting opinions: USENET and the 1st amendment
+Message-ID: <C53v9x.Cv8@usenet.ucs.indiana.edu>
+Date: Wed, 7 Apr 1993 08:51:33 GMT
+
+	Question: if a university computer system at a state
+university is used as a news host, and the university authorities
+censor posts to that host (with system-wide distribution only) because
+those posts might reflect badly on them, is this or is this not a
+violation of the poster's 1st amendment rights?
+
+	I have no evidence that such a thing has happened (although
+there are those who suspect). I just think its an interesting question
+whether our news host is a public forum in the appropriate legal
+sense.
+
+	Opinions?
+
+-- 
+Chris Vaughan               ***    We always find something, eh Didi,  
+cdvaugha@ucs.indiana.edu   *****   to give us the impression           
+cdvaugha@iubacs.bitnet      ***    that we exist?            -Beckett
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  8 02:33:57 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <C55IKx.9EJ@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 06:12:33 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  8 02:33:57 1993
+From: artc@world.std.com (Art Campbell)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <C54GC7.MBp@world.std.com>
+Date: Wed, 7 Apr 1993 16:26:30 GMT
+
+cdvaugha@nickel.ucs.indiana.edu (Chris Vaughan) writes:
+
+>	Question: if a university computer system at a state
+>university is used as a news host, and the university authorities
+>censor posts to that host (with system-wide distribution only) because
+>those posts might reflect badly on them, is this or is this not a
+>violation of the poster's 1st amendment rights?
+
+>	I have no evidence that such a thing has happened (although
+>there are those who suspect). I just think its an interesting question
+>whether our news host is a public forum in the appropriate legal
+>sense.
+
+>	Opinions?
+
+
+It was A.J. Liebling who said (remembered from memory):
+
+"The only free press belong to the man who owns one."
+
+Based on this, I'd say:
+The school owns the (electronic) press, so they can control 
+its contents, just as local school boards are now seen as the publishers
+of high school newspapers and so have the authority to censor those . . .
+
+Note that I'm not saying this is the way I think things should be,
+just the way I think things are at the moment. 
+
+
+-- 
+Art Campbell          artc@world.std.com            72227.1375@compuserve.com
+   DoD 358                                  _Real_ BMWs have just two wheels.
+    "... In my opinion, there's nothing in this world beats a '52 Vincent 
+     and a redheaded girl." -- Richard Thompson
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  8 02:33:57 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <C55IMC.9In@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 06:13:24 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  8 02:33:57 1993
+From: berryh@huey.udel.edu (John Berryhill, Ph.D.)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr8.034901.22796@udel.edu>
+Date: Thu, 8 Apr 1993 03:49:01 GMT
+
+
+You have a right to speak.  You have no right to force someone to
+buy you a microphone.  Does everybody in the country have a right to
+use Iowa State's computers in order to exercise this right?
+
+Do I have a right to use your PC to access the net?
+
+-- 
+
+                                              John Berryhill
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  8 02:34:59 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <C55ILE.9FH@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 06:12:48 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  8 02:34:59 1993
+From: thf2@kimbark.uchicago.edu (Ted Frank)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr7.165210.9928@midway.uchicago.edu>
+Date: Wed, 7 Apr 1993 16:52:10 GMT
+
+In article <C53v9x.Cv8@usenet.ucs.indiana.edu> cdvaugha@nickel.ucs.indiana.edu (Chris Vaughan) writes:
+>	Question: if a university computer system at a state
+>university is used as a news host, and the university authorities
+>censor posts to that host (with system-wide distribution only) because
+>those posts might reflect badly on them, is this or is this not a
+>violation of the poster's 1st amendment rights?
+>
+>	I have no evidence that such a thing has happened (although
+>there are those who suspect). I just think its an interesting question
+>whether our news host is a public forum in the appropriate legal
+>sense.
+>
+>	Opinions?
+
+The Supreme Court has been awfully unfriendly lately to the idea of
+extending the concept of the "public forum" beyond streets and parks.
+Still, even with semi-public fora, my understanding is that restrictions
+have to be time/place/manner content-neutral ones.
+
+The question then arises whether a network is semi-public or private,
+which turns on inquiries that I am less than completely familiar with,
+and thus reluctant to comment upon.
+-- 
+ted frank                 | "It should be noted that Ted Frank has been
+thf2@kimbark.uchicago.edu | accused publicly 40 times of being an NWO
+the u of c law school     | supporter and has never made an [sic] statements
+standard disclaimers      | to the contrary."  -- A. J. Teel, in misc.legal
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  8 02:35:01 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <C55IM2.9Gx@cs.uiuc.edu>
+Date: Thu, 8 Apr 1993 06:13:13 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  8 02:35:01 1993
+From: mnemonic@eff.org (Mike Godwin)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr8.014150.21025@eff.org>
+Date: Thu, 8 Apr 1993 01:41:50 GMT
+
+In article <1993Apr7.165210.9928@midway.uchicago.edu> thf2@midway.uchicago.edu writes:
+
+>The question then arises whether a network is semi-public or private,
+>which turns on inquiries that I am less than completely familiar with,
+>and thus reluctant to comment upon.
+
+Those in the know tend to favor the "public" or "semi-public" model.
+
+
+--Mike
+
+
+
+
+-- 
+Mike Godwin,    |"Fear of serious injury cannot alone justify suppression
+mnemonic@eff.org| of free speech and assembly. Men feared witches and
+(617) 576-4510  | burned women. It is the function of speech to free men
+EFF, Cambridge  | from the bondage of irrational fears."  --Brandeis
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  8 05:31:28 1993
+From: warkent@ltisun14.epfl.ch (Ken Warkentyne)
+Newsgroups: soc.culture.canada,soc.culture.hongkong,alt.comp.acad-freedom.talk
+Subject: Re: Offending Post
+Message-ID: <WARKENT.93Apr8093837@ltisun14.epfl.ch>
+Date: 8 Apr 93 07:38:37 GMT
+
+In article <C555M2.C3J@cs.uiuc.edu> kadie@cs.uiuc.edu (Carl M Kadie) wrote:
+> The way to fight offensive speech and hate speech is to out compete
+> it, not to outlaw it.
+
+In this case, the way to "out compete" the offensive posting is to
+ignore it.  Jammer's message is so silly it does not deserve a single response.
+I feel silly myself that I have already contributed two messages
+to this thread.
+--
+Ken Warkentyne - warkent@ltisun.epfl.ch
+                 Laboratoire de Teleinformatique, EPFL, Suisse.
+
+From caf-talk Caf Apr  8 13:21:05 1993
+Newsgroups: soc.culture.canada,alt.comp.acad-freedom.talk
+From: mdivax1!robinson@pobox.mot.com (Jim Robinson)
+Subject: Re: [soc.culture.canada, et al.] Re: Offending Post
+Message-ID: <1993Apr8.170842.13566@mdivax1.uucp>
+Date: 8 Apr 93 17:09:28 GMT
+
+Gavin (jin@caip.rutgers.edu) wrote:
+>cburian@ux4.cso.uiuc.edu (Christopher J Burian) writes:
+
+>>While I find it offensive, I fully support the rights of individuals to
+>>publicly state any opinions they wish.  It's my impression that U of 
+>>Washington declines to interfere with postings from the account "Jammer".
+>>I thank you for you support of freedom of speech.
+
+>Ancestors of Jammer said to Jews living in Nazi Germany:
+
+> STAY WHERE YOUR AT AND DON"T RELOCATE TO USA!!!!!!!!
+
+>Ancestors of Christopher J. Burian said:
+
+>  While I find it offensive, I fully support the rights of individuals to
+>  publicly state any opinions they wish.  It's my impression that U of 
+>  Washington declines to interfere with postings from the account "Jammer".
+>  I thank you for you support of freedom of speech.
+
+This post is somewhat incomprehensible, but the intention seems to be an
+attempt to link a belief in freedom of speech w/ racism. Unfortunately, it
+is nothing more than an ad hominem attack. As others have already said,
+Jammer is, *at best*, an ass.  However, there is one hell of a difference
+between supporting what he says and supporting his right to say it. It is
+really not that difficult a concept to grasp.
+-- 
+Jim Robinson
+robinson@mdd.comm.mot.com
+{ubc-cs!van-bc,uunet}!mdivax1!robinson
+
+
+From caf-talk Caf Apr  8 15:28:15 1993
+Newsgroups: alt.comp.acad-freedom.talk,misc.legal,misc.legal.computing
+From: cburian@ux4.cso.uiuc.edu (Christopher J Burian)
+Subject: Re: [misc.legal, et al.] Re: Soliciting opinions: USENET and the 1st amendment
+Date: Thu, 8 Apr 1993 19:13:50 GMT
+Message-ID: <C56Ir3.7EB@news.cso.uiuc.edu>
+
+]Newsgroups: misc.legal,misc.legal.computing
+]From: berryh@huey.udel.edu (John Berryhill, Ph.D.)
+]Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+]Message-ID: <1993Apr8.034901.22796@udel.edu>
+]Date: Thu, 8 Apr 1993 03:49:01 GMT
+
+
+]You have a right to speak.  You have no right to force someone to
+]buy you a microphone.  Does everybody in the country have a right to
+]use Iowa State's computers in order to exercise this right?
+
+]Do I have a right to use your PC to access the net?
+
+Yes, if I represent my PC to be an open forum.  If I falsely claim my
+BBS to be open, when it is in fact censored, I deserve any bad rep I
+might earn.
+
+A university newsserver is typically represented as an open forum.
+They can provide equal, open access to everyone, or accept the flames 
+they deserve for restrictions on freedom of expression in an academic
+environment.
+
+
+--------------------------------------------------------------------------
+|  Chris Burian  |     PGP public key available on a server near you     |   
+<cburian@uiuc.edu>--------------------------------------------------------
+  ----- You can have my encryption algorithm when you pry my cold -----
+    ----  dead fingers from its private key.--John Perry Barlow  ---- 
+
+
+From caf-talk Caf Apr  8 17:03:33 1993
+Newsgroups: alt.comp.acad-freedom.talk,misc.legal,misc.legal.computing
+From: allen@tessi.com (Allen Warren)
+Subject: Re: [misc.legal, et al.] Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr8.210138.21511@tessi.com>
+Date: Thu, 8 Apr 1993 21:01:38 GMT
+
+cburian@ux4.cso.uiuc.edu (Christopher J Burian) writes:
+
+>]Newsgroups: misc.legal,misc.legal.computing
+>]From: berryh@huey.udel.edu (John Berryhill, Ph.D.)
+>]Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+>]Message-ID: <1993Apr8.034901.22796@udel.edu>
+>]Date: Thu, 8 Apr 1993 03:49:01 GMT
+
+
+>]You have a right to speak.  You have no right to force someone to
+>]buy you a microphone.  Does everybody in the country have a right to
+>]use Iowa State's computers in order to exercise this right?
+
+>]Do I have a right to use your PC to access the net?
+
+>Yes, if I represent my PC to be an open forum.  If I falsely claim my
+>BBS to be open, when it is in fact censored, I deserve any bad rep I
+>might earn.
+
+>A university newsserver is typically represented as an open forum.
+>They can provide equal, open access to everyone, or accept the flames 
+>they deserve for restrictions on freedom of expression in an academic
+>environment.
+
+
+. . . or the university can moderate those who use their service if and
+only if they publish a set of guidelines for this service, such as stating
+that the service cannot be used for business purposes (making $$), posting
+information which is potentially harmful and/or illegal, etc., as an 
+example.  My view of universities is that they are typically very open
+for thought and embrace many different schools of thought, but yet I
+could understand if a university wanted to insure that anyone using
+their service to post would not post anything which could adversely
+reflect upon the university or leave the university open for litigation.
+
+my $0.02 worth.
+
+allen
+
+From caf-talk Caf Apr  8 18:06:42 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: John E Hinton <jhinton@magnus.acs.ohio-state.edu>
+Subject: Afrocentrism at Wellesley (fwd)
+Message-ID: <9304082157.AA14103@bottom.magnus.acs.ohio-state.edu>
+Date: Thu, 8 Apr 1993 21:57:10 GMT
+
+Forwarded message:
+From jhinton@magnus.acs.ohio-state.edu Thu Apr  8 17:53:25 1993
+From: John E Hinton <jhinton@magnus.acs.ohio-state.edu>
+Message-Id: <9304082153.AA13743@bottom.magnus.acs.ohio-state.edu>
+Subject: Afrocentrism at Wellesley
+To: jhinton@magnus.acs.ohio-state.edu
+Date: Thu, 8 Apr 93 17:53:23 EDT
+X-Mailer: ELM [version 2.3 PL11]
+
+SUBJECT: Afrocentrism in Wall St. Journal
+
+                                      Wednesday, April 7
+
+
+Today's Wall Street Journal has an editorial on page A14 by
+Mary Lefkowitz, recounting an experience of trying to question
+an Afrocentricist lecturing at Wellesley College about his
+sources.  She makes a plea for classicists and historians to
+call to task those who reconstruct history by appealing to
+conspiracy theories.
+
+An excerpt follows:
+
+"As if there were no question about the accuracy of his information,
+the speaker, Yosef A. A. ben-Jochannan, asssured his young audience
+that Greek civilization dates from only 1000 B.C.  (In fact, Greek-
+speaking peoples occupied the Greek mainland for at least half a
+millenium before that.)  He went on to suggest that Socrates was
+a figment of Plato's imagination.  (In fact, the great philosopher
+is mentioned by several other contemporary writers, such as the
+comic poet Aristophanes and the historian Xenophon.)  As for Plato
+himself, Mr. ben-Jochannan claimed that the philosopher had studied
+for 11 years in Egypt.  (It is very unlikely that he even went
+there.)  He said that Plato learned from Egyptian sages in Masonic
+Grand Lodges an Egyptian "mystery" system.  (In reality, there was
+no such system, and a literature about Greco-Egyptian philosophy
+did not come into existence until 500 years after Plato's death.)"
+
+"Then, as if to drive home the message of the treachery and
+inferiority of the ancient Greeks, he asserted that Aristotle
+sacked the Library of Alexandria and stole his philosophy from
+the Egyptians.  In fact, the library was not built until after
+Aristotle's death and there is no evidence that Aristotle ever
+went to Egypt, much less stole his philosophy from there."
+
+"When a colleague and I asked Mr. ben-Jochannan to identify the
+ancient sources on which he based his assertions, he declined
+to answer.  When we pointed out one or two errors of fact, he
+accused us of arrogance and insolence.  One student apologized
+to the speaker for our rudeness, and walked out.  After the
+lecture other students surrounded us, saying:  "You think you
+know the truth, but HE is telling the truth.  What you learned
+is wrong.'"
+
+
+From caf-talk Caf Apr  8 19:03:06 1993
+Newsgroups: alt.comp.acad-freedom.talk,misc.legal,misc.legal.computing
+From: cburian@ux4.cso.uiuc.edu (Christopher J Burian)
+Subject: Re: [misc.legal, et al.] Re: Soliciting opinions: USENET and the 1st amendment
+Date: Thu, 8 Apr 1993 22:54:57 GMT
+Message-ID: <C56szM.Es7@news.cso.uiuc.edu>
+
+allen@tessi.com (Allen Warren) writes:
+]cburian@ux4.cso.uiuc.edu (Christopher J Burian) writes:
+]>A university newsserver is typically represented as an open forum.
+]>They can provide equal, open access to everyone, or accept the flames 
+]>they deserve for restrictions on freedom of expression in an academic
+]>environment.
+]. . . or the university can moderate those who use their service if and
+]only if they publish a set of guidelines for this service, such as stating
+]that the service cannot be used for business purposes (making $$), posting
+]information which is potentially harmful and/or illegal, etc., as an 
+]example.  My view of universities is that they are typically very open
+]for thought and embrace many different schools of thought, but yet I
+]could understand if a university wanted to insure that anyone using
+]their service to post would not post anything which could adversely
+]reflect upon the university or leave the university open for litigation.
+]my $0.02 worth.
+
+Agreed. They can do that, and I'm not going to sue them, just flame them.
+OTOH, in this case the University of Washington is taking the politically
+unpopular stand of supporting the free speech of one of its account holders,
+and knee-jerk censorship advocates are bombarding its postmaster with email 
+demanding that "Jammer" be punished.
+
+--------------------------------------------------------------------------
+|  Chris Burian  |     PGP public key available on a server near you     |   
+<cburian@uiuc.edu>--------------------------------------------------------
+  ----- You can have my encryption algorithm when you pry my cold -----
+    ----  dead fingers from its private key.--John Perry Barlow  ---- 
+
+
+From caf-talk Caf Apr  8 19:32:21 1993
+From: russotto@eng.umd.edu (Matthew T. Russotto)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: [soc.culture.canada, et al.] Re: Offending Post
+Date: 8 Apr 1993 23:20:19 GMT
+Message-ID: <1q2bvjINNrk6@mojo.eng.umd.edu>
+
+In article <Apr.8.00.32.23.1993.27814@caip.rutgers.edu> jin@caip.rutgers.edu (Gavin) writes:
+>cburian@ux4.cso.uiuc.edu (Christopher J Burian) writes:
+>
+>>While I find it offensive, I fully support the rights of individuals to
+>>publicly state any opinions they wish.  It's my impression that U of 
+>>Washington declines to interfere with postings from the account "Jammer".
+>>I thank you for you support of freedom of speech.
+>
+>Ancestors of Jammer said to Jews living in Nazi Germany:
+>
+> STAY WHERE YOUR AT AND DON"T RELOCATE TO USA!!!!!!!!
+
+And many Jews, quite wisely, simply ignored them.  It was only when
+such policies were put into law that problems resulted.  Those who are
+offended by "Jammer" should suggest that he become a student in Red
+China, instead of here-- trying to silence such ignorance can only
+help it.
+
+
+
+-- 
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+Some news readers expect "Disclaimer:" here.
+Just say NO to police searches and seizures.  Make them use force.
+(not responsible for bodily harm resulting from following above advice)
+
+From caf-talk Caf Apr  9 01:59:01 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.men, et al.]  Just what is LJF up to?  CENSORSHIP WARNING ON THE NET!!!
+Message-ID: <C57Byp.5ry@cs.uiuc.edu>
+Date: Fri, 9 Apr 1993 05:44:48 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  9 01:59:01 1993
+From: sobleski@sol4.cs.psu.edu (Mark Sobolewski)
+Subject:  Just what is LJF up to?  CENSORSHIP WARNING ON THE NET!!!
+Message-ID: <C577v8.Iq9@cs.psu.edu>
+Date: Fri, 9 Apr 1993 04:16:19 GMT
+
+farthing@leland.Stanford.EDU (ljf) writes:
+>When one individual doesn't object, it doesn't mean much.
+>But when there is this giant silence I think it means
+>something (I personally think it means something when many
+>people seem to deny that women can be batterers of spouses
+>and children, for example).  That's my point here.
+
+Actually, ljf, I'm flattered that you place so much importance on
+what I say, good or bad.  When I first read all the hoo-ha, I was
+touched.  I don't think I'm that great a writer.
+ 
+>I think the point can be made that this silence reflects a
+>climate of misogyny on the net that is tolerated.
+
+That is that statement that made me think: That's what it is! S-O-C-K-S
+
+Are you trying to argue that the net should have it's opinions politically
+regulated?  
+
+Will people have to go to the sexual-harassment-politburo for approval
+before posting, or will it only be sufficent to remove the accounts of
+men (or other poltically unpopular groups) who say the wrong things?
+
+You heard it here first folks: The feminists may be planning to limit the
+free speech of men on the net for the purposes of academic censorship.
+
+Before you people accuse me of slander, I would like to say that I am
+not certain at this point if that is what LJF is asking for.  I do
+believe that she (or others like her) may be formulating plans to that effect.
+
+I am saving this post and archiving the CDROM version of this thread (yes, 
+that's the way I read news now, sigh) for legal purposes.  I was wondering
+why someone as (#include humility) unimportant as me would be considered
+so seriously by people.  Now I think I know why.
+
+-- 
+Mark Sobolewski   sobleski@cs.psu.edu    *!psuvax1!sobleski
+609-854-3668 (home) 215-930-9884 (beeper) marks@emanon.UUCP (private email)
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  9 03:53:16 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: buhr@umanitoba.ca (Kevin Andrew Buhr)
+Subject: Re: [soc.culture.canada, et al.] Re: Offending Post
+Message-ID: <BUHR.93Apr9015219@ccu.umanitoba.ca>
+Date: Fri, 9 Apr 1993 07:52:19 GMT
+
+In article <Apr.8.00.32.23.1993.27814@caip.rutgers.edu>
+jin@caip.rutgers.edu (Gavin) writes:
+|
+|  Ancestors of Jammer said to Jews living in Nazi Germany:
+|
+|   STAY WHERE YOUR AT AND DON"T RELOCATE TO USA!!!!!!!!
+|
+|  Ancestors of Christopher J. Burian said:
+|
+|    While I find it offensive, I fully support the rights of individuals to
+|    publicly state any opinions they wish.  It's my impression that U of 
+|    Washington declines to interfere with postings from the account "Jammer".
+|    I thank you for you support of freedom of speech.
+
+What exactly is the point?  These ridiculously hypothetical ancestors
+of Christopher J. Burian appear to be defending the right of the
+ridiculously hypothetical ancestors of Jammer to express their
+(arguably racist) opinions in a public forum.  I don't see the ethical
+problem, except that Mr. Burian's ancestors come off as being rather
+overly curt.
+
+It seems all you're trying to do is impute some guilt-by-association
+on poor Mr. Burian.  After all, if he is mentioned in the same post
+with Nazi Germans, he must be evil, right?
+
+In addition, your suggestion that the "plight" of Hong Kong students
+facing Jammer's alleged "attack" is some how equal in scope to the
+suffering of Jews in Nazi Germany offends me.  In my mind, it
+trivializes the holocaust and makes you an ignorant, thick-headed
+whiner.
+
+Luckily, I am not so childish and narrow-minded that I would contact
+your postmaster simply because you've offended me.
+
+Kudos to <postmaster@shelley.u.washington.edu>.
+
+Kevin <buhr@ccu.UManitoba.CA>
+
+From caf-talk Caf Apr  9 10:25:27 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [comp.admin.policy]  Re: Is IRC channel a 'public forum'?
+Message-ID: <C57znI.Kx9@cs.uiuc.edu>
+Date: Fri, 9 Apr 1993 14:16:30 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  9 10:25:27 1993
+From: lemson@ux1.cso.uiuc.edu (David Lemson)
+Subject:  Re: Is IRC channel a 'public forum'?
+Message-ID: <C57Fx0.Az4@ux1.cso.uiuc.edu>
+Date: Fri, 9 Apr 1993 07:09:57 GMT
+
+s_titz@ira.uka.de (Olaf Titz) writes:
+
+>An IRC channel can be designed as a private forum with 
+>/mode #channel +i (perhaps +ptsi).
+>This would clearly declare it as a private forum, since it requires an
+>explicit invitation from the channel op (i.e. the channel creator(s))
+>to join. If some other joins without being invited, he exploits a
+>software bug or abuses IRC operator status and therefore can be judged
+
+I have tried to have a private meeting on an invite-only IRC
+channel, and had an IRC Operator barge in and start asking us
+questions.  On any system/network where you might be barged in upon
+by any yahoo who starts up their own IRC server and deems themselves
+an IRC Operator (I assume this is how it works), I would say that
+the whole thing is a public forum, even the private channels.
+
+In Ed's original example, I assume the pro-choice channel was not
+invite-only, making it even more public.
+-- 
+David Lemson                                                (217) 244-1205
+University of Illinois NeXT Campus Consultant / CCSO NeXT Lab System Admin
+Internet : lemson@uiuc.edu                UUCP :...!uiucuxc!uiucux1!lemson 
+NeXTMail & MIME accepted                           BITNET : LEMSON@UIUCVMD
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  9 11:46:59 1993
+From: mycroft@hal.gnu.ai.mit.edu (Charles Hannum)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: Fake anon posting, Macs in dorms etc
+Date: 9 Apr 1993 11:43:44 -0400
+Message-ID: <1q45jg$ma4@hal.gnu.ai.mit.edu>
+
+
+In article <1993Apr7.131846.27676@netnews.noc.drexel.edu>
+snyderra@dunx1.ocs.drexel.edu (Bob Snyder) writes:
+>
+> Or in some cases, ask what this "Usenet" is, and why the University
+> is actively promoting pornography.
+
+A university `promotes pornography' in the same way that the telephone
+company `promotes pornography'--which is to say they don't.  They
+merely provide a service which may or may not be used for that.
+
+I thought this issue died years ago.
+
+-- 
+ \  /   Charles Hannum, mycroft@ai.mit.edu
+ /\ \   PGP public key available on request.  MIME, AMS, NextMail accepted.
+Scheme  White heterosexual atheist male (WHAM) pride!
+
+From caf-talk Caf Apr  9 12:17:44 1993
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: [uiuc.general] Re: How to annoy Rush!
+Message-ID: <16BABCFDE.COFEIGEL@weizmann.weizmann.ac.il>
+From: COFEIGEL@weizmann.weizmann.ac.il (D. Feigelson)
+Date: Fri, 9 Apr 1993 14:46:50 GMT
+
+In article <15111.733714047@moose.cs.indiana.edu>
+Marc VanHeyningen <mvanheyn@cs.indiana.edu> writes:
+
+>
+>Thus said jsc52962@uxa.cso.uiuc.edu (Jeffrey S. Curtis):
+>>Rights schmights.  If I'm a system administrator, I have the right to
+>>say who uses my system and how.  Forgery of a return address, IMO, is
+>>instant grounds for account deletion.  "Due process" has no bearing on
+>>the argument - we aren't talking about a crime.  We're talking about
+>>someone abusing a service I am providing them, and me choosing to longer
+>>offer that service as a result.
+>
+>So, if a janitor catches you writing graffiti on the wall of the
+>bathroom, that janitor, on the spot with no review, has the right to
+>forbid you to ever use any bathroom on the University again, right?
+
+Bad analogy.  I'd liken it more to the regular mail service.  There
+are certain rules you have to follow in using it; if you don't and
+you get caught, you pay the price.  Note, however, that by this anal-
+ogy, 1) even if you're in jail on mail fraud, you still get to use
+the US mail service (though by dint of being in prison, you've lost
+the right to privacy in that mail--your incoming and outgoing mail
+may be read by the prison authorities)  2) The US mail doesn't re-
+quire a return address; it merely expedites things if the mail gets
+misdirected.  3) No one is allowed to open your mail; that's one of
+the rules of the game.  (There are obvious exceptions in extreme
+cases, like when a package is suspected of containing a bomb or
+drugs or such.  In Canada, sending hate mail is a crime, so a letter
+suspected to fall into this category could likewise be opened.  But
+the basic rule stands.)
+     thinking along these lines, then, it seems that
+case of posting e-mail with a false ID like putting a fake
+return address on an envelope, which is only a crime if part of a
+deliberate plot to defraud someone.  Taking away someone's account
+for this seems extreme, unless the fake ID is being used in a
+harmful way.  And what the heck is a system manager doing checking
+on mail that passes through?  By analogy to real mail, only stuff
+that's suspect of being part of a criminal activity should be
+opened by him.
+    I'm new to these usenets; this problem is an interesting one,
+though I'm sure there's been plenty written on it in this net
+before (not to mention in hard copy.)
+    --djf
+
+
+From caf-talk Caf Apr  9 14:03:31 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: bobmacd@netcom.com (Robert MacDowell)
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <bobmacdC589Ir.F5t@netcom.com>
+Date: Fri, 9 Apr 1993 17:49:39 GMT
+
+A simple (simplistic?) solution:
+
+1. Disable news posting from those systems that do not require user ID's.
+2. Put up a mail-->news gateway at your site. 
+
+Thus, people could freely use these always-logged-in terminals to *read*
+news, but to post they would have to log in under their account and send
+(traceable) mail to the gateway, bearing their name. 
+
+I do not like the idea of public machines being logged in permanently, 
+for anyone to use. That represents true 'anonymity' in the sense that it's
+untraceable *and* impossible to respond to. 
+
+-Bob
+
+From caf-talk Caf Apr  9 16:21:51 1993
+From: fletch@excalibur.gatech.edu (Mike Fletcher)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: Fake anon posting, Macs in dorms etc
+Date: 5 Apr 93 17:38:58 GMT
+Message-ID: <FLETCH.93Apr5133859@excalibur.gatech.edu>
+
+** On Mon, 5 Apr 1993 13:52:13 GMT, jstewart@alfred.carleton.ca (John Stewart) said:
+
+  John> Machines which don't perform any form of user authorization
+  John> should not be permitted to post news articles.  In the NNTP
+  John> access control file, it is possible to specify that a machine
+  John> can read news articles but not post articles.
+
+  John> Forcing users to login to a Unix machine to post a message
+  John> won't eliminate the opportunity to forge messages, but it
+  John> would make it more difficult which would likely cut down on
+  John> the number of forgeries.
+
+	I thought that one of the provisions of being hooked to NSFNet
+(or whatever the thing is being called these days) was that you HAD to
+do some sort of user authentication on ANY machine that had an IP
+connection (i.e. Macs, terminals, whatever).  At least this was what I
+had been told by the Net Services people here at Ga Tech.
+--
+Fletch                             "Love is a snowmobile racing across the
+fletch@excalibur.gatech.edu         tundra and then suddenly it flips over, 
+30293 GT Station, Atlanta Ga 30332  pinning you underneath.  At night, the
+853-0825 (w)    319-8183 (h)        ice weasels come." -- Nietzsche
+
+From caf-talk Caf Apr  9 22:45:34 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.culture.canada, et al.]  Freedom of Speech (Was: Offending Post)
+Message-ID: <C58xr8.DsK@cs.uiuc.edu>
+Date: Sat, 10 Apr 1993 02:33:07 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  9 22:45:34 1993
+From: blblam@cantor.math.uwaterloo.ca (Bernard Lam)
+Subject:  Freedom of Speech (Was: Offending Post)
+Message-ID: <C56L7H.As0@undergrad.math.uwaterloo.ca>
+Date: Thu, 8 Apr 1993 20:06:53 GMT
+
+In article <C565sA.3wD@watcgl.uwaterloo.ca>, lhclin@watcgl.uwaterloo.ca (Louis Lin) writes:
+
+> In article <C54yyJ.E12@newsflash.concordia.ca> davec@ECE.Concordia.CA (Dave Chu) writes:
+> >In article <1pvgetINN3ur@SALMON.ZOO2.CS.YALE.EDU> yan-dicky@cs.yale.edu (Dicky Yan) writes:
+> >>
+> >>Yes, I have done the same too. I got a mail from the Director of the 
+> >>University Computing Services citing the "freedom of speech" as the
+>...
+> 
+> I have also filed a complaint but yet to receive anything.  I like to point
+> out people should not be put off by the 'freedom of speech' thing.  True,
+> 'Jammer' has every right to say whatever he/she wishes, including racist
+> comments, but U of Washington(or any other institute) has no obligation to
+> provide the facility for his speech.  As Dave mentioned, someone up in
+> the food chain should have the power to do it.
+> 
+
+	I agree.  The freedom of speech of a person is ONLY violated if he/she
+is prevented from expressing his/her opinion BY THE GOVERNMENT.  Every private institution has the right to give access to its own property (e.g. computer account) to any individual.  On the other hand, it also has the right to withdraw those access any time if it so wishes.
+
+	Therefore, one's freedom of speech is NOT violated even if his/her account is disabled because of the unfavourable opinion he/she expresses through the account. (unfavourable as determined by the private institution, who actually OWNS the account).
+
+	On the other hand, the University of Washington has every right to continue to give anyone (even 'Jammer') access to the account if it so desires.  Again, the computer accounts (i.e. the computing facilities) are the properties of the University and it has the right (property right) to give access to them to whoever it chooses to.
+
+	So I think it is inappropriate for the Director of the University Computing Services to cite "freedom of speech" as the reason of not taking any action towards 'Jammer', unless it is the University's own policy to let anyone to use it facilities to express any opinion he/she wants.  If that happens to be the case, what we should do is to condemn the person who express those opinions, as what many people here has done so far.
+
+
+
+
+Bernard Lam
+
+blblam@descartes.uwaterloo.ca
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  9 22:45:35 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.culture.canada, et al.]  Re: Freedom of Speech (Was: Offending Post)
+Message-ID: <C58xrI.Dtn@cs.uiuc.edu>
+Date: Sat, 10 Apr 1993 02:33:18 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  9 22:45:35 1993
+From: so@eiffel.cs.psu.edu (Nicol C So)
+Subject:  Re: Freedom of Speech (Was: Offending Post)
+Message-ID: <C571D9.Dr7@cs.psu.edu>
+Date: Fri, 9 Apr 1993 01:55:57 GMT
+
+In article <C56L7H.As0@undergrad.math.uwaterloo.ca> blblam@cantor.math.uwaterloo.ca (Bernard Lam) writes:
+>...
+>[Argument for the University of Washington's right to terminate "Jammer's"
+> access to computer facilities if it so chooses.  Deleted.]
+>
+>        So I think it is inappropriate for the Director of the
+>University Computing Services to cite "freedom of speech" as the reason
+>of not taking any action towards 'Jammer', unless it is the University's
+>own policy to let anyone to use it facilities to express any opinion
+>he/she wants.  If that happens to be the case, what we should do is to
+>condemn the person who express those opinions, as what many people here
+>has done so far.
+
+The University of Washington can set its own policy regarding the use of
+their facilities.  It's not inapprpropriate of them to refuse to take action
+against "Jammer".  They are not under any obligation to.  
+
+It is not a good idea to terminate a students access to university facilities
+merely because he/she has said something unpopular.  Rascist remarks do not
+cause any physical harm, they just make some people angry.  Punishing a
+student for expressing unpopular views is implicitly requiring the student
+to please the majority by refraining from saying what other people may
+find offensive.  I, for one, don't want to be _required_ to please anybody
+that way.
+
+The readers of soc.cultuer.hongkong are free to ignore the posting of "Jammer"
+if they think it is bogotry, is offensive, childish or whatever.  Actually
+that's what I would advise my fellow readers of s.c.hk to do.  There is no
+need to make a fuss of it.  Also, please remember, "Jammer" speaks for
+nobody but him/herself.
+
+Personally I think "Jammer"'s posting was childish and offensive.  While he
+is free to speak, I am free not to listen.  If I see more similar postings
+from this guy, I will insert an entry into my KILL file and rid my infospace
+of this guy's postings.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  9 22:45:36 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [soc.culture.canada, et al.]  Re: Freedom of Speech (Was: Offending Post)
+Message-ID: <C58xs9.Dw3@cs.uiuc.edu>
+Date: Sat, 10 Apr 1993 02:33:45 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr  9 22:45:36 1993
+From: blblam@cantor.math.uwaterloo.ca (Bernard Lam)
+Subject:  Re: Freedom of Speech (Was: Offending Post)
+Message-ID: <C58IE9.HAs@undergrad.math.uwaterloo.ca>
+Date: Fri, 9 Apr 1993 21:01:21 GMT
+
+In article <C571D9.Dr7@cs.psu.edu>, so@eiffel.cs.psu.edu (Nicol C So) writes:
+> In article <C56L7H.As0@undergrad.math.uwaterloo.ca> blblam@cantor.math.uwaterloo.ca (Bernard Lam) writes:
+> >...
+> >[Argument for the University of Washington's right to terminate "Jammer's"
+> > access to computer facilities if it so chooses.  Deleted.]
+> >
+> >        So I think it is inappropriate for the Director of the
+> >University Computing Services to cite "freedom of speech" as the reason
+> >of not taking any action towards 'Jammer', unless it is the University's
+> >own policy to let anyone to use it facilities to express any opinion
+> >he/she wants.  If that happens to be the case, what we should do is to
+> >condemn the person who express those opinions, as what many people here
+> >has done so far.
+> 
+> The University of Washington can set its own policy regarding the use of
+> their facilities.  It's not inapprpropriate of them to refuse to take action
+> against "Jammer".  They are not under any obligation to.  
+> 
+
+
+	Exactly.  That's what I said in my first post.  I think you've misunderstood me. I said it is inappropriate to **cite "freedom of speech" as a reason** for not taking action.  I didn't say it is inappropriate of them to refuse to take action.
+
+	What I was saying is that the concept of "freedom of speech" is not applicable in here, since no one's freedom of speech is voilated whether "Jammer's" account is disabled or not.  And that the U of Washington has every right to EITHER continue to give "Jammer" access to his account OR disable it.
+
+>
+> ...
+>
+
+	I agree with you that it is not a good idea to disable a student's account if he/she says something rascist/unpopular/etc.
+
+
+
+
+Bernard Lam
+
+
+blblam@descartes.uwaterloo.ca
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr  9 23:05:14 1993
+Newsgroups: soc.culture.canada,soc.culture.hongkong,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Re: Freedom of Speech (Was: Offending Post)
+Message-ID: <C58yMA.EKu@cs.uiuc.edu>
+Date: Sat, 10 Apr 1993 02:51:45 GMT
+
+blblam@cantor.math.uwaterloo.ca (Bernard Lam) writes:
+
+[...]
+>	I agree.  The freedom of speech of a person is ONLY violated
+>if he/she is prevented from expressing his/her opinion BY THE
+>GOVERNMENT.  Every private institution has the right to give access
+>to its own property (e.g. computer account) to any individual.  On
+>the other hand, it also has the right to withdraw those access any
+>time if it so wishes.
+[...]
+
+The University of Washington is a state university. In the U.S. that
+means that it *is* the government, bound by the 14th Amendment not to
+violate its students 1st Amendment rights.
+
+Also, most universities, both public and private, in the U.S.  (and
+Canada?) promise in their student code that students will be free of
+institutional censorship. This is a legally-binding, contractual
+obligation.
+
+[...]
+>	So I think it is inappropriate for the Director of the
+>University Computing Services to cite "freedom of speech" as the
+>reason of not taking any action towards 'Jammer', unless it is the
+>University's own policy to let anyone to use it facilities to express
+>any opinion he/she wants.  If that happens to be the case, what we
+>should do is to condemn the person who express those opinions, as
+>what many people here has done so far.
+
+It *is* the policy of most university's to allow students to use
+facilities to express any opinion they want. This policy is part of
+academic freedom. As the "Joint Statement on Rights and Freedoms of
+Students" (the main statement of student academic freedom in the U.S.):
+
+"Academic institutions exist for the transmission of knowledge, the
+pursuit of truth, the development of students, and the general
+well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals its members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth."
+
+and (in the context of inviting speakers to campus):
+
+"The institutional control of campus facilities should not be used as
+a device of censorship. It should be made clear to the academic and
+larger community that sponsorship of guest speakers does not
+necessarily imply approval or endorsement of the views expressed,
+either by the sponsoring group or the institution."
+
+and
+
+"Student publications and the student press are a valuable aid in
+establishing and maintaining an atmosphere of free and responsible
+discussion and of intellectual exploration on the campus. They are a
+means of bringing student concerns to the attention of the faculty and
+the institutional authorities and of formulating student opinion on
+various issues on the campus and in the world at large."
+
+- Carl
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 10 15:07:30 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: 002369c@axe.acadiau.ca (WILLIAM FREDERICK CUSTANCE)
+Subject: Survey
+Message-ID: <002369c.75.734468815@axe.acadiau.ca>
+Date: Sat, 10 Apr 1993 20:06:51 GMT
+
+**********************************************************************
+
+Here at the University of Victoria, we are having quite a fervent debate
+with the students on one side and the department on the other.
+
+The CSC Department here has already denied students access to the
+InterNet newsgroups such as COMP, SCI, ALT, et al.
+
+Now they are considering disallowing all Telnet access because of a
+few people that are over-excessive MUD game players (MUD = Multi User
+Domain).  They are also considering restricting FTP access.  It
+eventually might span to Gopher and Archie, but that has yet to be
+brought up in discussions here.
+
+I was wondering if you, as a representative student at your institution
+could answer the following questions and return the results to me via
+E-Mail ASAP.  My address is below:
+
+1)  Does your institution allow you access to the InterNet?
+
+2)  Are you allowed access to Telnet?
+
+3)  Are you aware of FreeNets and MUDs?
+
+4)  Are you allowed access to FTP?
+
+5)  Are you allowed access to Gopher?
+
+6)  Do you use Telnet?
+
+7)  Do you use FTP?
+
+8)  Do you use gopher?
+
+9)  Do you use MUDS?
+
+10) Do you use any FreeNets?
+
+11) Please include you name, Internet Address, Faculty, and Year.
+
+The reason the CSC students at UVic are so inflamed is that we are so
+restricted in our computer use, yet none of the other faculties (ie.
+Arts, Engineering, et al) are.  They are allowed access to every thing
+we are not.  Yes, it is ludicrous, but that's what we are trying to
+fight.
+
+Michael Heacock
+mheacock@ra.uvic.ca
+
+
+**********************************************************************
+please forward all responses to :
+x--------------------------------------------------------------------x
+|                                |   The opinions expressed here are |
+| Michael Dennis Shawn Heacock   |   probably your own. . .but most  |
+| mheacock@ra.uvic.ca            |   certainly not the Martlets      |
+x--------------------------x-----------x-----------------------------x
+                           |           |
+                           |     Plan A|
+                           |       head|
+                           |           |
+                           x-----------x
+
+
+From caf-talk Caf Apr 10 15:47:55 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: 002369c@axe.acadiau.ca (WILLIAM FREDERICK CUSTANCE)
+Subject: Survey
+Message-ID: <002369c.76.734468924@axe.acadiau.ca>
+Date: Sat, 10 Apr 1993 20:08:40 GMT
+
+**********************************************************************
+
+Here at the University of Victoria, we are having quite a fervent debate
+with the students on one side and the department on the other.
+
+The CSC Department here has already denied students access to the
+InterNet newsgroups such as COMP, SCI, ALT, et al.
+
+Now they are considering disallowing all Telnet access because of a
+few people that are over-excessive MUD game players (MUD = Multi User
+Domain).  They are also considering restricting FTP access.  It
+eventually might span to Gopher and Archie, but that has yet to be
+brought up in discussions here.
+
+I was wondering if you, as a representative student at your institution
+could answer the following questions and return the results to me via
+E-Mail ASAP.  My address is below:
+
+1)  Does your institution allow you access to the InterNet?
+
+2)  Are you allowed access to Telnet?
+
+3)  Are you aware of FreeNets and MUDs?
+
+4)  Are you allowed access to FTP?
+
+5)  Are you allowed access to Gopher?
+
+6)  Do you use Telnet?
+
+7)  Do you use FTP?
+
+8)  Do you use gopher?
+
+9)  Do you use MUDS?
+
+10) Do you use any FreeNets?
+
+11) Please include you name, Internet Address, Faculty, and Year.
+
+The reason the CSC students at UVic are so inflamed is that we are so
+restricted in our computer use, yet none of the other faculties (ie.
+Arts, Engineering, et al) are.  They are allowed access to every thing
+we are not.  Yes, it is ludicrous, but that's what we are trying to
+fight.
+
+Michael Heacock
+mheacock@ra.uvic.ca
+
+
+**********************************************************************
+please send all replys to:
+x--------------------------------------------------------------------x
+|                                |   The opinions expressed here are |
+| Michael Dennis Shawn Heacock   |   probably your own. . .but most  |
+| mheacock@ra.uvic.ca            |   certainly not the Martlets      |
+x--------------------------x-----------x-----------------------------x
+                           |           |
+                           |     Plan A|
+                           |       head|
+                           |           |
+                           x-----------x
+
+
+From caf-talk Caf Apr 10 16:10:53 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: mtn4583@silver.sdsmt.edu (Ty Naus)
+Subject: Re:  [soc.culture.hongkong]  Re: DON"T MOVE TO CANADA
+Message-ID: <9304102010.AA14055@silver.sdsmt.edu>
+Date: Sat, 10 Apr 1993 08:10:37 GMT
+
+
+I just saw the post about "Not moving to Canada" and couldn't resist throwing
+in a bit more.  While this is not necessarily a "nice" thing to do I think
+it represents the frustrations of people in all of the western world.  A few
+years ago I had the oportunity to spend some time in Europe and get to know
+a few of the "locals" in various countries, including Germany, Austria, France,
+and Czechoslovokia.  Their views on the immigration situation are similar to
+what the authors' of the "Canada" post are.
+
+No one ever said life was fair.  Whether these people are escaping oppresion,
+poverty or whatever, is beside the point.  I myself feel sorry for people in
+these situation, and if I could change it I would, but I think that allowing
+large migrations of people into more economically stable western countries,
+we are in fact lowering our own standard of living.  This defies the sub-
+conscious human trait of greed, and makes us feel threatened.  Even in the
+depressed economy of Czechoslovokia, the people with whom I discussed similar
+issues felt the same way.  They did not want to even give up what little they
+had.  Recently on the news, I saw that France was addressing their immigration
+"problem" by restricting the number of people allowed into their country, but
+yet there is a public outcry in the United States when this is brought up.
+
+I think ties can also be drawn to the immigration of Haitians and Cubans with
+the AIDS virus being allowed to come to the U.S. for medical treatment.  Why
+is it our responsibility to take care of the rest of the world?  Surely these
+people have no money to pay for their treatment, but yet our government finds
+in necessary to grant this "gift" when there are thousands upon thousands of
+American citizens without means as well, but do not recieve help.
+
+Just my two cents worth.....
+
+mtn4583@silver.sdsmt.edu
+
+From caf-talk Caf Apr 10 19:34:21 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: FREDERJS@SNYBUFVA.bitnet (DR. JOHN)
+Subject: Re: Computers and Academic Freedom mailing list (batch edition)
+Message-ID: <01GWUVPZ9VPEASBEO2@SNYBUFVA.BITNET>
+Date: Sat, 10 Apr 1993 15:30:05 GMT
+
+
+From caf-talk Caf Apr 10 19:34:23 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: FREDERJS@SNYBUFVA.bitnet (DR. JOHN)
+Subject: Re: Computers and Academic Freedom mailing list (batch edition)
+Message-ID: <01GWUVQE7UZSASBEO2@SNYBUFVA.BITNET>
+Date: Sat, 10 Apr 1993 15:30:21 GMT
+
+
+From caf-talk Caf Apr 11 00:47:46 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: John E Hinton <jhinton@magnus.acs.ohio-state.edu>
+Subject: AIA: Credit Where None is Due (fwd)
+Message-ID: <9304110447.AA22994@top.magnus.acs.ohio-state.edu>
+Date: Sun, 11 Apr 1993 04:47:14 GMT
+
+Forwarded message:
+From jhinton@magnus.acs.ohio-state.edu Sun Apr 11 00:44:25 1993
+From: John E Hinton <jhinton@magnus.acs.ohio-state.edu>
+Message-Id: <9304110444.AA22864@top.magnus.acs.ohio-state.edu>
+Subject: AIA: Credit Where None is Due
+To: jhinton@magnus.acs.ohio-state.edu
+Date: Sun, 11 Apr 93 0:44:24 EDT
+X-Mailer: ELM [version 2.3 PL11]
+
+Campus Report articles from the archives of Accuracy in Academia (AIA)
+Sent independently of AIA by a loyal supporter of the organization's goals and 
+purpose.
+--------------------------------------------------------
+ CREDIT WHERE NONE IS DUE
+
+ taken from Campus Report, Accuracy In Academia, May 1991
+
+  A bumper sticker reads: "They can send me to college, but the
+ can't make me think."  That appears to be true, considering:
+  * A 1989 survey by the National Endowment for the Humanities
+ found that a quarter of graduating college seniors could not
+ distinguish a quotation of Winston Churchill from that of Josef
+ Stalin or Karl Marx.  Half of those surveyed could not understand
+ the purpose of the Emancipation Proclamation or The Federalist
+ Papers.
+  *  A 1988 National Geographic survey of high school students
+ found that a majority could not locate Argentina, Chile, or Peru
+ on a map.  On the homefront, they also could not locate Ohio,
+ Michigan, or New Jersey.
+  * A 1986 National Endowment for the Arts survey of high school
+ juniors  found that two-thirds couldn_t place the date of the
+ Civil War within a 50-year period.
+  Citizenship is another area in which American students have been
+ found to be lacking.  The People for the American Way report,
+ _Democracy_s Next Generation,_ found: _Young people cherish
+ America_s freedoms without understanding what it takes to preserve
+ them_ and _Institutions with the best opportunity to teach young
+ people citizenship_family, school, and government_have let them
+ down._
+  One would think that an alarmed American educational
+ establishment would start setting a course to right these
+ wrongs_pushing forth on a new agenda that would strengthen the
+ content of coursework and provide more incentives for students to
+ study.  There has been, however, little action on this front, but
+ some that has is proving to be of more detriment than help.
+  In a recently-released report from the National Endowment for the
+ Humanities, _Tyrannical Machines,_ pointed out the problems of
+ educational reforms.  The report stated: _Practices that begin by
+ filling needs become detached from their original purposes, even
+ counterproductive to them.  Having been adopted on a large scale,
+ however, these practices take on a power of their own.  We force
+ prospective schoolteachers to take education courses that waste
+ their time.  We place expectations on college and university
+ faculty members that discourage them from devoting time to
+ students and the classroom.  Thoughtful teachers and faculty
+ members, as well as concerned administrators, chafe under these
+ regimes; but the machines, larger than any individual or school,
+ roll on._
+  Multiculturalism is becoming a sink or swim factor in the world
+ of academe.  Even as political correctness is being unmasked,
+ inclusive curricula, hiring quotas, and victim_s studies are
+ becoming required by some academic accreditation services.
+  The Association of American Law Schools has required that member
+ schools deny assistance to employers discriminating on the basis
+ of sexual orientation.  This prompted many law schools to kick the
+ CIA, FBI, and military off their campus, depriving students of the
+ opportunity to interview with the employer of their choice.  This
+ AALS directive has been overruled at the University of Kansas and
+ Drake University after Marine Captain Patrick L. Redmon discovered
+ a law prohibiting colleges from hindering military recruitment
+ while receiving Department of Defense funding (see February, 1991,
+ Campus Report), and  the Virginia legislature helped overturn the
+ AALS policy at the University of Virginia (see April, 1991, Campus
+ Report).
+  Education Secretary Lamar Alexander discovered political agendas
+ creeping into the accreditation process.  The Middle States
+ Association of Colleges and Schools chose to defer accreditation
+ to Baruch College and Westminster Theological Seminary because
+ they did not conform to the Middle States agenda, an agenda that
+ implies that hiring should be done by a quota system taking race
+ and sex into account, and that alleged victims of oppression make
+ the best teachers because they help raise the self-esteem of
+ fellow minorities and reinforce the notion that there is no
+ unifying culture.
+  Alexander noted that Middle States prerequisites _may undermine
+ institutional autonomy and academic freedom and could in fact
+ lessen variety among the nation_s colleges and universities_ and
+ that such prerequisites _could conceivably cause violations of
+ federal civil rights laws by, for example, leading to race-based
+ hiring quotas._
+  Students aren_t helping turn the tide.  A proposed ethnic studies
+ requirement at the University of California at Davis was
+ criticized by radical students as weak.  The member of the campus
+ chapter of the National Organization for Women called the proposal
+ for one course on _underrepresented and historically discriminated
+ against groups_ and another on _the history of racism and
+ discrimination in the United States_ a _piece of s_._
+  When students are having problems finding where they are on a map
+ and are unable to understand the founding principles of the United
+ States, the educational system does not need to try to teach them
+ a radical distortion of the _history of racism._  Wouldn_t it help
+ America to be more competitive if every student were required to
+ take a course in economics?  Or some form of computer science?
+ Some schools already have curriculums that require these courses,
+ but some accreditation agencies seem to be looking more into
+ requiring diversity than the three R_s.
+*****************************************************
+Requests for information concerning Accuracy in Academia and Campus
+Report should be mailed to the following address:
+
+Accuracy in Academia
+1275 K Street NW
+Suite 1150
+Washington, DC 20005
+******************************************************
+Or send message, which includes your mailing address,  to E Mail address below
+for forwarding:
+jhinton@magnus.acs.ohio-state.edu
+------------------------------------------------------
+All interested parties are encouraged to copy and distribute this information.
+
+
+From caf-talk Caf Apr 11 10:21:03 1993
+From: jrm@gnv.ifas.ufl.edu
+Newsgroups: soc.culture.canada,soc.culture.hongkong,alt.comp.acad-freedom.talk
+Subject: Re: Offending Post
+Message-ID: <1993Apr11.012559.2315@gnv.ifas.ufl.edu>
+Date: 11 Apr 93 01:25:59 -0500
+
+In article <C555rG.C7w@cs.uiuc.edu>, kadie@cs.uiuc.edu (Carl M Kadie) writes:
+> davec@ECE.Concordia.CA (Dave Chu) writes:
+> 
+> [...]
+>>     **  Fantasy mode on (Don't take the following paragraph seriously ***
+>>
+>>     If I were to get a similar respond as to what Dicky got, I would suggest
+>>     doing the following.  Since they like "freedom of speech"[sic.] so much
+>>     why don't people on the net who are offened by Jammer's or whoever
+>>     posted that article, send to him or sandy messages that are a thousand 
+>>     lines long and see how much "freedom of speech" their mail spool 
+>>     directory could hold.
+> [...]
+> 
+> Substantially distruptive activities can be banned in the U.S. as long
+> as the ban is content neutral.
+>
+
+	'Substantially disruptive' inclused ANYTHING which does not
+	serve the interests of the power-elite. You are just being
+	a pawn. Your 'debate' simply serves to distract your attention
+	from the REAL issues at hand. 
+
+	We, the population, are being USED by the power-elite. Our
+	opinions, our emotions ... they are all being twisted to
+	serve our masters. We are treated as children, to be debating
+	absurdities - kinda like debating the existence of the Easter
+	Bunny - so that we do not touch upon any of the major issues
+	relating to our personal/class power in this nation. 
+
+	You all are dupes, fools. The real issue is power - not what
+	seems 'PC'. You have been mislead and mis-directed on purpose.
+	Recover your sense of the real NOW, or be pawns of the powerful
+	forever and ever.
+
+	-- JM 
+
+From caf-talk Caf Apr 11 15:39:02 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: AIA: Credit Where None is Due (fwd)
+Message-ID: <1993Apr11.193854.21327@eff.org>
+Date: Sun, 11 Apr 1993 19:38:54 GMT
+
+John E Hinton <jhinton@magnus.acs.ohio-state.edu> writes:
+
+> CREDIT WHERE NONE IS DUE
+> taken from Campus Report, Accuracy In Academia, May 1991
+[...]
+>  * A 1989 survey by the National Endowment for the Humanities
+> found that a quarter of graduating college seniors could not
+> distinguish a quotation of Winston Churchill from that of Josef
+> Stalin or Karl Marx.
+[...]
+
+What was the quote? This point is meaningless if the quote was
+"Waiter, I'll have eggs please."
+
+[...]
+>  * A 1986 National Endowment for the Arts survey of high school
+> juniors  found that two-thirds couldn_t place the date of the
+> Civil War within a 50-year period.
+
+From among which 50-year periods? This point is meaningless if 
+one period ends and other begins near the time of the Civil
+War. Consider this question:
+
+When did mankind first walk on the Moon?
+  a) Between July 16, 969 and July 15, 1969
+  b) Between July 16, 1969 and July 15, 2069
+
+If you don't know, I can say that you can not place the date of
+the first human on the Moon within a 1000-year period.
+
+- Carl
+p.s. "b"
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 15:42:42 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: [soc.culture.hongkong] Re: DON"T MOVE TO CANADA
+Message-ID: <1993Apr11.194234.21433@eff.org>
+Date: Sun, 11 Apr 1993 19:42:34 GMT
+
+mtn4583@silver.sdsmt.edu (Ty Naus) writes:
+
+[...]
+>I myself feel sorry for people in these situation, and if I could
+>change it I would, but I think that allowing large migrations of
+>people into more economically stable western countries, we are in
+>fact lowering our own standard of living.
+[...]
+
+Yeah, yeah, "My family has been having problems with immigrants every
+since we came to this country."
+
+The folks moving from Hong Kong to Canada are not poor. I believe that
+they are required to invest $1,000,000 in Canada.
+
+- Carl
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 15:43:38 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [eff.mail.com-priv]  Kudos to The Chronicle
+Message-ID: <1993Apr11.194331.21477@eff.org>
+Date: Sun, 11 Apr 1993 19:43:31 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 15:43:38 1993
+From: STAPLETON@bpa.arizona.edu (Dr. Ross Alan Stapleton)
+Subject:  Kudos to The Chronicle
+Message-ID: <930410074025.20401708@BPA.ARIZONA.EDU>
+Date: Sat, 10 Apr 1993 00:40:25 GMT
+
+In both an article in the Information Technology section and in a full page
+ad, in the April 14 issue, the Chronicle of Higher Education announces
+"Academe This Week," a newsletter available weekly via Internet.
+
+"Academe This Week" provides:
+1. A guide to the news in the current week's Chronicle
+2. A calendar of the week's events in academe
+3. A schedule of the week's Congressional hearings of interest
+   to the men and women of academe
+4. The week's important deadlines for fellowships, grant
+   applications, exchange programs, and more
+5. A listing of hundreds of job openings in academe, from the
+   current week's "bulletin board" pages of The Chronicle
+
+New editions are to be posted to the Internet each Tuesday noon EST.
+
+"Academe This Week" is accessible via gopher at chronicle.merit.edu.
+
+For more information send E-mail to help@chronicle.merit.edu.
+
+Kudos to The Chronicle...a good step toward putting the "E" in NREN!
+
+Ross
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:38:16 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.203808.22357@eff.org>
+Date: Sun, 11 Apr 1993 20:38:08 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 16:38:16 1993
+From: bs@gauss.mitre.org (Robert D. Silverman)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr7.162009.28859@linus.mitre.org>
+Date: Wed, 7 Apr 1993 16:20:09 GMT
+
+In article <C53v9x.Cv8@usenet.ucs.indiana.edu> cdvaugha@nickel.ucs.indiana.edu (Chris Vaughan) writes:
+>	Question: if a university computer system at a state
+>university is used as a news host, and the university authorities
+>censor posts to that host (with system-wide distribution only) because
+>those posts might reflect badly on them, is this or is this not a
+>violation of the poster's 1st amendment rights?
+ 
+I would think so, since it is a taxpayer (i.e. govt. sponsored university).
+
+However, it might depend upon whether your access to the computer is a
+part of your coursework/general schoolwork,  or whether the university
+has allowed you access to an unecessary-but-nice-to-have account. The
+latter might be subject to usage restrictions.
+--
+Bob Silverman
+These are my opinions and not MITRE's.
+Mitre Corporation, Bedford, MA 01730
+"You can lead a horse's ass to knowledge, but you can't make him think"
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:38:35 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.203828.22398@eff.org>
+Date: Sun, 11 Apr 1993 20:38:28 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 16:38:35 1993
+From: bs@gauss.mitre.org (Robert D. Silverman)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr7.181107.2666@linus.mitre.org>
+Date: Wed, 7 Apr 1993 18:11:07 GMT
+
+In article <C54GC7.MBp@world.std.com> artc@world.std.com (Art Campbell) writes:
+:cdvaugha@nickel.ucs.indiana.edu (Chris Vaughan) writes:
+:
+:>	Question: if a university computer system at a state
+:>university is used as a news host, and the university authorities
+:>censor posts to that host (with system-wide distribution only) because
+ 
+stuff deleted...
+
+:Based on this, I'd say:
+:The school owns the (electronic) press, so they can control 
+:its contents, just as local school boards are now seen as the publishers
+ 
+Yes. But who owns the school? It is a state (i.e. govt.) school. The
+government is not allowed to censor anything by the 1st amendment.
+
+The school officials are government employees.
+
+--
+Bob Silverman
+These are my opinions and not MITRE's.
+Mitre Corporation, Bedford, MA 01730
+"You can lead a horse's ass to knowledge, but you can't make him think"
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:38:56 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.203850.22441@eff.org>
+Date: Sun, 11 Apr 1993 20:38:50 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 16:38:56 1993
+From: bs@gauss.mitre.org (Robert D. Silverman)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr8.130529.3219@linus.mitre.org>
+Date: Thu, 8 Apr 1993 13:05:29 GMT
+
+In article <1993Apr8.034901.22796@udel.edu> berryh@huey.udel.edu (John Berryhill, Ph.D.) writes:
+:
+:You have a right to speak.  You have no right to force someone to
+:buy you a microphone.  Does everybody in the country have a right to
+:use Iowa State's computers in order to exercise this right?
+:
+:Do I have a right to use your PC to access the net?
+ 
+Huh? Where in this thread did anyone suggest force? 
+
+*Everyone* certainly does not have the right to use Iowa State's 
+computers. But the students there certainly do if it is part of 
+their curriculum. 
+
+The question is: if you have rightful access, can the university place
+restrictions on *what* you say? Especially, a PUBLIC university?
+--
+Bob Silverman
+These are my opinions and not MITRE's.
+Mitre Corporation, Bedford, MA 01730
+"You can lead a horse's ass to knowledge, but you can't make him think"
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:39:12 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.203905.22482@eff.org>
+Date: Sun, 11 Apr 1993 20:39:05 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 16:39:12 1993
+From: artc@world.std.com (Art Campbell)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <C56r08.It3@world.std.com>
+Date: Thu, 8 Apr 1993 22:12:06 GMT
+
+bs@gauss.mitre.org (Robert D. Silverman) writes:
+
+>In article <C54GC7.MBp@world.std.com> artc@world.std.com (Art Campbell) writes:
+>:cdvaugha@nickel.ucs.indiana.edu (Chris Vaughan) writes:
+>:
+>:>	Question: if a university computer system at a state
+>:>university is used as a news host, and the university authorities
+>:>censor posts to that host (with system-wide distribution only) because
+> 
+>stuff deleted...
+
+>:Based on this, I'd say:
+>:The school owns the (electronic) press, so they can control 
+>:its contents, just as local school boards are now seen as the publishers
+> 
+>Yes. But who owns the school? It is a state (i.e. govt.) school. The
+>government is not allowed to censor anything by the 1st amendment.
+>The school officials are government employees.
+
+As I said in my original article, I agree with your summation. However,
+you should probably tell the courts, because _they_ don't agree with
+your (our) conclusion.
+
+>--
+>Bob Silverman
+>These are my opinions and not MITRE's.
+>Mitre Corporation, Bedford, MA 01730
+>"You can lead a horse's ass to knowledge, but you can't make him think"
+-- 
+Art Campbell          artc@world.std.com            72227.1375@compuserve.com
+   DoD 358                                  _Real_ BMWs have just two wheels.
+    "... In my opinion, there's nothing in this world beats a '52 Vincent 
+     and a redheaded girl." -- Richard Thompson
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:39:33 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.203926.22523@eff.org>
+Date: Sun, 11 Apr 1993 20:39:26 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 16:39:33 1993
+From: berryh@huey.udel.edu (John Berryhill, Ph.D.)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr9.040653.8019@udel.edu>
+Date: Fri, 9 Apr 1993 04:06:53 GMT
+
+
+I don't have a problem with the *students at the university being free
+to express themselves on the school's computers.
+
+But the net is more than that.  There are something like 4 million
+people on the net.  The question is not "Can the university limit
+expression on a campus lan"
+The question is more akin to "can the university limit expression
+on campus by anybody who drives in from anywhere and appropriates
+a university resource (disk space) in the process"
+
+
+-- 
+
+                                              John Berryhill
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:39:45 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.203937.22564@eff.org>
+Date: Sun, 11 Apr 1993 20:39:37 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 16:39:45 1993
+From: mnemonic@eff.org (Mike Godwin)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr9.125636.16555@eff.org>
+Date: Fri, 9 Apr 1993 12:56:36 GMT
+
+In article <1993Apr9.040653.8019@udel.edu> berryh@huey.udel.edu (John Berryhill, Ph.D.) writes:
+
+>The question is more akin to "can the university limit expression
+>on campus by anybody who drives in from anywhere and appropriates
+>a university resource (disk space) in the process"
+
+But the real question is: "How can a university do this in a way that's
+consistent with the freedom-of-inquiry and freedom -of-thought missions of
+universities?" Private universities are, of course, not bound by the First
+Amendment, but they are bound by traditions that predate the First
+Amendment, and those traditions are, I think, best honored by limiting
+any censorship of Usenet based on content.
+
+
+--Mike
+
+
+
+-- 
+Mike Godwin,    |"Fear of serious injury cannot alone justify suppression
+mnemonic@eff.org| of free speech and assembly. Men feared witches and
+(617) 576-4510  | burned women. It is the function of speech to free men
+EFF, Cambridge  | from the bondage of irrational fears."  --Brandeis
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:41:50 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.204117.22606@eff.org>
+Date: Sun, 11 Apr 1993 20:41:17 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 16:41:50 1993
+From: smk5@quads.uchicago.edu (Steve Kramarsky)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr10.233453.27018@midway.uchicago.edu>
+Date: Sat, 10 Apr 1993 23:34:53 GMT
+
+In article <1993Apr7.165210.9928@midway.uchicago.edu> thf2@midway.uchicago.edu writes:
+>
+>The Supreme Court has been awfully unfriendly lately to the idea of
+>extending the concept of the "public forum" beyond streets and parks.
+>Still, even with semi-public fora, my understanding is that restrictions
+>have to be time/place/manner content-neutral ones.
+>
+>The question then arises whether a network is semi-public or private,
+>which turns on inquiries that I am less than completely familiar with,
+>and thus reluctant to comment upon.
+>--
+
+  Ted is right at least in part. It seems very unlikely that networks would  
+be found to be public fora by the current court.  The expansion of that 
+definition was primarily the crusade of Brennan and Marshal and they pretty
+much lost.  Public forum is now, for all intents and purposes, a synonym for
+"street or park." <Did you have Kagan for 1st Amendment?>
+  Anyway, all of this is irrelevant in light of the original poster's    
+question which suggested that universities were censoring postings because
+they contatined opinions which reflected badly on the university.  If that
+is the case, the law is the same for public, non-public or semi-public (if
+such a thing exists) fora:  such censoring is viewpoint based and will
+likely be struck down.      
+  Several caveats here (besides the standard disclaimers about not being a
+lawyer yet):  First, we must assume the university is in whole or in part
+state funded.  If it's a private actor, of course, it can do as it pleases.
+Second viewpoint-based is not the same content-based--that is, if the net is  
+not a public forum, the university can impose a blanket policy that says 
+"we won't publish anything that discusses out affirmative action program" (a
+content based restriction) but it cannot have a policy that says "we will
+not publish any _unfavorable_ articles about our affirmative action program."
+This is the distinction articulated in Greer v Spock (424 US 828 (1976)) and
+other formative public forum cases.  [And all of this is in the process of  
+breaking down, by the way, under the confused 1st Amend. jurisprudence of the
+current CJ, see Renton v Playtime Theaters (475 US 41 (1986)).  The third      
+caveat is that the entire INTERNET may belong to the government and I'm not 
+sure how this would effect the analysis.  It's not clear who owns the internet,
+not like the good old days where it was ARPAnet and the DOD owned it and
+that was that.  Sometimes the government acts as if it still has some
+ownership interest in the Internet (as in the Robert T. Morris case, the site
+for which I don't have handy) and sometimes it doesn't.  Also, I haven't read
+Cubby v Compuserve so I don't know how broad the common carrier logic is, but
+if it applies to the internet that might also effect the ability of its
+administartors (the universities) to censor matierial.  Gee, with all these
+caveats there's not much left of my original $0.02.  Oh well.        
+
+  Thanks for listenin'
+  Steve
+  
+-- 
+            Steve Kramarsky, University of Chicago Law School
+           steve@faerie.chi.il.us -or- smk5@quads.uchicago.edu 
+     "All I did was kiss a girl." - Jake, the night before his hanging.
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:42:59 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.204252.22658@eff.org>
+Date: Sun, 11 Apr 1993 20:42:52 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 16:42:59 1993
+From: mnemonic@eff.org (Mike Godwin)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.015851.15040@eff.org>
+Date: Sun, 11 Apr 1993 01:58:51 GMT
+
+In article <1993Apr10.233453.27018@midway.uchicago.edu> smk5@midway.uchicago.edu writes:
+
+>  Ted is right at least in part. It seems very unlikely that networks would  
+>be found to be public fora by the current court.
+
+It is possible that the networks might not be held to be a public forum
+while Usenet is.
+
+>The third      
+>caveat is that the entire INTERNET may belong to the government and I'm not 
+>sure how this would effect the analysis.
+
+Not to worry. We're long past the days when any government entity could
+claim to "own" the Internet.
+
+>Sometimes the government acts as if it still has some
+>ownership interest in the Internet (as in the Robert T. Morris case, the site
+>for which I don't have handy) and sometimes it doesn't.
+
+The Morris case did not assume that the government had any ownership
+interest in the Internet. 18 USC 1030 broadly defines "federal interest
+computers." The issue was the Worm's effect on "federal interest
+computers," not on the Internet per se.
+
+> Also, I haven't read
+>Cubby v Compuserve so I don't know how broad the common carrier logic is, but
+>if it applies to the internet that might also effect the ability of its
+>administartors (the universities) to censor matierial.  Gee, with all these
+>caveats there's not much left of my original $0.02.  Oh well.        
+
+Cubby doesn't depend on common-carrier analysis.
+
+
+--Mike
+
+
+
+-- 
+Mike Godwin,    |"Fear of serious injury cannot alone justify suppression
+mnemonic@eff.org| of free speech and assembly. Men feared witches and
+(617) 576-4510  | burned women. It is the function of speech to free men
+EFF, Cambridge  | from the bondage of irrational fears."  --Brandeis
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:43:27 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [misc.legal, et al.]  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.204321.22700@eff.org>
+Date: Sun, 11 Apr 1993 20:43:21 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Apr 11 16:43:27 1993
+From: thf2@kimbark.uchicago.edu (Ted Frank)
+Subject:  Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.021410.1822@midway.uchicago.edu>
+Date: Sun, 11 Apr 1993 02:14:10 GMT
+
+In article <1993Apr11.015851.15040@eff.org> mnemonic@eff.org (Mike Godwin) writes:
+>In article <1993Apr10.233453.27018@midway.uchicago.edu> smk5@midway.uchicago.edu writes:
+>>  Ted is right at least in part. It seems very unlikely that networks would  
+>>be found to be public fora by the current court.
+>
+>It is possible that the networks might not be held to be a public forum
+>while Usenet is.
+
+Possibly.  The Court's very split on these issues.  Currently, though,
+Rehnquist et al. use a "tradition" test, see ISKC v Lee, under which
+Usenet may not qualify.  (Of course, now that White is gone, results
+may change.  Too, Usenet is probably the best test case with which to
+challenge the Lee test and call for a return to the Grayned test.)
+-- 
+ted frank                 | 
+thf2@kimbark.uchicago.edu |         I'm sorry, the card says "Moops."
+the u of c law school     | 
+standard disclaimers      | 
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:55:17 1993
+Newsgroups: misc.legal,misc.legal.computing,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.205509.22818@eff.org>
+Date: Sun, 11 Apr 1993 20:55:09 GMT
+
+bs@gauss.mitre.org (Robert D. Silverman) writes:
+
+[...]
+>However, it might depend upon whether your access to the computer is a
+>part of your coursework/general schoolwork,  or whether the university
+>has allowed you access to an unecessary-but-nice-to-have account. The
+>latter might be subject to usage restrictions.
+[...]
+
+Why does the type of account matter? If I understand your implication,
+you believe that state schools can act arbitrarily with
+"unnecessary-but-nice-to-have accounts". I don't think this is the
+case. I believe due process is required even for entitlements like
+a nice-to-have account.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+law/goss-v-lopez3
+=================
+* Due Process -- When Required -- Goss v. Lopez
+
+Two articles providing excerpts from Goss v. Lopez (1975) and
+discussing its application to the suspension of computer accounts.
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/law/goss-v-lopez3
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/law goss-v-lopez3
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 16:58:07 1993
+Newsgroups: misc.legal,misc.legal.computing,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Soliciting opinions: USENET and the 1st amendment
+Message-ID: <1993Apr11.205800.22887@eff.org>
+Date: Sun, 11 Apr 1993 20:58:00 GMT
+
+bs@gauss.mitre.org (Robert D. Silverman) writes:
+
+[...]
+>The question is: if you have rightful access, can the university place
+>restrictions on *what* you say? Especially, a PUBLIC university?
+[...]
+
+Yes and no, they can restricted topics but not viewpoints.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+law/san-diego-committee-v-gov-bd
+=================
+* Expression -- Public Forum -- Overview -- San Diego Committee v. Gov Bd
+
+Excerpts from San Diego Committee v.  Governing Bd., 790 F.2d 1471.  A
+decision by an appellate court that applied the Supreme Court's Public
+Forum Doctrine (to a school newspaper).
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/law/san-diego-committee-v-gov-bd
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/law san-diego-committee-v-gov-bd
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Apr 11 20:14:27 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: jstewart@bertrand.carleton.ca (John Stewart)
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <jstewart.734573122@cunews>
+Date: Mon, 12 Apr 1993 00:05:22 GMT
+
+In <FLETCH.93Apr5133859@excalibur.gatech.edu> fletch@excalibur.gatech.edu (Mike Fletcher) writes:
+>	I thought that one of the provisions of being hooked to NSFNet
+>(or whatever the thing is being called these days) was that you HAD to
+>do some sort of user authentication on ANY machine that had an IP
+>connection (i.e. Macs, terminals, whatever).  At least this was what I
+>had been told by the Net Services people here at Ga Tech.
+
+Authentication would only be required on machines that are able to 
+connect directly to the Internet.  On our campus, public accessible pc's 
+which don't perform any form of authentication are blocked from directly
+accessing the Internet using appropriate access controls in our Cisco
+routers.
+
+-- 
+John Stewart -- Computing and Communications Services, Carleton University
+Internet: jstewart@ccs.carleton.ca or Mr.Canoehead@algonquin.carleton.ca  
+"This ad was paid for by the Liberal party of Canada, desperate to get back
+into power!" -- CBC radio comedy "Double Exposure"
+
+From caf-talk Caf Apr 11 21:18:07 1993
+From: hatcher@MSUPA.PA.MSU.EDU
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: AIA: Credit Where None is Due (fwd)
+Date: 12 Apr 1993 01:11:48 GMT
+Message-ID: <1qafkk$rfb@msuinfo.cl.msu.edu>
+
+In article <9304110447.AA22994@top.magnus.acs.ohio-state.edu>, John E Hinton <jhinton@magnus.acs.ohio-state.edu> writes:
+>Campus Report articles from the archives of Accuracy in Academia (AIA)
+>Sent independently of AIA by a loyal supporter of the organization's goals and 
+>purpose.
+[long diatribe about how education in the US is/has gone to hell in a
+handbasket deleted to save bandwidth.]
+
+I just wanted to point out (from this very article) an apparently recurring
+example that this is true.  The poster -continually- uses an underscore
+-everywhere- a quote (apostrophie) character is appropriate:
+
+> juniors  found that two-thirds couldn_t place the date of the
+
+> _Democracy_s Next Generation,_ found: _Young people cherish
+[...]
+
+> Humanities, _Tyrannical Machines,_ pointed out the problems of
+
+>  Multiculturalism is becoming a sink or swim factor in the world
+> of academe.  Even as political correctness is being unmasked,
+> inclusive curricula, hiring quotas, and victim_s studies are
+> becoming required by some academic accreditation services.
+
+Here my bogosity sensor starts to alarm at the right wing (apparently?)
+code phrase "victim's studies".  I've never heard of such a program
+but it seems, from context, designed to hit all the hot buttons of
+all "right thinking" conservatives.
+
+>  The Association of American Law Schools has required that member
+> schools deny assistance to employers discriminating on the basis
+> of sexual orientation.  
+
+Horrors of horrors...asking Law Schools to uphold the equal protection
+clause of the constitution, for shame!  What any of that has to do
+with the decline of the US education system eludes me.  I suspect it
+too is here just to rile (sp?) those right thinking people as well.
+
+> This prompted many law schools to kick the
+> CIA, FBI, and military off their campus, depriving students of the
+> opportunity to interview with the employer of their choice.  This
+
+Which could just as easily be solved by having those employers stop
+discriminating on criteria UNRELATED to the work they are hired to do.
+
+[more right wing propaganda deleted ...]
+
+-robert
+
+ Robert W. Hatcher        | 256D Physics-Astronomy    | hatcher@msupa   (Bitnet)
+ Software Tzar, Hunchback | Michigan State University | msuhep::hatcher (HEPnet)
+ (517) 353-3008,-5180     | East Lansing, MI 48824    | hatcher@msupa.pa.msu.edu
+
+
+From caf-talk Caf Apr 11 22:51:54 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: jis@MIT.EDU (Jeffrey I. Schiller)
+Subject: Re: Fake anon posting, Macs in dorms etc
+Message-ID: <9304120249.AA07894@MIT.EDU>
+Date: Mon, 12 Apr 1993 03:49:45 GMT
+
+> Date: Mon, 12 Apr 1993 00:05:22 GMT
+> From: jstewart@bertrand.ccs.carleton.ca (John Stewart)
+> Organization: Carleton University
+> Sender: comp-academic-freedom-talk-request@eff.org
+> References: <1ppamd$9oh@nz12.rz.uni-karlsruhe.de>, <jstewart.734017933@cunews>, 
+<FLETCH.93Apr5133859@excalibur.gatech.edu>
+> Subject: Re: Fake anon posting, Macs in dorms etc
+> To: comp-academic-freedom-talk@eff.org (comp-academic-freedom-talk mailing list)
+> 
+> In <FLETCH.93Apr5133859@excalibur.gatech.edu> fletch@excalibur.gatech.edu (Mike Fletcher) writes:
+> >       I thought that one of the provisions of being hooked to NSFNet
+> >(or whatever the thing is being called these days) was that you HAD to
+> >do some sort of user authentication on ANY machine that had an IP
+> >connection (i.e. Macs, terminals, whatever).  At least this was what I
+> >had been told by the Net Services people here at Ga Tech.
+
+And where is this requirement stated?
+
+                        -Jeff
+

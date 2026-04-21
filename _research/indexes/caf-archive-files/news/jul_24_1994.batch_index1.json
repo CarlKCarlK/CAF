@@ -1,0 +1,393 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "23 Jul 1994",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The CAF-News digest required a new editor as of July 1994."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Microsoft"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "Carl Kadie announced his departure from academia after completing his Ph.D. and requested a new editor to take over the CAF-News digest. He noted that he was beginning employment at Microsoft.",
+      "title": "Wanted: Editor for CAF-News",
+      "topics": [
+        "CAF-News",
+        "editorial transition",
+        "academic career"
+      ]
+    },
+    "identity": {
+      "date": "23 Jul 1994 13:26:19 -0400",
+      "from": "kadie@eff.org (Fwd:)",
+      "item_count": 10,
+      "item_index": 0,
+      "message_id": "<30rjrr$ji5@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Wanted: Editor for CAF-News",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "23 Jul 1994",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The CAF-News digest required a moderator for the alt.comp.acad-freedom.news newsgroup.",
+        "Mailing lists and archives were managed by separate administrators (William Arnold and J.S. Greenfield)."
+      ],
+      "organizations": [
+        "EFF",
+        "Microsoft"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "William Arnold",
+        "J.S. Greenfield"
+      ],
+      "summary": "Carl Kadie announces his resignation as editor of the CAF-News digest due to starting a position at Microsoft. He calls for a replacement editor from academia to moderate alt.comp.acad-freedom.news. The post identifies other key administrators maintaining the mailing lists and archives.",
+      "title": "Wanted: Editor for CAF-News",
+      "topics": [
+        "community administration",
+        "CAF-News",
+        "moderation"
+      ]
+    },
+    "identity": {
+      "date": "23 Jul 1994 13:22:20 -0400",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 1,
+      "message_id": "<30rjkc$jgt@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Wanted: Editor for CAF-News",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 30, 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Account termination is the standard response to 'hackers'",
+        "Access to state-funded computing equipment is viewed as a privilege, not a right"
+      ],
+      "organizations": [
+        "University of Hawaii at Hilo"
+      ],
+      "people": [],
+      "summary": "A PC LAN administrator at the University of Hawaii at Hilo describes a strict policy of eliminating accounts for students identified as 'hackers'. The administrator asserts that using state equipment for classwork is a privilege rather than a right and requires formal hearings for account reinstatement.",
+      "title": "Ethics For Students on Net",
+      "topics": [
+        "student discipline",
+        "network access",
+        "hacking",
+        "academic freedom",
+        "acceptable use policy"
+      ]
+    },
+    "identity": {
+      "date": "3 Jul 1994 19:15:37 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 10,
+      "item_index": 2,
+      "message_id": "<2v72op$di3@vixen.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Re: Ethics For Students on Net",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Use of state equipment for classwork is a privilege, not a right.",
+        "Administrative hearings involving the CS chair and Dean are used to determine student reinstatement after hacking incidents."
+      ],
+      "organizations": [
+        "University of Hawaii at Hilo",
+        "Cape Technikon"
+      ],
+      "people": [
+        "Normand P. Dionne",
+        "Gys Driessen"
+      ],
+      "summary": "A system administrator at the University of Hawaii at Hilo describes aggressive technical and administrative measures used to combat 'hackers' and student misuse of campus networks. These include permanent revocation of Unix access, forced machine reboots to prevent unauthorized boot-level access, and the use of custom software to overwrite modified system files on every boot. The author explicitly asserts that using state equipment for classwork is a privilege, not a right.",
+      "title": "Re: Ethics For Students on Net",
+      "topics": [
+        "computer ethics",
+        "system administration",
+        "academic discipline",
+        "network security",
+        "student access"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Normand Novell Mail <ndionne@UHHACB.UHH.HAWAII.EDU>",
+      "item_count": 10,
+      "item_index": 3,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Re: Ethics For Students on Net",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "9 Jul 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "An administrator at Florida State University sought technical means to block access to 'hacking/anarchist materials' and adult content via the WWW."
+      ],
+      "organizations": [
+        "Florida State University"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "A repost describes a request from a Florida State University administrator seeking methods to restrict student access to specific web content. The restricted materials mentioned include adult imagery and hacking or anarchist resources.",
+      "title": "Monitoring Students",
+      "topics": [
+        "internet filtering",
+        "student monitoring",
+        "censorship",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "9 Jul 1994 21:20:44 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 10,
+      "item_index": 4,
+      "message_id": "<2vn4bc$nm4@vixen.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Monitoring Students",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "7 Jul 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The author seeks a way to prevent students from accessing 'hacking/anarchist materials' and adult content in a public computer lab."
+      ],
+      "organizations": [
+        "Florida State University"
+      ],
+      "people": [
+        "Sean Howard"
+      ],
+      "summary": "Sean Howard inquires about technical methods to monitor and filter outgoing URL requests in a student computer lab. He seeks a server-based solution to block access to content deemed inappropriate, specifically mentioning pornography and hacking or anarchist materials.",
+      "title": "Monitoring Students",
+      "topics": [
+        "internet filtering",
+        "student monitoring",
+        "censorship",
+        "web proxies"
+      ]
+    },
+    "identity": {
+      "date": "7 Jul 1994 13:44:52 GMT",
+      "from": "showard@acns.cc.fsu.edu (Sean Howard)",
+      "item_count": 10,
+      "item_index": 5,
+      "message_id": "<2vh0sk$odf@mailer.fsu.edu>",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Monitoring Students",
+      "to_or_newsgroups": "comp.infosystems.www",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "12 Jul 1994",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators at .edu sites should not be the ones to take direct action against offending individuals."
+      ],
+      "organizations": [
+        "EFF",
+        "ACLU"
+      ],
+      "people": [],
+      "summary": "A system administrator argues that technical staff should not act as judges when dealing with offending individuals at educational institutions. The author suggests that disciplinary actions should be handled by appropriate authorities, such as a Dean of Students, rather than the system administrator.",
+      "title": "Responsibility of admins, was Re: ACLU supporting spamming",
+      "topics": [
+        "system administration",
+        "academic discipline",
+        "governance",
+        "spamming"
+      ]
+    },
+    "identity": {
+      "date": "12 Jul 1994 09:52:37 -0400",
+      "from": "kadie@eff.org (Fwd:)",
+      "item_count": 10,
+      "item_index": 6,
+      "message_id": "<2vu775$e6u@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Responsibility of admins, was Re: ACLU supporting spamming",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "28 Jun 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators at .edu sites should not act as judges or user administrators.",
+        "Content disputes in public forums should be handled by university authorities (e.g., Dean of Students) rather than technical admins."
+      ],
+      "organizations": [
+        "University of Kentucky"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Donald Edwards"
+      ],
+      "summary": "Wes Morgan argues against the notion that system administrators at educational institutions should be responsible for policing user content. He contends that disciplinary actions should be handled by appropriate university authorities, such as a Dean of Students, rather than technical staff. Morgan shares an example where he refused to censor a user's racist postings because they occurred within a limited public forum.",
+      "title": "Responsibility of admins, was Re: ACLU supporting spamming",
+      "topics": [
+        "system administration",
+        "academic freedom",
+        "censorship",
+        "university policy",
+        "netiquette"
+      ]
+    },
+    "identity": {
+      "date": "28 Jun 1994 15:43:27 GMT",
+      "from": "morgan@engr.uky.edu (Wes Morgan)",
+      "item_count": 10,
+      "item_index": 7,
+      "message_id": "<2upgev$lnr@s.ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Responsibility of admins, was Re: ACLU supporting spamming",
+      "to_or_newsgroups": "alt.censorship,alt.society.civil-liberty,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "13 Jul 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "USF computer policies may authorize illegal searches",
+        "Policies are vague enough to prohibit all computer use",
+        "Posting under a pseudonym to alt.sexual-abuse.recovery could be punished"
+      ],
+      "organizations": [
+        "University of South Florida",
+        "ACLU"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "A critique of computer use policies at the University of South Florida. The author argues that these policies are overly vague, lack user participation, and potentially authorize illegal searches and summary punishment. Specifically, it notes that posting to support groups like alt.sexual-abuse.recovery under a pseudonym could be penalized.",
+      "title": "ACLU to support spamming in Florida case?",
+      "topics": [
+        "computer use policies",
+        "academic freedom",
+        "privacy",
+        "pseudonymity"
+      ]
+    },
+    "identity": {
+      "date": "13 Jul 1994 03:21:11 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 10,
+      "item_index": 8,
+      "message_id": "<2vvmj7$4e6@vixen.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Re: ACLU to support spamming in Florida case?",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "12 Jul 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "University policies prohibiting the obscuring of identity may illegally punish users posting to support groups under pseudonyms.",
+        "The Electronic Communications Privacy Act (ECPA) could be construed to protect university email from unauthorized monitoring.",
+        "Broad prohibitions on promoting religious or political groups on state computers may violate freedom of expression."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of South Florida",
+        "University of Florida",
+        "ACLU"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Andrea Longo",
+        "Mike Godwin"
+      ],
+      "summary": "Carl Kadie critiques the computer use policies of the University of South Florida and the University of Florida, arguing they are overly vague and violate constitutional rights. He specifically challenges rules against anonymity and monitoring, citing the Electronic Communications Privacy Act (ECPA) and the 4th Amendment. The post serves as a broader commentary on due process and privacy for students using university computing resources.",
+      "title": "Re: ACLU to support spamming in Florida case?",
+      "topics": [
+        "academic freedom",
+        "privacy",
+        "university computer policy",
+        "ECPA",
+        "due process",
+        "anonymity"
+      ]
+    },
+    "identity": {
+      "date": "12 Jul 1994 09:49:00 -0400",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 9,
+      "message_id": "<2vu70c$e41@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/jul_24_1994",
+      "subject": "Re: ACLU to support spamming in Florida case?",
+      "to_or_newsgroups": "news.admin.policy,alt.comp.acad-freedom.talk,news.admin.misc",
+      "truncated_for_model": false
+    }
+  }
+]

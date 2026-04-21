@@ -1,0 +1,513 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Jun 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators are often unfairly targeted in discussions regarding computer access and restrictions.",
+        "User ignorance of system limits (e.g., excessive background jobs or print requests) creates significant administrative strain."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "Engineering Computing Center"
+      ],
+      "people": [
+        "Wes Morgan"
+      ],
+      "summary": "Wes Morgan defends system administrators against criticisms voiced in the discussion group. He argues that users often lack an understanding of the technical and logistical burdens placed on admins, such as managing resource-heavy jobs and user demands. The post encourages empathy for those managing shared computing resources to avoid blanket condemnations.",
+      "title": "Have you walked the proverbial mile?",
+      "topics": [
+        "system administration",
+        "user behavior",
+        "resource management",
+        "academic computing"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "cs.utexas.edu!asuvax!ukma!morgan@uunet.uu.net",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Have you walked the proverbial mile?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Jun 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Administrative power without due process can stunt a student's education by discouraging exploration beyond the curriculum.",
+        "There is a need for formal rules and rights to govern the relationship between system administrators and users."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "EFF"
+      ],
+      "people": [
+        "Sean Casey",
+        "Dave Brown",
+        "David Roselle"
+      ],
+      "summary": "Sean Casey argues for established rules and rights for both system administrators and users to prevent arbitrary exercises of power. He recounts a personal experience at the University of Kentucky where a professor used administrative privileges to search his files and discourage 'hacking' after he exceeded connect-time limits while writing shell scripts. The author highlights the 'chilling effect' such administration has on student curiosity and academic exploration.",
+      "title": "Re: Have you walked the proverbial mile?",
+      "topics": [
+        "system administration",
+        "user rights",
+        "academic freedom",
+        "privacy",
+        "chilling effect"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "zaphod.mps.ohio-state.edu!sol.ctr.columbia.edu!lll-winken!iggy.GW.Vitalink.COM!widener!ukma!sean@uunet.uu.net",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Re: Have you walked the proverbial mile?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 20, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators may target individual users to reduce their overall workload.",
+        "Sysadmins have used account suspensions and monitoring of user files as a means of control."
+      ],
+      "organizations": [
+        "University of Maryland",
+        "Duke University Computer Science Dept."
+      ],
+      "people": [
+        "Matthew T. Russotto",
+        "Wes Morgan"
+      ],
+      "summary": "Matthew T. Russotto responds to a system administrator's claim that admins are too busy to persecute users. Russotto describes personal experiences of account suspension and surveillance by sysadmins on VAXstations. He argues that some administrators target specific 'troublemaker' users to reduce their own workload.",
+      "title": "Re: Have you walked the proverbial mile?",
+      "topics": [
+        "system administration",
+        "user surveillance",
+        "account suspension",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "mojo!russotto@mimsy.umd.edu",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Re: Have you walked the proverbial mile?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 21, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Locking a student's account in an academic setting can be tantamount to expulsion.",
+        "System administrators should treat users as 'innocent until proven guilty beyond a reasonable doubt'.",
+        "Good system administration should be as invisible as possible."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Charlie Martin",
+        "Fred Cohen"
+      ],
+      "summary": "Charlie Martin shares a personal anecdote about a system administrator deleting his mail archives without notice to save disk space. He argues that system administrators in academic settings should exercise restraint and avoid locking accounts, as losing computer access can be equivalent to expulsion for students. The post emphasizes the need for due process and measured responses when dealing with user errors or antisocial behavior on shared systems.",
+      "title": "War story and some thoughts....",
+      "topics": [
+        "system administration",
+        "academic freedom",
+        "user rights",
+        "due process",
+        "computing ethics"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "duke!crm@mcnc.org",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "War story and some thoughts....",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "UIUC computer usage rules were rewritten as a result of the author's actions.",
+        "The CSO allegedly used bureaucratic delays to maintain an indefinite account suspension without due process."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "Computing Services Office (CSO)"
+      ],
+      "people": [
+        "Mike Neuliep",
+        "Carl Kadie"
+      ],
+      "summary": "Mike Neuliep describes how the University of Illinois at Urbana-Champaign (UIUC) Computing Services Office (CSO) suspended his accounts following a Usenet flame war with a CSO employee. Neuliep alleges that the CSO intentionally failed to file the case with the Student Disciplinary Committee to keep his accounts suspended indefinitely without a hearing. He claims this bureaucratic maneuver was used to punish 'maverick' users and led to the rewriting of university computer usage rules.",
+      "title": "My Punishment",
+      "topics": [
+        "acceptable use policy",
+        "student discipline",
+        "account suspension",
+        "administrative abuse"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "My Punishment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jun 21, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The CS department would not have suspended accounts based solely on the CSO's request."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "Computing Services Office"
+      ],
+      "people": [
+        "Paul Pomes"
+      ],
+      "summary": "Paul Pomes of the University of Illinois CSO responds to a previous post regarding student punishments and account suspensions. He challenges the anonymity and specifics of a former student's claims about administrative actions taken by the CSO and the Computer Science department.",
+      "title": "Re: My Punishment",
+      "topics": [
+        "account suspension",
+        "student discipline",
+        "administrative conflict"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 21 Jun 1991 22:18:47 GMT",
+      "from": "paul@uxc.cso.uiuc.edu (Paul Pomes - UofIllinois CSO)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1991Jun21.221847.2599@ux1.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Re: My Punishment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "20 Jun 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators should have the power to suspend privileges to preserve order, but not to punish users.",
+        "Users are entitled to clear statements of policy and timely procedures for appeal regarding administrative actions.",
+        "The right to punish should be reserved for institutional authorities such as provosts or deans rather than system administrators."
+      ],
+      "organizations": [
+        "Deloitte & Touche",
+        "Miami University"
+      ],
+      "people": [
+        "William Hugh Murray"
+      ],
+      "summary": "William Hugh Murray proposes a framework for system administration policies to balance order with user rights. He argues that administrative suspensions should be used only to preserve system stability, not as punishment, and that formal disciplinary actions should be reserved for institutional authorities.",
+      "title": "Punishment",
+      "topics": [
+        "system administration",
+        "acceptable use policy",
+        "due process",
+        "administrative authority"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "William Hugh Murray <0003158580@mcimail.com>",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<60910619203406/0003158580NB2EM@mcimail.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 21, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Some colleges previously blocked all student internet access due to a 'don't let them do anything' mentality.",
+        "System administrators face a conflict between inconveniencing one user and ensuring stability for the entire user base."
+      ],
+      "organizations": [
+        "Kenyon College",
+        "Northern Illinois University"
+      ],
+      "people": [
+        "Miles Oursler"
+      ],
+      "summary": "Miles Oursler, a systems manager at Kenyon College, contributes to a debate regarding the conduct of system administrators and student rights. He describes his efforts to overturn restrictive policies that previously blocked student internet access based on fear of misuse. The post discusses the tension between maintaining system stability for all users and the fair treatment of individual students who violate rules.",
+      "title": "Slime and Punishment",
+      "topics": [
+        "system administration",
+        "student rights",
+        "internet access",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "zaphod.mps.ohio-state.edu!pacific.mps.ohio-state.edu!ohstpy!miavx1!miavx2.ham.muohio.edu!maoursler@uunet.uu.net",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Slime and Punishment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 20, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Users are often punished more severely for follow-up infractions than for the original offense."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "Carl Kadie provides advice to computer users on how to handle disputes with system administrators. He warns that committing further rule infractions during a protest often leads to more severe punishments than the original offense. The post emphasizes the distinction between the right to appeal a rule and the right to violate it.",
+      "title": "How to back a user into a corner",
+      "topics": [
+        "system administration",
+        "user rights",
+        "computer policy",
+        "academic conduct"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Re: How to back a user into a corner",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-06-20",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System abuse is primarily a result of poor communication between systems staff and users.",
+        "Explaining the reasons for system restrictions reduces user frustration and can lead to user support for those restrictions."
+      ],
+      "organizations": [
+        "State University of New York, Stony Brook"
+      ],
+      "people": [
+        "Sanjay Kapur"
+      ],
+      "summary": "Sanjay Kapur, a systems administrator at SUNY Stony Brook, discusses the importance of communication between technical staff and users. He argues that system abuse is typically caused by a lack of communication rather than malice. He advocates for direct access to systems staff as a central element of institutional policy to reduce user frustration.",
+      "title": "Users and Systems staff interaction",
+      "topics": [
+        "systems administration",
+        "user relations",
+        "computer ethics",
+        "institutional policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<2E8DFD2EDC217F86@ccmail.sunysb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Users and Systems staff interaction",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-06-18",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Accounts were suspended during Internet and DECnet worm outbreaks if usernames matched passwords.",
+        "Account suspensions are primarily triggered automatically by a lack of allocated funds.",
+        "Files are archived upon account deletion if requested by the user."
+      ],
+      "organizations": [
+        "State University of New York, Stony Brook",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Sanjay Kapur"
+      ],
+      "summary": "Sanjay Kapur, a system administrator at SUNY Stony Brook, outlines the specific criteria used for suspending or deleting user accounts. He describes policies regarding funding exhaustion, security risks during worm outbreaks, and administrative deletions due to affiliation changes. The post seeks feedback on whether these standard administrative practices constitute 'wrongful' denials of service.",
+      "title": "Account suspensions and other denial of services in practice",
+      "topics": [
+        "system administration",
+        "account suspension",
+        "denial of service",
+        "university computing policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<2EAE2FFB1C217F86@ccmail.sunysb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Account suspensions and other denial of services in practice.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-06-18",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The term 'theft of service' is too broad to meet the standard of being clearly defined.",
+        "Vague computer policies can be used to categorize any violation as theft of service."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "Carl Kadie argues that the term 'theft of service' is too vague to be used as a basis for disciplinary action against computer users. He contends that such broad terminology allows any policy violation to be categorized as theft, contradicting principles of clarity and reasonableness.",
+      "title": "User theft of service",
+      "topics": [
+        "computer policy",
+        "theft of service",
+        "academic freedom",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Re: User theft of service",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The CAF discussions were hosted via eff.org",
+        "Discussion moved to alt.comp.acad-freedom.talk and alt.comp.acad-freedom.news"
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Chris Davis"
+      ],
+      "summary": "Carl Kadie announces that Computers and Academic Freedom discussions have expanded from mailing lists to Usenet newsgroups. He outlines the technical advantages of newsgroups, including better disk usage and reduced administrative overhead. The transition includes both an unmoderated 'talk' group and a moderated 'news' group.",
+      "title": "Switching from the mailing lists to the newsgroups",
+      "topics": [
+        "infrastructure",
+        "Usenet",
+        "communication channels",
+        "mailing lists"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n13",
+      "subject": "Switching from the mailing lists to the newsgroups",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

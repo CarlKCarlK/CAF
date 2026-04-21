@@ -1,0 +1,82 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 27, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Poor online communication habits may invite authorities to outlaw rudeness in computer media.",
+        "Assertiveness training strategies can mitigate the negative impact of 'flames' and encourage constructive criticism."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl M Kadie"
+      ],
+      "summary": "Carl M. Kadie proposes the creation of an online seminar on assertiveness training to improve communication and reduce hostility in cyberspace. He argues that better interpersonal skills would make computer media less intimidating for newcomers and less likely to attract regulatory authorities seeking to outlaw rudeness. The post provides a detailed list of strategies for constructive online debate and avoiding 'flame wars'.",
+      "title": "Wanted: Assertiveness Training for Cyberspace",
+      "topics": [
+        "netiquette",
+        "online communication",
+        "flaming",
+        "digital literacy"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 27 Jul 1993 15:49:33 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M Kadie)",
+      "item_count": 2,
+      "item_index": 0,
+      "message_id": "<CAtyML.Fvp@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/aug_01_1993",
+      "subject": "Wanted: Assertiveness Training for Cyberspace",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 27, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Encoded binary data is unviewable without voluntary action and therefore does not constitute harassment.",
+        "Distinction should be made between the possession/transmission of material and its use to harass others.",
+        "Content-based restrictions on network data are a form of censorship."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "University of Waterloo"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Sonia Prevost-Derbecker"
+      ],
+      "summary": "Wes Morgan responds to a call by Sonia Prevost-Derbecker for the University of Waterloo to stop the transmission of pornography on its network. Morgan argues that because binary images are transmitted as encoded text (uuencode), they require voluntary effort to view and thus cannot constitute harassment in their raw form. He contends that university policy should target the targeted use of material for harassment rather than the existence of the data itself, labeling content-based restrictions as censorship.",
+      "title": "Re: [KWR] \"UW to probe offensive images in computer network\"",
+      "topics": [
+        "censorship",
+        "binary encoding",
+        "harassment",
+        "academic freedom",
+        "Usenet"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 27 Jul 1993 14:28:50 GMT",
+      "from": "morgan@engr.uky.edu (Wes Morgan)",
+      "item_count": 2,
+      "item_index": 1,
+      "message_id": "<CAtuw3.9Mv@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/aug_01_1993",
+      "subject": "Re: [KWR] \"UW to probe offensive images in computer network\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

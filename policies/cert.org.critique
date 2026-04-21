@@ -1,0 +1,298 @@
+From caf-talk Caf Nov 10 19:18:04 1993
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.privacy,comp.admin.policy,misc.legal
+Subject: Re: "Sysop Liability for Enroute (and/or Encrypted) Mail"
+Date: 10 Nov 1993 19:18:07 -0500
+Message-ID: <2bs0bv$or0@eff.org>
+
+>Sysop Liability for Enroute (and/or Encrypted) Mail
+>Mike Riddle
+>1:285/27
+
+[...]
+>This ambiguity [in the ECPA] is what led to the Department of Justice
+>recommendation that system administrators at government computer
+>sites place explicit disclaimers at logon, warning that keystroke
+>monitoring or service observation might be used, if they thought they
+>would ever want to use this technique.
+[...]
+
+Can someone suggest the minimum disclaimer needed to patch the bug in
+the ECPA?
+
+[The following is a slight revision of an early article.]
+
+CERT's example disclaimer is awful. It says (essentially) that if you
+think you might ever need to capture the keystrokes of an intruder,
+then you should compel your users to give up their ECPA and (at state
+universities) 4th Amendment rights.
+
+The main problem is the wording of the "example of an appropriate
+banner":
+
+       This system is for the use of authorized users only.
+       Individuals using this computer system without authority, or in
+       excess of their authority, are subject to having all of their
+       activities on this system monitored and recorded by system
+       personnel.
+
+       In the course of monitoring individuals improperly using this
+       system, or in the course of system maintenance, the activities
+       of authorized users may also be monitored.
+
+       Anyone using this system expressly consents to such monitoring
+       and is advised that if such monitoring reveals possible
+       evidence of criminal activity, system personnel may provide the
+       evidence of such monitoring to law enforcement officials.
+
+It does not restrict itself to keystroke monitoring. It does not
+defining "monitoring". Rather, it says that all activities might be
+monitored and recorded. This could include email. It could include
+anything. It does not restrict itself to intruders or to break in
+attempts. Rather, it says that even authorized users in excess of
+their authority are subject to being "monitored" and "recorded". Since
+users don't have authority to violate rules, this all means that any
+user suspected of rule breaking loses his or her right email (and
+other) privacy.
+
+Please someone, suggest better language.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From: morgan@engr.uky.edu (Wes Morgan)
+Newsgroups: comp.org.eff.talk,comp.admin.policy,misc.legal,alt.privacy,alt.comp.acad-freedom.talk
+Subject: CERT Banner Replacement, Take 2
+Date: 15 Nov 1993 14:05:04 GMT
+Message-ID: <2c82ag$2sr@s.ms.uky.edu>
+
+
+
+[ I've incorporated Bruce Umbaugh's suggestions/comments in this rewrite. ]
+[ I've also added alt.comp.acad-freedom.talk to the Newsgroups line.      ]
+
+For those of you who only recently joined this discussion, this is a
+rewrite of a controversial banner from the US Department of Justice;
+the banner was originally distributed via a CERT advisory.  The topic
+of keystroke monitoring (and other detailed system monitoring) has 
+generated a certain amount of virtual heat; this replacement banner is
+intended to maximize user privacy while respecting the obligations of
+system administrators and security officers.
+
+I've also made some minor editorial changes to keep the banner within
+an arbitrary 24-line (one screenful) limit.  8)
+
+========================SAMPLE BANNER - TAKE 2========================
+ This system is for use by authorized personnel only.  Access by un-
+ authorized personnel, by any means, is prohibited.
+
+ During system security incidents, detailed activity monitoring may be 
+ used as an investigative tool.  Such monitoring will not take place with-
+ out proper authorization from (higher authority name here).  While such 
+ monitoring will primarily be directed solely toward the allegedly unautho-
+ rized use, it is possible that authorized users may be monitored during 
+ the investigation.  Any information discovered via such inadvertent moni-
+ toring of authorized users will be considered strictly confidential.  The 
+ sole exception to this policy is any evidence of criminal activity; such 
+ information, even if discovered inadvertently, will be directed to the ap-
+ propriate authority.
+
+ The content of electronic mail will not be included in monitoring proce-
+ dures without explicit legal permission; however, electronic mail trans-
+ actions are logged as a part of routine system accounting.  
+
+ A more detailed description of this policy can be found online in the file
+ /usr/local/site.policy; a printed copy may also be obtained from Computing
+ Services.  Questions or comments concerning this policy should be directed
+ to Joe Schmo, schmo@site.name.domain, telephone XYZ-ABCD.
+========================SAMPLE BANNER - TAKE 2========================
+
+Bruce noted that "detailed activity monitoring" doesn't really give any
+details about the type/technique of such monitoring.  Given the limited
+space available to a login banner (and the fact that the number of people
+who read a banner is inversely proportional to its size), I decided that
+those details would be better left to the full text of the online policy.
+(Obviously, I believe that *every* site should have its policy online.)
+
+Bruce also noted that I mentioned the routine logging of email transac-
+tions.  Many sites keep such logs as a matter of routine; in most cases,
+the logs include information such as date/time of dispatch/delivery and
+the addresses of the sender and recipient.  I wanted to ensure that the
+users did not confuse this routine logging with any sort of "user moin-
+toring;" that's why I specifically mentioned it.  (This, too, might be
+better left to the full-text online policy.) 
+
+--Wes
+
+-- 
+      Wes Morgan ----- University of Kentucky ----- morgan@engr.uky.edu
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+           GCS/E/MU  d---  -p+  c++  l+  m*  s++/++  !g  w+  t+   r
+                     gharshana-neti -- mental floss?
+
+From caf-talk Caf Nov 15 09:28:02 1993
+
+Newsgroups: comp.org.eff.talk,comp.admin.policy,misc.legal,alt.privacy,alt.comp.acad-freedom.talk
+From: john@iastate.edu (John Hascall)
+Subject: Re: CERT Banner Replacement, Take 2
+Message-ID: <CGJuIy.7xq@news.iastate.edu>
+Date: Mon, 15 Nov 1993 20:06:33 GMT
+
+morgan@engr.uky.edu (Wes Morgan) writes:
+}========================SAMPLE BANNER - TAKE 2========================
+} This system is for use by authorized personnel only.  Access by un-
+} authorized personnel, by any means, is prohibited.
+}
+} During system security incidents, detailed activity monitoring may be 
+} used as an investigative tool.  Such monitoring will not take place with-
+} out proper authorization from (higher authority name here).  While such 
+} monitoring will primarily be directed solely toward the allegedly unautho-
+} rized use, it is possible that authorized users may be monitored during 
+} the investigation.  Any information discovered via such inadvertent moni-
+} toring of authorized users will be considered strictly confidential.  The 
+} sole exception to this policy is any evidence of criminal activity; such 
+} information, even if discovered inadvertently, will be directed to the ap-
+} propriate authority.
+}
+} The content of electronic mail will not be included in monitoring proce-
+} dures without explicit legal permission; however, electronic mail trans-
+} actions are logged as a part of routine system accounting.  
+}
+} A more detailed description of this policy can be found online in the file
+} /usr/local/site.policy; a printed copy may also be obtained from Computing
+} Services.  Questions or comments concerning this policy should be directed
+} to Joe Schmo, schmo@site.name.domain, telephone XYZ-ABCD.
+}========================SAMPLE BANNER - TAKE 2========================
+
+   WAY TOO LONG!  :)
+
+   How about:
+========================SAMPLE BANNER - TAKE 2b========================
+For authorized use only.  Unathorized access by any means is forbidden.
+Unathorized access may be investigated by any means necessary.  See
+<filename-here> for a complete statement of policy and your responsibilities.
+========================SAMPLE BANNER - TAKE 2b========================
+
+John
+-- 
+John Hascall                   ``An ill-chosen word is the fool's messenger.''
+Systems Software Engineer
+Project Vincent
+Iowa State University Computation Center  +  Ames, IA  50011  +  515/294-9551
+
+From caf-talk Caf Nov 15 16:50:59 1993
+
+Path: eff!eff!not-for-mail
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: comp.org.eff.talk,comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Re: "Sysop Liability for Enroute (and/or Encrypted) Mail"
+Date: 24 Nov 1993 14:54:08 -0500
+Organization: Electronic Frontier Foundation
+Lines: 99
+Message-ID: <2d0e50$j83@eff.org>
+References: <93.2ce5677d@axolotl>
+NNTP-Posting-Host: eff.org
+Xref: eff comp.org.eff.talk:22126 comp.admin.policy:4430 alt.comp.acad-freedom.talk:11353
+
+Summary: The CERT example policy asserts that a sys admin can read the
+email of any *authorized* user he or she suspects of violating
+computer policy.
+
+Mike.Riddle@inns.omahug.org (Mike Riddle) writes:
+
+[...]
+>I think you don't pay enough attention to the middle paragraph:
+
+>       In the course of monitoring individuals improperly using this
+>       system, or in the course of system maintenance, the activities
+>       of authorized users may also be monitored.
+
+>In my mind this acts as a limitation on the entire notice.  Once monitoring
+>activities showed the target to have authorized access, all monitoring
+>activities should cease.
+[...]
+
+The phrase "individuals improperly using this system" does not just
+refer to intruders. It includes those with access authorization.
+Remember the first paragraph:
+
+       This system is for the use of authorized users only.
+       Individuals using this computer system without authority,
+cmk>   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+       or in excess of their authority, are subject to having all of their
+cmk>      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^     
+       activities on this system monitored and recorded by system
+       personnel.
+
+Because no authorized user is authorized to violate policy, any user
+who does is using the computer system in excess of his or her
+authority and is subject to monitoring.
+
+And who will it be decided if an authorized user is in excess of his
+or her authority and can therefore be monitored? The only reasonable
+interpretation I see is that the "system personnel" will decide. Thus,
+the CERT policy means that if a sys admin suspects you of violating a
+rule you "are subject to having all [your] activities on [the] system
+monitored and recorded."
+
+Webster State University makes this clear:
+
+         Individuals suspected of using this computer system without           
+cmk>                 ^^^^^^^^^
+         authority, or in excess of their authority, may have their            
+         activities on this system monitored and recorded by system            
+         personnel.                                                            
+         [...]
+
+Finally, a reminder. "All activities [...] monitored and recorded" is
+much too broad. Sending and reading email, for example, is a system
+activity.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+policies/cert.org
+=================
+* Org -- CERT -- An example login disclaimer
+
+The original CERT example login disclaimer and 10 actual login
+disclaimers. See cert.org.critique for a suggested replacement
+disclaimers.
+
+=================
+policies/cert.org.critique
+=================
+* Org -- CERT -- A critique and draft replacements
+
+A critique of the CERT example policy (policies/cert.org) and some
+suggested replacement policies.
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/policies/cert.org
+  pub/academic/policies/cert.org.critique
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/policies cert.org
+send acad-freedom/policies cert.org.critique
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+

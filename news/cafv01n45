@@ -1,0 +1,1834 @@
+Computers and Academic Freedom News
+Vol. 01, No. 45
+
+[Month of December, 1991
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+(Some of these paraphrases are based earlier paraphrases and
+summaries written by Bob Solon and me.)
+
+Note 1 is a summary of many 1991 cases.
+
+1. Enclosed is an end-of-year update of the Banned Computer Material
+list. It summarizes incidents and policies at Ohio State U., the U. of
+Illinois (two campuses), Case Western U., Boston U., U. of Waterloo,
+U. of Toledo, Western Washington U., Iowa State U., Pennsylvania State
+U., U. of Texas, U. of Newcastle, James Madison U., U. of Wisconsin,
+and others.
+    <1991Dec18.181508.10501@eff.org>
+
+Notes 2-4 are about Iowa State University's restrictions on who can
+see newsgroups such as alt.sex.
+
+2. [Mike Godwin, staff counsel at the Electronic Frontier Foundation:]
+Although the policy's stated purpose is to avoid violations of law, in
+fact, all (or almost all) of the material restricted is legal and
+Constitutionally protected.
+    <1991Dec19.175822.21404@eff.org>
+
+3. "The Iowa State University policy should, in my opinion, be changed
+to better respect intellectual freedom by more accurately reflecting
+library policy (and the law)." It violates the principles of at least
+three American Library Association policy statements. (These are
+enclosed.)
+    <1991Dec16.191620.21567@eff.org>
+
+4. The policy was imposed by the Computation Center over the
+objections of the Computer Center Newsgroup committee and University
+Computation Center Advisory Sub-Committee.
+    <1991Dec15.163311.4917@news.iastate.edu>
+
+Note 5 is about a pornography-on-usenet article that appeared in the
+German feminist publication EMMA.
+
+5. Contrary to what the EMMA article says, Usenet is not used mainly
+for transmission of pornographic material. Less that 7% of Usenet
+traffic is even related to sex.
+    <FISCHER.91Dec10154555@loke.iesd.auc.dk>
+
+Notes 6-7 try to answer frequently asked questions.
+
+6. Enclosed are answers (with references) to the questions "Should my
+university remove Netnews newsgroups because some people find them
+offensive?" (No.) and "If it doesn't have the resources to carry all
+newsgroups, how should newsgroups be selected?" (Like it selects books
+and magazines.)
+    <1991Dec16.154149.15030@eff.org>
+
+7. "q: Does a University reduce its likely liability by screening Netnews
+for offensive articles and newsgroups?
+a: Not necessarily. By screening articles and newsgroups the
+University may *increase* its liability."
+    <1991Dec20.045445.4243@m.cs.uiuc.edu>
+
+Notes 8-9 are about punishment of inflammatory speech
+at a private religious university and prohibition of
+rude speech at a public state university.
+
+8. Enclosed is a note in which the sys admin of Marquette University
+reports that a student has been expelled from the computing facilities
+as a result of posting an inflammatory message. I think that
+inflammatory speech "should be out competed, not outlawed." Also,
+students should not be punished without due process.
+    <1991Dec18.215846.17384@eff.org>
+
+9. An Iowa State University policy says "[s]ending rude ... material via any electronic mail
+or bulletin board facility is strictly forbidden." The courts
+have said that "[i]t is not the job of the
+government to enforce concepts of courtesy, cooperation, and common
+sense with respect to expression."
+    <1991Dec3.045840.18238@eff.org>
+
+Articles 10-11 discuss issues of user privacy vis-a-vis computers.
+
+10. [A sysadmin] The Unix "ps" command has many positive uses. Also, "... if you don't have anything to hide, you have
+no reason for privacy" in the context of computer systems. I
+advocate educational "cross-pollination"  and productivity from
+relatively open systems, especially in an educational environment.
+    <1991Nov27.031621.4433@usl.edu>
+
+11. "[T]he contents of an academic computer, other than
+directory information and any publicly posted material, are private
+unless their owners or creators choose to make them public."  
+Such a policy should also pertain to students and staff,
+as well as faculty.
+    <199112050610.AA19751@eff.org>
+
+Note 12 is about the resource use of the MUDs, a type of recreational
+programs.
+
+12. I've measured network traffic at my site. During hours when MUDs
+are prohibited, they are 6% of network traffic. During hours when they
+are allowed they are 30% of traffic. "[W]hile MUD playing here isn't a
+problem for our T1 connection, it could be troublesome to a site with
+a 56KB connection."
+    <kk6ej5INNi4o@moe.ksu.ksu.edu>
+
+- Carl]
+
+
+In this issue:
+
+Carl M. Kadie   172  Banned Computer Material 1991 (end of year update)
+Mike Godwin      88  news policy at iowa state
+Carl M. Kadie   664  >New news censorship policy at Iowa State University
+John Hascall     51  What to do about the new <>group Censorship Policy at ISU
+Lars P. Fischer  61  >The USENET pornographic network
+Carl M. Kadie   161  >New news censorship policy at Iowa State University
+Carl M. Kadie   107  >Inappropriate Use by 2714sviatkos
+Carl M. Kadie    50  >
+Carl M. Kadie    91  >BS!
+Eric Lee Green   73  >System Accounting: Fascist Tool?
+Dean Gottehrer   36  >Positivism, privacy, and the flow of information
+Brick Verser     27  Network utilization by MUD players (was Re: Gaming)
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, or Carl M. Kadie). It
+is not an EFF publication. The views an editor expresses and editorial
+decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From cafnews Fri Dec 13 16:15:02 1991
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Banned Computer Material 1991 (end of year update)
+Message-ID: <1991Dec18.181508.10501@eff.org>
+Date: Wed, 18 Dec 1991 18:15:08 GMT
+
+[[This is an major update of an article that was posted in October.
+New comments are in double square brackets. - Carl]]
+
+As part of Banned Book Week (and only a week late), here is:
+
+         Banned Computer Material 1991 (and earlier)
+
+[The references are to issues of the Computers and Academic Freedom
+News (CAF-news). Instructions on how to access back issues of CAF-news
+are at the end of this note.]
+
+Netnews articles or email that Steve Brack might wish to post from a
+free student account at Ohio State University -- Last Spring, Steve
+Brack meant to post a note to the alt.flame newsgroup but also
+accidently posted to rec.aquaria. In part because of this note, Brack
+was permanently expelled (without the chance for a formal hearing or
+appeal) from OSU's Academic Computer Services (ACS) computers. Now a
+University Judicial Committee hearing is deciding if Mr. Brack be
+should punished some more for so-called obscenity (by which they mean
+writing "fuck you" in the note).  (cafv01n20, cafv01n17, cafv01n18,
+cafv01n16, cafv01n15)
+
+[[Steven Brack was dismissed, possibly because of his so-called
+obscenity. He has said he may sue the University. (cafv01n35,
+cafv01n39, cafv01n36, cafv01n20)]]
+
+Email send to or from the National Center for Supercomputer
+Applications (NCSA) that verbally attacks the Center or the University
+of Illinois like the anonymous email, signed Saddam Hussein, sent to
+some people at the NCSA -- The NCSA is a department of the University
+of Illinois. To justify the methods it used to find and punish
+"Saddam", the NCSA created rules that allowed searches of user email
+if they suspected that the email verbally attacked the NCSA. [Follow
+up: this policy is being revised.]  (cafn01n03, cafv01n09).
+
+[[...]]
+
+Outgoing Netnews article from Purdue -- All outgoing articles from
+some computer sites at Purdue where screened by a sys admin to make
+sure that there was nothing "grossly wrong with them". [Follow up:
+outgoing articles are no longer screened.] (cafv01n08, cafv01n03)
+
+An article, containing source code for a program, posted to a local
+newsgroup at Case Western -- The computer administrators at Case
+Western deleted the article because they were afraid that someone
+might read the code, learn how to make a program that would disrupt
+their local network, write a program that would disrupt their local
+network, run that program and disrupt their local network.
+(cafv01n08)
+
+Netnews including the so-called outrageous postings by users of the
+Engineering Computing Center at the University of Kentucky --
+Complaints to a dean about the so-called outrageous postings were one
+reason that Netnews was dropped from a U. of Kentucky site (cafv01n25,
+cafv01n23).  [Follow up: Current plans call for Netnews to be restored
+when more disk space becomes available.]
+
+Computer files at Boston University that anyone finds offensive or
+annoying -- The rules at Boston University prohibit a computer user
+from "making accessible offensive [or] annoying ... material".
+(cafv01n10)
+
+The rec.humor.funny newsgroup -- It was banned from parts of Stanford
+University and all of the University of Waterloo because some people
+found some of its jokes offensive. Ironically, at the same time the
+computer version of rec.humor.funny was banned from U. of Waterloo,
+the yearly book version could be found in the University library.
+[Follow up: Stanford and Waterloo decided that newsgroups should be
+selected more like library material and rescinded their bans.]
+[[...]] [[(cafv01n31,cafv01n33)]]
+
+The alt.sex newsgroup at the University of Toledo -- [[...]]
+[[see (ftp.eff.org:pub/academic/batch/oct_06_1991)]]
+
+GIF files of naked people on mars.ee.mstate.edu -- Deleted after the
+National Science Foundation received a complaint and then asked the
+mars.ee.mstate.edu archivist to justify the files. Apparently the
+files were available via anonymous ftp across a NSF sponsored net, but
+were not stored on a NSF computer.  [[...]] [[ (cafv01n31) ]]
+
+[[ New stuff:
+
+More than a dozen newsgroups, including alt.sex, at Western Washington
+University -- They were removed from Western Washington University on
+the order of one person, the Vice Provost for "information and
+communication".  Alt.sex remains at the University of Washington, but
+other newsgroups were removed right before a negative article was
+printed in the Seattle _Post_Intelligencer_.  (cafv01n33, cafv01n36,
+cafv01n35, cafv01n41)
+
+An article posted by a student at the University of Illinois at
+Chicago -- The student was punished for posting the article, which
+offended many, to soc.women. The article was canceled. The system
+admin justified the punishment saying that the article, posted to an
+international unmoderated newsgroup, was not protected speech because
+"it can be considered as a generalized form of sexual harassment". The
+U. of Illinois has no rules on "generalized sexual harassment". The
+University's rules on (regular) sexual harassment do not authorize sys
+admins to judge and punish infractions.  (cafv01n36,cafv01n34)
+
+Rude articles at Iowa State University -- On-line rudeness is
+prohibited at Iowa State. A student was reprimanded for posting a rude
+article to the net. (This policy may be under revision). (cafv01n38)
+
+The alt.sex.* hierarchy on PSUVM, Penn State's main general purpose
+computer -- (cafv01n34)
+
+Email or Netnews articles that "bring discredit to the University [of
+Texas] or the [Computer Science] Department." (cafv01n37)
+
+Offensive messages at the University of Newcastle -- (cafv01n39)
+
+Email containing offensive material at James Madison University -- (cafv01n39)
+
+Most on-line discussion of sex and drugs at Iowa State University --
+Iowa State University labels all newsgroup as either "limited list",
+"standard list", or "full list". This labeling is based on the name
+and description of each newsgroup and not on its actual content. The
+standard list excludes most discussion of sex and drugs. The plan is
+that ,starting January 6, 1991, users on public access machines will
+be restricted to the standard list. (See recent
+alt.comp.acad-freedom.talk articles.)
+
+Racist email at the University of Wisconsin at Eau Claire -- The
+university formally reprimanded [a] student and placed him on
+probation for the remainder of the semester. (Follow up: The student
+sued in Federal district court and won. See _UWM Post v. University of
+Wisconsin_ available on-line as
+ftp.eff.org:pub/academic/law/uwm-post-v-u-of-wisconsin. The judge's
+decision concludes:
+
+"The founding fathers of this nation produced a remarkable document in
+the Constitution but it was ratified only with the promise of the Bill
+of Rights.  The First Amendment is central to our concept of freedom.
+The God-given "unalienable rights" that the infant nation rallied to
+in the Declaration of Independence can be preserved only if their
+application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+]]
+
+-----------------------------
+
+Back issues of the Computer and Academic Freedom News are available
+via anonymous ftp from ftp.eff.org. They are in directory
+pub/academic/news. Back issues are also available via email. For
+information on email access send an email note to
+archive-server@eff.org. Include the lines "help" and "index".
+[[For example,
+to get volume 1, number 39, send email to archiver-server@eff.org.
+Include the line:
+   send caf-news cafv01n39
+]]
+
+I would love to get copies of the shorter banned notes. If you have
+the joke that got rec.humor.funny banned, the NCSA email, Brack's
+note, the Case Western source code, etc., please contact me.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: kadie@eff.org (Carl M. Kadie)
+Subject: news policy at iowa state
+Message-ID: <1991Dec19.175822.21404@eff.org>
+Date: Thu, 19 Dec 1991 17:58:22 GMT
+
+[This is a copy of email that Mike Godwin (mnemonic@eff.org) has sent
+to Iowa State University. It is posted with the author's permission.
+- Carl]
+
+Dear Mr. Kunz,
+
+
+Hello, my name is Mike Godwin, and I'm staff counsel at the Electronic
+Frontier Foundation. A student at Iowa State has forwarded to me a
+copy of your recent message concerning new policies for "Focused,"
+"Standard," and "Full" news lists. In your notice, you say the
+following:
+
+"The Standard offering will be the default for campus use.  The
+excluded lists are those which by their name and accompanying description
+appear to offer potential conflicts with law, (particularly with child
+protection and pornography law) or with policies such as the sexual
+harassment policy."
+
+I am somewhat familiar with the newsgroups you are excluding, but
+as a lawyer I am unclear on the perceived "potential conflicts"
+you see with "child protection and pornography law." Federal law
+concerning child pornography focuses on the "visual depiction"
+the production of which uses a minor engaging in sexually explicit
+conduct. (18 USC 2252)
+
+Moreover, the Supreme Court has held that the First Amendment 
+protects material that is not obscene, defining "obscene" as
+"whether the work, taken as a whole, appeals to the prurient
+interest, whether the work  depicts or describes, in a patently offensive
+way, sexual conduct specifically defined by the applicable state
+law, and whether the work, taken as a whole, lacks serious literary,
+artistic, political, or scientific value." Miller v. California,
+413 U.S. 14 (1974).
+
+So far as I know, none of the groups you are excluding has ever
+violated the child-pornography statutes (to do so would almost
+certainly require the transmission in a public newsgroup of a
+"visual depiction" of children engaging in sexual acts, or, perhaps,
+a conspiracy to create such a depiction).
+
+In addition, none of the text newsgroups you specify would likely
+meet all three prongs of the Miller v. California obscenity test.
+(As a practical matter, obscenity prosecutions for textual material
+have all but disappeared in this country.)
+
+I am assuming that Iowa State is a state university, and therefore
+is bound by the 14th Amendment in formulating its sexual-harassment
+policy. Presumably, such a policy can accommodate the need to free
+your university environment from sexual harassment without limiting
+access to newsgroups, just as it likely does not require limiting
+access to the D.H. Lawrence, Henry Miller, and Norman Mailer 
+collections in your library system. 
+
+Finally, it is unclear to me how the drug-related groups run any
+risk at all of violating either the laws you mention (child-protection
+and pornography law) or laws that you *don't* mention (presumably
+anti-drug laws). Discussions of drugs and their effects (including
+illegal drugs and their effects) is fully protected by the First
+Amendment.
+
+I should add that I understand fully how the sheer volume of 
+material may be a factor in your system's choice not to carry
+any of the picture-oriented newsgroups, and that if this is your
+motivation for excluding these groups from the Standard list,
+it is uncontroversial as far as we are concerned.
+
+If I have misunderstood or misstated your concerns with regard
+to these newsgroups, please let me know. At EFF, we are deeply
+interested in policies that leave choices about what to read
+to the individual Usenet user. 
+
+
+
+--Mike Godwin
+  Staff Counsel
+  Electronic Frontier Foundation
+
+
+
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: New news censorship policy at Iowa State University
+Message-ID: <1991Dec16.191620.21567@eff.org>
+Keywords: bogus!
+References: <1991Dec15.164750@IASTATE.EDU> <1991Dec16.154149.15030@eff.org>
+Date: Mon, 16 Dec 1991 19:16:20 GMT
+
+The Iowa State University policy should, in my opinion, be changed to
+better respect intellectual freedom by more accurately reflecting
+library policy (and the law).
+
+> *** ISU Usenet Access Policy ***
+
+> The following policy regarding news service from "news.iastate.edu" will be
+> placed into effect on January 6, 1992.  If you wish 
+> to opt for a different level
+> of service than Standard (as described in the policy statement), 
+> the forms are
+> available now in the Computation Center administrative office, 291 Durham
+> Center.
+
+I believe that the requirement that one sign a form to get access to
+controversial newsgroups is a violation of the Library Bill of Rights.
+Here is an excerpt from the American Library Association's policy
+statement "Regulations, Policies, and Procedures Affecting Access to
+Library Resources and Services":
+
+[The full text of this statement is appended]
+
+---------start--------
+Libraries serve the function of making ideas and information available to all
+members of the society, without discrimination.  Publicly supported libraries
+provide access to information for all without imposing barriers which limit or
+prevent library users, including the indigent or the economically
+disadvantaged, from exercising their full constitutional rights.  Publicly
+supported libraries' traditional commitment to free public service is integral
+to their nature and function.  Publicly supported libraries, like public
+schools and universities, are supported in part from a recognition that
+information and education are essential components of informed self-
+government.
+
+The right of free access to information for all individuals is basic to all
+library service.  The central thrust of the LIBRARY BILL OF RIGHTS is to
+protect and encourage the free flow of information and ideas.  Article 5
+protects the rights of an individual to use a library regardless of origin,
+age, background, or views.  The American Library Association urges all
+libraries to set policies and procedures that reflect the basic tenets of the
+LIBRARY BILL OF RIGHTS, within the framework of Constitutional imperatives and
+limitations.
+
+Many libraries adopt administrative policies and procedures to govern their
+order and use, the comfort and safety of patrons and staff, and the protection
+of resources, services, and facilities.  Such policies and procedures affect
+access, and must not become a convenient means for removing or restricting
+access to controversial materials, limiting access to facilities, programs, or
+exhibits, or for discriminating against specific individuals or groups of
+library patrons.  Administrative policies and procedures which infringe on
+equitable access to library buildings, services, and resources, the privacy of
+the individual, or the right to read, violate the LIBRARY BILL OF RIGHTS.
+Further, if such policies have the effect of impermissible discrimination
+against individuals or particular groups of library users, they are likely to
+violate First Amendment rights.  The U.S. Supreme Court has recognized that
+"`the right to receive ideas follows ineluctably from the sender's First
+Amendment right to send them. . . . More importantly, the right to receive
+ideas is a necessary predicate to the recipient's meaningful exercise of his
+own rights such as speech, press, and political freedom' (emphasis in
+original) Board of Education, Island Trees Union Free School District No. 26
+v. Pico, 457 U.S. 853, 866-67 (1982) (plurality opinion)."5   Respect for
+these rights is central to the function of any government supported library
+for these rights define the library's purpose."
+----------end----------
+
+> A document describing Usenet News and the development of this policy is
+> available via anonymous ftp from "ftp.iastate.edu".  Simply establish an ftp
+> session using the user name "anonymous" and any password and get the document
+> "/netinfo/news/usenet-news-policy".  Also in that directory, 
+>  you will find the
+> list of newsgroups excluded from the Standard offering in the file
+> "/netinfo/news/usenet-news-std-list".  
+> (As noted below, this list will also be 
+> posted to "isu.newsgroups" each month.
+> 
+> Usenet News Policy
+> 
+> The Computation Center maintains a news server offering Usenet News lists for
+> the Iowa State University community.  This offering of service
+> must comply with
+> federal, state, and local laws; policies of the Iowa Board of
+> Regents and Iowa
+> State University; 
+
+This is of course a truism. What is the policy of Iowa State
+University? The policy of most universities (as expressed in their
+student codes) prohibits institutional censorship. Which laws are you
+referring to? How do these laws affect the University Library?
+
+> and be within the guidelines of any agreements between the
+> university and local, regional, national, or international computer networks.
+
+> The Usenet News Administrator is responsible for the day-to-day 
+> management of the
+> service on the Iowa State University campus.  Any material, particularly
+> locally-posted material, which could be harmful to
+> a specific individual(s) may
+> be removed by the Usenet News Administrator.
+
+What kind of harm? If the answer is mere offensive, this assertion of
+authority violates library policy and likely the law. 
+
+Article two of the Library Bill of Rights says: "Materials should not
+be proscribed or removed because of partisan or doctrinal
+disapproval." [full statement enclosed].
+
+The American Library Association statement on "Diversity in Collection
+Development" says "Librarians have a professional responsibility to be
+inclusive, not exclusive, in collection development and in the
+provision of interlibrary loan.  Access to all materials legally
+obtainable should be assured to the user, and policies should not
+unjustly exclude materials even if they are offensive to the librarian
+or the user." [full statement enclosed]
+
+American Library Association Policy also prohibits the removal of
+material on the say-so on one person. For information on how material
+should be selected (and deselected) see the ALA Workbook for Selection
+Policy Writing.  Although aimed at textbook and library book selection
+in grade and high schools, it also seems applicable to newsgroup
+selection (and deselection). It includes information about how create
+a selection policy and how to handle complaints. It also includes a
+sample selection policy. The full text of the Workbook is available
+on-line via anonymous ftp as
+ftp.eff.org:pub/academic/library/selection-workbook.ala. Or send
+email to archive-server@eff.org. Include the line
+  send library-policies selection-workbook.ala
+
+The removal of an offensive note would also violate the law. Just as a
+state university generally can not remove an article from the student
+newspaper, it (likely) generally can not remove a student's article
+from a newsgroups.
+
+Like any organization, Iowa State University must work within its
+charter.  Part of this charter is the U.S. Constitution. The Supreme
+Court has said that the Constitution limits the government's authority
+to control the media that owns and controls. The rational is that it
+would be dangerous for a Government that is elected by the people to
+have too much control on what the people can say and read.
+
+The Supreme Court calls created forums, like a student newspaper or
+campus mail systems, limited public forums. It says that the
+government can limited who may access these forums and/or what topics
+may be discussed. But otherwise, "it is bound by the same standards as
+apply in a traditional public forum"; "content-based prohibition must
+be narrowly drawn to effectuate a compelling state interest." For
+example, viewpoint-based discrimination is forbidden.
+[annotated references enclosed]
+
+> News lists which have large 
+> resource requirements which adversely affect general use of
+> Usenet News may be 
+> restricted in some form by the Usenet News Administrator.
+
+
+> Any news list may contain material which is unfamiliar, 
+> unorthodox or unpopular
+> to some.  Occasionally, even ordinary news lists may contain material which a
+> reader finds objectionable.   Members of the university 
+> community have the right
+> to request a review of particular material by contacting the Usenet News 
+> Administrator in writing.  An alternative consistent with the Intellectual 
+> Freedom Statement (as adopted by the American Library Association Council on 
+> June 25, 1971) would be to recognize that each item available within Usenet 
+> News is a view or mode of expression of the person posting the
+> material.  The presentation of such material in Usenet News does not
+> imply any endorsement by those providing the news service or by those
+> subscribing to it.  This suggested alternative does not apply to the
+> public display of offensive materials, only to the presence of
+> material within Usenet.  A separate policy governs the public display
+> of material.
+
+> Three variations of Usenet News lists are offered.  These are called
+> the Focused News List, the Standard News List, and the Full News List.
+> 
+> The purpose of the Focused News List is to provide an alternative to
+> those who want their computer to only access news lists which appear
+> to be focused on academic information directly rather than hobby,
+> recreational, or undefined areas.  The Focused News List contains all
+> news lists except the alternative and recreational hierarchies (i.e.,
+> "alt" and "rec").  Other hierarchies may also be excluded in the
+> future if their primary focus appears to be away from academic
+> information.
+> 
+> The purpose of the Standard News List is to provide access to the
+> lists which are unlikely to evoke questions regarding access, use or
+> distribution of the material.  Hence, the Standard News List offering
+> will explicitly exclude some news groups.  The Standard offering will
+> be the default for campus use.  The excluded lists are those which by
+> their name and accompanying description appear to offer potential
+> conflicts with law, (particularly with child protection and
+> pornography law) or with policies such as the sexual harassment
+> policy.  A list of the excluded news lists will be posted monthly to
+> the newsgroup "isu.newsgroups" with the subject heading "Monthly
+> Posting -- ISU Usenet Access Policy - Standard List".  If other news
+> lists are created which appear to offer these same potential
+> conflicts, they will be added to the excluded list.
+
+Here is what the American Library Association has to say in
+their Statement on Labeling:
+
+--------start----(full statement)
+                            STATEMENT ON LABELING
+
+                An Interpretation of the LIBRARY BILL OF RIGHTS
+
+
+Labeling is the practice of describing or designating materials by affixing a
+prejudicial label and/or segregating them by a prejudicial system.  The
+American Library Association opposes these means of predisposing people's
+attitudes toward library materials for the following reasons:
+
+1.    Labeling is an attempt to prejudice attitudes and as such, it is a
+      censor's tool.
+
+2.    Some find it easy and even proper, according to their ethics, to
+      establish criteria for judging publications as objectionable.  However,
+      injustice and ignorance rather than justice and enlightenment result
+      from such practices, and the American Library Association opposes the
+      establishment of such criteria.
+
+3.    Libraries do not advocate the ideas found in their collections.  The
+      presence of books and other resources in a library does not indicate
+      endorsement of their contents by the library.
+
+A variety of private organizations promulgate rating systems and/or review
+materials as a means of advising either their members or the general public
+concerning their opinions of the contents and suitability or appropriate age
+for use of certain books, films, recordings, or other materials.  For the
+library to adopt or enforce any of these private systems, to attach such
+ratings to library materials, to include them in bibliographic records,
+library catalogs, or other finding aids, or otherwise to endorse them would
+violate the LIBRARY BILL OF RIGHTS.
+
+While some attempts have been made to adopt these systems into law, the
+constitutionality of such measures is extremely questionable. If such
+legislation is passed which applies within a library's jurisdiction, the
+library should seek competent legal advice concerning its applicability to
+library operations.
+
+Publishers, industry groups, and distributors sometimes add ratings to
+material or include them as part of their packaging.  Librarians should not
+endorse such practices.  However, removing or obliterating such ratings -- if
+placed there by or with permission of the copyright holder -- could constitute
+expurgation, which is also unacceptable.
+
+The American Library Association opposes efforts which aim at closing any path
+to knowledge.  This statement, however, does not exclude the adoption of
+organizational schemes designed as directional aids or to facilitate access to
+materials.
+
+Adopted July 13, 1951.  Amended June 25, 1971; July 1, 1981; June 26, 1990, by
+the ALA Council.
+
+[Made available by permission of the American Library Association.]
+
+---------end------
+> 
+> The purpose of the Full News List is to offer full access to all news
+> lists to anyone in the Iowa State community who requests it and
+> acknowledges their responsibility in accessing, using, and
+> distributing material from it.  Some material in the full news feed
+> may not be appropriate for general distribution.  It is the
+> responsibility of those receiving the material to comply with
+> appropriate law and policy.
+> 
+> All computers served by the Computation Center news server will
+> receive the Standard News List as the default.  Those persons in
+> charge of computers (time-sharing systems, workstations, or
+> microcomputers) may request either the Focused List or the Full list
+> by filling out the appropriate form obtained from the Computation
+> Center administrative office, 291 Durham Center.  The form for the
+> Focused News List acknowledges that certain material may not be
+> available to the specified computer.  The form for the Full News List
+> acknowledges responsibility for access, use, and distribution of all
+> Usenet material via that specific computer via either console or
+> remote use.  Once either Full or Focused access has been requested,
+> the requester may revert to the Standard offering by filling out a
+> form.
+> 
+> All publicly-accessible computers in the Computation Center, with the
+> exception of the HDS WYLBUR time-sharing system, will offer the
+> Standard News List only.  University users of WYLBUR may request
+> access to the Full or Focused News Lists by filling out the
+> appropriate form obtained from 291 Durham Center.  The form
+> acknowledges individual responsibility of the user-id owner for
+> access, use, and distribution of Usenet material.  Some material in
+> the full news feed may not be appropriate for general distribution.
+> It is the responsibility of those receiving the material to comply
+> with appropriate law and policy.
+
+> -- 
+> Steven L. Kunz
+> Networking & Communications | Usenet News Admin.
+> Iowa State University Computation Center, Iowa State University, Ames  IA
+> INET: skunz@iastate.edu     BITNET: gr.slk@isumvs.bitnet
+
+I urge Iowa State University to more faithfully apply the principles
+of intellectual freedom developed by libraries to the administration
+of information material on computers.
+
+- Carl Kadie
+
+============ftp.eff.org:pub/academic/library/access.policies.ala======
+REGULATIONS, POLICIES, AND PROCEDURES AFFECTING
+ACCESS TO LIBRARY RESOURCES AND SERVICES
+
+                An Interpretation of the LIBRARY BILL OF RIGHTS
+
+
+American libraries exist and function within the context of a body of law
+derived from the United States Constitution, defined by statute, and
+implemented by regulations, policies, and procedures established by their
+governing bodies and administrations.  These regulations, policies, and
+procedures reflect the function and character of the library, define its
+operations, and protect its mission and the rights of its users.
+
+"The library is one of the great symbols of our democracy.  It is a living
+embodiment of the First Amendment because it includes voices of dissent."1
+Libraries of all types adhere to this ideal.  Publicly supported libraries
+serve as traditional public forums, open to the collection, use, and
+dissemination of all forms of recorded human expression that are expressly
+dedicated to the unfettered competition of the marketplace of ideas.  It is
+essential to this purpose that the library function as neutral ground in that
+marketplace.  Viewpoint-based discrimination has no place in publicly
+supported library collections or services; for the library to espouse partisan
+causes or favor particular viewpoints violates its mission.
+
+"A public library is not only a designated public forum, but also a
+quintessential, traditional public forum whose accessibility affects the
+bedrock of our democratic system.  A place where ideas are communicated freely
+through the written word"2 and other means of recorded expression "is as
+integral to a democracy and to First Amendment rights as an available public
+space where citizens can communicate their ideas through the spoken word."3
+The fact of public sponsorship of a library in no way implies endorsement of
+any of the myriad viewpoints contained within a library's collection.  Nor
+should a funding source dictate its contents.  The United States Supreme Court
+has recognized that  "the university is a traditional sphere of free
+expression so fundamental to the functioning of our society that the
+Government's ability to control speech within that sphere by means of
+conditions attached to the expenditures of Government funds, is restricted by
+the vagueness and overbreadth doctrines of the First Amendment. . . ."4  The
+same principles apply with equal force to publicly supported libraries.  These
+principles restrict any attempt to control expression within a publicly
+supported library or to dictate or limit the contents of its collections,
+programs, displays, or publications through conditions attached to funding.
+
+Libraries serve the function of making ideas and information available to all
+members of the society, without discrimination.  Publicly supported libraries
+provide access to information for all without imposing barriers which limit or
+prevent library users, including the indigent or the economically
+disadvantaged, from exercising their full constitutional rights.  Publicly
+supported libraries' traditional commitment to free public service is integral
+to their nature and function.  Publicly supported libraries, like public
+schools and universities, are supported in part from a recognition that
+information and education are essential components of informed self-
+government.
+
+The right of free access to information for all individuals is basic to all
+library service.  The central thrust of the LIBRARY BILL OF RIGHTS is to
+protect and encourage the free flow of information and ideas.  Article 5
+protects the rights of an individual to use a library regardless of origin,
+age, background, or views.  The American Library Association urges all
+libraries to set policies and procedures that reflect the basic tenets of the
+LIBRARY BILL OF RIGHTS, within the framework of Constitutional imperatives and
+limitations.
+
+Many libraries adopt administrative policies and procedures to govern their
+order and use, the comfort and safety of patrons and staff, and the protection
+of resources, services, and facilities.  Such policies and procedures affect
+access, and must not become a convenient means for removing or restricting
+access to controversial materials, limiting access to facilities, programs, or
+exhibits, or for discriminating against specific individuals or groups of
+library patrons.  Administrative policies and procedures which infringe on
+equitable access to library buildings, services, and resources, the privacy of
+the individual, or the right to read, violate the LIBRARY BILL OF RIGHTS.
+Further, if such policies have the effect of impermissible discrimination
+against individuals or particular groups of library users, they are likely to
+violate First Amendment rights.  The U.S. Supreme Court has recognized that
+"`the right to receive ideas follows ineluctably from the sender's First
+Amendment right to send them. . . . More importantly, the right to receive
+ideas is a necessary predicate to the recipient's meaningful exercise of his
+own rights such as speech, press, and political freedom' (emphasis in
+original) Board of Education, Island Trees Union Free School District No. 26
+v. Pico, 457 U.S. 853, 866-67 (1982) (plurality opinion)."5   Respect for
+these rights is central to the function of any government supported library
+for these rights define the library's purpose.
+
+Because publicly supported libraries are institutions dedicated to the free
+flow of information, it is essential that the regulations, policies, and
+procedures which libraries develop and use embody the principles of free
+expression.  Information about their operations must be made available in full
+compliance with confidentiality, privacy, freedom of information and sunshine
+laws.  The application of policies and procedures for the use of library
+services and resources should be consistently applied to both members of the
+public and library employees.  Policies and procedures for responding to
+complaints about library materials -- including individual items in a
+collection, library programs and services, or publications and other material
+produced or published by the library -- should be uniformly applied regardless
+of the source of the complaint, whether coming from a member of the public,
+staff, or governing authority.
+
+
+1., 2., 3., 5.  Richard R. Kreimer v. Bureau of Police for the Town of
+Morristown, et. al., ___ F. Supp. ___ (No. 90-554, May 22, 1991).
+
+4.  Rust, et. al. v. Sullivan, ___U.S.___(___U.S.L.W.___, ___S. Ct. Rept.___),
+No. 89-1391, May 23, 1991.
+
+Adopted January 27, 1982, as ADMINISTRATIVE POLICIES AND PROCEDURES AFFECTING
+ACCESS TO LIBRARY RESOURCES AND SERVICES; amended with title change July 3,
+1991, by the ALA Council.
+
+[Made available by permission of the American Library Association.]
+
+============ftp.eff.org:pub/academic/library/bill-of-rights.ala ======
+                            LIBRARY BILL OF RIGHTS
+
+
+The American Library Association affirms that all libraries are forums for
+information and ideas, and that the following basic policies should guide
+their services.
+
+      1.  Books and other library resources should be provided for the
+interest, information, and enlightenment of all people of the community the
+library serves.  Materials should not be excluded because of the origin,
+background, or views of those contributing to their creation.
+
+      2.  Libraries should provide materials and information presenting all
+points of view on current and historical issues.  Materials should not be
+proscribed or removed because of partisan or doctrinal disapproval.
+
+      3.  Libraries should challenge censorship in the fulfillment of their
+responsibility to provide information and enlightenment.
+
+      4.  Libraries should cooperate with all persons and groups concerned
+with resisting abridgment of free expression and free access to ideas.
+
+      5.  A person's right to use a library should not be denied or abridged
+because of origin, age, background, or views.
+
+      6.  Libraries which make exhibit spaces and meeting rooms available to
+the public they serve should make such facilities available on an equitable
+basis, regardless of the beliefs or affiliations of individuals or groups
+requesting their use.
+
+
+Adopted June 18, 1948; amended February 2, 1961, and January 23, 1980, by the
+ALA Council.
+
+[Made available by permission of the American Library Association.]
+
+============ftp.eff.org:pub/academic/library/diversity.ala ======
+                     DIVERSITY IN COLLECTION DEVELOPMENT
+
+                An Interpretation of the LIBRARY BILL OF RIGHTS
+
+
+Throughout history, the focus of censorship has fluctuated from generation to
+generation.  Books and other materials have not been selected or have been
+removed from library collections for many reasons, among which are prejudicial
+language and ideas, political content, economic theory, social philosophies,
+religious beliefs, sexual forms of expression, and other topics of a
+potentially controversial nature.
+
+Some examples of censorship may include removing or not selecting materials
+because they are considered by some as racist or sexist; not purchasing
+conservative religious materials; not selecting materials about or by
+minorities because it is thought these groups or interests are not represented
+in a community; or not providing information on or materials from non-
+mainstream political entities.
+
+Librarians may seek to increase user awareness of materials on various social
+concerns by many means, including, but not limited to, issuing bibliographies
+and presenting exhibits and programs.
+
+Librarians have a professional responsibility to be inclusive, not exclusive,
+in collection development and in the provision of interlibrary loan.  Access
+to all materials legally obtainable should be assured to the user, and
+policies should not unjustly exclude materials even if they are offensive to
+the librarian or the user.  Collection development should reflect the
+philosophy inherent in Article II of the LIBRARY BILL OF RIGHTS:  "Libraries
+should provide materials and information presenting all points of view on
+current and historical issues.  Materials should not be proscribed or removed
+because of partisan or doctrinal disapproval."  A balanced collection reflects
+a diversity of materials, not an equality of numbers.  Collection development
+responsibilities include selecting materials in the languages in common use in
+the community which the library serves.  Collection development and the
+selection of materials should be done according to professional standards and
+established selection and review procedures.
+
+There are many complex facets to any issue, and variations of context in which
+issues may be expressed, discussed, or interpreted.  Librarians have a
+professional responsibility to be fair, just, and equitable and to give all
+library users equal protection in guarding against violation of the library
+patron's right to read, view, or listen to materials and resources protected
+by the First Amendment, no matter what the viewpoint of the author, creator,
+or selector.  Librarians have an obligation to protect library collections
+from removal of materials based on personal bias or prejudice, and to select
+and support the access to materials on all subjects that meet, as closely as
+possible, the needs and interests of all persons in the community which the
+library serves.  This includes materials that reflect political, economic,
+religious, social, minority, and sexual issues.
+
+Intellectual freedom, the essence of equitable library services, provides for
+free access to all expressions of ideas through which any and all sides of a
+question, cause, or movement may be explored.  Toleration is meaningless
+without tolerance for what some may consider detestable.  Librarians cannot
+justly permit their own preferences to limit their degree of tolerance in
+collection development, because freedom is indivisible.
+
+
+Adopted July 14, 1982; amended January 10, 1990, by the ALA Council.
+
+[Made available by permission of the American Library Association.]
+
+==============================legal refernences============
+ Access information follows the bibliography.
+
+=================
+law/san-diego-committee-v-gov-bd
+=================
+Excerpts from San Diego Committee v.  Governing Bd., 790 F.2d 1471
+(1986).  A decision by an appellate court that applied the Supreme
+Court's Public Forum Doctrine (to a school newspaper).
+
+=================
+law/stanley-v-magrath
+=================
+Comments from _Public Schools Law: Teachers' and Students' Rights_ 2nd
+Ed. by Martha M. McCarthy and Nelda H. Cambron-McCabe, published in
+1987 by Allyn and Bacon, Inc. It says, in part, "[a]lthough school
+boards are not obligated to support student papers, if a given
+publication was originally created as a free speech forum, removal of
+financial or other school board support can be construed as an
+unlawful effort to stifle free expression." Also, "school
+authorities cannot withdraw support from a student publication simply
+because of displeasure with the content" and "the content of a
+school-sponsored paper that is established as a medium for student
+expression cannot be regulated more closely than a nonsponsored
+paper". Also, it tells what to do about libel in student
+publications.
+
+=================
+law/student-publications.misc
+=================
+The book _Law of the Student Press_ by the Student Press Law Center
+(1985,1988), says that four-letter words are protected speech, that
+public universities are not likely to be liable for publications that
+they for which they do not control the contents, and that the
+_Hazelwood_ decision does not apply to universities.
+
+=================
+law/constraints.constitutional
+=================
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_ by Partrica A. Hollander, D. Parker Young, and Donald D.
+Gehring.  (College Administration Publication, 1985).  Discusses the
+constitutional constraints on public universities including the
+requires for freedom of expression, freedom against unreasonable
+searches and seizures, due process, specific rules.
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+
+=================
+law/doe-v-u-of-michigan
+=================
+This is Doe v. University of Michigan. In this widely referenced
+decision, the district judge down struck the University's rules
+against discriminatory harassment because the rules were found to be too
+broad and too vague.
+
+=================
+law/rust-v-sullivan
+=================
+The decision and decent for the so-called abortion information gag
+rule case. The decision explicitly mentions universities as a place
+where free expression is so important that gag rules would not be
+allowed.
+
+=================
+law/keyishian-v-board-of-regents
+=================
+In this Supreme Court case, the Court said that public universities
+can not infringe on the Constitutionally protected rights of their
+students and employees (specially with regard to loyalty oaths).
+
+=================
+law/perry-v-perry
+=================
+Comments from the ACLU Handbook _The Rights of _Teachers_. It says
+that campus mail systems (and other school facilities) can be limited
+public forums. (Perry v. Perry was about an interschool mail system.
+It was one of the cases that defined the Public Forum Doctrine.)
+
+Also, a paraphrase from an ACLU handbook _The Rights of Teachers_. It
+says that generally, speech, if otherwise shielded from punishment by
+the First Amendment, does not lose that protection because its tone is
+sharp.
+
+Also, from p. 92, it says that there are legal limits to what a
+(public) school can ask its teachers to sign. [Some of these same
+limits might apply to what a school can ask a user to sign as a
+condition of getting (or keeping) a computer account.]
+
+=================
+law/constitution.us
+=================
+The Constitution of the United States
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send caf-law san-diego-committee-v-gov-bd
+  send caf-law stanley-v-magrath
+  send caf-law student-publications.misc
+  send caf-law constraints.constitutional
+  send caf-law uwm-post-v-u-of-wisconsin
+  send caf-law doe-v-u-of-michigan
+  send caf-law rust-v-sullivan
+  send caf-law keyishian-v-board-of-regents
+  send caf-law perry-v-perry
+  send caf-law constitution.us
+
+The files are also available via anonymous ftp from ftp.eff.org
+(191.88.144.3) as file(s):
+  pub/academic/law/san-diego-committee-v-gov-bd
+  pub/academic/law/stanley-v-magrath
+  pub/academic/law/student-publications.misc
+  pub/academic/law/constraints.constitutional
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/doe-v-u-of-michigan
+  pub/academic/law/rust-v-sullivan
+  pub/academic/law/keyishian-v-board-of-regents
+  pub/academic/law/perry-v-perry
+  pub/academic/law/constitution.us
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+--------------------
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: john@iastate.edu (John Hascall)
+Subject: What to do about the new Newsgroup Censorship Policy at ISU
+Message-ID: <1991Dec15.163311.4917@news.iastate.edu>
+Originator: john@vincent1.iastate.edu
+Sender: news@news.iastate.edu (USENET News System)
+Distribution: na
+Date: Sun, 15 Dec 1991 16:33:11 GMT
+
+DISCLAIMER:  This posting is from John Hascall, private citizen, and
+             any opinions contained within are solely those of the author
+             and are not the official position of his employer or
+             any committee on which he serves.
+
+
+If you have a opinion on the new policy, speak up!  Encourage others to
+speak up!  The policy definitely will not change if you sit there like sheep.
+
+
+Here are some facts not mentioned in the posting about the policy.
+
+	1) The policy was not developed by the Comp Ctr committee which
+	   developed the original "open learning environment" policy.
+
+	2) The policy was brought to the Comp Ctr Newsgroup committee
+	   who did not approve it.
+
+	3) The policy was brought to the University Computation Advisory
+	   Committee (Computation Center Advisory Sub-Committee) who
+	   did not approve it.
+
+In addition to posting news, here are some people to write
+to express your opinion on this matter.
+
+	Richard Seagrave
+	Acting Director, Comp Ctr
+	291 Durham Ctr
+
+	George Covert
+	Associate Director, Comp Ctr
+	291 Durham Ctr
+
+	David Hopper
+	Chair, University Computation Advisory Cmte
+	Vet Diag Lab, 1541 Vet Med
+
+	Bob Boston
+	Chair, UCAC (Comp Ctr Advisory Sub-Cmte)
+	English, 353 Ross
+
+	Patrica Swan
+	Interim Provost
+	107 Beardshear
+
+
+John Hascall
+
+
+--------------------
+
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: fischer@iesd.auc.dk (Lars P. Fischer)
+Subject:  Re: The USENET pornographic network
+Message-ID: <FISCHER.91Dec10154555@loke.iesd.auc.dk>
+Date: 10 Dec 91 15:45:55 GMT
+
+>>>>> "Eric" == J Eric Townsend (jet@karazm.math.uh.edu)
+
+>> The german version of EMMA has published in its current issue
+>> an article about the USENET, an academic network used mainly
+>> for transmission of pornographic material.
+
+Eric> Go look at the stats in the news.* groups.  alt.sex.* is up at the top.
+Eric> Yes Virginia, a big chunk of USENET's users read the alt.sex.* hierarchy.
+Eric> That's a simple fact, not a moral judgement.
+
+
+
+  group                                    readers    % of all newsreaders
+  ------------------------------------------------------------------------
+  alt.sex                                   210000    12.7%
+  rec.arts.erotica                          140000     8.7%
+  alt.sex.bondage                            99000     6.1% 
+  alt.sex.pictures                           93000     5.7%
+  alt.binaries.pictures.erotica              72000     4.4%
+  alt.sex.movies                             61000     3.8%
+  alt.sex.pictures.d                         53000     3.2%
+  alt.binaries.pictures.erotica.d            51000     3.1%
+  alt.binaries.pictures.erotica.female       42000     2.6%    
+  alt.sex.pictures.female                    33000     2.0%
+  alt.sex.motss                              31000     1.9%
+  alt.sex.masturbation                       11000     0.7%
+  alt.binaries.pictures.erotica.male         11000     0.7%    
+  alt.sex.wanted                              8200     0.5%
+
+Yes, Eric, that's a lot of people, but it hardly justifies saying that
+USENET is "used mainly for transmission of pornographic material".
+
+Well, we might look at volume instead. Totalling the traffic for the
+above groups (ignoring crossposting for now), we get 51031.4 kbyte/month.
+Doing the same for all groups, we get 747191 kbyte/month, i.e. the
+sex groups constitutes 6.83% of the traffic.
+
+So, we ignored crossposting above. According to the UUNET traffic
+totals, there is currently (Nov) 22330.362 kbytes/day or 669910.86
+kbytes/month, i.e. we overestimated the traffic by 11% by ignoring
+crossposting. For the sex groups, crossposting varies, with
+alt.sex.bondage at 1%, alt.binaries.pictures.erotica at 12%, alt.sex
+at 23% and alt.sex.pictures at a whopping 54%. This means that we lack
+precision, but not fatally so.
+
+
+Lots of boring numbers, right? The point is, I guess, that, yes, there
+*is* pornographic material on the USENET, and, yes, some USENET
+readers follow these groups, but, no, it is *not* the majority that
+follow these groups, and, no, it is not the major part of the traffic.
+
+
+Now back to out usual flaming. I hope a few facts didn't ruin your
+day.
+
+/Lars
+--
+Lars Fischer,  fischer@iesd.auc.dk   | It takes an uncommon mind to think of
+CS Dept., Univ. of Aalborg, DENMARK. | these things.  -- Calvin
+-------------------
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: New news censorship policy at Iowa State University
+Message-ID: <1991Dec16.154149.15030@eff.org>
+Keywords: bogus!
+References: <1991Dec15.164750@IASTATE.EDU>
+Date: Mon, 16 Dec 1991 15:41:49 GMT
+
+spam@IASTATE.EDU (Michael L Begley) writes:
+
+>Hi.  I'm a staudent at Iowa State University, and the university
+>just recently unveiled a policy designed to censor the following
+>groups from virtually every student and most faculty.
+...
+>Could
+>someone with more experience with this issue please point me to some
+>of the most relevent information regarding htis issue on eff.com
+>and any other source?  Thanks.
+
+----------------ftp.eff.org:pub/academic/faq/newsgroups.read-------
+
+q: Should my university remove Netnews newsgroups because some
+people find them offensive? If it doesn't have the resources
+to carry all newsgroups, how should newsgroups be selected?
+
+a: In 1989, Stanford University banned rec.humor.funny. The ban was
+lifted after a university committee recommended that newsgroups be
+selected according to library policy. In other words, removing a
+newsgroup is equivalent to banning a magazine from an academic
+library.
+
+The principles of intellectual freedom developed by libraries can (and
+should, in my opinion) be applied to the administration of information
+material on computers. These principles are explained in such American
+Library Association documents as the Library Bill of Rights, the
+Freedom to Read Statement, and the Intellectual Freedom Statement.
+
+With the permission of the American Library Assocation, these
+documents and others are avaiable on-line. Many of these documents
+deal with controversial material and material selection policy. For
+example, article 2 of the Library Bill of Rights says: "Materials
+should not be proscribed or removed because of partisan or doctrinal
+disapproval". The ALA Workbook for Selection Policy Writing tells how
+to create a formal policy.
+
+- Carl M. Kadie
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+stanford.statements
+=================
+"In 1989 rec.humor.funny was suppressed in some of the Stanford
+University computers.  After a campaign it was re-installed in those
+computers." 
+
+This file contains 
+1) the "Statement of Protest about the AIR Censorship of rec.humor.funny" 
+2) a statement by the Stanford faculty committee on libraries
+3) Notes from Professor John McCarthy on how censorship was fought at Stanford
+
+(also see "jmcabstract")
+
+=================
+jmcabstract
+=================
+Professor John 	McCarthy lead the effort to restore "rec.humor.funny"
+at Stanford. In March of 1991, he traveled to the University of
+Waterloo, a place where "rec.humor.funny" and "alt.sex" was banned.
+At Waterloo, he gave one talk on a new computer language and a second
+talk on "Network Publication and Free Expression". This is the
+abstract of that talk.  (In May 1991, an advisory committee said the
+ban should be lifted. In October 1991, the ban was lifted.)
+
+(Also, see "stanford.statements")
+
+=================
+caf-statement
+=================
+This is an attempt to codify the application of academic freedom to
+academic computers. It reflects our seven months of on-line discussion
+about computers and academic freedom.
+
+Comments and suggestions are very welcome (especially when posted to
+CAF-talk). All the documents referenced are available on-line.
+
+=================
+library/bill-of-rights.ala
+=================
+The Library Bill of Rights from the American Library Association.
+
+=================
+library/selection-workbook.ala
+=================
+The American Library Association's "Workbook on Selection Policy
+Writing". Although aimed at textbook and library book selection in
+grade and high schools, it also seems applicable to newsgroup
+selection. It includes information about how create a selection policy
+and how to handle complaints. It also includes a sample selection
+policy.
+
+=================
+library/int-freedom.ala
+=================
+"Intellectual Freedom Statement"
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+=================
+library/README
+=================
+Library Policy Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of library policy statements. It
+includes the American Library Association's Freedom To Read statement
+and the ALA Library Bill of Rights. (The ALA material is made
+available by permission of the American Library Association.)
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/library".
+For email access, send email to archive-server@eff.org. Include the
+line:
+  send library-policies <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact Carl Kadie (kadie@eff.org).
+
+=================
+faq/netnews.writing
+=================
+q: Should my university allow students to post to Netnews?
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send acad-freeedom stanford.statements
+  send acad-freeedom jmcabstract
+  send acad-freeedom caf-statement
+  send library-policies bill-of-rights.ala
+  send library-policies selection-workbook.ala
+  send library-policies int-freedom.ala
+  send library-policies README
+  send caf-faq netnews.writing
+
+The files are also available via anonymous ftp from ftp.eff.org
+(191.88.144.3) as file(s):
+  pub/academic/stanford.statements
+  pub/academic/jmcabstract
+  pub/academic/caf-statement
+  pub/academic/library/bill-of-rights.ala
+  pub/academic/library/selection-workbook.ala
+  pub/academic/library/int-freedom.ala
+  pub/academic/library/README
+  pub/academic/faq/netnews.writing
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+--------------------
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject: Re: Inappropriate Use by 2714sviatkos
+Message-ID: <1991Dec20.045445.4243@m.cs.uiuc.edu>
+References: <009534B5.604A6160@vms.csd.mu.edu> <1991Dec19.154732.29142@wpi.WPI.EDU> <144@hsdndev.UUCP>
+Date: Fri, 20 Dec 1991 04:54:45 GMT
+
+burns@thurifer.harvard.edu (John A. Burns) writes:
+
+[...]
+>And can his publisher (in this case, Marquette University) also be held
+>legally responsible for harm done as a result?  If not, why not?  If so,
+>how can you deny them the right to avoid doing harm by refusing to publish?
+[...]
+
+=============== ftp.eff.org:pub/academic/faq/netnews.liability ===============
+q: Does a University reduce its likely liability by screening Netnews
+for offensive articles and newsgroups?
+
+a: Not necessarily. By screening articles and newsgroups the
+University may *increase* its liability.
+
+(Aside: Elimination of liability should not be the University's
+only goal.)
+
+According to the book _Law of the Student Press_ (in reference student
+newspapers), "Only two court cases have considered the liability
+question, and in both cases the courts found that the institution was
+free from liability because control was in the hands of the
+students.{33,34} ... Thus, despite arguments by administrators that
+they need to prevent libel, it appears that just the opposite is true:
+Where administrators have not exercised control over the content of
+student publications, the courts have refused to hold their schools
+responsible for libel appearing in such publication. If, however,
+administrators exercise the power of prior review, then the court will
+also hold them and their schools liable for the contents of such
+publications.  Encouraging the establishment of a clear-cut separation
+between school administration and editor functions may also result in
+the reduction of libel suits, for potential plaintiffs will realize
+that substantial funds are beyond their reach.  ...  {33} _Mazart v.
+State_ 441 N.Y.S.2d 600 (1981) {34} _Milliner v. Turner_ 436 So.2d
+1300 (La. App. 1983)"
+
+The recent _Cubby v. Compuserve_ decision also suggests that a
+no-screening policy may be best. The judge wrote: "CompuServe has no
+more editorial control over such a publication than does a public
+library, bookstore or newsstand, and it would be no more feasible for
+CompuServe to examine every publication it carries for potentially
+defamatory statements than it would be for any other distributor to do
+so."
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+student.freedoms
+=================
+Joint Statement on Rights and Freedoms of Students -- This is the main
+statement on student academic freedom.
+
+=================
+law/cubby-v-compuserv
+=================
+Report of a federal district court case which said that BBS owners
+cannot be held liable for the content they know beforehand that the
+stories are false.
+
+=================
+law/student-publications.misc
+=================
+Quotes from the book _Law of the Student Press_ by the Student Press
+Law Center (1985,1988). They say that four-letter words are protected
+speech, that public universities are not likely to be liable for
+publications that they for which they do not control the contents, and
+that the _Hazelwood_ decision does not apply to universities.
+
+=================
+faq/netnews.reading
+=================
+q: Should my university remove Netnews newsgroups because some
+people find them offensive? If it doesn't have the resources
+to carry all newsgroups, how should newsgroups be selected?
+
+=================
+faq/netnews.writing
+=================
+q: Should my university allow students to post to Netnews?
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send acad-freeedom student.freedoms
+  send caf-law cubby-v-compuserv
+  send caf-law student-publications.misc
+  send caf-faq netnews.reading
+  send caf-faq netnews.writing
+
+The files are also available via anonymous ftp from ftp.eff.org
+(191.88.144.3) as file(s):
+  pub/academic/student.freedoms
+  pub/academic/law/cubby-v-compuserv
+  pub/academic/law/student-publications.misc
+  pub/academic/faq/netnews.reading
+  pub/academic/faq/netnews.writing
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+-------------------
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Inappropriate Use by 2714sviatkos
+Message-ID: <1991Dec18.215846.17384@eff.org>
+References: <009534B5.604A6160@vms.csd.mu.edu>
+Date: Wed, 18 Dec 1991 21:58:46 GMT
+
+In article <009534B5.604A6160@vms.csd.mu.edu> 8001mallinge@vms.csd.mu.edu writes:
+>
+>    Access code 2714sviatkos has been removed and the person involved
+>    is restricted from use of any Computer Services computing facilities.
+>    Our computer use policy as well as our network acceptable use policy
+>    clearly prohibit activity such as the inflammatory message posted
+>    Friday evening, December 13, 1991.
+>    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+>    Ann Mallinger, User Services Manager
+>    Computer Services Division
+>    Marquette University
+
+Dear Ms. Mallinger:
+
+I am distressed to read that you are punishing a student for offending
+people in a free speech forum. Bad speech should be out competed, not
+outlawed. The Joint Statement on Rights and Freedoms of Students, main
+statement on academic freedom in the US, says:
+
+"Students and student organizations should be free to examine and
+discuss all questions of interest to them, and to express opinions
+publicly and privately."
+
+What is your university's policy on freedom of expression?  The
+Student Code of most universities guarantees students that they will
+be free of institutional censorship. This guarentee is part of the
+contractual obligation between student and school and cannot be
+overridden by departments. (see _A Practical Guide to Legal Issues
+Affecting College Teachers_ by Patricia A. Hollander.)  (Also what is
+your university's due process procedure? Most university's guarantee
+that students cannot be punished without being given the chance for a
+hearing.)
+
+I hope that you will consider your moral (and legal) obligations, and
+strike down the punishment.
+
+For a copy of the Joint Statement, send email to archive-server@eff.org.
+Include the lines:
+  send acad-freedom student.freedoms
+  send acad-freedom README
+  help
+  index
+
+Yours,
+ Carl Kadie
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: BS!
+Message-ID: <1991Dec3.045840.18238@eff.org>
+References: <1991Dec2.040913.5347@news.iastate.edu>
+Date: Tue, 3 Dec 1991 04:58:40 GMT
+
+(A second response)
+
+kadie@eff.org, paraphrasing an article by kadie@eff.org,
+writes:
+
+>4. Iowa State University policy prohibits the sending of "rude"
+>material. This policy is very likely infringes on
+>Constitutionally-protected rights. References are enclosed.
+>    <1991Nov14.203127.16256@eff.org>
+
+S2.RSB@isumvs.iastate.edu (Bob Boston) writes:
+
+>    The following guidelines govern ethical computer use at Iowa State
+>    University:
+[...]
+>    #  Sending rude, obscene or harassing material via any electronic mail
+>       or bulletin board facility is strictly forbidden.
+[...]
+>Please note that the existing guidelines refer only to "University Computing
+>Facilities."  These facilities are owned or paid for by Iowa State University
+>and the Iowa Board of Regents, not by the students and teachers who use the
+>facilities. Students and teachers who use their own computers and public
+>networks like GEnie and CompuServe are free to be as rude as they wish.  But
+>if they use computers and networks supported by Iowa State they must abide by
+>the guidelines established by the owner of those computers and networks.
+[...]
+>IMHO, saying "Rudeness is not a crime" is putting the emPHAsis on the wrong
+>sylLABle. Any action not defined as a crime is permissable?  In other words I
+>can spit in your face and seduce your wife without worrying you?  I can call
+>you a motherf****r without raising your ire?
+
+>It may be that rudeness is *the* crime in reasoned discourse, for it usually
+>involves an attack on the person rather than an argument against the person's
+>ideas. In thinking so much about legalities, you may have forgotten more basic
+>concepts of courtesy, cooperation and common sense.
+
+>Bob Boston
+>Writing Labs Director
+>English Department
+>Iowa State University
+[...]
+
+It is not the job or place of the government to enforce concepts of
+courtesy, cooperation and common sense with respect to expression.
+That should and is done with social pressure.
+
+In _Hustler Magazine v. Falwell_, the Supreme Court wrote "in public
+debate our own citizens must tolerate insulting, and even outrageous
+speech in order to provide adequate breathing space to the freedoms
+protected by the First Amendment."
+
+To paraphrase the ACLU handbook on the _Rights of Teachers_:
+generally, speech, if otherwise shielded from punishment by the First
+Amendment [or Academic Freedom -cmk], does not lose that protection
+because its tone is sharp.  Discussions will not always be models of
+decorum. A court observed that "often those with the power to appoint
+will be on one side of a controversial issue and find it convenient to
+use their opponent's momentary stridency as a pretext to squelch
+them."
+
+Also, of interest are two recent federal district decisions. In _UWM
+POST v. U. of Wisconsin_ and _Doe v. U. of Michican, the courts struck
+down campus speech codes saying that they violated the First Amendment.
+(_UWM Post_ involved email.) The full text of both decisions is
+available via anonymous ftp from directory ftp.eff.org:pub/academic/law.
+
+The _UWM Post_ decision concludes: "The founding fathers of this
+nation produced a remarkable document in the Constitution but it was
+ratified only with the promise of the Bill of Rights.  The First
+Amendment is central to our concept of freedom.  The God-given
+"unalienable rights" that the infant nation rallied to in the
+Declaration of Independence can be preserved only if their application
+is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: elg@usl.edu (Eric Lee Green)
+Subject: Re: System Accounting: Fascist Tool?
+Message-ID: <1991Nov27.031621.4433@usl.edu>
+Date: 27 Nov 91 03:16:21 GMT
+Article-I.D.: usl.1991Nov27.031621.4433
+References: <9111252053.AA09129@uoftcse.cse.utoledo.edu>
+Sender: anon@usl.edu (Anonymous NNTP Posting)
+
+In article <9111252053.AA09129@uoftcse.cse.utoledo.edu> brack@uoftcse.cse.utoledo.edu (Brack) writes:
+>In article <1991Nov25.162134.6865@eff.org> you write:
+>: Resolved: Use of the Unix "ps" command should be severely restricted
+>: for the sake of user privacy.
+>: 
+>: Believe it or not, I'm going to take the negative position and defend
+>: "ps".
+>: 
+>: -------
+>	It is not the users place to decide what processes are allowed
+>	to be executed by other users.  That is a function of the 
+>	sysadmin (remember the concierge theory?).  I don't want
+
+Well: I agree, that there should be a per-process option which
+restricts what information is available to "ps". HOWEVER: here's
+something that actually happened:
+
+A person ran MIT C-Scheme. This is a huge memory hog that has a 4 megabyte
+memory image. He typed (quit) to exit the Scheme environment. He wasn't
+Unix-adept, so he didn't know what "job stopped xyzzzy" meant... he assumed
+that it meant that Scheme had died and gone away.
+
+He then edited his Scheme file (sure, he should have control-Z'ed, but
+Unix neophyte, remember?) and then ran Scheme again.
+
+Note: Now we have TWO schemes running, taking up 8 megabytes of swap space.
+
+Repeat several times.
+
+Get message, "Out of swap space" when try to spawn a process.
+
+I typed ps -augxw at my terminal, trying to figure out what the heck
+was going on, and noticed all these Schemes. I noted the tty that this
+was being run from, and wandered over there and let him know what he was
+doing wrong.
+
+Now, who did I harm? Seems to me that yes, I could have reported it to an
+administrator... but I'd still be waiting for someone to kill all those
+old processes off :-). 
+
+>	anyone who does a ps -a to know what I'm doing.  If I want\
+>	people to know, I'll tell them, but I don't want information
+>	private to me to be given to anyone who asks without my permission.
+
+I'm of the old hacker school. I don't believe in either privacy or
+administrators :-). The way I figure it, if you don't have anything to
+hide, you have no reason for privacy. Now, I'll agree that in a corporate
+environment privacy is a necessity. But this is the academic environment,
+built around free flow of information. Restrict that free flow of information,
+and you get less productivity, less cross-pollination of ideas between
+people, less of what universities are set up to do. 
+>
+>	What good would it do the other users to see his/her runaway
+>	process?  The only ones who can stop it are the student &
+>	the admin, in any case.
+
+Well, knowing what the runaway process is allows me to go over to that
+person's terminal and say "hey, did you know that you were using 90% of
+the CPU?". It also allows me to go straight to the operator and tell him
+exactly what is going on... note that this guy in the machine room isn't
+a professional, probably just a graduate assistant, and expecting him
+to know his way around the system is like expecting a blind man to see :-).
+(In other words, expecting him to be able to figure out how to solve the
+problem all by himself just isn't realistic). 
+
+
+--
+--
+  Eric Lee Green   P.O. Box 92191  Lafayette, LA 70506 (318) 989-8950
+Internet: elg@elgamy.raidernet.com   UUCP: uunet!mjbtn!raider!elgamy!elg
+     "It's never too late for a happy childhood" -- The Doctor
+-------------------
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: FFDMG@ALASKA.BITNET (Dean Gottehrer)
+Subject: Re: Positivism, privacy, and the flow of information
+Message-ID: <199112050610.AA19751@eff.org>
+Sender: FFDMG%ALASKA.BITNET@CORNELLC.cit.cornell.edu
+Date: 4 Dec 91 12:09:13 GMT
+
+Thanks, Mitch, for an invitation to join the debate.  I hope we can keep this
+out of the flame war arena where more fire than light is created.
+
+I read the line about "if you don't have anything to hide, you have no reason
+for privacy" and thought it made about as much sense to me as automatically
+assuming that anyone who asserts his or her consitutional Fifth Amendment
+rights is guilty of a crime.  Innocent people accused of crimes are just as
+entitled to the right not to respond as guilty folks are.  Similarly, people
+with nothing to hide are also entitled to privacy.
+
+Not everything about any person's life is public.  Some things are
+private--not because anyone of us wants to hide them, but because the Supreme
+Court has determined we have a right to privacy and certain parts of our lives
+are lived in private and not out in public for everyone to see.
+
+For much of that same reason, I think the contents of an academic computer,
+other than directory information and any publically posted material, are
+private unless their owners or creaters choose to make them public.  Research
+that faculty conduct is not public until they make it so by publishing it in
+some way.  Just because a faculty member has files on the academic computer
+does mean that everyone should have the ability to look around and read
+them--unless, of course, the faculty member makes them public.
+
+And for whatever my two cents are worth, I think the same privacy rights
+pertain to students and staff.  We are not yet at the point where everything
+everyone owns or creates is open to anyone else to read.  Does that mean a
+faculty member who doesn't want his research public until he chooses to
+publish it has something to hide?  I don't think so.  I would rather view it
+as his right to shape a work in progress, refine and polish it, until he
+believes it is ready to face the world.
+
+Best,
+Dean Gottehrer
+Anchorage, Alaska
+-------------------
+
+From cafnews Fri Dec 13 16:15:02 1991
+From: bav@hobbes.ksu.ksu.edu (Brick Verser)
+Subject:  Network utilization by MUD players (was Re: Gaming)
+Date: 9 Dec 91 09:41:57 GMT
+Message-ID: <kk6ej5INNi4o@moe.ksu.ksu.edu>
+
+In article <1991Dec06.180003.10985@groucho> djanson@doc.ee.uidaho.edu (David Janson) writes:
+>If anyone has any hard figures on this subject, I'd appreciate looking at them.
+
+I ran NNSTAT here on Thursday, Nov 21, 6am to 6pm.  We have a policy which 
+supposedly prohibits MUD playing between 8am and midnight on school days, so
+there shouldn't have been too much MUD activity.  But MUD turned out to be
+the number 4 application behind BITNET, NETNEWS, and FTP.  It outpaced
+ordinary TELNET and SMTP that day (dunno how representative that Thursday
+was).  MUD ports represented about 6% of the total traffic, or about 
+32 megabytes in those 12 hours (740 bytes/sec).
+
+I did the same test running from Friday night about 10pm to Monday about 3am
+(3171 minutes) and MUD was the single biggest application.  MUD was about
+30% of our total while FTP, NETNEWS, and BITNET were each about 15%.  The
+total MUD traffic was about 460 megabytes (in 190K seconds is 2400 bytes
+per second).  30 minutes peaks were much higher than average, but still
+only a tiny bump for a T1 connection.  We have no servers here, so all 
+of the MUD traffic represents our folks playing the game on distant machines.  
+
+So, while MUD playing here isn't a problem for our T1 connection, it could
+be troublesome to a site with a 56KB connection.  Indeed, before we upgraded
+our Internet link about a year ago, the MUD players were requesting we 
+enhance the 56KB connection we had at the time; seems interactive response 
+time wasn't really good enough for real-time MUD battles.
+
+--Brick
+-------------------
+
+
+

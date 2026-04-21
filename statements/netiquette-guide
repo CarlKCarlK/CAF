@@ -1,0 +1,489 @@
+From GOLDEN@huhept.harvard.edu Thu Jul 28 17:45:38 1994
+Received: from HUHEPW.HARVARD.EDU (huhepw.harvard.edu [128.103.100.158]) by eff.org (8.6.9/8.6.6) with SMTP id RAA25918; Thu, 28 Jul 1994 17:45:35 -0400
+Date: Thu, 28 Jul 1994 17:46:11 -0400 (EDT)
+From: GOLDEN@huhept.harvard.edu
+To: greeny@eff.org, kadie@eff.org
+CC: GOLDEN@huhept.harvard.edu
+Message-Id: <940728174611.20e007dd@HUHEPL.HARVARD.EDU>
+Subject: Site Admin's Guide to Netiquette
+Status: RO
+
+Below I attaching a copy of a document I've been writing, "The Usenet Site
+Administrator's Guide to Netiquette".  I'm sending it to you because I mention
+the CAF archives.  I'm hoping that when it's done it will be posted to
+news.answers, etc.
+
+I wrote it because I was concerned about the press coverage of the Canter and
+Siegel affair, especially the New York Times's reports that killing C&S's posts
+amounted to censorship.  I think that the existence of this document will be
+useful to smooth the inclusion of new sites into Usenet.  While I think that
+the vast majority of site admins do an excellent job, the existence of a
+written set of rules (even if they are just one man's opinion) will help
+explain to the new site admins what some of the issues are.  The codification
+in a document of the Netiquette rules will help explain to the press what the
+site admins are doing.
+
+I hope you have time to give it a look.
+
+	- Mitchell Golden
+	  (golden@physics.harvard.edu)
+
+-----------------------------------------------------------------------------
+
+	     The Usenet Site Administrator's Guide to Netiquette
+			 (version 0.3, July 28, 1994)
+
+
+Table of Contents
+
+1)  I want to join Usenet!
+2)  What is Usenet, and how do I get it?
+3)  Why should I get Usenet?
+4)  What about companies on Usenet?
+5)  My company wants to post to Usenet because we think it is a cheap way to
+    advertise.
+6)  Which newsgroups should I carry?
+7)  How long should the articles' expiration times be?
+8)  What is "net-abuse"?
+9)  What should I do about net-abuse?
+10) What codes of conduct should I impose on the users of my site?
+11) What are the legal issues?
+12) What other things can I do with my Usenet site?
+13) What are my ongoing responsibilies?
+14) Okay, the software is set up, what do I do now?
+15) Who wrote this document, anyway?
+
+1) I want to join Usenet!
+
+This is the Site Administrator's Guide to Netiquette.  It represents the
+opinions of the author about how to deal with various problems you may run
+across running a Usenet site.  It is _not_ a technical document about the
+software.  Nor is it legal advice (heaven forbid)!
+
+2) What is Usenet, and how do I get it?
+
+You're reading the wrong document.  Go read "What is Usenet".  You probably
+also want to read "How to become a USENET site".  In order to understand the
+discussions here you should be familiar with "A Primer on How to Work With the
+Usenet Community" and/or "Emily Postnews Answers Your Questions on
+Netiquette", and/or "Rules for posting to Usenet".  Especially if you're
+installing a commercial site, you should see "A Guide to Buying and Selling on
+Usenet".  All of these documents should be found in the newsgroups
+news.answers and news.announce.newusers.
+
+3) Why should I get Usenet?
+
+Well, that depends who you are.  If you are at a university, your site will
+allow your university community to participate in discussions with people from
+around the world on a huge variety of topics.  The information contained in
+Usenet posts may not be the most valuable stuff available electronically, but
+it is certainly among the most freewheeling.
+
+4) What about companies on Usenet?
+
+No problem.  Most Usenet sites nowadays are commercial.  However, you should
+consider who in your company you really want reading newsgroups on company
+time, and which groups.
+
+5) My company wants to post to Usenet because we think it is a cheap way to
+   advertise.
+
+Careful here!  Usenet is _not_ intended as a broadcast medium.  It is for
+people to carry on discussions about specific topics in which they are already
+interested.  Before you set up your site it is important that you and your
+site's users understand this distinction.
+
+You may have heard that there is a culture of hostility of Usenet readers to
+advertisements.  If you understand what Usenet is, it's easy to understand.
+Remember: Usenet is a cooperative venture that people set up to converse with
+one another.  It's for participants, not simply to be exploited.  When
+advertising is clearly an attempt at exploitation rather than participation,
+it gets a negative response.
+
+Hostility to advertisement posts has also developed because they have almost
+never been confined to the newsgroups where they belong.  If someone is
+reading a newsgroup about cats, that doesn't mean he or she wants information
+about a stock brokerage.
+
+Even when they do confine their posts to relevant newsgroups, advertisers
+frequently post the same message over and over.  Again, that's not why people
+are reading Usenet - they're there to talk to each other about a subject
+they're interested in.
+
+In many cases, the readers of Usenet articles are paying to get the posts.
+Almost certainly the site is paying for its hookup to the network (be that the
+Internet or some other way of receiving the articles) and they don't want to
+pay again for stuff they've already read.  Remember, unless people respect the
+rules, it will cost _your_ site money too!
+
+Besides, if you advertise on Usenet, your product will be in the company of
+such wonders as
+
+ (*) Neo-Nazi holocaust revisionist literature.
+ (*) "MAKE.MONEY.FAST" = con artists, wire fraud, and Ponzi schemes.
+ (*) The services of sleazy lawyers who prey on potential US immigrants by
+     charging them for information they can have from the government for free.
+ (*) Pornographic videos.
+
+You don't want your company to be perceived as being like that!  Keep your
+posts low key, non-repetitive, and _only_ in groups in which they are really
+on-topic.  Remember that the other sites (your customers!) are _paying_ to get
+Usenet.  You will alienate them if you run roughshod over the Usenet
+structure.
+
+If you or one of your site's users really wants to advertise, why don't you
+use your net hookup to set up a World Wide Web or Gopher site?  Those are
+really much better media for advertisements.  After you've set up your WWW
+site, you can post a small message to the appropriate Usenet group calling
+attention to it.  Anyone who's really interested will go look at it.
+
+In any event, you're probably thinking the wrong way about the commercial uses
+of Usenet anyway.  Forget ads.  _Your_customers_are_talking_about_your_and_
+your_competitors'_products._  You will stand to gain quite a lot from just
+listening to them, without saying a thing.  For example, don't you think that
+Ford could benefit from having an employee read rec.autos?  Companies in the
+computer industry have known this for a long time.
+
+6) Which newsgroups should I carry?
+
+Your Usenet site is still your computer.  No one can make you receive, store,
+or propagate files that you don't want.  Take only those newsgroups you think
+are useful.  As mentioned above, a commercial site probably doesn't want its
+employees wasting too much time on non-work related activities.  In that case,
+you might for example consider dropping the talk.* hierarchy.  But if you're
+at a university, why not carry as many groups as resources allow?
+
+On the other hand, you _really_should_ carry the news.* hierarchy.  If you
+don't get it, how can your users read news.announce.newusers?
+
+The alt.* groups are another story.  Some are useful, but many are worthless,
+since there are essentially no rules restricting their creation.  (See "So You
+Want to Create an Alt Newsgroup" in news.answers.)  If you intend to carry alt
+groups on your site, you should probably read the newsgroup alt.config.
+
+The most controversial newsgroup is without a doubt
+alt.binaries.pictures.erotica - the newsgroup for posting of erotic /
+pornographic pictures.  The controversy involves two issues:
+
+ (*) There are many people who intensely dislike pornography, and who
+     don't wish it to be available.  Indeed, pornography is illegal in many
+     places.
+ (*) A large fraction of the images carried in a.b.p.e are in violation of a
+     copyright.
+
+If your intention is to ban pornography from your site, you should also take a
+look at the group alt.sex.stories to see if you find it acceptable.  If you
+expect your site to be frequented by children, you should be especially
+careful about what groups they have access to.  (There is a k12.* hierarchy
+explicitly intended for schoolchildren.  See section 12 below.)
+
+It is probably impossible to be sure that your site is free from copyright
+violations at all times, since you can't read every article coming in.  On the
+other hand, some groups are worse than others.  Quite a lot of the stuff in
+alt.binaries.sounds.* is questionable too.
+
+Before you decide which groups to carry, be sure that you've read "What are
+the legal issues?" in section 11 below.
+
+7) How long should the articles' expiration times be?
+
+You might think that you should set the expiration times as long as you can.
+Actually this isn't a great idea.  Usenet flame wars are all too common.
+Sometimes a flame war dies down, only to be rekindled when a new reader comes
+across old messages on his or her server.  While there is no standard for the
+expiration times, try not to make it longer than a few weeks, especially on
+alt.* and talk.* groups.
+
+There are some newsgroups on which the above reasoning doesn't apply.
+Moderated groups are one kind.  news.answers would be another example.  In
+general, its best if a low-volume group has its expiration time set long
+enough that the Frequently Asked Questions list (FAQ) and any other periodic
+postings in the group are always there.
+
+8) What is "net-abuse"?
+
+This is tricky.  Some people are touchier about these issues than others, and
+the conception of net-abuse is constantly evolving.  The basic concept is that
+net-abuse is an action that undermines the ability of one or more Usenet
+newsgroups to serve as discussion forums.  Whether or not a message is
+net-abuse is not a question of the content of the article, but rather the
+manner or place of the posting.  There is a consensus that three things are
+definitely net-abuse
+
+a) "Spamming" the newsgroups.  A user or group of users is said to have
+spammed when he/she/they posts one or more messages with substantially the
+same content to a large number of newsgroups, in many of the which the post is
+off-topic.
+
+A spamming infraction is more serious if the spam is not cross-posted to the
+newsgroups involved, but is instead posted to each group separately.  This
+means that the newsreader software at the receiving end will not be able to
+determine that the message has already been read in another newsgroup, and the
+receiving users will be repeatedly confronted with the post.
+
+A post or posts need not happen all at once to be considered spam.
+
+Usually spamming occurs when a user attempts to use the Usenet as a broadcast
+medium, instead of as a forum for discussion and exchange of ideas.  Much of
+the poor press coverage of Usenet comes about because of a lack of
+understanding of this distinction.  Usenet is not intended as a means of
+getting people who are not already interested in a topic to pay attention to
+it.
+
+There is no hard and fast definition of "spamming".  However, Usenet groups
+are sufficiently distinct that it is quite rare that an article is really
+on-topic in more than ten or so groups.
+
+b) Flooding a newsgroup.  This is said to occur when a user or group of users
+posts so many messages to a group that it is rendered unusable.  Posts may be
+on-topic or not, but if the action prevents other users from exchanging ideas
+through that newsgroup, it is considered net-abuse.
+
+c) Sending forged cancels for other people's articles.  Freedom of speech is
+respected on Usenet.  Suppressing the voices of others is not allowed.
+
+However, recently a consensus has emerged that there is one exception to the
+prohibition against canceling someone else's articles: it is okay to cancel
+articles when a massive spamming violation is in progress.  This should never
+be done lightly, since it is best if net-abuse is dealt with at the
+originating site.
+
+9) What should I do about net-abuse?
+
+You will be expected to keep the users of your site from engaging in
+net-abuse.  To this end you should make sure that as news administrator you
+are accessible to e-mail, as usenet@your.host.name.
+
+If someone mails you about posts originating from your site, you need not act
+on it unless he or she demonstrates an effort to resolve the problem first
+with the person making the posts in question.  In general, it is best if
+posters resolve complaints among each other, without system administrators
+getting involved.  However, if the complaint is a true major emergency, you
+should act immediately.
+
+If an abuse is reported to you, you have pretty broad discretion as to how to
+handle it.  However, other site administrators will be quite angry if it
+doesn't stop quickly.
+
+If someone complains to you about some posts, and you agree that the posts in
+question are really net-abuse, then you should send out cancels for the
+offending articles, and take action to prevent repetition of the act.  If you
+don't believe that the questionable posts are net-abuse, you should send reply
+e-mail to the complainer(s) explaining why.
+
+It may occur that a renegade site administrator refuses to make a good-faith
+effort to halt net-abuse originating at his or her site.  In that case it is
+frequently suggested that other sites stop propagating articles from that site.
+This situation is extremely rare, and you will have to deal with it on a case
+by case basis. Cutting off a site punishes all the users of that site, not
+just the ones involved in net-abuse.
+
+As site administrator you should probably read news.admin.*.  Reading these
+groups will keep you informed about net-abuses at other sites, and help you
+understand the emerging consensus as to what net-abuse is and how it can be
+dealt with.  You may also want to look at alt.current-events.net-abuse.
+
+10) What codes of conduct should I impose on the users of my site?
+
+You have broad discretion in this area.  You definitely can't allow net-abuse,
+but there are other posts you mustn't permit either.  For example, you should
+stop posts of illegal material - for example, stuff that is copyright
+violating, defamatory, or obscene.  There are milder abuses you want to prevent
+too.  You will get complaints if a user on your site persists in posting
+binary files to a text-only group.  (Depending on the nature of the
+infraction, some might say that this is net-abuse, while others might say they
+are merely off-topic posts.)
+
+If you are planning to set up a site which sells accounts to users, you will
+probably need a legal contract with your users so that they behave properly.
+(Get a lawyer for this.  As mentioned above, this document is not legal
+advice!)  For example, one Internet access provider has a clause in its user
+agreement that reads
+
+"User hereby agrees that any material submitted for publication on [the
+provider's site] through User's account(s) does not violate or infringe any
+copyright, trademark, patent, statutory, common law or proprietary rights of
+others, or contain anything obscene or libelous."
+
+To prevent spamming, the provider puts in its contract
+
+The "use of distribution list in electronic mail or other mass electronic
+mailings is subject to approval of [the provider]."
+
+You need to make clear in the contract that you will cut off the user if they
+abuse Usenet.  Here's how it looks in this provider's contract:
+
+"[The provider], at its sole business judgment, may [...] suspend User's
+access to the service upon any breach of this membership Agreement by User,
+including, but not limited to [...] by sole judgement of [the provider] that
+User may be performing activities harmful to [the provider] or its users,
+employees, vendors, business relationships, or any other users of the
+Internet."
+
+If you want to look at user agreements, some Internet access providers have
+made theirs available on their gopher/ftp servers.
+
+Make sure your users have read your agreement before they get anywhere near
+Usenet.  A user who doesn't intend to abuse Usenet will have no objection to
+agreeing to your terms.  Some commercial sites have configured their software
+so that new users must read the contract and the netiquette documents _before_
+the user is allowed to read or post anything.
+
+Since they tend to be close-knit communities, academic sites generally have
+less of a problem dealing with net-abuse issues than other types of sites.  It
+is usually within the power of the university to keep students and faculty to
+behaving properly.
+
+On the other hand, some academic sites have set up speech codes governing the
+actual content of messages.  There is quite a bit of controversy about speech
+codes at Universities in general, not just on Usenet.  It's too big an issue
+to go into here.  The Electronic Frontier Foundation (EFF) distributes some
+very nice papers discussing these and other issues which you may obtain from
+their FTP site, ftp.eff.org in the directory /pub/CAF.  (CAF refers to the
+"Computers and Academic Freedom" mailing list.)
+
+11) What are the legal issues?
+
+First of all, since Usenet is international, it is not possible to give a real
+answer to this question.  Moreover, to discuss the legal status of Usenet in
+even one country would require a much longer document than this one.
+
+There is one overarching question: who is legally responsible for the articles
+on a site?  If some freshman at Boondocks University posts the lyrics of a
+copyrighted Michael Jackson song, can every single Usenet site be sued for
+propagating the copies?
+
+To my knowledge (and I am not a lawyer), in the US at least this question
+hasn't been entirely resolved.  There are definitely cases in which bulletin
+board owners have gotten into trouble for copyright violations on their
+machines.  If your site is sued, the decision in court may hinge in part on
+whether or not the site administrator knew that the machine contained illegal
+posts.  Everyone is _hoping_ that the poster is held liable, but if the courts
+decide otherwise we might finally see the proverbial "film at 11" in which the
+end of Usenet comes to pass.
+
+Before you panic however, consider that the courts may hold that a Usenet site
+is like a bookstore.  If every bookstore were liable for the contents of every
+book on its shelves, no one could sell books.
+
+12) What other things can I do with my Usenet site?
+
+There are other hierarchies besides the "big seven" and alt.  They are
+described fully in the "Alternative Newsgroup Hierarchies", posted to
+news.answers.  They include
+
+ (*) The regional hierarchies, dedicated to issues affecting specific
+     geographic areas.
+ (*) bionet.* - A set of groups for academic biologists.
+ (*) bit.* - These groups echo the bitnet e-mail lists.
+ (*) biz.* - Groups in biz.* are set up by corporations to carry material like
+     ads for products.  This hierarchy is separated from the big seven because
+     it can't be transmitted over the US National Science Foundation's
+     network.  (The NSF has restrictions on the sort of things it will carry.
+     However, these restrictions are scheduled to go away soon.)
+ (*) cbd.* - Commerce and Business Daily, a commercial service.
+ (*) clari.* - ClariNet is a commercial service carrying wire service stories
+     and other features.
+ (*) ddn.* - part of the inet/ddn hierarhy.  Many of the inet groups have
+     names that start with comp.*, so they are easily confused with big
+     seven groups.
+ (*) gnu.* - The Free Software foundation's hierarchy.
+ (*) hepnet.* - for high-energy and nuclear physics research sites.
+ (*) ieee.* - groups of the Institute of Electrical and Electronics Engineers.
+ (*) info.* - a collection of mailing lists gatewayed into news at the
+     University of Illinois.  Sites are discouraged from carrying some of
+     these.
+ (*) k12.* - groups for elementary school children.  Take extra precaution
+     with the posts in these groups, children are reading them.
+ (*) relcom.* - Russian language posts.  The posts in these groups use 8-bit
+     cyrillic characters, so some software adjustments may be necessary.
+ (*) u3b.* - groups dealing with AT&T 3B{2,5,15,20,4000} computers. This
+     probably should have been under biz.*, but it isn't.
+ (*) vmsnet.* - Digital Equipment Corporation's hierarchy for the discussion
+     of topics of interest to users of VMS systems.  Another candidate for
+     biz.*.
+
+Lastly, you may want to set up your own local hierarchy.  Many universities,
+national labs, and commercial providers have done this, to allow internal
+discussions.  These hierarchies generally don't propagate out of the
+institutions that create them.  (But see the next section!)
+
+13) What are my ongoing responsibilies?
+
+Here's a relatively easy one: You should make sure that your list of
+newsgroups is current.  If you find your site on the list of "Sites honoring
+invalid newsgroups", posted occasionally to news.announce.newgroups and
+news.groups, please fix the problem.
+
+A more complicated issue you will have to contend with is the control of
+articles propagated to adjacent Usenet sites.  Consider the following
+scenario:
+
+Boondocks University has a news server on news.boon.edu.  It exchanges news
+feeds with news.far.com and news.act.ca.  At Boondocks University they get all
+the big seven groups, and the alt groups.  At news.act.ca, on the other hand,
+they don't want alt.  Now suppose that, without the knowledge of the site
+administrator, news.boon.edu begins to get articles from news.far.com in a new
+hierarchy, blotz.*.  If news.boon.edu is configured to pass on everything it
+gets except alt, (which would be written in the configuration file as
+"all,!alt") then they will begin to propagate blotz.* to news.act.ca.
+
+It might be okay for blotz.* to propagate to news.act.ca, but then again it
+might not.  For example, the blotz.* hierarchy might be a local hierarchy that
+was supposed to be contained within Blotz University, but which got propagated
+to news.far.com by accident.  If news.boon.edu propagates it further, it is
+just compounding the error.  It is safest if news.boon.edu doesn't
+automatically propagate all the articles it receives, at least unless it is
+explicitly asked to do so by news.act.ca.  It is best if news.boon.edu
+explicitly lists the hierarchies it intends to propagate.
+
+Since there are many sites that pass everything they receive, Usenet is very
+"leaky".  This is especially true with respect to the "distribution" feature,
+which is supposed to confine articles to given geographic region.  Propagating
+too many newsgroups wastes Usenet bandwidth, and makes users wade through
+posts they don't need or want.
+
+14) Okay, the software is set up, what do I do now?
+
+_Don't_ just throw the doors open to your users.  If you've read the documents
+mentioned in part (2) above, you realize that there are quite a few rules that
+have been set up.  They make sense, but they are not always obvious.
+
+_You_, as site-administrator, should be sure your users are prepared to
+interact with the Usenet community.  Before _anyone_ from your site posts
+anything, he or she should have read the Netiquette documents, posted in
+news.announce.newusers.  You should be sure your users know what net-abuse is,
+and that they will not be allowed to commit it.  Your users must know how to
+send and receive e-mail. (Usenet posters frequently take their discussions
+"private" and converse via e-mail.)
+
+By far the most common problem "newbies" encounter is that they often post
+questions that have been answered numerous times before.  This is annoying to
+people who've been participating in a newsgroup for a long time, and
+unfortunately (since Usenet has as many jerks as the rest of the world) the
+poster of a such a question will frequently be the recipient of a nasty reply
+"flame" message.  This may turn the new user off to Usenet permanently.  Be
+sure your users are aware of the FAQ.  Each FAQ is posted periodically to the
+newsgroup it covers, and to news.answers.  Furthermore there are FTP archives
+of FAQs.  The archives are listed in "Anonymous FTP: Frequently Asked
+Questions (FAQ) List", and in "Introduction to the *.answers newsgroups" which
+are in news.announce.newusers.
+
+Make sure that newbies are aware of the existence of news.answers and the
+archives.  Also call to their attention the group news.groups.questions, which
+is where "Where should I post this message?", "Is there are group about ...?"
+questions belong.
+
+Another problem newbies have occurs when they are unaware that a post doesn't
+appear immediately on the news server.  They should be informed about this so
+that they don't post messages twice.
+
+15) Who wrote this document, anyway?
+
+This document was written by Mitchell Golden (golden@physics.harvard.edu) with
+help from
+
+Brad Templeton		(brad@clarinet.com)
+S. Nass			(sn@panix.com)
+
+

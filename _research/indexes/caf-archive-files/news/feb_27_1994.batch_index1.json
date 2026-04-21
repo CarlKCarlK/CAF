@@ -1,0 +1,433 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 25, 1994",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "A Swedish newspaper reported on the existence of online pornography at the University of Lund."
+      ],
+      "organizations": [
+        "University of Lund"
+      ],
+      "people": [],
+      "summary": "A report from a Swedish newspaper regarding the presence of computer pornography at the University of Lund. The item serves as a pointer to external news coverage concerning acceptable use and content on academic networks.",
+      "title": "On-Line Porn at a Swedish university",
+      "topics": [
+        "acceptable use",
+        "academic networks",
+        "content regulation"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 25 Feb 1994 22:29:06 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "<CLsx4J.12y@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "Newspaper: On-Line Porn at a Swedish university",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 24, 1994",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Student downloads of pornographic images caused data communications to be blocked at the University of Lund.",
+        "The university's computer system at the Institution of Information Science suffered an overload due to the volume of such content."
+      ],
+      "organizations": [
+        "University of Lund",
+        "Dagens Nyheter",
+        "Institution of Information Science"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Mats Bergstrom"
+      ],
+      "summary": "A translation of an article from the Swedish newspaper Dagens Nyheter reports that students at the University of Lund were downloading pornographic images from foreign networks. The report claims that this activity caused network congestion and overloaded computer systems at the Institution of Information Science.",
+      "title": "Newspaper: On-Line Porn at a Swedish university",
+      "topics": [
+        "network abuse",
+        "content filtering",
+        "academic infrastructure",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "25 Feb 1994 16:27:25 -0500",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<2klqft$r4@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "Newspaper: On-Line Porn at a Swedish university",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.censorship,alt.sex",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 1994",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Limited system resources can lead to conflicts between academic needs and recreational gaming.",
+        "Enforcing a published policy of removing login privileges for non-academic use is an effective way to reduce interference with legitimate activity."
+      ],
+      "organizations": [
+        "The Evergreen State College",
+        "Mary Washington College"
+      ],
+      "people": [
+        "Joe Pollock",
+        "Ernest C. Ackermann",
+        "Carl Kadie"
+      ],
+      "summary": "A discussion between academic IT staff regarding the management of limited computing resources and the restriction of non-academic activities, specifically gaming. One participant suggests implementing and enforcing a strict policy that limits facility access to instructional and research purposes during business hours.",
+      "title": "Re: Game Playing",
+      "topics": [
+        "acceptable use policy",
+        "resource allocation",
+        "academic vs recreational computing"
+      ]
+    },
+    "identity": {
+      "date": "28 Feb 1994 11:18:11 -0500",
+      "from": "kadie@eff.org (Fwd:)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<2kt5g3$eh8@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "Re: Game Playing",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "28 Feb 1994",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "A Stanford student group argued computer media should be treated like traditional media.",
+        "The University of Illinois committee suggested publicizing harassment policies instead of banning specific computer materials."
+      ],
+      "organizations": [
+        "Stanford University",
+        "University of Illinois",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [],
+      "summary": "A repost discussing how universities handle pornography on campus computer systems. It mentions a student policy group at Stanford University questioning why computer media should be treated differently than traditional media, and a committee at the University of Illinois recommending the use of general harassment policies over content bans.",
+      "title": "University computers and pornography",
+      "topics": [
+        "academic freedom",
+        "content moderation",
+        "university policy",
+        "pornography"
+      ]
+    },
+    "identity": {
+      "date": "28 Feb 1994 11:26:57 -0500",
+      "from": "kadie@eff.org (Fwd:)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<2kt60h$eqb@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "Re: University computers and pornography",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 22, 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Illinois committee recommended publicizing general sexual harassment policies in labs instead of creating new rules specifically for computer media."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "Stanford University"
+      ],
+      "people": [
+        "Carl M Kadie"
+      ],
+      "summary": "Carl Kadie argues against creating specific rules for computer media regarding pornography, suggesting it should be treated like traditional library or newspaper media. He cites a University of Illinois committee recommendation to apply general sexual harassment policies to public labs rather than implementing medium-specific restrictions.",
+      "title": "University computers and pornography",
+      "topics": [
+        "academic freedom",
+        "internet censorship",
+        "university policy",
+        "computer media"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 22 Feb 1994 02:16:58 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M Kadie)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<CLLt0B.1uu@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "Re: University computers and pornography",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "28 Feb 1994",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Store-and-forward systems can filter some material, but email allows access to any information.",
+        "Policy should be the basis of a solution for objectionable material rather than technology."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [],
+      "summary": "This item discusses RFC 1578's approach to managing objectionable Internet content for students in grade and high schools. It notes that while some systems can filter content, email remains an open gateway to information. The text advocates for policy-based solutions over purely technological ones.",
+      "title": "[RFC 1578] Objectionable internet material and school kids",
+      "topics": [
+        "Internet filtering",
+        "RFC 1578",
+        "academic freedom",
+        "educational policy"
+      ]
+    },
+    "identity": {
+      "date": "28 Feb 1994 11:30:21 -0500",
+      "from": "kadie@eff.org (Fwd:)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<2kt66t$es8@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "[RFC 1578] Objectionable internet material and school kids",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 1994",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Technical solutions to prevent students from accessing objectionable material on the internet are not possible or absolute.",
+        "Schools should prioritize integrating technology and ethics into the curriculum over strict technical restrictions."
+      ],
+      "organizations": [
+        "EFF",
+        "IETF",
+        "NASA NREN",
+        "Sterling Software"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "J. Sellers"
+      ],
+      "summary": "Carl Kadie shares an excerpt from RFC 1578, a document produced by the Internet School Networking group of the IETF. The text addresses how primary and secondary schools should handle 'objectionable' content on the internet. It argues that technical solutions for filtering are largely ineffective and recommends instead using clear policies, ethics education, and reasonable oversight.",
+      "title": "[RFC 1578] Objectionable internet material and school kids",
+      "topics": [
+        "internet filtering",
+        "K-12 education",
+        "academic freedom",
+        "internet ethics",
+        "RFC 1578"
+      ]
+    },
+    "identity": {
+      "date": "25 Feb 1994 16:43:20 -0500",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<2klrdo$1bu@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "[RFC 1578] Objectionable internet material and school kids",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "28 Feb 1994",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The presence of nude pictures on computer terminals affects the environment for women in computer science."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Ellen Spertus"
+      ],
+      "summary": "This item points to an online Gopher resource regarding women in computing, specifically highlighting a paper by Ellen Spertus. The excerpt discusses the impact of nude imagery on computer terminals and requests for their removal.",
+      "title": "\"Women in Computing\" gopher resource",
+      "topics": [
+        "gender in computing",
+        "online harassment",
+        "Gopher",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "28 Feb 1994 11:32:56 -0500",
+      "from": "kadie@eff.org (Fwd:)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<2kt6bo$eut@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "\"Women in Computing\" gopher resource",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Feb 1994",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Some CMU students viewed nude workstation backgrounds as a source of sexual harassment and unprofessionalism.",
+        "Opponents of the appeal compared requests for removal of such images to censorship by Nazis or the Ayatollah Khomeini.",
+        "Women reporting offensive behavior individually in computing environments often faced ridicule or abuse."
+      ],
+      "organizations": [
+        "University of Maryland",
+        "Carnegie Mellon University",
+        "University of Illinois at Urbana-Champaign",
+        "MIT Media Lab",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Ellen Spertus"
+      ],
+      "summary": "Carl Kadie shares a Gopher resource from the University of Maryland featuring Ellen Spertus's work on women in computer science. The post highlights a case study from Carnegie Mellon University where students appealed for the voluntary removal of nude images from workstations to reduce sexual harassment and unprofessionalism. It notes the tension between efforts to create a hospitable environment and accusations of censorship.",
+      "title": "\"Women in Computing\" gopher resource",
+      "topics": [
+        "gender in computing",
+        "sexual harassment",
+        "censorship",
+        "academic environment",
+        "Gopher"
+      ]
+    },
+    "identity": {
+      "date": "25 Feb 1994 17:03:53 -0500",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<2klsk9$1vq@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "\"Women in Computing\" gopher resource",
+      "to_or_newsgroups": "soc.women,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 28, 1994",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The University of Waterloo banned five newsgroups on February 1, 1994."
+      ],
+      "organizations": [
+        "University of Waterloo",
+        "University of Waterloo Graduate Student Association",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [],
+      "summary": "The University of Waterloo Graduate Student Association issued a petition protesting the university's decision to ban five newsgroups on February 1, 1994. The item serves as a notification and repost of this protest action.",
+      "title": "UW Newsgroup Banning Petition",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "28 Feb 1994 11:33:35 -0500",
+      "from": "kadie@eff.org (Fwd:)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<2kt6cv$evc@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "UW Newsgroup Banning Petition",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 25, 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Waterloo banned five newsgroups on February 1, 1994.",
+        "The university administration refused to disclose the criteria used to decide which newsgroups to cancel.",
+        "The petition argues that banning newsgroups does not effectively address harassment while restricting the free exchange of ideas."
+      ],
+      "organizations": [
+        "University of Waterloo",
+        "University of Waterloo Graduate Student Association",
+        "Electronic Frontier Canada"
+      ],
+      "people": [
+        "Brent Robertson"
+      ],
+      "summary": "Brent Robertson shared a petition from the University of Waterloo Graduate Student Association protesting the university's banning of five newsgroups on February 1, 1994. The petition argues that the censorship sets a dangerous precedent and lacks accountability because the criteria for cancellation were not disclosed to the community. It asserts that banning groups is an ineffective solution to harassment and violates academic freedom.",
+      "title": "UW Newsgroup Banning Petition",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "university policy",
+        "newsgroups"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 25 Feb 1994 22:08:43 GMT",
+      "from": "broberts@kingcong.uwaterloo.ca (Brent Robertson)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<CLsw6J.Atv@watserv2.uwaterloo.ca>",
+      "source_kind": "news",
+      "source_path": "news/feb_27_1994",
+      "subject": "UW Newsgroup Banning Petition",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

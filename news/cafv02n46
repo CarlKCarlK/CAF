@@ -1,0 +1,1125 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.46 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 46
+
+
+----------------------------------------------------------------------
+
+From: joslin@tso.uc.edu (Paul Joslin)
+Subject: Article 0 -- Abstract of CAF-News 02.46
+
+[Week ending September 20, 1992.
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+         [Several issues still in production - Carl]
+
+Notes 1-4 discuss disallowing users' access to computer resources when
+it is suspected that their accounts have been misused.
+
+1. (A system administrator:) If we crack a user's password using
+   crack, we lock them out by changing their shell.  We reinstate the
+   account when the student shows us their id, and changes the
+   password. If we allowed unrestricted access to crackers while
+   waiting for due process, would we be liable for damages done to
+   other sites?
+    <BETSYS.92Sep16224641@ra.cs.umb.edu>
+
+2. Assuming that the user is an authorized user at your site, your
+   response should be restrained. "By way of analogy, a student [who]
+   is accused of breaking a university window should not be expelled
+   from university pending disposition of the case. ... [In contrast,
+   a]t some schools, the [suspected] user is barred not for hours but
+   for days or even weeks."  The right of access must be balanced with
+   other people's right to security.
+    <1992Sep17.182742.335@m.cs.uiuc.edu>
+
+3. (A system administrator:) All hacking isn't dangerous.  However, on
+   most commercial and many educational systems, assuming that it is
+   harmless is a bad idea.  Temporarily disabling a userid until you
+   can contact the user is often the prudent thing to do.
+    <7012@vtserf.cc.vt.edu>
+
+4. Lockouts are justified to bar unauthorized users, to prevent
+   continued serious abuses, or as a result of due process.  They
+   should not be used to "get a user's attention" when a less drastic
+   method would work.
+    <1992Sep17.000546.19059@eff.org>
+
+Notes 5-7 concern a policy at Iowa State University which prohibits
+posting material on the doors of University residence halls.
+
+5. Most housing contracts contain a clause in which the resident
+   agrees to obey the policies set by the University.  It is unclear
+   whether that clause is enforceable in this case, but they have more
+   lawyers than you.
+    <1992Sep17.220307.1470@eng.umd.edu>
+
+6. "I can't conclude that they've put much 'careful' thought into the
+   matter.  I'm also very skeptical as to what the phrase 'work with
+   students' means to an administration that attempts to take such
+   action."  Contractual rights of the University cannot supersede the
+   US Constitution.  Applying the rule without regard to the content
+   of the postings may mean that everyone's right to free speech is
+   being violated.
+    <1992Sep18.140341.8023@newstand.syr.edu>
+
+7. Attempting to implement an illegal policy by using a facade of
+   legitimate concerns, such as fire safety, is also illegal.  The
+   University cannot arbitrarily pick and choose where they will allow
+   free expression.  ... The rule is clearly motivated by *viewpoint
+   discrimination*.  If they thought they could ban only "bad"
+   displays, they would have.
+    <1992Sep18.143018.8205@newstand.syr.edu>
+
+Notes 8 and 9 concern the "alt" news groups. Alt news groups are
+separate from the "official" Usenet hierarchy. Some users may be
+offended by articles in some alt news groups.
+
+8. (A system administrator:) Dartmouth receives and distributes the
+   alt groups.  The decision is made by Computing Services; if a major
+   problem developed, a Dean or Trustee might get involved.  This has
+   not yet happened. I am not speaking for Dartmouth, but I feel if a
+   site can afford it, it should provide access to alt.
+    <1992Sep19.210718.10207@dartvax.dartmouth.edu>
+
+9. If the problem is displaying or printing offensive images from the
+   alt groups, the policy should deal with the inappropriate behavior.
+   "There's no need to restrict what people may read privately or
+   store in their account as long as you make clear to users that they
+   should behave politely in public."
+    <1992Sep21.020503.9397@Princeton.EDU>
+
+Note 10 is a long declaration of the principals of academic freedom.
+
+10.  This note is extracted from _World University Service Academic
+     Freedom 1990: A Human Rights Report_ by Laksiri Fernando, et al.
+     It is a declaration on academic freedom from "World University
+     Service", a 70-year-old international academic organization.
+    <1992Sep18.174723.21325@eff.org>
+
+- Paul]
+
+
+In this issue:
+
+E Schwartz       27  >Locking out users
+Carl M. Kadie    64  >
+Valdis Kletnieks 52  >
+Carl M. Kadie   126  Due process when Locking out users
+M T Russotto     47  >[alt.censorship] Censorship at Iowa State
+J. S. Greenfiel 153  >Censorship at Iowa State
+J. S. Greenfield 91  >
+Geoff Bronner    47  >What do you do about alt.*
+Marshall G. Flax 31  >
+Carl M. Kadie   235  World University Service's Academic Freedom declaration
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: John F. Nixon (fnixon@sol.utc.edu)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Sep 16 23:42:26 1992
+From: betsys@cs.umb.edu (Elizabeth Schwartz)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Article 1--Re: Locking out users
+Message-ID: <BETSYS.92Sep16224641@ra.cs.umb.edu>
+Date: 17 Sep 92 03:46:41 GMT
+
+We lock out users by changing their shell. We do this whenever we
+crack their passwd's using crack, as well as when we catch an account
+that has been cracked (doesn't happen as often as it used to before we
+started running crack ourselves)
+   I don't think that the law about altering a student's status applies
+in our case, because we always reinstate these accounts when we are
+presented with a student id, making the student change the passwd on
+the spot. So far, we haven't had to deal with crackers among the
+students. 
+   If we did, though, I don't see that we have to let the
+individual have unrestricted access while we wait for due process.
+Wouldn't we be vulnerable in that case to damages from a site that was
+hit after we allowed a known cracker continued access to our system?
+Is there anyone here who *WOULD* allow a such  a user to stay on?
+  If someone forced the issue, and needed to do schoolwork, we'd have
+to set up some sort of restricted environment where that student could
+use the compiler and editor but not e-mail or other net access. This
+would be a difficult task on our network. 
+
+--
+System Administrator                  Internet: betsys@cs.umb.edu
+MACS Dept, UMass/Boston               BITNET:ESCHWARTZ%UMBSKY.DNET@NS.UMB.EDU
+100 Morrissy Blvd                     Staccato signals
+Boston, MA 02125-3393                      of constant information....
+
+
+------------------------------
+
+From caf-talk Caf Sep 17 14:35:03 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 2--Re: Locking out users
+Message-ID: <1992Sep17.182742.335@m.cs.uiuc.edu>
+Date: Thu, 17 Sep 1992 18:27:42 GMT
+
+barr@pop.psu.edu (David Barr) writes:
+
+[...]
+>Oh, so all we have to do is act like scarecrows and scare the crackers
+>away when they get into our field?
+
+I hope we are talking about the same scenero. In the one I was
+addressing the suspected cracker is an authorized user of your system
+and a student or staff member at your University.
+
+By way of analogy, a student is accused of breaking a university window should
+not be expelled from university pending disposition of the case.
+
+(If the suspect is not an authorized user, of course, you should deny
+him or her access.)
+
+cmk>Even an originally innocent user might get in, say using a
+cmk>friends account, if he or she sees the lockout as unfair or excessive.
+cmk>In this way unnecessary lockouts can escalate problems rather than
+cmk>reducing them.
+
+>I don't see how it escalates problems.
+[...]
+>The sharing of accounts is against this university's policy, and we make
+>that very clear to the users.
+
+If the user is innocent of the original charge (say someone had broken
+into his or her account without permission) but guilty of sharing an
+account, the user could be, in the worst case, expelled from school.
+
+>The worst that happens is that
+>the user may get a little annoyed that he can't log on for a few hours
+>until he can come see the system administrator.  (In most cases, even
+>just a phonecall will do, although I deal with a lot of faculty)
+
+At some schools, the user is bared not for hours but for days or even
+weeks. At Ohio State a user was bared forever. It is these abuses that
+I worry about, not so much locks outs of just a few hours.
+
+>Due process does not apply.  This is not a disciplinary issue.  Even
+>if it were, do arresting officers not have the right to put a suspect
+>in jail until a hearing?
+
+I think this is a very good analogy. The police's authority to put
+someone in jail without a hearing is quite limited (I think it is
+generally time-limited to 24 hours). And even in that time, the
+suspect can try to get a judge to issue a writ of habeas corpus, which
+requires the police to either release the prisoner or bring him or her
+to the judge for a hearing.
+
+>  Second, the locking of an account is not
+>denying anyone's rights or freedoms.  They have the right to use the
+>account, but not the right to expose the entire system to a breakin.
+>It is not an act of undue process, but rather an act of collective security.
+
+As you suggest, the right to access should be *balanced* with other
+people's right to security.
+
+- Carl
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Sep 18 16:40:28 1992
+From: valdis@vttcf.cc.vt.edu (Valdis Kletnieks)
+Newsgroups: comp.unix.shell,comp.unix.admin,comp.unix.wizards,comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Article 3--Re: Locking out users
+Message-ID: <7012@vtserf.cc.vt.edu>
+Date: 17 Sep 92 22:15:01 GMT
+
+In article <1992Sep16.205411.6013@cirrus.com> dhesi@cirrus.com (Rahul Dhesi) writes:
+>In <exuptr.626.716658666@exu.ericsson.se> exuptr@exu.ericsson.se
+>>Surely hacking could be construed as a "reason relating to the safety
+>>and well-being of students, faculty, or university property".
+>Was this deliberate flame-bait, or are you genuinely (and naively)
+>assuming that all hacking is dangerous to others?
+
+Rahul:
+
+Your reply address points to cirrus.com.  Now tell me - let's say
+that you found evidence that somebody was *trying* to break
+into your corporate databases, and you had reason to believe
+that he had succeeded in getting at least one login on your
+machine.  Now, do you:
+
+A) Sit there and idly wait until he says 'rm *' while in the
+wrong directory?
+
+B) Close out the userid *NOW*, until you can make sure that the
+machine is secured?
+
+Yes.  You are correct that not *ALL* hacking is dangerous. However,
+there are a *LARGE* number of cases where assuming it isn't dangerous
+is a bad idea.  Included in this case is (presumably) *ALL* commercial
+systems, and a large segment of systems in the educational sector
+(I know *our* auditors would have a hairy fit if they thought that
+we didn't do everything we could to keep people *OUT* of the personnel,
+registrar, and accounting databases).
+
+As an analogy - I have heard that up to 40% of all calls to fire
+departments are false alarms.  Should they not dispatch to every
+call, just because not all of them are on fire?
+
+For the "due process" types out there - I do *NOT* advocate doing
+things *drastic* without due process - for instance, locking out
+a user forever without a hearing.  However, I do *NOT* see a problem
+with *temporarily* disabling a userid *when* there is evidence that
+it has been broken into, *until* you can contact the user of record
+and find out what is going on....  "Dammit, this user has tried to
+'su' to root 4 times in last 10 minutes - and he's logged in from
+New Zealand, but I saw him on campus this afternoon - it's 1:15AM,
+I'm turning off the account and calling him in the morning"....
+
+				Valdis Kletnieks
+				Computer Systems Engineer
+				Virginia Tech
+
+Insert usual disclaimer here - the fact that I advocate it doesn't mean
+that my boss advocates it. Etc Etc.
+
+
+------------------------------
+
+From caf-talk Caf Sep 16 20:05:53 1992
+Newsgroups: comp.unix.shell,comp.unix.admin,comp.unix.wizards,comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 4--Due process when Locking out users
+Message-ID: <1992Sep17.000546.19059@eff.org>
+Date: Thu, 17 Sep 1992 00:05:46 GMT
+
+exuptr@exu.ericsson.se (exuptr@exu.ericsson.se) writes:
+
+[...]
+>Surely hacking could be construed as a "reason relating to the safety
+>and well-being of students, faculty, or university property".
+
+>Especially university property.  I think lockouts would fit the exception
+>in cases of intentional tampering.
+[...]
+
+I'd say it depends. In my opinion:
+
+Lockouts are in an academic environment justifed when:
+	* You have reason to believe that a computer account has
+		been broken into, or
+        * You have reason to believe that less drastic means of
+                getting a user's attention (e.g. email, the
+                telephone) won't work.
+        * You have strong reasons to believe serious offensives will
+                continue.
+        * They are the result of due process.
+
+Lockouts are not justified:
+        * Just to get a user's attention if less drastic
+                means would work as well.
+        * Before due process, except for the reasons listed above.
+
+I apologize if I seem "fixated", but I've witnessed the worst-case
+scenario in which a student is expelled from the system forever, with
+no due process and no appeal. I've also read many computer policies
+that seem like something out of _Alice in Wonderland_:
+
+   "No, no," said the Queen: "The sentence first -- the verdict
+    afterwards." -- Lewis Carroll
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+cases/brack@acs.ohio-state.edu
+=================
+All the early notes from CAF-talk related to Steven Brack, Ohio State,
+and Academic Computer Services.
+
+=================
+policies/baylor.edu.critique
+=================
+Critique of the Computer Polices of Baylor Univeristy. It says in part:
+
+'The school's written policy isn't bad ... The Baylor ... could be
+improved by allowing "personal use." ... The Baylor policy also
+provides for some due process, although the "due process" begins by
+temporarily suspending a user from the computer.'
+
+=================
+policies/cmich.edu.critique
+=================
+Critique of "Everything You Ever Wanted To Know About Computing
+Services At Central Michigan University (And Were Afraid To Ask)"
+
+Summary: "The policy as written gives Central Michigan authority to
+steal user files. [And likely puts the University in violation of
+the federal FERPA.] It also denies users their due process rights. The
+policy should be replaced by a policy created with participation of
+users."
+
+=================
+policies/metu.bitnet.critique
+=================
+This is a critique of the Computer Policy of Middle East Technical
+University (METU) in Ankara, Turkey. Most of my references are to US
+centered documents, the ones to which I am most familar.
+
+The METU policy provides no due process protection and bans much
+speech. In this, it is similar to some of policies of universities
+such as Iowa State, U. of Texas, and U. of Illinois. In contrast to
+these the U.S. speech restrictions, METU's bans are clear and (as far
+as I know) legal.
+
+=================
+policies/uicvm.uic.edu.critique
+=================
+Critique of "Penalties for Misuse of UIC Computing Resources", a
+policy of the University of Illinois at Chicago's Computer Center.
+
+Summary: This is the most creatively repressive policy I read in a
+long time. The policy gives the false illusion of explicitness and due
+process.  In fact, however, it makes almost everything illegal and
+subject to harsh and disproportionate punishment. It then gives the
+Computer Center expansive discretion on enforcement and punishment.
+The effect for users is the same as if there was no policy at all.
+
+=================
+=================
+
+These document(s) are available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/cases/brack@acs.ohio-state.edu
+  pub/academic/policies/baylor.edu.critique
+  pub/academic/policies/cmich.edu.critique
+  pub/academic/policies/metu.bitnet.critique
+  pub/academic/policies/uicvm.uic.edu.critique
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/cases brack@acs.ohio-state.edu
+send acad-freedom/policies baylor.edu.critique
+send acad-freedom/policies cmich.edu.critique
+send acad-freedom/policies metu.bitnet.critique
+send acad-freedom/policies uicvm.uic.edu.critique
+
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Sep 17 18:25:43 1992
+From: russotto@eng.umd.edu (Matthew T. Russotto)
+Newsgroups: alt.comp.acad-freedom.talk,alt.censorship
+Subject: Article 5--Re: [alt.censorship]  Censorship at Iowa State
+Message-ID: <1992Sep17.220307.1470@eng.umd.edu>
+Date: 17 Sep 92 22:03:07 GMT
+
+In article <1992Sep17.063608.4505@m.cs.uiuc.edu> kadie@herodotus.cs.uiuc.edu (Carl M. Kadie) writes:
+>[A repost - Carl]
+>
+>Newsgroups: alt.censorship
+>From: maanstro@iastate.edu (Mark A Anstrom)
+>Subject:  Censorship at Iowa State
+>Message-ID: <maanstro.716701489@vincent1.iastate.edu>
+>Date: Thu, 17 Sep 1992 03:44:49 GMT
+>
+[...]
+>
+>	Posting or displaying of materials on the exterior of the student
+>	room (corridor) is prohibited effective August 16, 1992. Violations
+>	of this interim policy (including "creative" methods to technically
+>	circumvent the intent of the policy) will be handled contractually.
+>	Students who violate the policy will be confronted and materials
+>	will be removed. Repeated violations may result in the termination
+>	of your contract.
+>
+>During Fall semester, we will establish a committee of students and staff to 
+>develop a permanent policy including a resolution process to respond to
+>discrimination and discriminatory harassment of residents of university
+>housing.
+>
+>Thoughts?
+
+"Contractuarally" is a euphemism for "we'll tell you to stop and if
+you don't, we'll boot you".  Chances are that you will find that the
+so-called housing contract includes terms such as "Resident will obey
+all policies promulgated by the Housing Dictator."  (I say so-called
+because I find it hard to believe that a valid contract could contain
+such terms. But their lawyers are bigger than your lawyers and the
+courts could care less about students, so forget about challenging it)
+
+However, as to the "creative" methods bit-- even the IRS couldn't get
+away with prohibiting creative (and technically legal) methods of
+circumventing their regulations.  But the school won't worry about any
+such niceties-- they'll just boot you out and leave you with nowhere
+to stand while you fight with them.
+-- 
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+Some news readers expect "Disclaimer:" here.
+Just say NO to police searches and seizures.  Make them use force.
+(not responsible for bodily harm resulting from following above advice)
+
+
+------------------------------
+
+From caf-talk Caf Sep 19 18:19:10 1992
+Newsgroups: alt.censorship
+From: greeny@top.cis.syr.edu (J. S. Greenfield)
+Subject: Article 6--Re: Censorship at Iowa State
+Message-ID: <1992Sep18.140341.8023@newstand.syr.edu>
+Date: Fri, 18 Sep 92 14:03:41 EDT
+
+Note: To save space, I've deleted all of the original post to which Wes
+Morgan responds...
+
+In article <1992Sep17.94701.13174@ms.uky.edu> morgan@ms.uky.edu (Wes Morgan) writes:
+
+>OK, it sounds as if they had some problems with "door art".  It also seems
+>as if they attempted a rational dialogue, with no success.
+
+I'm not convinced.  Administrations like to speak as though they have gone
+out of there way to avoid taking some administrative action, even when that
+is not the case.  As far as "rational dialogue" goes, it may have been their
+position that *anything* that diverged from total voluntary compliance with
+their suggestions would be unsatisfactory, and result in a mandate along the
+lines of what they produced.
+
+In any case, this does not have any apparent relevance to the legal issues
+involved.
+
+>OK, they've established that careful thought has gone into this policy; they've
+>also mentioned that they plan to work with students to develop a long-term
+>approach to the problem.
+
+I can't conclude that they've put much "careful" thought into the matter.
+I'm also very skeptical as to what the phrase "work with students" means
+to an administration that attempts to take such action.
+
+
+>Does your Residence Hall contract give the University the right to establish
+>such a policy?  Mine certainly did.........
+
+I assume that "Iowa State University" is indeed a *state* university.  In
+that case, the contractual "rights" of the university are irrelevant.  They
+cannot supercede the US Constitution.
+
+
+>OK, so no one can display anything.  Since they aren't singling anyone
+>out for "special treatment", I don't believe this is censorship.
+
+Well, you don't understand the concept of "censorship" very well.
+
+The presence of viewpoint discrimination is absolute evidence of an
+attempt to stifle expression.
+
+The opposite, however, is not true.  That is, the *absence* of viewpoint
+discrimination is *not* evidence of the *absence* of an attempt to
+stifle expression.  But this is what you seem to assume.
+
+If everyone is told that they cannot post items, then *everybody's*
+right to free speech is being infringed.  It makes absolutely no
+difference how uniformly the rule is applied.
+
+The only thing that can make a difference is the *basis* for the
+infringement.  If it is a legitimate time, place, and manner
+restriction--based upon, say, a fire hazard (as Carl mentioned),
+then the restriction is legal (and justified in many people's eyes).
+
+But that is not the case here.  The school has made it very clear
+that this rule is for the express purpose of stifling expression.
+Therefore. it is not a legitimate time, place and manner restriction.
+
+Please note that the first amendment prohibits restrictions on free
+speech, in general.  It does not merely prohibit viewpoint discrimination.
+
+
+>This seems to indicate that they have a contractual right to establish such
+>a policy.......
+
+It could also simply mean that there are assigning to themselves, via that
+letter, the contractual "right" to do so.  (That is, it does not suggest
+to me that there had been any previous contractual prohibitions.)
+
+In any case, as I said before, a state school's contractual "rights" cannot
+violate the constitution.
+
+
+>Sounds fair; they've formally stated that only repeated violations will
+>result in punishment (termination of contract).
+
+Doesn't sound fair to me.  It sounds like, "Put something up, we'll rip
+it down.  Become a pain in our ass by reposting, and we'll take formal
+disciplinary action."
+
+That doesn't strike me as at all fair when we are talking about
+
+  1) An illegal rule, and
+  2) a rule that, to my mind, clearly violates one of the most
+     fundamental principles to the workings of any academic institution--
+     that of free speech.
+
+
+>Great!  They're going to involve students in the formal policy.
+
+I'm sure that the university will be glad to know that at least *some*
+people are so easily convinced that students will play a meaningful
+role in the development of the policy.  (That is, by means other
+than protest, etc.)
+
+
+>It seems to me that they have handled a difficult situation rather well.
+
+It seems to me that they have handled a situation that they view as a
+potential headache in the manner that was most expedient for removing
+that headache--without any significant concern for law or basic
+principles.
+
+It is now the students' responsibility to show the university that to
+take such censorial action will produce a far greater headache...
+
+
+>They have:
+>	- Affected everyone in the same fashion (no individuals or groups
+>	  have been singled out)
+
+True, but irrelevant.
+
+>	- Established a contractual basis for their action
+
+Not demonstrated, and irrelevant.
+
+>	- Established a certain amount of due process (in stating that
+>	  one violation will not result in punishment)
+
+Meaningless.
+
+>	- Dictated that students will participate in the formulation of
+>	  the formal policy.
+
+Note the word "dictated."  They have claimed that this will be the case.
+Whether they intend to have any meaningful student involvement is not
+obvious, solely based upon this claim.
+
+Furthermore, student involvement does not add any legal or moral
+justification to this act of censorship.
+
+The whole problem is that they have *dictated* everything, and reserve
+that right to themselves--even where they have no such right.
+
+
+>I can't call this censorship.
+
+I guess you can't call a rose "a rose" either...
+
+
+-- 
+J. S. Greenfield                                         greeny@top.cis.syr.edu
+(I like to put 'greeny' here, 
+but my d*mn system wants a 
+*real* name!)                        "What's the difference between an orange?"
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Sep 19 21:33:11 1992
+Newsgroups: alt.censorship
+From: greeny@top.cis.syr.edu (J. S. Greenfield)
+Subject: Article 7--Re: Censorship at Iowa State
+Message-ID: <1992Sep18.143018.8205@newstand.syr.edu>
+Date: Fri, 18 Sep 92 14:30:18 EDT
+
+In article <1992Sep17.95615.15100@ms.uky.edu> morgan@ms.uky.edu (Wes Morgan) writes:
+
+>>>The Department of Residence is committed to providing an environment where
+>>>mutual respect for each person's right to be an included member of the 
+>>>community is paramound and where denigration of others is not acceptable to
+>>>community members.
+>>
+>>I'd say they have overstepped their legal authority. Also, now that
+>>they've admitted that suppression of speech and not, say, fire safety
+>>is their motivation, they will not be able legally to justify bans
+>>with appeals to fire safty.
+>
+>"fire safety"?  Where did that come from?
+
+Once the university is challenged and learns that they cannot legally
+institute such a ban, they might want to come up with a legitimate
+time, place and manner restriction to replace the illegal policy--
+for example, claiming that posts present a fire hazard.
+
+Carl is simply pointing out that, given the letter already in hand, it
+will be obvious that any such attempt is merely a facade--and therefore,
+would also be illegal (see Cornelius v. NAACP).
+
+
+>Anyway, they have not overstepped their authority, IMHO.
+
+I'm glad your opinion is humble, because from a legal standpoint, it
+is clearly wrong.  (Once again, assuming that ISU is indeed a public
+institution.)
+
+>They have merely
+>stated that dormitory doors (which are University property in a public area)
+>are not to be used as "free speech forums".
+
+But they have absolutely no right to do so.  They cannot arbitrarily pick and
+choose where they will allow expression.
+
+>Had they stated that the *interiors* of dorm rooms would be similarly
+>controlled, I would be quite upset.  However, the Unviersity certainly
+>has a right to dictate how its public areas shall be used.
+
+Does the government have a right to tell you that you can freely
+express yourself--so long as you confine that expression to within
+your house?
+
+At a state university, the adminstration *is* the government!!
+
+
+>Notice, again, that they have refused to allow *any* expression in this
+>area; since they aren't excluding any particular group, it isn't censor-
+>ship.
+
+This does not follow.  It is not *viewpoint discrimination*, but that is
+not the same as censorship, in general.  (And furthermore, the rule
+is clearly motivated by *viewpoint discrimination*.  I'm sure that if
+they thought they could away with banning only the "bad" postings, they
+would have done this--but even they realized that they couldn't.  I'm
+not sure why they thought they could get away with the current policy,
+other than that administrations typically don't give a damn about
+what's right or wrong, legal or not.  They probably just figured no
+one would complain too loudly--and even if someone does, they can just
+drop the policy and be none the worse for wear...)
+
+
+>I'd also point out that the Residence Halls Contract probably explicitly
+>awards the "right of policy" to the University; I know that mine certainly
+>did.  I lived in a dormitory when I was 24; my contract did not allow alco-
+>hol in the dormitory.  Even though I was "of legal age", I still had to obey
+>the terms of the contract..........
+
+Whether such was legal or not, I don't know.  But in any case, it is not
+a comparable case, since you do not have a constitutionally protected
+right to have alcohol in your dormitory.
+
+Furthermore, as far as housing contracts go--some states, like New York
+for example, recognize that most leases (such as those offered by
+Universities) are offered on a take it or leave it basis (which constitutes
+a form of duress).  As such, various provisions may be found totally
+unenforceable when challenged.
+
+
+-- 
+J. S. Greenfield                                         greeny@top.cis.syr.edu
+(I like to put 'greeny' here, 
+but my d*mn system wants a 
+*real* name!)                        "What's the difference between an orange?"
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Sep 19 21:22:01 1992
+From: geoffb@coos.dartmouth.edu (Geoff Bronner)
+Newsgroups: news.admin.policy
+Subject: Article 8--Re: What do you do about alt.*
+Message-ID: <1992Sep19.210718.10207@dartvax.dartmouth.edu>
+Date: 19 Sep 92 21:07:18 GMT
+
+In <MEYER.92Sep19085402@darkwing.uoregon.edu> meyer@darkwing.uoregon.edu (David M. Meyer 503/346-1747) writes:
+
+>		What has your site done (e.g., not recive alt.*,
+>		receive all of alt.*, select part of alt.*, ...)?
+
+Dartmouth receives all newsgroups. rec, news, soc, alt, etc. We also
+gateway a number of listserv mailing lists through news as well. 
+If the general alt.* traffic isn't enough Dartmouth affiliates can use
+local dartmouth.alt.* groups as well.
+
+>		Who makes such decisions? The politics of all
+>		this looks pretty complex here; is it a
+>		departmental decision, or a University wide
+>		issue? 
+
+Here it appears to be a departmental decision made by Computing Services.
+But if a major problem developed the Dean's or Trustee's might get
+involved. It has never really happened.
+A few years a go there was a short period where freshmen were printing
+questionable things to the public printers but Computing Services decided
+that they would not get into the censorship business. After a while the
+novelty wore off and that was that.
+
+>	Your experiences and responses would be greatly
+>	appreciated.
+
+In MY opinion alt.* groups and similar things can be a source of problems
+but nothing really serious. I don't really object when a site rejects
+alt.* traffic to try and reduce costs, that's reasonable. But if they can
+afford a full news feed they should allow it.
+
+>	As usual, I'm only asking these questions for my own
+>	edification, and do not represent the Universtiy of
+>	Oregon in these matters.
+
+And I don't represent Dartmouth (good thing too).
+
+-Geoff
+--
+geoffb@Dartmouth.EDU - Computing Support Consultant, Tuck School of Business
+
+                       If you don't vote... you don't count.
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Sep 20 22:28:24 1992
+Newsgroups: news.admin.policy
+From: mgflax@miro.Princeton.EDU (Marshall G. Flax)
+Subject: Article 9--Re: What do you do about alt.*
+Message-ID: <1992Sep21.020503.9397@Princeton.EDU>
+Date: Mon, 21 Sep 1992 02:05:03 GMT
+
+In article <MEYER.92Sep19085402@darkwing.uoregon.edu> meyer@darkwing.uoregon.edu (David M. Meyer 503/346-1747) writes:
+>
+>	I am interested in what various sites do about the alt
+>	hierarchy. We've had a problem here (at the Universtiy of
+>	Oregon) in that students (and others?) have been
+>	displaying potentially offensive images on various
+>	departmental devices (sparcstations, mac laser printers,
+>	etc). 
+
+If the problem is displaying "offensive" images in public computer
+clusters, then you might want to start a policy that people should view
+images only in private.  If you have a problem with people printing
+"offensive" images on laserprinters, then you might want to restrict
+printing to text and academically-related graphics.  There's no need to
+restrict what people may read privately or store in their account as
+long as you make clear to users that they should behave politely in
+public.
+
+marshall
+
+p.s. Princeton U. has such a policy, in effect.
+-- 
+============ 40 Linden Lane, Princeton, NJ 08540, 609-921-0962 ============
+=========== 5 Joyce Lane, Woodbury, NY 11797, 516-364-9331,9379  ==========
+===== c/o Jack Gelfand,Psych Dept,Princeton U.,NJ 08544,609-258-2930  =====
+= Original material(c) 1992, Marshall Flax <mgflax@phoenix.Princeton.EDU> =
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Sep 18 13:47:31 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 10--World University Service's Academic Freedom declaration
+Message-ID: <1992Sep18.174723.21325@eff.org>
+Date: Fri, 18 Sep 1992 17:47:23 GMT
+
+I found this in _World University Service Academic Freedom 1990: A
+Human Rights Report_ by Laksiri Fernando, et al.
+
+The WUS is, according to the book, a 70-year-old international
+academic "organisation". Most of the book is made up of reports on
+academic freedom in Columbia, El Salvador, Occupied
+Territories-Palestine, Peru, South Africa, and Sri Lanka. Their
+address is
+
+  World University Service
+  5 Chemin des Iris
+  1216 Cointrin (Geneva), Switzerland
+
+======= ftp.eff.org:pub/academic/academic/academic-freedom.wus =======
+THE LIMA DECLARATION ON
+ACADEMIC FREEDOM AND AUTONOMY OF INSTITUTIONS OF HIGHER EDUCATION
+
+PREAMBLE
+
+The Sixty Eighth General Assembly of WORLD UNIVERSITY SERVICE, meeting
+in Lima from 6 to 10 September 1988, the year of the 40th anniversary
+of the Universal Declaration of Human Rights,
+
+BEARING in mind the extensive set of international standards in the
+field of human rights which the United Nations and other universal and
+regional organisations have established, in particular the Universal
+Declaration of Human Rights, the International Covenant on Economic,
+Social and Cultural Rights, the International Covenant on Civil and
+Political Rights, and the UNESCO convention against Discrimination in
+Education,
+
+CONVINCED that the universities and academic communities have an
+obligation to pursue the fulfillment of economic, social, cultural,
+civil and political rights of the people,
+
+EMPHASISING the importance of the right to education for the enjoyment
+of all other human rights and the development of human persons and
+peoples,
+
+CONSIDERING that the right to education can only be fully enjoyed in
+an atmosphere of academic freedom and autonomy o:f institutions of
+higher education,
+
+RECOGNISING the essential vulnerability of the academic community to
+political and economic pressures,
+
+AFFIRMING the following principles pertaining to education:
+
+    a) Every human being has the right to education.
+
+    b) Education shall be directed to the full development of the
+       human personality and the sense of its dignity, and shall
+       strengthen the respect for human rights, fundamental freedoms
+       and peace. Education shall enable all parsons to participate
+       effectively in the construction of a free and egalitarian
+       society, and promote understanding, tolerance and friendship
+       among all nations and all racial, ethnic or religious groups
+       Education shall promote mutual understanding respect and
+       equality between men and women Education shall be a means to
+       understand and contribute to the achievement of the major goals
+       of contemporary society such as social equality, peace, equal
+       development of all nations and the protection of the environment.
+
+    c) Every State should guarantee the right to education without
+       discrimination of any kind as to race, colour, sex, language,
+       religion, political or other opinion, national or social
+       origin, economic condition, birth or other status. Every State
+       should make available an adequate proportion of its national
+       income to ensure in practice the full realisation of the right
+       to education.
+
+
+    d) Education shall be an instrument of positive social change. As
+       such, it should be relevant to the social, economic, political
+       and cultural situation of any given country, contribute to the
+       transformation of the status quo towards the full attainment of
+       all rights and freedoms, and be subject to permanent
+       evaluation.
+
+PROCLAIMS this Declaration.
+
+
+DEFINITIONS
+
+1. For the purposes of this Declaration
+
+    a) 'Academic freedom' means the freedom of members of the academic
+       community, individually or collectively, in the pursuit,
+       development and transmission of knowledge, through research,
+       study, discussion, documentation, production, creation,
+       teaching, lecturing and writing.
+       
+    b) 'Academic community' covers all those persons teaching,
+       studying, researching and working at an institution of higher
+       education.
+       
+   c) 'Autonomy' means the independence of institutions of higher
+      education from the State and all other forces of society, to
+      make decisions regarding its internal government, finance,
+      administration, and to establish its policies of education,
+      research, extension work and other related activities.
+       
+   d) 'Institutions of higher education' comprise universities, other
+      centers of post-secondary education and centers of research and
+      culture associated with them.
+
+2. The above mentioned definitions do not imply that the exercise of
+academic freedom and autonomy is not subject to limitations as
+established in the present Declaration.
+
+
+ACADEMIC FREEDOM
+
+3. Academic freedom is an essential pre-condition for those education,
+research, administrative and service functions with which universities
+and other institutions of higher education are entrusted. All members
+of the academic community have the right to fulfill their functions
+without discrimination of any kind and without fear of interference or
+repression from the State or any other source.
+
+4. States are under an obligation to respect and to ensure to all
+members of the academic community, those civil, political, economic,
+social and cultural rights recognised in the United Nations Covenants
+on Human Rights. Every member of the academic community shall enjoy,
+in particular, freedom of thought, conscience, religion, expression,
+assembly and association as well as the right to liberty and security
+of person and liberty of movement.
+
+5. Access to the academic community shall be equal for all members of
+society without any hindrance. On the basis of ability, every person
+has the right, without discrimination of any kind, to become part of
+the academic community, as a student teacher, researcher, worker or
+administrator. Temporary measures aimed at accelerating _de facto_
+equality for disadvantaged members of the academic community shall not
+be considered as discriminatory, provided that these measures are
+discontinued when the objectives of equality of opportunity and
+treatment have been achieved. All States and institutions of higher
+education shall guarantee a system of stable and secure employment for
+teachers and researchers. No member of the academic community shall be
+dismissed without a fair hearing before a democratically elected body
+of the academic community.
+
+6. All members of the academic community with research functions have
+the right to carry out research work without any interference, subject
+to the universal principles and methods of scientific enquiry. They
+also have the right to communicate the conclusions of their research
+freely to others and to publish them without censorship.
+
+7. All members of the academic community with teaching functions have
+the right to teach without any interference, subject to the accepted
+principles, standards and methods of teaching.
+
+8. An members of the academic community shall enjoy the freedom to
+maintain contact with their counterparts in any part of the world as
+well as the freedom to pursue the development of their educational
+capacities.
+
+9. All students of higher education shall enjoy freedom of study,
+including the right to choose the field of study from available
+courses and the right to receive official recognition of the knowledge
+and experience acquired. Institutions of higher education should aim
+to satisfy the professional needs and aspirations of the students.
+States should provide adequate resources for students in need to
+pursue their studies.
+
+10. All institutions of higher education shall guarantee the
+participation of students in their governing bodies, individually or
+collectively, to express opinions on any national and international
+question.
+
+11. States should take all appropriate measures to plan, organise and
+implement a higher education system without fees for all secondary
+education graduates and other people who might prove their ability to
+study effectively at that level.
+
+12. All members of the academic community have the right to freedom of
+association with others, including the right to form and join trade
+unions for the protection of their interests. The unions of all
+sectors of the academic communities should participate in the
+formulation of their respective professional standards.
+
+13. The exercise of the rights provided above carries with it special
+duties and responsibilities and may be subject to certain restrictions
+necessary for the protection of the rights of others.  Teaching and
+research shall be conducted in full accordance with professional
+standards and shall respond to contemporary problems facing society.
+
+
+AUTONOMY OF INSTITUTIONS OF HIGHER EDUCATION
+
+14. An institutions of higher education shall pursue the fulfillment
+of economic, social, cultural, civil and political rights of the
+people and shall strive to prevent the misuse of science and
+technology to the detriment of those rights.
+
+15. All institutions of higher education shall address themselves to
+the contemporary problems facing society. To this end, the t curricula
+of these institutions, as well as their activities shall respond to
+the needs of society at large. Institutions of higher education should
+be critical of conditions of political repression and violations of
+human rights within their own society.
+
+16. An institutions of higher education shall provide solidarity to
+other such institutions and individual members of their academic
+communities when they are subject to persecution. Such solidarity may
+be moral or material, and should include refuge and employment or
+education for victims of persecution.
+
+17. All institutions of higher education should strive to prevent
+scientific and technological dependence and to promote equal
+partnership of all academic communities of the world in the pursuit
+and use of knowledge. They should encourage international academic
+cooperation which transcends regional, political and other barriers.
+
+18. The proper enjoyment of academic freedom and the compliance with
+the responsibilities mentioned in the foregoing articles demand a high
+degree of autonomy of institutions of higher education. States are
+under an obligation not to interfere with the autonomy of institutions
+of higher education as well as to prevent interference by other forces
+of society.
+
+19. The autonomy of institutions of higher education shall be
+exercised by democratic means of self-government, which includes the
+active participation of all members of the respective academic
+communities. All members of the academic community shall have the
+right and opportunity, without discrimination of any kind, to take
+part in the conduct of academic and administrative affairs. All
+governing bodies of institutions of higher education shall be freely
+elected and shall comprise members of the different sectors of the
+academic community.  The autonomy should encompass decisions regarding
+administration and determination of policies of education, research,
+extension work, allocation of resources and other related activities.
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

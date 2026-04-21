@@ -1,0 +1,215 @@
+
+From alt.comp.acad-freedom.talk Mon Apr 27 21:38:50 1992
+Xref: eff comp.admin.policy:1792 alt.comp.acad-freedom.talk:4237
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Sacrificial Lamb: An Acceptable Usage Statement for your review
+Message-ID: <1992Apr27.214917.13402@eff.org>
+Originator: kadie@eff.org
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <3804@vtserf.cc.vt.edu>
+Date: Mon, 27 Apr 1992 21:49:17 GMT
+Lines: 198
+
+Summary: The policy shows good user participation and due process.
+Privacy could be improved by detailing the procedure by which searches
+are authorized. Freedom of expression could be improved by removing
+vague speech restrictions.
+
+marchany@vtserf.cc.vt.edu (Randy Marchany) writes:
+
+>Well, it seems that that's publishing acceptable use policies is in
+>vogue these days, so I offer the following statement that signed by
+>account holders on our systems here at VA Tech.
+
+I think this is a great trend. It is very much in keeping with the
+spirit of a university and it seems to result in better policies.
+
+[...]
+>                 Appropriate Use of Information Systems
+>                            at Virginia Tech
+
+[...]
+>It demonstrates  re-
+>spect  for  intellectual  property,  ownership  of data, system security
+>mechanisms, and individuals' rights to privacy and to freedom  from  in-
+>timidation, harassment, and unwarranted annoyance.
+
+The phrase "intimidation, harassment, and unwarranted annoyance" is
+vague (perhaps unconstitutionally so) and redundant, unless you are
+quoting from a general Tech policy, I suggest the simpler and more
+precise "harassment".
+
+>In making appropriate use of resources you must:
+
+>o   use  only  legal versions of copyrighted software in compliance with
+>    vendor license requirements.
+
+As someone else has pointed out, copyright and licences are two
+different things.
+
+>In making appropriate use of resources you must NOT:
+> 
+>o   use  another  person's userid, password, files, system or data 
+>    without permission.
+
+So it is OK to use another person's userid and password with that person's
+permission? I don't think that is what you mean to say.
+
+>o   engage in any activity that might be harmful to systems  or  to  any
+>    information stored thereon, such as creating or propagating viruses,
+>    disrupting services, or damaging files.
+
+I think the phrase "might be harmful" is too weak. How about "causes
+harm, is intended to be harmful, or is likely to be harmful ..."
+
+>o   use  University systems for partisan political purposes, such as us-
+>    ing electronic mail to circulate advertising  for  political  candi-
+>    dates.
+
+Speech should only be restricted if so required by University
+regulation (or law). If this restriction is based on a University
+regulation or law, you should reference the regulation.
+
+[...]
+>o   use  mail  or messaging services to harass, intimidate, or otherwise
+>    annoy another person, for example, by broadcasting unsolicited  mes-
+>    sages or sending unwanted mail.
+
+Based on court cases like _UWM Post v. U. of Wisconsin_ (which
+mentioned email), I believe this speech restriction is illegal because
+it is too vague and because it illegally restricts First Amendment
+rights.
+
+I suggest:
+
+o    use mail or messaging services to harass, for example, by,
+     sending mail after being told that it is unwanted."
+
+>o   use  the  University's  systems  for  personal gain, for example, by
+>    selling access to your userid or by performing work for profit in  a
+>    manner not authorized by the University.
+
+The phrase "personal gain" is vague. It could be a prohibition against
+learning. Tech's general policies probably already have a rule about
+commercial use of Tech property. I suggest finding that policy and
+then just copying it.
+
+>ENFORCEMENT
+
+>The University considers any violation of appropriate use principles  or
+>guidelines  to  be  a serious offense and reserves the right to copy and
+>examine  any  files  or  information  resident  on  University   systems
+>allegedly related to inappropriate use.
+
+But what are the procedures for authorizing such a violation of user
+privacy? What is Tech's general privacy policy? Most state schools
+will not search assigned office space or dorm space without some
+higher-level authorization (with exceptions for emergencies,
+maintenance, etc). Remember, you are constrained by the Constitution
+from making "unreasonable searches and seizures".  Although, no
+lawsuit has (as far as I know) yet established exactly what this means
+in the context of academic computer systems at state schools, it is
+unlikely to mean any sys op can authorize a search at any time.
+
+
+>  Violators are subject to disci-
+>plinary  action as prescribed in the honor codes and the student and em-
+>ployee handbooks.
+
+This is good. You have found a very simple way to respect the due
+process rights of your users. This is much better than policies (e.g.
+ACS at Ohio State University) that authorizes the computer center to
+suspend students from the computer without any hearing, appeal, etc..
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+
+=================
+law/gates-v-brewer
+=================
+An excerpt from a newspaper article about email harassment. A judge
+agreed that Bill Gates of Mircosoft had been the victim of harassment.
+
+=================
+law/constitution.us
+=================
+The Constitution of the United States
+
+=================
+policies/acs.ohio-state.edu
+=================
+Policy on Abuse of Computers and Networks for The Office of Academic
+Computing at The Ohio State University (Critiqued)
+
+=================
+faq/policy
+=================
+q: What guidance is there for creating or evaluating a computer policy?
+
+=================
+caf
+=================
+A description to the comp-academic-freedom-talk mailing list. It is a
+free-forum for the discussion of questions such as: How should general
+principles of academic freedom (such as freedom of expression, freedom
+to read, due process, and privacy) be applied to university computers
+and networks? How are these principles actually being applied? How can
+the principles of academic freedom as applied to computers and
+networks be defended?
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/law uwm-post-v-u-of-wisconsin
+send acad-freedom/law gates-v-brewer
+send acad-freedom/law constitution.us
+send acad-freedom/policies acs.ohio-state.edu
+send acad-freedom/faq policy
+send acad-freedom caf
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.77.172.4) as file(s):
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/gates-v-brewer
+  pub/academic/law/constitution.us
+  pub/academic/policies/acs.ohio-state.edu
+  pub/academic/faq/policy
+  pub/academic/caf
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+

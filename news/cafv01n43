@@ -1,0 +1,875 @@
+Computers and Academic Freedom News
+Vol. 01, No. 43
+
+[Week ending Dec 15, 1991
+
+Sorry, this is so late. Editing help on future issues of CAF-News (as
+a guest or associate editor) would be greatly appreciated. For more
+info, send me email (kadie@eff.org).
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Notes 1-5 are about Iowa State University's restrictions on who can
+see newsgroups such as alt.sex.
+
+1. [Student at Iowa State U.:] "[T]he university just recently
+unveiled a policy designed to censor the following groups from
+virtually every student and most faculty."
+    <1991Dec15.164750@IASTATE.EDU>
+
+2. [Student at Iowa State U.:] The Computation Center justifies its
+ban of certain topics by saying that it is protecting itself legally.
+Yet the University Library has books (apparently legally) on exactly
+the same topics. Enclosed is a list of such books including _The sex
+atlas : a new illustrated guide_.
+    <1991Dec14.060314.21529@news.iastate.edu>
+
+3. [Iowa State U. student] The policy is bad because it assumes that
+readers are irresponsible, it effects students more than faculty, and
+it invades the privacy of readers by requiring them to go on record as
+wanting to read 'dirty' newsgroups.
+    <1991Dec14.230519@IASTATE.EDU>
+
+4. [Member of the ISU Computation Advisory Committee] The Director of
+the Computation Center told me that the purpose of the policy is to
+transfer all responsibility to the reader. With some extra effort
+(getting an account on Wylbur and signing the release form), students
+can still access all the newsgroups.
+    <shenoy.692769491@pv0211.vincent.iastate.edu>
+
+5. The policy was imposed by the Computation Center over the
+objections of the Computer Center Newsgroup committee and University
+Computation Center Advisory Sub-Committee.
+    <1991Dec15.163311.4917@news.iastate.edu>
+
+Notes 6-7 are a pornography-on-usenet article that appeared in the
+German publication EMMA.
+
+6. Contrary to what the EMMA article says, Usenet is not used mainly
+for transmission of pornographic material. Less that 7% of Usenet
+traffic is even related to sex.
+    <FISCHER.91Dec10154555@loke.iesd.auc.dk>
+
+7. In the aftermath of the EMMA article the University of Stuttgart
+has banned newsgroups alt.sex and sci.military on the grounds that
+they are offensive.
+    <1991Dec11.011316.7019@wega.rz.uni-ulm.de>
+
+Articles 8-10 are about managing the resource use of recreational
+programs like IRC and MUDs.
+
+8. Recreational computer use can be managed if there is mutual respect
+between user and sys admin and reasonable priorities are set.
+    <1991Dec8.155639.5510@uoft02.utoledo.edu>
+
+9. I've measured network traffic at my site. During hours when MUDs
+are prohibited, they are 6% of network traffic. During hours when they
+are allowed they are 30% of traffic. "[W]hile MUD playing here isn't a
+problem for our T1 connection, it could be troublesome to a site with
+a 56KB connection."
+    <kk6ej5INNi4o@moe.ksu.ksu.edu>
+
+10. If university computers charged uses at cost, priority system and
+restrictions on game-playing would be unnecessary.
+    <1991Dec10.144304.2037@mailer.cc.fsu.edu>
+
+Note 11 is about directory information.
+
+11. Different people consider different information private.
+Information should only be released with the consent of the person it
+is about.
+    <1991Dec10.125232.28052@mailer.cc.fsu.edu>
+
+- Carl]
+
+
+In this issue:
+
+Michael L Begley 47  New news censorship policy at Iowa State University
+Mark D. Smucker  75  >New Usenet Policy on 1/6/92 - Standard List Definition
+Michael L Begle 201  The new netnews policy
+Shivanand Shenoy 25  >New Usenet News Policy on 1/6/92
+John Hascall     55  What to do about the new <>group Censorship Policy at ISU
+Lars P. Fischer  61  >The USENET pornographic network
+Christa Keil     24  >The USENET pornographic network (rough translation)
+Jason Steiner    31  >Gaming
+Brick Verser     28  Network utilization by MUD players (was Re: Gaming)
+John G. Otto     42  >[comp.admin.policy, et al.] Re: Gaming
+John G. Otto     41  >[comp.org.eff.talk] Re: Finger & Liberty
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, or Carl M. Kadie). It
+is not an EFF publication. The views an editor expresses and editorial
+decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From dec_15_1991 Sun Feb 23 11:51:04 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: spam@IASTATE.EDU (Michael L Begley)
+Subject:  New news censorship policy at Iowa State University
+Message-ID: <1991Dec15.164750@IASTATE.EDU>
+Date: Sun, 15 Dec 1991 22:47:50 GMT
+
+Hi.  I'm a staudent at Iowa State University, and the university
+just recently unveiled a policy designed to censor the following
+groups from virtually every student and most faculty.  The groups
+specificly being censored are:
+
+    alt.personals.bondage
+    alt.drugs
+    alt.psychoactives
+    alt.sex
+    alt.sex.bestiality
+    alt.sex.bondage
+    alt.sex.motss
+    alt.sex.pictures
+    alt.sex.pictures.d
+
+
+ISU has a new athena-like distributed system.  Most of the machines
+are not owned by the computation center itself, by by specific
+campus departments and are under the administration of professors
+in these departments.  Nearly all of these machines are not
+accessable by the general student body.  These exist a small (20 or
+so) number publicly available machines.  The above groups will not
+be accessible from any of these public machines.  The groups will
+be accessible to the department-owned machines, if the system
+administrator fills out a form of some sort.  Then only those people
+with access to that machine will be able to receive the full feed.
+
+This policy leaves the above groups out of reach of nearly all the
+students and most of the faculty, for only those users with access
+to a machine with a 'full feed' will be able to read them.
+
+There's now some pretty fierce opposition to this on the local news
+groups regarding this censorship, and I tried to wade through some
+of the legal issues and laws documented via ftp at eff.com.  Could
+someone with more experience with this issue please point me to some
+of the most relevent information regarding htis issue on eff.com
+and any other source?  Thanks.
+
+-mike begley
+spam@iastate.edu
+--
+mike begley                "I will not waste network bandwidth"
+spam@iastate.edu           "I will not waste network bandwidth"
+hz101@ccvax.iastate.edu    "I will not waste network bandwidth"
+
+-------------------
+
+From d15.2 Sun Feb 23 14:28:51 1992
+From dec_15_1991 Sun Feb 23 11:45:13 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: mds@iastate.edu (Mark D. Smucker)
+Subject: Re: New Usenet Policy on 1/6/92 - Standard List Definition
+Message-ID: <1991Dec14.060314.21529@news.iastate.edu>
+Sender: news@news.iastate.edu (USENET News System)
+References: <1991Dec13.223123.9705@news.iastate.edu> <goldberg.692684261@vincent1.iastate.edu>
+Distribution: isu
+Date: Sat, 14 Dec 1991 06:03:14 GMT
+
+This new policy on the newsgroups is blatant censorship.  Any nonsense
+about ``protecting ourselves legally'' should be tossed on the dung
+heap where it belongs.  Do people really believe that groups that are
+internationally transmitted aren't within legal guidelines?
+
+Just for the sake of argument, I decided to look in the library for
+some interesting books on the subjects of the banned groups. Maybe
+someone will want to get a big fire burning for them -- not. 
+
+[Note: For all practical purposes the groups have been banned from the
+average student.  Or maybe the Comp Center wants this to be the motive
+force in getting students using WYLBUR. ]
+
+
+In the alt.sex.bondage group,
+
+	_Sex slavery: a documentary report on the international scene
+	today._  By Barlay, Stephen.
+
+In the alt.psychoactives group,
+
+	_Psychoactive drugs and sex_, by Abel, Ernest L.
+
+In the alt.sex.pictures group,
+
+	_Degas, the nudes_, by Thomson, Richard.
+
+ or on a lighter note,
+
+	_The sex atlas : a new illustrated guide_ by Erwin J. Haeberle
+	;photography by Laird Sutton.
+
+In the alt.sex.bestiality group, 
+
+	_Deviant life-styles_,  edited by James M. Henslin. (should 
+	find stuff about it in some book like this.)
+
+For alt.drugs fans,
+
+ If you want to know which ones....
+
+	_Drugs of abuse._
+
+	Publisher: Washington, D.C. : U.S. Dept. of Justice, Drug Enforcement
+                   Administration : For sale by the Supt. of Docs., U.S.
+                   G.P.O., 1985.
+
+ Or let's say you wanted specific information,
+
+	_Marijuana_, by Mark S. Gold.
+
+For an anxious alt.sex reader,
+
+	_The female orgasm; psychology, physiology, fantasy._
+	 By, Fisher, Seymour.
+
+As they say, ``You can find it all at your library.''  Why should the
+Computation Center follow any different rules?  
+
+It is the posters(authors) themselves that are legally held
+responsible for what they write or distribute.  The U.S. Postal
+Service is not sued for letting people send obscene materials across
+state lines.  The violators of the Comstock laws are the ones that get
+prosecuted.
+
+This policy is not acceptable.
+
+Mark D. Smucker --- mds@iastate.edu
+
+
+
+
+
+Article 106 of isu.talk.misc:
+
+From d15.2 Sun Feb 23 14:28:51 1992
+From dec_15_1991 Sun Feb 23 11:51:04 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: spam@IASTATE.EDU (Michael L Begley)
+Subject: The new netnews policy
+Message-ID: <1991Dec14.230519@IASTATE.EDU>
+Sender: news@news.iastate.edu (USENET News System)
+Date: Sun, 15 Dec 1991 05:05:19 GMT
+
+
+
+this is long, but please read it all, carefully.
+
+The new ISU Usenet news policy is completely unacceptable, because it assumes
+the irresponsibility of the reader before they prove to be unable to handle
+the content of the groups.  Furthermore, it imposes censorship on all persons
+not fortunate enough to have their own 'privately owned' machine on the ISU
+network.  Finally, it requires that anyone who does want to read these groups
+must sign a form that will be filed away by the university, which is an
+obscene invasion of privacy.
+
+The policy claims to not be censorous, yet it excludes virtually the entire
+student body.  This is the worst sort of censorship, the sort that claims to
+provide free access and yet excludes access to nearly everyone in question.
+The publicly accessable machines, if any, must receive a full feed because
+they are public.  Otherwise the restrictions become modern-day Jim Crow laws,
+restricting freedoms to the few who have the resources or status.
+
+As has been stated ad-infinitum, no one is forced to read news.  No one
+who reads news is forced to read alt.sex.  However, I'm quite certain
+these groups contain valuable information to the general student body.
+With few exceptions, students 'experiment' with sex and drugs in college.
+Hell, I did.  By providing a forum for students to discuss their beliefs,
+fears, and questions, oftentimes anonymously, alt.sex & alt.drugs may be
+the best way to learn the 'truth' about these topics.  Instead, ISU plans to
+sweep these ideas under the carpet, and hope no one raises a ruckass.  How
+many students are going to discover on their own that cocaine use is a bad
+idea, because they didn't know where to ask for information?
+
+This is how censorship occurs.  It's not some sweeping government decree.
+It's not thought police watching your every move.  It's when the vocal
+minorities, in voicing their discontent with others, influence publishers
+into not publishing questionable works.  It's when people tell you that
+some ideas are 'bad' and not to think about them.  It's when the people in
+charge cave in to outside pressures instead of fighting for their
+beliefs.  And it's when the general public sits back and accepts the
+censorship, or even praises it.  To quote Ray Bradbury in Fahrenheit 451:
+
+         "Now let's take up the minorities in our civilization,
+         shall we? Bigger the population, the more minorities
+         Don't step on the toes of the dog-lovers, the cat-lovers,
+         doctors, lawyers, merchants, chiefs, Mormons, Baptists
+         Unitarians, second-generation Chinese, Swedes, Italians,
+         Germans, Texans, Brooklynites, Irishmen, people from
+         Oregon or Mexico. The people in this book, this play,
+         TV serial are not meant to represent any actual painters
+         cartographers, mechanics anywhere. The bigger your
+         market, Montag, the less you handle controversy, rem-
+         ember that! All the minor minor minorities with their ears
+         to be kept clean. Authors, full of evil thoughts, lock
+         your typewriters. They did. Magazines became a nice
+         blend of vanilla tapioca.  Books, so the snobbish critics
+         said, were dishwater.  Now wonder books stopped selling, the
+         critics said.
+          [...]
+         There you have it, Montag. It didn't come from the Gov-
+         ernment down. There was no dictum, no declaration, no
+         cansorship, to start with, no! Technology, mass exploi-
+         laton, and minority pressure carried the trick. Today,
+         thanks to them, you can stay happy all the time, you
+         are allowed to read comics, the good old confessions, or
+         journals."
+         [...]
+                    ...We must all be alike. Not everyone born
+         free and equal, as the Constitution says, but everyone
+         made equal. Each man the image of every other; then all
+         happy, for there are no mountains to make them
+         cower, to judge themselves against. So! A book is a loaded
+         gun in the house next door. Burn it. Take the shot from
+         the weapon. Breach man's mind. Who knows who might be
+         the target of the well-read man? Me? I won't stomach
+         them for a minute. And so when houses were finally fire-
+         proofed completely, all over the world (you were correct
+         your assumption the other night) there was no longer
+         of firemen for the old purposes. They were given the
+         job, as custodians of our peace of mind, the focus of
+         our understandable dread of being inferior;
+         official censors, judges, and executors.
+         [...]
+           "Colored people don't like Little Black Sambo.  Burn it.
+         White people do't feel good about Uncle Tom's Cabin.
+         Burn it.  Someone's written a book on tobacco and cancer
+         of the lungs?  The cigarette people are weeping?  Burn the
+         book.  Serenity, Montog.  Peace, Montag.
+
+Censorship creeps up on you.  Some 'obviously objectionable' material here,
+something questionable stuff there, and eventually netnews becomes a nice
+blend of vanilla tapioca, worthless to the general public.  This decade,
+sex and drugs are the 'taboo' topics.  So they get squashed.  Next decade
+it'll be Communism and Cyberpunk.  So those get squashed.  Eventually everyone
+gets used to the idea of challenging information getting squashed.  Or perhaps
+we've already reached that state.
+
+Technically, I don't see the rationalle behind restricting news on a machine
+basis.  I don't know the internals of news service software, but it *must*
+know, somehow, what user on what machine is receiving the articles.  At the
+very least, the computer could finger the 'offending' computer to check the
+user.  If the user is on a list of "people who want a restricted feed" then
+they should be refused access.  This sort of system would work on nearly
+every machine, because, with the exception of vincent1 and other publicly
+telnettable machines, there is almost always only the one user one a
+workstation.  The news software merely has to finger this machine to see who's
+on.  For the publicly telnettable machines, it should be a full feed until
+the Center can overcome the technical difficulties of letting people
+censor themselves.
+
+The policy claims to follow the Parks Library policy on dispensing material.
+I don't agree.  First, as has been already pointed out, the Parks library
+has *many* books in general distribution covering all of the topics currently
+being banned (yes! banned!) from the net.  Second, if it refers to the
+periodicals section (the only place I can think of that has stuff 'behind
+the counter' at the library) than the new Usenet policy doesn't follow what I
+view as the 'spirit' of the library's policy.  The periodicals section holds
+certain material behind the desk not because it's objectionable, but actually
+to promote free access.  If Playboy, for example, were out among the general
+periodicals, it would quickly be cut up and turned into wallhangings or
+whatnot, if it even remained in the library at all!  By keeping Playboy behind
+the counter, along with other often stolen or vandalized magazines, including 
+Computer Shopper, Time and Sports Illustrated, they're raising the likelihood
+that they will remain available & unmutilated for all.  But you don't need to
+carry that attitude to Usenet News.  Someone can't cut a picture out of
+alt.sex.pictures and destroy an article in rec.boating on the next page.
+Someone can't steal a months postings to alt.drugs and thereby deny everyone
+from reading alt.personals.  Netnews isn't printed material and needn't be
+treated as such, although it must be protected just as vehemently.  And it
+must be distributed with as much privacy to the reader as is possible.
+
+The idea of 'filling out a form to gain full access' frightens me.  Does
+this mean the university is maintaining a file of 'drug abusing perverts'?
+How McCarthyist!  No, I don't believe the university can absolutely guarantee
+complete privacy of such files. Whenever information is collected, there is
+the danger of it being misused.To predict the most absurd case, imagine if,
+someday, a graduate of ISU is up for a high-level government position.  For
+example, as a Supreme Court Justice...
+
+     ..."Sir, We have evidence that you, while a sophmore in college, read
+     alt.sex.anal.unlubricated.  Do you deny this?"
+
+     ..." uhhhhhhhh..........."
+
+That could be a lot more damaging than a pubic hair on a can of coke, and
+probably just as irrelevant.  But seriously, this sort of information can be
+subpoened, illicitly given to potential employers, or otherwise distributed.
+
+The policy needs to be reassessed.  The Computation Center, as a university
+organization, must follow a policy of universal access.  Instead of
+subjecting everyone to censorship because of a few people's discontent,
+everyone should get full access unless they decide otherwise.  The policy
+should be similar to the following:
+
+  o   All users may read a full feed from the server.
+
+  o   Those who feel they don't want the offensive groups should fill
+      out a form that will set them up for the 'standard feed'.
+
+  o   employers reserve the right to set up the focused feed for their
+      employees on their machines.  (after all, the employers are paying
+      their employees to work, not read news...)
+
+The students and faculty affected need to fight against this censorship.
+Perhaps someone could set up an alternate newsfeed, on the campus network
+but outside of the jurisdiction of the computation center. Anyone willing
+with a snappy enough unix box, and 300 meg hard drive, and an on campus
+address (ie ethernet) could do this easily enough. I have these resources
+myself, and I may take on this responsibility if I have the time and backing.
+Perhaps someone should start an organization called the Association Letting 
+The Students Experience X (X=Anything) [or ALTSEX for short], that would
+work to promote free and private electronic discourse for all students. 
+Otherwise, someone could take it upon him/herself to consistantly repost
+all the articles on the 'forbidden groups' to another group, like
+isu.talk.computer-fee, or alt.censorship with an ISU-only distributution.  
+Or to encourage all posters to the 'forbidden groups' to crosspost to
+isu.test  Some people might say that this is against the ISU Code of Computer
+Ethics (a rather unenforcably vague document).  But, as Martin Luther King jr.
+wrote:
+
+     ... there are two types of laws: just and unjust. I would be the first
+     to advocate obeying just laws.  One has not only a legal but a moral
+     responsibility to obey just laws.  Conversely, one has a moral
+     responsibility to disobey unjust laws. I would agree with St. Augustine
+     that "an unjust law is no law at all."
+
+Otherwise, if the students and faculty just sit back and allow peer groups
+to pressure the university into surpressing information, than the slide
+into censorship will continue.  What's after alt.sex & alt.drugs?
+alt.rock-n-roll?  alt.beer?  alt.atheism?  comp.org.eff.talk?  At what
+point will netnews become useless fluff, an electronic People Magazine?
+We've all grown up and it's time to challenge the beliefs of our mother,
+father and Big Brother.  Does ISU trust itself and its students so little
+that it can't bring itself to promote free and private expression?  A
+netnews-like system promises to become the information sourse ot the next
+generation.  We teeter on the brink of the information age.  ISU, don't stain
+it with the filth of censorship.  Don't become the guradians of my morality,
+for the bandits of free-thought have already taken up residence and there's
+nothing left to guard.
+
+
+
+Article 638 of isu.cc.general:
+
+From d15.2 Sun Feb 23 14:29:00 1992
+From dec_15_1991 Sun Feb 23 11:45:13 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: shenoy@iastate.edu (Shivanand Shenoy)
+Subject: Re: New Usenet News Policy on 1/6/92
+Message-ID: <shenoy.692769491@pv0211.vincent.iastate.edu>
+Sender: news@news.iastate.edu (USENET News System)
+References: <sourada.692668993@vincent1.iastate.edu> <1991Dec14.011244.14246@news.iastate.edu> <michael.692674924@aviator.cc.iastate.edu> <1991Dec14.231933.10786@news.iastate.edu> <viking.692760170@vincent1.iastate.edu>
+Distribution: isu
+Date: Sun, 15 Dec 1991 03:58:11 GMT
+
+In <viking.692760170@vincent1.iastate.edu> viking@iastate.edu (Daniel R Sorenson) writes:
+>	Idea #2 consists of merely asking if there is a less restrictive
+>way to do this.  For example, the proposition looks to be one that
+>is machine-specific.  Is there any easy way to make it account-specific?
+Unfortunately the Comp. Center does not have the technology to do
+this at present. If you would volunteer to produce software to make this
+possible, I am sure they would be more than glad to accomodate you.
+The only reason (logical?) this is being done is to transfer the
+responsibility ( of all kinds) from the provider to the reader. Maybe
+this was not made clear in the postings, but it was clearly mentioned
+to me by the Director of the Comp. Center. This does not necessarily
+mean I agree with it, but it does make sense. Since this is possible
+on Wylbur, (you can get a account) I don't see how rights are
+infringed. You just have to go through some extra trouble.
+
+Shiva Shenoy (GSS representative to the Comp. Adv. Committee)
+-- 
+ Shiva Shenoy                           | e-mail: shenoy@iastate.edu 
+ 2066 Black,                            | Office: (515)-294-0082
+ Dept. of Aero. Engg. & Engg. Mechanics | Home  : (515)-296-7640
+ Iowa State University, Ames, IA 50010  |
+
+
+Article 636 of isu.cc.general:
+
+From d15.2 Sun Feb 23 14:29:00 1992
+From dec_15_1991 Sun Feb 23 11:51:04 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: john@iastate.edu (John Hascall)
+Subject: What to do about the new Newsgroup Censorship Policy at ISU
+Message-ID: <1991Dec15.163311.4917@news.iastate.edu>
+Originator: john@vincent1.iastate.edu
+Sender: news@news.iastate.edu (USENET News System)
+Distribution: na
+Date: Sun, 15 Dec 1991 16:33:11 GMT
+
+DISCLAIMER:  This posting is from John Hascall, private citizen, and
+             any opinions contained within are solely those of the author
+             and are not the official position of his employer or
+             any committee on which he serves.
+
+
+If you have a opinion on the new policy, speak up!  Encourage others to
+speak up!  The policy definitely will not change if you sit there like sheep.
+
+
+Here are some facts not mentioned in the posting about the policy.
+
+	1) The policy was not developed by the Comp Ctr committee which
+	   developed the original "open learning environment" policy.
+
+	2) The policy was brought to the Comp Ctr Newsgroup committee
+	   who did not approve it.
+
+	3) The policy was brought to the University Computation Advisory
+	   Committee (Computation Center Advisory Sub-Committee) who
+	   did not approve it.
+
+In addition to posting news, here are some people to write
+to express your opinion on this matter.
+
+	Richard Seagrave
+	Acting Director, Comp Ctr
+	291 Durham Ctr
+
+	George Covert
+	Associate Director, Comp Ctr
+	291 Durham Ctr
+
+	David Hopper
+	Chair, University Computation Advisory Cmte
+	Vet Diag Lab, 1541 Vet Med
+
+	Bob Boston
+	Chair, UCAC (Comp Ctr Advisory Sub-Cmte)
+	English, 353 Ross
+
+	Patrica Swan
+	Interim Provost
+	107 Beardshear
+
+
+John Hascall
+
+
+--------------------
+--
+Helen C. O'Boyle            | Co-moderator, Computers and Academic Freedom list
+helen@eff.org               | << insert usual disclaimer here...  my opinions
+isy5hob@cabell.vcu.edu      | are mine alone, not EFF's or VCU's, etc. >>
+
+From d15.2 Sun Feb 23 14:29:08 1992
+From del3.3 Sun Feb 23 12:00:38 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: fischer@iesd.auc.dk (Lars P. Fischer)
+Subject:  Re: The USENET pornographic network
+Message-ID: <FISCHER.91Dec10154555@loke.iesd.auc.dk>
+Date: 10 Dec 91 15:45:55 GMT
+
+>>>>> "Eric" == J Eric Townsend (jet@karazm.math.uh.edu)
+
+>> The german version of EMMA has published in its current issue
+>> an article about the USENET, an academic network used mainly
+>> for transmission of pornographic material.
+
+Eric> Go look at the stats in the news.* groups.  alt.sex.* is up at the top.
+Eric> Yes Virginia, a big chunk of USENET's users read the alt.sex.* hierarchy.
+Eric> That's a simple fact, not a moral judgement.
+
+
+
+  group                                    readers    % of all newsreaders
+  ------------------------------------------------------------------------
+  alt.sex                                   210000    12.7%
+  rec.arts.erotica                          140000     8.7%
+  alt.sex.bondage                            99000     6.1% 
+  alt.sex.pictures                           93000     5.7%
+  alt.binaries.pictures.erotica              72000     4.4%
+  alt.sex.movies                             61000     3.8%
+  alt.sex.pictures.d                         53000     3.2%
+  alt.binaries.pictures.erotica.d            51000     3.1%
+  alt.binaries.pictures.erotica.female       42000     2.6%    
+  alt.sex.pictures.female                    33000     2.0%
+  alt.sex.motss                              31000     1.9%
+  alt.sex.masturbation                       11000     0.7%
+  alt.binaries.pictures.erotica.male         11000     0.7%    
+  alt.sex.wanted                              8200     0.5%
+
+Yes, Eric, that's a lot of people, but it hardly justifies saying that
+USENET is "used mainly for transmission of pornographic material".
+
+Well, we might look at volume instead. Totalling the traffic for the
+above groups (ignoring crossposting for now), we get 51031.4 kbyte/month.
+Doing the same for all groups, we get 747191 kbyte/month, i.e. the
+sex groups constitutes 6.83% of the traffic.
+
+So, we ignored crossposting above. According to the UUNET traffic
+totals, there is currently (Nov) 22330.362 kbytes/day or 669910.86
+kbytes/month, i.e. we overestimated the traffic by 11% by ignoring
+crossposting. For the sex groups, crossposting varies, with
+alt.sex.bondage at 1%, alt.binaries.pictures.erotica at 12%, alt.sex
+at 23% and alt.sex.pictures at a whopping 54%. This means that we lack
+precision, but not fatally so.
+
+
+Lots of boring numbers, right? The point is, I guess, that, yes, there
+*is* pornographic material on the USENET, and, yes, some USENET
+readers follow these groups, but, no, it is *not* the majority that
+follow these groups, and, no, it is not the major part of the traffic.
+
+
+Now back to out usual flaming. I hope a few facts didn't ruin your
+day.
+
+/Lars
+--
+Lars Fischer,  fischer@iesd.auc.dk   | It takes an uncommon mind to think of
+CS Dept., Univ. of Aalborg, DENMARK. | these things.  -- Calvin
+-------------------
+
+From d15.2 Sun Feb 23 14:29:08 1992
+From dec_15_1991 Sun Feb 23 11:19:26 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: CCC_KEIL@rzmain.rz.uni-ulm.de (Christa Keil)
+Subject: Re: The USENET pornographic network (rough translation)
+Message-ID: <1991Dec11.011316.7019@wega.rz.uni-ulm.de>
+Date: 11 Dec 91 01:13:16 GMT
+Article-I.D.: wega.1991Dec11.011316.7019
+References: <1991Dec06.082334.28184@tpki.toppoint.de> <kk7iujINN1fj@smurf.smurf.sub.org> <1991Dec10.161446.15693@ms.uky.edu>
+Sender: news@wega.rz.uni-ulm.de (News Net)
+In-Reply-To: morgan@ms.uky.edu's message of 10 Dec 91 16:14:46 GMT
+X-News-Reader: VMS NEWS 1.12
+
+In <1991Dec10.161446.15693@ms.uky.edu> morgan@ms.uky.edu writes:
+
+> urlichs@smurf.sub.org (Matthias Urlichs) writes:
+> >Reactions so far: One TV network showed interest. One university has turned
+> >off alt.sex.* as well as some other "offensive" newsgroups, like sci.military.
+> 
+> I can understand some offense being taken at alt.sex.*, but sci.military?
+
+Hmm, I would understand it, if someone would take offense against
+alt.sex.pictures.*  or alt.binaries.pictures.*, but it is absolut
+nonsence to try to forbidde people to talk about sex and sexuality.
+
+And I am pretty sure, that the newsadmin at the University of Stuttgart
+did not read a single word in sci.military, otherwise, she had not
+turned off this group. That happend just because she 'tried' to think,
+but obvisualy she was VERY wrong.
+
+
+
+
+--
+Christa Keil--Umv001@Dbnmeb1.bitnet--zotty@dobag.in-berlin.de--zotty@guug.de    
+-------------------
+
+From d15.2 Sun Feb 23 14:29:17 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: steiner@uoftcse.cse.utoledo.edu (Jason Steiner)
+Message-ID: <1991Dec8.155639.5510@uoft02.utoledo.edu>
+Subject:  Re: Gaming
+Date: 8 Dec 91 15:56:39 EST
+
+it's really not that difficult to handle mudding/irc/gaming in university
+computer labs. i'm an avid mudder & a computer consultant here at u of
+toledo & we have very few problems with it.
+
+first - the administration generally takes a kindly (or at least tolerant
+view of gamers. one of the profs has even taken the time to install some
+games (nethack, hunt, etc) on his own hd space.
+
+second - we've got priorities: games are generally allowed unless there are
+more important uses for the machines, i.e. papers.
+
+third - things are even better in my case 'cause i have my own computer &
+phone line which i use for data exclusively.
+
+basically it comes down to mutual respect: if the admins actually support
+gaming the gamers will understand that when they are asked to get f it's
+not just because some ogre wants to spoil their fun & comply. likewise, if
+gamers respect academic uses of computer systems the admin is much more 
+likely to leave them be when resources -are- available.
+
+and you can avoid this almost completely (except for the issue of nettraffic)
+by staying out of the labs altogether.
+
+intolerance in general is just -no fun- & causes a lot more problems than 
+just leaving things be. being a dictator or a rebel takes too much work.
+it certainly isn't constructive.
+
+just my $2.00, van
+
+-------------------
+
+From d15.2 Sun Feb 23 14:29:17 1992
+From dec_15_1991 Sun Feb 23 10:59:27 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: bav@hobbes.ksu.ksu.edu (Brick Verser)
+Subject:  Network utilization by MUD players (was Re: Gaming)
+Date: 9 Dec 91 09:41:57 GMT
+Message-ID: <kk6ej5INNi4o@moe.ksu.ksu.edu>
+
+In article <1991Dec06.180003.10985@groucho> djanson@doc.ee.uidaho.edu (David Janson) writes:
+>If anyone has any hard figures on this subject, I'd appreciate looking at them.
+
+I ran NNSTAT here on Thursday, Nov 21, 6am to 6pm.  We have a policy which 
+supposedly prohibits MUD playing between 8am and midnight on school days, so
+there shouldn't have been too much MUD activity.  But MUD turned out to be
+the number 4 application behind BITNET, NETNEWS, and FTP.  It outpaced
+ordinary TELNET and SMTP that day (dunno how representative that Thursday
+was).  MUD ports represented about 6% of the total traffic, or about 
+32 megabytes in those 12 hours (740 bytes/sec).
+
+I did the same test running from Friday night about 10pm to Monday about 3am
+(3171 minutes) and MUD was the single biggest application.  MUD was about
+30% of our total while FTP, NETNEWS, and BITNET were each about 15%.  The
+total MUD traffic was about 460 megabytes (in 190K seconds is 2400 bytes
+per second).  30 minutes peaks were much higher than average, but still
+only a tiny bump for a T1 connection.  We have no servers here, so all 
+of the MUD traffic represents our folks playing the game on distant machines.  
+
+So, while MUD playing here isn't a problem for our T1 connection, it could
+be troublesome to a site with a 56KB connection.  Indeed, before we upgraded
+our Internet link about a year ago, the MUD players were requesting we 
+enhance the 56KB connection we had at the time; seems interactive response 
+time wasn't really good enough for real-time MUD battles.
+
+--Brick
+-------------------
+
+From d15.2 Sun Feb 23 14:29:17 1992
+From dec_15_1991 Sun Feb 23 10:59:27 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: otto@fsu1.cc.fsu.edu (John G. Otto)
+Subject: Re: [comp.admin.policy, et al.]  Re: Gaming
+Message-ID: <1991Dec10.144304.2037@mailer.cc.fsu.edu>
+Date: 10 Dec 91 19:43:04 GMT
+References: <9112081803.AA26294@m.cs.uiuc.edu>
+Sender: otto@fsu1.cc.fsu.edu
+News-Software: VAX/VMS VNEWS 1.3-4
+
+> In article <9112081803.AA26294@m.cs.uiuc.edu>, kadie@cs.uiuc.edu (Carl M. Kadie) writes...
+> From: garvey@skybridge.SCL.CWRU.Edu (Heather Garvey)
+> Newsgroups: comp.admin.policy,rec.games.mud
+> Subject:  Re: Gaming
+> Message-ID: <1991Dec8.044336.18614@usenet.ins.cwru.edu>
+> Date: 8 Dec 1991 04:43:36 GMT
+>> kadie@m.cs.uiuc.edu (Carl M. Kadie) writes:
+>> As a counterexample, a tennis class cannot kick a recreational player
+>> off the courts at IMPE, the intermural physical education building.
+
+> Wow.  Here you can.  There is a priority list on the fence stating
+> the order of precedence.  Starting with Varsity (during practice times),
+> classes (during class times), on down to people-not-even-connected-with-
+> the-Univ. 
+
+> The general rule at labs here seems to be: You can do anything you 
+> want, even to the point of just sitting there and watching the screen 
+> saver make pretty designs *as*long*as*no*one*is*waiting*for*a*machine. 
+> You have obviously never had to get a paper typed up for a class in an 
+> hour only to find the lab packed, a huge line, and your paper will be late 
+> because some person is playing a game.  Would you allow someone to just sit 
+> there and stare at the screen saver with a huge line waitng?  Under your
+> "we must have freedom absolutely" attitude, you would have to let them
+> sit there, taking up a machine.  They have a valid purpose in starting at 
+> it, just as I would have a valid purpose in playing a MUD.  The question is
+> whether or not printing/writing a paper for a class is more important when 
+> it comes to "I'd-sell-my-grandmother-for-a-machine" capacity in a Univ. 
+> computing lab.
+
+Hey!  I've got this great idea!  There's a scheme that's worked out well
+for millennia.  When you've got a scarce resource, develop a system for
+assigning property rights and allow free trade.  In other words, put a
+slot for quarters (or FeRNs or credit cards) next to the micro or terminal
+and start charging people directly for access time.  If someone wants to
+spend megabucks to play a MUD then, it's no problem.  Take the money he 
+pays and use it to expand the facilities, providing more terminals and 
+micros for academics and gamers alike.
+
+So, tell me.  What condition is this "grandmother" in?  Hmmm?  B-)}...jgo
+John G. Otto   otto@fsu1.cc.fsu.edu
+-------------------
+
+From d15.2 Sun Feb 23 14:29:26 1992
+From dec_15_1991 Sun Feb 23 10:59:27 1992
+From cafnews Fri Dec 13 16:15:02 1991
+From: otto@fsu1.cc.fsu.edu (John G. Otto)
+Subject: Re: [comp.org.eff.talk]  Re: Finger & Liberty
+Message-ID: <1991Dec10.125232.28052@mailer.cc.fsu.edu>
+Date: 10 Dec 91 17:52:32 GMT
+References: <9112061626.AA31346@m.cs.uiuc.edu>
+Followup-To: alt.privacy
+News-Software: VAX/VMS VNEWS 1.3-4
+
+> In article <9112061626.AA31346@m.cs.uiuc.edu>, kadie@cs.uiuc.edu (Carl M. Kadie) writes...
+> From: tk0jut1@mp.cs.niu.edu (jim thomas)
+> Date: Fri, 6 Dec 1991 04:11:10 GMT
+>> In article <199112040654.AA19419@eff.org> IZZYCY1@MVS.OAC.UCLA.EDU (The Jester) writes:
+>> The bottom line is that privacy is a right, not a privledge.>
+>>                                     The Jester
+
+> Yes, there should be limits what information is involuntarily released.
+
+Right!  None.
+
+> But why should such basic information as address and name and office
+> number of a university-owned account be concealed?  Would you also
+> say that one's office phone and room number be removed from a first-floor
+> building directory? 
+
+Because of disagreement about what is "basic [therefore exempt from 
+decorum] information". 
+Yes.  One should be asked for one's preference.
+
+> Revelation of basic information does not necessarily violate privacy.
+> Concealing *all* information pushes us into paranoid secrecy.
+> Jim Thomas  
+
+Revelation of any information without the originator/owner's permission
+is a violation of his privacy.  Revealing information without such
+permission pushes us into tyranny (not to mention psychotic exhibitionism
+Yes!  Right here!  Welcome to Ad Hominem's Psycho-Babble Wars!  B-).  
+
+Talk to ten people about this and you'll not get ten answers the same 
+regarding what is the default, what one should be able to expect.  One 
+person may think it's fine to have a complete bio with his last 5 
+publications on that directory, pictures of the family, home address, 
+phone number, beeper number, etc.  Another will prefer not to have random 
+passersby know so much as his name.  Both are reasonable people, displaying 
+the variety of values people have because we are all the same... 
+in that we are all different.  
+
+Those who make assumptions about what others should prefer are the ones
+in error...jgo   John G. Otto   otto@fsu1.cc.fsu.edu
+-------------------
+
+

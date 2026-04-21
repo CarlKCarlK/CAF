@@ -1,0 +1,2376 @@
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!world!uunet!wupost!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct28.144805.20903@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+References: <1991Oct26.210722.29271@eff.org>
+Date: Mon, 28 Oct 1991 14:48:05 GMT
+Lines: 74
+
+kadie@eff.org (Carl M. Kadie) writes:
+>
+>Interpretation: "Pending action on the charges, the status of a [user]
+>should not be altered, or his [or her] right to be present on the
+>campus and to attend classes [and use computers] suspended, except for
+>reasons relating to his physical or emotional safety and well being,
+>or for reasons relating to the safety and well-being of students,
+>faculty, or university property." [Joint Statement]
+>
+
+I would explicitly append "user files and/or data" to the list of exceptions.
+In many instances, the danger affects user's files/data more than their "safety
+and well-being", and those files/data are not, in many cases, "university
+property".
+
+>Interpretation: Computer sites that offer newsgroups should select
+>newsgroups the way that traditional libraries select magazines and
+>books.
+
+I would append "In some cases, the physical resources available may
+preclude the application of these selection criteria."  After all,
+if I only have 250MB of disk space for news, the binaries
+groups are going to get shafted, regardless of the user demand for
+them.  There is a precedent in library science for a resource-based
+criterion; the library here at UK has been forced to store rarely-used
+volumes in a cave outside of the area, due to space considerations.
+
+>Interpretation: "Every [academic computer] system should have a
+>comprehensive policy on the selection of [information] materials."
+>[ALA Workbook for Selection Policy Writing]
+>
+>Interpretation: "Materials should not be proscribed or removed because
+>of partisan or doctrinal disapproval" [Article 2, Library Bill of
+>Rights].
+
+Add "However, the mission of each facility should be paramount; this may
+affect the selection criteria."  If I manage a news system for a research
+lab, I may only wish to support the comp.* and sci.* hierarchies.  This
+would be well within my rights as an administrator and the mission of the
+facility.  After all, the mere existence of news service does not imply
+an obligation to carry every newsgroup users may desire.
+
+>Interpretation: "All university published and financed [user]
+>publications should explicitly state [...] that the opinions there
+>expressed are not necessarily those of the college, university, or
+>student body. [Joint Statement]
+
+Add "This means that 'electronic publishers' are pursing an individual
+interest; their actions will be neither supported nor curtailed by the
+facility on an arbitrary basis."  I think that many users unconsciously 
+assume some level of support from the administration that does not exist.  
+The volume of "He's a jerk, cancel his account" email sent to administrators 
+is an indication of that misconception.
+
+I would also add something like this:
+
+Premise: Many different elements of society participate in electronic
+media.  Every effort should be made to ensure the peaceful coexistence
+of the different objectives and policies of these elements.
+
+Interpretation: Electronic media can reach almost every level of society.
+There are particpants from all areas; the corporate, academic, and inter-
+national sectors are all represented en masse.  What is acceptable, protected 
+speech in an academic environment may not be appropriate in a commercial 
+environment.  Users and administrators at academic sites should work together 
+to recognize this, tailoring their actions accordingly.  This is not intended 
+as any restriction or curtailment of academia; it it simply a societal fact of 
+life.  User education is essential in this area; that is the obligation of
+the adminstrative staff at each site.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct28.155055.24308@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <1991Oct26.210722.29271@eff.org> <1991Oct28.144805.20903@ms.uky.edu>
+Date: Mon, 28 Oct 1991 15:50:55 GMT
+Lines: 78
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+draft>Interpretation: "Pending action on the charges, the status of a [user]
+draft>should not be altered, or his [or her] right to be present on the
+draft>campus and to attend classes [and use computers] suspended, except for
+draft>reasons relating to his physical or emotional safety and well being,
+draft>or for reasons relating to the safety and well-being of students,
+draft>faculty, or university property." [Joint Statement]
+
+>I would explicitly append "user files and/or data" to the list of exceptions.
+>In many instances, the danger affects
+>user's files/data more than their "safety
+>and well-being", and those files/data are not, in many cases, "university
+>property".
+
+I think this is a good suggestion.
+
+  ---------------------------
+draft>Interpretation: Computer sites that offer newsgroups should select
+draft>newsgroups the way that traditional libraries select magazines and
+draft>books.
+
+[...]
+>I would append "In some cases, the physical resources available may
+>preclude the application of these selection criteria." 
+[...]
+
+I don't think this addition is necessary. Library selection criteria
+include direct and indirect costs.
+
+  ---------------------------
+draft>Interpretation: "Materials should not be proscribed or removed because
+draft>of partisan or doctrinal disapproval" [Article 2, Library Bill of
+draft>Rights].
+
+[..]
+>Add "However, the mission of each facility should be paramount; this may
+>affect the selection criteria."  
+[...]
+
+I don't think this addition is necessary. Library selection criteria
+include the relevence of material to the library's missions.
+
+  ---------------------------
+draft>Interpretation: "All university published and financed [user]
+draft>publications should explicitly state [...] that the opinions there
+draft>expressed are not necessarily those of the college, university, or
+draft>student body. [Joint Statement]
+
+>Add "This means that 'electronic publishers' are pursing an individual
+>interest; their actions will be neither supported nor curtailed by the
+>facility on an arbitrary basis."  I think that many users unconsciously 
+>assume some level of support from the administration that does not exist.  
+>The volume of "He's a jerk, cancel his account" email sent to administrators 
+>is an indication of that misconception.
+
+Maybe we need something just for complaints about email.
+
+  ---------------------------
+>I would also add something like this:
+
+>Premise: Many different elements of society participate in electronic
+>media.  Every effort should be made to ensure the peaceful coexistence
+>of the different objectives and policies of these elements.
+[...]
+
+Beyond user education what would this mean? Can you given an example
+of a situation were it would apply?
+
+The only similar policy I can think of is the U. of Illinois rule that
+prohibits demonstrations that substantially interfer with the rights
+of others. (That policy, however, is not in the "academic freedom"
+part of the Student Code.)
+
+  - Carl
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: Re: Draft Statement on Computers and Academic Freedom
+Message-ID: <9110281737.AA22428@dsacg2.dsac.dla.mil>
+Sender: nbc2134@dsacg2.dsac.dla.mil
+Organization: EFF mail-news gateway
+Date: 28 Oct 91 07:37:37 GMT
+Approved: usenet@eff.org
+Lines: 70
+
+
+[Original Draft Statement deleted]
+
+After looking over the Draft Statement on Computers and Academic Freedom, I
+must say I'm fairly pleased with its principles and interpretations.  I think
+that most of the conclusions are solid, and I look forward to reading the
+ensuing discussion.  However, at first glance, I do have a problem with Part
+IV, Principle 2 (BTW, Carl, you may want to apply a numbering system to the
+principles and interpretations for ease of reference).  The principle reads,
+
+"The principles of academic freedom applicable to student and faculty
+publication in traditional media, apply to student and faculty publication in
+computer media."
+
+Some initial thoughts and objections about Interpretation 1 of the above
+principle:
+
+     A.  Traditional media are usually edited.  Faculty publication often goes
+to a peer review board before published by a professional journal;
+"traditional" student publications, especially at private institutions, are
+often reviewed prior to publication.  In fact, most of the editorial staff of
+_The Lantern_, OSU's student daily, has just resigned or been fired over this
+very topic.
+
+     Since traditional publications are often/usually edited, I wouldn't want
+to apply this standard to electronic communication, thus opening the door for
+review by various authorities.
+
+     B.  I really don't think that Usenet articles are publications per se.
+We've already agreed that they probably are protected by the free speech
+clause of the First Amendment; I'm not sure that they're protected by the free
+press clause.  Rather, I see articles as akin to announcements on kiosks or
+bulletin boards:  opportunities to read and be read, but not necessarily
+protected as publications.
+
+     C.  Treating Usenet articles as student publications may require
+universities to continue funding Usenet even when not fiscally sound, under
+the doctrine that the state is not the unfettered master of all it creates.
+Usenet is not a right; like driving a car or swilling a beer, it's a
+privelege.
+
+    D.  It seems that the protections desired under this principle can be
+gained under application of other more compelling principles, such as
+Principle 1 ("The principles of academic fredom apply...") and Principle 4
+("The principles of intellectual freedom apply...").
+
+I think the other principles are well stated, and the interpretations stemming
+therefrom are valid and reasonable.
+
+(BTW #2 - Carl, is the first interpretation listed under Part IV supposed to
+go with the principle listed under Part III?)
+
+
+Bob
+
+
+
+
+
+
+
+
+
+
+
+Bob Solon, rsolon@dsac.dla.mil
+Administrative Information Branch -- "We Code, You Explode!!"
+Directorate of Resource Management Systems (APCAPS)
+DLA Systems Automation Center, DSAC-BCC       (614) 238-8256  AV 850-8256
+
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: edguer@alpha.ces.cwru.edu (Aydin Edguer)
+Subject: Re: Draft Statement on Computers and Academic Freedom
+Message-ID: <9110281749.AA22397@sentinel.CES.CWRU.Edu>
+Sender: edguer@alpha.ces.cwru.edu
+Organization: EFF mail-news gateway
+References: <9110281737.AA22428@dsacg2.dsac.dla.mil>
+Date: 28 Oct 91 17:49:13 GMT
+Approved: usenet@eff.org
+Lines: 8
+
+>      B.  I really don't think that Usenet articles are publications per se.
+> We've already agreed that they probably are protected by the free speech
+> clause of the First Amendment;
+
+No, this has not been agreed on.  This has never been decided by a court of
+law.  Many people feel that the press model is more appropriate.
+
+Aydin Edguer
+
+Path: eff!iWarp.intel.com|uunet!wupost!tulane!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct28.172859.23708@ms.uky.edu>
+Date: 28 Oct 91 17:28:59 GMT
+References: <1991Oct26.210722.29271@eff.org> <1991Oct28.144805.20903@ms.uky.edu> <1991Oct28.155055.24308@eff.org>
+Organization: The Puzzle Palace, UKentucky
+Lines: 71
+
+kadie@eff.org (Carl M. Kadie) writes:
+>>I would append "In some cases, the physical resources available may
+>>preclude the application of these selection criteria." 
+>[...]
+>
+>I don't think this addition is necessary. Library selection criteria
+>include direct and indirect costs.
+
+Yes, but it's a much more amorphous concept when applied to online
+services.  Disk space usage, for instance, can vary widely on a daily
+basis.  Libraries do not usually have to consider the available shelf
+space on a daily basis.
+
+>draft>Interpretation: "All university published and financed [user]
+>draft>publications should explicitly state [...] that the opinions there
+>draft>expressed are not necessarily those of the college, university, or
+>draft>student body. [Joint Statement]
+>
+>>Add "This means that 'electronic publishers' are pursing an individual
+>>interest; their actions will be neither supported nor curtailed by the
+>>facility on an arbitrary basis."  I think that many users unconsciously 
+>>assume some level of support from the administration that does not exist.  
+>>The volume of "He's a jerk, cancel his account" email sent to administrators 
+>>is an indication of that misconception.
+>
+>Maybe we need something just for complaints about email.
+>
+
+I wasn't talking about "complaints about email".  I'm talking about the
+people who see a Usenet posting which they find offensive, and then flood
+the administration at that site with email demanding the poster's restriction.
+That is a direct result of the identification of a user's relationship with
+his host system, and the misconception that that host system can restrict
+or remove his ability to post.
+
+>>Premise: Many different elements of society participate in electronic
+>>media.  Every effort should be made to ensure the peaceful coexistence
+>>of the different objectives and policies of these elements.
+>[...]
+>
+>Beyond user education what would this mean? Can you given an example
+>of a situation were it would apply?
+>
+
+Sure.  Several commerical sites prohibit political discussions on their
+systems.  Some government facilities (notably the military) prohibit their
+employees from participating in political activities *as employees* (i.e.,
+no campaigning in uniform). Well, Usenet stamps a big, bright header line
+that explicitly associates the poster with his organization.  That, in
+some opinions, might violate the "no politics regulation".
+
+Some companies may want only the sales staff to provide third parties
+with product information.  Suppose that someone posts some incredibly
+incorrect information about another poster's product.  That employee
+may find himself on the horns of a dilemma with regards to "how to handle
+this situation on the net".
+
+Of course, we're all familiar with nondisclosure agreements.  I've seen
+several of those broken on the net; I've seen posters disseminate infor-
+mation which they could only have received *after* signing nondisclosure
+agreements.  That's certainly a potential problem area.
+
+I'm not attempting to address specific, known problems here; I'm just 
+trying to lay the groundwork for dealing with potential problem areas
+in the future.
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom
+Message-ID: <1991Oct28.184413.28676@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <9110281737.AA22428@dsacg2.dsac.dla.mil>
+Date: Mon, 28 Oct 1991 18:44:13 GMT
+Lines: 96
+
+nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+
+draft>"The principles of academic freedom applicable to student and faculty
+draft>publication in traditional media, apply to student
+draft> and faculty publication in
+draft>computer media."
+
+>     A.  Traditional media are usually edited.  Faculty publication often goes
+>to a peer review board before published by a professional journal;
+>"traditional" student publications, especially at private institutions, are
+>often reviewed prior to publication.  In fact, most of the editorial staff of
+>_The Lantern_, OSU's student daily, has just resigned or been fired over this
+>very topic.
+
+Some faculty publications are reviewed and some aren't. (Some
+newsgroups are moderated some are not.)  The important thing is that
+it is not university that does the reviewing-for-publiction.
+
+The Joint statement explictly says that student publications should
+not be subject to prior review. I think most universities, even
+private ones, respect this element of academic freedom.
+
+
+>     Since traditional publications are often/usually edited, I wouldn't want
+>to apply this standard to electronic communication, thus opening the door for
+>review by various authorities.
+
+Some are edited some are not (I include flyers and pamphlets at
+sutdent publications). Again the important think is that it
+should not be the univeristy doing the editing.
+
+>     B.  I really don't think that Usenet articles are publications per se.
+
+I think it is reasonable to call usenet articles publications. Here is
+the OED2 definition:
+
+--------------start------------
+publication (p&revv.blI'keIS&schwa.n). Also 5 pupplicacion.  The action of
+publishing, or that which is published. 
+  1 a The action of making publicly known; public notification or announcement;
+promulgation.
+  b spec. in Law.   Notification or communication to those concerned, or to a
+limited number regarded as representing the public.  Cf. PUBLISH v. 1 b.
+  2 a The issuing, or offering to the public, of a book, map, engraving,
+photograph, piece of music, or other work of which copies are multiplied by
+writing, printing, or any other process; also, the work or business of
+producing and issuing copies of such works.
+  b A work published; a book or the like printed or otherwise produced and
+issued for public sale.
+  The first quotation may belong to 2. 
+  c attrib., as publication date, day.
+  3 The making of a thing public or common property; confiscation.  (A
+Latinism.)   Obs. rare.
+---------------------end-------------------
+
+>We've already agreed that they probably are protected by the free speech
+>clause of the First Amendment; I'm not sure that they're protected by the free
+>press clause. 
+
+Legally, it doesn't matter. The Supreme Court has merged both clauses
+into the Pubilc Forum Doctrine.
+
+> Rather, I see articles as akin to announcements on kiosks or
+>bulletin boards:  opportunities to read and be read, but not necessarily
+>protected as publications.
+
+I consider kiosk notices publications.
+
+>     C.  Treating Usenet articles as student publications may require
+>universities to continue funding Usenet even when not fiscally sound, under
+>the doctrine that the state is not the unfettered master of all it creates.
+>Usenet is not a right; like driving a car or swilling a beer, it's a
+>privelege.
+
+Traditional student publications can be shutdown when not fiscally
+sound.  In fact they be can shutdown for any but a few proscribed
+reasons.
+
+- Carl
+
+
+
+
+
+
+
+
+
+>Bob Solon, rsolon@dsac.dla.mil
+>Administrative Information Branch -- "We Code, You Explode!!"
+>Directorate of Resource Management Systems (APCAPS)
+>DLA Systems Automation Center, DSAC-BCC       (614) 238-8256  AV 850-8256
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct28.185302.29101@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <1991Oct26.210722.29271@eff.org> <1991Oct28.144805.20903@ms.uky.edu> <1991Oct28.155055.24308@eff.org> <1991Oct28.172859.23708@ms.uky.edu>
+Date: Mon, 28 Oct 1991 18:53:02 GMT
+Lines: 45
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+draft>publications should explicitly state [...] that the opinions there
+draft>expressed are not necessarily those of the college, university, or
+draft>student body. [Joint Statement]
+
+>I wasn't talking about "complaints about email".  I'm talking about the
+>people who see a Usenet posting which they find offensive, and then flood
+>the administration at that site with email demanding the poster's restriction.
+
+How about telling them that the opinions are not necessarily those of
+the university and that univeristy policy prohibits censorship.
+
+wes>Premise: Many different elements of society participate in electronic
+wes>media.  Every effort should be made to ensure the peaceful coexistence
+wes>of the different objectives and policies of these elements.
+
+[examples:]
+
+>Sure.  Several commerical sites prohibit political discussions on their
+>systems.  Some government facilities (notably the military) prohibit their
+>employees from participating in political activities *as employees* (i.e.,
+>no campaigning in uniform). Well, Usenet stamps a big, bright header line
+>that explicitly associates the poster with his organization.  That, in
+>some opinions, might violate the "no politics regulation".
+
+>Some companies may want only the sales staff to provide third parties
+>with product information.  Suppose that someone posts some incredibly
+>incorrect information about another poster's product.  That employee
+>may find himself on the horns of a dilemma with regards to "how to handle
+>this situation on the net".
+
+>Of course, we're all familiar with nondisclosure agreements.  I've seen
+>several of those broken on the net; I've seen posters disseminate infor-
+>mation which they could only have received *after* signing nondisclosure
+>agreements.  That's certainly a potential problem area.
+
+
+But what do any of these restictions have to do with an academic computer
+system?
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!world!uunet!wupost!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct28.205404.2462@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+References: <1991Oct28.155055.24308@eff.org> <1991Oct28.172859.23708@ms.uky.edu> <1991Oct28.185302.29101@eff.org>
+Date: Mon, 28 Oct 1991 20:54:04 GMT
+Lines: 55
+
+kadie@eff.org (Carl M. Kadie) writes:
+>morgan@ms.uky.edu (Wes Morgan) writes:
+>
+>wes>Premise: Many different elements of society participate in electronic
+>wes>media.  Every effort should be made to ensure the peaceful coexistence
+>wes>of the different objectives and policies of these elements.
+>
+>But what do any of these restictions have to do with an academic computer
+>system?
+
+
+Most universites reach into every sector of society.  For instance,
+the most widely-known service of UK is the College of Agriculture's
+Cooperative Extension Service.  Most Kentuckians get their understanding
+of UK from their County Agricultural Agent.  Since this service reaches
+into private farms, manufacturing concerns, and corporate agriculture on
+an equal basis, they have been forced to adjust their policies and prac-
+tices to respect the different needs and goals (and rights) of the peo-
+ple and businesses they serve.  There are some services available only
+to particular groups; there are some research activities only open to
+particular groups.  They have adjusted themselves to their audience,
+even though they operate under the academic umbrella of the University.
+
+Usenet news reaches into every sector of
+society.  Most media which have such a wide reach tend to "adjust them-
+selves to their audience"; Usenet should be no different.  There are
+situations which affect these different areas in different ways; Usenet
+can certainly be a catalyst for those situations.  Since Usenet serves
+(by default, not by any intention) as a bridge between the academic and
+private sectors, it is natural that we concern ourselves with this inter-
+action.
+
+Scenario:  A graduate student involved in research funded by a private com-
+pany uses his *academic* computer system to post a problem or question to
+Usenet.  His description of his problem gives a competing company a view
+of his research, and they start implementing it as well.  Suddenly, all
+involved parties are fighting in a lawsuit, and the news site, as the medium
+involved, is in the thick of it.  In a scaled-down version of this scenario,
+the university loses the research grant, due to that student's indiscretion,
+and looks for a scapegoat.  Usenet would be a likely candidate for such 
+service as a scapegoat.
+
+I'm not say that this has happened, nor that it will happen.  I'm only saying
+that Usenet, as an electronic bridge between the academic and private sectors,
+may have to make adjustments.
+
+Of course, this may just be a "cover your butt" perspective......but then,
+again, I've seen some of the ill-informed, closed-minded decisions to which
+bureaucrats are susceptible.  
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct29.135647.3152@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <1991Oct28.155055.24308@eff.org> <1991Oct28.172859.23708@ms.uky.edu> <1991Oct28.185302.29101@eff.org> <1991Oct28.205404.2462@ms.uky.edu>
+Date: Tue, 29 Oct 1991 13:56:47 GMT
+Lines: 25
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+[...]
+>Scenario:  A graduate student involved in research funded by a private com-
+>pany uses his *academic* computer system to post a problem or question to
+>Usenet.  His description of his problem gives a competing company a view
+>of his research, and they start implementing it as well.  Suddenly, all
+>involved parties are fighting in a lawsuit, and the news site, as the medium
+>involved, is in the thick of it.  In a scaled-down version of this scenario,
+>the university loses the research grant, due to that student's indiscretion,
+>and looks for a scapegoat.  Usenet would be a likely candidate for such 
+>service as a scapegoat.
+[...]
+
+The grad student might also violate his nondisclosure agreement over
+the phone or at the coffeebreak of a conference. I don't think
+University telecommunications, the conference organizers, or the
+Netnews administrator need to get involved with the enforcement of
+nondisclosure agreements.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct29.151912.5910@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <1991Oct26.210722.29271@eff.org>
+Date: Tue, 29 Oct 1991 15:19:12 GMT
+Lines: 26
+
+Here is a possible interpretation for confidentiality:
+
+draft> Principle: The principles of intellectual freedom developed by
+draft> libraries should be applied to the administration of information
+draft> material on computers. These principles are explained in such American
+draft> Library Association documents as the Library Bill of Rights, the
+draft> Freedom to Read Statement, and the Intellectual Freedom Statement.
+
+Interpretation: 'The ethical responsibilities of [sys admins] ...
+protect the privacy of [computer] users.  Confidentiality extends to
+"information sought or received, and materials consulted, borrowed or
+acquired"... .'
+
+[To see the ALA statements on confidentiality send email to
+archive-server@eff.org. Include the lines:
+  send library-policies confidentiality.1.ala
+  send library-policies confidentiality.2.ala
+  send acad-freedom README
+]
+
+- Carl
+
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: I Move the Previous Question
+Message-ID: <9110291603.AA10127@dsacg2.dsac.dla.mil>
+Sender: nbc2134@dsacg2.dsac.dla.mil
+Organization: EFF mail-news gateway
+Date: 29 Oct 91 06:03:47 GMT
+Approved: usenet@eff.org
+Lines: 71
+
+
+
+In reply to the mail from <kadie@eff.org>...
+>  ---------------------------
+>draft>Interpretation: Computer sites that offer newsgroups should select
+>draft>newsgroups the way that traditional libraries select magazines and
+>draft>books.
+>
+>[...]
+>>I would append "In some cases, the physical resources available may
+>>preclude the application of these selection criteria."
+>[...]
+>
+>I don't think this addition is necessary. Library selection criteria
+>include direct and indirect costs.
+>
+Why not?  Many university libraries function in such a way that departments
+get money to spend for library acquisitiions; the library itself merely
+becomes the physical repository for the data selected by someone else.  I
+would specifically include something about physical limitation, as well as a
+clause addressing who does the selction, i.e., libraries or dpeartments/users.
+
+>  ---------------------------
+>draft>Interpretation: "Materials should not be proscribed or removed because
+>draft>of partisan or doctrinal disapproval" [Article 2, Library Bill of
+>draft>Rights].
+>
+>[..]
+>>Add "However, the mission of each facility should be paramount; this may
+>>affect the selection criteria."
+>[...]
+>
+>I don't think this addition is necessary. Library selection criteria
+>include the relevence of material to the library's missions.
+>
+A.  Would you quote the relevant document, please?
+
+B.  See above; a library's mission may simply be the central storage/retrieval
+of data selected by some other entity.  Such a mission would certainly affect
+selection criteria.
+
+
+On a general note:  will the final draft of the CAF Statement be put to a vote
+of readers?  Or do the EFF moguls get to make the final determination of
+content, no matter how much the readers of CAF* complain?  In other words,
+does it matter what we say about the draft before it is "promulgated?"  Will
+we, as users, have the option of "signing" the document?  I see this as sort
+of like a Declaration of Computer Independence, with the readers of CAF* as
+a modern-day equivalent of the Second Continental Congress.  Although we're
+conducting our business via e-mail/Usenet, we're still acting as a
+deliberative body that is debating and modifying a document that we hope we
+can adopt.  What we need is the following:
+
+     A.  A chair to coordinate motions and resolve disputes.
+
+     B.  A method of determining what constitutes a passing vote. One
+suggestion would be a relative standard:  a motion passes if it carries by a
+majority; each vote will have a time limit, with ballots promulgated by the
+chair and counted by a seperate secretary or counting software independent of
+the chair.
+
+     C.  An agenda.  Perhaps each part of the document could be debated in
+turn, with one final vote to ratify at the end.  either way, we need some
+orderly way to determine the order of business.
+
+
+Bob Solon, DSAC-BCC
+Administrative Information Branch -- APCAPS
+
+"We Code, You Explode!!"
+
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: Re: Draft Statement on Computers and Academic Freedom
+Message-ID: <9110291610.AA11110@dsacg2.dsac.dla.mil>
+Sender: nbc2134@dsacg2.dsac.dla.mil
+Organization: EFF mail-news gateway
+Date: 29 Oct 91 06:10:05 GMT
+Approved: usenet@eff.org
+Lines: 30
+
+
+
+In reply to the mail from <kadie@eff.org>...
+-------------------------------------------------------------------------------
+>>     C.  Treating Usenet articles as student publications may require
+>>universities to continue funding Usenet even when not fiscally sound, under
+>>the doctrine that the state is not the unfettered master of all it creates.
+>>Usenet is not a right; like driving a car or swilling a beer, it's a
+>>privelege.
+>
+>Traditional student publications can be shutdown when not fiscally
+>sound.  In fact they be can shutdown for any but a few proscribed
+>reasons.
+>
+>- Carl
+>
+Then you are explicitly extending the ability to show down Usenet or a subset
+thereof for the same reasons that "traditional" student publications are shut
+down, right?
+
+What are these reasons?  Are there any documents that would purport to list
+some or all of them?
+
+
+
+Bob Solon, rsolon@dsac.dla.mil
+Administrative Information Branch -- "We Code, You Explode!!"
+Directorate of Resource Management Systems (APCAPS)
+DLA Systems Automation Center, DSAC-BCC       (614) 238-8256  AV 850-8256
+
+
+Path: eff!iWarp.intel.com|uunet!cs.utexas.edu!asuvax!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct29.160350.8232@ms.uky.edu>
+Date: 29 Oct 91 16:03:50 GMT
+References: <1991Oct28.185302.29101@eff.org> <1991Oct28.205404.2462@ms.uky.edu> <1991Oct29.135647.3152@eff.org>
+Organization: The Puzzle Palace, UKentucky
+Lines: 24
+
+In article <1991Oct29.135647.3152@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>
+>The grad student might also violate his nondisclosure agreement over
+>the phone or at the coffeebreak of a conference. I don't think
+>University telecommunications, the conference organizers, or the
+>Netnews administrator need to get involved with the enforcement of
+>nondisclosure agreements.
+>
+
+I agree completely that these people do not NEED to get involved.
+In this litigation-happy world, however, they may be FORCED to
+get involved.  Subpoenas are difficult to ignore.  Did the University
+of Missouri "get involved in" the Craig Neidorf case?  (I don't know
+if they did or not; I'm just asking)
+
+As I've said in every posting on this thread, I'm not suggesting that
+these things will happen, or even that they should happen.  I just think
+that we should recognize that, in this imperfect network world, these
+are potential problems that we should address.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: I Move the Previous Question
+Message-ID: <9110291603.AA10127@dsacg2.dsac.dla.mil>
+Sender: nbc2134@dsacg2.dsac.dla.mil
+Organization: EFF mail-news gateway
+Date: 29 Oct 91 06:03:47 GMT
+Approved: usenet@eff.org
+Lines: 71
+
+
+
+In reply to the mail from <kadie@eff.org>...
+>  ---------------------------
+>draft>Interpretation: Computer sites that offer newsgroups should select
+>draft>newsgroups the way that traditional libraries select magazines and
+>draft>books.
+>
+>[...]
+>>I would append "In some cases, the physical resources available may
+>>preclude the application of these selection criteria."
+>[...]
+>
+>I don't think this addition is necessary. Library selection criteria
+>include direct and indirect costs.
+>
+Why not?  Many university libraries function in such a way that departments
+get money to spend for library acquisitiions; the library itself merely
+becomes the physical repository for the data selected by someone else.  I
+would specifically include something about physical limitation, as well as a
+clause addressing who does the selction, i.e., libraries or dpeartments/users.
+
+>  ---------------------------
+>draft>Interpretation: "Materials should not be proscribed or removed because
+>draft>of partisan or doctrinal disapproval" [Article 2, Library Bill of
+>draft>Rights].
+>
+>[..]
+>>Add "However, the mission of each facility should be paramount; this may
+>>affect the selection criteria."
+>[...]
+>
+>I don't think this addition is necessary. Library selection criteria
+>include the relevence of material to the library's missions.
+>
+A.  Would you quote the relevant document, please?
+
+B.  See above; a library's mission may simply be the central storage/retrieval
+of data selected by some other entity.  Such a mission would certainly affect
+selection criteria.
+
+
+On a general note:  will the final draft of the CAF Statement be put to a vote
+of readers?  Or do the EFF moguls get to make the final determination of
+content, no matter how much the readers of CAF* complain?  In other words,
+does it matter what we say about the draft before it is "promulgated?"  Will
+we, as users, have the option of "signing" the document?  I see this as sort
+of like a Declaration of Computer Independence, with the readers of CAF* as
+a modern-day equivalent of the Second Continental Congress.  Although we're
+conducting our business via e-mail/Usenet, we're still acting as a
+deliberative body that is debating and modifying a document that we hope we
+can adopt.  What we need is the following:
+
+     A.  A chair to coordinate motions and resolve disputes.
+
+     B.  A method of determining what constitutes a passing vote. One
+suggestion would be a relative standard:  a motion passes if it carries by a
+majority; each vote will have a time limit, with ballots promulgated by the
+chair and counted by a seperate secretary or counting software independent of
+the chair.
+
+     C.  An agenda.  Perhaps each part of the document could be debated in
+turn, with one final vote to ratify at the end.  either way, we need some
+orderly way to determine the order of business.
+
+
+Bob Solon, DSAC-BCC
+Administrative Information Branch -- APCAPS
+
+"We Code, You Explode!!"
+
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: Re: Draft Statement on Computers and Academic Freedom
+Message-ID: <9110291610.AA11110@dsacg2.dsac.dla.mil>
+Sender: nbc2134@dsacg2.dsac.dla.mil
+Organization: EFF mail-news gateway
+Date: 29 Oct 91 06:10:05 GMT
+Approved: usenet@eff.org
+Lines: 30
+
+
+
+In reply to the mail from <kadie@eff.org>...
+-------------------------------------------------------------------------------
+>>     C.  Treating Usenet articles as student publications may require
+>>universities to continue funding Usenet even when not fiscally sound, under
+>>the doctrine that the state is not the unfettered master of all it creates.
+>>Usenet is not a right; like driving a car or swilling a beer, it's a
+>>privelege.
+>
+>Traditional student publications can be shutdown when not fiscally
+>sound.  In fact they be can shutdown for any but a few proscribed
+>reasons.
+>
+>- Carl
+>
+Then you are explicitly extending the ability to show down Usenet or a subset
+thereof for the same reasons that "traditional" student publications are shut
+down, right?
+
+What are these reasons?  Are there any documents that would purport to list
+some or all of them?
+
+
+
+Bob Solon, rsolon@dsac.dla.mil
+Administrative Information Branch -- "We Code, You Explode!!"
+Directorate of Resource Management Systems (APCAPS)
+DLA Systems Automation Center, DSAC-BCC       (614) 238-8256  AV 850-8256
+
+
+Path: eff!iWarp.intel.com|uunet!cs.utexas.edu!asuvax!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct29.160350.8232@ms.uky.edu>
+Date: 29 Oct 91 16:03:50 GMT
+References: <1991Oct28.185302.29101@eff.org> <1991Oct28.205404.2462@ms.uky.edu> <1991Oct29.135647.3152@eff.org>
+Organization: The Puzzle Palace, UKentucky
+Lines: 24
+
+In article <1991Oct29.135647.3152@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>
+>The grad student might also violate his nondisclosure agreement over
+>the phone or at the coffeebreak of a conference. I don't think
+>University telecommunications, the conference organizers, or the
+>Netnews administrator need to get involved with the enforcement of
+>nondisclosure agreements.
+>
+
+I agree completely that these people do not NEED to get involved.
+In this litigation-happy world, however, they may be FORCED to
+get involved.  Subpoenas are difficult to ignore.  Did the University
+of Missouri "get involved in" the Craig Neidorf case?  (I don't know
+if they did or not; I'm just asking)
+
+As I've said in every posting on this thread, I'm not suggesting that
+these things will happen, or even that they should happen.  I just think
+that we should recognize that, in this imperfect network world, these
+are potential problems that we should address.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Path: eff!iWarp.intel.com|uunet!spool.mu.edu!tulane!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct29.163743.15765@ms.uky.edu>
+Date: 29 Oct 91 16:37:43 GMT
+Article-I.D.: ms.1991Oct29.163743.15765
+References: <1991Oct26.210722.29271@eff.org> <1991Oct29.151912.5910@eff.org>
+Organization: The Puzzle Palace, UKentucky
+Lines: 32
+
+In article <1991Oct29.151912.5910@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>Here is a possible interpretation for confidentiality:
+>
+>Interpretation: 'The ethical responsibilities of [sys admins] ...
+>protect the privacy of [computer] users.  Confidentiality extends to
+>"information sought or received, and materials consulted, borrowed or
+>acquired"... .'
+>
+
+This may be difficult to implement.  Certain types of information may, by
+default, require public dissemination.  For instance, if a system
+provides database services via NFS to an individual's workstation, the
+fact that he is using a particular database is available to all users
+(via perusal of the mount tables or the /etc/exports file).  This infor-
+mation *must* be publicly accessible; this is a requirement of
+the NFS software.  
+
+In fact, any user of a Unix system can easily log the actions of any other 
+user. Any user could, for instance, track my usage of telnet and ftp, 
+building a log of the sites to which I connected.  This could be done with 
+a 10-line shell script by any user. 
+
+Many online resources automatically keep logs of their usage as well; 
+that's a completely separate issue.  These automatic logs should be
+protected, to insure the user's privacy.  I don't think that
+administrators can effectively prevent other users from performing such
+monitoring.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: thakur@zerkalo.harvard.edu (Manavendra K. Thakur)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <9110291908.AA07692@zerkalo.harvard.edu>
+Sender: thakur@zerkalo.harvard.edu
+Organization: EFF mail-news gateway
+References: <1991Oct28.205404.2462@ms.uky.edu>
+Date: 29 Oct 91 19:08:36 GMT
+Approved: usenet@eff.org
+Lines: 60
+
+>>>>> On Mon, 28 Oct 1991 20:54:04 GMT, morgan@ms.uky.edu (Wes Morgan) said:
+
+> Scenario: A graduate student involved in research funded by a
+> private com- pany uses his *academic* computer system to post a
+> problem or question to Usenet.  His description of his problem gives
+> a competing company a view of his research, and they start
+> implementing it as well.  Suddenly, all involved parties are
+> fighting in a lawsuit, and the news site, as the medium involved, is
+> in the thick of it.  In a scaled-down version of this scenario, the
+> university loses the research grant, due to that student's
+> indiscretion, and looks for a scapegoat.  Usenet would be a likely
+> candidate for such service as a scapegoat.
+
+Nope, this is completely wrong.  If the university has any halfway
+decent sense of responsibility, it would never agree to accept funding
+from a source that either didn't want to reveal itself (e.g. CIA
+funding to political scientists) or didn't want the results of the
+research to be published.
+
+If the research being done is truly one where the funders don't want
+to give "a competing company a view of his research" then the funders
+should have the research performed in their own R&D lab, not in an
+academic university setting.
+
+I would submit that if any university administrator accepts funding
+with these kinds of absurd conditions, then they are undercutting
+their own academic freedom and destroying the mission of the
+university as a marketplace of ideas where the free exchange of
+information is strongly encouraged.
+
+Note that in real life, professors do sign non-disclosure agreements
+(NDAs) but I have never heard of a case in academia where a corporate
+sponsor insisted that the very existence of the research project be
+kept secret.  Most likely, NDAs cover specific implementation details
+that are propietary technology of the corporate sponsor (as opposed to
+the overall research goals that require use of the propietary
+technology).
+
+And if a grad student *were* to reveal information covered by an NDA,
+it is unlikely that a huge lawsuit would develop.  Most corporate
+sponsors of research want to maintain good working relationships with
+universities, and vice versa.  Launching a massive lawsuit would be
+very counterproductive, and indeed the corporate sponsors might lose
+more than they gain.
+
+Finally, public dissemination of corporate "family jewels" are perhaps
+the only thing that would trigger the type of massive lawsuit that you
+describe.  And it is highly unlikely that any corporate sponsor is
+going to be willing to give out their most secretive family jewels to
+university researchers, at least not without the most stringent
+safeguards on them.  And if the safeguards are that stringent, it is
+likely that the safeguards will impinge on academic freedom.  It would
+behoove the university provost or other high ranking official to
+reject out of hand any such constraints on the free exchange of ideas
+in an academic setting.
+
+Manavendra K. Thakur			 Internet: thakur@zerkalo.harvard.edu
+Systems Programmer, High Energy Division BITNET:   thakur@cfa.BITNET
+Harvard-Smithsonian Center for		 DECNET:   CFA::thakur
+Astrophysics				 UUCP:	   ...!uunet!mit-eddie!thakur
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct29.191507.14564@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <9110291603.AA10127@dsacg2.dsac.dla.mil>
+Date: Tue, 29 Oct 1991 19:15:07 GMT
+Lines: 65
+
+draft>Interpretation: Computer sites that offer newsgroups should select
+draft>newsgroups the way that traditional libraries select magazines and
+draft>books.
+
+wes>>[...]
+wes>>I would append "In some cases, the physical resources available may
+wes>>preclude the application of these selection criteria."
+wes>>[...]
+
+carl>>I don't think this addition is necessary. Library selection criteria
+carl>>include direct and indirect costs.
+
+nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+
+>Why not?  Many university libraries function in such a way that departments
+>get money to spend for library acquisitiions; the library itself merely
+>becomes the physical repository for the data selected by someone else.  I
+>would specifically include something about physical limitation, as well as a
+>clause addressing who does the selction, i.e., libraries or dpeartments/users.
+
+I don't object so just to a clause about "physical limitation", but I
+do object to the notion that such limitations might "preclude the
+application of the selection criteria". They should not preclude the
+selection criteria; they should be part of the selection criteria.
+
+The ALA selection policy guidelines go into detail
+about how to authorize the selector.
+
+If a department, research group, or user is using disk space to store
+data, that should be independent of the machine selection policy.
+If anyone can suggest a better way to phrase:
+
+draft> Principle: The principles of intellectual freedom developed by
+draft> libraries should be applied to the administration of information
+draft> material on computers. These principles are explained in such American
+draft> Library Association documents as the Library Bill of Rights, the
+draft> Freedom to Read Statement, and the Intellectual Freedom Statement.
+
+To make this clear, please do.
+
+---------------------
+>A.  Would you quote the relevant document [about releveance], please?
+
+From the ALA selection workbook:
+
+---quote---
+CRITERIA.  In terms of the subject matter covered, your policy
+will include criteria, and the application of criteria, relevant
+to your objectives, excellence (artistic, literary, etc.),
+appropriateness to level of user, superiority in treatment of
+controversial issues, and ability to stimulate further
+intellectual and social development.  Consider authenticity,
+appropriateness, interest, content, and circumstances of use.
+--end quote---
+
+To get the whole selection handbook, send email to archive-server@eff.org.
+Include the line:
+  send library-policies selection-workbook.ala
+
+Or ftp to ftp.eff.org:pub/academic/library/selection-workbook.ala.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: I Move the Previous Question
+Message-ID: <1991Oct29.191922.14652@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <9110291603.AA10127@dsacg2.dsac.dla.mil>
+Date: Tue, 29 Oct 1991 19:19:22 GMT
+Lines: 25
+
+nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+
+>On a general note:  will the final draft of the CAF Statement be put to a vote
+>of readers?  Or do the EFF moguls get to make the final determination of
+>content, no matter how much the readers of CAF* complain?  In other words,
+>does it matter what we say about the draft before it is "promulgated?"  Will
+>we, as users, have the option of "signing" the document?  I see this as sort
+>of like a Declaration of Computer Independence, with the readers of CAF* as
+>a modern-day equivalent of the Second Continental Congress.  Although we're
+>conducting our business via e-mail/Usenet, we're still acting as a
+>deliberative body that is debating and modifying a document that we hope we
+>can adopt.  What we need is the following:
+
+No plans have been made for creation or promulgation.
+
+Anyone interested in organizing the effort should maybe post a
+statement of interest. Lurkers welcome.
+
+- Carl
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom
+Message-ID: <1991Oct29.192533.14910@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <9110291610.AA11110@dsacg2.dsac.dla.mil>
+Date: Tue, 29 Oct 1991 19:25:33 GMT
+Lines: 102
+
+nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+[...]
+>Then you are explicitly extending the ability to show down Usenet or a subset
+>thereof for the same reasons that "traditional" student publications are shut
+>down, right?
+
+>What are these reasons?  Are there any documents that would purport to list
+>some or all of them?
+[...]
+
+I don't expect extra rights for netnews authors.
+
+Here are some documents:
+
+=================
+CAF Law Archive
+[...]
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/law".
+For email access, send email to archive-server@eff.org. Include the
+line:
+      caf-law <filenames>
+where <filenames> is a list of the files that you want. File README is
+[...]
+
+=================
+stanley-v-magrath
+-----------------
+Comments from _Public Schools Law: Teachers' and Students' Rights_ 2nd
+Ed. by Martha M. McCarthy and Nelda H. Cambron-McCabe, published in
+1987 by Allyn and Bacon, Inc. It says, in part, "[a]lthough school
+boards are not obligated to support student papers, if a given
+publication was originally created as a free speech forum, removal of
+financial or other school board support can be construed as an
+unlawful effort to stifle free expression."
+
+=================
+student-publications.control
+-----------------
+Comments from _School Law: Teachers' and Students' Rights_ by Martha
+M. McCarthy and Nelda H. Cambron-McCabe. It says, in part, "school
+authorities cannot withdraw support from a student publication simply
+because of displeasure with the content" and "the content of a
+school-sponsored paper that is established as a medium for student
+expression cannot be regulated more closely than a nonsponsored
+paper".
+
+=================
+constraints.constitutional
+-----------------
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_ by Partrica A. Hollander, D. Parker Young, and Donald D.
+Gehring.  (College Administration Publication, 1985).  Discusses the
+constitutional constraints on public univeristies including the
+requires for freedom of expression, freedom against unreasonable
+searches and seizures, due process, specific rules.
+
+=================
+constraints.contractual
+-----------------
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_. Explains that University Code is part of the contract
+between the student and school. The University can be liable for a
+breach of the contract (i.e. for not following its own rules).
+
+=================
+rust-v-sullivan
+-----------------
+The decision and decent for the so-called abortion information gag
+rule case. The decision explictly mentions universities as a place
+where free expression is so important that gag rules would not be
+allowed.
+
+=================
+san-diego-committee-v-gov-bd
+-----------------
+Excerpts from San Diego Committee v.  Governing Bd., 790 F.2d 1471
+(1986).  A decision by an appellate court that applied the Supreme
+Court's Public Forum Doctrine.
+
+=================
+student-publications.libel
+-----------------
+From _Public School Law: Teachers' and Student' Rights_ by Martha
+McCarthy and Nelda Cambron-McCabe on what to do about libel in student
+publications.
+
+=================
+uwm-post-v-u-of-wisconsin
+-----------------
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference betwen protected
+offensive expression and illegal harassment. It even mentions email.
+
+=================
+=================
+Last update
+Tue Oct 29 13:54:16 EST 1991
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct29.193843.15406@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <1991Oct28.185302.29101@eff.org> <1991Oct28.205404.2462@ms.uky.edu> <1991Oct29.135647.3152@eff.org> <1991Oct29.160350.8232@ms.uky.edu>
+Date: Tue, 29 Oct 1991 19:38:43 GMT
+Lines: 48
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+>I agree completely that these people do not NEED to get involved.
+>In this litigation-happy world, however, they may be FORCED to
+>get involved.  Subpoenas are difficult to ignore.  Did the University
+>of Missouri "get involved in" the Craig Neidorf case?  (I don't know
+>if they did or not; I'm just asking)
+
+I think subpoena are covered.
+
+draft> III. Privacy
+
+draft> Principle: Personal files on university's computers (for example,
+draft> files in a user's home directory) should have the same privacy
+draft> protection as personal files in university-assigned space in an
+draft> office, lab, or dormitory (for example, files in a graduate student's
+draft> desk). Private communications via computer should have the same
+draft> protections as private communications via telephone.
+
+Your campus code certainly has rules for subponea. If not,
+here is the Joint Statment:
+
+---start quote--
+  1. Except under extreme emergency circumstances, premises occupied
+by students and the personal possessions of students should not be
+searched unless appropriate authorization has been obtained. For
+premises such as residence halls controlled by the institution, an
+appropriate and responsible authority should be designated to whom
+application should be made before a search is conducted. The
+application should specify the reasons for he search and the objects
+or information sought. The student should be present, if possible,
+during the search. For premises not controlled by the institution,
+---end quote--
+
+>As I've said in every posting on this thread, I'm not suggesting that
+>these things will happen, or even that they should happen.  I just think
+>that we should recognize that, in this imperfect network world, these
+>are potential problems that we should address.
+
+I think the CAF Statement will be better if it is concise and refering
+to a larger body of policy and law.
+
+- Carl
+
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct29.194237.15771@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <1991Oct26.210722.29271@eff.org> <1991Oct29.151912.5910@eff.org> <1991Oct29.163743.15765@ms.uky.edu>
+Date: Tue, 29 Oct 1991 19:42:37 GMT
+Lines: 30
+
+>In article <1991Oct29.151912.5910@eff.org> kadie@eff.org (Carl M.
+Kadie) writes:
+
+>>Here is a possible interpretation for confidentiality:
+>>
+>>Interpretation: 'The ethical responsibilities of [sys admins] ...
+>>protect the privacy of [computer] users.  Confidentiality extends to
+>>"information sought or received, and materials consulted, borrowed or
+>>acquired"... .'
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+>This may be difficult to implement.  Certain types of information may, by
+>default, require public dissemination.  For instance, if a system
+>provides database services via NFS to an individual's workstation, the
+>fact that he is using a particular database is available to all users
+>(via perusal of the mount tables or the /etc/exports file).  This infor-
+>mation *must* be publicly accessible; this is a requirement of
+>the NFS software.  
+
+I think Wes has found a flaw in the library policy. Taken literally it
+would require librarians to put your book in a plain-brown wrapper so
+that no one could see what you borrowed.
+
+Can anyone suggest a more reasonble (or constrained) confidentialy
+policy?
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: Re: I Move the Previous Question
+Message-ID: <9110292030.AA27450@dsacg2.dsac.dla.mil>
+Sender: nbc2134@dsacg2.dsac.dla.mil
+Organization: EFF mail-news gateway
+References: <1991Oct29.191922.14652@eff.org>
+Date: 29 Oct 91 19:30:25 GMT
+Approved: usenet@eff.org
+Lines: 19
+
+[Call for formal deliberative review deleted]
+
+Carl Kadie writes:
+> 
+> No plans have been made for creation or promulgation.
+> 
+> Anyone interested in organizing the effort should maybe post a
+> statement of interest. Lurkers welcome.
+> 
+> - Carl
+> 
+> 
+So what's the point? Why did you put a draft togethor, why are you
+asking for comments, and what will happen to this document?  I'd be
+willing to act as chair of a deliberative review, but only after
+we're told what the Statement is going to be used for.
+
+Bob
+
+
+Path: eff!iWarp.intel.com|uunet!ns-mx!pyrite.cs.uiowa.edu
+From: jones@pyrite.cs.uiowa.edu (Douglas W. Jones,201H MLH,3193350740,3193382879)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Promulgating the CAF statement
+Message-ID: <8856@ns-mx.uiowa.edu>
+Date: 29 Oct 91 21:09:33 GMT
+References: <1991Oct29.191922.14652@eff.org>
+Sender: news@ns-mx.uiowa.edu
+Lines: 27
+
+From article <1991Oct29.191922.14652@eff.org>,
+by kadie@eff.org (Carl M. Kadie):
+> nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+> 
+>>On a general note:  will the final draft of the CAF Statement be
+>>put to a vote of readers?
+> 
+> No plans have been made for creation or promulgation.
+
+The ultimate success of the Computers and Academic Freedom document depends
+on whether or not the principles it advocates are adopted by the academic
+institutions on the net.  A vote of the readership of this forum could be
+useful in convincing reluctant university computer center administrators of
+the degree of consensus behind the CAF document, but that is about all such
+a vote would accomplish.
+
+I have already forwarded a copy of the CAF Statement to the Director of
+Academic Computer Services at the University of Iowa, with my personal
+recommendation that we adopt something like it as policy.  I told him about
+the recent flap in Washington, and said that having a policy in place in
+advance would be a wise idea just in case such a flap comes up here.
+
+I would recommend that others interested in these kinds of matters take
+similar unilateral action instead of worrying about USENET votes and
+similar ventures.
+					Doug Jones
+					jones@cs.uiowa.edu
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: I Move the Previous Question
+Message-ID: <1991Oct29.205315.17917@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <1991Oct29.191922.14652@eff.org> <9110292030.AA27450@dsacg2.dsac.dla.mil>
+Date: Tue, 29 Oct 1991 20:53:15 GMT
+Lines: 32
+
+>Carl Kadie writes:
+
+>> No plans have been made for creation or promulgation.
+>> 
+>> Anyone interested in organizing the effort should maybe post a
+>> statement of interest. Lurkers welcome.
+
+nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+
+>So what's the point? Why did you put a draft togethor, why are you
+>asking for comments, and what will happen to this document?  
+
+I don't mean to suggest that I don't want a policy created or
+promugated. I'm just reporting that no plans have been made.  It's up
+to us to make such plans.
+
+>I'd be
+>willing to act as chair of a deliberative review, but only after
+>we're told what the Statement is going to be used for.
+
+>Bob
+
+Bob, what is your experience with academic computing? Are you a member
+of an academic community (student, faculty, staff, administration,
+etc) now?
+
+- Carl
+
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: FFDMG@ALASKA.bitnet (Dean Gottehrer)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <199110300740.AA12030@eff.org>
+Sender: FFDMG%ALASKA.BITNET@CORNELLC.cit.cornell.edu
+Organization: EFF mail-news gateway
+Date: 29 Oct 91 13:40:35 GMT
+Approved: usenet@eff.org
+Lines: 31
+
+Personally I like the library brand of confidentiality.  Circulation records
+are confidential.  No one is entitled to know what books I borrow.  Similarly,
+no one should know what newsgroups I read, what information I retrieve, etc.
+That said, if there are places where a record of my use must be made public as
+a condition of using the software or the database or whatever, the model I
+would use to deal with that is one used in gathering information for the
+government.  Put a notice on it.  Tell the user that a record is being made of
+the user's use and that record will be public.  Tell the user in advance of
+the use and then the user can decide whether or not to go ahead and use under
+those conditions.  To be safe, you probably want a signed acknowledgement from
+the user of the conditions of the use.  Also tell the user that those who do
+not agree with the policy in adance will not be able to use the software or
+database.
+
+As for what to do with the computers and academic freedom document developed
+on CAF, I suggest that we pass it along to the folks at the American
+Association of University Professors and ask them to consider adopting a
+policy that will speak to computers and academic freedom.  They are the
+authors of the Joint Statement and they have been the guardians of academic
+freedom at American universities for more than a few decades.  A statement by
+them would also carry more punch than anything we could figure out how to
+adopt through this group.  The difference is that they have a procedure to
+censure universities that violate academic freedom.  Rather than attempt to
+come to any decision where a vote is taken, I would urge Carl to keep the
+draft and the notes posted in response to it until we finish this thread
+(assuming that we ever will) and pass all of that along to the AAUP people for
+their benefit in drafting a policy the AAUP could adopt.
+
+Best,
+Dean Gottehrer
+Anchorage, Alaska
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: SKAPUR@ccmail.sunysb.edu (Sanjay Kapur)
+Subject: Re: I Move the Previous Question
+Message-ID: <9C2BD44A804018B1@ccmail.sunysb.edu>
+Sender: SKAPUR@ccmail.sunysb.edu
+Reply-To: Sanjay Kapur <skapur@ccmail.sunysb.edu>
+Organization: EFF mail-news gateway
+Date: 29 Oct 91 22:19:00 GMT
+Approved: usenet@eff.org
+Lines: 23
+
+>> 
+>So what's the point? Why did you put a draft togethor, why are you
+>asking for comments, and what will happen to this document?  I'd be
+>willing to act as chair of a deliberative review, but only after
+>we're told what the Statement is going to be used for.
+
+It seems quite obvious what the purpose of such a statement would be:
+
+It will be used as a club to bash system administrators.
+
+
+--------
+Disclaimer: I am in a dark mood today.
+
+>
+>Bob
+>
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!iWarp.intel.com|uunet!europa.asd.contel.com!darwin.sura.net!mojo.eng.umd.edu!russotto
+From: russotto@eng.umd.edu (Matthew T. Russotto)
+Subject: Re: I Move the Previous Question
+Message-ID: <1991Oct30.050017.8234@eng.umd.edu>
+Date: Wed, 30 Oct 91 05:00:17 GMT
+Organization: College of Engineering, Maryversity of Uniland, College Park
+References: <9C2BD44A804018B1@ccmail.sunysb.edu>
+
+In article <9C2BD44A804018B1@ccmail.sunysb.edu> Sanjay Kapur <skapur@ccmail.sunysb.edu> writes:
+>>> 
+>>So what's the point? Why did you put a draft togethor, why are you
+>>asking for comments, and what will happen to this document?  I'd be
+>>willing to act as chair of a deliberative review, but only after
+>>we're told what the Statement is going to be used for.
+>
+>It seems quite obvious what the purpose of such a statement would be:
+>
+>It will be used as a club to bash system administrators.
+>
+>  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+>  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+>  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+>  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+System Administrator:  n.  1) One who wishes to exercise arbitrary and
+capricious absolute power over the system he controls, but be able to point
+to anonymous and/or unavailable 'higher ups' when he makes or implements an
+unpopular decision, or when his users challenge his actions.
+2) A bureaucrat in charge of a computer system
+
+-- 
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+ .sig continuing construction after a brief lull due to budget cuts
+Just say NO to police searches and seizures.  Make them use force.
+(not responsible for bodily harm resulting from following above advice)
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: SKAPUR@ccmail.sunysb.edu (Sanjay Kapur)
+Subject: Re: I Move the Previous Question
+Message-ID: <240C90EA7E4040AE@ccmail.sunysb.edu>
+Sender: SKAPUR@ccmail.sunysb.edu
+Reply-To: Sanjay Kapur <skapur@ccmail.sunysb.edu>
+Organization: EFF mail-news gateway
+Date: 30 Oct 91 14:32:00 GMT
+Approved: usenet@eff.org
+Lines: 30
+
+>From: russotto@eng.umd.edu (Matthew T. Russotto)
+>In article <9C2BD44A804018B1@ccmail.sunysb.edu> Sanjay Kapur <skapur@ccmail.sunysb.edu> writes:
+>>>> 
+>>>So what's the point? Why did you put a draft togethor, why are you
+>>>asking for comments, and what will happen to this document?  I'd be
+>>>willing to act as chair of a deliberative review, but only after
+>>>we're told what the Statement is going to be used for.
+>>
+>>It seems quite obvious what the purpose of such a statement would be:
+>>
+>>It will be used as a club to bash system administrators.
+>>
+>>  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+>
+>System Administrator:  n.  1) One who wishes to exercise arbitrary and
+>capricious absolute power over the system he controls, but be able to point
+>to anonymous and/or unavailable 'higher ups' when he makes or implements an
+>unpopular decision, or when his users challenge his actions.
+>2) A bureaucrat in charge of a computer system
+>
+>-- 
+>Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+
+As Matthew's remarks above confirm, the bashing I fear has already started.
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct30.150340.19350@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <199110300740.AA12030@eff.org>
+Date: Wed, 30 Oct 1991 15:03:40 GMT
+Lines: 40
+
+On confidentiality
+
+FFDMG@ALASKA.bitnet (Dean Gottehrer) writes:
+
+>Personally I like the library brand of confidentiality.  Circulation records
+>are confidential.  No one is entitled to know what books I borrow.  Similarly,
+>no one should know what newsgroups I read, what information I retrieve, etc.
+
+Should/can confientiality extend to what programs you run? To
+whether you are signed on or not.
+
+Here is a list of information that is available about others on a
+typical Unix computer. 
+
+Does the xxx have an account?
+  (finger, passwd file, .../home/xxx directory)
+How long has xxx been signed on?
+  (finger, w)
+What programs is xxx runing?
+  (ps -aux, w, top)
+Who has been running "cat" lately?
+  (lastcomm)
+How much mail does xxx have in his or her incoming mailbox?
+When was it last read?
+   (l- /var/spool/mbox/xxx)
+
+I'm sure there are many others.
+
+I don't want to see finger closed down. Programs such as "top" and "ps
+-aux" are very useful at finding out who is hogging the system. On the
+other hand, I don't want people to know what Netnews material I read
+or who my email correspondents are.
+
+On the third hand, I can't think of a good simple rule.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct30.153518.19993@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <199110300740.AA12030@eff.org>
+Date: Wed, 30 Oct 1991 15:35:18 GMT
+Lines: 48
+
+FFDMG@ALASKA.bitnet (Dean Gottehrer) writes:
+[...]
+>As for what to do with the computers and academic freedom document developed
+>on CAF,
+
+I concur with a previous post that we should develop it using
+parliamentary procedure. I would think the best procedure would be
+modified for use on the net. On the plus side, the net allows many to
+"speak" at once. You can even have votes in parallel. On the minus
+side, it will take days for minor votes to be taken and (if Usenet
+tradition is followed) a month for a major vote to be taken. Has
+anyone had experience with complicated email decision making?
+
+I assume that the final vote will be a major vote on the finished CAF
+Statement. If a majority votes for the Statement, I suggest reporting
+this as "A majority of CAF discussion participants endorse the
+Statement" rather than "The CAF discussion participants endorse the
+Statement." In other words, even a majority of participants should not
+claim to speak for everyone. I don't want anyone to feel that they
+should quit the list because they didn't support the Statement.
+
+> I suggest that we pass it along to the folks at the American
+>Association of University Professors and ask them to consider adopting a 
+>policy that will speak to computers and academic freedom.
+[...]
+
+I've been in contact with one AAUP official. I'm trying to
+get on-line copies of more of their statments.
+
+>Rather than attempt to 
+>come to any decision where a vote is taken, I would urge Carl to keep the 
+>draft and the notes posted in response to it until we finish this thread
+>(assuming that we ever will) and pass all of that along to the AAUP people for>their benefit in drafting a policy the AAUP could adopt.
+[...]
+
+The notes from this thread are available via email. Send email to
+archive-server@eff.org. Include the line:
+  send acad-freedom caf-statement
+
+If the AAUP gets involved, I'd rather give them a finished statement.
+(They, of course, may choose to modify it, but at least they'd
+have a good starting place.)
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: I Move the Previous Question
+Message-ID: <1991Oct30.170419.23217@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <9C2BD44A804018B1@ccmail.sunysb.edu> <1991Oct30.050017.8234@eng.umd.edu>
+Date: Wed, 30 Oct 1991 17:04:19 GMT
+Lines: 23
+
+In article <9C2BD44A804018B1@ccmail.sunysb.edu> Sanjay Kapur
+<skapur@ccmail.sunysb.edu> writes:
+
+[...]
+>>It seems quite obvious what the purpose of such a statement would be:
+>>
+>>It will be used as a club to bash system administrators.
+[...]
+
+russotto@eng.umd.edu (Matthew T. Russotto) writes:
+
+>System Administrator:  n.  1) One who wishes to exercise arbitrary and
+>capricious absolute power over the system he controls,
+[...]
+
+I hope that a good policy will be helpful in reducing conflict between
+users and sys admins.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: SKAPUR@ccmail.sunysb.edu (Sanjay Kapur)
+Subject: Re: I Move the Previous Question
+Message-ID: <42C2F521FE4018B1@ccmail.sunysb.edu>
+Sender: SKAPUR@ccmail.sunysb.edu
+Reply-To: Sanjay Kapur <skapur@ccmail.sunysb.edu>
+Organization: EFF mail-news gateway
+Date: 30 Oct 91 18:12:00 GMT
+Approved: usenet@eff.org
+Lines: 31
+
+>I hope that a good policy will be helpful in reducing conflict between
+>users and sys admins.
+>Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+
+It will not be good policy unless it also limits what a "user" can do and 
+puts down simple rules like:
+1) The user will not attempt to break security.  If the user discovers 
+   security holes, the user will report such holes immediately to the system 
+   administrator.  
+2) The user will act "responsibily" so as to allow maximum use of 
+   the machine by a maximum number of authorized users i.e. one user will 
+   not hog the system.  
+   An example of acting responsibily is that if the machine is slow, 
+   and the user wants to play a computer game, the user will lower the cpu 
+   run time priority before playing the game e.g. by using the "nice" 
+   command in unix. 
+   An example of irresponsibility is hogging disk space on a system without 
+   disk quotas.
+   Another example of irresponsibility is using a terminal/workstation to play 
+   games while there is a queue of users waiting to use the machine for 
+   projects/home works etc.
+
+The above two rules would cover the main areas of conflicts between "users" 
+and "system administrators" and a policy is not "good" unless these two 
+issues are dealt with properly.
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: I Move the Previous Question
+Message-ID: <1991Oct30.190136.26359@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <42C2F521FE4018B1@ccmail.sunysb.edu>
+Date: Wed, 30 Oct 1991 19:01:36 GMT
+Lines: 37
+
+Carl Kadie wrote:
+
+>I hope that a good policy will be helpful in reducing conflict between
+>users and sys admins.
+
+SKAPUR@ccmail.sunysb.edu (Sanjay Kapur) writes:
+
+[...]
+>It will not be good policy unless it also limits what a "user" can do and 
+>puts down simple rules like:
+>1) The user will not attempt to break security.  If the user discovers 
+>   security holes, the user will report such holes immediately to the system 
+>   administrator.  
+>2) The user will act "responsibily" so as to allow maximum use of 
+>   the machine by a maximum number of authorized users i.e. one user will 
+>   not hog the system.  
+[...]
+
+I would expect a school's computer policy would have rules such as
+these (maybe a little more detailed). Nothing in the Draft preclude
+creation of such rules.
+
+Speaking for myself, I'm not especially interested in creating a
+complete model policy. I'm more interested in concisely expressing the
+principles of academic freedom as they apply to computers. Such a
+Statement should be very useful to policy makers, but it will be
+comprehensive in the sense that it will tell them exactly what rules
+to created.
+
+In this way the CAF Statement would be like the Library Bill of
+Rights, the Joint Statement on Rights and Freedom of Students, and the
+U.S. Bill of Rights.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!world!uunet!europa.asd.contel.com!darwin.sura.net!mojo.eng.umd.edu!russotto
+From: russotto@eng.umd.edu (Matthew T. Russotto)
+Subject: Re: I Move the Previous Question
+Message-ID: <1991Oct30.193352.5477@eng.umd.edu>
+Date: Wed, 30 Oct 91 19:33:52 GMT
+Organization: College of Engineering, Maryversity of Uniland, College Park
+References: <240C90EA7E4040AE@ccmail.sunysb.edu>
+
+In article <240C90EA7E4040AE@ccmail.sunysb.edu> Sanjay Kapur <skapur@ccmail.sunysb.edu> writes:
+
+>>>It seems quite obvious what the purpose of such a statement would be:
+>>>
+>>>It will be used as a club to bash system administrators.
+>>>
+>>>  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+>>
+>>System Administrator:  n.  1) One who wishes to exercise arbitrary and
+>>capricious absolute power over the system he controls, but be able to point
+>>to anonymous and/or unavailable 'higher ups' when he makes or implements an
+>>unpopular decision, or when his users challenge his actions.
+>>2) A bureaucrat in charge of a computer system
+>>
+
+>As Matthew's remarks above confirm, the bashing I fear has already started.
+
+Since I play no part in the drafting of the statement, your claim is
+unsupported.  As for the bashing:  You asked for it, you got it.
+-- 
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+ .sig continuing construction after a brief lull due to budget cuts
+Just say NO to police searches and seizures.  Make them use force.
+(not responsible for bodily harm resulting from following above advice)
+
+Path: eff!world!uunet!mcsun!fuug!nntp.hut.fi!usenet
+From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct30.193547.9113@nntp.hut.fi>
+Date: 30 Oct 91 19:35:47 GMT
+References: <199110300740.AA12030@eff.org> <1991Oct30.150340.19350@eff.org>
+Sender: usenet@nntp.hut.fi (Usenet pseudouser id)
+Reply-To: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Organization: Helsinki University of Technology, Finland
+Lines: 24
+In-Reply-To: kadie@eff.org (Carl M. Kadie)
+Nntp-Posting-Host: sauna.cs.hut.fi
+
+In article <1991Oct30.150340.19350@eff.org>, kadie@eff (Carl M. Kadie) writes:
+>Does the xxx have an account?
+>How long has xxx been signed on?
+>What programs is xxx runing?
+>Who has been running "cat" lately?
+>How much mail does xxx have in his or her incoming mailbox?
+>I'm sure there are many others.
+
+>-aux" are very useful at finding out who is hogging the system. On the
+>other hand, I don't want people to know what Netnews material I read
+>or who my email correspondents are.
+
+I don't really mind people looking at /usr/spool/mail/* or the mail
+logs to see if the mail they sent has gone thru, or watching what
+newsgroups I read - as long as they do that for their own curiosity or
+statistical purposes, not for some company's or government's agenda or
+to collect information on lots of people.
+
+I think the Finnish law is quite reasonable on this - it is not
+permitted for organizations to collect data on individuals unless
+there's a need to collect it - and the individual has a right to check
+what is collected about him.
+
+//Jyrki
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!world!uunet!wupost!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct30.215917.656@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+References: <199110300740.AA12030@eff.org> <1991Oct30.150340.19350@eff.org>
+Date: Wed, 30 Oct 1991 21:59:17 GMT
+Lines: 64
+
+kadie@eff.org (Carl M. Kadie) writes:
+>
+>Here is a list of information that is available about others on a
+>typical Unix computer. 
+>
+>Does the xxx have an account?
+>  (finger, passwd file, .../home/xxx directory)
+>How long has xxx been signed on?
+>  (finger, w)
+>What programs is xxx runing?
+>  (ps -aux, w, top)
+>Who has been running "cat" lately?
+>  (lastcomm)
+>How much mail does xxx have in his or her incoming mailbox?
+>When was it last read?
+>   (l- /var/spool/mbox/xxx)
+>
+>I'm sure there are many others.
+
+Indeed there are; here are a few, more potentially damaging cases:
+
+To/from whom has xxx sent email lately?
+   (the log files from sendmail, which many sites leave open)
+
+What has xxx been doing all day today?
+   (acctcom, under System V Unix, which any user can usually run)
+
+To/from where is xxx running telnet and/or ftp?
+   (netstat)
+
+What Usenet newsgroups does xxx read?
+   (His .newsrc file, which is, by default, world readable)
+   (This may not be true on all news systems; it is the case here)
+
+>On the third hand, I can't think of a good simple rule.
+
+I don't think that there is a simple rule.  If, for instance, I prevent
+users from running the "acctcom" command, an enterprising user can easily
+write a shell script to achieve the same functionality.  Since I refuse to
+arbitrarily examine user files, I would have to review the output of acctcom
+periodically, looking for users running ps a zillion times a day.  This would
+quickly turn into another cat and mouse game between users (whether malicious
+or just curious) and admins.
+
+(FYI, acctcom only retrieves data for the current day; each day's accounting
+is stored until the end of the month, when it is compiled into the monthly
+accounting report. Users do not have access to the historical accounting
+files or the monthly reports)
+
+I think that it boils down to yet another judgement call for the admin.
+I don't restrict ps or acctcom, but I do restrict access to the sendmail
+log files.  Each sysadmin will have to draw the lines; personally, my
+line stops at email logs and cumulative usage reports.
+
+Of course, there are also several PD programs that will turn your networked
+PC into a 'packet collector'; you can collect every packet coming from a
+specific address and reconstruct the session.  This could result in stolen
+passwords, perusal of email, and many other problems.
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Path: eff!world!uunet!zaphod.mps.ohio-state.edu!mips!mojo.eng.umd.edu!russotto
+From: russotto@eng.umd.edu (Matthew T. Russotto)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: I Move the Previous Question
+Message-ID: <1991Oct31.041102.17462@eng.umd.edu>
+Date: 31 Oct 91 04:11:02 GMT
+References: <86B542DFEE405407@ccmail.sunysb.edu>
+Organization: College of Engineering, Maryversity of Uniland, College Park
+Lines: 23
+
+In article <86B542DFEE405407@ccmail.sunysb.edu> Sanjay Kapur <skapur@ccmail.sunysb.edu> writes:
+>>Since I play no part in the drafting of the statement, your claim is
+>>unsupported.  As for the bashing:  You asked for it, you got it.
+>
+>That is the language a rapist uses: "She was asking for or she would not wear 
+>those tight clothes"
+>
+>No one ever "asks" to be bashed.  If you think otherwise, you need help.
+>
+>>-- 
+>>Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+
+Wow, you really are paranoid, comparing me to a rapist, when all I did is
+post a cynical definition of 'system administrator'.  Your message was
+the electronic equivalent of taping a "kick me" sign to your own back-- if
+you think otherwise, you need help.
+
+
+-- 
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+ .sig continuing construction after a brief lull due to budget cuts
+Just say NO to police searches and seizures.  Make them use force.
+(not responsible for bodily harm resulting from following above advice)
+
+Path: eff!iWarp.intel.com|pdxgate!reed!henson!milton!lamontg
+From: lamontg@milton.u.washington.edu (Lamont Granquist)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: I Move the Previous Question
+Message-ID: <1991Oct31.043703.24252@milton.u.washington.edu>
+Date: 31 Oct 91 04:37:03 GMT
+References: <42C2F521FE4018B1@ccmail.sunysb.edu>
+Organization: Operation:  Mindcrime
+Lines: 49
+
+SKAPUR@ccmail.sunysb.edu (Sanjay Kapur) writes:
+>It will not be good policy unless it also limits what a "user" can do and 
+>puts down simple rules like:
+>1) The user will not attempt to break security.  If the user discovers 
+>   security holes, the user will report such holes immediately to the system 
+>   administrator.  
+
+Agreed.  however, you may need to realize that your average user on a 
+university mainframe may not know a security hole when it hits them over 
+the head.  I had such a thing happen to me last year, and I managed to take
+down one of the UW mainfraimes twice (it was complicated by my ignorance of
+some aspects of unix...)
+
+>2) The user will act "responsibily" so as to allow maximum use of 
+>   the machine by a maximum number of authorized users i.e. one user will 
+>   not hog the system.  
+>   An example of acting responsibily is that if the machine is slow, 
+>   and the user wants to play a computer game, the user will lower the cpu 
+>   run time priority before playing the game e.g. by using the "nice" 
+>   command in unix. 
+>   An example of irresponsibility is hogging disk space on a system without 
+>   disk quotas.
+>   Another example of irresponsibility is using a terminal/workstation to play 
+>   games while there is a queue of users waiting to use the machine for 
+>   projects/home works etc.
+
+If you're going to propose that users have to act "reponsibly" then you
+had better write out and post in an extremely accessable place,
+(with a sufficient number of notices which would point the user to this
+place), EXACT, DETAILED instructions on what is considered to be 
+"irresponsible use" of the computers. 
+
+Unless such a thing is posted, then its the system adminstrators responsiblity
+to make sure that they have a secure system which is immune to user 
+ignorance.  This will, naturally, be impossible, and of course listing out
+every "irresponsible" activity would be impossible too.  Therefore, you are
+going to have to deal with the fact that you are not only going to have to
+deal with idiotic hardware problems, but idiotic users, too.
+
+I, however, completely agree that chronic idiots should have their 
+priveledges revoked.  You're "rules" however, are much too simple, and give
+system administrators much to wide a range of options, and potential for
+abuse.
+
+-- 
+Lamont Granquist         "If the principle were to prevail of a common law [ie.
+lamontg@u.washington.edu  a single government] being in force in the United 
+                          States...it would become the most corrupt government
+                          on the Earth" -- Thomas Jefferson to G Granger (1800)
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!world!uunet!wupost!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct30.215917.656@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+References: <199110300740.AA12030@eff.org> <1991Oct30.150340.19350@eff.org>
+Date: Wed, 30 Oct 1991 21:59:17 GMT
+Lines: 64
+
+kadie@eff.org (Carl M. Kadie) writes:
+>
+>Here is a list of information that is available about others on a
+>typical Unix computer. 
+>
+>Does the xxx have an account?
+>  (finger, passwd file, .../home/xxx directory)
+>How long has xxx been signed on?
+>  (finger, w)
+>What programs is xxx runing?
+>  (ps -aux, w, top)
+>Who has been running "cat" lately?
+>  (lastcomm)
+>How much mail does xxx have in his or her incoming mailbox?
+>When was it last read?
+>   (l- /var/spool/mbox/xxx)
+>
+>I'm sure there are many others.
+
+Indeed there are; here are a few, more potentially damaging cases:
+
+To/from whom has xxx sent email lately?
+   (the log files from sendmail, which many sites leave open)
+
+What has xxx been doing all day today?
+   (acctcom, under System V Unix, which any user can usually run)
+
+To/from where is xxx running telnet and/or ftp?
+   (netstat)
+
+What Usenet newsgroups does xxx read?
+   (His .newsrc file, which is, by default, world readable)
+   (This may not be true on all news systems; it is the case here)
+
+>On the third hand, I can't think of a good simple rule.
+
+I don't think that there is a simple rule.  If, for instance, I prevent
+users from running the "acctcom" command, an enterprising user can easily
+write a shell script to achieve the same functionality.  Since I refuse to
+arbitrarily examine user files, I would have to review the output of acctcom
+periodically, looking for users running ps a zillion times a day.  This would
+quickly turn into another cat and mouse game between users (whether malicious
+or just curious) and admins.
+
+(FYI, acctcom only retrieves data for the current day; each day's accounting
+is stored until the end of the month, when it is compiled into the monthly
+accounting report. Users do not have access to the historical accounting
+files or the monthly reports)
+
+I think that it boils down to yet another judgement call for the admin.
+I don't restrict ps or acctcom, but I do restrict access to the sendmail
+log files.  Each sysadmin will have to draw the lines; personally, my
+line stops at email logs and cumulative usage reports.
+
+Of course, there are also several PD programs that will turn your networked
+PC into a 'packet collector'; you can collect every packet coming from a
+specific address and reconstruct the session.  This could result in stolen
+passwords, perusal of email, and many other problems.
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Re; Brack Expulsion. What Happened?
+Message-ID: <1991Nov13.142722.13085@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <kadie@eff.org> <199111100652.AA01567@eff.org>
+Date: Wed, 13 Nov 1991 14:27:22 GMT
+Lines: 46
+
+
+On Fri, 8 Nov 1991 16:44:57 GMT Carl M. Kadie said:
+>
+>There is no procedure for appealing his computer expulsion.  There are
+>of course extra procedural methods (ombudsman, University president,
+>the Governor of Ohio). I think he has made some efforts in this
+>direction, but without result.
+
+ALILESTE@idbsu.idbsu.edu (Dan Lester) writes:
+
+[...]
+>How can you call the items in parens above "extra-procedural"??
+[...]
+
+I don't know if "extra-procedural" is the best word or not.  In any
+case, let me try to explain what I mean.
+
+The Joint Statement on Rights and Freedoms of Students says:
+
+"The jurisdictions of faculty or student judicial bodies,
+the disciplinary responsibilities of institutional officials and the
+regular disciplinary procedures, including the student's right to
+appeal a decision, should be clearly formulated and communicated in
+advance."
+
+As far as I can determine, students and faculty who are expelled from
+ACS computers are not told of their right to appeal or the procedure
+for such an appeal. The wording of ACS policy makes me wonder if they
+consider their decisions open to appeal.
+
+The failure to establish a procedure is as bad as a failure to notify
+students of their rights. Without a procedure, students and faculty
+cannot be sure their their appeal will be taken seriously. They may
+fear or discover a Catch-22:
+
+There are procedures set up to appeal all disciplinary decisions.
+
+There are no procedures set up to appeal ACS computer expulsions,
+therefore, computer expulsions cannot be disciplinay, therefore, there
+are no procedures set up to appeal computer expulsions.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Xref: eff alt.security:3734 alt.comp.acad-freedom.talk:3234
+Newsgroups: alt.security,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: NSFnet rules of use and terminus
+Message-ID: <1992Feb19.163425.9651@eff.org>
+Originator: kadie@eff.org
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <1992Feb18.234819.28914@nntp.uoregon.edu> <oZJDgB1w164w@Bogus.COM>
+Date: Wed, 19 Feb 1992 16:34:25 GMT
+Lines: 56
+
+It may be time to look past the details for principles. How about:
+
+Principle: Network policy should be written or technical tools
+provided such that a site is not compelled to apply one network's
+policy to other networks.
+
+Principle: The network service requester, not the network service
+provider, is responsibility for compliance with network policy.
+
+Aside: The second principle is based on the codes for another kind of
+information network, interlibrary loan networks. Their policies say:
+"The borrowing library should carefully screen all request for loans
+and reject any that do not conform to this code" and "The decision to
+loan material is at the discretion of the lending library. Each
+library is encouraged, however, to interpret as generously as possible
+its own lending policy with due consideration to the interest of its
+primary clientele". For more information, see [news/cafv01n37] or
+    Boucher, Virginia.  Interlibrary loan practices handbook.  Chicago :
+    American Library Association, c1984.
+
+Applying these principles to terminus: if it is technically feasible to
+cutoff terminus from NSFnet (without cutting it off of other
+networks), then NSFnet could do this or require that MIT do it.
+
+Applying these principles to Usenet: when site 1 requests articles from
+site 2 across NSFnet, it is the responsible of site 1 and not site 2
+to comply with the AUP. [I believe this is the way things currently
+work.]
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+news/cafv01n37
+=================
+[No annotation available.]
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send caf-news cafv01n37
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.88.144.3) as file(s):
+  pub/academic/news/cafv01n37
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+

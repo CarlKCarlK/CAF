@@ -1,0 +1,41 @@
+=============== ftp://ftp.eff.org/pub/CAF/faq/archive ===============
+q: What files are available from the Computers and Academic Freedom
+archive?
+
+a: The Computers and Academic Freedom archive includes several
+subarchives. Each archive is described by a file named README.
+
+- Carl Kadie
+
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/README">
+README
+=================</a>
+* Computers and Academic Freedom (CAF) Archive
+
+The CAF Archive is an electronic library of information about
+computers and academic freedom.
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p1/CAF gopher.eff.org
+
+If you have Mosiac or some other WWW client, go to
+   http://www.eff.org/CAF/cafhome.html
+
+It is available via anonymous ftp to ftp.eff.org (192.77.172.4) in
+directory "pub/CAF". It is also available via email. For information
+on email access send email to ftpmail@decwrl.dec.com. In the body of
+your note include the lines:
+  connect ftp.eff.org
+  cd  /pub/CAF
+  get caf
+  cd  /pub/CAF/faq
+  get archive
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+

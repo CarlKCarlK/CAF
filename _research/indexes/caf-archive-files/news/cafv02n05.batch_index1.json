@@ -1,0 +1,452 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "27 Jan 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators may have a moral or legal responsibility to intervene in cases of sexual harassment discovered on their networks.",
+        "Potential administrative responses to harassment include requesting the user stop, suspending accounts, or referring the matter to university authorities."
+      ],
+      "organizations": [
+        "Widener University",
+        "DLA Systems Automation Center"
+      ],
+      "people": [
+        "Brendan Kehoe",
+        "Robert F Solon"
+      ],
+      "summary": "A discussion between a network manager and another administrator regarding the ethics of intervening in cases of sexual harassment via email. The conversation explores whether a system administrator has the right or responsibility to act when they accidentally discover harassing content through bounced mail.",
+      "title": "Re: [comp.admin.policy] harrassing mail",
+      "topics": [
+        "network administration",
+        "sexual harassment",
+        "acceptable use policy",
+        "sysadmin ethics"
+      ]
+    },
+    "identity": {
+      "date": "27 Jan 92 18:01:53 GMT",
+      "from": "nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "<9201271901.AA26229@dsacg2.dsac.dla.mil>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Re: [comp.admin.policy]  harrassing mail",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 27, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Postmasters should configure software to display only headers to ensure recipient privacy.",
+        "Privacy is a right equal in importance to the right to be free from harassment."
+      ],
+      "organizations": [
+        "University of California Santa Barbara"
+      ],
+      "people": [
+        "Jim Lick"
+      ],
+      "summary": "Jim Lick argues against postmasters assuming that 'rude' or erotic misaddressed mail constitutes harassment without evidence from the recipient. He emphasizes that privacy rights are as important as the right to be free from harassment. Lick proposes a set of technical and ethical guidelines for handling bounced mail to protect user privacy.",
+      "title": "Re: harrassing mail",
+      "topics": [
+        "privacy",
+        "email administration",
+        "harassment",
+        "netiquette"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 27 Jan 1992 23:38:31 GMT",
+      "from": "jim@ferkel.ucsb.edu (Jim Lick)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<jim.696555511@ferkel>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Re: harrassing mail",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "31 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "In Finland, email was treated with the same protection as paper mail while in transit as of January 1992.",
+        "Proposed Finnish legislation suggested that 'protected' traffic (e.g., via Unix file protections) would be private.",
+        "There was legal ambiguity regarding whether postmasters could read emails forwarded to them."
+      ],
+      "organizations": [],
+      "people": [
+        "Jyrki Kuoppala",
+        "Carl M. Kadie"
+      ],
+      "summary": "Jyrki Kuoppala discusses the legal status of email privacy in Finland, responding to a proposal that email should have protections similar to telephone calls and file cabinets. He notes that Finnish law treats email like paper mail during transit but highlights ambiguities regarding 'protected' traffic and the access rights of postmasters.",
+      "title": "email privacy",
+      "topics": [
+        "email privacy",
+        "legal protections",
+        "surveillance",
+        "Finnish law"
+      ]
+    },
+    "identity": {
+      "date": "31 Jan 92 10:14:49 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<1992Jan31.101449.13991@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "email privacy",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.privacy,alt.society.civil-liberty",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "27 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Usenet facilities may meet the legal definition of a library under certain state laws.",
+        "Network news providers should adopt policies to prevent the exclusion of materials based on partisan or doctrinal disapproval."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Gary Tse"
+      ],
+      "summary": "Carl Kadie discusses the legal definition of a 'library' under Indiana law to argue that Usenet facilities could be classified as such. He proposes a 'Hypothetical Netnews Bill of Rights' based on library principles to protect free expression and resist censorship on network news services.",
+      "title": "Duties of state universities regarding 1st amendment",
+      "topics": [
+        "First Amendment",
+        "Netnews",
+        "Censorship",
+        "Library Law",
+        "Academic Freedom"
+      ]
+    },
+    "identity": {
+      "date": "27 Jan 92 20:15:48 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<1992Jan27.201548.22829@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Re: Duties of state universities regarding 1st amendment",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,misc.legal,alt.censorship",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 27, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The computer itself is not a forum; Netnews (the network) is the forum.",
+        "Site maintainers have the right to determine which newsgroups are supported based on the provider's mission.",
+        "If a provider accepts a controversial newsgroup, they should not ethically censor individual postings within that group.",
+        "Access to Netnews services may be restricted by institutional policies (e.g., limited to specific students or employees) without violating free expression."
+      ],
+      "organizations": [
+        "University of Kentucky"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "Wes Morgan critiques and proposes amendments to a 'Hypothetical Netnews Bill of Rights.' He argues that while Usenet as a whole is a forum, individual computer sites are not inherently forums and maintain the right to select which newsgroups to carry based on their institutional mission. He emphasizes the distinction between censoring content within an accepted group versus the right of a provider to exclude entire groups.",
+      "title": "Re: Duties of state universities regarding 1st amendment",
+      "topics": [
+        "Usenet",
+        "Netnews Bill of Rights",
+        "First Amendment",
+        "Academic Freedom",
+        "Content Moderation"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 27 Jan 1992 21:51:37 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<1992Jan27.165137.14992@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Re: Duties of state universities regarding 1st amendment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "The university's sexual harassment policy adopted the EEOC definition of hostile work environments.",
+        "Student Eric Jefferson claimed the student handbook's definition of sexual harassment was too vague."
+      ],
+      "organizations": [
+        "Carnegie Mellon University",
+        "Equal Employment Opportunity Commission"
+      ],
+      "people": [
+        "Eric Jefferson",
+        "Micheal Murphy",
+        "Todd Masco",
+        "Chris Newman",
+        "Josh Knauer",
+        "Ann Simonton",
+        "Matt Bushey"
+      ],
+      "summary": "A student at Carnegie Mellon University faced potential disciplinary action and expulsion after posting messages critical of feminism and lesbians to the women's center Andrew bulletin board. The incident sparked a debate over whether such posts constituted protected free speech or violated the university's sexual harassment policy. The case highlights early conflicts regarding the application of campus conduct codes to digital communication platforms.",
+      "title": "Speech restrictions on CMU computer bboards",
+      "topics": [
+        "academic freedom",
+        "online speech",
+        "sexual harassment policy",
+        "bulletin boards",
+        "campus discipline"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 28 Jan 1992 22:34:29 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<1992Jan28.223429.20426@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Speech restrictions on CMU computer bboards",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 31, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The author claims that feminists are the biggest threat to freedom of speech in the US.",
+        "The author argues that university students and administrators use 'political correctness' to silence dissenting views."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Carnegie Mellon University"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Eric Scott Jefferson",
+        "Ann Simonton",
+        "Todd Masco"
+      ],
+      "summary": "Carl M. Kadie of the EFF shares a collection of highly offensive and provocative posts written by Eric Scott Jefferson on Carnegie Mellon University (CMU) bulletin boards. The posts contain misogynistic attacks, hate speech, and defenses of 'political correctness' battles on campus. The exchange highlights early conflicts regarding acceptable use policies and free speech on university-managed computer networks.",
+      "title": "Speech restrictions on CMU computer bboards",
+      "topics": [
+        "academic freedom",
+        "hate speech",
+        "university network policy",
+        "online harassment"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 31 Jan 1992 21:11:30 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<1992Jan31.211130.19359@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Re: Speech restrictions on CMU computer bboards",
+      "to_or_newsgroups": "",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 28, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "CMU bboards are used for sharing ideas but have no place for hate speech, racism, or sexual harassment.",
+        "Certain boards like cmu.opinion are acceptable for 'flame wars,' while others like cmu.market are restricted to announcements.",
+        "Complaints sent to advisor+@andrew can trigger official investigations and punitive action against users."
+      ],
+      "organizations": [
+        "Carnegie Mellon University",
+        "The Tartan"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "An editorial from the Carnegie Mellon University student newspaper, The Tartan, discusses the ethics and regulation of electronic bulletin boards (bboards) within the Andrew computing environment. It distinguishes between legitimate opinion exchange, 'flaming,' and prohibited hate speech or harassment. The piece encourages users to report harassment to university authorities rather than engaging in personal disputes.",
+      "title": "Speech restrictions on CMU computer bboards",
+      "topics": [
+        "hate speech",
+        "netiquette",
+        "academic freedom",
+        "online harassment",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 28 Jan 1992 22:39:16 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<1992Jan28.223916.20536@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Speech restrictions on CMU computer bboards",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 28, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Computer bulletin boards should be treated as protected university forums similar to student newspapers.",
+        "Private universities are bound by their own student codes regarding free expression even if not legally bound by the Bill of Rights.",
+        "The distinction between offensive expression and illegal harassment is critical for maintaining academic freedom in digital media."
+      ],
+      "organizations": [
+        "Carnegie Mellon University",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie argues against Carnegie Mellon University's suppression of sexist articles posted to student computer bulletin boards. He contends that while the content may be offensive, removing it constitutes censorship rather than a legitimate response to sexual harassment. Kadie emphasizes that digital forums should receive the same free speech protections as traditional student media.",
+      "title": "Speech restrictions on CMU computer bboards",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "computer bulletin boards",
+        "student speech",
+        "sexual harassment"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 28 Jan 1992 23:44:54 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<1992Jan28.234454.22561@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Re: Speech restrictions on CMU computer bboards",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 29, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "A federal judge found the University of Wisconsin's harassment rule to be too vague and broad.",
+        "Harassment is defined by being directed at an individual, whereas general offensive posts in a forum may differ in nature."
+      ],
+      "organizations": [
+        "Carnegie Mellon University",
+        "University of Illinois at Urbana-Champaign",
+        "University of Wisconsin",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "C. D. Tavares"
+      ],
+      "summary": "Carl Kadie responds to a discussion regarding speech restrictions on Carnegie Mellon University (CMU) bulletin boards. He argues for a distinction between targeted harassment and offensive general posts in university forums. To illustrate, he provides the text of a University of Wisconsin rule that was found by a federal judge to be too vague and broad.",
+      "title": "Speech restrictions on CMU computer bboards",
+      "topics": [
+        "academic freedom",
+        "harassment vs free speech",
+        "university policy",
+        "bulletin boards"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 29 Jan 1992 22:14:41 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<1992Jan29.221441.18673@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Re: Speech restrictions on CMU computer bboards",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Feb 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Constitutional protections for free speech do not apply to privately owned bulletin boards.",
+        "The university is not the government and its actions with its property are not governmental restrictions.",
+        "Intellectual commitment to free speech is distinct from a commitment to the free exchange of ideas."
+      ],
+      "organizations": [
+        "Carnegie Mellon University"
+      ],
+      "people": [
+        "John Gardiner Myers"
+      ],
+      "summary": "A forwarded post from a complainant at Carnegie Mellon University arguing that university-owned bulletin boards are private property and not subject to constitutional free speech protections. The author contends that the enforcement of harassment policies on these boards is necessary to protect the 'free exchange of ideas' over absolute free speech. The text frames certain types of provocative posting as harassment rather than protected expression.",
+      "title": "Fwd: I comment once.",
+      "topics": [
+        "academic freedom",
+        "harassment policy",
+        "bulletin boards",
+        "private property vs public forum"
+      ]
+    },
+    "identity": {
+      "date": "3 Feb 92 00:28:25 GMT",
+      "from": "jm36+@andrew.cmu.edu (John Gardiner Myers)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<8dX8mdS00WBwAAGCdi@andrew.cmu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n05",
+      "subject": "Fwd: I comment once.",
+      "to_or_newsgroups": "alt.politics.correct,alt.comp.acad-freedom.talk,alt.censorship",
+      "truncated_for_model": false
+    }
+  }
+]

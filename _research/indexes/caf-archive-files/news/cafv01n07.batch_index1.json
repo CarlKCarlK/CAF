@@ -1,0 +1,362 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 22, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "There were no known ethical guidelines for system administrators in 1991 requiring them to provide users with 'freedoms'.",
+        "A distinction is drawn between professional responsibilities and professional ethics in the context of employment."
+      ],
+      "organizations": [
+        "State University of New York, Stony Brook",
+        "Columbia University"
+      ],
+      "people": [
+        "Sanjay Kapur",
+        "Joe Brennan"
+      ],
+      "summary": "A discussion regarding whether system administrators should be viewed as professionals with independent ethical obligations similar to doctors or lawyers. Sanjay Kapur argues that unlike other professions, there are no established ethical guidelines for system administrators that mandate granting specific 'freedoms' to users.",
+      "title": "Re: Computer Programmers as System Administrators",
+      "topics": [
+        "professional ethics",
+        "system administration",
+        "academic freedom",
+        "professional standards"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>",
+      "item_count": 9,
+      "item_index": 0,
+      "message_id": "<26BF5B8A70A0B045@ccmail.sunysb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n07",
+      "subject": "Re: Computer Programmers as System Administrators",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 22, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Routing bounced mail to a postmaster may be an invasion of privacy",
+        "Standard email routing practices could potentially impact academic freedoms"
+      ],
+      "organizations": [],
+      "people": [
+        "Dan Brown"
+      ],
+      "summary": "Dan Brown questions whether the standard practice of routing bounced emails to a site's postmaster constitutes a violation of academic rights and freedoms. He expresses concern that this mechanism could lead to an invasion of privacy for users.",
+      "title": "Something to chew on a bit...",
+      "topics": [
+        "privacy",
+        "email",
+        "academic freedom",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Dan Brown <brown@usenet.INS.CWRU.Edu>",
+      "item_count": 9,
+      "item_index": 1,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n07",
+      "subject": "Something to chew on a bit...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 23, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Stock BSD sendmail may send the complete message body to the postmaster on bounces.",
+        "Some mailers are modified to only send SMTP transaction logs to protect user privacy.",
+        "Email is generally unsuitable for sensitive plaintext information due to multi-hop routing through different administrative policies."
+      ],
+      "organizations": [
+        "Columbia University"
+      ],
+      "people": [
+        "Fuat C. Baran"
+      ],
+      "summary": "Fuat C. Baran discusses whether routing bounced emails to a postmaster violates academic freedom or privacy. He describes the technical differences between various sendmail versions regarding whether the message body or only the transaction log is forwarded. He concludes that while header info is necessary for system maintenance, sending sensitive plaintext information via email is risky due to varying site policies.",
+      "title": "Re: Something to chew on a bit...",
+      "topics": [
+        "email privacy",
+        "academic freedom",
+        "sendmail",
+        "postmaster duties"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "\"Fuat C. Baran\" <fuat@cunixf.cc.columbia.edu>",
+      "item_count": 9,
+      "item_index": 2,
+      "message_id": "<CMM.0.90.2.674928354.fuat@cunixf.cc.columbia.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n07",
+      "subject": "Re: Something to chew on a bit...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 23, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Electronic postmasters and system administrators should be bound by confidentiality rules.",
+        "Including message bodies in bounce notices to postmasters is often unnecessary for routing mail."
+      ],
+      "organizations": [
+        "Columbia University",
+        "SUNY Stony Brook"
+      ],
+      "people": [
+        "Fuat C. Baran",
+        "Sanjay Kapur"
+      ],
+      "summary": "A debate between system administrators regarding the privacy implications of 'bounce' messages and the role of the electronic postmaster. Fuat C. Baran argues against including message bodies in bounce notices sent to postmasters to protect user confidentiality.",
+      "title": "Re: Something to chew on a bit...",
+      "topics": [
+        "email privacy",
+        "system administration",
+        "confidentiality",
+        "electronic postmaster"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "\"Fuat C. Baran\" <fuat@cunixf.cc.columbia.edu>",
+      "item_count": 9,
+      "item_index": 3,
+      "message_id": "<CMM.0.90.2.675018353.fuat@cunixf.cc.columbia.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n07",
+      "subject": "Re: Something to chew on a bit...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 22, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Including message bodies in bounce notifications compromises user privacy.",
+        "A significant portion of bounced emails are due to obvious typos or unguessable outside addresses."
+      ],
+      "organizations": [
+        "Columbia University"
+      ],
+      "people": [
+        "Joe Brennan",
+        "Fuat"
+      ],
+      "summary": "Joe Brennan, an Assistant Postmaster at Columbia University, argues against the practice of including message bodies in bounce notifications. He contends that the convenience of having the body for troubleshooting does not outweigh the loss of user privacy.",
+      "title": "Re: Something to chew on a bit...",
+      "topics": [
+        "email privacy",
+        "bounce messages",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Joe Brennan <brennan@cunixf.cc.columbia.edu>",
+      "item_count": 9,
+      "item_index": 4,
+      "message_id": "<CMM.0.90.2.675030781.brennan@cunixf.cc.columbia.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n07",
+      "subject": "Re: Something to chew on a bit...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The secular model of academic freedom in the US is largely based on AAUP principles.",
+        "Academic freedom consists of freedom of inquiry, teaching, and extramural utterance.",
+        "Student due process rights were significantly advanced by the Dixon vs. Alabama State Board of Education case."
+      ],
+      "organizations": [
+        "AAUP",
+        "Alabama State College",
+        "eff.org"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "James John Annarelli"
+      ],
+      "summary": "Carl Kadie shares a summary of a book chapter by James John Annarelli regarding the secular model of academic freedom in the US. The text outlines the AAUP's definitions of faculty and student freedoms, including the concepts of Lernfreiheit and Lehrfreiheit. It highlights the evolution of student due process rights following Dixon vs. Alabama State Board of Education.",
+      "title": "Academic Freedom and Catholic Higher Education",
+      "topics": [
+        "academic freedom",
+        "student rights",
+        "due process",
+        "faculty tenure"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "\"Carl M. Kadie\" <kadie@cs.uiuc.edu>",
+      "item_count": 9,
+      "item_index": 5,
+      "message_id": "<9105230457.AA06305@herodotus.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n07",
+      "subject": "\"Academic Freedom and Catholic Higher Education\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 23, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The project seeks to compare outcomes between public and private institutions regarding computer policy breaches.",
+        "The collected data is intended to inform government bodies about the types of situations academic institutions face."
+      ],
+      "organizations": [
+        "EDUCOM",
+        "SUNY/CESF"
+      ],
+      "people": [
+        "Sally Webster"
+      ],
+      "summary": "Sally Webster, on behalf of EDUCOM's Educational Uses of Information Technology (EUIT) group, requests case studies regarding breaches of computer policies and laws at colleges and universities. The project, titled 'Ethics War Stories,' aims to collect data on how institutions handle policy enforcement and the resulting outcomes for students and faculty. The goal is to create a body of knowledge to inform government bodies and help institutions reformulate their computing policies.",
+      "title": "Need help with project",
+      "topics": [
+        "computer ethics",
+        "institutional policy",
+        "academic freedom",
+        "case studies",
+        "computing law"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Sally Webster <ACDSPW%SUVM.BITNET@CORNELLC.cit.cornell.edu>",
+      "item_count": 9,
+      "item_index": 6,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n07",
+      "subject": "Need help with project",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 25, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "University computer policies are typically established without serious user participation.",
+        "Administrations often require a 'prestigious' precedent from other universities before adopting new academic freedom policies.",
+        "Philosophical statements on digital freedoms are dismissed by administrations unless they are put into practice at major institutions."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "State University of New York, Stony Brook",
+        "American Library Association",
+        "American Association of University Professors"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Sanjay Kapur"
+      ],
+      "summary": "Carl Kadie proposes that faculty and students should have a defined role in formulating computer and networking policies. Sanjay Kapur responds by arguing that university administrations are unlikely to adopt such policies unless other prestigious institutions implement them first. Kapur seeks examples of universities that have officially adopted Computer Academic Freedom policies or incorporated ALA and AAUP statements.",
+      "title": "Re: Another Right: User Representation",
+      "topics": [
+        "user representation",
+        "governance",
+        "institutional adoption",
+        "academic freedom policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>",
+      "item_count": 9,
+      "item_index": 7,
+      "message_id": "<A4B8121466A1367F@ccmail.sunysb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n07",
+      "subject": "Re: Another Right: User Representation",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The BU policy allows the university to inspect any data or file without notice.",
+        "The policy prohibits making 'offensive' or 'annoying material' accessible.",
+        "The policy allows for amendments at any time without prior notice."
+      ],
+      "organizations": [
+        "Boston University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl Kadie",
+        "James Cameron"
+      ],
+      "summary": "Carl Kadie critiques the Boston University Information Technology ethics policy from March 1990. He argues that the policy's terms regarding data inspection and 'offensive material' are overly broad and would be unacceptable if applied to physical campus spaces. The critique highlights concerns over privacy, vague speech restrictions, and unilateral policy changes.",
+      "title": "Re: Harrassment via email",
+      "topics": [
+        "computing ethics",
+        "privacy",
+        "academic freedom",
+        "acceptable use policies",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 9,
+      "item_index": 8,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv01n07",
+      "subject": "Re: Harrassment via email",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

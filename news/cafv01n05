@@ -1,0 +1,1060 @@
+Computers and Academic Freedom (news version)
+Sun May 12, 1991
+Vol. 1, No. 5
+Editor: Carl M. Kadie (kadie@eff.org)
+
+[With the end of the school year at many places, traffic on the list
+has slowed. Readership, however, is now up to 250 in at least six
+countries.
+
+This issue includes information on how to get back issues of caf-news
+from the archives and information on how to get copies of the computer
+policies of many schools. It also has a report of attempted expression
+suppression (under the guise of political correctness?).
+
+The main topic in this issue is a discussion of exactly how the principles
+of academic freedom should be applied to computers and networks (with
+excerpted comments from Sanjay Kapur, Edward Vielmetti, George Rickerson,
+Aydin Edguer, and Rich Kulawiec.
+
+- Carl]
+
+
+In this issue:
+
+Carl Kadie       26  Which rights?
+M K Thakur       85  >Which rights? <comp-acade<><9105081744.AA15038@eff.org>
+stan k ii        73  leggo my eggo
+Carl Kadie      309  New to the Computers and Academic Freedom (CAF) archive
+Carl Kadie           >Which rights?
+     --  General comments
+     --  Freedom of expression
+     --  Privacy
+     --  Due process
+     --  Personal use
+     --  Misc
+
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Date: Tue, 7 May 91 22:46:36 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105080246.AA08144@eff.org>
+Subject: Which rights?
+
+Here is my list of academic freedoms as applied to computers:
+
+Freedom of expression
+    freedom to receive electronic mail and receive newsgroups
+    freedom to send mail and post notes to newsgroups
+Privacy
+    information in a users disk files is private
+       (the user may not own the disk, but he or she does own the information)
+   email is private
+Due Process
+   There is a general right to due process
+   notice must be given before new rules are enforced
+   warrents must be obtained prior to searches
+   rights cannot be signed away
+Access   
+   Computer and network access shall not be denied without due process
+Limits
+   If a lack of resources requires that computer use be limited,
+       that limitation should implemented by giving (or selling)
+       some quota of resources to the user. No general restrictions
+       should be made on how the user uses those resources.
+
+----------
+I'd welcome comments, additions, and criticisms.
+- Carl
+
+Message-Id: <9105082112.AA00338@zerkalo.harvard.edu>
+Subject: Re: Which rights? <comp-academic-freedom-talk-request@eff.org> 
+             <9105081744.AA15038@eff.org> 
+Date: Wed, 08 May 91 17:12:15 EDT
+From: "Manavendra K. Thakur" <thakur@zerkalo.harvard.edu>
+
+>>>>> On Wed, 08 May 91 12:33:19 CDT, George Rickerson <C6340A@UMVMA.UMSYSTEM.EDU> said:
+
+> I can't agree with your inclusion of privacy rights under the
+> heading academic freedom.  I work for a tax-supported university.
+> All of the documents I create as part of my work, including letters,
+> are the property of the university and are public documents. 
+[...]
+> If I want a letter to be private, I write it on my time, use my
+> paper, and mail it with my postage.  Similarly, if I want my email
+> to be private, I had better compose it on my workstation and mail it
+> on a service that I have subscribed to.
+
+What about the students and professors who work at the university?  Do
+all the homework assignments and term papers and final examinations
+that they produce belong to the university as well?  Are these all
+considered "public documents" as well?  I hardly think so!  I think
+students and professors would be greatly angered to find out that
+their grade records and peer-review evaluations were considered
+"public documents" and disseminated freely.
+
+Now transform that into an electronic context.  If students and
+faculty are given access to computers and the internet, are you really
+claiming that just by virtue of the fact that someone mails a letter
+from a taxpayer-funded computer that the letter then becomes
+university property and a public document?
+
+Again, I hardly think so.
+
+I think the more appropriate analogy for a computer network in this
+case would be to a US Postal Service mailbox that happens to reside on
+campus.  Both provide the means to communicate with people at local or
+remote sites.  In the case of the USPS mailbox, there are legal laws
+that protect the privacy of first class letters.  In the same way, I
+and other people on the list are arguing that it is entirely
+appropriate for the provider of an electronic mailbox -- especially if
+this is in the context of an academic community -- to install similar
+safeguards of privacy protection as the USPS.
+
+> The essential idea of academic freedom is not that my expressions
+> are private but that I am able to make those expressions, whatever
+> they may be short of something consituting moral turpitude, without
+> fear of retaliation.
+
+(Those "moral turpitude" exceptions always get my goat.  Who decides?)
+
+Another important aspect of academic freedom is the right to be free
+from unauthorized surveillance and unwarranted search and seizures -
+precisely because such activities have a chilling effect on people's
+willingess to express themselves "without fear of retaliation," as you
+put it.
+
+Now consider that these rights (no unauthorized surveillance, no
+unwarranted search and seizures, and others) are in actuality
+restrictions on the authority of administrative personnel.  Now take
+these same procedural safeguards and look at them from the point of
+view of the beneficiary of these rights: saying that "administrators
+may not perform surveillance without proper authorization" is
+equivalent to saying "people have the right to privacy and that right
+may not be infringed upon by the authorities without proper permission
+and procedural safeguards".
+
+So I would argue that the right to privacy is inherently tied with the
+"essential idea of academic freedom" - and indeed to all freedoms
+enumerated in the Bill of Rights.
+
+For a third way of looking at it, consider what academic freedom would
+be like in a perfect world.  I submit that the ultimate goal of
+academic freedom and indeed the Bill of Rights should be to make the
+need for privacy obsolete.  The way this would be attained is by
+perfecting our administrative procedures and enlightening people to
+the point that no one can be done any harm if they say unpopular
+things (yes, even if they say things constituting moral turpitude).
+
+I'm sure you're snickering by this point at my idealistic example, but
+that's just the point: since it is quite unlikely that we'll ever
+achieve such a perfect state of academic freedom, the need for privacy
+has not (and probably will not) become obsolete.  Far from it: the
+need for privacy rights is intrinsic to the notion of academic freedom
+and indeed to the idea of a free society.
+
+Manavendra K. Thakur			 Internet: thakur@zerkalo.harvard.edu
+Systems Programmer, High Energy Division BITNET:   thakur@cfa.BITNET
+Harvard-Smithsonian Center for		 DECNET:   CFA::thakur
+Astrophysics				 UUCP:	   ...!uunet!mit-eddie!thakur
+
+Message-Id: <9105101933.AA11502@eff.org>
+ 2734; Fri, 10 May 91 14:32:58 CDT
+Date:         Fri, 10 May 91 14:28:14 CDT
+From: stan kulikowski ii <STANKULI%UWF.BITNET@CUNYVM.CUNY.EDU>
+Subject:      leggo my eggo
+
+
+  if you are watching some of the other groups, we have a case study in
+computer freedom of expression going on right now.
+
+  the new list announcement service (new-list@ndsuvm1.bitnet) circulated
+the opening of a list, called legs (wyle@czheth5a), "an informal, anonymous
+list for sharing images, discussion about women's legs".  this has not been
+received favorably on the women and information technology list (educom-w
+@bitnic.bitnet).  see their subject: thread 'outrageous'.
+
+  this is an example of one network group going after another network group as
+an organized effort.  at first suggestions were to write objections to the list
+owner, mitchell wyle.  it was then suggested that they join the list and send
+objections there. recently the concensus seems to be send their objections to
+the node manager (system@czheth5a) in zurich switzerland to get the middle
+management to silence the legs group as 'inappropriate use of computer
+resources'.
+
+  when one person complains about another person on the networks, we call this
+a 'flame war'.  a few months ago there was such an outbreak on the educational
+technology group (edtech@ohstvma.bitnet) when one user flamed the use of the
+term 'sex appeal' applied to early apple2 microcomputers.  eventually flame
+wars get damped down by other readers on a list, or they move into personal
+email... where they probably belonged in the first place.
+
+  it seems that this legs/educom-w case has a parallel to flame warfare, but
+on the level of network collectives, rather than individual users.  besides
+personally flaming the list owner, they have organized an effort to go for the
+jugular: get system management to adjust the throttle on the offenders.
+
+  it would be interesting to find out how system@czheth5a responds to this
+situation.  would it matter if mitchell wyle were an art faculty conducting a
+multidisciplinary seminar in anatomical representation or just some nerd
+student with a foot fetish?
+                           stan
+
+   .                      stankuli@UWF.bitnet
+  ===
+  | |      close your eyes, my darling, or three of them at least
+  ---                                           -- old venusian lullaby
+
+>From kadie Sun May 12 23:38:05 1991
+To: cafb-mail
+Date: Sat, 11 May 91 20:10:10 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105120010.AA11281@eff.org>
+Subject: New to the Computers and Academic Freedom (CAF) archive
+
+Back issues of CAF-news are now available via anonymous ftp
+from eff.org (192.88.144.3). They are in directory academic/news.
+The issues to date are cafv01n01, cafv01n02, cafv01n03, and cafv01n04.
+
+Also, the Computer Undergound Digest's archives contains the policy
+statements from many universities. I've copied them to the CAF archive
+on eff.org. They are in directory academic/widener. I'm enclosing
+the Index file.
+
+- Carl
+
+encl: Index to policy statements of many universities
+      README file for the CAF archive
+      Info on how to get these files via email.
+================================
+index.policy
+                 This file
+                 A general Info file.
+Acadia.policy
+                 Acadia University Computer Centre, Computer Centre Policies
+                 <published>
+Baylor.policy
+                 Baylor University's Ethics Code and Policies <published>
+Bibliography
+                 A file for citations and references. 
+BITNET.policy    
+                 BITNET Abuse policy
+BostonU.policy
+                 Boston University's Policy on Computing Ethics
+                 <published>
+ColgateU.policy
+                 A policy statement from Cogate Univerity's 
+                 Student Handbook.  As well as a copy of the standard 
+                 agreement form.
+ColumbiaU.policy
+                 University of Columbia's Policy.  Permission to copy
+                 should be sent to the CUCCA seth@ctr.columbia.edu
+DanWebster.policy
+                 Daniel Webster College's policy agreements for 
+                 student employees.
+JMadisonU.policy
+                 a draft of a Computer Ethics Statement by an 
+                 Ad Hoc Committee on Computer Literacy at James Madison 
+                 University
+Kansas.State.policy
+                 A policy statement published by Computing and 
+                 Telecommunications Activities, Cardwell 20, Kansas 
+                 State University, Manhattan, Kansas 66506.  Oct. 1988
+MichStU.policy
+                 John Lees forwards a _draft_ of a policy for the College 
+                 of Engineering at Michigan State University.
+Mich.TechU.policy
+                 MTU Policies, Michigan Technological University  
+NewCastleU.policy
+  		 University of New Castle rules and regulations for central 
+                 & departmental facilities. Comments by Alan Hargraves.
+NewMexStU.policy
+                 D. Bryan Emery submits a published policy statement 
+                 from New Mexico State University.  It has evolved 
+                 from several iterations of study.  
+Other.Info
+                 Files that reference other pertinent information
+                 and sources.
+Purdue.policy
+                 Purdue Univ. Engineering policy, August 7, 1987
+RIACS.policy
+                 (Research Institute for Advanced Computer Science).
+                 It draws heavily from the MIT Project Athena policy
+                 statement posted earlier in RISKS.  
+RoseHulman.CS.policy
+		 Frank Young Chairman, Department of Computer Science
+		 Rose-Hulman Institute of Technology September, 1989
+		 Submits the Computer Science Department's policy.
+UofIdaho.policy
+                 University of Idaho's Ethics Policy <published>
+UofMissouriC.policy
+                 U of Missouri-Columbia Computing Rules and with comments
+                 Reprinted from the _Campus_Computing_Newsletter_ of the 
+                 University of Missouri- Columbia, Vol 16 Number 2, 
+                 October 1988, pages 5-6.
+                 see also the COMPUTER SCIENCE DEPARTMENT Statement on 
+                 Academic Dishonesty (UMC.CS.policy)
+UofMissouriKC.policy
+                 Computer Ethics policy University of Missouri-Kansas City
+                 From UMKC, Access A New Era, January 1988.
+                 contact "Greg Johnson -aka CCGREG@UMCVMB.MISSOURI.EDU" 
+UofMissouriRolla.policy
+                 University of Missouri-Rolla, Computing Guidelines
+                 Published June 15, 1989
+                 This statement references Missouri Revised Statutes. 
+                 contact "Greg Johnson -aka CCGREG@UMCVMB.MISSOURI.EDU" 
+UofNewMexico.policy
+                 U of New Mexico <draft>  based loosely on the Univ. 
+                 of Washington's Ethics policy.  It incorporates new 
+                 statements in the area of research on self replicating 
+                 code and is definitive about copyrights.
+UofPitt.policy
+                 Univ. of Pittsburgh  User's Guide to Academic Computing, 
+                 September 1987 (the latest handy).
+UofWales.policy
+                 U of Wales computing policy. 
+UMC.CS.policy
+                 U of Missouri-Columbia Computer Science Department 
+                 statement on academic dishonesty. <published>
+WashU.Engr.policy
+                 The Center For Engineering Computing's Unix 
+                 Instructional Account Policies
+------------
+Paper copies only:
+from CAUSE- CSD-0246 Baylor Univ. Policies. 1 page.
+	    CSD-0219 Loyla Univ.  Policies  long.
+
+
+=================
+README
+-----------------
+Computers and Academic Freedom (CAF) Archive
+
+This is an electronic library of information about computers and
+academic freedom.
+
+It is available via anonymous ftp to eff.org (192.88.144.3) in
+directory "academic". For more information, to make contributions, or
+to report typos contract Carl Kadie (kadie@eff.org).
+
+=================
+batch
+-----------------
+This is a directory of notes that have been sent over the
+comp-academic-freedom mailing list. Each file is a list
+of one week's notes (in batch form). Also, see "news".
+
+=================
+batchin
+-----------------
+This is a list of all notes that have been sent over the
+comp-academic-freedom mailing list. The notes are in the batch
+(digest) format.
+
+=================
+caf
+-----------------
+A discription to the comp-academic-freedom-talk mailing list.
+
+=================
+ecpa.1986
+-----------------
+Portions of the Electronic Communications Privacy Act of 1986 (ECPA) related
+to e-mail privacy.
+
+=================
+eff.rights
+-----------------
+An overview of the electronic frontier and the U.S Bill of Rights
+
+=================
+email.privacy.essay
+-----------------
+"Computer Electronic Mail and Privacy", an edited version of a law
+school seminar paper by Ruel T. Hernadex
+
+=================
+jmcabstract
+-----------------
+Professor John 	McCarthy lead the effort to restore "rec.humor.funny"
+at Stanford. In March of 1991, he travelled to the University of
+Waterloo, a place where "rec.humor.funny" was (and still is) banned.
+At Waterloo, he gave one talk on a new computer language and a second
+talk on "Network Publication and Free Expression". This is the
+abstract of that talk. (Also, see "stanford.statements")
+
+
+=================
+k12.networks.survey
+-----------------
+Results of a survey by EDUCOM and IBM on the status of
+computer networking in K12 education.
+
+=================
+library.canada
+-----------------
+Canadian Library Association Statement on Intellectual Freedom
+
+=================
+library.porn
+-----------------
+A parody of a real newpaper article published in the Houston Chronicle. The
+parody is my Carl Kadie. It was published in rec.humor.funny.
+
+=================
+library.us
+-----------------
+The "Freedom to Read Statement" of the American Library Association
+and Association of American Publishers.
+
+=================
+library.us.excerpts
+-----------------
+Excepts from the "Freedom to Read Statement" of the American Library
+Association and Association of American Publishers.
+
+=================
+listserv.tar
+-----------------
+Listserv code for Unix
+
+We got the code from UCSD. We improved it (mostly with modifications
+to the Makefile). Sadly, there is no real documention.
+
+=================
+ncsa.email
+-----------------
+The National Center for Supercomputer Applications (NCSA) is a department
+in the University of Illinois' Graduate College. On April 1, 1991
+the NCSA set down a new e-mail policy. The policy was cleared by the
+University's legal counsel and the Graduate College. Faculty, students,
+and researchers, however, were not consulted.
+
+This note has three parts. The first is a critique of the policy. The
+critique concludes that the policy is inconsistant with the
+Consitution, Academic Freedom, and University policy. The second part
+of this notes is the text of the policy. The third part is notes from
+a conversation with an NCSA Administrator.
+
+[On of April 23, 1991 (14 hours after this information was distributed),
+the NCSA as decided to revise its policy.]
+
+=================
+news
+-----------------
+This is a directory of all issues of the Computers and Academic Freedom News.
+
+=================
+newsin
+-----------------
+This is a list of all issues of the Computers and Academic Freedom News.
+
+=================
+nsf
+-----------------
+The tentative statement by the National Science Foundation on
+acceptable use of the backbone networks.
+
+=================
+stanford.statements
+-----------------
+"In 1989 rec.humor.funny was suppressed in some of the Stanford
+University computers.  After a campaign it was re-installed in those
+computers." 
+
+This file contains 
+1) the "Statement of Protest about the AIR Censorship of rec.humor.funny" 
+2) a statement by the Stanford faculty committee on libraries
+3) Notes from Professor John McCarthy on how censorship was fought at Stanford
+
+(also see "jmcabstract")
+=================
+student.freedoms
+-----------------
+Joint Statement on Rights and Freedoms of Students -- This is the main
+statement on student academic freedom.
+
+=================
+uiuc.code.excerpts
+-----------------
+Excerpts from the University of Illinois at Urbana-Champaign's Code on
+Campus Affairs and Regulations Applying to All Students (Aug. 1985)
+
+=================
+widener
+-----------------
+The computer polices of many schools. This is a directory of files.
+For a description of the file see file widener/Index.  (The files are
+from the Computer Underground Digest archives, available via anonymous
+ftp from ftp.cs.widener.edu.)
+
+
+=================
+=================
+Last update
+Sat May 11 20:00:36 EDT 1991
+================================
+----from comp.windows.ms -- Frequently asked questions-----
+4.  Is it possible to use a mail server instead of ftp?
+
+    There are a number of sites that archive the Usenet sources newsgroups
+    and make them available via an email query system.  You send a message
+    to an automated server saying something like "send comp.sources.unix/fbm",
+    and a few hours or days later you get the file in the mail.
+
+>>  There are several sites that will perform general FTP retrievals for
+    you in response to a similar mail query.  For information on using one
+    of them, send a message like this to info-server@cs.net :
+
+        request: info
+        topic: help-ftp
+        request: end
+
+    (NOTE: this server is currently "down for repairs".  No estimate on when
+    or if it will return.)
+
+    And for info on another one, send this message to bitftp@pucc.bitnet :
+
+        help
+
+    Please be considerate, and don't over-use these services.  If people
+    start using them to retrieve hundreds of megabytes of GIF files, they
+    will probably disappear.
+
+Date: Sun, 12 May 91 17:09:22 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105122109.AA20340@eff.org>
+Subject: Re: Which rights?
+
+Summary: General comments
+
+Last week I posted a list of how academic freedom might be applied to
+computers and networks. Several folks critiqued the list. This note
+and the ones following it are a response to questions and comments of
+the critiques. For simplicity, I'm organizing the responses by topic
+rather than correspondent. Items from the original list are marked
+with a ">". The text of the critiques is marked with "]".  (You can
+find the author particular comment by looking through the full-text
+CAF-batch archive. It is available via anonymous ftp from eff.org as
+file academic/batchin).
+
+]        While the Bill of Rights is a marvel in simplicity, your list of
+] "academic freedoms" falls short on its first two issues due to excessive
+] specificity.
+
+I agree that the list is no Bill of Rights; But hey, its only 
+the first draft.
+
+Indeed, maybe we don't even need an explicit list of computer rights.
+Maybe it is enough to say "General principles of academic freedom
+shall be fully apply computers and networks." Or even better, "General
+principles of academic freedom shall be fully apply to every aspect of
+the University."
+
+I would note, however, that Case Western has a provision like this
+with regards to censorship, and yet a student was censored. Thus, if
+only as an academic exercise, it may be valuable to spell out exactly
+how the principles of academic freedom apply to computers and
+networks.
+
+The hardest part of enumerating rights is that:
+
+] Policies which are suitable to
+] rich organizations with plenty of resources can be completely 
+] inappropriate to operations running on a shoestring.  
+
+For example, if the computing resource of a University consists of only
+five personal computers, is there any room for rights?
+
+This is a dilemma that I don't know the answer to, but here are
+some possible approaches:
+
+1. Express the rights broadly enough that they cover everything from
+five personal computers to a University with at least one computer for
+every student and a network that connects everyone.
+
+2. Assume some threshold of computing maturity. Just as not every
+school is a university and not every collection of books is a library,
+so it might be that not every set of computer resources is an X (we need
+a word for this). 
+
+My fear is that universities will see this as a loophole and will
+explicitly say "Our computer resources are not an X, so the principles
+of academic freedom do not apply." A university is more prestigious
+than a trade school. A library is more prestigious than a departmental
+reading room. An X, however, is not yet more prestigious than a highly
+restricted set of computer resources.
+
+Ideally, system administrators would fight for computer rights
+the way that librarians fight for the freedom to read and professors
+fight for academic freedom.
+
+3. Make having an X (i.e. computing resources to which the principles
+of academic freedom apply) a prerequisites for being a (good) University.
+Just as a University should have a library, it should also have an X.
+If it does not have an X (or a library, or doesn't respect the academic
+freedom of its students) it falls short of being a (good) University.
+
+- Carl
+
+Date: Sun, 12 May 91 18:31:36 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105122231.AA20822@eff.org>
+Subject: Which Rights?
+
+Summary: Freedom of expression
+
+>Freedom of expression
+>    freedom to receive electronic mail and receive newsgroups
+>    freedom to send mail and post notes to newsgroups
+
+] As long as the "freedom" is not any freer than for "paper" mail, i.e.
+] If your department allows you to send the same letter on the
+] University/department letterhead.  If your department does not allow
+] you to use the letterhead and you have to purchase your own personal
+] stationary, it is equivalent to subscribing to a commercial
+] uucp/usenet service.
+
+There are different kinds to costs. Some University costs are easily
+itemized, for example, stamps, laser printing, long distance telephone
+calls. Other costs are harder to itemize: local phone calls, use of a
+conference room, e-mail.
+
+With regard students to getting a room for a speaker to give a talk,
+the Joint Statement on Rights and Freedoms of Students says "The
+institutional control of campus facilities should not be used as a
+device of censorship."
+
+I would say that if the University can figure out how to itemize
+costs (say, for coffee at the talk) then let them pass those costs
+on. But until they do, especially, if the incremental cost are low,
+the use of those resource should be considered one of the benefits of
+paying tuition or of teaching.
+
+[As an aside, what if a school is so short of space that it can not
+provide space to students would like to invite an outside speaker. Can
+that school be a good university?]
+
+] Usenet is a useful tool for conducting certain kinds of academic research 
+] but is also widely perceived as the place where rec.humor and alt.sex reside.
+] These newsgroups may be useful for psychologists and psychiatrists. But the 
+] reason a University does not want to carry them is very similar to the reason
+] that a University Library normally does not carry XXX rated videos or Archie 
+] comics (except maybe in some places as special collections)
+
+The purpose of free expression and the freedom to read goes beyond
+what is needed to do formal research. Joint Statement on Rights and Freedoms
+of Students put it well: 
+
+'Academic institutions exist for the transmission of knowledge, the
+pursuit of truth, the development of students, and the general
+well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals its members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth.'
+
+The American Library Association's Freedom to Read Statement says:
+
+'The freedom to read is essential to our democracy.  It is continuously
+under attack.  Private groups and public authorities in various parts of the
+country are working to remove books from sale, to censor textbooks, to label
+"controversial" books, to distribute lists of "objectionable" books or authors,
+and to purge libraries.  These actions apparently rise from a view that our
+national tradition of free expression is no longer valid; that censorship and
+suppression are needed to avoid the subversion of politics and the corruption
+of morals.  We, as citizens devoted to the use of books and as librarians and
+publishers responsible for disseminating them, wish to assert the public
+interest in the preservation of the freedom to read.
+
+
+      We are deeply concerned about these attempts at suppression.  Most
+such attempts rest on a denial of the fundamental premise of democracy: that
+the ordinary citizen, by exercising his critical judgment, will accept the
+good and reject the bad.  The censors, public and private, assume that they
+should determine what is good and what is bad for their fellow citizens.'
+[end of quote]
+
+On a more specific note, many academic libraries do carry Playboy. And
+they will accept almost any donation (absorbing the relatively small
+cost of cataloging and storing the material). This policy gives the
+residents of my community a chance to read the American Atheist's
+magazine and the John Birch Society's magazine.
+
+] For instance.  I used to be system manager at a mathematics dept. at
+] a big ten school.  We were consistently short on disk space (isn't
+] everyone?).  For that reason, I decided not to get a newsfeed of
+] alt.sex.pictures, and not to go out of my way to install graphics
+] viewers.  If someone had found another way to read the group and started
+] to save pictures, I would have spoken with them and asked them to remove
+] the stuff.  Why?  not because the nudie pix were evil or anything, but
+] because there just wasn't enough room to hold them.  similarly I made
+] it clear to a user who kept voluminous logs of soap opera discussion
+] that he had to keep the size of his collection in check; whereas if the
+] same user had generated big numerical math results it would have been 
+] just fine.  so I guess I have to disagree with the implications of the
+] "limits" argument you present; an effective system manager may have to
+] take into account (in some general way) the contents of the data stored
+] on disk, and make policies according to how it relates to the academic
+] mission you are part of.
+
+I see limiting access of a newsgroup based on volume (e.g.
+alt.sex.pictures) as much better than limiting access based on content
+(e.g. alt.sex, rec.humor.funny.) The problem is (to use a poker
+expression) keeping the Sys Admin honest (not *you* of course,
+*other* sys admins). I see giving users a quota of disk space that
+they can assign to newsgroups as one possible mechanism. If disk space,
+is really, really, really short all bets are off.
+
+] Finally this assumes that a department is willing to say that any newsgroup
+] is valid to its research, which is what the equipment is to be used for.
+] This is simply not true.  Not all equipment in a department is funded for
+] education, sometimes the equipment is donated or bought using funds that
+] have strict limitations on its use.  Thus allowing news or external e-mail
+] access of any sort may be a violation of the equipment grant.
+
+Consider two scenarios:
+
+1) A donor offers the University a new classroom building but
+only on the condition that no student or faculty organzations
+supporting gay rights be allowed to meet there.
+
+2) A donor offers the University a new chip fabrication
+building with no classrooms or meeting space at all. Thus, no
+gay-rights organziations could meet there.
+
+In the first scenario, I would hope that that University would refuse
+the gift as being inconsistent with the Univerty's principles. In my
+opinion, the second scenario would be OK. Thus, I would modify the
+rights list to say something like
+
+If the incremental cost is small then there is a
+>   right to receive electronic mail and receive newsgroups
+>   right to send mail and post notes to newsgroups
+And, in any case, mail and newsgroups shall not be censored
+
+] The right of freedom of speech (academic or not) does not incur a
+] corresponding responsibility on anyone's part to provide the method
+] and means with which to exercise that right.  In other words, my
+] freedom so speak doesn't mean that you have to pay for the soapbox.
+
+] If a university wishes (for example) to not carry news, or to make
+] news read-only, that's not an infringement of academic (or other) freedoms.  
+] Nor is it an infringement if the university chooses not to support
+] off-campus e-mail, or to join one network instead of another, or to
+] join none at all.  I think we probably all hope that universities will
+] choose to make news and mail as available as they can, given their
+] limited resources; but I think it's reaching to elevate these conveniences
+] to the same status as basic "rights".
+
+Under the principle of academic freedom, your tuition or work at a
+University *does* give you right to use certain resources to express
+your opinion (and to hear the opinion of others). Cost can be a
+legitimate reason for restricing resources, but the content of the opinion
+can not.  (Thus, I can think of no legitimate reason for a university
+to make newsgroups read-only.)
+
+Date: Sun, 12 May 91 18:58:03 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105122258.AA20974@eff.org>
+Subject: RE: Which rights?
+
+Summary: Privacy
+
+>Privacy
+>    information in a users disk files is private
+>       (the user may not own the disk, but he or she does own the information)
+>   email is private
+>   warrants must be obtained prior to searches
+
+] Are the contents of your office wooden or steel desk private?  Can the
+] University remove or open your desk or file cabinet?  Under what
+] circumstances?  ( I mean dEsk not dIsk) Are the contents your
+] secretary's desk private? What if your secretary also happens to be a
+] student?
+
+and
+
+] I can't agree with your inclusion of privacy rights under the heading
+] academic freedom.  I work for a tax-supported university.  All of the
+] documents I create as part of my work, including letters, are the property
+] of the university and are public documents.  That is, access to the
+] contents of those documents is a matter of university policy and has
+] nothing to do with my personal privacy.  I can't see that any different
+] standard would apply to electronic documents.
+
+As matter of fact my desk is private. When I lived in the dorm, by
+dorm room was private. Here what the the Joint Statement on Rights and
+Freedoms of Students says:
+
+'1. Except under extreme emergency circumstances, premises occupied
+by students and the personal possessions of students should not be
+searched unless appropriate authorization has been obtained. For
+premises such as residence halls controlled by the institution, an
+appropriate and responsible authority should be designated to whom
+application should be made before a search is conducted. The
+application should specify the reasons for he search and the objects
+or information sought. The student should be present, if possible,
+during the search. For premises not controlled by the institution,
+the ordinary requirements for lawful search should be followed.'
+
+Here is what my Univerity's student code says:
+"IV. Privacy
+
+A. Members of the University community have the same rights of
+privacy as other citizens and surrender none of those rights by
+becoming members of the academic community. These rights of privacy
+extend to residence hall living. Nothing in University regulations or
+contracts shall give University officials authority to consent to a
+search by police or other government officials of offices assigned or
+living quarters leased to individuals except in response to a properly
+executed search warrant or search incident to an arrest.
+
+B. When the University seeks access to an office assigned or living
+quarters leased to an individual to determine compliance with
+provisions of applicable multiple-dwelling unit laws, ordinances, and
+regulations, or for improvement or repairs, the occupant shall be
+notified of such action not less that twenty-four hours in advance.
+There may be entry without notice in emergencies where imminent
+danger to life, safety, health, or property is reasonably feared and
+for custodial service.
+
+C. The University may not conduct or permit a search of an office
+assigned or living quarters leased to an individual except in
+response to a properly executed search warrant or search incident to
+an arrest."
+
+Also, if you work for a public university you also have a constitutional
+right to privacy. [From the ACLU handbook on the rights of teachers]
+
+"An anonymous cartoon had appeared in a local newspaper ridiculing the
+financial and personnel policies of the Fair Lawn, New Jersey, Board of
+Education by depicting the board members a poker players, apparently
+gambling away emplyees' salaries and jobs. Suspecting the guidance
+counselor as the offending cartoonist, a board member entered the
+guidance counselor's school at night, found a janitor with a pass key,
+directed him to unlook the door to the guidance counselor's suite, and
+observing a slightly opened drawer in the guidance counselor's disk,
+pulled it completely open, revealing copies of the cartoon. The court
+ruled that this action violated the guidance counselor's Fourth
+Amendment rights."  [This case is very similar to the incident which
+apparently motivated the NCSA's policy.]
+
+Date: Sun, 12 May 91 19:14:26 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105122314.AA21105@eff.org>
+Subject: RE: Which rights?
+
+Summary: Due process
+
+>Access   
+>   Computer and network access shall not be denied without due process
+>Due Process
+>   There is a general right to due process
+>   notice must be given before new rules are enforced
+
+] What do you mean by "due process"?  Without a definition this statement has
+] little semantic value.
+
+and
+
+] i also have some difficulty in the interpretation of your "due process"
+] clause.  when I started as a system admin, there was no departmental
+] "policy document" to speak of, and no real time to write one.  I suspect
+] that university policy would have kicked in if need had arisen, fortunately
+] it didn't.  Decisions were ad hoc at times, within the constraints of
+] "what will the faculty advisors think" and "what will the chairman think".
+] Lots of "new rules" were enforced as needed on a sort of seat of the
+] pants basis, as I say there was no real time to codify them all.  Had
+] there been a real serious disagreement of opinion, I suppose I would have
+] had to fall back on general department or college (or university) 
+] procedures.
+
+I think must students and faculty see having a note censored, a disk
+file search, a computer account taken away, access to the net taken
+away, etc, as serious penalties and are thus entitled to due process
+protection. Specifically, here is what the Joint Statement on Rights
+and Freedoms of Students says:
+
+A. Standards of Conduct Expected of Students
+
+
+  The institution has an obligation to clarify those standards of
+behavior which it considers essential to its educational mission and
+its community life. These general behavioral expectations and the
+resultant specific regulations should represent a reasonable
+regulation of student conduct, but the student should be as free as
+possible from imposed limitations that have no direct relevance to his
+education. Offenses should be as clearly defined as possible and
+interpreted in a manner consistent with the aforementioned principles
+of relevance and reasonableness. Disciplinary proceedings should be
+instituted only for violations of standards of conduct formulated with
+significant student participation and published in advance through
+such means as a student handbook or a generally available body of
+institutional regulations.
+
+[Section B is about searches. See the earlier note.]
+
+C. Status of Student Pending Final Action
+
+  Pending action on the charges, the status of a student
+should not be altered, or his right to be present on the
+campus and to attend classes suspended, except for
+reasons relating to his physical or emotional safety and
+wellbeing, or for reasons relating to the safety and well-being
+of students, faculty, or university property.
+
+D. Hearing Committee Procedures
+
+  When the misconduct may result in serious penalties and if the
+student questions the fairness of disciplinary action taken against
+him, he should be granted, on request, the privilege of a hearing
+before a regularly constituted hearing committee. The following
+suggested hearing committee procedures satisfy the requirements of
+procedural due process in situations requiring a high degree of
+formality.
+
+  1. The hearing committee should include faculty members or students,
+or, if regularly included or requested by the accused, both faculty
+and student members. No member of the hearing committee who is
+otherwise interested in the particular case should sit in judgment
+during the proceeding.
+
+  2. The student should be informed, in writing of the reasons for the
+proposed disciplinary action with sufficient particularity, and in
+sufficient time, to insure opportunity to prepare for the hearing.
+
+  3. The student appearing before the hearing committee should have the
+right to be assisted in his defense by an adviser of his choice.
+
+  4. The burden of proof should rest upon the officials bringing the
+charge.
+
+  5. The student should be given an opportunity to testify and to
+present evidence and witnesses. He should have an opportunity to hear
+and question adverse witnesses. In no case should the committee
+consider statements against him unless he has been advised of their
+content and of the names of those who made them, and unless he has
+been given an opportunity to rebut unfavorable inferences which might
+otherwise be drawn.
+
+  6. All matters upon which the decision may be based must be
+introduced into evidence at the proceeding before the hearing
+committee. The decision should be based solely upon such matters.
+Improperly acquired evidence should not be admitted.
+
+  7. In the absence of a transcript, there should be both a digest and
+a verbatim record, such as a tape recording, of the hearing.
+
+  8. The decision of the hearing committee should be final, subject
+only to the student's right of appeal to the president or ultimately
+to the governing board of the institution.'
+
+Date: Sun, 12 May 91 19:52:47 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105122352.AA21296@eff.org>
+Subject: Which Rights?
+
+Summary: Personal use
+
+> No general restrictions should be made on how the user uses those resources.
+
+] This goes against the current academic standards.  Restrictions against
+] using academic resources for personal or commercial gain are an integral
+] part of most academia.  This is a valid general restriction, thus your
+] right will immediately be invalidated.
+
+I am aware that most universities restrict commercial use of university
+resources (unless you cut them in). I accept this. In fact, for a state
+school, commercial use may be illegal.
+
+I am not aware of general prohibitions of personal, noncommercial use.
+Is it against the rules to read a magazine in the University library
+just for fun?
+
+My university does restrict the use of campus (paper) mail. This may
+be legitimate because delivering personal mail would have a significant
+effect on costs. Note, however, they should be fair and impartial in
+how such rules are applied (if they are a public institution, they must
+be fair and impartial). They shouldn't turn a blind eye to personal
+mail except when they are out to get someone. They shouldn't say that
+campus mail against unionization is ok, but campus mail for it is
+prohibited.
+
+Most organizations (even the NCSA) realize that personal use of
+computer communications is inevitable. In fact, most organization
+see it has desirable since it builds relationships and motivates
+people to learn to use the technology. It is very hard to draw a
+distinction between legitimate personal development and illegitimate
+personal development.
+
+What about using CPU cycles for personal uses like games or making
+shopping lists. Consider the use of classroom space. Classes have a
+higher priority, but the science fiction club can usually get space at
+night.  I would hope that rather than a blanket prohibition,
+University's would allow some "free" use either at certain times of
+day or by giving users some quota of CPU to be used as they wish.
+
+- Carl
+
+Date: Sun, 12 May 91 20:11:23 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105130011.AA21448@eff.org>
+Subject: Which Rights?
+
+Summary: Misc
+
+] Here I want to propose another "freedom": there should be 
+] an appeals process against "bad" rules.
+
+Good point. Students and Faculty should have a voice in creating
+policy and in changing policy. Here is what the Joint Statement on Rights
+and Freedoms of Students says:
+
+'C. Student Participation in Institutional Government
+
+      As constituents of the academic community, students should be
+free, individually and collectively, to express their views on issues
+of institutional policy and on matters of general interest to the
+student body. The student body should have clearly defined means to
+participate in the formulation and application of institutional policy
+affecting academic and student affairs. The role of the student
+government and both its general and specific responsibilities should
+be made explicit. and the actions of the student government within the
+areas of its jurisdiction should be reviewed only through orderly and
+prescribed procedures.'
+
+
+>   rights cannot be signed away
+
+] Have you ever been admitted to a Hospital? :-) or obtained credit? :-) or 
+] served in the armed forces ?
+
+]Anyone can sign rights away. When someone wants to retract their consent, the 
+] questions that a court asks include: 
+] 	a) Did the person knowingly sign them away?
+] 	b) Was any physical coercion use?
+] 	c) Was the period that the rights were signed away for an
+] 	   unreasonably long period?
+] 	d) Was it lawful for the person to ask you to sign away your rights?
+
+A ploy that some institutions use is to make the user sign, as a
+condition of getting a computer account, a form that says "It is OK
+with me if y'all search my files anytime you want for no good reason
+or kick me off the system without telling me why." Such waivers should
+be abolished.
+
+Well, this is the last note of this round. I would like to see a
+dialog on these issues. Again your comments and criticisms are
+welcome. (Also, if someone posts a criticism, you are more than
+welcome to respond.)
+
+- Carl
+
+

@@ -1,0 +1,1658 @@
+Computers and Academic Freedom News
+Vol. 01, No. 41
+
+[Week ending December 8, 1991
+   [The guest editor this week is Bob Solon. For information
+    on being a guest editor, send email to archive-server@eff.org.
+    Include the line:  send acad-freedom call-for-guest-editors
+    - Carl Kadie]
+
+========================== KEY ================================
+The words after the numbers are a summary of the article and not
+necessarily my opinion.
+===============================================================
+
+Articles 1-4 concern computer policies at various universities.
+
+1.  A staff librarian at the U. of Newcastle Libraries reports and comments
+on policy currently under discussion regarding acceptable-use and access
+policies for their computers.  In particular, the policy "You may not use
+the University's computing facilities to send obscene, offensive, bogus,
+harassing, or illegal messages" generated much concern, as did the proposal
+to limit student access to AARNet (Australian equivalent of Usenet) only
+to research or study purposes.  There was little concensus about
+the validity of the new policies in the Newcastle user community.
+    <43858C4B08C002AE@cc.newcastle.edu.au>
+
+2. Carl Kadie defends his (from an earlier article) criticisms of
+aspects of the University of Iowa computing policies, specifically:
+"Sending rude, obscene, or harassing material via any electronic mail
+or bulletin board facility is strictly forbidden."  Several court cases
+are cited in support of the position that "It is not the job of the
+government to enforce concepts of courtesy, cooperation, and common
+sense with respect to expression."
+    <1991Dec3.045840.18238@eff.org>
+
+3.  According to a Duke University faculty member, who received his
+information from a College Press Service paraphrase, the University
+of Washington stopped carrying "...a computer channel containing
+pornograhic materials...." presumably alt.sex.pictures.  Apparently
+the University stopped this group in response to a negative article
+about to be printed in the Seattle _Post-Intelligencer_.
+    <393@news.duke.edu>
+
+4. A member of the Oxford University (UK) astrophysics department
+reports on the the unavailability of the alt.sex.* hierarchy and some
+other parts of the alt.* hierarchy at his university.  He also believes
+that the situation at Oxford is similar throughout the UK.
+    <1991Nov27.110018.3066@vax.oxford.ac.uk>
+
+Articles 5-8 discuss issues of user privacy vis-a-vis computers.
+
+5. A sysadmin explains some positive uses for the ps command, and defends
+generally the idea that "...if you don't have anything to hide, you have
+no reason for privacy" in the context of computer systems.  He also
+advocates educational "cross-pollination"  and productivity from
+relatively open systems, especially in an educational environment.
+    <1991Nov27.031621.4433@usl.edu>
+
+6.  A sysadmin summarizes a previous post about privacy on computer
+systems that says that the free flow of ideas is not the same as the free
+flow of "more mundane personal data."  He then contrasts this position
+with his own, i.e., the difference between protected information as that
+"for which a legitimate use has not been found" and protected information
+as "all information which is not inherently sensitive" but excluding
+email, which has an "expectation of privacy."
+    <1991Dec3.004350.10326@usl.edu>
+
+7. A user continues the privacy discussion by critiquing the idea tha
+t says that just because something is not technically unconstitutional,
+that it is acceptable.  He posits that free speech and privacy are not
+necessarily incompatible, indicts the "if you have nothing to hide, you
+have no reason for privacy" idea as a slippery-slope to erosion of
+individual rights in general, and argues that "there will always be
+tension between privacy and he free flow when it comes to certain kinds
+of information. "
+    <199112042116.AA08975@eff.org>
+
+8. Another user indicates his own views on privacy in computer systems.
+He believes that "...the contents of an academic computer, other than
+directory information and any publicly posted material, are private
+unless their owners or creators choose to make them public."  He also
+suggests that such a policy should also pertain to students and staff,
+as well as faculty.
+    <199112050610.AA19751@eff.org>
+
+Articles 9-12 contain list various resources useful in discussions
+of computers and academic freedom.
+
+9.  Listed is a bibliography on e-mail privacy, reposted with
+permission from the researcher.
+    <1991Dec2.161917.2116@darwin.ntu.edu.au>
+
+10. The various files that are available from the CAF archive are
+listed, along with instructions on how to retrieve them and short
+summaries of each subject heading.
+    <1991Dec2.213719.6458@eff.org>
+
+11.  A list of free speech resources that are available from the
+CAF law archive are summarized and explained.
+    <1991Dec2.025652.9833@eff.org>
+
+12. A student lists legal resources available online from the
+Sydney University Law School archives.
+    <1991Dec1.121032.2094@darwin.ntu.edu.au>
+
+Bob Solon, bsolon@dsac.dla.mil
+Guest Editor
+]
+
+In this issue:
+
+ULGSM@brolga    189  U. of Newcastle policies
+Carl M. Kadie    90  >BS!
+John Whitehead   30  U. Washington stops feed of alt.sex.pix
+clements@vax     40  Censorship in Oxford was <>sgroups CENSORED in Cincinnati
+Eric Lee Green   72  >System Accounting: Fascist Tool?
+Eric Lee Green  104  >On privacy
+U15289@UICVM    137  Positivism, privacy, and the flow of information
+Dean Gottehrer   35  >
+neely_mp@darwin 178  Privacy Bibliography
+Carl M. Kadie   161  FAQ: archive
+Carl M. Kadie   310  >Mark Law ...
+
+
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the line:
+  send acad-freedom README
+
+Disclaimer: This CAF-news was compiled by a guest editor or by me,
+Carl M. Kadie. It is not an EFF publication. The views I express and
+editorial decisions I make are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From: ULGSM@brolga.newcastle.edu.au
+Subject: U. of Newcastle policies
+Message-ID: <43858C4B08C002AE@cc.newcastle.edu.au>
+Sender: ULGSM@brolga.newcastle.edu.au
+Date: 6 Dec 91 22:00:00 GMT
+
+I have been reading the Computers and Academic Freedom (news version)
+for some time now, with great interest, but without being sure that it
+was all that relevant to my own institution.  However, on 21 November 1991,
+in vol. 1 no. 39, Carl M. Kadie commented:
+
+> It looks like Boston University and Ohio State University will need to
+> cut their connections to on-line catalogs. The on-line catalogs also
+> might violate the restrictions of the Computer Science Department at
+> the University of Texas at Austin, the University of Newcastle's
+> University Computing Services, and James Madison University. (I'm
+> enclosing the relevant parts of the polices.)
+
+...
+
+> The University of Newcastle's University Computing Services says:
+> "You may not use the University's computing facilities to send ...
+> offensive ... messages." [ftp.eff.org:pub/academic/widener/newcastleu]
+
+This was the first time that I, as a user of the University of Newcastle's
+computing services, had heard of this policy.
+
+The University of Newcastle Computer Users Forum met on 5 December 1991 to
+discuss various issues, including:
+
+> 2. USE OF COMPUTING FACILITIES
+>
+>   A copy of the conditions for the use of computing facilities in the
+>   University is enclosed.  This document has been endorsed by Academic
+>   Senate and Council as the "plain English" regulations for the use of
+>   computing facilities by members of the University.
+>
+> 3. LIMITS ON STUDENT ACCESS TO AARNet
+>
+>   In view of the escalating costs of operation of AARNet and, more
+>   particularly, the incidence of abuse of AARNet by 'hackers' wishing
+>   to enter off-campus computing systems, the Computing Committee has
+>   recommended to Academic Senate that students not have access to
+>   AARNet unless it is prescribed for their course of study or research
+>   program.
+
+I attended this meeting, along with 40-50 others.  Readers of Computers
+and Academic Freedom may be interested in my (biased) report on the
+meeting.
+
+I think that these two issues (the conditions for the use of the computing
+facilities, and student access to AARNet, the Australian equivalent of
+INTERNET) are related.  Certainly, the discussion of the issues at the
+Computer Users Forum covered a lot of the same ground.  However, I will
+discuss them in seriatim.
+
+
+Use of Computing Facilities
+---------------------------
+
+The conditions on the use of computing facilities which generated most
+discussion were:
+
+> Failure to abide by the following terms will be treated as misconduct
+> and may result in disciplinary action including denial of access to
+> the facilities concerned. In particular, if, in the opinion of the
+> Director, University Computing Services, you have failed to abide by
+> these terms, you may be denied access to computing facilities or to
+> the University's communications network.
+
+...
+
+> You may not use the University's computing facilities to send obscene,
+> offensive, bogus, harassing or illegal messages.
+
+It was made clear in the discussion of the former that this meant that the
+Director, University Computing Services, had the power to fail a student by
+denying him/her access to computing facilities.
+
+Some people at the forum expressed their concern that the conditions had
+not developed a mechanism to deal with breaches: their concern was that they
+might spend considerable effort in finding evidence of a "hacker", only to
+find their effort wasted and the hacker allowed to escape without punishment.
+
+I raised the issue of the ban on "obscene, offensive, bogus, harassing or
+illegal messages".  Australia does not have an equivalent of the First
+Amendment to the U.S. Constitution; but it does have a long tradition of
+democracy, freedom of speech, and academic freedom.  I was therefore
+surprised that several people thought that these restrictions were reason-
+able.  However, the Chairperson of the Forum, Bruce Cheek, said that he
+thought legal advice could be sought of this condition.
+
+I would think that the condition should be confined to "bogus" and
+"harassing" messages, and that these should be narrowly defined. In the
+past, many works of literature have been banned (in Australia and else-
+where) as "obscene" - works such as James Joyce's _Ulysses_ and D.H.
+Lawrence's _Lady_Chatterly's_Lover_, which are now studied in universities
+like the University of Newcastle.
+
+The word "offensive" is far too broad - "offensive" to whom?  Many people
+find the truth offensive.  At one time, the Catholic Church found the theory
+that the Earth rotates around the Sun offensive; and today, some people find
+the Darwinian theory of evolution offensive.
+
+The word "illegal" is also too broad.  I am sure that this is not a com-
+prehensive list, but in New South Wales a message might be illegal
+because it is:
+   * seditious
+   * in contempt of court
+   * in contempt of Parliament
+   * in contempt of the Industrial Relations Commission
+   * racist
+   * against the Public Sector Management Act (N.S.W.), which forbids
+comments on departmental policy by public servants.
+All these messages can be punished by the appropriate court or tribunal.
+It should not be up the Director, University Computing Services, to give
+a second punishment to (for example) a school teacher and part-time
+university student who criticises a policy of the New South Wales
+Department of School Education on one of the University's computers.
+
+
+Limits on Student Access to AARNet
+----------------------------------
+The University od Newcastle has decided to limit access to AARNet (the
+Australian Academic and Research Network, which is the Australian
+equivalent to, and linked with, the INTERNET).  It will be available to
+only those students who need it for their study or research.  Various
+reasons have been given for this, including:
+   * Increasing costs of AARNet
+   * The danger of hackers using AARNet
+   * The use of AARNet requires use of University of Newcastle computing
+facilities, which are scarce resources provided for University purposes.
+
+The question of the costs of AARNet is a bit of a red herring, as for the
+universities belonging to AARNet the cost is fixed regardless of the use
+made of AARNet.
+
+There was some discussion of AARNet security.  The analogy was made of a
+road with cars and houses on it.  Everyone can use the road, and it is the
+responsibility of the owners of the cars and houses to make sure that they
+are locked if they don't want others to use them.
+
+I argued that the policy showed a very limited view of university education.
+The policy seems to be based on the idea that students should confine them-
+selves to what is taught in their lectures and read only those textbooks
+which have been prescribed for them to read.  I made the analogy with the
+university library.  It would be easy to implement a policy that students
+may only use books which have been prescribed for their courses; and indeed
+such a policy might have some advantages, because it would mean that
+researchers would be more likely to find the books and journals they need
+in the library.  However, all users of the library can have access to all
+material in the library: staff may be able to borrow books longer than
+students, and staff may be able (in our case) to borrow journals, while
+students may only use the journals in the library; but there in nothing in
+the library that cannot be used by students, regardless of whether it is
+relevant to their course.
+
+The policy is difficult to implement: it had occurred to me that it might
+be possible to implement it by restricting use of commands like FTP, MAIL and
+TELNET to certain users, but these can be used to link the various computers
+within the university.  Thus an English major or a Sociology major can FTP
+or TELNET to the Engineering computer or the Mathematics computer within
+the university, but cannot (according to this policy) use the computer
+systems to link to systems and people in other universities which might be
+related to his/her interests.
+
+One concern I have is that this ban on student access to AARNet might be
+in a selective way: it might only be implemented if a student posts a
+message to an external newsgroup which criticises or embarrasses the
+University of Newcastle.
+
+
+Conclusion
+----------
+
+These matters have not yet been finally resolved in my opinion, as there
+has been some opposition to the restrictive policies of the University of
+Newcastle.  One person commented towards the end of the two hour meeting
+of the Computer Users Forum: "30% of us strongly support this policy, 30%
+are strongly opposed to it, and 40% want to go to lunch."  So far, there
+has been no opinions expressed on these matters by students of the Uni-
+versity of Newcastle, and there are not likely to be any for a while, as
+we are just starting our long vacation now, and students will not be back
+until February 1992.
+
+
+Giles Martin
+Deputy Technical Services Librarian (Monographs)
+University of Newcastle Libraries
+
+AARNet/INTERNET:  ulgsm@cc.nu.oz.au
+
+I wish that these opinions were the opinions of the University of
+Newcastle, but they are not.
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: BS!
+Message-ID: <1991Dec3.045840.18238@eff.org>
+References: <1991Dec2.040913.5347@news.iastate.edu>
+Date: Tue, 3 Dec 1991 04:58:40 GMT
+
+(A second response)
+
+kadie@eff.org, paraphrasing an article by kadie@eff.org,
+writes:
+
+>4. Iowa State University policy prohibits the sending of "rude"
+>material. This policy is very likely infringes on
+>Constitutionally-protected rights. References are enclosed.
+>    <1991Nov14.203127.16256@eff.org>
+
+S2.RSB@isumvs.iastate.edu (Bob Boston) writes:
+
+>    The following guidelines govern ethical computer use at Iowa State
+>    University:
+[...]
+>    #  Sending rude, obscene or harassing material via any electronic mail
+>       or bulletin board facility is strictly forbidden.
+[...]
+>Please note that the existing guidelines refer only to "University Computing
+>Facilities."  These facilities are owned or paid for by Iowa State University
+>and the Iowa Board of Regents, not by the students and teachers who use the
+>facilities. Students and teachers who use their own computers and public
+>networks like GEnie and CompuServe are free to be as rude as they wish.  But
+>if they use computers and networks supported by Iowa State they must abide by
+>the guidelines established by the owner of those computers and networks.
+[...]
+>IMHO, saying "Rudeness is not a crime" is putting the emPHAsis on the wrong
+>sylLABle. Any action not defined as a crime is permissable?  In other words I
+>can spit in your face and seduce your wife without worrying you?  I can call
+>you a motherf****r without raising your ire?
+
+>It may be that rudeness is *the* crime in reasoned discourse, for it usually
+>involves an attack on the person rather than an argument against the person's
+>ideas. In thinking so much about legalities, you may have forgotten more basic
+>concepts of courtesy, cooperation and common sense.
+
+>Bob Boston
+>Writing Labs Director
+>English Department
+>Iowa State University
+[...]
+
+It is not the job or place of the government to enforce concepts of
+courtesy, cooperation and common sense with respect to expression.
+That should and is done with social pressure.
+
+In _Hustler Magazine v. Falwell_, the Supreme Court wrote "in public
+debate our own citizens must tolerate insulting, and even outrageous
+speech in order to provide adequate breathing space to the freedoms
+protected by the First Amendment."
+
+To paraphrase the ACLU handbook on the _Rights of Teachers_:
+generally, speech, if otherwise shielded from punishment by the First
+Amendment [or Academic Freedom -cmk], does not lose that protection
+because its tone is sharp.  Discussions will not always be models of
+decorum. A court observed that "often those with the power to appoint
+will be on one side of a controversial issue and find it convenient to
+use their opponent's momentary stridency as a pretext to squelch
+them."
+
+Also, of interest are two recent federal district decisions. In _UWM
+POST v. U. of Wisconsin_ and _Doe v. U. of Michican, the courts struck
+down campus speech codes saying that they violated the First Amendment.
+(_UWM Post_ involved email.) The full text of both decisions is
+available via anonymous ftp from directory ftp.eff.org:pub/academic/law.
+
+The _UWM Post_ decision concludes: "The founding fathers of this
+nation produced a remarkable document in the Constitution but it was
+ratified only with the promise of the Bill of Rights.  The First
+Amendment is central to our concept of freedom.  The God-given
+"unalienable rights" that the infant nation rallied to in the
+Declaration of Independence can be preserved only if their application
+is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+
+
+
+
+--
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: jfw@neuro.duke.edu (John F. Whitehead)
+Subject:  U. Washington stops feed of alt.sex.pix
+Message-ID: <393@news.duke.edu>
+Date: 19 Nov 91 21:51:01 GMT
+
+According to an item in the Duke _Chronicle_, which paraphrased a
+College Press Service release, the University of Washington
+"recently terminated a computer channel containing pornographic
+materials".  I assume this is a reference to alt.sex.pictures.
+These pictures "could be accessed freely by students and faculty"
+and they could be "easily copied" to other computers.
+
+And the reason why the University stopped it?  Were minors looking
+at the pictures?  Were they obscene?  Did the University previously
+ban pornographic magazines from dorm rooms?
+
+No, the Seattle _Post-Intelligencer_ was about to write an article
+about the "channel's" existence at the University.  University
+officials cut the feed hours before the article was to appear.
+
+I haven't heard anything else on this -- are there other details
+or results of this action?  Perhaps someone more familiar with
+this can fill us in...
+
+
+This story made it sound like it was a UW-only "channel".  There
+were no references in it that any other university (or Duke for
+that matter) had access to it as well!
+
+--
+ ________________________________________________________________________
+|   John      jfw@neuro.duke.edu          Duke University Medical Center |
+| Whitehead   jfw@well.sf.ca.us           Department of Neurobiology     |
+|________________________________________ Durham, North Carolina ________|
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: clements@vax.oxford.ac.uk
+Subject:  Censorship in Oxford was Re: SEX pic newsgroups CENSORED in Cincinnati
+Message-ID: <1991Nov27.110018.3066@vax.oxford.ac.uk>
+Date: 27 Nov 1991 11:00:18 GMT
+
+In article <1991Nov15.233915.306@ucbeh.san.uc.edu>, temple@ucbeh.san.uc.edu writes:
+> I logged onto my Vax account today and went to, as I am bound to do,
+> the newsgroup reader on our Vax (VMS). Sometimes, old or bogus
+> newsgroups are deleted when I first run the program. This is normal
+> and everybody has seen this before. However, tonight when I opened the
+> reader, I saw this:
+>
+>         Old newsgroup: alt.binaries.pictures.erotica, deleted from NEWSRC
+>         Old newsgroup: alt.binaries.pictures.erotica.blondes, deleted from NEWSR
+>         Old newsgroup: alt.binaries.pictures.erotica.d, deleted from NEWSRC
+>         Old newsgroup: alt.binaries.pictures.erotica.female, deleted from NEWSRC
+>         Old newsgroup: alt.binaries.pictures.tasteless, deleted from NEWSRC
+>         Old newsgroup: alt.sex.pictures, deleted from NEWSRC
+>         Old newsgroup: alt.sex.pictures.d, deleted from NEWSRC
+>         Old newsgroup: alt.sex.pictures.female, deleted from NEWSRC
+>
+
+You think you've got problems?
+Here in Oxford, and I think the UK generally, we have never even seen these
+groupd once! And alt.pictures.bin got deleted here a few weeks ago. We also do
+not get, among others...
+
+ALL of the alt.sex hierarchy
+alt.drugs
+alt.backrubs (or has this died???)
+
+While the pictures groups do take a lot of space, the general discussion lines
+don't take too much. If space was a problem I would expect us not to establish
+new groups, and we certainly do take new groups.
+
+I think this is a general UK problem, but it is very annoying...
+
+
+================================================================================
+Dave Clements, Oxford University Astrophysics Department
+================================================================================
+clements @ uk.ac.ox.vax			|  Umberto Eco is the *real* Comte de
+dlc      @ uk.ac.ox.astro		|           Saint Germain...
+================================================================================
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: elg@usl.edu (Eric Lee Green)
+Subject: Re: System Accounting: Fascist Tool?
+Message-ID: <1991Nov27.031621.4433@usl.edu>
+Date: 27 Nov 91 03:16:21 GMT
+Article-I.D.: usl.1991Nov27.031621.4433
+References: <9111252053.AA09129@uoftcse.cse.utoledo.edu>
+Sender: anon@usl.edu (Anonymous NNTP Posting)
+
+In article <9111252053.AA09129@uoftcse.cse.utoledo.edu> brack@uoftcse.cse.utoledo.edu (Brack) writes:
+>In article <1991Nov25.162134.6865@eff.org> you write:
+>: Resolved: Use of the Unix "ps" command should be severely restricted
+>: for the sake of user privacy.
+>:
+>: Believe it or not, I'm going to take the negative position and defend
+>: "ps".
+>:
+>: -------
+>	It is not the users place to decide what processes are allowed
+>	to be executed by other users.  That is a function of the
+>	sysadmin (remember the concierge theory?).  I don't want
+
+Well: I agree, that there should be a per-process option which
+restricts what information is available to "ps". HOWEVER: here's
+something that actually happened:
+
+A person ran MIT C-Scheme. This is a huge memory hog that has a 4 megabyte
+memory image. He typed (quit) to exit the Scheme environment. He wasn't
+Unix-adept, so he didn't know what "job stopped xyzzzy" meant... he assumed
+that it meant that Scheme had died and gone away.
+
+He then edited his Scheme file (sure, he should have control-Z'ed, but
+Unix neophyte, remember?) and then ran Scheme again.
+
+Note: Now we have TWO schemes running, taking up 8 megabytes of swap space.
+
+Repeat several times.
+
+Get message, "Out of swap space" when try to spawn a process.
+
+I typed ps -augxw at my terminal, trying to figure out what the heck
+was going on, and noticed all these Schemes. I noted the tty that this
+was being run from, and wandered over there and let him know what he was
+doing wrong.
+
+Now, who did I harm? Seems to me that yes, I could have reported it to an
+administrator... but I'd still be waiting for someone to kill all those
+old processes off :-).
+
+>	anyone who does a ps -a to know what I'm doing.  If I want\
+>	people to know, I'll tell them, but I don't want information
+>	private to me to be given to anyone who asks without my permission.
+
+I'm of the old hacker school. I don't believe in either privacy or
+administrators :-). The way I figure it, if you don't have anything to
+hide, you have no reason for privacy. Now, I'll agree that in a corporate
+environment privacy is a necessity. But this is the academic environment,
+built around free flow of information. Restrict that free flow of information,
+and you get less productivity, less cross-pollination of ideas between
+people, less of what universities are set up to do.
+>
+>	What good would it do the other users to see his/her runaway
+>	process?  The only ones who can stop it are the student &
+>	the admin, in any case.
+
+Well, knowing what the runaway process is allows me to go over to that
+person's terminal and say "hey, did you know that you were using 90% of
+the CPU?". It also allows me to go straight to the operator and tell him
+exactly what is going on... note that this guy in the machine room isn't
+a professional, probably just a graduate assistant, and expecting him
+to know his way around the system is like expecting a blind man to see :-).
+(In other words, expecting him to be able to figure out how to solve the
+problem all by himself just isn't realistic).
+
+
+--
+--
+  Eric Lee Green   P.O. Box 92191  Lafayette, LA 70506 (318) 989-8950
+Internet: elg@elgamy.raidernet.com   UUCP: uunet!mjbtn!raider!elgamy!elg
+     "It's never too late for a happy childhood" -- The Doctor
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: elg@usl.edu (Eric Lee Green)
+Subject: Re: On privacy
+Message-ID: <1991Dec3.004350.10326@usl.edu>
+Date: 3 Dec 91 00:43:50 GMT
+References: <199112022109.AA05709@eff.org>
+Sender: anon@usl.edu (Anonymous NNTP Posting)
+
+In article <199112022109.AA05709@eff.org> U15289@UICVM.uic.edu writes:
+>In article <1991Nov27.031621.4433@usl.edu>, elg@usl.edu (Eric Lee Green) says:
+>>The way I figure it, if you don't have anything to hide,
+>>you have no reason for privacy. Now, I'll agree that in a corporate
+>>environment privacy is a necessity. But this is the academic environment,
+>>built around free flow of information. Restrict that free flow of information,
+>>and you get less productivity, less cross-pollination of ideas between
+>>people, less of what universities are set up to do.
+>
+>     To me, at least, this sounds uncomfortably like the great words of Edwin
+>Meese, to the effect that a person not formally charged with a crime is not a
+>suspect, and by implication need not enjoy the full protection of the Bill of
+>Rights.
+
+You are confusing "free speech" with "privacy". Note that I mentioned
+"free flow of information", which implies freedom of speech. Freedom of
+speech is explicitly written into the Bill of Rights. Privacy outside of
+the confines of your home is NOT explictly written into the Bill of Rights,
+though the Supreme Court has ruled from time to time that certain privacy
+rights are "implied" by various phraces in the Bill of Rights.
+
+I suppose that I agree with Richard Stallman when it comes to system
+security and "what is appropriate in an academic research environment".
+He holds that all information in the system should be accessible to all.
+The "system" being an academic research system, that is, and not, say,
+academic records, which are protected by law (note, by law, NOT by the
+Constitution). Knowing who is logged in and doing what is one of those
+useful pieces of information to someone interested in the free flow of
+ideas, because it allows me to know who has similar interests to me
+and who is working in the same areas as I am. Keeping that information
+secret would impede the cross-pollination that often results in
+innovation, by reducing the flow of useful information. Similarly,
+removing "finger" would mean that I couldn't get the full name, office
+number, and office phone number of those people doing things on the
+computer that I am interested in. "Privacy", in these two instances
+at least, would definitely impede the free flow of information that
+helps keep the academic environment innovative.
+
+  It seems to me that contemporary American society is making a disquiet
+>ing evolutionary shift toward what Jeane Kirkpatrick, of all people, has called
+>the "institutionalization of distrust;" or away from a "presumption of liberty"
+>to a "presumption of regulation."  Both within and outside the context of com-
+
+I agree. The fact that some people on this group object to the "finger"
+command and the "what" command under Unix is a perfect example of that.
+Removing the ability of someone to find out who other users are and what
+they are doing implies that you distrust this person and don't trust him
+to deal wisely with the information (e.g., maybe use the information to
+crank-call someone rather than to get in touch with someone doing your
+kind of work). Similarly, many people seem to distrust what Americans would
+do with perfect liberty, and impose regulation in order that these nasty
+Americans don't do "nasty things" with that liberty.
+
+>one, he seems to gloss over the distinction between the real or imagined phen-
+>omenon of institutional privacy (a term apparently coined in a 1985 opinion by
+>then-appellate judge Antonin Scalia), and the very real (if severely beleagur-
+>ed) phenomenon of individual privacy.
+
+I submit that individual privacy is much more threatened by credit-reporting
+agencies and "child abuser databases" than by anything that corporations do
+with equipment that they own. I can choose to leave an employer who does not
+respect my privacy. On the other hand, information in databases such as the
+above is available to thousands of institutional subscribers, sharing my
+personal buying habits with thousands of people who I don't want to know
+about my life, and if the information so shared is wrong, it is very
+difficult to get that information changed or deleted. There are other things
+that corporations do that violate your right to do what you will during
+your off-hour times -- e.g., see the oilfield case where they ordered some
+men to lose weight and fired those men who didn't -- but this is totally
+different from what happens on office equipment during office time.
+
+
+>individuals, in a variety of ways.  With respect to the other issue, the flow
+>of what information, he seems to be confusing the free flow of _ideas_--some-
+>thing all of us presumably would endorse--with the free (overly so, in the
+>judgment of some)--flow of more mundane personal data, without regard to whose
+
+It seems to me that there's an important issue here: what constitutes
+"protected" information?
+
+You hold that protected information consists of all information for which
+a legitimate use has not been found.
+
+I hold that protected information consists of all information which is not
+inherently sensitive. With a slight digression for EMAIL, where there is
+an "expectation of privacy" (else it would be posted to a public newsgroup).
+
+We're at a deadlock here. I hold that facilitating a free flow of information
+in an academic environment requires making as much information as possible
+freely available (with the exception of EMAIL and "sensitive" info). You
+hold that we should not make information available until we find a valid use
+for it. In other words, if I want to find out whether Dennis is a user on
+this system or not, you'd make me want to go through the step of detirmining
+whether this is a valid use of the information in the "passwd" file before
+considering that yes, maybe this isn't a violation of Dennis's privacy.
+Meanwhile, I'd have to try to track down Dennis (he's never in his office)
+instead of simply  sending him some EMAIL...
+
+--
+--
+  Eric Lee Green   P.O. Box 92191  Lafayette, LA 70506 (318) 989-8950
+Internet: elg@elgamy.raidernet.com   UUCP: uunet!mjbtn!raider!elgamy!elg
+     "It's never too late for a happy childhood" -- The Doctor
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: U15289@UICVM.uic.edu
+Subject: Positivism, privacy, and the flow of information
+Message-ID: <199112042116.AA08975@eff.org>
+Sender: U15289@UICVM.uic.edu
+Date: 4 Dec 91 16:35:09 GMT
+
+>In article <1991Dec3.004350.10326@usl.edu>, elg@usl.edu (Eric Lee Green) says
+(in response to my response to his November 27 posting):
+
+>You are confusing "free speech" with "privacy". Note that I mentioned
+>"free flow of information", which implies freedom of speech. Freedom of
+>speech is explicitly written into the Bill of Rights. Privacy outside of
+>the confines of your home is NOT explictly written into the Bill of Rights,
+>though the Supreme Court has ruled from time to time that certain privacy
+>rights are "implied" by various phraces in the Bill of Rights.
+
+     To me, this smacks of the same sort of positivist reasoning for
+which recent nominees to the Supreme Court have become notorious.  The
+fact that certain invasions of privacy are technically not unconstitutional, or
+even contrary to statute, does not make them any less a miscarriage of
+justice.
+
+     As for Green's second point, "free speech" is typically _not_ incom-
+patible with "privacy" (though some types of published references to a
+person may, in fact, be invasive).   Whether or not the "free flow of
+information" is invasive depends on what kind of information is actually
+flowing in a given instance.
+
+>I suppose that I agree with Richard Stallman when it comes to system
+>security and "what is appropriate in an academic research environment".
+>He holds that all information in the system should be accessible to all.
+
+     If construed literally, this would include all users' files and the
+contents thereof, passwords, etc.  Terms must be defined more specifically
+on this.
+
+>The "system" being an academic research system, that is, and not, say,
+>academic records, which are protected by law (note, by law, NOT by the
+>Constitution).
+
+     This is another example of the same constitutional positivism I just
+alluded to.
+
+>Knowing who is logged in and doing what is one of those
+>useful pieces of information to someone interested in the free flow of
+>ideas, because it allows me to know who has similar interests to me
+>and who is working in the same areas as I am. Keeping that information
+>secret would impede the cross-pollination that often results in
+>innovation, by reducing the flow of useful information. Similarly,
+>removing "finger" would mean that I couldn't get the full name, office
+>number, and office phone number of those people doing things on the
+>computer that I am interested in. "Privacy", in these two instances
+>at least, would definitely impede the free flow of information that
+>helps keep the academic environment innovative.
+
+     Granted, information of this sort probably is not inherently sensi-
+tive most of the time.  The fact that one is logged on, I would not consider
+sensitive, nor the use of logon ID's to point to public directory information
+(over which, BTW, individals do--and should--have a measure of control,
+with respect to what items of information are disseminated in this manner,
+if any.)
+
+>I can choose to leave an employer who does not respect my privacy.
+
+     This has been cited as a defense of the "employment at will" doctrine,
+and has been discredited on the grounds of the unequal power of employers
+and employees.
+
+>It seems to me that there's an important issue here: what constitutes
+>"protected" information?
+
+>You hold that protected information consists of all information for which
+>a legitimate use has not been found.
+
+     I said nothing of the sort; nor did I say anything in my original posting,
+judging from my reexamination thereof a couple of minutes ago, from which
+that inference could reasonably be made.  My attitude is actually the
+opposite of what Green asserts it is:  that to explicitly restrict the
+dissemination of any given information should require a specific rationale.
+
+>I hold that protected information consists of all information which is not
+>inherently sensitive.
+
+     This is a logical _non sequitur_.  I think he's gotten his terms
+confused.  It still remains to be seen what he really means by "protected
+information."
+
+>With a slight digression for EMAIL, where there is
+>an "expectation of privacy" (else it would be posted to a public newsgroup).
+
+     A stipulation, in effect, that information that is "not inherently
+sensitive" can still carry an "expectation of privacy."
+
+>We're at a deadlock here. I hold that facilitating a free flow of information
+>in an academic environment requires making as much information as possible
+>freely available (with the exception of EMAIL and "sensitive" info). You
+>hold that we should not make information available until we find a valid use
+>for it. In other words, if I want to find out whether Dennis is a user on
+>this system or not, you'd make me want to go through the step of detirmining
+>whether this is a valid use of the information in the "passwd" file before
+>considering that yes, maybe this isn't a violation of Dennis's privacy.
+>Meanwhile, I'd have to try to track down Dennis (he's never in his office)
+>instead of simply  sending him some EMAIL...
+
+     There is less of a deadlock here than Green thinks, possibly arising from
+his misinterpretation of my position on what belongs in the "free flow of
+information," but having partly to do with confusion between what, for want of
+any better terms, I shall call the "micro" and "macro" levels of this issue.
+
+     I personally have no problem with the fact of my being logged on at a
+given moment, or my user ID, being made known.  What computing activities I am
+engaged in may or may not be a legitimate concern, as has recently been
+discussed at length in these pages.  I do not, however, believe that these are
+things that all persons have an inalienable, _a priori_ right to know, such
+that it would be impossible for sysadmins to justify the failure to provide
+them.
+
+     The more important issue, I think, goes beyond the mundane example that
+seems to be the ultimate driver of this debate.  The categorical statement
+"if you don't have anything to hide, you have no reason for privacy"--
+which is what set me off on this thread in the first place--carries some
+extremely dangerous implications for individual freedoms, and not just
+those of computer users.  Green's other sweeping assertion, that to
+"Restrict [the] free flow of information [is to] get less cross-pollination
+of ideas between people," is less of a potential time bomb for personal
+freedoms, even for personal privacy, as long as it is made explicit what
+information is at issue.  There will always be tension between privacy and the
+free flow when it comes to certain kinds of information.  What information
+with potential privacy implications should be allowed to flow to whom, and for
+what purposes, can and should be considered only in the context of specific
+types of information and the possible implications of their dissemination.
+The rhetoric on these issues needs to be more nuanced, and needs especially
+to keep the differences between the micro (computational) and macro (societal)
+levels in view.
+
+     Be all this as it may, I ruefully detect the potential for a flame war
+here.  As such, I would encourage caf-talk readers other than Green and myself
+to contribute their own thoughts on these issues.
+
+
+                                           Mitch Pravatiner
+                                           U15289@uicvm.uic.edu
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: FFDMG@ALASKA.BITNET (Dean Gottehrer)
+Subject: Re: Positivism, privacy, and the flow of information
+Message-ID: <199112050610.AA19751@eff.org>
+Sender: FFDMG%ALASKA.BITNET@CORNELLC.cit.cornell.edu
+Date: 4 Dec 91 12:09:13 GMT
+
+Thanks, Mitch, for an invitation to join the debate.  I hope we can keep this
+out of the flame war arena where more fire than light is created.
+
+I read the line about "if you don't have anything to hide, you have no reason
+for privacy" and thought it made about as much sense to me as automatically
+assuming that anyone who asserts his or her consitutional Fifth Amendment
+rights is guilty of a crime.  Innocent people accused of crimes are just as
+entitled to the right not to respond as guilty folks are.  Similarly, people
+with nothing to hide are also entitled to privacy.
+
+Not everything about any person's life is public.  Some things are
+private--not because anyone of us wants to hide them, but because the Supreme
+Court has determined we have a right to privacy and certain parts of our lives
+are lived in private and not out in public for everyone to see.
+
+For much of that same reason, I think the contents of an academic computer,
+other than directory information and any publically posted material, are
+private unless their owners or creaters choose to make them public.  Research
+that faculty conduct is not public until they make it so by publishing it in
+some way.  Just because a faculty member has files on the academic computer
+does mean that everyone should have the ability to look around and read
+them--unless, of course, the faculty member makes them public.
+
+And for whatever my two cents are worth, I think the same privacy rights
+pertain to students and staff.  We are not yet at the point where everything
+everyone owns or creates is open to anyone else to read.  Does that mean a
+faculty member who doesn't want his research public until he chooses to
+publish it has something to hide?  I don't think so.  I would rather view it
+as his right to shape a work in progress, refine and polish it, until he
+believes it is ready to face the world.
+
+Best,
+Dean Gottehrer
+Anchorage, Alaska
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: neely_mp@darwin.ntu.edu.au
+Subject:  Privacy Bibliography
+Message-ID: <1991Dec2.161917.2116@darwin.ntu.edu.au>
+Date: 2 Dec 91 07:19:17 GMT
+
+Howdy,
+
+I have been having an e-mail conversation with Stacy Veeder for several
+days on the topic of e-mail privacy. She mailed me this bibliography
+which she has compiled for two papers which she is currently writing.
+
+I post it here with permission.
+
+PS - She is interested in talking with anyone who has some views on the
+topic/information to share.
+
+Mark N.
+
+_______
+
+From:	SMTP%"@CUNYVM.CUNY.EDU:SBVEEDER@SUVM.BITNET"
+
+From:      Stacy Veeder <SBVEEDER%SUVM.bitnet@CUNYVM.CUNY.EDU>
+
+***********************BIBLIOGRAPHY BEGINS HERE*************************
+
+Bairstow, Jeffrey, "Who Reads Your Electronic Mail?" Electronic
+   Business (June 11, 1990), 16(11):92.
+
+Barlow, John Perry [barlow@well.sf.ca.us], "Crime and Puzzlement:
+   Desperados of the Datasphere" (1990), Whole Earth Review (in
+   press as of 6/91), distributed through Usenet newsgroup sci.virtual-
+   worlds [15948.9007180105@hydra.unm.edu].
+
+Brown, Bob, "EMA Urges Users To Adopt Policy on E-Mail Privacy,"
+   Network World (October 29, 1990), 7(44):2 (two pages).
+
+Burke, Steven, "Electronic-Mail Privacy To Be Tested in Court in
+   Suit Against Epson," PC Week (August 20, 1990), 7(33):124.
+
+Casatelli, Christine, "Setting Ground Rules for Privacy," Comput-
+   erworld (March 18, 1991), 25:47 (two pages).
+
+Caldwell, Bruce, "Big Brother Is Watching," Information Week
+   (June 18, 1990), (275):34 (three pages).
+
+Caldwell, Bruce, "E-Mail Privacy: A Raw Nerve For Readers," In-
+   formation Week (July"30, 1990), (280):52 (two pages).
+
+Caldwell, Bruce, "E-Mail Privacy Issues Raised," Information Week
+   (August 13, 1990), (282):14 (two pages)
+
+Caldwell, Bruce, "Whose Mail Is It Anyway?  Companies are Con-
+   fronting the E-Mail Privacy Issue Head-On,"  Information Week
+   (August 20, 1990), (283):53.
+
+Computer Underground Digest (November 13, 1990), 2(2.11), avail-
+   able as sjg.warrant.CuD through anonymous ftp at eff.org and
+   distributed through Usenet newsgroup alt.society.cu-digest.
+
+Conca, Mike [conca@handel.cs.colostate.edu], "E-Mail Privacy"
+   (May 23, 1991), distributed as Article 45 through Usenet news"
+   group comp.admin.policy [15110@ccncsu.colostate.edu]; also
+   distributed through Usenet newsgroup comp.unix.admin.
+
+Davis, Fred, "Beware: 'Little Brother' May Be Reading Your Mail,"
+   PC Week (October 29, 1990), 7(43):198.
+
+Denning, Peter J., "The Internet Worm," in Denning, Peter J.
+   (ed.), Computers Under Attack: Intruders, Worms, and Viruses
+   (New York: Addison-Wesley Publishing Company, 1990), pp. 193-
+   200.
+
+Doty, Phil, Doctoral Student, Syracuse University School of In-
+   formation Studies, Presentation to IST 553, June"12, 1991.
+
+Eisenberg, Ted, et al., "The Cornell Commission: On Morris and
+   the Worm," Communications of the ACM (June 1989), 32(6):706-09
+   [reprinted in Denning (ed.)].
+
+Electronic Privacy Act of 1986, P.L. 99-508 (100 Stat. 1848).
+
+Eskow, Dennis, "Lawyers Warn: Don't Back Up Your E-Mail; Anything
+   Transmitted on E-Mail May Be Held Against You," PC Week
+   (September 11, 1989), 6:81 (two pages).
+
+Freedom of Information Act of 1986, 5 USC 552.
+
+Higgins, Steve, "E-Mail Experts On Guard Over Security Leaks," PC
+   Week (July 30, 1990), 7:43 (two pages).
+
+Higgins, Steve, "Emergency cc:Mail Upgrade Combats Security
+   Breach," PC Week (April 9, 1990), 7:1 (two pages).
+
+Higgins, Steve, "Message Monitor Gives Users Eagle-Eye View of E-
+   Mail Flow," PC Week (March 25, 1991), 8:5.
+
+Highland, Harold Joseph, "Security: If the Password's 'Anything
+   Goes,' It's Your Loss," Government Computer News (October 29,
+   1990), 9(23):61 (two pages).
+
+Kadie, Carl [kadie@cs.uiuc.edu], "Computers and Academic Freedom
+   Mailing List," available as caf through anonymous ftp at
+   eff.org.
+
+LaPlante, Alice, "Epson E-Mail: Private or Company Information?"
+   Infoworld (October 22, 1990), 12(43):66.
+
+"Managers 'Remain Dangerously Complacent About Computer Secu
+   rity,'" Computergram International (October 29, 1990), (1542).
+
+Markoff, John, "Furor Erupts From Computers in Politics," The New
+   York Times (May 4, 1990), 139:A8(N), A12(L).
+
+Miscellaneous documents, available in a single file as ncsa.email
+   through anonymous ftp at eff.org.
+
+Miscellaneous files available through ftp eff.org (/academic sub
+   directory).
+
+Miscellaneous messages posted to caf-talk@eff.org (through list-
+   serv@eff.org).
+
+Miscellaneous postings distributed through Usenet newsgroup
+   comp.admin.policy.
+
+Molloy, Maureen, "NW [Network] User Panel Takes Stand on E-Mail
+   Privacy," Network World (November 5, 1990), 7(45):2 (two
+   pages).
+
+Montz, Lynn B., "The Worm Case: From Indictment to Verdict," in
+   Denning, Peter J. (ed.), Computers Under Attack: Intruders,
+   Worms, and Viruses (New York: Addison-Wesley Publishing Com-
+   pany, 1990), pp. 260-63.
+
+Nash, Jim, "E-Mail Lawsuit Cranks Open Privacy Rights Can of
+   Worms," Computerworld (August 13, 1990), 24:7.
+
+Nash, Jim and Harrington, Maura J., "Who Can Open E-Mail?" Com-
+   puterworld (January 14, 1991), 25:1 (two pages).
+
+Reid, Brian, "Reflections on Some Recent Widespread Computer
+   Break-Ins," in Denning, Peter J. (ed.), Computers Under
+   Attack: Intruders, Worms, and Viruses (New York: Addison-
+   Wesley Publishing Company, 1990), pp. 145-49.
+
+Rochlis, Jon A. and Eichin, Mark W., "With Microscope and Tweez-
+   ers: The Worm from MIT's Perspective," in Denning, Peter J.
+   (ed.), Computers Under Attack: Intruders, Worms, and Viruses
+   (New York: Addison-Wesley Publishing Company, 1990), pp. 201-22.
+
+Savage, J.A., "E-Mail Bust Generates Privacy Rights Uproar," Com-
+   puterworld (January 23, 1989), 23:2.
+
+Spafford, Eugene H., "Crisis and Aftermath," in Denning, Peter J.
+   (ed.), Computers Under Attack: Intruders, Worms, and Viruses
+   (New York: Addison-Wesley Publishing Company, 1990), pp. 223-
+   43.
+
+Stewart, John [jstewart@rodan.acs.syr.edu], Consultant, Syracuse
+   University Academic Computing Services, Presentation to IST
+   553, June 12, 1991.
+
+Stoll, Clifford, The Cuckoo's Egg: Tracking a Spy Through the
+   Maze of Computer Espionage (New York: Doubleday, 1989).
+
+Scott, Karyl, "IAB To Begin Trial of Proposed E-Mail Security
+   Standards," PC Week (March 27, 1989), 6:35 (two pages).
+
+Turner, Judith Axler, "Messages in Questionable Taste on Computer
+   Networks Pose Thorny Problems for College Administrators,"
+   Chronicle of Higher Education (January 24, 1990), A13, A16.
+
+Steven Jackson Games' subsequent complaint against the Secret
+   Service et al. is available as sjg.complaint through anonymous
+   ftp at eff.org.
+--
+
+    Mark Neely			InterNet: neely_mp@darwin.ntu.edu.au
+    Research Student
+    Northern Territory Uni. Law School
+    Darwin, NT Australia
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: kadie@eff.org (Carl M. Kadie)
+Subject: FAQ: archive
+Message-ID: <1991Dec2.213719.6458@eff.org>
+Date: Mon, 2 Dec 1991 21:37:19 GMT
+
+q: What files are available from the Computers and Academic Freedom
+archive?
+
+a: The Computers and Academic Freedom archive includes several
+subarchives. Each archive is described by a file named README.
+
+- Carl
+
+Annotated References
+
+All these documents are available on-line. To get them by email, send
+email to archive-server@eff.org. Include the line(s):
+  send acad-freeedom README
+  send caf-batch README
+  send civics README
+  send caf-law README
+  send library-policies README
+  send caf-news README
+  send other-comp-policies README
+  send widener-collected-comp-policies README
+
+The files are also available via anonymous ftp from ftp.eff.org
+(191.88.144.3) as file(s):
+  pub/academic/README
+  pub/academic/batch/README
+  pub/academic/civics/README
+  pub/academic/law/README
+  pub/academic/library/README
+  pub/academic/news/README
+  pub/academic/policies/README
+  pub/academic/widener/README
+
+
+Here is a description of the files:
+
+=================
+README
+=================
+Computers and Academic Freedom (CAF) Archive
+
+This is an electronic library of information about computers and
+academic freedom.
+
+It is available via anonymous ftp to ftp.eff.org (192.88.144.3) in
+directory "pub/academic". It is also available via email. For
+information on email access send email to archive-server@eff.org. In
+the body of your note include the lines "help" and "index".
+
+For more information, to make contributions, or to report typos
+contract Carl Kadie (kadie@eff.org).
+
+=================
+batch/README
+=================
+This is a directory of notes that have been sent over the
+comp-academic-freedom mailing list. Each file is a list
+of one week's notes (in batch form). Also, see "news".
+
+=================
+civics/README
+=================
+Directory of general documents related to government. It includes the
+U.S. Constitution and mailing addresses for U.S. Senators and
+Representatives.
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/civics".
+For email access, send email to archive-server@eff.org. Include the
+line:
+      civics <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+=================
+law/README
+=================
+CAF Law Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of law related to computers and academic
+freedom. It includes both case law and legislation.
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/law".
+For email access, send email to archive-server@eff.org. Include the
+line:
+      send caf-law <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information or to make contributions, contact Carl Kadie
+(kadie@eff.org).
+
+=================
+library/README
+=================
+Library Policy Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of library policy statements. It
+includes the American Library Association's Freedom To Read statement
+and the ALA Library Bill of Rights. (The ALA material is made
+available by permission of the American Library Association.)
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/library".
+For email access, send email to archive-server@eff.org. Include the
+line:
+  send library-policies <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact Carl Kadie (kadie@eff.org).
+
+=================
+news/README
+=================
+This is a directory of all issues of the Computers and Academic
+Freedom News. A full list of abstracts is available in file
+"abstracts". The special best-of-the-month issues are named with their
+month, for example, "June".
+
+=================
+policies/README
+=================
+Computer Policy and Critiques Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is a collection of the computer policies of many schools and
+networks. The collection also includes critiques of some of the
+policies.
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/policies".
+For email access, send email to archive-server@eff.org. Include the
+line:
+  send other-comp-policies <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact Carl Kadie (kadie@eff.org). Directory "widener" contains
+additional policies (but not critiques).
+
+=================
+widener/README
+=================
+This directory is a mirror of ftp.cs.widener.edu:pub/cud/schools/*.
+It is a collection of the computer polices of many schools. For a
+description of the file see file "widener/Index". Also see directory
+"policies".
+
+
+--
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+
+
+
+
+
+
+
+ .
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Mark Law ...
+Message-ID: <1991Dec2.025652.9833@eff.org>
+References: <9112020135.AA20464@m.cs.uiuc.edu>
+Date: Mon, 2 Dec 1991 02:56:52 GMT
+
+>mitra@ece.wisc.edu (Hirak Mitra) writes:
+
+>I am to apologize (says my advisor) regarding "Racism, Rednecks and Such",
+>to a man named Mark Law. Furthermore, I am to post a copy of this apology
+>on rec.humor. This is what I am doing.
+[...]
+>Mark Law
+>mal@terminator.cc.umich.edu
+
+>Dear Mr. Law:
+[...]
+
+Speech restrictions at Mr. Mitra's school and Mr. Law's school have
+been struck down by federal courts. The basis of these decisions is
+that public universities are free market places of ideas. "Bad" ideas
+should, therefore, be out competed, not outlawed. I'm enclosing
+information on how to get the full text of these decisions.
+
+Carl Kadie, Computers and Academic Freedom Archivist
+
+---------
+=================
+README
+=================
+CAF Law Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of law related to computers and academic
+freedom. It includes both case law and legislation.
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/law".
+For email access, send email to archive-server@eff.org. Include the
+line:
+      send caf-law <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information or to make contributions, contact Carl Kadie
+(kadie@eff.org).
+
+=================
+access.minors
+=================
+Comment from the ACLU's Handbook on the _Rights of Authors and
+Artists_ (1984). It says that protecting minors was held to be an
+inadequate justification for such a severe interference with adults'
+First Amendment rights.
+
+=================
+bbs.kahn
+=================
+Full copy of "Defamation Liability of Computerized Bulletin Board
+Operators and Problems of Proof" by John R. Kahn
+
+=================
+bbs.riddle
+=================
+Full copy of "THE ELECTRONIC PAMPHLET--COMPUTER BULLETIN BOARDS AND THE LAW"
+by Michael H. Riddle
+
+=================
+brandenberg-v-ohio
+=================
+In e-mail, a correspondent expressed the view that there was no right
+to speech that advocated violence. This response is based on U.S. law.
+It is a summary of the ACLU's Bill of Rights Briefing Paper #10:
+Freedom of Expression. The Supreme Court's standard is that speech may
+not be suppressed or punished unless it is intended to produce
+'imminent lawless action' and it is 'likely to produce such action.'
+
+=================
+constitution.us
+=================
+The Constitution of the United States
+
+=================
+constraints.constitutional
+=================
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_ by Partrica A. Hollander, D. Parker Young, and Donald D.
+Gehring.  (College Administration Publication, 1985).  Discusses the
+constitutional constraints on public universities including the
+requires for freedom of expression, freedom against unreasonable
+searches and seizures, due process, specific rules.
+
+=================
+constraints.contractual
+=================
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_. Explains that University Code is part of the contract
+between the student and school. The University can be liable for a
+breach of the contract (i.e. for not following its own rules).
+
+=================
+cubby-v-compuserv
+=================
+Report of a federal district court case which said that BBS owners
+cannot be held liable for the content they know beforehand that the
+stories are false.
+
+=================
+doe-v-u-of-michigan
+=================
+This is Doe v. University of Michigan. In this widely referenced
+decision, the district judge down struck the University's rules
+against discriminatory harassment because the rules were found to be too
+broad and too vague.
+
+=================
+due-process.buchanan
+=================
+Quotes about the due process requirements of "notice of charges" and
+"find of facts" at a formal administrative hearing. The quotes are
+from:
+
+_Procedural due process guidelines for disciplinary hearings resulting
+in suspension or expulsion in higher education_ by Ernest T. Buchanan
+III. Published by Education/Law Research Associates, 1972
+
+=================
+due-process.french
+=================
+Quotes about the due process requirements of "notice of charges" and
+"find of facts" at a formal administrative hearing. The quotes are
+from:
+
+_The Redefinition of the Exclusionary Rule as to Student Procedural
+Due Process in High Education_. A monograph from the Office of the
+General Counsel [of Southern Illinois University] by Dr. Larry L.
+French, General Counsel, 1977.
+
+=================
+due-process.weckstein
+=================
+Quotes about the due process requirements of "notice of charges" and
+"find of facts" at a formal administrative hearing. The quotes are
+from:
+
+_School Discipline and Student Rights: an advocate's manual_ by
+Paul Weckstein, revised edition, 1982, Center for Law and
+Education.
+
+=================
+ecpa.1986
+=================
+Portions of the Electronic Communications Privacy Act of 1986 (ECPA) related
+to e-mail privacy.
+
+=================
+gillard-v-schmidt
+=================
+Description of an appellate court ruling that the school board could
+not search the desk of a school counselor without a warrant.
+
+=================
+goss-v-lopez.fischer
+=================
+Comments from _Teacher's and the Law_, 3rd edition, by Louis Fischer,
+et al. Published in 1991 by Longman. It reports that the Supreme Court
+says that some modicum of due process is necessary unless the matter
+is trivial or there is an emergency.
+
+=================
+goss-v-lopez.mnookin
+=================
+Comments from _In the Interest of Children_, R. Mnookin (Ed.),
+Franklin E.  Zimring and Rayman L.  Solomon (Contrib. Authors). It
+reports that the Supreme Court says that some modicum of due process
+is necessary unless the matter is trivial or there is an emergency.
+Also,
+
+=================
+hustler-magazine-v-falwell
+=================
+Summary from _The First Amendment Book_ by Robert J. Wagmam, p. 157.
+The publisher of a cartoon parody, already found not to be libelous,
+could not be punished for the emotional distress the cartoon may have
+caused. The Court wrote: "in public debate our own citizens must
+tolerate insulting, and even outrageous speech in order to provide
+adequate breathing space to the freedoms protected by the First
+Amendment."
+
+=================
+keyishian-v-board-of-regents
+=================
+In this Supreme Court case, the Court said that public universities
+can not infringe on the Constitutionally protected rights of their
+students and employees (specially with regard to loyalty oaths).
+
+=================
+meritor-v-vinson
+=================
+This is Meritor Savings Bank FSB v. Vinson. This is the Supreme Court
+decision that recognized illegal sexual harassment in the form of a
+"hostile environment" at the work place. It is referenced in the two
+university speech code decisions.
+
+=================
+mills-v-bd-of-ed
+=================
+Summary from the ACLU's Handbook _The Right of Students_ 3rd Edition
+by Janet.  R. Price, Alan H. Levine, and Eve Cary. p. 61. It says
+before you can be severely punished, you have a due process right to
+know the specific acts you are charged with committing and the
+specific rules that those acts violate.
+
+=================
+mt-healthy-v-doyle
+=================
+_Due Process for School Officials: A Guide for the Conduct of
+Administrative Proceedings_ by Edgar H. Bittle (1986) says that a
+formal hearing should make a detailed "findings of fact" list.
+
+
+=================
+perry-v-perry
+=================
+Comments from the ACLU Handbook _The Rights of _Teachers_. It says
+that campus mail systems (and other school facilities) can be limited
+public forums. (Perry v. Perry was about an interschool mail system.
+It was one of the cases that defined the Public Forum Doctrine.)
+
+Also, a paraphrase from an ACLU handbook _The Rights of Teachers_. It
+says that generally, speech, if otherwise shielded from punishment by
+the First Amendment, does not lose that protection because its tone is
+sharp.
+
+Also, from p. 92, it says that there are legal limits to what a
+(public) school can ask its teachers to sign. [Some of these same
+limits might apply to what a school can ask a user to sign as a
+condition of getting (or keeping) a computer account.]
+
+=================
+privacy.electronic.bill
+=================
+The text of Simon's electronic privacy bill, S. 516. "To prevent
+potential abuses of electronic monitoring in the workplace."
+
+=================
+privacy.email
+=================
+"Computer Electronic Mail and Privacy", an edited version of a law
+school seminar paper by Ruel T. Hernadex
+
+=================
+privacy.workplace
+=================
+Comments from and about _The new hazards of the high technology
+workplace_ see (1991) 104 _Harvard Law Review_ 1898. Talks about email
+and other electronic monitoring.
+
+=================
+rust-v-sullivan
+=================
+The decision and decent for the so-called abortion information gag
+rule case. The decision explicitly mentions universities as a place
+where free expression is so important that gag rules would not be
+allowed.
+
+=================
+san-diego-committee-v-gov-bd
+=================
+Excerpts from San Diego Committee v.  Governing Bd., 790 F.2d 1471
+(1986).  A decision by an appellate court that applied the Supreme
+Court's Public Forum Doctrine.
+
+=================
+stanley-v-magrath
+=================
+Comments from _Public Schools Law: Teachers' and Students' Rights_ 2nd
+Ed. by Martha M. McCarthy and Nelda H. Cambron-McCabe, published in
+1987 by Allyn and Bacon, Inc. It says, in part, "[a]lthough school
+boards are not obligated to support student papers, if a given
+publication was originally created as a free speech forum, removal of
+financial or other school board support can be construed as an
+unlawful effort to stifle free expression." Also, "school
+authorities cannot withdraw support from a student publication simply
+because of displeasure with the content" and "the content of a
+school-sponsored paper that is established as a medium for student
+expression cannot be regulated more closely than a nonsponsored
+paper". Also, it tells what to do about libel in student
+publications.
+
+=================
+student-publications.misc
+=================
+The book _Law of the Student Press_ by the Student Press Law Center
+(1985,1988), says that four-letter words are protected speech, that
+public universities are not likely to be liable for publications that
+they for which they do not control the contents, and that the
+_Hazelwood_ decision does not apply to universities.
+
+=================
+uwm-post-v-u-of-wisconsin
+=================
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+=================
+=================
+Last update
+Tue Nov 26 21:04:46 EST 1991
+
+
+--
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+

@@ -1,0 +1,399 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Locking a student's account in an academic environment can be tantamount to expulsion.",
+        "System administrators should operate as invisibly as possible and avoid arbitrary exercise of authority.",
+        "The power to lock accounts should be reserved only for serious security threats and subject to oversight."
+      ],
+      "organizations": [
+        "Duke University",
+        "MCNC"
+      ],
+      "people": [
+        "Charlie Martin",
+        "Fred Cohen"
+      ],
+      "summary": "Charlie Martin shares a personal account of data loss caused by an administrator's arbitrary deletion of files to save disk space. He argues that system administrators in academic settings should view themselves as service providers and exercise extreme caution when using administrative power, such as locking accounts. The author emphasizes that losing computer access in a university setting can be equivalent to expulsion.",
+      "title": "War story and some thoughts....",
+      "topics": [
+        "system administration",
+        "academic freedom",
+        "user rights",
+        "administrative abuse",
+        "computer ethics"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "duke!crm@mcnc.org",
+      "item_count": 10,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "War story and some thoughts....",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 4, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators are often unfairly targeted by users who do not understand the complexities of resource allocation.",
+        "Many system administrators were former users before taking on administrative roles."
+      ],
+      "organizations": [
+        "University of Kentucky Engineering Computing Center",
+        "wuarchive.wustl.edu"
+      ],
+      "people": [
+        "Wes Morgan"
+      ],
+      "summary": "Wes Morgan defends system administrators against criticisms leveled within the discussion group. He argues that users often lack empathy for the technical and administrative burdens of managing shared computing resources. The post suggests that blanket condemnations of admins ignore the practical difficulties of balancing thousands of user needs.",
+      "title": "Have you walked the proverbial mile?",
+      "topics": [
+        "system administration",
+        "user-admin conflict",
+        "resource management",
+        "computing ethics"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "cs.utexas.edu!asuvax!ukma!morgan@uunet.uu.net",
+      "item_count": 10,
+      "item_index": 1,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "Have you walked the proverbial mile?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 8, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Tension between students and admins stems from differing perceptions of system robustness and the legitimacy of exploratory behavior.",
+        "Students often apply a 'single-user' mentality to multi-user systems, underestimating the consequences of their actions.",
+        "System administrators prioritize infrastructure stability over user motive because damage can occur regardless of intent."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "William Hugh Murray"
+      ],
+      "summary": "William Hugh Murray analyzes the psychological and perceptual gap between students and system administrators regarding computer use. He argues that students view systems as robust toys to be explored, while administrators view them as fragile infrastructure requiring strict protection. This divergence in perspective leads to conflict over 'exploratory' behavior versus security enforcement.",
+      "title": "Tension between student users and system administrators",
+      "topics": [
+        "system administration",
+        "student behavior",
+        "computer ethics",
+        "security vs exploration"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "William Hugh Murray <0003158580@mcimail.com>",
+      "item_count": 10,
+      "item_index": 2,
+      "message_id": "<85910629160058/0003158580NB2EM@mcimail.com>",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 18, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "OSU Library administration believes in unregulated access to library materials.",
+        "Physical restrictions on adult magazines are intended to prevent theft rather than restrict readership."
+      ],
+      "organizations": [
+        "The Ohio State University",
+        "Electronic Frontier Foundation",
+        "Center for Advanced Study in Telecommunications"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Jane M. Fraser",
+        "Bill Studer",
+        "J Greely"
+      ],
+      "summary": "The discussion compares the accessibility of physical adult magazines in university libraries to the regulation of digital 'adult' GIF files on campus computer systems. Jane Fraser reports that OSU library administration supports unregulated access to materials, noting that physical controls (like ID trades) are for theft prevention rather than censorship.",
+      "title": "publicly-readable \"adult\" gifs (was Re: Ohio State University CIS Policies)",
+      "topics": [
+        "censorship",
+        "library policy",
+        "digital content",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 10,
+      "item_index": 3,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "Re: publicly-readable \"adult\" gifs (was Re: Ohio State University CIS Policies)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 20, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Users are often punished more severely for follow-up infractions than for the original offense."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "Carl Kadie provides advice to computer users on how to handle disputes with system administrators. He warns that committing further rule infractions during a protest often leads to more severe punishments than the original offense. He emphasizes the distinction between the right to appeal a rule and the right to violate it.",
+      "title": "Re: How to back a user into a corner",
+      "topics": [
+        "system administration",
+        "user rights",
+        "computer policy",
+        "disciplinary actions"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 10,
+      "item_index": 4,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "Re: How to back a user into a corner",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 20, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System abuse often stems from a lack of communication between systems staff and users.",
+        "Explaining the reasons behind system restrictions can reduce user frustration and increase support for those restrictions."
+      ],
+      "organizations": [
+        "State University of New York, Stony Brook"
+      ],
+      "people": [
+        "Sanjay Kapur"
+      ],
+      "summary": "Sanjay Kapur, a systems administrator at SUNY Stony Brook, discusses the importance of communication between technical staff and users. He argues that system abuse is typically caused by a lack of communication rather than malice. He advocates for direct access to systems staff as a central element of institutional policy to reduce user frustration.",
+      "title": "Users and Systems staff interaction",
+      "topics": [
+        "systems administration",
+        "user relations",
+        "computer ethics",
+        "institutional policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>",
+      "item_count": 10,
+      "item_index": 5,
+      "message_id": "<2E8DFD2EDC217F86@ccmail.sunysb.edu>",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "Users and Systems staff interaction",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 8, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Accounts were suspended during Internet and DECnet worm outbreaks if usernames matched passwords.",
+        "Account suspensions are primarily triggered automatically by a lack of allocated funds."
+      ],
+      "organizations": [
+        "State University of New York, Stony Brook"
+      ],
+      "people": [
+        "Sanjay Kapur"
+      ],
+      "summary": "Sanjay Kapur, a system administrator at SUNY Stony Brook, outlines the specific criteria used for suspending or deleting user accounts. He describes policies regarding funding exhaustion, security measures during worm outbreaks, and account termination upon departure from the university. The post concludes by questioning if these administrative practices constitute 'wrongful' denials of service.",
+      "title": "Account suspensions and other denial of services in practice",
+      "topics": [
+        "system administration",
+        "account suspension",
+        "denial of service",
+        "university computing policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>",
+      "item_count": 10,
+      "item_index": 6,
+      "message_id": "<2EAE2FFB1C217F86@ccmail.sunysb.edu>",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "Account suspensions and other denial of services in practice.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 3, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Due process provides disgruntled users with a nondestructive path for grievances.",
+        "User participation in policy formulation increases the perceived legitimacy of those policies."
+      ],
+      "organizations": [
+        "UCB OCF",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Chris G. Demetriou",
+        "John Otto",
+        "Carl Kadie"
+      ],
+      "summary": "A discussion regarding the necessity of due process and student participation in the formulation of university computer policies. The author argues that peer representation on policy committees provides users with better protections than having no representation at all.",
+      "title": "Re: Due process and computer policies (was OSU Policies)",
+      "topics": [
+        "due process",
+        "computer policy",
+        "student representation",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "stanford.edu!agate!agate!cgd@uunet.uu.net",
+      "item_count": 10,
+      "item_index": 7,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "Re: Due process and computer policies (was OSU Policies)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Joint Statement on Rights and Freedoms of Students (JSRFS) suggests student status should not be altered pending final action except for safety reasons.",
+        "Academic transcripts should contain only information about academic status, keeping disciplinary records separate."
+      ],
+      "organizations": [
+        "SUNY Stony Brook",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Sanjay Kapur",
+        "Carl Kadie"
+      ],
+      "summary": "A discussion regarding the due process rights of students facing expulsion from university computer systems. The participants debate whether system administrators should have the power to suspend privileges pending a hearing and whether disciplinary records for computer infractions should appear on academic transcripts.",
+      "title": "Re: FYI: Re: Canceling someone else's article",
+      "topics": [
+        "due process",
+        "student rights",
+        "computer system administration",
+        "academic records"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 10,
+      "item_index": 8,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "Re: FYI: Re: Canceling someone else's article",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "14 Jun 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators should act as complaining witnesses rather than judges in disciplinary cases.",
+        "Permanent expulsion from a computer system is inappropriate if the system is necessary for coursework.",
+        "There is no significant distinction between access to academic libraries and access to academic computers regarding student punishment."
+      ],
+      "organizations": [
+        "Case Western Reserve University"
+      ],
+      "people": [
+        "Peter D. Junger"
+      ],
+      "summary": "Peter D. Junger argues that computer system administrators should not have the authority to punitively expel students from systems necessary for coursework. He asserts that such disciplinary actions must be handled by formal university bodies, such as deans or honor courts, to ensure due process. Junger emphasizes that access to academic computers is functionally equivalent to access to academic libraries.",
+      "title": "Re: Punishment",
+      "topics": [
+        "due process",
+        "system administration",
+        "student rights",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "14 Jun 91 18:21:00 EST",
+      "from": "junger@cwru.cwru.edu",
+      "item_count": 10,
+      "item_index": 9,
+      "message_id": "<9106142225.AA03883@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/june_1991",
+      "subject": "Re: Punishment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

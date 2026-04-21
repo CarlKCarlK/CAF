@@ -1,0 +1,444 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 11, 1993",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Debate exists over whether state universities are bound by the 14th Amendment to protect students' 1st Amendment rights when managing computing facilities.",
+        "Some argue that IRC channels can be designed as private forums via invite-only settings, while others claim no such thing as 'channel ownership' exists."
+      ],
+      "organizations": [
+        "University of Illinois",
+        "University of Washington",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Robert Novak",
+        "Carl M Kadie"
+      ],
+      "summary": "This digest summarizes debates regarding free speech and governance on early internet platforms. Key discussions include whether IRC channels constitute public or private forums, the legality of university administrations disabling accounts for offensive Usenet posts, and technical methods to prevent forged anonymous postings.",
+      "title": "Abstract of CAF-News 03.17",
+      "topics": [
+        "IRC",
+        "Usenet",
+        "Free Speech",
+        "Academic Freedom",
+        "Internet Governance"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "rnovak@nyx.cs.du.edu (Robert Novak)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 0 -- Abstract of CAF-News 03.17",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 6-7, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Campus free speech policies often depend on whether a venue is a public or private forum.",
+        "Some argue IRC is inherently a public medium because channel ownership is not formally recognized by network administrators.",
+        "The ability to set an invite-only mode (+i) may technically qualify an IRC channel as a private forum."
+      ],
+      "organizations": [
+        "University of Illinois Urbana-Champaign",
+        "Kansas State University",
+        "University of Karlsruhe"
+      ],
+      "people": [
+        "Ed Krol",
+        "Steve Davis",
+        "Olaf Titz"
+      ],
+      "summary": "A discussion regarding whether Internet Relay Chat (IRC) channels should be legally classified as public forums or private meetings. The participants debate how this classification affects the boundary between free speech and harassment, specifically in the context of campus policies. They examine technical controls like channel operator status, invite-only modes, and ban lists as factors in determining a space's privacy.",
+      "title": "Is IRC channel a 'public forum'?",
+      "topics": [
+        "IRC",
+        "free speech",
+        "public forum",
+        "harassment",
+        "internet governance"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 6 Apr 1993 11:15:29 GMT",
+      "from": "krol@ux1.cso.uiuc.edu (Ed Krol)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<C527A8.40t@ux1.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 1--Is IRC channel a 'public forum'?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 7, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Users used scripts to send approximately 1000 lines of text to a channel to prevent a meeting from occurring."
+      ],
+      "organizations": [],
+      "people": [
+        "Ed Krol",
+        "Carl Kadie"
+      ],
+      "summary": "The author describes a conflict on an IRC channel where individuals attempted to hold a meeting but were disrupted by users employing 'IRC bombing' scripts. This led to the operator kicking the disruptive users, who subsequently attempted to 'mailbomb' the operator personally.",
+      "title": "Article 4--Re: Is IRC channel a 'public forum'?",
+      "topics": [
+        "IRC",
+        "public forum",
+        "denial-of-service",
+        "online harassment"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 7 Apr 1993 02:05:56 GMT",
+      "from": "krol@ux1.cso.uiuc.edu (Ed Krol)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<C53CIB.GEw@ux1.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 4--Re: Is IRC channel a 'public forum'?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 7 Apr 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Illinois defines disruptive action as that which substantially impedes operations or interferes with the rights of others.",
+        "University agents may act to end 'disorder' on university property or in connection with university activities."
+      ],
+      "organizations": [
+        "University of Illinois"
+      ],
+      "people": [
+        "Carl M Kadie",
+        "Ed Krol"
+      ],
+      "summary": "Carl Kadie discusses whether an IRC channel constitutes a public forum by citing the University of Illinois Code on Campus Affairs. The discussion centers on how university rules regarding disruptive and coercive action apply to digital behaviors such as 'IRC bombing' and 'mailbombing'. It examines the boundary between free expression and technical disruption in a university computing environment.",
+      "title": "Article 5--Re: Is IRC channel a 'public forum'?",
+      "topics": [
+        "IRC",
+        "public forum",
+        "university policy",
+        "digital disruption",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 7 Apr 1993 04:09:58 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M Kadie)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<C53I8M.K5M@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 5--Re: Is IRC channel a 'public forum'?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 8 Apr 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Freedom of speech is only violated if the government prevents expression.",
+        "Private institutions have the right to withdraw access to computer accounts regardless of the content expressed."
+      ],
+      "organizations": [
+        "University of Waterloo",
+        "Concordia University",
+        "Yale University",
+        "University of Washington"
+      ],
+      "people": [
+        "Bernard Lam",
+        "Louis Lin",
+        "Dave Chu",
+        "Dicky Yan"
+      ],
+      "summary": "A discussion among students and academics regarding whether a university's provision of computing facilities constitutes a guarantee of free speech. The participants argue that since computer accounts are institutional property, the university has the right to revoke access for offensive or racist content without violating constitutional freedom of speech.",
+      "title": "Article 6--Freedom of Speech (Was: Offending Post)",
+      "topics": [
+        "freedom of speech",
+        "acceptable use policy",
+        "institutional property rights",
+        "online harassment"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 8 Apr 1993 20:06:53 GMT",
+      "from": "blblam@cantor.math.uwaterloo.ca (Bernard Lam)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<C56L7H.As0@undergrad.math.uwaterloo.ca>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 6--Freedom of Speech (Was: Offending Post)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 9, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Terminating university computer access based on unpopular or offensive speech is viewed by the author as an inappropriate requirement to please the majority."
+      ],
+      "organizations": [
+        "University of Washington"
+      ],
+      "people": [
+        "Nicol C So",
+        "Bernard Lam"
+      ],
+      "summary": "A discussion regarding whether the University of Washington should terminate a student's ('Jammer') access to computer facilities due to offensive and racist postings. The author argues against punishing students for unpopular views, suggesting that users should instead use 'KILL files' to ignore offensive content.",
+      "title": "Article 7--Re: Freedom of Speech (Was: Offending Post)",
+      "topics": [
+        "freedom of speech",
+        "acceptable use policy",
+        "computer access",
+        "online harassment"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 9 Apr 1993 01:55:57 GMT",
+      "from": "so@eiffel.cs.psu.edu (Nicol C So)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<C571D9.Dr7@cs.psu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 7--Re: Freedom of Speech (Was: Offending Post)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 9, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The concept of freedom of speech is not applicable to the disabling of a university computer account.",
+        "Universities have the right to either maintain or disable access for users posting racist or unpopular opinions."
+      ],
+      "organizations": [
+        "University of Washington",
+        "University of Waterloo"
+      ],
+      "people": [
+        "Bernard Lam",
+        "Nicol C So"
+      ],
+      "summary": "Bernard Lam and Nicol C So debate the application of 'freedom of speech' regarding a user named 'Jammer' at the University of Washington. Lam argues that while the university has the right to disable an account for offensive content, citing 'freedom of speech' as the justification for inaction is conceptually incorrect because disabling a facility account does not violate free speech rights.",
+      "title": "Article 8--Re: Freedom of Speech (Was: Offending Post)",
+      "topics": [
+        "freedom of speech",
+        "acceptable use policy",
+        "academic computing",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 9 Apr 1993 21:01:21 GMT",
+      "from": "blblam@cantor.math.uwaterloo.ca (Bernard Lam)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<C58IE9.HAs@undergrad.math.uwaterloo.ca>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 8--Re: Freedom of Speech (Was: Offending Post)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Sat, 10 Apr 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Public universities in the U.S. are considered government entities bound by the 14th Amendment.",
+        "Student codes promising freedom from institutional censorship may constitute legally-binding contractual obligations.",
+        "The 'Joint Statement on Rights and Freedoms of Students' defines free inquiry as indispensable to academic institutions."
+      ],
+      "organizations": [
+        "University of Washington",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M Kadie",
+        "Bernard Lam"
+      ],
+      "summary": "Carl Kadie argues that public universities in the U.S. are state actors bound by the First and 14th Amendments regarding student speech. He asserts that university policies against censorship are often contractual obligations and essential components of academic freedom. The post references the 'Joint Statement on Rights and Freedoms of Students' to support the claim that institutional control of facilities should not be used for censorship.",
+      "title": "Article 9--Re: Freedom of Speech (Was: Offending Post)",
+      "topics": [
+        "freedom of speech",
+        "academic freedom",
+        "censorship",
+        "public universities",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 10 Apr 1993 02:51:45 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M Kadie)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<C58yMA.EKu@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 9--Re: Freedom of Speech (Was: Offending Post)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "5 Apr 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Macintosh newsreaders allowed users to define arbitrary 'From:' lines because the OS did not provide built-in User IDs.",
+        "Forged posts can be identified by analyzing the Path header according to RFC 1036."
+      ],
+      "organizations": [
+        "Bowling Green State University",
+        "University of Karlsruhe"
+      ],
+      "people": [
+        "Olaf Titz",
+        "Jean-Luc (hreutte@andy.bgsu.edu)",
+        "Ze Julf"
+      ],
+      "summary": "The post discusses the ease of forging anonymous Usenet posts from Macintosh computers in university dormitories due to a lack of required user IDs. The author argues for maintaining open network access in dorms while seeking technical solutions to prevent abuse and forgery. It highlights the tension between providing broad academic network access and implementing security controls.",
+      "title": "Article 10--Fake anon posting, Macs in dorms etc",
+      "topics": [
+        "network security",
+        "Usenet",
+        "academic network access",
+        "identity forgery"
+      ]
+    },
+    "identity": {
+      "date": "5 Apr 1993 13:03:09 GMT",
+      "from": "s_titz@ira.uka.de (Olaf Titz)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<1ppamd$9oh@nz12.rz.uni-karlsruhe.de>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 10--Fake anon posting, Macs in dorms etc",
+      "to_or_newsgroups": "alt.sex,news.admin.policy,comp.admin.policy,alt.comp.acad-freedom.talk,comp.security.misc",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 5, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Machines without user authorization should not be permitted to post news articles.",
+        "Requiring Unix logins makes message forgery more difficult and likely reduces the volume of forgeries."
+      ],
+      "organizations": [
+        "Carleton University"
+      ],
+      "people": [
+        "John Stewart",
+        "Olaf Titz"
+      ],
+      "summary": "John Stewart responds to a query regarding the security risks of providing public or unauthenticated computer terminals (such as Macs and PCs) in student dormitories. He argues that machines without user authorization should be restricted to read-only access for news articles via NNTP access control files. He suggests that requiring Unix logins increases the difficulty of forging messages, thereby reducing abuse.",
+      "title": "Re: Fake anon posting, Macs in dorms etc",
+      "topics": [
+        "network security",
+        "NNTP",
+        "student housing",
+        "user authentication",
+        "news forgeries"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 5 Apr 1993 13:52:13 GMT",
+      "from": "jstewart@alfred.carleton.ca (John Stewart)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<jstewart.734017933@cunews>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 11--Re: Fake anon posting, Macs in dorms etc",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 9, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Public machines logged in permanently allow for untraceable and unresponsive anonymity."
+      ],
+      "organizations": [],
+      "people": [
+        "Robert MacDowell"
+      ],
+      "summary": "Robert MacDowell proposes a technical solution to prevent anonymous or fake newsgroup postings from public terminals. He suggests disabling direct news posting on systems without user IDs and implementing a mail-to-news gateway to ensure posts are traceable to specific accounts.",
+      "title": "Article 12--Re: Fake anon posting, Macs in dorms etc",
+      "topics": [
+        "network administration",
+        "anonymity",
+        "accountability",
+        "Usenet"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 9 Apr 1993 17:49:39 GMT",
+      "from": "bobmacd@netcom.com (Robert MacDowell)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<bobmacdC589Ir.F5t@netcom.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n17",
+      "subject": "Article 12--Re: Fake anon posting, Macs in dorms etc",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

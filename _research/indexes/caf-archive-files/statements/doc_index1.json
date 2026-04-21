@@ -1,0 +1,1281 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1996-05-03",
+      "document_type": "generated catalog",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The archive contains a draft 'Statement on Computers and Academic Freedom' based on seven months of online discussion.",
+        "The Ontario Ministry of Colleges and Universities expected institutions to discourage racist or pornographic material but acknowledged university autonomy."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "ACM",
+        "Computer Professionals for Social Responsibility",
+        "University of Illinois at Urbana",
+        "University of Nebraska at Lincoln",
+        "University of California at Berkeley",
+        "Ontario Ministry of Colleges and Universities",
+        "Stanford University",
+        "University of British Columbia",
+        "University of Chicago"
+      ],
+      "people": [
+        "J.S. Greenfield",
+        "Carl M. Kadie",
+        "Marc Rotenberg",
+        "Mitchell Golden",
+        "Bernard Shapiro",
+        "John McCarthy",
+        "Peter Danielson",
+        "Richard S. Rosenberg"
+      ],
+      "summary": "This document serves as a directory and descriptive index for the Computers and Academic Freedom (CAF) Statement Archive hosted by the Electronic Frontier Foundation. It lists various files including draft statements on academic freedom, university policies from institutions like Stanford and UBC, and papers regarding intellectual freedom in computing. The file provides instructions for accessing these documents via Gopher, FTP, and email.",
+      "title": "Computers and Academic Freedom Statements README",
+      "topics": [
+        "academic freedom",
+        "internet censorship",
+        "university computer policy",
+        "intellectual freedom",
+        "digital privacy"
+      ]
+    },
+    "identity": {
+      "bytes": 12062,
+      "directory": "statements",
+      "file_name": "README",
+      "path": "statements/README",
+      "title_guess": "README",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "generated catalog",
+      "historical_relevance": "medium",
+      "notable_claims": [],
+      "organizations": [
+        "EFF",
+        "ACM",
+        "AAHE",
+        "University of British Columbia",
+        "University of Illinois, Urbana",
+        "Stanford University",
+        "Ontario Ministry of Colleges and Universities",
+        "CNI",
+        "University of Chicago",
+        "University of California at Berkeley",
+        "Open Computing Facility",
+        "Students for Electronic Freedom"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Mitchell Golden",
+        "J.S. Greenfield"
+      ],
+      "summary": "This document serves as a subject index and file directory for the Computers and Academic Freedom (CAF) statements archive hosted by the EFF. It lists various policies, ethics codes, and institutional statements regarding computer use and academic freedom from universities and organizations. The file provides access instructions via Gopher and FTP.",
+      "title": "Subject index for ftp.eff.org:pub/CAF/statements",
+      "topics": [
+        "academic freedom",
+        "internet censorship",
+        "computing policies",
+        "intellectual freedom",
+        "netiquette"
+      ]
+    },
+    "identity": {
+      "bytes": 3106,
+      "directory": "statements",
+      "file_name": "README.subject-index",
+      "path": "statements/README.subject-index",
+      "title_guess": "Subject index for ftp.eff.org:pub/CAF/statements",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 2, 2001",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Public universities in the U.S. are bound by the federal and state constitutions regarding search and seizure.",
+        "The Family Educational Rights and Privacy Act (FERPA) protects personally identifiable information in schools receiving federal money.",
+        "Students should be viewed as customers of a university rather than employees, meaning they retain copyright over their data stored on university systems.",
+        "Broad AUPs are often created reactively to justify punishments already imposed on students."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Slashdot",
+        "ACLU"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Zachary DeAquila"
+      ],
+      "summary": "Carl Kadie responds to a series of user questions from Slashdot regarding computers and academic freedom. He discusses the legal protections available to students, such as FERPA and ECPA, and critiques overbroad Acceptable Use Policies (AUPs) at various universities. The text emphasizes the importance of student organization and the application of academic freedom principles to digital environments.",
+      "title": "Slashdot Interview with Carl Kadie",
+      "topics": [
+        "Acceptable Use Policies",
+        "student privacy",
+        "academic freedom",
+        "digital rights",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "bytes": 38224,
+      "directory": "statements",
+      "file_name": "SlashdotInterview.htm",
+      "path": "statements/SlashdotInterview.htm",
+      "title_guess": "Slashdot Interview",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-12-01",
+      "document_type": "policy",
+      "historical_relevance": "medium",
+      "notable_claims": [
+        "System operators may review private e-mail if they believe it is necessary to protect the system from injury or legal seizure.",
+        "Users retain rights to original messages and files, but the operator claims copyright over the 'look and feel' and collective work of message sequences.",
+        "The contract includes an indemnity clause requiring users to hold the operator harmless from claims resulting from the user's actions."
+      ],
+      "organizations": [
+        "SysLaw",
+        "Fidonet",
+        "COMPUSERVE"
+      ],
+      "people": [
+        "Lance Rose"
+      ],
+      "summary": "A sample contract intended for Bulletin Board System (BBS) operators to establish terms of service with their users. It outlines rules regarding access, pricing, prohibited illegal activities, and the system operator's right to editorial control. The document emphasizes limiting the operator's liability for user-generated content and actions.",
+      "title": "Model BBS/User Contract (from SYSLAW)",
+      "topics": [
+        "BBS",
+        "Terms of Service",
+        "User Agreements",
+        "Online Liability",
+        "Digital Privacy"
+      ]
+    },
+    "identity": {
+      "bytes": 13082,
+      "directory": "statements",
+      "file_name": "bbs.sample-contract",
+      "path": "statements/bbs.sample-contract",
+      "title_guess": "Date: 01 Dec 92 10:33:25 EST",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "August 1993",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Access to computing and information resources should not be denied without just cause.",
+        "Constitutional concepts of freedom of speech apply to citizens of electronic communities.",
+        "Individuals have the right to review and correct personal information collected about them.",
+        "Institutions have a responsibility to provide legally acquired computer resources when they are integral to participation in the learning community."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American University",
+        "AAHE",
+        "ALA",
+        "NEA"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Frank Connolly"
+      ],
+      "summary": "A proposed framework establishing fundamental rights and responsibilities for individuals and institutions within educational electronic communities. It outlines protections for access, freedom of speech, and data privacy while emphasizing user accountability and institutional obligations to provide resources and training.",
+      "title": "Bill of Rights and Responsibilities for the Electronic Community of Learners",
+      "topics": [
+        "academic freedom",
+        "digital rights",
+        "educational technology",
+        "privacy",
+        "intellectual property"
+      ]
+    },
+    "identity": {
+      "bytes": 8175,
+      "directory": "statements",
+      "file_name": "bill-of-rights.aahe",
+      "path": "statements/bill-of-rights.aahe",
+      "title_guess": "From: kadie@eff.org (Carl M. Kadie)",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-10-26",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Principles of academic freedom apply to academic computer systems.",
+        "Suspension or expulsion from a computer is a serious penalty requiring due process.",
+        "Personal files in home directories should have the same privacy protections as physical office or dorm space.",
+        "Computer newsgroups should be selected using the same principles traditional libraries use for books and magazines."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Library Association",
+        "AAUP"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "J.S. Greenfield"
+      ],
+      "summary": "This document is a draft attempt to codify the application of academic freedom principles to university computer systems. It organizes its arguments into 'principles' as axioms and 'interpretations' as theorems, drawing heavily from established library and student rights standards. The text argues that digital files and communications should receive the same privacy and free expression protections as physical campus spaces and traditional publications.",
+      "title": "Draft Statement on Computers and Academic Freedom (CAF)",
+      "topics": [
+        "academic freedom",
+        "computer policy",
+        "digital privacy",
+        "censorship",
+        "student rights"
+      ]
+    },
+    "identity": {
+      "bytes": 9272,
+      "directory": "statements",
+      "file_name": "caf-statement",
+      "path": "statements/caf-statement",
+      "title_guess": "Newsgroups: alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 28, 1991",
+      "document_type": "policy critique",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Debate over whether Usenet articles should be legally classified as 'publications' or akin to bulletin board notices.",
+        "Argument that physical resource constraints (disk space) may necessitate different selection criteria for newsgroups than traditional libraries.",
+        "Discussion on the misconception that university administrations can or should restrict a user's ability to post offensive content on Usenet."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Kentucky",
+        "University of Illinois",
+        "Ohio State University"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie",
+        "Robert F Solon",
+        "Aydin Edguer"
+      ],
+      "summary": "A series of Usenet exchanges discussing a draft statement on Computers and Academic Freedom (CAF). Participants debate the application of library selection criteria to newsgroups, whether Usenet posts constitute 'publications,' and how academic freedom interacts with commercial or government restrictions.",
+      "title": "Newsgroups: alt.comp.acad-freedom.talk",
+      "topics": [
+        "academic freedom",
+        "Usenet",
+        "digital publications",
+        "censorship",
+        "library science",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "bytes": 97715,
+      "directory": "statements",
+      "file_name": "caf-statement.critique",
+      "path": "statements/caf-statement.critique",
+      "title_guess": "Newsgroups: alt.comp.acad-freedom.talk",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 28, 1994",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Principles of intellectual freedom developed by libraries should be applied to the administration of information on computers.",
+        "A distinction must be made between 'Social AUP' (enforced via social norms) and 'Legal AUP' (enforced via formal rules and due process).",
+        "Student posts to newsgroups should be considered student publications protected by academic freedom principles."
+      ],
+      "organizations": [
+        "ACM",
+        "University of Illinois",
+        "Electronic Frontier Foundation",
+        "Stanford University",
+        "Iowa State University",
+        "AAUP",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Jonathan Richmond",
+        "Mark Smucker",
+        "Andrew Burt"
+      ],
+      "summary": "A transcript of a talk given by Carl M. Kadie to the ACM student chapter at the University of Illinois. The presentation argues that principles of intellectual freedom developed by libraries should be applied to university computer facilities and network administration. It uses several case studies to illustrate the tension between acceptable use policies and academic freedom.",
+      "title": "Computers and Academic Freedom: Sex, Censorship, and the Internet",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "acceptable use policies",
+        "intellectual freedom",
+        "internet governance"
+      ]
+    },
+    "identity": {
+      "bytes": 60564,
+      "directory": "statements",
+      "file_name": "cafuiuc.txt",
+      "path": "statements/cafuiuc.txt",
+      "title_guess": "This is a plain-text version of a talk I gave on April 28, 1994 to the",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "document_type": "pointer",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The Second Conference on Computers, Freedom, and Privacy was held March 18-20, 1992 in Washington, D.C.",
+        "Proceedings were available in both printed and electronic formats."
+      ],
+      "organizations": [
+        "Association for Computing Machinery",
+        "George Washington University"
+      ],
+      "people": [],
+      "summary": "This document serves as a pointer to the written and electronic proceedings of the Second Conference on Computers, Freedom, and Privacy. It provides ordering information via the ACM Order Department and FTP access instructions through George Washington University.",
+      "title": "Second Conference on Computers, Freedom, and Privacy Proceedings Announcement",
+      "topics": [
+        "conference proceedings",
+        "academic freedom",
+        "privacy",
+        "digital archives"
+      ]
+    },
+    "identity": {
+      "bytes": 770,
+      "directory": "statements",
+      "file_name": "cfp-proceedings.pointer",
+      "path": "statements/cfp-proceedings.pointer",
+      "title_guess": "The written proceedings and the electronic written proceedings of the",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "20 Jul 1993",
+      "document_type": "pointer",
+      "historical_relevance": "medium",
+      "notable_claims": [
+        "The proceedings of CFP '93 were hosted on gopher.cpsr.org."
+      ],
+      "organizations": [
+        "EFF",
+        "CPSR"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "A newsgroup post by Carl Kadie informing users that the proceedings of the CFP '93 conference are available via Gopher. It provides a specific Gopher path and server address for accessing the documents.",
+      "title": "Computers and Freedom And Privacy III - on gopher",
+      "topics": [
+        "CFP '93",
+        "Gopher",
+        "conference proceedings"
+      ]
+    },
+    "identity": {
+      "bytes": 421,
+      "directory": "statements",
+      "file_name": "cfp.pointer",
+      "path": "statements/cfp.pointer",
+      "title_guess": "From: kadie@eff.org (Carl M. Kadie)",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1993",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Academic institutions should distinguish between what is disliked (Social AUP) and what is outlawed (Legal AUP).",
+        "Principles of academic freedom applicable to traditional media should apply equally to computer media.",
+        "Institutional control of campus facilities should not be used as a device of censorship."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Illinois at Urbana-Champaign",
+        "Stanford University",
+        "Iowa State University",
+        "American Association of University Professors",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Jonathan Richmond",
+        "Robert Street",
+        "Donald Kennedy",
+        "Mark Smucker"
+      ],
+      "summary": "A position paper presented at the Third Conference on Computers, Freedom, and Privacy arguing that academic computer policies should be based on established principles of academic and intellectual freedom. The author argues for a distinction between 'Social AUPs' (informal community norms) and 'Legal AUPs' (formal laws), suggesting institutional sanctions only apply to the latter. It provides examples of newsgroup censorship at various universities to illustrate the tension between suppression and expression.",
+      "title": "Content: The Academic Freedom Model",
+      "topics": [
+        "academic freedom",
+        "acceptable use policies",
+        "censorship",
+        "usenet",
+        "intellectual freedom"
+      ]
+    },
+    "identity": {
+      "bytes": 15886,
+      "directory": "statements",
+      "file_name": "cfp93.kadie",
+      "path": "statements/cfp93.kadie",
+      "title_guess": "Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk,news.admin.policy,alt.censorship,soc.college",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1994",
+      "document_type": "policy critique",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Library intellectual freedom principles are applicable to public and academic computer networks.",
+        "Offensiveness is not a legitimate reason to exclude material from an information resource.",
+        "Parental authority, rather than institutional authority, should be the primary mechanism for restricting minors' access to content.",
+        "The use of restrictive login banners (such as those recommended by CERT) may violate user privacy and intellectual freedom."
+      ],
+      "organizations": [
+        "American Library Association",
+        "Canadian Library Association",
+        "Electronic Frontier Foundation",
+        "University of Denver",
+        "Indiana University",
+        "Brown University",
+        "American University",
+        "University of Georgia",
+        "Cleveland Free-Net",
+        "Iowa State University",
+        "University of Kentucky",
+        "CERT"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Charles Dunlop",
+        "Rob Kling",
+        "Andrew Burt"
+      ],
+      "summary": "Carl M. Kadie argues that computer administrators should adopt established library intellectual freedom principles to manage public and academic network resources. The document analyzes eight real-world case studies involving offensive newsgroups, adult content, and user monitoring to demonstrate how American Library Association (ALA) policies can prevent censorship. It advocates for the application of professional librarianship standards to digital information access.",
+      "title": "Applying Library Intellectual Freedom Principles to Public and Academic Computers",
+      "topics": [
+        "intellectual freedom",
+        "censorship",
+        "library policy",
+        "academic freedom",
+        "network administration",
+        "internet governance"
+      ]
+    },
+    "identity": {
+      "bytes": 23578,
+      "directory": "statements",
+      "file_name": "cfp94.kadie",
+      "path": "statements/cfp94.kadie",
+      "title_guess": "[To appear as a chapter in the 2nd edition of _Computerization and",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 26, 1994",
+      "document_type": "policy critique",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Library and computer services are converging, making library intellectual freedom policies applicable to computers.",
+        "Offensiveness is not a legitimate reason to exclude material from a collection according to ALA standards.",
+        "Restricting access to materials via special accounts or sign-off statements constitutes censorship.",
+        "The use of prejudicial labels (like the proposed V-Chip) is a tool of censorship."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Library Association",
+        "Denver University",
+        "Indiana University",
+        "Brown University",
+        "American University",
+        "University of Georgia",
+        "Cleveland Free-Net",
+        "Iowa State University",
+        "CERT"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Andrew Burt"
+      ],
+      "summary": "Carl M. Kadie argues that the long-standing intellectual freedom principles used by librarians should be applied to the management of academic and public computer systems. The document analyzes eight real-world case studies involving censorship, privacy, and access to controversial content on early networks. It advocates for clear selection policies and opposes the arbitrary removal of materials based on offensiveness.",
+      "title": "Applying Library Intellectual Freedom Principles to Public and Academic Computers",
+      "topics": [
+        "intellectual freedom",
+        "censorship",
+        "academic freedom",
+        "library policy",
+        "network administration",
+        "privacy"
+      ]
+    },
+    "identity": {
+      "bytes": 25388,
+      "directory": "statements",
+      "file_name": "cfp94.kadie.old",
+      "path": "statements/cfp94.kadie.old",
+      "title_guess": "APPLYING LIBRARY INTELLECTUAL FREEDOM PRINCIPLES TO PUBLIC AND",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "pointer",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The CNI Working Group aims to provide guidelines on confidentiality, privacy, pseudonymity, anonymity, and free speech.",
+        "The group produced 'Information Policies: A Compilation of Position Statements, Principles, Statutes, and Other Pertinent Statements'."
+      ],
+      "organizations": [
+        "Coalition for Networked Information",
+        "Rutgers University",
+        "Connecticut State Library"
+      ],
+      "people": [
+        "Peter Graham",
+        "Richard Akeroyd Jr."
+      ],
+      "summary": "This document describes the activities of the Coalition for Networked Information (CNI) Working Group on Legislation, Codes, Policies, and Practices. The group focuses on developing strategies, press kits, and model policies to handle network use crises and information policy issues. It references a compilation of position statements available via the CNI ftp archive.",
+      "title": "You need to be prepared. The Coalition for Networked Information",
+      "topics": [
+        "network policy",
+        "information policy",
+        "academic freedom",
+        "privacy",
+        "free speech"
+      ]
+    },
+    "identity": {
+      "bytes": 1382,
+      "directory": "statements",
+      "file_name": "cni.pointer",
+      "path": "statements/cni.pointer",
+      "title_guess": "You need to be prepared. The Coalition for Networked Information",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "policy",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Computing professionals should contribute to society and human well-being while avoiding harm to others.",
+        "Members are expected to respect privacy, honor confidentiality, and give proper credit for intellectual property.",
+        "Organizational leaders must support policies that protect the dignity of users affected by computing systems.",
+        "Violations of the Code are considered inconsistent with membership in the ACM."
+      ],
+      "organizations": [
+        "Association for Computing Machinery"
+      ],
+      "people": [],
+      "summary": "This document outlines the ethical imperatives for members of the Association for Computing Machinery. It is divided into general moral imperatives, specific professional responsibilities, organizational leadership duties, and compliance requirements. The code serves as a framework for ethical decision-making in the computing profession.",
+      "title": "ACM Code of Ethics and Professional Conduct",
+      "topics": [
+        "professional ethics",
+        "computing standards",
+        "intellectual property",
+        "privacy",
+        "social responsibility"
+      ]
+    },
+    "identity": {
+      "bytes": 4387,
+      "directory": "statements",
+      "file_name": "ethics.acm",
+      "path": "statements/ethics.acm",
+      "title_guess": "ACM Code of Ethics and Professional Conduct",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "policy",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Computing professionals have an obligation to protect fundamental human rights and minimize negative consequences of computing systems.",
+        "Violation of a law or regulation may be ethical when that law has an inadequate moral basis or conflicts with a more important law.",
+        "Professionals are prohibited from capturing or monitoring electronic user data without permission or bona fide authorization for system maintenance.",
+        "Organizational leaders must ensure computer systems enhance, rather than degrade, the quality and dignity of working life."
+      ],
+      "organizations": [
+        "ACM",
+        "IFIP"
+      ],
+      "people": [],
+      "summary": "This document outlines the ethical guidelines for members of the Association for Computing Machinery (ACM). It establishes general moral imperatives, specific professional responsibilities, and organizational leadership mandates. The code emphasizes human well-being, privacy, honesty, and the social responsibility of computing professionals.",
+      "title": "ACM Code of Ethics and Professional Conduct Guidelines",
+      "topics": [
+        "professional ethics",
+        "computing standards",
+        "privacy",
+        "social responsibility",
+        "intellectual property"
+      ]
+    },
+    "identity": {
+      "bytes": 18380,
+      "directory": "statements",
+      "file_name": "ethics.acm.guidelines",
+      "path": "statements/ethics.acm.guidelines",
+      "title_guess": "ACM CODE OF ETHICS AND PROFESSIONAL CONDUCT GUIDELINES",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 28, 1994",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The author wrote the guide partly in response to New York Times reports that killing posts by Canter and Siegel amounted to censorship.",
+        "Net-abuse is defined as actions that undermine a newsgroup's ability to serve as a discussion forum, regardless of content.",
+        "Usenet is described as a cooperative venture for participants rather than a broadcast medium for advertising.",
+        "The document references the EFF's 'Computers and Academic Freedom' (CAF) archives regarding university speech codes."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Harvard University"
+      ],
+      "people": [
+        "Mitchell Golden"
+      ],
+      "summary": "An email from Mitchell Golden to the Electronic Frontier Foundation (EFF) sharing a draft guide for Usenet site administrators. The document provides practical advice on managing newsgroups, handling 'net-abuse' such as spamming and flooding, and navigating legal concerns regarding copyright and obscenity. It specifically aims to provide a framework for administrators to justify the removal of abusive posts to avoid accusations of censorship.",
+      "title": "The Usenet Site Administrator's Guide to Netiquette",
+      "topics": [
+        "Usenet",
+        "netiquette",
+        "spamming",
+        "site administration",
+        "censorship",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "bytes": 25233,
+      "directory": "statements",
+      "file_name": "netiquette-guide",
+      "path": "statements/netiquette-guide",
+      "title_guess": "From GOLDEN@huhept.harvard.edu Thu Jul 28 17:45:38 1994",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 21, 1992",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Commercialization of the NREN will increase pressures to gather and sell personal user data.",
+        "Technical safeguards like cryptography are useful but insufficient without legislative and legal frameworks.",
+        "The Electronic Communications Privacy Act (ECPA) of 1986 is inadequate for protecting transaction records and personal identifiers.",
+        "Privacy protection is an essential precondition for the social acceptance of new digital networks."
+      ],
+      "organizations": [
+        "Computer Professionals for Social Responsibility (CPSR)",
+        "National Commission on Libraries and Information Science (NCLIS)",
+        "American Library Association",
+        "Federal Communications Commission (FCC)",
+        "National Security Agency",
+        "Federal Bureau of Investigation",
+        "Organization for Economic and Cooperative Development (OECD)"
+      ],
+      "people": [
+        "Marc Rotenberg",
+        "Richard Civille",
+        "Jerome Wiesner"
+      ],
+      "summary": "Marc Rotenberg of CPSR testified before the National Commission on Libraries and Information Science regarding privacy protections for the National Research and Education Network (NREN). He argues that commercialization and government surveillance pose significant threats to user privacy that cannot be solved by technology alone. The statement proposes eight specific privacy guidelines to ensure confidentiality, limit data collection, and establish oversight mechanisms.",
+      "title": "Proposed Privacy Guidelines for the NREN",
+      "topics": [
+        "network privacy",
+        "NREN",
+        "data protection",
+        "commercialization",
+        "surveillance",
+        "cryptography"
+      ]
+    },
+    "identity": {
+      "bytes": 20106,
+      "directory": "statements",
+      "file_name": "nren.privacy.cpsr",
+      "path": "statements/nren.privacy.cpsr",
+      "title_guess": "\"Proposed Privacy Guidelines for the NREN\"",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 31, 1992",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The group advocated for the extension of first-amendment rights to computer and network systems.",
+        "NUSEF intended to act as a 'watch dog' group for the Computing Resource Center and University administration."
+      ],
+      "organizations": [
+        "Nebraska University Students for Electronic Freedom",
+        "Computing Resource Center",
+        "UNL"
+      ],
+      "people": [
+        "Carl",
+        "Dave Burchell",
+        "Lesli Thorn",
+        "Jim VandeVegt"
+      ],
+      "summary": "This document outlines the goals of the Nebraska University Students for Electronic Freedom (NUSEF). The group aimed to promote academic freedom and First Amendment rights on university computer systems while protecting user privacy. It also sought to act as a watchdog over the Computing Resource Center and broaden access to electronic communications.",
+      "title": "Nebraska University Students for Electronic Freedom Statement of Purpose",
+      "topics": [
+        "academic freedom",
+        "digital privacy",
+        "first amendment",
+        "university computing policy"
+      ]
+    },
+    "identity": {
+      "bytes": 1726,
+      "directory": "statements",
+      "file_name": "nusef.statement",
+      "path": "statements/nusef.statement",
+      "title_guess": "[Here is the Statement of Purpose from the Nebraska Students for",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 28, 1991",
+      "document_type": "policy",
+      "historical_relevance": "medium",
+      "notable_claims": [
+        "The OCF Board of Directors was required to meet weekly.",
+        "Resolutions could be passed electronically if at least half of the Board members agreed within seventy-two hours.",
+        "Directors missing two consecutive meetings were subject to removal from the Board."
+      ],
+      "organizations": [
+        "OCF"
+      ],
+      "people": [],
+      "summary": "This document outlines the governance and operational rules for the OCF Board of Directors. It specifies requirements for meeting frequency, attendance, quorum, and the process for electronic voting on resolutions.",
+      "title": "Bylaws of the OCF",
+      "topics": [
+        "governance",
+        "bylaws",
+        "electronic voting",
+        "organizational structure"
+      ]
+    },
+    "identity": {
+      "bytes": 1342,
+      "directory": "statements",
+      "file_name": "ocf.bylaws",
+      "path": "statements/ocf.bylaws",
+      "title_guess": "Bylaws of the OCF.",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1989-1991",
+      "document_type": "policy",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The OCF is dedicated to obtaining and managing open computing resources so no member of the campus community is denied access.",
+        "Faculty Sponsors hold ultimate authority over OCF actions, except for constitutional amendments.",
+        "All official OCF documents must be provided to interested parties without undue delay."
+      ],
+      "organizations": [
+        "Open Computing Facility",
+        "University of California, Berkeley",
+        "ASUC"
+      ],
+      "people": [],
+      "summary": "This document is the governing constitution for the Open Computing Facility (OCF) at UC Berkeley. It establishes a democratic structure for managing open computing resources, defining membership, officer roles, and decision-making processes. The text includes a Bill of Rights ensuring nondiscrimination, privacy, and freedom of information.",
+      "title": "The OCF Constitution",
+      "topics": [
+        "governance",
+        "open computing",
+        "student organizations",
+        "digital rights"
+      ]
+    },
+    "identity": {
+      "bytes": 14432,
+      "directory": "statements",
+      "file_name": "ocf.constitution",
+      "path": "statements/ocf.constitution",
+      "title_guess": "The OCF Constitution",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 1991",
+      "document_type": "policy",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "80% or more of security problems are related to poorly chosen passwords.",
+        "The cost of protecting against a threat should be less than the cost of recovering from it.",
+        "Internet connectivity shifted security threats from primarily internal insiders to global remote attackers."
+      ],
+      "organizations": [
+        "Network Working Group",
+        "CICNet",
+        "ISI",
+        "Site Security Policy Handbook Working Group (SSPHWG)",
+        "Internet Engineering Task Force (IETF)",
+        "Purdue University",
+        "Unisys",
+        "LLNL",
+        "Johns Hopkins University",
+        "University of Pittsburgh",
+        "CERT",
+        "SRI NISC",
+        "BBN",
+        "Pennsylvania State University",
+        "DEC",
+        "Carnegie-Mellon University"
+      ],
+      "people": [
+        "P. Holbrook",
+        "J. Reynolds",
+        "Dave Curry",
+        "Sean Kirkpatrick",
+        "Tom Longstaff",
+        "Greg Hollingsworth",
+        "Jeffrey Carpenter",
+        "Barbara Fraser",
+        "Fred Ostapik",
+        "Allen Sturtevant",
+        "Dan Long",
+        "Jim Duncan",
+        "Frank Byrum",
+        "Russell Brand"
+      ],
+      "summary": "This document serves as a framework for system administrators and decision-makers to establish computer security policies and procedures for sites connected to the Internet. It outlines the necessity of risk assessment, incident handling, and the creation of official site policies to mitigate threats like viruses, worms, and unauthorized access. The handbook emphasizes that security plans must be tailored to the specific culture and needs of an organization, whether academic or corporate.",
+      "title": "RFC 1244: Site Security Handbook",
+      "topics": [
+        "computer security policy",
+        "incident handling",
+        "network security",
+        "risk assessment",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "bytes": 253465,
+      "directory": "statements",
+      "file_name": "rfc1244.txt",
+      "path": "statements/rfc1244.txt",
+      "title_guess": "Network Working Group                                        P. Holbrook",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1989-1990",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The criteria for including or removing newsgroups should be identical to those for books in libraries.",
+        "Access to information in new forms should be subject only to financial limits and standard collection criteria.",
+        "Censorship is not an appropriate tool for preventing offensive behavior in a university setting."
+      ],
+      "organizations": [
+        "Stanford University",
+        "Academic Senate",
+        "Committee on Libraries",
+        "Computer Science Department",
+        "AIR",
+        "SDC"
+      ],
+      "people": [
+        "John McCarthy",
+        "Donald Kennedy",
+        "Arthur Coladarci",
+        "Joan Krasner",
+        "Gerald Gillespie"
+      ],
+      "summary": "John McCarthy describes a dispute at Stanford University regarding the suppression of the Usenet newsgroup rec.humor.funny. The document includes a protest statement from the Computer Science Department and a ruling from the Committee on Libraries arguing that electronic resources should be treated like library books. The effort successfully led to the restoration of the newsgroup after the administration deferred to the Academic Senate.",
+      "title": "Re: Censorship on the USENET",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "digital libraries",
+        "rec.humor.funny"
+      ]
+    },
+    "identity": {
+      "bytes": 5682,
+      "directory": "statements",
+      "file_name": "stanford.statements",
+      "path": "statements/stanford.statements",
+      "title_guess": "From comp.org.eff.talk Fri Nov  2 01:32:32 1990",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "document_type": "policy critique",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Censorship of CMC can create a 'chill' effect, discouraging researchers from taking on sensitive or controversial subjects.",
+        "The degree of voluntariness in exposure should be the primary metric for determining if intervention is justified.",
+        "University computing equipment should not be treated as a monolith; research machines require different policies than teaching servers.",
+        "CMC has the potential to be an ethically progressive medium if used for open, non-coercive intellectual discussion."
+      ],
+      "organizations": [
+        "University of British Columbia",
+        "Centre for Applied Ethics",
+        "Electronic Freedom Foundation",
+        "North Carolina Super-computer Group",
+        "Environmental Protection Agency"
+      ],
+      "people": [
+        "Peter Danielson",
+        "Strangway",
+        "Michael McDonald",
+        "Mill",
+        "Scanlon",
+        "Peter C. Newman"
+      ],
+      "summary": "Dr. Peter Danielson provides a moral and philosophical critique of proposed censorship policies regarding computer-mediated communication (CMC) at the University of British Columbia. He argues for a libertarian approach to free speech in research settings, emphasizing that exposure to offensive content is largely voluntary in digital environments. The document outlines risks that restrictive policies pose to specific academic research projects involving anonymity and sensitive ethical data.",
+      "title": "Submission to Task Force by Dr. Peter Danielson, Applied Ethics",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "computer-mediated communication",
+        "ethics",
+        "internet policy",
+        "privacy"
+      ]
+    },
+    "identity": {
+      "bytes": 22262,
+      "directory": "statements",
+      "file_name": "ubc.ca.appendix-c",
+      "path": "statements/ubc.ca.appendix-c",
+      "title_guess": "Please note: This is part of an on-line ASCII text version of the task",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 23, 1992",
+      "document_type": "policy critique",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Electronic media should not be treated differently than print media merely because it is easier to control.",
+        "Sexual harassment guidelines are a more effective route for dealing with offensive postings than broad censorship.",
+        "The display of nude pictures in public terminal rooms may constitute sexual harassment, whereas the mere existence of such material in a library does not.",
+        "University administrations should not make non-financial decisions about what people can and cannot read on campus."
+      ],
+      "organizations": [
+        "University of British Columbia",
+        "Electronic Frontier Foundation",
+        "AARNet",
+        "University of Waterloo",
+        "Harvard University",
+        "University of Toronto",
+        "Virginia's Public Education Network (PEN)",
+        "Princeton University",
+        "Dartmouth College"
+      ],
+      "people": [
+        "Richard S. Rosenberg",
+        "Chris Lewis",
+        "Chip Salzenberg",
+        "John McCarthy",
+        "Laurence Tribe",
+        "David Sadleir",
+        "Carl Kadie",
+        "Elizabeth M. Reid",
+        "Geoff Bronner",
+        "Marshall G. Flax",
+        "Ronald Dworkin",
+        "Susan Brownmiller",
+        "Andrea Dworkin",
+        "Gloria Steinem",
+        "George F. Will",
+        "John Stoltenberg"
+      ],
+      "summary": "A submission by Dr. Richard Rosenberg to a Task Force on Appropriate Use of Information Technology at the University of British Columbia. The document argues against censoring electronic media and suggests using sexual harassment guidelines rather than rigid content policies to manage offensive material. It includes an extensive collection of examples, newsgroup statistics, and legal perspectives regarding Usenet censorship and academic freedom.",
+      "title": "Free Speech, Pornography, Sexual Harassment, and Electronic Networks",
+      "topics": [
+        "academic freedom",
+        "Usenet",
+        "censorship",
+        "sexual harassment",
+        "acceptable use policy",
+        "free speech"
+      ]
+    },
+    "identity": {
+      "bytes": 32457,
+      "directory": "statements",
+      "file_name": "ubc.ca.appendix-d",
+      "path": "statements/ubc.ca.appendix-d",
+      "title_guess": "Please note: This is part of an on-line ASCII text version of the task",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "policy",
+      "historical_relevance": "medium",
+      "notable_claims": [
+        "Sexual harassment is defined as conduct of a sexual nature that is unwanted, accompanied by rewards/reprisals, or creates a hostile environment.",
+        "The policy applies when there is a sufficient nexus between the conduct and the functioning of the University.",
+        "Complaints must be lodged in writing within one calendar year after the event."
+      ],
+      "organizations": [
+        "University of British Columbia"
+      ],
+      "people": [],
+      "summary": "This document is Appendix F of a task force report from the University of British Columbia. It outlines the formal definitions, complaint procedures, mediation processes, and hearing protocols regarding sexual harassment within the university environment.",
+      "title": "UBC Sexual Harassment Policy",
+      "topics": [
+        "sexual harassment policy",
+        "university administration",
+        "disciplinary procedures",
+        "academic governance"
+      ]
+    },
+    "identity": {
+      "bytes": 20272,
+      "directory": "statements",
+      "file_name": "ubc.ca.appendix-f",
+      "path": "statements/ubc.ca.appendix-f",
+      "title_guess": "Please note: This is part of an on-line ASCII text version of the task",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "policy",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Computing facilities are primarily intended for teaching, research, and administrative purposes.",
+        "Users bear primary responsibility for material they access, send, or display.",
+        "Inappropriate use of IT facilities may result in the suspension of computing privileges.",
+        "Staff and faculty should receive training on identifying and handling inappropriate usage."
+      ],
+      "organizations": [
+        "University of British Columbia",
+        "University Computing Services",
+        "CABC"
+      ],
+      "people": [],
+      "summary": "This document contains appendices from a task force report regarding the appropriate use of information technology at the University of British Columbia. It provides recommended wording for account applications, university-wide procedures for handling inappropriate use, and specific action items for University Computing Services (UCS). The text emphasizes compliance with human rights policies and Canadian law.",
+      "title": "University of British Columbia Task Force Report Appendices G, H, and I",
+      "topics": [
+        "acceptable use policy",
+        "academic computing",
+        "information technology governance",
+        "digital etiquette"
+      ]
+    },
+    "identity": {
+      "bytes": 4758,
+      "directory": "statements",
+      "file_name": "ubc.ca.appendix-g-h-i",
+      "path": "statements/ubc.ca.appendix-g-h-i",
+      "title_guess": "Please note: This is part of an on-line ASCII text version of the task",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "document_type": "statement",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Once a site is connected to the Internet, it is virtually impossible to effectively control or censor accessed information.",
+        "The Task Force argues that UBC's approach should reflect Canadian socio-political traditions rather than American free speech traditions.",
+        "Some universities (Toronto, Stanford, Waterloo) rejected newsgroup censorship, while others (SFU, Alberta, Victoria) acted unilaterally to remove them.",
+        "Employer liability for sexual harassment depends on the efforts taken by the employer to remedy the problem."
+      ],
+      "organizations": [
+        "University of British Columbia",
+        "Women's Centre at the University of Winnipeg",
+        "AMS",
+        "Centre for Research in Women's Studies and Gender Relations",
+        "University of Toronto",
+        "Stanford University",
+        "University of Waterloo",
+        "Simon Fraser University",
+        "University of Alberta",
+        "University of Victoria",
+        "University of Manitoba",
+        "Queen's University",
+        "University of Michigan",
+        "Iowa University"
+      ],
+      "people": [
+        "Bernard Sheehan",
+        "Strangway"
+      ],
+      "summary": "This document provides background context for a University of British Columbia task force examining the appropriate use of information technology following the removal of pornographic material from university computers. It discusses the tension between preventing sexual harassment and maintaining academic freedom, while comparing UBC's approach to other North American universities. The text analyzes the technical difficulties of censoring the Internet and evaluates the legal framework under Canadian and British Columbian law.",
+      "title": "Background Material for the Task Force on the Appropriate Use of Information Technology (UBC)",
+      "topics": [
+        "internet censorship",
+        "academic freedom",
+        "sexual harassment policy",
+        "pornography",
+        "hate speech",
+        "Canadian law"
+      ]
+    },
+    "identity": {
+      "bytes": 25195,
+      "directory": "statements",
+      "file_name": "ubc.ca.background",
+      "path": "statements/ubc.ca.background",
+      "title_guess": "Please note: This is part of an on-line ASCII text version of the task",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "policy",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The task force recommends restoring access to all Usenet newsgroups due to their importance to teaching and research.",
+        "Freedom of communication should give way to the principle of a positive working and learning environment when users are involuntarily exposed to offensive messages.",
+        "Information technology should not be singled out for more restrictive treatment than other communication methods like telephones or libraries.",
+        "The community of IT users is historically narrow (predominantly male, European descent) and needs to be broadened to better represent diversity."
+      ],
+      "organizations": [
+        "University of British Columbia",
+        "University Computing Services",
+        "AMS Ombudsoffice"
+      ],
+      "people": [],
+      "summary": "This document is a task force report discussing the balance between freedom of communication and the creation of a safe learning environment at the University of British Columbia. It addresses the handling of offensive material, sexual harassment, and hate speech on campus networks. The report recommends restoring access to banned Usenet newsgroups while emphasizing user education and clear reporting procedures for abuse.",
+      "title": "Discussion on Appropriate Use of UBC Information Technology",
+      "topics": [
+        "academic freedom",
+        "acceptable use policy",
+        "Usenet",
+        "sexual harassment",
+        "internet censorship",
+        "digital divide"
+      ]
+    },
+    "identity": {
+      "bytes": 16862,
+      "directory": "statements",
+      "file_name": "ubc.ca.discussion",
+      "path": "statements/ubc.ca.discussion",
+      "title_guess": "Please note: This is part of an on-line ASCII text version of the task",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 1992",
+      "document_type": "policy",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "It is technically infeasible and inappropriate for a university to restrict access to material that some may consider offensive.",
+        "The University should reinstate access to all available newsgroups.",
+        "User education and established penalties for abuse are more effective than banning content."
+      ],
+      "organizations": [
+        "University of British Columbia",
+        "Campus Advisory Board on Computing"
+      ],
+      "people": [
+        "Bernard S. Sheehan",
+        "Maria Klawe",
+        "Robin Elliot",
+        "Susan Mair",
+        "Derek Miller",
+        "Jon Shapiro",
+        "Veronica Strong-Boag",
+        "Teresa Tenisci",
+        "Shirley Marcus",
+        "Peter Danielson",
+        "Richard Rosenberg"
+      ],
+      "summary": "A report from a University of British Columbia task force regarding the intersection of information technology and the university's Sexual Harassment Policy. The task force recommends reinstating access to all newsgroups, arguing that restricting offensive material is technically infeasible and inappropriate for a university. It proposes focusing on user education and establishing clear procedures for reporting abuses rather than implementing bans.",
+      "title": "Report of the Task Force on the Appropriate Use of Information Technology",
+      "topics": [
+        "internet censorship",
+        "usenet newsgroups",
+        "sexual harassment policy",
+        "academic freedom",
+        "acceptable use policy"
+      ]
+    },
+    "identity": {
+      "bytes": 10667,
+      "directory": "statements",
+      "file_name": "ubc.ca.overview",
+      "path": "statements/ubc.ca.overview",
+      "title_guess": "Please note: This is part of an on-line ASCII text version of the task",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,129 @@
+
+From kadie@dante.cs.uiuc.edu Tue Aug 25 15:46:49 1992
+Received: from dante.cs.uiuc.edu by eff.org with SMTP id AA12420
+ (5.65c/IDA-1.4.4/pen-ident for <kadie@eff.org>); Tue, 25 Aug 1992 15:46:44 -0400 
+Received: by dante.cs.uiuc.edu id AA03093
+  (5.65c/IDA-1.4.4_DANTE for kadie@eff.org); Tue, 25 Aug 1992 14:42:55 -0500
+Date: Tue, 25 Aug 1992 14:42:55 -0500
+From: "Carl M. Kadie" <kadie@dante.cs.uiuc.edu>
+Message-Id: <199208251942.AA03093@dante.cs.uiuc.edu>
+To: kadie@eff.org
+Subject: [alt.censorship]  Re: Public posting of private e-mail.
+Status: R
+
+Newsgroups: alt.censorship
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject:  Re: Public posting of private e-mail.
+Message-ID: <1992Aug24.92353.3596@ms.uky.edu>
+Date: Mon, 24 Aug 1992 13:23:53 GMT
+
+sbradley@scic.intel.com (Seth Bradley) writes:
+>I agree that one should be able to stop offending e-mail.  
+
+Sure!  There are several "mail filtering" programs available; one of the
+best of these is "procmail", which is availabel from many FTP sites.  Get
+procmail and install it; you can then filter your mail to your heart's 
+content.
+
+>However, before
+>one posts private e-mail, there is another step that can be taken, namely
+>mailing to the offender's sysadmin.  From (second hand) personal experience,
+>this is often effective.  
+> [ ... ]
+>The main point is, talking to a sysadmin is likely to be far more
+>effective than posting e-mail.  
+
+The effectiveness of "talking to a sysadmin" varies greatly.  If the site
+is commercial, you may very well succeed.  If, however, the site is aca-
+demic, your chances are "not so good".
+
+I'm the sysadmin for the UK College of Engineering (engr.uky.edu, NOT
+ms.uky.edu (from which this posting originates)), and I routinely receive
+messages such as "your user XXXX called me a YYYYY on the mailing list!
+Terminate his email NOW!".  I usually get a chuckle from this.  I've never
+rescinded a user's email privileges; with the exception of illegal activi-
+ties (emailing pirate software after repeated warnings, for example), I 
+doubt that I ever will.
+
+One must accept the good with the bad.  If you enjoy full communications
+privileges (and wish them extended to others), you WILL, eventually, be
+offended.  It's part of the virtual territory.  
+
+--Wes
+
+-- 
+MORGAN@UKCC         |       Wes Morgan       |        ...!ukma!ukecc!morgan 
+morgan@ms.uky.edu   | Engineering  Computing |   morgan@wuarchive.wustl.edu
+morgan@engr.uky.edu | University of Kentucky | JWMorgan@dockmaster.ncsc.mil
+  Mailing list for AT&T StarServer S/E  - starserver-request@engr.uky.edu
+
+From caf-talk Caf Mar  5 00:00:00 1992
+Newsgroups: uiuc.cs.problems
+From: ullmer@suna3.cs.uiuc.edu (Brygg Ullmer)
+Subject: Article 11--Re: Is there a way I can block-out certain e-mail?
+Message-ID: <1992Mar5.164036.26921@sunb10.cs.uiuc.edu>
+Date: Thu, 5 Mar 1992 16:40:36 GMT
+
+In <1992Mar3.013144.3462@m.cs.uiuc.edu> soufi@m.cs.uiuc.edu (Khaled S. Soufi) writes:
+
+>I was wondering if anyone out there knows of any simple (?!) way to
+>block-out certain people (addresses) from sending e-mail to me!  I
+>guess I can write a little utility that can search my mail file and
+>delete all messages that came from undesirable addresses but is there
+>anything better than that?  Thanks in advance for any *wise*
+>suggestion.
+
+Yes... you can use the filter program, if elm has been installed on your
+system.  If you haven't run elm before, run it once so that it can create
+the appropriate directories in your account.  Then, you have filter invoked
+by the reception of new mail by putting "| /usr/local/bin/filter" (with the
+quotes) in your .forward file (the directory may be different from system
+to system; type "which filter" to get the appropriate directory).  Finally,
+you set up a filter-rules file in your .elm directory, which might contain
+the following:
+
+if (from contains "unwanted-person-name") then save unwanted.message 
+#alternatively, replace "save unwanted..." with "delete"
+if (always) then leave
+
+Be sure to check your filter-rules out for proper working order by
+running "filter -n < sample.msg" on both messages which should be deleted and
+messages which should be saved (including the header); filter will tell you what
+it would do with the message if run with the current filter-rules.
+
+Check the filter man page for more information.
+
+Brygg Ullmer
+
+
+------------------------------
+
+From caf-talk Caf Mar  5 00:00:00 1992
+Newsgroups: uiuc.cs.problems
+From: schwager@cs.uiuc.edu (Mike Schwager)
+Subject: Article 12--Re: Is there a way I can block-out certain e-mail?
+Message-ID: <1992Mar6.021936.5715@m.cs.uiuc.edu>
+Date: Fri, 6 Mar 1992 02:19:36 GMT
+
+In article <1992Mar3.013144.3462@m.cs.uiuc.edu>, soufi@m.cs.uiuc.edu (Khaled S. Soufi) writes:
+|> I was wondering if anyone out there knows of any simple (?!) way to
+|> block-out certain people (addresses) from sending e-mail to me!  I
+|> guess I can write a little utility that can search my mail file and
+|> delete all messages that came from undesirable addresses but is there
+|> anything better than that?  Thanks in advance for any *wise*
+|> suggestion.
+ +------------------------------------+--------------------------+
+
+I suggest using MH.  There are manuals in the library.  Basically, you can create a .forward file that looks like this:
+
+"| /local/lib/mh/slocal -user schwager"
+
+and then you can have a mail delivery file that looks like this:
+
+from nastyperson qpipe ?: "/bin/cat > /dev/null 2>&1"
+addr schwager qpipe ?: "/local/lib/mh/rcvstore +Sysadm"
+
+Automagic!
+
+Many more configuration options are available.
+-Mike

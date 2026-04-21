@@ -1,0 +1,442 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Students were expelled or reprimanded for 'obscenity' or 'rudeness' in Netnews and email.",
+        "Some universities screened outgoing Netnews articles to ensure nothing was 'grossly wrong'.",
+        "Case Western deleted a post containing source code to prevent potential network disruption.",
+        "A federal court ruled that content-based prohibitions on racist email at the University of Wisconsin at Eau Claire violated the First Amendment."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Ohio State University",
+        "National Center for Supercomputer Applications",
+        "University of Illinois",
+        "Purdue University",
+        "Case Western Reserve University",
+        "University of Kentucky",
+        "Boston University",
+        "Stanford University",
+        "University of Waterloo",
+        "University of Toledo",
+        "National Science Foundation",
+        "Western Washington University",
+        "University of Washington",
+        "University of Illinois at Chicago",
+        "Iowa State University",
+        "Penn State University",
+        "University of Texas",
+        "University of Newcastle",
+        "James Madison University",
+        "University of Wisconsin at Eau Claire"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Steve Brack"
+      ],
+      "summary": "A comprehensive list compiled by Carl Kadie documenting instances of censorship, content banning, and disciplinary actions regarding computer use at various universities. The items include the banning of specific newsgroups (e.g., alt.sex, rec.humor.funny), deletion of source code, and punishments for 'offensive' or 'rude' electronic communications. It highlights early conflicts between university administrative policies and First Amendment rights in the context of networked computing.",
+      "title": "Banned Computer Material 1991 (end of year update)",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "Usenet",
+        "First Amendment",
+        "university policy",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 18 Dec 1991 18:15:08 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 0,
+      "message_id": "<1991Dec18.181508.10501@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "Banned Computer Material 1991 (end of year update)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 12, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The university argues that the volume of Usenet traffic precludes individual article review, necessitating filtering by newsgroup name.",
+        "Publicly funded infrastructure (NSF) is cited as a reason for implementing content controls to avoid misuse of state/federal funds.",
+        "The policy explicitly links access levels to 'individual intellectual responsibility' and compliance with sexual harassment policies."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "Electronic Frontier Foundation",
+        "National Science Foundation",
+        "MIDnet",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Iowa State University's Computation Center established a new Usenet News Policy to manage the distribution of potentially objectionable or illegal content. The policy introduces three tiers of access: Focused (academic only), Standard (default, excluding pornography/illegal content), and Full (all lists upon request). It highlights the tension between academic freedom, public funding of network infrastructure (NSF), and the need for content control in a university environment.",
+      "title": "New news censorship policy at Iowa State University",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "content filtering",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 16 Dec 1991 19:26:59 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 1,
+      "message_id": "<1991Dec16.192659.21805@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "Re: New news censorship policy at Iowa State University",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 16, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "ISU implemented a 'Standard List' of newsgroups to exclude content potentially conflicting with child protection, pornography laws, and sexual harassment policies.",
+        "Access to excluded groups required a 'FULL NEWSGROUP ACCESS REQUEST' form."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Iowa State University announced a new Usenet access policy effective January 6, 1992. The university created a 'Standard List' that excluded groups related to drugs and sex to avoid conflicts with law and sexual harassment policies. Access to these excluded groups required a formal request form submitted to the Computation Center.",
+      "title": "New news censorship policy at Iowa State University",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "university policy",
+        "internet access"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 16 Dec 1991 20:05:45 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 2,
+      "message_id": "<1991Dec16.200545.23159@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "Re: New news censorship policy at Iowa State University",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 16, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Requiring a signed form to access controversial newsgroups may violate the Library Bill of Rights.",
+        "University computer forums should be treated as limited public forums where viewpoint-based discrimination is forbidden.",
+        "The practice of labeling or segregating materials by 'prejudicial' systems is viewed by the ALA as a censor's tool."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Iowa State University",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Steven L. Kunz"
+      ],
+      "summary": "Carl Kadie of the EFF critiques a new Usenet access policy at Iowa State University that restricts 'controversial' newsgroups to a non-default list requiring a signed form. Kadie argues that treating computer networks as library resources makes such restrictions a violation of the Library Bill of Rights and First Amendment protections against viewpoint discrimination.",
+      "title": "Re: New news censorship policy at Iowa State University",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "library policy",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 16 Dec 1991 19:16:20 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 3,
+      "message_id": "<1991Dec16.191620.21567@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "Re: New news censorship policy at Iowa State University",
+      "to_or_newsgroups": "",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-12-19",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Text-based newsgroups are unlikely to meet the Miller v. California obscenity test.",
+        "State universities are bound by the 14th Amendment when formulating sexual harassment policies that may limit access to information."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Iowa State University"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Carl M. Kadie"
+      ],
+      "summary": "Mike Godwin of the Electronic Frontier Foundation (EFF) challenged Iowa State University's decision to restrict access to certain Usenet newsgroups. The university had excluded groups based on perceived conflicts with child protection, pornography, and sexual harassment laws. Godwin argued that text-based newsgroups generally do not meet legal definitions of obscenity or violate federal child pornography statutes.",
+      "title": "news policy at iowa state",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "First Amendment",
+        "academic freedom",
+        "obscenity law"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 19 Dec 1991 17:58:22 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 4,
+      "message_id": "<1991Dec19.175822.21404@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "news policy at iowa state",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 18 Dec 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "University computer use policies should not override contractual guarantees of freedom from institutional censorship.",
+        "Bad speech in a free speech forum should be competed against rather than outlawed."
+      ],
+      "organizations": [
+        "Marquette University",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Ann Mallinger"
+      ],
+      "summary": "Carl Kadie responds to a notice from Marquette University stating that a student's computer access was revoked due to an 'inflammatory message.' Kadie argues that the punishment violates academic freedom and free speech principles, citing the Joint Statement on Rights and Freedoms of Students.",
+      "title": "Re: Inappropriate Use by 2714sviatkos",
+      "topics": [
+        "academic freedom",
+        "acceptable use policy",
+        "student rights",
+        "censorship",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 18 Dec 1991 21:58:46 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 5,
+      "message_id": "<1991Dec18.215846.17384@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "Re: Inappropriate Use by 2714sviatkos",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 20, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Once student forums are created, they should not be censored.",
+        "Netnews functions more like a student-controlled newspaper than an administrative voice.",
+        "University exercise of editorial control may increase the institution's legal liability for content."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Richard Caley"
+      ],
+      "summary": "Carl M. Kadie argues that university-provided network services should be treated as student forums and protected from censorship. He references the Electronic Frontier Foundation's Joint Statement to argue that institutional control of facilities should not be used as a device for censorship. The discussion contrasts editorial control with the suppression of free expression on campus networks.",
+      "title": "Re: Inappropriate Use by 2714sviatkos",
+      "topics": [
+        "censorship",
+        "student speech",
+        "network access",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 20 Dec 1991 18:40:53 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 6,
+      "message_id": "<1991Dec20.184053.24331@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "Re: Inappropriate Use by 2714sviatkos",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 16, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Removing a newsgroup is equivalent to banning a magazine from an academic library.",
+        "Stanford University banned rec.humor.funny in 1989 but lifted the ban after a committee recommended following library policy.",
+        "The University of Waterloo lifted bans on rec.humor.funny and alt.sex in October 1991."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Iowa State University",
+        "Stanford University",
+        "University of Waterloo",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Michael L Begley",
+        "John McCarthy"
+      ],
+      "summary": "In response to a student's query about Usenet censorship at Iowa State University, Carl Kadie provides resources arguing that newsgroup selection should follow established library policies. He cites precedents from Stanford University and the University of Waterloo where bans on groups like rec.humor.funny were successfully challenged. The post promotes the application of American Library Association (ALA) principles to digital information management.",
+      "title": "Re: New news censorship policy at Iowa State University",
+      "topics": [
+        "Usenet censorship",
+        "academic freedom",
+        "library policy",
+        "digital rights"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 16 Dec 1991 15:41:49 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 7,
+      "message_id": "<1991Dec16.154149.15030@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "Re: New news censorship policy at Iowa State University",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 20, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Screening Netnews for offensive articles may increase a university's legal liability.",
+        "Courts have found institutions free from liability when control of publications is left to students rather than administrators.",
+        "The Cubby v. CompuServe decision suggests that distributors without editorial control are not liable for defamatory statements."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation (EFF)",
+        "University of Illinois at Urbana-Champaign",
+        "Marquette University",
+        "CompuServe"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "John A. Burns"
+      ],
+      "summary": "Carl Kadie responds to a query about university liability for offensive Netnews content by citing EFF resources and legal precedents. He argues that exercising editorial control or screening may actually increase a university's legal liability compared to a no-screening policy. The post references the Cubby v. CompuServe decision and the Law of the Student Press to support the separation of administration from student publication functions.",
+      "title": "Re: Inappropriate Use by 2714sviatkos",
+      "topics": [
+        "Netnews",
+        "university liability",
+        "prior review",
+        "academic freedom",
+        "student press",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 20 Dec 1991 04:54:45 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 8,
+      "message_id": "<1991Dec20.045445.4243@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "Re: Inappropriate Use by 2714sviatkos",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Dec 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The author's network account was suspended following the posting of explicit parody material and subsequent arguments.",
+        "The author references a separate incident involving a student being expelled from Ohio State University."
+      ],
+      "organizations": [
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Joseph Merton"
+      ],
+      "summary": "Joseph Merton describes the suspension of his network account following a controversy over an explicit Star Trek parody posted to rec.arts.startrek. He claims that despite providing content warnings, the resulting 'flame war' and complaints led to the censorship of his posts and the eventual loss of his net privileges.",
+      "title": "Banned Computer Material 1991",
+      "topics": [
+        "censorship",
+        "netiquette",
+        "account suspension",
+        "Usenet"
+      ]
+    },
+    "identity": {
+      "date": "19 Dec 91 19:32:41 GMT",
+      "from": "merton@sumter.cso.uiuc.edu (Joseph Merton)",
+      "item_count": 10,
+      "item_index": 9,
+      "message_id": "<9112191932.AA13509@sumter.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n44",
+      "subject": "Banned Computer Material 1991",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

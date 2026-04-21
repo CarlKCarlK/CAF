@@ -1,0 +1,152 @@
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject:  Re: Policy from the Stevens Institute of Technology login
+Date: 8 Nov 1993 20:31:14 -0500
+Message-ID: <2bmrt2$j3f@eff.org>
+
+A critique.
+
+Summary: Due process is poor with punishment proceeding "conviction"
+by special computer judicial committee. Privacy protection is vague
+without details of how keystroke monitoring of users is authorized.
+Free expression protection is poor with some programs and (apparently)
+pseudonymous expression banned.
+
+>	Unauthorized use is not allowed; keystroke monitoring by 
+>	authorized personnel may be in effect when system security or 
+>	integrity is in question.  By using this system, you expressly 
+>	consent to such monitoring and any resultant legal actions.
+
+This is actually better than the CERT original. At least the criteria
+for monitoring authorized users is "when system security or integrity
+is in question" rather than when a authorized user is suspected of
+exceeding his or her authority. Also it says "keystroke monitoring"
+rather than just "monitoring".
+
+What it doesn't do is detail how Institute personnel get authorization
+to monitor the keystrokes of authorized users. Is every Institute
+employee preauthorized to start monitoring on his or her own? Or does
+authorization come from some higher official on a case-by-case basis?
+The _Joint Statement on Rights and Freedoms of Students_ recommends:
+
+  Except under extreme emergency circumstances, premises occupied by
+  students and the personal possessions of students should not be
+  searched unless appropriate authorization has been obtained. For
+  premises such as residence halls controlled by the institution, an
+  appropriate and responsible authority should be designated to whom
+  application should be made before a search is conducted. The
+  application should specify the reasons for he search and the objects
+  or information sought. The student should be present, if possible,
+  during the search. For premises not controlled by the institution,
+  the ordinary requirements for lawful search should be followed.
+
+If you believe that academic freedom principles should apply to
+computers, this could easily be extended to computer monitoring.
+
+>        ANTI-WATCHDOG programs are prohibited on the VAXcluster.
+[...]
+>Sending electronic mail or messages to other users at Stevens (or elsewhere)
+>UNDER A PHONEY USERNAME is not permitted.  Having mail-sending programs which 
+>falsify the sender's identity is also not allowed since this type of program 
+>is only "useful" for sending phoney mail.  
+[...]
+
+Mere possession of programs should not be banned. Programs are
+expressive material and should be protected by the Institute's
+commitment to free expression. At most the Institute should require
+that banned-from-running programs be disabled so they can't be
+executed accidently.
+
+As to prohibiting "phoney" usernames. "Phoney" was an interesting word
+choice. I believe it comes from the early days of the telephone when
+people wuold make fraudulant phone calls pretending to be someone
+else. If the Institute only means to prohibit fraudulent
+impersonation, then I wish them all the best. If, on the other hand,
+they also mean to prohibit all pseudonymous and anonymous expression
+than I think they go to far. As the Supreme Court said in _Tally v.
+California_: "{a}nonymously pamphlets, leaflets, brochures and even
+books have played an important role in the progress of mankind.
+Persecuted groups and sects from time to time throughout history have
+been able to criticize oppressive practices and laws either
+anonymously or not at all."
+
+>	Sending "chain" letters is not permitted on Stevens campus
+>	network or externally out across Internet, BITNET, etc.
+>	This is considered a serious offense by the guidelines of
+>	the Network Review Board.  Violators are subject to loss
+>	of access to the academic VAXcluster pending deliberation/decision
+>	by the Network Review Board (student policy-enforcing group.)
+[...]
+
+This reminds me a line from Lewis Carroll's _Alice in Wonderland_:
+
+   "No, no," said the Queen: "The sentence first -- the verdict
+    afterwards."
+
+In contrast, the Joint Statement on Rights and Freedoms of Students
+says:
+
+   Pending action on the charges, the status of a student should not
+   be altered, or his right to be present on the campus and to attend
+   classes suspended, except for reasons relating to his physical or
+   emotional safety and well being, or for reasons relating to the
+   safety and well-being of students, faculty, or university property.
+
+Also, how does the Network Review Board fit in the the Institute's
+larger due process procedures? What training does the Board get?
+Respecting due process is a difficult and important task that should
+only be given to committees with extensive training. Most academic
+institutions would do better to treat computer infractions like other
+school infractions, rather than trying to set up a computer center
+specific judicial system.
+
+- Carl
+
+academic/student.freedoms.aaup
+statements/caf-statement
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+-----------------------------
+
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject:  Re: Policy from the Stevens Institute of Technology login
+Date: 8 Nov 1993 19:19:06 -0500
+Message-ID: <2bmnlq$iih@eff.org>
+
+Comments from someone at Stevens:
+
+[...]
+Note that at SIT, mere possession of "phony mail" programs is a crime, and
+computer accounts are suspended before any hearings in the case of chain mail.
+[...]
+(FWIW, the Network Review Board is viewed by some on campus as a mere puppet
+of the Computer Center, and not an autonomous group. But that's another story.)
+[...]
+
+[Two additional notes:]
+
+>>        ANTI-WATCHDOG programs are prohibited on the VAXcluster.
+ 
+
+The Watchdog (according to the Computer Center) only watches for processes
+that have been idle for XX minutes and logs them out.  The reasons are (1) to
+free up the processors and (2) to eliminate the possible use of an account that
+was inadvertantly left logged without the account holder being present.
+
+
+>>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>Sending electronic mail or messages to other users at Stevens (or elsewhere)
+>>UNDER A PHONEY USERNAME is not permitted.  Having mail-sending programs which 
+>>falsify the sender's identity is also not allowed since this type of program 
+>>is only "useful" for sending phoney mail.  
+>>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+What about anonymous remailers?
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+

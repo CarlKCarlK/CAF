@@ -1,0 +1,461 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "September 20, 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "Locking out users suspected of hacking should be balanced against the user's right to access and due process.",
+        "University contractual rights regarding residence hall postings cannot supersede the US Constitution.",
+        "Institutions should provide access to 'alt' newsgroups, focusing on regulating inappropriate behavior rather than restricting content."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Iowa State University",
+        "Dartmouth College",
+        "World University Service"
+      ],
+      "people": [
+        "Paul Joslin",
+        "Carl M. Kadie",
+        "William W. Arnold",
+        "Elizabeth M. Reid",
+        "Adam C. Gross",
+        "Mark C. Sheehan",
+        "John F. Nixon",
+        "J.S. Greenfield",
+        "Laksiri Fernando"
+      ],
+      "summary": "This digest summarizes several debates regarding the intersection of computing and academic freedom. Key discussions include the ethics of locking out users suspected of account misuse, censorship of physical postings at Iowa State University, and the provision of access to 'alt' newsgroups on university systems.",
+      "title": "Abstract of CAF-News 02.46",
+      "topics": [
+        "due process",
+        "account lockouts",
+        "censorship",
+        "Usenet",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "joslin@tso.uc.edu (Paul Joslin)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 0 -- Abstract of CAF-News 02.46",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "17 Sep 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The institution uses 'crack' to proactively identify and lock out users with weak passwords.",
+        "Locking out accounts is mitigated by reinstating them upon presentation of a student ID.",
+        "Providing restricted access (compiler/editor without network) for students awaiting due process is technically difficult."
+      ],
+      "organizations": [
+        "UMass/Boston"
+      ],
+      "people": [
+        "Elizabeth Schwartz"
+      ],
+      "summary": "Elizabeth Schwartz describes the practice of locking out users by changing their shells after discovering weak passwords via 'crack'. She argues that immediate lockout is necessary for system security and questions whether due process requires allowing a known cracker continued unrestricted access. She suggests that providing restricted environments for schoolwork would be technically difficult on their network.",
+      "title": "Article 1--Re: Locking out users",
+      "topics": [
+        "system administration",
+        "account lockout",
+        "security policy",
+        "due process",
+        "password cracking"
+      ]
+    },
+    "identity": {
+      "date": "17 Sep 92 03:46:41 GMT",
+      "from": "betsys@cs.umb.edu (Elizabeth Schwartz)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<BETSYS.92Sep16224641@ra.cs.umb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 1--Re: Locking out users",
+      "to_or_newsgroups": "comp.admin.policy,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 17 Sep 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Excessive account lockouts can lead users to share accounts, escalating security risks.",
+        "Some universities have permanently barred users from systems as a disciplinary measure.",
+        "The right of a user to access university computing resources should be balanced against the collective need for system security."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "Pennsylvania State University",
+        "Ohio State University"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "David Barr"
+      ],
+      "summary": "A discussion between Carl Kadie and David Barr regarding the ethics of locking user accounts during suspected security breaches. Kadie argues that excessive lockouts for authorized university members can escalate problems and may constitute a violation of due process.",
+      "title": "Article 2--Re: Locking out users",
+      "topics": [
+        "due process",
+        "account lockouts",
+        "system administration",
+        "academic freedom",
+        "computer security"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 17 Sep 1992 18:27:42 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<1992Sep17.182742.335@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 2--Re: Locking out users",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "17 Sep 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Temporary account disabling is a necessary security response to suspected breaches.",
+        "Educational institutions have sensitive databases (personnel, registrar, accounting) that require strict access control."
+      ],
+      "organizations": [
+        "Virginia Tech"
+      ],
+      "people": [
+        "Valdis Kletnieks",
+        "Rahul Dhesi"
+      ],
+      "summary": "Valdis Kletnieks argues that system administrators are justified in temporarily disabling user accounts when there is evidence of unauthorized access or hacking. He distinguishes between temporary security lockdowns and permanent bans, suggesting the former is a necessary preventative measure regardless of whether all hacking is inherently dangerous.",
+      "title": "Article 3--Re: Locking out users",
+      "topics": [
+        "system administration",
+        "hacking",
+        "account suspension",
+        "security policy",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "17 Sep 92 22:15:01 GMT",
+      "from": "valdis@vttcf.cc.vt.edu (Valdis Kletnieks)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<7012@vtserf.cc.vt.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 3--Re: Locking out users",
+      "to_or_newsgroups": "comp.unix.shell,comp.unix.admin,comp.unix.wizards,comp.admin.policy,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Sep 17, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Lockouts in academic environments are only justified if accounts are compromised, less drastic communication fails, serious offenses continue, or due process has been followed.",
+        "Some university computer policies provide a false illusion of due process while granting expansive discretion for harsh punishment.",
+        "Certain institutional policies may violate federal FERPA regulations by allowing the seizure of user files."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Ohio State University",
+        "Baylor University",
+        "Central Michigan University",
+        "Middle East Technical University",
+        "University of Illinois at Chicago"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie discusses the ethical and procedural requirements for locking users out of academic computer systems, arguing that such actions should generally follow due process. He provides a series of critiques regarding university computer policies that lack transparency or fair appeal processes. The post highlights specific institutional failures in protecting user rights across several universities.",
+      "title": "Article 4--Due process when Locking out users",
+      "topics": [
+        "due process",
+        "computer policy",
+        "user lockouts",
+        "academic freedom",
+        "digital rights"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 17 Sep 1992 00:05:46 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<1992Sep17.000546.19059@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 4--Due process when Locking out users",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "17 Sep 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Iowa State University implemented a policy on August 16, 1992, prohibiting materials in student room corridors.",
+        "Violations of the posting policy could result in the termination of student housing contracts."
+      ],
+      "organizations": [
+        "Iowa State University"
+      ],
+      "people": [
+        "Matthew T. Russotto",
+        "Carl M. Kadie",
+        "Mark A Anstrom"
+      ],
+      "summary": "A discussion regarding a new policy at Iowa State University prohibiting the posting of materials on the exterior of student rooms. The policy warns that 'creative' methods to circumvent these rules will be handled contractually, potentially leading to termination of housing contracts.",
+      "title": "Censorship at Iowa State",
+      "topics": [
+        "censorship",
+        "student housing",
+        "university policy",
+        "freedom of expression"
+      ]
+    },
+    "identity": {
+      "date": "17 Sep 92 22:03:07 GMT",
+      "from": "russotto@eng.umd.edu (Matthew T. Russotto)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<1992Sep17.220307.1470@eng.umd.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 5--Re: [alt.censorship]  Censorship at Iowa State",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.censorship",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Sep 18, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The absence of viewpoint discrimination is not evidence of the absence of censorship.",
+        "Contractual rights of a state university cannot supersede the US Constitution."
+      ],
+      "organizations": [
+        "Iowa State University"
+      ],
+      "people": [
+        "J. S. Greenfield",
+        "Wes Morgan"
+      ],
+      "summary": "J. S. Greenfield argues against a university policy restricting 'door art' and postings in residence halls at Iowa State University. He contends that uniform application of a restrictive rule does not negate censorship and that state universities cannot use contractual agreements to supersede First Amendment rights.",
+      "title": "Re: Censorship at Iowa State",
+      "topics": [
+        "censorship",
+        "First Amendment",
+        "student speech",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 18 Sep 92 14:03:41 EDT",
+      "from": "greeny@top.cis.syr.edu (J. S. Greenfield)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<1992Sep18.140341.8023@newstand.syr.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 6--Re: Censorship at Iowa State",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Sep 18, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Public university administrations are subject to government free speech restrictions.",
+        "Banning all expression in a public area is still a form of censorship, even if it is not viewpoint discrimination."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "J. S. Greenfield",
+        "Wes Morgan",
+        "Carl Kadie"
+      ],
+      "summary": "A discussion regarding the legality of Iowa State University's restrictions on posting materials on dormitory doors. The author argues that as a public institution, the university administration acts as the government and cannot arbitrarily restrict free expression in public areas. The debate centers on whether such policies constitute censorship or legitimate 'time, place and manner' restrictions.",
+      "title": "Re: Censorship at Iowa State",
+      "topics": [
+        "censorship",
+        "free speech",
+        "public universities",
+        "first amendment"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 18 Sep 92 14:30:18 EDT",
+      "from": "greeny@top.cis.syr.edu (J. S. Greenfield)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<1992Sep18.143018.8205@newstand.syr.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 7--Re: Censorship at Iowa State",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Sep 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Dartmouth Computing Services decided not to engage in the 'censorship business' regarding student printing.",
+        "Decisions on newsgroup feeds at Dartmouth were primarily departmental rather than university-wide."
+      ],
+      "organizations": [
+        "Dartmouth College",
+        "University of Oregon"
+      ],
+      "people": [
+        "Geoff Bronner",
+        "David M. Meyer"
+      ],
+      "summary": "Geoff Bronner discusses Dartmouth's policy of receiving all newsgroups, including the alt.* hierarchy. He notes that while Computing Services makes these decisions, they have historically avoided censorship, even when students printed questionable material. Bronner argues that if a site can afford the feed, it should allow full access to avoid restricting content.",
+      "title": "Article 8--Re: What do you do about alt.*",
+      "topics": [
+        "Usenet",
+        "alt.* hierarchy",
+        "censorship",
+        "university network policy"
+      ]
+    },
+    "identity": {
+      "date": "19 Sep 92 21:07:18 GMT",
+      "from": "geoffb@coos.dartmouth.edu (Geoff Bronner)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<1992Sep19.210718.10207@dartvax.dartmouth.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 8--Re: What do you do about alt.*",
+      "to_or_newsgroups": "news.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-09-21",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Suggests that offensive content should be managed via public behavior policies rather than restricting private access or storage."
+      ],
+      "organizations": [
+        "Princeton University",
+        "University of Oregon"
+      ],
+      "people": [
+        "Marshall G. Flax",
+        "David M. Meyer"
+      ],
+      "summary": "Marshall G. Flax responds to a query regarding the management of the 'alt' newsgroup hierarchy and offensive imagery at universities. He argues against restricting private reading or storage, suggesting instead that policies focus on public behavior and printing restrictions. He notes that Princeton University employs a similar policy.",
+      "title": "Article 9--Re: What do you do about alt.*",
+      "topics": [
+        "Usenet",
+        "acceptable use policy",
+        "censorship",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 21 Sep 1992 02:05:03 GMT",
+      "from": "mgflax@miro.Princeton.EDU (Marshall G. Flax)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<1992Sep21.020503.9397@Princeton.EDU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 9--Re: What do you do about alt.*",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1988",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Academic freedom is an essential pre-condition for the functions of higher education institutions.",
+        "Institutions of higher education should strive to prevent scientific and technological dependence.",
+        "Universities have an obligation to prevent the misuse of science and technology to the detriment of human rights."
+      ],
+      "organizations": [
+        "World University Service",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Laksiri Fernando"
+      ],
+      "summary": "Carl Kadie shares the 'Lima Declaration on Academic Freedom and Autonomy of Institutions of Higher Education,' adopted by the World University Service in 1988. The document defines academic freedom as the right of the academic community to pursue and transmit knowledge without interference or repression. It emphasizes institutional autonomy from state control and the responsibility of universities to prevent the misuse of science and technology.",
+      "title": "World University Service's Academic Freedom declaration",
+      "topics": [
+        "academic freedom",
+        "institutional autonomy",
+        "human rights",
+        "higher education"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 18 Sep 1992 17:47:23 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<1992Sep18.174723.21325@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n46",
+      "subject": "Article 10--World University Service's Academic Freedom declaration",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

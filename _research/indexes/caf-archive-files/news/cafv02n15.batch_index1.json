@@ -1,0 +1,519 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 29, 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "The University of Nebraska's removal of alt.* newsgroups was contested as potentially using 'limited resources' as a pretext for censoring controversial content.",
+        "System administrators at the University of Illinois held varying views on whether email searches require judicial authorization.",
+        "Gordon Cook argued that the National Science Foundation should drop its acceptable use policy to allow commercial enterprises to improve research and education services."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Nebraska",
+        "University of Illinois",
+        "Auburn University",
+        "University of Southern California",
+        "National Science Foundation",
+        "University of Delaware"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Gordon Cook",
+        "Wes Morgan",
+        "Mike Godwin",
+        "Kent Landfield",
+        "Eric Hunt"
+      ],
+      "summary": "This abstract summarizes several debates regarding academic freedom and computing, including the removal of alt.* newsgroups at the University of Nebraska and email privacy polls among system administrators. It also covers issues of hate speech on campuses, National Science Foundation acceptable use policies, and a critique of the University of Delaware's computer policy proposal.",
+      "title": "Article 0 -- Abstract of CAF-News 02.15",
+      "topics": [
+        "Netnews censorship",
+        "email privacy",
+        "acceptable use policy",
+        "academic freedom",
+        "hate speech"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 0 -- Abstract of CAF-News 02.15",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 24, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Charging users for specific newsgroups creates a managerial nightmare regarding access control.",
+        "The cost of providing news services includes maintenance contracts, salaries, and phone line fees, not just disk space.",
+        "Institutions may be held legally responsible for copyright violations on their systems regardless of who posted the content."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "University of Nebraska"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Lawrence C. Foard",
+        "Kenneth Herron"
+      ],
+      "summary": "A discussion regarding the costs and ethics of providing Usenet alt.* newsgroups at universities. Wes Morgan argues against charging students for access, citing managerial difficulties and broader infrastructure costs beyond simple disk space. The exchange also touches upon the legal liability of institutions regarding copyrighted material hosted on their servers.",
+      "title": "Article 1--Re: news story on U. of Nebraska alt.* removal",
+      "topics": [
+        "Usenet",
+        "alt.* newsgroups",
+        "academic computing costs",
+        "copyright liability",
+        "network access fees"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 24 Mar 1992 14:19:06 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<1992Mar24.91906.8818@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 1--Re: news story on U. of Nebraska alt.* removal",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 27, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Nebraska may be using 'limited resources' as an excuse to avoid carrying controversial newsgroups."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Nebraska"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Wes Morgan"
+      ],
+      "summary": "Mike Godwin responds to a discussion regarding the University of Nebraska's decision to remove 'alt.*' newsgroups. He argues that the university is using resource limitations as a pretext to censor content they deem controversial.",
+      "title": "Re: news story on U. of Nebraska alt.* removal",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "network resources"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 27 Mar 1992 22:51:44 GMT",
+      "from": "mnemonic@eff.org (Mike Godwin)",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<1992Mar27.225144.29958@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 2--Re: news story on U. of Nebraska alt.* removal",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 26, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The removal of the alt.* hierarchy is viewed as an extreme measure that may deter excellent students from enrolling.",
+        "Usenet has emerged as an essential core facility for universities to support their educational mission.",
+        "Restricting newsgroups based on content is less effective than providing adequate hardware resources."
+      ],
+      "organizations": [
+        "University of Nebraska-Lincoln",
+        "UNL CRC"
+      ],
+      "people": [
+        "Kent Landfield"
+      ],
+      "summary": "Kent Landfield wrote an open letter protesting the University of Nebraska-Lincoln (UNL) Computing Resource Center's decision to remove the 'alt.*' Usenet newsgroup hierarchy. He argues that restricting access to these groups hinders research and education and damages the university's reputation in technology fields. Landfield suggests that if resource constraints are the issue, the university should seek more funding rather than censoring content.",
+      "title": "An Open Letter to UNL CRC: Removal of alt.*",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "network resources",
+        "alt hierarchy"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 26 Mar 1992 21:44:21 GMT",
+      "from": "kent@sparky.imd.sterling.com (Kent Landfield)",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<1992Mar26.214421.26447@sparky.imd.sterling.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 3--An Open Letter to UNL CRC: Removal of alt.*",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 23, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "University of Illinois had no explicit email privacy policy as of March 1992.",
+        "System administrators viewed the use of 'grep' for keyword searches as potentially less intrusive than using 'more' to read full files.",
+        "Respondents compared email searches to physical searches of dorms and offices or telephone taps."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie shares paraphrased responses from University of Illinois system administrators regarding email privacy and search authorization. The respondents generally agree that a judge should authorize deep searches of user files, though some distinguish between keyword 'grep' searches and reading full mail spools. All three respondents noted the absence of an explicit university policy on email privacy at the time.",
+      "title": "How do U. of I. sys admins feel about email privacy for users?",
+      "topics": [
+        "email privacy",
+        "system administration",
+        "academic freedom",
+        "surveillance",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 23 Mar 1992 18:20:15 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<1992Mar23.182015.18970@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 4--Re: How do U. of I. sys admins feel about email privacy for users?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 23, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Some admins argue that email searches are more invasive than physical searches because they leave no trace.",
+        "There is disagreement on whether universities should establish email policies before legal precedents are settled via court cases.",
+        "One respondent claims that citing policy to refuse a supervisor's order can lead to job loss regardless of the policy's validity."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Illinois (UIUC)"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie shares paraphrased responses from system administrators regarding the ethics and authorization of searching user emails and files at universities. The discussion contrasts technical maintenance with surveillance and debates whether written policies protect admins or expose them to legal risk. It highlights a lack of standardized email privacy policies in academic environments during the early 1990s.",
+      "title": "How do U. of I. sys admins feel about email privacy for users?",
+      "topics": [
+        "email privacy",
+        "system administration",
+        "academic freedom",
+        "surveillance",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 23 Mar 1992 18:47:47 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<1992Mar23.184747.13631@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 5--Re: How do U. of I. sys admins feel about email privacy for users?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Mar 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "News administrators use readership statistics to determine which newsgroups to delete based on disk space constraints.",
+        "Hiding .newsrc files prevents users from 'voting' for the continued availability of specific newsgroups."
+      ],
+      "organizations": [
+        "University of Kentucky"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie",
+        "Scott McMahan"
+      ],
+      "summary": "The author discusses the tension between user privacy and network administration regarding the monitoring of .newsrc files to track newsgroup readership. He argues that while individual data should remain confidential, administrators need aggregate statistics from tools like 'arbitron' to manage disk space and decide which newsgroups to maintain. The post suggests that users who hide their reading habits effectively lose their influence over which content is provided by the institution.",
+      "title": "Article 6--Re: News Group Readership Monitoring",
+      "topics": [
+        "privacy",
+        "network administration",
+        "Usenet",
+        "academic freedom",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "25 Mar 92 15:13:11 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<1992Mar25.101311.8450@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 6--Re: News Group Readership Monitoring",
+      "to_or_newsgroups": "alt.sources,alt.security,news.admin,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 24, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The Alabama Attorney General issued an opinion that Auburn University could not legally provide funds to the GLB group due to state sodomy laws.",
+        "The ACLU of Alabama threatened legal action to secure the group's charter."
+      ],
+      "organizations": [
+        "Auburn University",
+        "SGA",
+        "ACLU of Alabama",
+        "Alabama legislature",
+        "University of Alabama",
+        "University of Alabama at Birmingham"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Eric Hunt",
+        "Jimmy Evans"
+      ],
+      "summary": "The post describes a conflict regarding the official chartering of a Gay and Lesbian-Bisexual (GLB) student organization at Auburn University. It details opposition from the Student Government Association, the Alabama legislature, and the State Attorney General, who argued that state funds could not legally support the group due to sodomy laws. The university trustees sought a court ruling on the legality of funding before deciding whether to rescind the charter.",
+      "title": "Article 7--GLB at Auburn University",
+      "topics": [
+        "student organizations",
+        "academic freedom",
+        "LGBTQ rights",
+        "state funding",
+        "university governance"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 24 Mar 1992 19:16:17 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<1992Mar24.191617.13162@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 7--GLB at Auburn University",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 25, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "State universities cannot legally punish students for hate speech.",
+        "Content-based prohibitions on speech in universities are generally unconstitutional.",
+        "The 'fighting words' doctrine is the only valid restriction based on fear of violent reaction."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "University of Southern California",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Zagros Madjd-Sadjadi"
+      ],
+      "summary": "Carl Kadie responds to a request for evidence against a user posting hate speech by arguing that state universities lack the legal authority to punish students for offensive expression. He asserts that the remedy for bad speech is more speech and provides references to federal court cases striking down university speech codes. The post emphasizes the application of First Amendment protections to electronic communications.",
+      "title": "Article 8--Re: DIE FAGS!",
+      "topics": [
+        "hate speech",
+        "First Amendment",
+        "university speech codes",
+        "academic freedom",
+        "email"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 25 Mar 1992 20:54:35 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<1992Mar25.205435.31172@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 8--Re: DIE FAGS!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 25 Mar 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The availability of diverse materials in libraries is protected by the First Amendment.",
+        "Making offensive information available generally does not constitute an illegal hostile environment.",
+        "Classroom comments are typically protected if they relate to the subject at hand."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Illinois"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Louise Fitzgerald"
+      ],
+      "summary": "Carl Kadie and Professor Louise Fitzgerald discuss the legal distinctions between providing access to offensive materials in a library versus creating a hostile environment through targeted harassment. They contrast the protections afforded to academic materials and classroom discourse with the punishable nature of private sexual harassment.",
+      "title": "Network distribution of Pornographic material",
+      "topics": [
+        "First Amendment",
+        "academic freedom",
+        "hostile environment",
+        "network distribution",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 25 Mar 1992 18:02:08 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<1992Mar25.180208.4528@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 9--Re: Network distribution of Pornographic material.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 24, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The NSF claimed it was statutorily required to maintain an AUP.",
+        "Dropping the AUP would remove the exclusive commercial rights held by ANS over the backbone.",
+        "Mitch Kapor argued that the AUP distorted the market by partially subsidizing specific carriers while denying others equal access."
+      ],
+      "organizations": [
+        "NSF",
+        "ANS",
+        "CIX",
+        "ESnet",
+        "EFF"
+      ],
+      "people": [
+        "Gordon Cook",
+        "Steve Wolff",
+        "Boucher",
+        "Packard",
+        "Mitch Kapor"
+      ],
+      "summary": "Gordon Cook discusses the National Science Foundation's (NSF) Acceptable Use Policy (AUP), arguing that it should be dropped to allow commercial networking and level the playing field for backbone providers. He references congressional hearings where Mitch Kapor suggested separating production networks from R&D high-speed broadband. The post challenges the NSF's claim that they are statutorily required to maintain the AUP.",
+      "title": "Article 10--The AUP, Common Sense, and the Emperor's Clothes",
+      "topics": [
+        "Acceptable Use Policy",
+        "NSFnet",
+        "Commercialization of the Internet",
+        "NREN",
+        "Network Governance"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 24 Mar 1992 01:58:05 GMT",
+      "from": "cook@tmn.com (Gordon Cook)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<9203232058.AA00975@tmn.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 10--The AUP, Common Sense, and the Emperor's Clothes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 26, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The UDel policy allows system administrators to suspend computing privileges during an investigation, which may conflict with student rights regarding status changes pending charges.",
+        "The policy defines the individual or department as the 'Data Owner' rather than the University.",
+        "System administrators are authorized to inspect user files without permission in cases of imminent danger to the system or suspected malicious intent.",
+        "The policy's prohibition on non-University-related activities is vague regarding personal use and recreational computing."
+      ],
+      "organizations": [
+        "University of Delaware",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie provides a detailed critique of the University of Delaware's proposed computer policy. He analyzes the proposal based on participation, due process, privacy, and free expression, specifically questioning the authority of system administrators to suspend privileges before a formal conviction.",
+      "title": "Status of UDel's Responsible Computing Policy",
+      "topics": [
+        "acceptable use policy",
+        "due process",
+        "digital privacy",
+        "academic freedom",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 26 Mar 1992 22:09:27 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<1992Mar26.220927.5131@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n15",
+      "subject": "Article 11--Re: [eff.mail.ethics-l] Status of UDel's Responsible Computing Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

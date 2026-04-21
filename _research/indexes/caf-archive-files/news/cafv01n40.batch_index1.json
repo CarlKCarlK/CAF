@@ -1,0 +1,445 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Nov 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "IRC was perceived as having low academic respectability in 1991.",
+        "Guest accounts provided for IRC were linked to the theft of a passwd file.",
+        "Resource scarcity in undergraduate terminal rooms justified the restriction of 'unproductive' programs."
+      ],
+      "organizations": [
+        "Australian National University",
+        "uunet"
+      ],
+      "people": [
+        "Sean Batt"
+      ],
+      "summary": "Sean Batt discusses the tension between providing Internet Relay Chat (IRC) services and managing finite computing resources at a university. He argues that system administrators must balance the professional and personal benefits of IRC against security risks, such as electronic trespassing and resource monopolization during peak academic periods.",
+      "title": "Re: Sysadmins banning IRC...",
+      "topics": [
+        "IRC",
+        "resource allocation",
+        "system administration",
+        "network security",
+        "academic computing"
+      ]
+    },
+    "identity": {
+      "date": "25 Nov 91 07:25:22 GMT",
+      "from": "sean@coombs.anu.edu.au (Sean Batt)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "<sean.691053922@coombs>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "Re: Sysadmins banning IRC...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 25, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Restricting 'ps' reduces a shared computer to the unpredictability of a PC.",
+        "Visibility of processes allows for peer pressure and administrative action against runaway jobs."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie argues against restricting the Unix 'ps' command, defending its use for monitoring system resources. He contends that visibility of running processes is essential for managing shared computing environments and preventing resource hogging. The post frames the debate as a balance between user privacy and the efficiency of shared academic/technical infrastructure.",
+      "title": "System Accounting: Fascist Tool?",
+      "topics": [
+        "Unix",
+        "system administration",
+        "user privacy",
+        "resource management",
+        "shared computing"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 25 Nov 1991 16:21:34 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<1991Nov25.162134.6865@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "Re: System Accounting: Fascist Tool?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 25, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Access to per-user load information encourages cooperation among users to manage shared computing resources.",
+        "Restricting process visibility is viewed by some as a necessary protection of user privacy."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Brack"
+      ],
+      "summary": "A debate regarding whether users should have access to system process information (e.g., via 'ps -aux'). Carl Kadie argues that transparency allows for peer-to-peer coordination and resource management, while an opposing view suggests such visibility violates user privacy.",
+      "title": "System Accounting: Fascist Tool?",
+      "topics": [
+        "system administration",
+        "user privacy",
+        "resource allocation",
+        "Unix utilities"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 25 Nov 1991 21:34:47 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<1991Nov25.213447.14114@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "Re: System Accounting: Fascist Tool?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "26 Nov 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Usage of university resources is a public matter in the academic model.",
+        "Standard Unix commands like ps, who, and finger are not inherently invasive but serve practical system-sharing purposes.",
+        "A distinction should be made between knowing that a tool is being used and knowing exactly what it is being used for."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "EFF"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie",
+        "Jim Thompson"
+      ],
+      "summary": "Wes Morgan responds to a discussion regarding whether standard Unix system monitoring tools (such as ps, who, and finger) constitute privacy violations. He argues that in an academic setting, these tools are necessary for resource management and system optimization, contrasting this with the need for confidentiality of sensitive personal data. The post specifically addresses proposed confidentiality policies for the 'Statement on Computers and Academic Freedom'.",
+      "title": "Re: System Accounting: Fascist Tool?",
+      "topics": [
+        "user privacy",
+        "system administration",
+        "Unix utilities",
+        "academic freedom",
+        "resource monitoring"
+      ]
+    },
+    "identity": {
+      "date": "26 Nov 91 23:20:12 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<1991Nov26.232012.2924@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "Re: System Accounting: Fascist Tool?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "27 Nov 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators should inform users which commands reveal personal information.",
+        "Users have a right to know up front what information about them is disclosed on academic computing sites."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Kentucky"
+      ],
+      "people": [
+        "Jim Thompson",
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "A discussion regarding the privacy implications of standard Unix utilities such as ps, who, finger, and lpq. Jim Thompson argues that system administrators have an obligation to inform users about how these tools can reveal personal information. The conversation touches upon the creation of a general policy guide for academic computing sites.",
+      "title": "Re: System Accounting: Fascist Tool?",
+      "topics": [
+        "privacy",
+        "system administration",
+        "Unix utilities",
+        "academic computing policy"
+      ]
+    },
+    "identity": {
+      "date": "27 Nov 91 13:14:08 GMT",
+      "from": "thompson@se01.wg2.waii.com (Jim Thompson)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<9111271314.AA02555@se33.wg2.waii.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "Re: System Accounting: Fascist Tool?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 25, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Rumors of censorship at OSU's Academic Computing Services are denied.",
+        "ACS staff generally believe in electronic freedom and open computing.",
+        "Budgetary constraints from university and state government limit the openness of campus computing."
+      ],
+      "organizations": [
+        "Academic Computing Services",
+        "Ohio State University"
+      ],
+      "people": [
+        "Terry N Reeves"
+      ],
+      "summary": "Terry N. Reeves, a staff member at Ohio State University's Academic Computing Services (ACS), responds to discussions regarding campus computing policies. He denies rumors of censorship at ACS and requests examples of university computing policies that the community approves of. He asserts that ACS staff generally support electronic freedom and open computing despite budget constraints.",
+      "title": "I am from ACS at OSU",
+      "topics": [
+        "campus computing policy",
+        "censorship",
+        "open computing",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 25 Nov 1991 16:55:00 GMT",
+      "from": "treeves@magnus.acs.ohio-state.edu (Terry N Reeves)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<1991Nov25.165500.11219@magnus.acs.ohio-state.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "I am from ACS at OSU",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Nov 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Daily Iowan conflated the total number of Usenet postings with the amount of pornography on campus servers.",
+        "Local legal disputes over the film Taxi Zum Klo were increasing pressure on the University of Iowa to censor content.",
+        "Proposed changes to Iowa state law threatened to remove educational exemptions for materials depicting sexual exploitation in public libraries and universities."
+      ],
+      "organizations": [
+        "University of Iowa",
+        "Daily Iowan"
+      ],
+      "people": [
+        "Douglas W. Jones"
+      ],
+      "summary": "Douglas W. Jones reports on a Daily Iowan article claiming University of Iowa computers contained 'over 70,000 pages' of pornography via Usenet. Jones argues the reporting is inaccurate and warns that this, combined with local controversies over the film Taxi Zum Klo, may lead to increased campus censorship. He specifically notes potential legislative changes to remove educational exemptions for materials depicting sexual exploitation.",
+      "title": "Alt.sex flap at U of Iowa",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "pornography",
+        "institutional policy"
+      ]
+    },
+    "identity": {
+      "date": "25 Nov 91 18:27:40 GMT",
+      "from": "jones@pyrite.cs.uiowa.edu (Douglas W. Jones,201H MLH,3193350740,3193382879)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<9300@ns-mx.uiowa.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "Alt.sex flap at U of Iowa",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Nov 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Broad prohibitions on noncommercial personal use (NPU) can create chilling effects on benign noncurricular uses of campus systems.",
+        "Policies prohibiting 'personal correspondence' or 'frivolous use' are often vague and overbroad.",
+        "Participating in academic freedom discussions via newsgroups may technically violate strict university computing policies."
+      ],
+      "organizations": [
+        "UCLA",
+        "Loyola University of Chicago",
+        "University of Illinois at Chicago"
+      ],
+      "people": [
+        "Mitch Pravatiner",
+        "Carl Kadie"
+      ],
+      "summary": "Mitch Pravatiner critiques university computing policies that prohibit 'personal use' of network resources. He argues that blanket restrictions on noncommercial personal use (NPU) are overbroad and could technically criminalize academic discourse, such as participating in the comp-academic-freedom-talk newsgroup. The author advocates for a distinction between purely recreational activities like gaming and activities involving the communication of ideas.",
+      "title": "On \"Personal Use\" restrictions",
+      "topics": [
+        "Acceptable Use Policies",
+        "Academic Freedom",
+        "Noncommercial Personal Use",
+        "Computing Resources"
+      ]
+    },
+    "identity": {
+      "date": "25 Nov 91 20:06:41 GMT",
+      "from": "U15289@UICVM.uic.edu",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<199111252159.AA14818@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "On \"Personal Use\" restrictions",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-11-25",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The UCLA SEASnet policy contained a contradiction by banning personal use while allowing games."
+      ],
+      "organizations": [
+        "UCLA",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie critiques the UCLA SEASnet policy which prohibited all personal use of equipment while simultaneously permitting game playing under certain conditions. He suggests that noncommercial personal use should be permitted on the same basis as gaming, effectively arguing for the removal of a blanket ban on personal computer use.",
+      "title": "On \"Personal Use\" restrictions",
+      "topics": [
+        "acceptable use policy",
+        "personal use",
+        "academic computing",
+        "SEASnet"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 25 Nov 1991 22:35:48 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<1991Nov25.223548.15641@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "Re: On \"Personal Use\" restrictions",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-11-27",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Non-academic activities like IRC and MUDs were creating resource contention in student computing labs in 1991."
+      ],
+      "organizations": [
+        "University of Illinois"
+      ],
+      "people": [
+        "Declan J. Fleming"
+      ],
+      "summary": "Declan J. Fleming, managing student computing sites at the University of Illinois, seeks advice on handling non-academic use of campus machines. He reports that gamers, IRC users, and MUDers are displacing students attempting to perform academic work. The current policy involves booting non-academic users when machine capacity is reached.",
+      "title": "Gaming",
+      "topics": [
+        "acceptable use policy",
+        "resource allocation",
+        "gaming",
+        "IRC",
+        "MUDs"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 27 Nov 1991 21:54:10 GMT",
+      "from": "declan@ux1.cso.uiuc.edu (Declan J. Fleming)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<1991Nov27.215410.18938@ux1.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "Gaming",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 24, 1991",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The list serves as a foundational resource for legal and ethical issues affecting educators and students in the context of academic freedom."
+      ],
+      "organizations": [
+        "EFF",
+        "ACLU",
+        "American Library Association",
+        "AAUP"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl M. Kadie provides an unorganized list of books and resources related to Computers and Academic Freedom. The collection includes legal handbooks on teacher and student rights, works on censorship, library policy manuals, and texts on computer ethics.",
+      "title": "CAF bibliography",
+      "topics": [
+        "bibliography",
+        "academic freedom",
+        "censorship",
+        "computer ethics",
+        "student rights"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 24 Nov 1991 00:57:58 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<1991Nov24.005758.19865@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n40",
+      "subject": "CAF bibliography",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

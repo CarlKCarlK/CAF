@@ -1,0 +1,1320 @@
+Computers and Academic Freedom News
+Vol. 02, No. 09
+
+
+----------------------------------------------------------------------
+
+From: emr@ariel.ucs.unimelb.edu.au (Elizabeth M. Reid)
+Subject: Article 0 -- Abstract of CAF-News 02.09
+
+[Week ending February 23rd, 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Notes 1 are 6 discuss the issue of TERMINUS, a terminal server at MIT
+which allows users to connect to any port of any Internet connected
+machine and which has been seen as a security threat by the NSFnet.
+
+1. The NSF cannot be expected to cut off MIT or TERMINUS any more than
+the phone company could be expected to disconnect MIT's phones just
+because someone used their phone lines to break into a system. If
+anything will shut down TERMINUS it will be the privatization of the
+network which will no longer allow them to put the onus of security
+onto other sites.
+    <1992Feb18.215827.4@sdg.dra.com>
+
+2. A simple solution to the security problems caused by terminus would
+be to instigate a policy of allowing users of open terminal servers to
+connect to only port 23 (telnet) on remote systems.
+    <1992Feb18.112035.26089@ms.uky.edu>
+
+3. Network policy and implementation should not compel a site to apply
+one network's policy to other network's. The responsibility for
+compliance with network policy should rest with the service requester,
+not the service provider.
+    <1992Feb19.163425.9651@eff.org>
+
+4. The Arpanet used to an open environment in which the sharing of
+resources was encouraged and those resources were freely offered.  In
+the evolution of the Arpanet into the Internet, with all the demands
+for security made by various sites on it, we have lost something
+valuable.
+    <kq7lakINN4cb@agate.berkeley.edu>
+
+5. While the loss of the 'small town' attitude of not locking doors is
+to be regretted, it is not a feasible way to address issues in the
+'big city' that the Internet has become.
+    <1992Feb20.180456.10987@news2.cis.umn.edu>
+
+6. "The issue under discussion is not how individual target sites
+should "deal with" TERMINUS-based incursions -- that is pretty much
+known.  The issue is whether MIT ought to continue providing the toys
+wherewith more and more sites can be made to have to "deal with" the
+nuisance."
+    <50076102@bfmny0.BFM.COM>
+
+
+Notes 7 and 8 carry on from the TERMINUS controversy to discuss what
+is and is not acceptable use of national academic networks in general.
+
+7. The TERMINUS case has brought up a number of questions about 
+network access that ought to be applied more widely. On what basis 
+should institutions provide researchers and students with access to 
+academic networks?
+   <9202182129.AA25590@phloem.uoregon.edu>
+
+8. Here are some suggestions as to what might be educational 
+institutions' NREN access policies.
+    <9202191440.AA20298@cise.cise.nsf.gov>
+
+
+Notes 9 to 11 are on unrelated issues addressing ethics and censorship
+in computer-use.
+
+9. [From Brewster Kahle, the operator of the directory of servers in
+the WAIS system:] The new breed of "digital librarians" must consider
+the ethical obligations which follow from their privileged position
+with regard to the users whom they serve.
+    <fyi.199202191413.AA07128@eff.org>
+
+10. Does unauthorised access to a Company's computer constitute
+grounds for dismissal of an employee? The Denco Ltd. v. Joinson case
+turned on this issue.
+    <920218194602.2020c632@DARWIN.NTU.EDU.AU>
+
+11. Switch, the federal institution which provides the network 
+connections between Swiss universities, has decided to refuse to 
+carry certain Usenet newsgroups on the grounds that they may be 
+illegal under Swiss law.
+    <1992Feb20.180752@sic.epfl.ch>
+
+
+Note 12: And now for something completely different...
+
+12. [Carl Kadie, abandoning his position as the Staid and Rational
+Source of all Well-Documented Argument:] Here is a parody of the Iowa
+State University Usenet policy.
+    <1992Feb23.201324.12799@m.cs.uiuc.edu>
+
+- Elizabeth]
+
+
+In this issue:
+
+sean@sdg.dra.com 75  >NSFnet rules of use and terminus
+Wes Morgan       94  >
+Carl M. Kadie    59  >
+Brian Harvey     62  >
+Craig A. Finseth 33  >
+Tom Neff         65  >
+jqj@duff         56  access to and acceptable use of NREN networks
+Stephen Wolff    60  -
+Brewster Kahle  171  Ethics of Digital Librarianship
+Mark P Neely     81  Hacking - a ground for dismissal?
+A EPFL-SIC/SII  182  Censorship and bigotism come up strong in Switzerland
+Carl M. Kadie   121  What if the Iowa State U. Usenet policy was honest?
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Feb 23 00:00:00 1992
+From: sean@sdg.dra.com
+Newsgroups: alt.comp.acad-freedom.talk,alt.security
+Subject: Article 1--Re: NSFnet rules of use and terminus
+Message-ID: <1992Feb18.215827.4@sdg.dra.com>
+Date: 18 Feb 92 21:58:24 CST
+
+In article <9202182357.AA16953@wendy-fate.UU.NET>, kyle@WENDY-FATE.UU.NET writes:
+> If, on the other hand, no one empowered to kill TERMINUS reads USENET,
+> then there is no reason to continue the discussion here, neh?
+
+They may read it (or more likely someone else passed the messages on), but
+the lack of action doesn't mean approval or disapproval.  In the past until
+a formal complaint was been received by the NSF (i.e. a real, paper letter
+directed to the NSFNET program director listing specific allegations would
+do it), they seemed to prefer wait and see how things developed.  Perhaps
+the user community will even figure out the answer themselves, which would
+be the best for all concerned.  Besides that way they don't have to admit
+to USENET's existence, and then have to decide whether USENET is an acceptable
+use of the network.  Acting god-like takes a lot out of you, so most gods
+like to conserve their energy (resting on the seventh day, etc...)
+
+This actually makes a lot of sense.  Even during this debate about TERMINUS,
+exactly what the problem is (if there is one), and the best way of solving
+it has evolved.  By waiting you allow the issue to more fully develop, and
+perhaps get clearer.
+
+My personal opinion is the NSF has no obligation to prevent people from
+using TERMINUS to break into your site (which seems to be the original
+complaint).  I wouldn't expect NSF to cut off MIT or TERMINUS any more
+than I would expect the phone company to disconnect MIT's phones just
+because someone used their phone lines to break into my system.  I especially
+hate the concept that TERMINUS is a nuisance to the Internet, arrest the
+person who broke into your system not the person whose backyard they crawled
+through.
+
+Or I might try to argue that MIT is assuming that TERMINUS users are using
+the Internet for "approved" purposes because the remote system provides the
+authentication when they access the remote service.  It is actually the remote
+system's failure to provide adequate authentication that is allowing the
+unapproved use of the network, not MIT.  If all services (i.e. destination
+ports) on the Internet provided adequate authentication, then nobody could
+use TERMINUS for unapproved use of the NSFNET.  So it is really your fault
+for have an insecure system which is allowing this unapproved use of the
+network.
+
+That seems farfetched?  Look what happened last time that someone from the
+NSF is publicly known to have inquired about some use of the network being
+acceptable.  It seemed to be claimed the site providing the service (for
+example, access to certain GIF files (well, this was cross-posted :-)) is 
+responsible for blocking use of certain networks.
+
+I agree it is damn annoying trying to trace connections hopping through
+multiple hosts that don't provide even minimal authentication.  And the
+Internet likes making it harder just by its distributed nature.  I also
+have problem with systems that are providing "menued" access to various
+systems, in addition to the "wide-open" access that TERMINUS allows.  Often
+one of the items on the menu is yet another system with anonymous login
+to yet another menu.  Even with authd, you just end up with the name of
+the other machine's anonymous login account.
+
+What does the future hold?
+
+I think they'll get shutdown not by the NSF, but by the privatization
+of the network.  This type of access also wrecks havoc with anyone trying
+to do any type of traffic control or  monitoring based on source or destination
+addresses.  Why pay com-bits when you can just TELNET to someplace like
+services at wugate.wustl.edu and pick dra.com on their menu so the traffic
+that hits the ANS/NSF gateway has that "good/free" non-profit educational IP
+net address rather than whatever the original IP address was.
+
+If you still want to make a formal complaint, give NSF a call first to at
+least warn them.  A formal letter has the effect equivalent to a small nuclear
+device on a bureaucracy.  In addition, if they decide to turn it over to the
+Justice Department be prepared to testify.
+-- 
+Sean Donelan, Data Research Associates, Inc, St. Louis, MO
+Domain: sean@sdg.dra.com, Voice: (Work) +1 314-432-1100
+
+
+
+------------------------------
+
+From caf-talk Caf Feb 19 00:00:00 1992
+Newsgroups: alt.security,alt.comp.acad-freedom.talk
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Article 2--Re: NSFnet rules of use and terminus
+Message-ID: <1992Feb18.112035.26089@ms.uky.edu>
+Date: Tue, 18 Feb 1992 16:20:35 GMT
+
+kadie@m.cs.uiuc.edu (Carl M. Kadie) writes:
+>
+>Put another way, two solutions keep getting proposed:
+
+There is another solution, proposed (in Usenet) by several people,
+including me:
+
+	Open (unauthenticated) terminal servers should only allow
+	connections to port 23 (telnet) on remote systems.
+
+Many open terminal servers currently allow access to any TCP/IP port.
+This provides an avenue of attack against remote systems.  Many ser-
+vices, including smtp, ftp, rlogin, and rsh/remsh, use these ports.
+Those services are neither designed nor intended for interactive use
+by humans.  No one has been able to give me a concrete justification
+for the availability of this access through anonymous terminal servers.
+
+As a secondary solution (one which many servers have implemented):
+
+	Open terminal servers should now allow "bouncing"; a user
+	connecting to such a server via TCP/IP should now be allowed
+	to use the server to connect to remote systems via TCP/IP.
+
+Many open terminals servers allow users to connect via TCP/IP AND
+connect to remote systems via TCP/IP.  This is both inefficient and
+(potentially) dangerous.  If a user can "telnet to" the server, why
+can't they "telnet to" the remote machine directly?  I have never seen
+a network that required this behavior.  I am certain, however, that
+such networks exist; their terminal servers could be configured to
+allow such "bouncing" on an per-machine or per-network basis. (Note
+that this capability would actually INCREASE the security of such
+machines/networks.)
+
+>Increasing, different networks have different rules (mostly relating
+>to commercial use). I think it is important that we establish the
+>principles that networks enforce their rules in the most specific
+>possible way.
+
+Agreed.  I believe that the proposal above would allow the maximum 
+installation of open terminal servers.  This, in turn, would enable
+us to offer a much greater level of connectivity to the rest of the
+world.  Access to remote systems from open servers would be limited
+to the normal telnet service, i.e. the login prompt.  The bulk of the
+security burden would then be placed (in large part) on each system's 
+passwording protection/scheme, where it belongs.
+
+The restriction of anonymous access to TCP/IP services other than
+telnet would also reduce overall cracking activity.  Many, if not
+most, crackers use anonymous services to attack TCP/IP services.
+(Hey, if you had to login with your true identity, would *you* use
+that access for cracking?  I thought not.  8)  )  Restricting their 
+anonymous access to those services would achieve several goals:
+
+	-- Access to those services would be limited to users for
+	   whom an audit trail could easily be constructed, even
+	   through the use of "stock" programs such as netstat(1).
+	-- With the growing acceptance of the Identity Server (RFC
+	   931), individual sites can easily authenticate individual
+	   connections.
+	-- With TCP/IP "wrappers" (available from several sources,
+	   contact me for info), each site can customize the availa-
+	   bility of its services.  For instance, a site may decide
+	   to only allow "fingers" from machines on its own network,
+	   or not to allow any TCP/IP connections from a particular
+	   host; this is easily accomplished with TCP/IP wrappers.
+	-- Maintenance of this scenario can be easily facilitated
+	   by the use of network monitoring tools such as NNStat (in
+	   software) and Network General's Sniffer (in hardware).
+
+All of these suggestions achieve, in essence, the same goal; they
+place responsibility for site security squarely on the shoulders
+of each site's administrators.  Arguments such as this become both
+irrelevant and nearly extinct in this environment.
+
+Right now, implementing this scenario requires a rather sizable
+effort on the part of the sysadmin; many of these tools are either
+hardware- or OS-specific.  For instance, many of these tools fail
+miserably under certain implementations of TCP/IP.  As the major
+vendors converge on standards, this problem will slowly evaporate.
+This difficulty is one of the major contributors to the anger 
+directed toward open servers such as terminus; without a relatively
+easy fix, most admins are quick to point the finger elsewhere.
+
+Until such fixes are available, I believe that the "port 23 only"
+approach is the best solution for the problem of open terminal
+servers.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+
+------------------------------
+
+From caf-talk Caf Feb 18 00:00:00 1992
+Newsgroups: alt.security,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 3--Re: NSFnet rules of use and terminus
+Message-ID: <1992Feb19.163425.9651@eff.org>
+Date: Wed, 19 Feb 1992 16:34:25 GMT
+
+It may be time to look past the details for principles. How about:
+
+Principle: Network policy should be written or technical tools
+provided such that a site is not compelled to apply one network's
+policy to other networks.
+
+Principle: The network service requester, not the network service
+provider, is responsibility for compliance with network policy.
+
+Aside: The second principle is based on the codes for another kind of
+information network, interlibrary loan networks. Their policies say:
+"The borrowing library should carefully screen all request for loans
+and reject any that do not conform to this code" and "The decision to
+loan material is at the discretion of the lending library. Each
+library is encouraged, however, to interpret as generously as possible
+its own lending policy with due consideration to the interest of its
+primary clientele". For more information, see [news/cafv01n37] or
+    Boucher, Virginia.  Interlibrary loan practices handbook.  Chicago :
+    American Library Association, c1984.
+
+Applying these principles to terminus: if it is technically feasible to
+cutoff terminus from NSFnet (without cutting it off of other
+networks), then NSFnet could do this or require that MIT do it.
+
+Applying these principles to Usenet: when site 1 requests articles from
+site 2 across NSFnet, it is the responsible of site 1 and not site 2
+to comply with the AUP. [I believe this is the way things currently
+work.]
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+news/cafv01n37
+=================
+[No annotation available.]
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send caf-news cafv01n37
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.88.144.3) as file(s):
+  pub/academic/news/cafv01n37
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Feb 19 00:00:00 1992
+From: bh@anarres.Berkeley.EDU (Brian Harvey)
+Newsgroups: alt.comp.acad-freedom.talk,alt.security
+Subject: Article 4--Re: NSFnet rules of use and terminus
+Date: 20 Feb 1992 16:20:36 GMT
+Message-ID: <kq7lakINN4cb@agate.berkeley.edu>
+
+schweige@taurus.cs.nps.navy.mil (Jeffrey M. Schweiger) writes:
+>So, what is the justification for having an open terminal server in the
+>first place?
+
+I think this was meant to be an unanswerable, rhetorical question, but
+I'm going to try to answer it anyway.
+
+I worked at the MIT Artificial Intelligence Lab, and later at the Stanford
+one, during the early days of the Arpanet.  In those days, most of the
+academic/research machines on the net had guest accounts with no password.
+(The military machines, of course, were always more concerned about
+security.)  In some cases the guest accounts were restricted in what they
+could do; for example, at Stanford you couldn't store files in the guest
+directory after logout.  But the idea was that each computer had unique
+software resources that people were proud to show off and make available
+to the computing community.  I still have, somewhere, my Arpanet Resource
+Handbook in which each site listed the neato programs guests could use.
+
+Some fraction of the guest usage was always by people who had no Arpanet
+account of their own.  They connected to the net through TIPs, anonymous
+terminal servers, just like Terminus that everyone's dumping on.  The TIPs
+were set up and supported by the Department of Defense.  Everyone thought
+this was a great idea.  (And yes, you could connect to any port you wanted.
+I believe that it was precisely for the sake of TIP users that the FTP
+control information was sent using ASCII text over a Telnet connection
+instead of some less verbose signalling scheme.)  Some of these guests were
+random teenagers.  Most of them just played games and contributed nothing,
+but every so often one of these hangers-on started contributing software
+development to the facility and became a Real User.  Or sometimes, after
+playing around over the net, they showed up in the flesh and started
+working for real.
+
+Yes, occasionally some guest user did something malicious.  It was a pain
+in the neck.  But the general climate of opinion was that these problems
+were outweighed by the convenience and friendliness and openness and
+communitarian spirit that guest accounts provided.
+
+Times have changed.  In particular, more kids are interested in computing
+than there used to be, and people are less willing/able to support the
+increased load of unofficial use.  I do understand that.  But it seems to
+me that some people on the security-above-all side of the discussion don't
+understand that something good has been lost along the way.
+
+Here is how I make sense of the argument that says that security should
+be at the serving host, not at the entry point:  Let's just say that some
+'60s-retro wild and crazy site manager wants to allow guest access.
+It would be nice if the network worked in a way that made that possible,
+while still letting the people who want secure systems to have them
+(just as the military systems were meant to be secure in the old days).
+
+Someone is going to tell me that my hypothetical guest users are spending
+NSF's money with their traffic over the network itself.  I do not find
+this argument compelling.  Lots of us who happen to be employed on NSF
+business, and therefore have net access, also use our net access for
+all sorts of unauthorized frivolity, like reading Usenet, and inviting
+our friends for dinner.  The whole idea of a hardwired net is that there's a
+large fixed cost but a low-to-zero marginal cost; using the economic
+argument to freeze out guests while playing around ourselves is, I think,
+disingenuous.
+
+
+------------------------------
+
+From caf-talk Caf Feb 20 00:00:00 1992
+From: fin@unet.umn.edu (Craig A. Finseth)
+Newsgroups: alt.comp.acad-freedom.talk,alt.security
+Subject: Article 5--Re: NSFnet rules of use and terminus
+Message-ID: <1992Feb20.180456.10987@news2.cis.umn.edu>
+Date: 20 Feb 92 18:04:56 GMT
+
+In article <kq7lakINN4cb@agate.berkeley.edu>, bh@anarres.Berkeley.EDU (Brian Harvey) writes:
+|> schweige@taurus.cs.nps.navy.mil (Jeffrey M. Schweiger) writes:
+|> >So, what is the justification for having an open terminal server in the
+|> >first place?
+	...
+|> Times have changed.  In particular, more kids are interested in computing
+|> than there used to be, and people are less willing/able to support the
+|> increased load of unofficial use.  I do understand that.  But it seems to
+|> me that some people on the security-above-all side of the discussion don't
+|> understand that something good has been lost along the way.
+	...
+
+I am not sure that your conclusion is correct.  I believe that most
+"security-above-all" people *wish* that times had not changed,
+*realize* that something has been lost, and would prefer to operate in
+the old style.  They believe that they are being in essence forced to
+adopt a variety of defensive tactics which include (attempting to)
+remove attractive nusiances.
+
+I was a part of the original ARPAnet and liked the way that it
+operated.  In a similar fashion, I know of many small towns where
+people don't lock their doors.  I don't believe that the current
+Internet qualifies as a small town in any sense.
+
+Craig A. Finseth			fin@unet.umn.edu [CAF13]
+Networking Services			+1 612 624 3375 desk
+Computer and Information Services	+1 612 625 0006 problems
+University of Minnesota			+1 612 626 1002 fax
+130 Lind Hall, 207 Church St SE
+Minneapolis MN 55455-0134, USA
+
+
+------------------------------
+
+From caf-talk Caf Feb 20 00:00:00 1992
+From: tneff@bfmny0.BFM.COM (Tom Neff)
+Newsgroups: alt.comp.acad-freedom.talk,alt.security
+Subject: Article 6--Re: NSFnet rules of use and terminus
+Message-ID: <50076102@bfmny0.BFM.COM>
+Date: 21 Feb 92 08:57:09 GMT
+
+In one or another of his morning flurry of 9 articles in this thread, dave@jato.jpl.nasa.gov writes:
+>tneff@bfmny0.BFM.COM (Tom Neff) writes:
+>>quickly as usual and start abusing it.  When victims complain, MIT
+>>responds that since none of the good people using it legitimately have
+>>complained or asked that it be taken away from them, there must not be a
+>>problem!
+>
+>And to MIT, this is good.  Why do you think MIT should adopt your views?
+
+Because the profferred reasoning is so transparently evasive as to
+insult the issue.  If you ask only the innocent beneficiaries of a
+resource whether they would like it taken away from them -- or better
+yet, if you sit back and wait for them to VOLUNTEER the wish that it be
+taken away -- you are fishing for a foregone conclusion.  The fact that
+illegimate people (whom you cannot reach to ask anything) are also using
+the resource to harass third party bystanders (whose opinions you deem
+unworthy of asking, since they are not USING your service, only trying
+to survive on the same net with it) doesn't enter into the analysis.
+This is a shortsighted position which diminishes the spirit of network
+cooperation.  MIT should adopt my views because they are closer to the
+standard of behavior that ought to be expected from a large and powerful
+institution with the Internet's best long term interests (and its own)
+at heart.
+
+>>My own view is that the TERMINUS server should be password protected...
+>
+>And do you volunteer to do this?
+
+It would cost MIT more to empower me to get in there and tinker with an
+unfamiliar system than it would to do it themselves.  I am reasonably
+sure they know how to do it already.  All in the world we are arguing is
+whether they have the willingness to spend a day and do it.  The issue
+is one of principle, not engineering.
+
+>The way I've always known to work in dealing with a nuisance is to ignore
+                                      ^^^^^^^^^^^^
+>it.
+
+Yes, but the issue under discussion is not how individual target sites
+should "deal with" TERMINUS-based incursions -- that is pretty much
+known.  The issue is whether MIT ought to continue providing the toys
+wherewith more and more sites can be made to have to "deal with" the
+nuisance.
+
+In another posting in the flurry, Dave says that he opposes Terminus "in
+principle," but then castigates those who would "interfere" with MIT's
+"internal policies."  This formulation would do Li Peng proud, but it
+doesn't make sense here.  I am unaware of any mechanism by which Netnews
+postings are automatically transformed into MIT administrative orders.
+All that ANY of us are doing in the alt.security discussion is opposing
+Terminus "in principle."  ***OF COURSE*** they have the legal right to
+do what they want; always have; always will; everyone knows it.  Same
+thing applies to 90% of everything people discuss in Netnews.  So what?
+It's a red herring.  When someone posts here saying "What MIT is doing
+is WRONG and they should stop it," they are attempting to PERSUADE, not
+interfere or coerce.  
+
+Insistent reminders that persuasion lacks coercion's force can be an
+easy recourse for those who have forgotten how to persuade.
+-- 
+Knowing when to optimize is    ==>/     Tom Neff
+as important as knowing how.     /<==   tneff@bfmny0.BFM.COM
+
+
+------------------------------
+
+From caf-talk Caf Feb 21 00:00:00 1992
+Newsgroups: eff.mail.nren
+From: jqj@duff.uoregon.edu
+Subject: Article 7--access to and acceptable use of NREN networks
+Message-ID: <9202182129.AA25590@phloem.uoregon.edu>
+Date: Tue, 18 Feb 1992 21:29:05 GMT
+
+An interesting discussion of NSFnet "acceptable use" policy has been
+occuring on the news group comp.security in context of an open-access
+terminal server at MIT.  I think the issues of access to the national
+network deserve wider discussion, hence this message.
+
+At issue here is what policies are required and/or appropriate for
+determining which individuals may have Internet access.  NSFnet
+"acceptable use" policy does not address this issue, since it is mostly 
+neutral on "who", and only discusses "what" and "where".
+
+There is, of course, some linkage.  The presumption, I gather, is that
+anything a faculty member at a "not-for-profit institution of research or
+instruction" does is likely to support research or instruction.  Biases
+I've seen expressed on the net indicate that many people have the
+presumption that anything a high school student does outside of the
+regular curriculum is by definition cracking and not "scientific research,
+education, and other scholarly activities".
+
+Still, a large grey area exists.  Some test questions:
+
+Is it legitimate from NSF's point of view for an educational institution
+to allow supervised access to the Internet by students in a local high
+school class?  If so, what form must the supervision take?  
+
+What are the responsibilities of an institution in proactively overseeing
+the use of its connection to the Internet?  Absent any evidence of abuse,
+is it necessary for the institution to restrict Internet access to regular
+students/faculty/staff (e.g. to deny access to visiting researchers)?  Is
+it necessary for the institution to guarantee that no open-access
+terminals exist on campus (including in faculty offices)?  Is it necessary
+for the institution to monitor traffic to insure that the people using
+its facilities are abiding by acceptable use policies?
+
+Let's return to the Terminus case.  Presumably, it is permissible for an
+institution to provide individual-password-protected dialin access to the
+Internet for use by its students/faculty/staff.  Is it permissible for an
+institution to provide such access with a single well-known password
+distributed within the institution?  Absent actual abuse, it permissible
+to provide unprotected access, but with large warnings that use must be
+consistent with "acceptable use" policies.
+
+More generally, what mechanism should decide issues like this?  Has the
+answer to this question changed given the new focus on education (as
+opposed to scientific research) in the NREN legislation?
+
+JQ Johnson
+Director of Network Services		Internet: jqj@oregon.uoregon.edu
+University of Oregon			voice:	(503) 346-1746
+250E Computing Center			fax: (503) 346-4397
+Eugene, OR  97403-1212
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Feb 19 00:00:00 1992
+Newsgroups: eff.mail.nren
+From: steve@ncri.cise.nsf.gov (Stephen Wolff)
+Subject: Article 8--access to and acceptable use of NREN networks
+Message-ID: <9202191440.AA20298@cise.cise.nsf.gov>
+Date: Wed, 19 Feb 1992 14:37:06 GMT
+
+FIRST:  The new NSF Acceptable Use Policy (AUP) is available by anonymous
+ftp from nis.nsf.net in directory cise.  It's in PostScript.
+
+->Is it legitimate from NSF's point of view for an educational institution
+->to allow supervised access to the Internet by students in a local high
+->school class?  If so, what form must the supervision take?  
+
+Fully legitimate; it's covered by the General Principle of the AUP. The
+supervision should be adequate to provide reasonable assurance against
+misuse.  There is I believe a principle of "due diligence" which, if I
+understand it aright, seems appropriate here.
+
+->What are the responsibilities of an institution in proactively overseeing
+->the use of its connection to the Internet?  Absent any evidence of abuse,
+->is it necessary for the institution to restrict Internet access to regular
+->students/faculty/staff (e.g. to deny access to visiting researchers)?  Is
+->it necessary for the institution to guarantee that no open-access
+->terminals exist on campus (including in faculty offices)?  Is it necessary
+->for the institution to monitor traffic to insure that the people using
+->its facilities are abiding by acceptable use policies?
+
+I guess due diligence is the watchphrase again.  And I note that access to
+most public/private high school facilities is not "open"; I cannot, for
+example, walk in anonymously to my local school's gym with a bunch of friends
+and start shooting baskets - let alone use the locker room and showers
+afterwards.  Network access would, I should suppose, be treated much like
+any other school facility.
+
+I am utterly opposed to monitoring traffic, absent a court order.
+
+->Let's return to the Terminus case.  Presumably, it is permissible for an
+->institution to provide individual-password-protected dialin access to the
+->Internet for use by its students/faculty/staff.  Is it permissible for an
+->institution to provide such access with a single well-known password
+->distributed within the institution?  Absent actual abuse, it permissible
+->to provide unprotected access, but with large warnings that use must be
+->consistent with "acceptable use" policies.
+
+cf. supra.
+
+->More generally, what mechanism should decide issues like this?  Has the
+->answer to this question changed given the new focus on education (as
+->opposed to scientific research) in the NREN legislation?
+
+For the NREN, the FNC, as advised by its (private-sector) Advisory Committee
+is the policy-making body.
+
+The NREN is still the least costly of the four pieces of the HPCC program, so
+I would hardly call whatever-it-is on education a "focus".  Nor is whatever-
+it-is "new": it's been in the Administration's program since the 9/89 OSTP
+report and probably even earlier in the (until recently unsuccessful)
+initiatives of the Legislative branch.
+
+-s
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Feb 19 00:00:00 1992
+Date: Tue, 18 Feb 92 12:51:23 PST
+From: Brewster Kahle <brewster@Think.COM>
+Subject: Article 9--Ethics of Digital Librarianship
+Message-ID: <fyi.199202191413.AA07128@eff.org>
+
+
+
+
+		      Ethics of Digital Librarianship
+
+			      Brewster Kahle
+			     Thinking Machines
+			       February 1992
+
+
+	    "As digital librarian, you should serve and protect
+             each patron as if she is your only employer."
+
+As more of us become involved in serving information electronically
+to other users, we so-called "digital librarians" must become
+conscious of our ethical responsibilities to protect the privacy of
+our the users being served.  Since computers are being used by many
+more people to find answers from diverse information sources, we
+librarians that operate these servers are coming exposed to the exact
+questions and interests of people we do not know.  This information
+has power, a power that can be abused and thereby thwart the
+usefulness of the tools we promote.  In this essay, I will use the
+Wide Area Information Server system as an example of a system of
+digital librarians to show what information is collected and used.
+With this example, I hope to illustrate some of the dangers and help
+list some of the rules of etiquette for this emerging class of
+information providers.
+
+The Wide Area Information Server (WAIS) system is an electronic
+publishing system that allows end-users to ask questions of remote
+information sources.  The system encourages people to ask questions in
+natural language so that the server system can try its best to find
+appropriate documents.  Therefore the operator of the server can
+collect the questions, and importantly, collect what documents the
+users thought were worth looking at.  This combines to portray exact
+interests of the users.  While the identity of the user is not trivial
+to determine since only the machine that the query came from is
+accessible from the server logs, as personal computers become
+networked, the identity of the machine will approximate the identity
+of the user.
+
+On the positive side, this means that the server operator (the
+"digital librarian") can use that data to refine the database and the
+search techniques used in the system.  On the negative side, this is
+exposing many remote operators to private information that may not be
+consciously given by the users.
+
+This surrender of information is not new to librarians; and the
+responsibility is taken very seriously by the professionals in the
+field.  Through training in library schools and by an intuitive sense
+of ethics, reference librarians do not betray their patron's interests
+to others that are curious or devious.  This ethical code is not coded
+in law as it is with psychiatrists, so these records can be extracted
+through subpoena, but this level of demand is usually required to pry the
+information from librarians.  From the patron's point of view, having
+a librarian know what she is interested in can be a great value
+because the librarian can help select and route useful information in
+the future.
+
+The same type of information is available to the digital librarians of
+the WAIS system.  I operate the directory of servers in the WAIS
+system, and as such, I know what users are requesting access to what
+what type of servers.  I know, for instance, every time Mitch Kapor
+uses the system, and what he asks for (he specifically allowed me to
+include his name here).  At this point this is not a problem since
+few servers are of a personal nature yet, but as the system
+grows to include entertainment, employment, health and other servers,
+it is easy to imagine the types of information that will be accessible
+through operating such a server.  Furthermore, I know when particular
+users are at their machines, and therefore know where they are and
+when.
+
+The abuses possible with this information are often not as direct as
+other offenses, but should not be discounted.  People will act
+differently if they think they are being watched.  Most people will
+try not to look silly or ignorant in public, and therefore might be
+less willing to try something new, to learn about a subject that they
+know nothing about.  If using a WAIS server feels like raising one's
+hand in school, then people will craft their questions more carefully
+than if it felt more like browsing through a new book.  Often people
+say "I have nothing to hide," which may be true, but if a stranger
+approaches on the street and knows quite a bit of personal
+information, then the innocent will likely take that person more
+seriously than if a cold stranger approached.  Even with nothing to
+hide, most people feel they should who knows what about them.  The
+personal nature of information access makes distributing collected
+questions a bit unnerving.
+
+The information collected by the digital librarians have some different
+characteristics from physical librarians which can make abuse easier
+and more widespread: more people can be served, these people are often
+in other organizations, and the digital librarians rarely have personal
+contact with these users.  Therefore, the patrons seem further away
+and therefore less real as human beings.  Since the computer networks
+that are being used with WAIS span the globe and span company
+boundaries, the information collected can be useful in knowing what is
+important to a distant, and possibly competitive group.  The lack of
+human contact can lead to the decay in social relations as has been
+documented in studies of electronic mail where the language and nature
+of relations tend to be stripped of grace, etiquette, and often respect
+[cite Sherry Terkle].  This detached nature of electronic
+interaction might lead librarians to not respect their patrons
+interests where they would if they knew them personally.
+
+On the other hand, the information collected from patrons can be very
+useful to the digital librarian to refine and enhance the server.  An
+example of this is a reporter at a financial newspaper.  She is in the
+business of collecting information from corporate contacts, finding
+the trends in that information, throwing out the proprietary details,
+and selling it back to that same population.  If the reporter
+published too many details, then her contacts would not be forthcoming
+the next time, and if she sanitized the information to the point of
+uselessness, similarly, her contacts would not invest the time.
+Therefore, it is precisely the interaction with the users that builds
+the information that is sold.  This example shows another facet, and
+that is value of the contacts invest in the reporter for their own
+benefit.  The digital librarian is a less extreme case, but still she
+is being invested and entrusted with what the users want, and if this
+information is misused or not used, then the users will not be as well
+served as could be.  Thus, the users will want to be able to be
+served better by the librarian through feedback on services rendered.
+
+While there are some technological mechanisms to obscure the identity
+of the patron, such as encryption and redirection, hopefully these
+will only be used in extreme cases.  Encryption can be used to protect
+packets in transmission and also be used to sign packets so that they
+can not be forged [cite Whitfield Diffie].  This can be useful in a
+system where the transport media is insecure, such as radio
+transmission.  Redirection is a server forwarding technique that would
+concentrate all the requests from one trusted host so that the
+individual requesters are more difficult to determine.  Combinations
+of these techniques have been contemplated to provably obscure
+requesters while still providing accountability for charges, but
+hopefully these techniques will not be the norm if most server
+operators will act in good faith towards their patrons.
+
+To try to list a code of ethics for this field is difficult since the
+technology keeps changing, but I will offer a principle that can be used to
+test a code.  As digital librarian, you should serve and protect each
+patron as if she is your only employer.  Therefore each patron should be
+served and protected individually.  In terms of WAIS, I feel it is safe to
+suggest:
+   *  Dont give away user logs except for scholarly use.  Consider
+sanitizing the records before any transfer is undertaken.
+   *  Take the job of information serving seriously.  This means to
+provide a consistent, reliable service and represent the service
+provided accurately.
+   *  Count on wide use of the information served, for good
+uses and bad, so be proud of the information and the collection.
+   *  Completeness is important.  Users learn as much from a question
+that has no answer as from the ones with answers.  This requires a
+complete and up-to-date collection.
+   *  Assume that the patron will not know the your affiliations, and
+therefore do not tempt patrons to use a service they would regret if
+they new more about you.
+   *  Respect your patrons.  The opinion that users are "rocks with
+arms", as said by a colleague years ago, will not lead you to become a
+very helpful digital librarian.
+
+In conclusion, the rewards from being a digital librarian are numerous
+and can be evident from notes from users from remote countries and
+companies.  This electronic publishing revolution allows anyone with a
+personal computer and a modem to be a publisher will have far reaching
+effects on the structure of our society.  Being a good digital
+librarian is a concrete way to create a future we all want to live in.
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Feb 19 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)
+Subject: Article 10--Hacking - a ground for dismissal?
+Message-ID: <920218194602.2020c632@DARWIN.NTU.EDU.AU>
+Date: Tue, 18 Feb 1992 19:46:02 GMT
+
+
+A recent article in the _Solicitors Journal_ (Sept. 1991, p.1008-10) posed the 
+question as to whether the unauthorised access to a Company's computer
+was grounds for dismissal of an employee. It was written by Geoff Holgate, and
+the following is based on it.
+
+The issue came before the court English Employment Appeals Tribunal (EAT) and 
+is reported in Denco Ltd. v. Joinson [1991] 1 Weekly Law Reports 330.
+
+The employee, Michael Joinson, worked as a sheet metal worker for Denco Ltd. 
+which manuafactured air drying and airconditioning equiptment. In 1988 Denko
+installed a computer which had a number of VDU terminals attached to it.
+The computer was also used by another company, Intek, which operated
+out of the same premises. Denco's policy was to encourage its employees to
+use the terminal even though their jobs didn't strictly require it.
+
+The computer, via a series of menus, provided information relating to the part-
+icular department within the company.
+
+To gain access to a particular menu (or sub-menu) the user was required to enter
+a user identity code and password. The password was changed every week. The 
+purpose of the passworded system was that the information was provided on a
+'need to know' basis, and only those authorised to access a particular menu
+were entitled to use it.
+
+The system's history file (which recorded every stroke entered on every 
+terminal on the system) revealed an unauthorised access to certain of
+Intek's records on the system. This access was traced to Joinson (who 
+admitted the unauthorised access). He had used the password of the daughter
+of a fellow employee who was an Intek trainee.
+
+Joinson was a member of the Amalgamated Engineering Union. Indeed, he was
+chairperson of a joint committee representing the AEU and other unions.
+
+Denco alleged that Joinson had used the identity code and password to obtain
+information which would be of use to him in his trade union activities, such
+use being hostile to the company. Joinson claimed that his access to the 
+unauthorised information was accidental.
+
+He was summarily dismissed for gross misconduct. Joinson complained he had
+been unfairly dismissed.
+
+The Employment Appeal Tribunal (hearing an appeal by Denco against an industrial
+tribunal which found in favour of Joinson) held that 
+
+   "if an employee deliberately used an unauthorised password in order
+    to enter, or attempt to enter, a computer known to obtain information
+    to which he was not entitled, then that of itself was gross misconduct
+    which prima facie would attract summary dismissal..."
+
+    		[quote from article, p.1009, not judgement]
+
+However the EAT then went on to limit their decision by emphaising that
+
+    "there may be some exceptional circumstances in which such a response
+    might be held ule".
+
+    		[quote from case in article, p.1009]
+
+
+The tribunal reasoned that as maintenance of the integrity of information
+stored on an employer's computer was important, it was in the best interests
+of management to make it "abundantly clear" that interference with its integrity
+would result in severe penalty.
+
+Any comments from the floor?
+
+
+___
+    		           	Mark Neely					
+
+Articled Clerk (Slave)                      | Tutor
+Messrs Cridlands,                           | Law School
+Barristers and Solicitors.                  | Northern Territory University
+
+    	                    Darwin, NT Australia
+    			 neely_mp@darwin.ntu.edu.au
+
+
+
+------------------------------
+
+From caf-talk Caf Feb 18 00:00:00 1992
+From: brossard@sic.epfl.ch (Alain Brossard EPFL-SIC/SII)
+Newsgroups: ch.general,ch.network,epfl.general,news.admin,eunet.news
+Subject: Article 11--Censorship and bigotism come up strong in Switzerland
+Message-ID: <1992Feb20.180752@sic.epfl.ch>
+Date: 20 Feb 92 17:07:52 GMT
+
+
+  For those who thought that Switzerland is a democratic and open
+country, read on to see the subversive groups we are not allowed
+to read (like talk.politics.guns for example).  I used the
+adjective bigot because of the obvious anti-homosexual feelings
+of Switch (see the list of banned newsgroups for yourself).
+
+  I'm posting this widely in the hope of getting feedback and
+usefull suggestions.  Some of the contents is only of local interest.
+  For those who are joining us in mid-stream,  the Swiss universities
+are linked together by Switch a federal institution (?) set up
+just for that purpose.  Following newspapers articles at the beginning
+of the year, Switch decided to cut all alt.sex newsgroups.  This created
+a small furore which hadn't resolved itself yet.  The latest is the following:
+
+---> From: Peter Gilli <gilli@verw.switch.ch>
+---> To:  switch-coord@verw.switch.ch
+---> Message-Id: <2236*gilli@verw.switch.ch>
+---> Subject: News Groups Classification
+---> Autoforwarded: TRUE
+---> 
+---> Dear members of the CC
+---> 
+---> I asked you to comment the proposed methode of making categories
+---> within four weeks from the last meeting.
+---> 
+---> REQUIRED NEWSGROUPS will remain longer on our disk than OPTIONAL  
+---> NEWSGROUPS. PROHIBITED NEWSGROUPS are considered to be not in accordance
+---> with Swiss law. NOT AVAILABLE NEWSGROUPS can eventually be procured with 
+---> extra effort.
+---> 
+---> Changes of individual News groups from one category to another will
+---> be performed at your request and according with Swiss law.
+  (By the way the only Swiss law that MIGHT come into play
+is the one related to Pornography, so they let yourself be
+intimidated by the reference to Swiss law.)
+
+---> This will be an ongoing activity.
+
+ (I can't wait to see what they will come up with next, maybe official
+censorship of all mail bearing a suspicious subject line?)
+
+---> What follows is the _initial_ categories of News groups:
+
+  (Yep, after all why stop at banning only 30 newsgroups when there
+is a 1000 more out there waiting to be cut!)
+
+---> REVISED CLASSIFICATION OF NEWSFEED
+
+   (I guess revised added a neat touch, there never was a classification
+    of news in Switzerland prior to this year)
+---> 
+---> Version Febr. 3, 1992/Sn
+---> 
+---> 
+---> CATEGORY 1: REQUIRED NEWSGROUPS
+---> 
+---> (exceptions: see category 3)
+---> bionet.* bit.* biz.* ch :* comp.* gnu.* ieee.* mail* news.* sci.*
+---> sco.* u3b.* ucb.* unix-pc.* vmsnet.*
+---> 
+---> 
+---> CATEGORY 2: OPTIONAL NEWSGROUPS
+---> 
+---> (exceptions: see category 3)
+---> alt.*
+---> clari.*
+---> de.*
+---> k12.*
+---> misc.*
+---> rec.*
+---> soc.*
+---> srg.*
+---> sub.*
+---> talk.*
+---> 
+---> 
+---> 
+---> 
+---> CATEGORY 3: PROHIBITED NEWSGROUPS
+---> 
+---> alt.binaries.pictures.erotica
+---> alt.drugs
+---> alt.fax.bondage
+---> alt.personals.bondage
+---> alt.politics.homosexuality
+---> alt.psychoactives
+---> alt.satanism
+---> alt.sex.* (6 groups)
+---> alt.sexual.abuse.recovery
+---> alt.tasteless
+---> bit.listserv.gaynet
+---> de.talk.sex
+---> clari.news.group.gays
+---> clari.news.law.crime.sex
+---> clari.news.law.crime.violent
+---> clari.news.law.drugs
+---> clari.news.sex
+---> clari.news.terrorism
+---> rec.arts.erotica
+---> soc.bi
+---> soc.motss
+---> sub.sex
+---> talk.abortion
+---> talk.bizarre
+---> talk.politics.drugs
+---> talk.politics.guns
+---> talk.rape
+---> 
+---> CATEGORY 4: NOT AVAILABLE NEWSGROUPS
+---> 
+---> eunet.*
+      (I guess we are not supposed to compare notes with the
+      rest of Europe)
+
+   As the news administrator at the EPFL, I have to deal with this.  
+Though I'm not overly anxious to take the job of official censor of 
+the EPFL (as my title is becoming to be known!).
+My boss is of the opinion that some of the images in 
+alt.binaries.pictures.erotica are illegal in Switzerland.  The 
+lawyer of the University is supposed
+to come back to me with the legal texts on the matter. Though I'm
+not overly anxious to take the job of official censor of the EPFL
+(as my title is becoming to be known!).  However nothing
+else seems illegal in the above list and we want to keep those newsgroups.
+
+   The situation is such that I have users who use news servers in the
+US (Hawai!) and Germany (over slow and saturated links!) and who
+knows where else to read the
+newsgroups they want.  So a local decision is costing everybody more
+money since the articles are now transiting multiple times and even
+on a per user basis with xrn: once to read and once to get it to save it!
+
+  Allright so what are we going to do about it?  I already have a user
+here who suggested getting a newsfeed from CHUUG and dropping SWITCH
+forever!  It seems like the price for a connection isn't that high
+for Universities with CHUUG.
+  We could just ask for a feed for those newsgroups from CHUUG.   And 
+then we could
+distribute them between us (Swiss Universities) without going 
+through the news server at Switch.
+  Could Switch be facist enough to prevent the Universities from
+talking to each other?  That would be a neat feat since Switch was established
+for just that purpose in mind: enabling communications between Universities!
+
+   Another solution would be to get a nntp feed from outside Switzerland
+directly.  Of course we would be using the Switch network, but I assume
+they wouldn't go as far outside their charter as to cut all IP traffic
+between us and the rest of the world.
+   Even if they block the nntp port, hell I could just pick another one until
+I find one which isn't blocked.  Since I don't use the port for telnetd
+on my machine, I could just put the nntpd on that slot!
+   And if they succeed in cutting all nntp traffic, we could always go
+back to getting news via mail from a friendly site.
+
+   My point is that Switch CAN'T block those newsgroups!  The only
+thing they can do is put the world on notice that they are taking
+responsibility for what goes over the wire...  Talk about asking
+for work and for putting your head in the noose!
+   In case nobody at Switch knew this, Switch is asked to provide
+network connections between the Universities in the same way the
+PTT is asked to carry letters and packages and phone conversations.
+Nobody expects the PTT to take responsability for the pornographic
+magazines or mail-bomb letters!  The same can be said of Switch.
+   However since they had the stupid idea of taking responsability
+for what goes on on the wire, anything goes include censorship as
+we can see.  The only solution I can see is either to fire the
+management of Switch, or abolish it and hope that the next carrier
+(CHUUG?) will act in a more intelligent manner.
+
+   Of course I could be wrong and Switch might wake up and start
+listening to the users, I would love to be proven wrong on this
+point!
+
+-- 
+
+Alain Brossard, Ecole Polytechnique Federale de Lausanne,
+	SIC/SII, EL-Ecublens, CH-1015 Lausanne, Suisse, +41 21 693-2211
+brossard@sic.epfl.ch
+
+
+------------------------------
+
+From caf-talk Caf Feb 20 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 12--What if the Iowa State U. Usenet policy was honest?
+Message-ID: <1992Feb23.201324.12799@m.cs.uiuc.edu>
+Date: Sun, 23 Feb 1992 20:13:24 GMT
+
+[This is a parody of the ISU policy. - Carl]
+
+=================================
+Draft Honest Usenet News Policy
+
+Iowa State University Computation Center
+February 23, 1992
+
+Introduction
+
+We, a handful of individuals in the Iowa State University Computation
+Center, have imposed a policy on the distribution of Usenet
+newsgroups. The policy was created without user participation and
+imposed over the objections of the Computer Advisor Committee. This
+policy, included later in this document, addresses our fear of outside
+criticism. While many Usenet newsgroups provide a wealth of technical,
+research-based, and collateral material, a few groups may contain
+material that someone, somewhere might object to if they learned that
+someone else, somewhere else was reading it.
+
+The purpose of this statement is to provide an after-the-fact
+justification of a decision that we made without looking at the
+academic freedom issues.
+
+Overview of Usenet News
+
+[...]
+
+Most newsgroups are unmoderated, meaning that contributors post
+anything they want without any review.  In general, the only form of
+judgment on content is by peer pressure from other group participants.
+Newsgroups are, thus, an embodiment of the free marketplace of ideas
+that is central to a university and a democracy. We are very
+frightened by this, and so, seek to shut it down.
+
+[...]
+
+Fun Trivia: Like the University library, a significant share of the
+support structure for distributing Usenet News is derived from public
+funding.
+
+
+Challenges Which Accompany This Technology
+
+[...]
+
+"Some university sites in other locations have already come under
+internal and external criticism for the use of state and federal funds
+to store and distribute items which are alleged either to be illegal
+or objectionable." [quote from the real policy -cmk]
+
+[...]
+
+Development of the Usenet News Policy
+
+Many aspects of Usenet News were considered in creating this
+after-the-fact policy justification. Several of them are discussed
+here to lend insight into the policy itself.
+
+In a perfect world, we would censor articles individually; but "the
+volume of material that arrives at campus every day precludes
+individual review of articles or even of selected newsgroups." [quoted
+part from real policy]
+
+We don't like "academic freedom" as currently defined, so we redefined
+it. By our definition, a "Hallmark" of academic freedom is "the use of
+material in manners which respect other in the campus community." [the
+quote is from the real policy]. In other words, to us, academic
+freedom means that you shouldn't read something that might offend
+someone else. To promote this kind of academic freedom, we are banning
+some newsgroups. This saves you the effort of determining if someone
+else might be offended by what you read.
+
+Although we are not trained in the law, have not looked at the case
+law, have not received competent legal advise, we are confident that
+there should be a law that justifies our actions. For example,
+although two recent federal district court decisions (_Doe v. U. of
+Michigan_ and _UWM Post v. U. of Wisconsin_) have said that sexual
+harassment rules cannot justify censorship at state university, we
+think that sexual haarssment rules can justify censorship at this
+state university. Also, although the courts have said that discussions
+of sex in grade and high school are not generally obscene and may, in
+fact, be constitutionally protected, we think that discussions of sex
+in a university are obscene and illegal.
+
+Usenet News Policy
+
+The Computation Center maintains a news server offering Usenet
+newsgroups for the Iowa State University community.  This offering of
+service must comply with our interpretations of federal, state, and
+local laws (except the Constitution) and of the policies of the Iowa
+Board of Regents and Iowa State University (except for the
+prohibitions against censorship).
+
+Three variations of Usenet newsgroups are offered.  These are called
+the Way Censored List, the Censored List, and the Pervert List.
+
+The purpose of the Way Censored List is to provide an alternative to
+those who want their computer to only access newsgroups which appear
+to be focused on academic information. Although the University is full
+of academics, we, as computer administrators, feel that we are the
+best qualified to decide what is, and is not, academic information.
+
+"The purpose of the [Censored List] is to provide access to the
+newsgroups which are less likely to evoke questions regarding access,
+use, or distribution of the material.  Hence, the [Censored List]
+offering will explicitly exclude some newsgroups." [quote from real
+policy.] The Censored List offering will be the default for most
+students on campus. The excluded groups are those which we fear might
+offend. A list of the excluded newsgroups will be posted monthly to
+the newsgroup isu.newsgroups with the subject heading Monthly
+Posting--Banned Newsgroup List.
+
+The purpose of the Pervert List is to offer full access to all
+newsgroups to those in the Iowa State community who own a networked
+computer and who will file a piece of paper with the University and
+the FBI in which they confess they are depraved perverts but they we
+are not responsible. We hope that this will appease the faculty (we
+think we can ignore the students).
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

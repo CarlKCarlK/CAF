@@ -1,0 +1,821 @@
+Newsgroups: comp.admin.policy
+From: William Phillipson <williamp@photonics.ee.mcgill.ca>
+Subject:  McGill University Computer Usage Policy
+Message-ID: <1994May27.181654.14952@sifon.cc.mcgill.ca>
+Date: Fri, 27 May 1994 18:16:54 GMT
+
+The following three documents (seperated by == lines) make up the new
+Computer Usage policy for McGill University.
+
+As described in earlier postings, the Senate Committee on Computing
+(SCC) has been formulating a new Code of Conduct for the use on McGill
+Computing Facilities (MCF).  Three documents have now been approved
+by the SCC.
+ 
+       1.   Code of Conduct
+       2.   An Interpretation document providing more detailed
+            information about the Code.
+       3.   System Management Guidelines - describing rights,
+            limits and procedures associated with managing McGill
+            Computing Facilities.
+ 
+The full text of all documents will follow in separate postings.
+ 
+All three documents will be brought to Senate on Wednesday, May 18, 1994.
+ 
+=======================================================================
+
+                        CODE OF CONDUCT
+                              for
+             USERS OF McGILL COMPUTING FACILITIES
+ 
+ 
+McGill Computing Facilities (MCF) are intended to support the
+academic mission and the administrative functions of the
+University.  This Code of Conduct states the principles regarding
+the use of MCF.  They complement and supplement rather than
+replace other policies concerning appropriate conduct of staff
+and students.
+ 
+McGill Computing Facilities include any computer, computer-based
+network, computer peripheral, operating system, software or any
+combination thereof, owned by McGill University or under the
+custody or control of McGill University.
+ 
+The following principles apply to all McGill staff, students and
+other users of the McGill Computer Facilities.  Users shall:
+ 
+1.  Be responsible for using these facilities in an effective,
+    ethical and lawful manner.
+ 
+2.  Use only those facilities for which they have authorization,
+    whether these facilities are at McGill or at any other
+    location accessible through a network.
+ 
+3.  Take all reasonable steps to protect the integrity and
+    privacy of the MCF including software and data.  In
+    particular, users shall not share with others the access
+    codes, account numbers, passwords or other authorization
+    which have been assigned to them.
+ 
+4.  Respect the copyrights of the owners of all software and data
+    they use.
+ 
+5.  Respect the policies established by the administrators of
+    external networks such as RISQ, CA*net, NSFNET when using
+    such networks.  They shall also respect the policies
+    established by the administrators of local computing
+    facilities at McGill.
+ 
+6.  Respect the privacy of others.  This includes, but is not
+    limited to, respecting the confidentiality of E-mail, files,
+    data and transmissions.
+ 
+7.  Refrain from using MCF for unauthorized commercial
+    activities.
+ 
+8.  Refrain from using MCF for any unauthorized or illegal
+    purposes.  Such purposes might include destruction or
+    alteration of data owned by others, interference with
+    legitimate access to computing facilities or harassment of
+    users of such facilities at McGill or elsewhere, unauthorized
+    disruption of MCF, attempts to discover or alter passwords or
+    to subvert security systems in MCF or in any other computing
+    or network facility.
+ 
+9.  Properly identify themselves is any electronic correspondence
+    and provide valid, traceable identification if required by
+    applications or servers within the MCF or in establishing
+    connections from the MCF.
+ 
+Users have a right to a reasonable expectation of privacy.
+However, system failures or design faults may compromise this
+privacy and users should also recognize that authorized McGill
+personnel may have access to data and software stored on MCF
+while performing routine operations or pursuing system problems.
+Users should further recognize that, as specified in the relevant
+administrative policies at McGill, authorized McGill personnel
+have the obligation to take reasonable and appropriate steps to
+ensure the integrity of MCF and to ensure that this Code is
+observed.
+ 
+Any violation of this Code may be prosecuted in conformity with
+the relevant University policy (Code of Student Conduct,
+Personnel policies, etc.) and the principle of due process.
+ 
+A companion interpretation document is available giving specific
+and current details about this policy.  Any questions concerning
+this Code should be directed to the user's local system manager
+or the McGill Computing Centre.
+
+=======================================================================
+
+                        CODE OF CONDUCT
+                              for
+             USERS OF McGILL COMPUTING FACILITIES
+                     (with interpretation)
+ 
+ 
+This Interpretation Document undertakes to illustrate through
+discussion and examples what McGill University considers to be
+reasonable, ethical, and responsible behaviour by all users of MCF.
+It is also intended to reflect actual practice of the users of MCF
+and of the application of the Code of Conduct and therefore will be
+subject to periodic updates, revisions, and refinements.
+ 
+This Code has been developed with a view to protecting:
+ 
+i)     McGill Computing Facilities;
+ii)    the interests of the community of users as a whole;
+iii)   the rights and interests of individual users.
+ 
+The development process included extensive consultation with all
+segments of the McGill community.  McGill Computing Facilities
+(MCF) are intended to support the academic mission and the
+administrative functions of the University.  This Code of Conduct
+states the principles regarding the use of MCF.  They complement
+and supplement rather than replace other policies concerning
+appropriate conduct of staff and students.
+ 
+In this document, the Code of Conduct is shown in bold with the
+interpretation following each section, indented.
+ 
+                 . . . o o o O O O o o o . . .
+ 
+McGill Computing Facilities (MCF) are intended to support the
+academic mission and the administrative functions of the
+University.  This Code of Conduct states the principles regarding
+the use of MCF.  They complement and supplement rather than replace
+other policies concerning appropriate conduct of staff and
+students.
+ 
+          The phrase "support the academic mission and the
+          administrative functions" does not preclude other
+          uses.  Where other uses are appropriate, they
+          should take a lower priority than those intended to
+          support the academic mission and the administrative
+          functions of the University.  Thus, a computer lab
+          that permits use for personal e-mail or computer
+          games-playing may allow such use only if the
+          systems are not currently required for academic
+          work.
+ 
+          The policies and mores controlling acceptable
+          actions at McGill are implicitly extended to cover
+          the use of the MCF.  The impersonal aspect of
+          computers should not be taken as an excuse or
+          reason for people's interactions with others to be
+          anything but well-mannered, ethical and legal.
+ 
+          If it is unacceptable to display a sexually
+          explicit poster in a public room, it is similarly
+          unacceptable to display such an image on a publicly
+          visible computer screen.  Unsolicited, wide
+          distribution of mail or messages should be carried
+          out only if there is a reasonable expectation of
+          interest by the recipients.  Even in those cases,
+          care must be taken to ensure that the messages do
+          not overwhelm systems.
+ 
+McGill Computing Facilities include any computer, computer-based
+network, computer peripheral, operating system, software or any
+combination thereof, owned by McGill University or under the
+custody or control of McGill University.
+ 
+          The MCF include stand-alone workstations (including
+          IBM-style PC's, Apple Macintosh, etc.) and network-
+          attached systems as well as central servers.  This
+          Code also specifically applies to access to MCF via
+          telephone lines or other remote access mechanisms,
+          and to the use of McGill facilities in conjunction
+          with external networks or computer facilities.
+ 
+          Equipment and software purchased from research
+          funds administered by McGill are owned by McGill
+          University unless otherwise specified in the
+          research grant or contract.
+ 
+The following principles apply to all McGill staff, students and
+other users of the McGill Computer Facilities.  Users shall:
+ 
+1.    Be responsible for using these facilities in an effective,
+      ethical and lawful manner.
+ 
+          This policy states that individual users are
+          responsible for their own actions.  For example, if
+          a user transmits illicit materials or stores
+          illegal software, that individual user is
+          responsible such actions and may be held
+          accountable for all results and repercussions of
+          such actions.
+ 
+          Be aware that wasteful or inefficient use of
+          resources may incur significant expense for McGill
+          or result in a reduction in service to other users.
+ 
+2.    Use only those facilities for which they have authorization,
+      whether these facilities are at McGill or at any other
+      location accessible through a network.
+ 
+          Normally, MCF systems require explicit
+          authorization.  Some McGill systems do not require
+          explicit authorization.  MUSE, the Libraries'
+          Online Catalogue is an example.  Many stand-alone
+          systems also do not require explicit sign-ons.
+          Similarly, many systems are available over the
+          network without explicit authorization.
+ 
+          Authorization based on the provision of false or
+          misleading information is not valid.
+ 
+3.    Take all reasonable steps to protect the integrity and privacy
+      of the MCF including software and data.  In particular, users
+      shall not share with others the access codes, account numbers,
+      passwords or other authorization which have been assigned to
+      them.
+ 
+          Users are encouraged to report any violations of
+          this policy and any information relating to a flaw
+          in or bypass of computing facility security, to the
+          appropriate system manager or to the Computing
+          Centre.  Such security holes must not be "tested"
+          without proper authorization.  Turning a "blind-
+          eye" to potential violations or system flaws may
+          allow YOUR privacy or access to be jeopardized.
+ 
+          In this and following sections, "access code"
+          represents the username, account, sign-on id,
+          password or whatever system-dependant mechanisms
+          are used to gain access to particular facilities.
+ 
+          By allowing your access code to be used by others,
+          you risk compromising the security and integrity of
+          the MCF.  As described in several later sections,
+          many networks to which McGill connects require that
+          all communications be identified and traceable.
+          For these reasons, if you do allow your access code
+          to be used by others, you are responsible for all
+          usage and activities carried out with the code.
+ 
+          Allowing unauthorized access to MCF indirectly is
+          similarly prohibited (such as allowing access to a
+          private computer at home, where this computer in
+          turn provides access to MCF).
+ 
+          A computer or terminal logged on and unattended in
+          an accessible location is particularly vulnerable.
+ 
+          Some McGill units provide access codes to external
+          organizations.  Such organizations are encouraged
+          to have unique codes for each user.  That
+          notwithstanding, the external organization
+          contracting for the access code is responsible for
+          all usage of the code.
+ 
+          Some system management functions require that all
+          those responsible for such functions share a single
+          access code.  Similarly, specific access codes are
+          at times allocated to allow several people
+          performing a common function to receive e-mail
+          (often for user support or help).  The use of such
+          shared codes must be restricted to the intended
+          purpose.  Other usage by the same people should be
+          through single-user access codes.
+ 
+4.    Respect the copyrights of the owners of all software and data
+      they use.
+ 
+          Most of the programs made available on the MCF are
+          copyrighted.  Copyright law specifically prohibits
+          copying of any software except as explicitly
+          allowed in the usage agreement.  Copyright law also
+          provides similar protection for data and text.
+ 
+          Unless the software explicitly states otherwise,
+          ALL software is copyrighted, even those normally
+          referred to as shareware or freeware.  Individual
+          license agreements detail the your exact rights and
+          limitations.
+ 
+5.    Respect the policies established by the administrators of
+      external networks such as RISQ, CA*net, NSFNET when using such
+      networks.  They shall also respect the policies established by
+      the administrators of local computing facilities at McGill.
+ 
+          The use of networks external to McGill (such as
+          RISQ, CA*net, NSFNET) must comply with the policies
+          of acceptable use promulgated by the organizations
+          responsible for those networks.  Examples of
+          inappropriate behaviour include, but are not
+          limited to, wide-spread unsolicited mailings and
+          the use of networks for commercial activities.
+          This Code of Conduct is formulated to incorporate
+          these external policies.  Adherence to this code
+          ensures compliance with the policies of our
+          associated networks.
+ 
+          Copies of several network Acceptable Use Policies
+          are available on infoMcGill.
+ 
+6.    Respect the privacy of others.  This includes, but is not
+      limited to, respecting the confidentiality of E-mail, files,
+      data and transmissions.
+ 
+          The ability to access information does not imply
+          permission to access it.  Specifically, having
+          read-access to a file does not mean that you may
+          read it.  You should not browse, view, print, copy
+          or execute someone else's directories or files
+          (either manually or program-assisted) without
+          explicit permission.  This also applies to floppy
+          disks and tapes and similar storage media.
+ 
+          There may be cases where supervisors must access an
+          employees mail or files to get specific job-related
+          materials or conduct business.  For example, an
+          urgent memo must be sent, but the staff member who
+          typed it is ill.  The need to respond to business-
+          related e-mail is another example.  In all cases,
+          unless prior arrangements have been made,
+          reasonable effort to ask the employee's permission
+          must be made.
+ 
+          Access codes allocated for specific purposes may be
+          designated as "non-private".  In such cases, no
+          data stored under the code may be considered for
+          the private use of the individual to whom the code
+          is allocated.  Prior notice of such designation
+          must be given.
+ 
+7.    Refrain from using MCF for unauthorized commercial activities.
+ 
+          As with other University resources, the use of the
+          MCF for private, commercially-oriented applications
+          is forbidden without appropriate authorization.
+          Use for university-related private activities is
+          often permitted.  For example, running an
+          unauthorized business doing tax returns is clearly
+          not allowed.  On the other hand, use for private,
+          non-profit oriented e-mail or writing a CV is quite
+          acceptable.  If in doubt, check with your system
+          administrator, manager, supervisor, chair, director
+          or Dean.  The McGill Regulations, Policies and
+          Guidelines: A Handbook for Academic Staff, Chapter
+          7, Regulation 6  and The Code of Student Conduct,
+          section A:II.10(a,b) contain similar provisions.
+ 
+8.    Refrain from using MCF for any unauthorized or illegal
+      purposes.  Such purposes might include destruction or
+      alteration of data owned by others, interference with
+      legitimate access to computing facilities or harassment of
+      users of such facilities at McGill or elsewhere, unauthorized
+      disruption of MCF, attempts to discover or alter passwords or
+      to subvert security systems in MCF or in any other computing
+      or network facility.
+ 
+          The law prohibits unauthorized use of computers;
+          unauthorized access to information or programs;
+          destruction or alteration of data or interference
+          with lawful access to data and the use of a
+          computer system with the intent to commit any of
+          the above.
+ 
+          Intentional introduction of any computer virus,
+          trojan horse, worm or similar software is an
+          explicit violation of this principle.
+ 
+          Any unauthorized action which intentionally denies
+          or obstructs access for another legitimate user to
+          MCF is forbidden.
+ 
+          The following excerpts from the Criminal Code of
+          Canada apply to the use of computers and networks.
+ 
+              301.2 (1) Every one who, fraudulently and
+              without color of right,
+ 
+              (a) obtains, directly or indirectly, any
+              computer service,
+ 
+              (b) by means of an electromagnetic,
+              acoustic, mechanical or other device,
+              intercepts or causes to be intercepted,
+              directly or indirectly, any function of a
+              computer system, or
+ 
+              (c) uses or causes to be used, directly or
+              indirectly, a computer system with the
+              intent to commit an offence under paragraph
+              (a) or (b) or an offence under section 387
+              in relation to data or a computer system
+ 
+              is guilty of an indictable offence and is
+              liable to imprisonment for a term not
+              exceeding ten years, or is guilty of an
+              offence punishable on summary conviction.
+ 
+              387 (1.1) Every one commits mischief who
+              wilfully
+ 
+              (a) destroys or alters data;
+ 
+              (b) renders data meaningless, useless or
+              ineffective;
+ 
+              (c) obstructs, interrupts or interferes with
+              the lawful use of data; or
+ 
+              (d) obstructs, interrupts or interferes with
+              any person in the lawful use of data or
+              denies access to data to any person who is
+              entitled to access thereto.
+ 
+          The definitions that accompany this law, as well as
+          applicable copyright law can be found on
+          infoMcGill.
+ 
+9.    Properly sign or make traceable any remote access to or from
+      MCF, any E-mail, message or file transfer initiated on MCF.
+ 
+          All transmissions must be identifiable by McGill
+          staff.  That is, they must include your access
+          code.  Similar rules are imposed by many external
+          networks.  You are encouraged to ensure that your
+          name (in addition to access code) is also attached
+          to all applicable messages.  It is specifically
+          forbidden to attempt to mask your real identity or
+          intentionally originate a message masquerading as
+          someone else.
+ 
+          By convention, most systems offering "anonymous
+          FTP" services request that you enter your network
+          address as a password.  Users must comply with this
+          convention.
+ 
+Users have a right to a reasonable expectation of privacy.
+However, system failures or design faults may compromise this
+privacy and users should also recognize that authorized McGill
+personnel may have access to data and software stored on MCF while
+performing routine operations or pursuing system problems.  Users
+should further recognize that, as specified in the relevant
+administrative policies at McGill, authorized McGill personnel have
+the obligation to take reasonable and appropriate steps to ensure
+the integrity of MCF and to ensure that this Code is observed.
+ 
+          Users are cautioned that technology used in today's
+          computers and networks does not provide for
+          complete privacy.  For example: during the
+          diagnosis of problems, repair of hardware, software
+          or data, user data may become visible or need to be
+          accessed by authorized system administrators;
+          system failures may occasionally make otherwise
+          private data accessible to other users; despite
+          reasonable precautions, unauthorized use, from both
+          inside and outside McGill, occasionally occurs.
+ 
+          McGill's responsibility is limited to taking
+          reasonable actions.
+ 
+          The terms "authorized" and "unauthorized" are used
+          throughout the Code and this Interpretation
+          Document.  The management hierarchy governing use
+          of MCF begins with the Principal and Vice-
+          Principals, and through them to Deans, Directors
+          and Chairs of specific units.  Responsibility below
+          that level can only be delegated explicitly in
+          writing.
+ 
+          Due to the diversity in computing facilities across
+          the University, the preceding policies may not
+          include sufficient detail.  If you have any
+          questions regarding their intention or the
+          implementation in your area, address your questions
+          to the people responsible for your local computing
+          facility.  Questions not answered to your
+          satisfaction may be addressed to the Director of
+          Computing and Telecommunications.
+ 
+Any violation of this Code may be prosecuted in conformity with the
+relevant University policy (Code of Student Conduct, Personnel
+policies, etc.) and the principle of due process.
+ 
+A companion interpretation document is available giving specific
+and current details about this policy.  Any questions concerning
+this Code should be directed to the user's local system manager or
+the McGill Computing Centre.
+ 
+ 
+          Individual units may, at their own discretion,
+          require that the Code be signed by users.
+          
+=======================================================================
+
+                  McGill Computing Facilities
+                     Management Guidelines
+ 
+ 
+The Code of Conduct for Users of McGill Computing Facilities
+outlines the principles governing the use of all McGill Computing
+Facilities.  A companion Interpretation Document is available
+which expands on the Code.  This present document describes the
+responsibilities and rights associated with the management of
+McGill Computing Facilities (MCF).
+ 
+To ensure that the MCF are available to satisfy their intended
+uses, the University must take appropriate steps to manage and
+protect its facilities.  To this end, systems personnel have
+certain privileges and powers.  With these privileges come
+responsibilities.
+ 
+Failure to abide by these guidelines may result in disciplinary
+action.
+ 
+ 
+1        Guideline Applicability
+ 
+1.1      These guidelines apply to all personnel who, in the course
+         of their duties, have physical or logical control or
+         custody of MCF components.  This includes people often
+         referred to as "system managers", "sysops", "systems
+         programmers", "operators" and "network managers", as well
+         as University administrators (including Deans, Directors,
+         Chairs, V-Ps) to whom these people report.  Instructors
+         who have supervisory control in relation to course-related
+         access codes are similarly deemed system managers (albeit
+         with limited jurisdiction).  Also included are hardware
+         and software support and repair personnel.  In this
+         document, all such people are referred to as "System
+         Managers".
+ 
+1.2      The management hierarchy governing use of MCF begins with
+         the Principal and Vice-Principals, and through them to
+         Deans, Directors and Chairs of specific units.  Below this
+         level, the position of System Manager must be designated
+         in writing.  Unless faculty policies state otherwise,
+         researchers are de facto System Managers of all systems
+         purchased from research funds that they control.
+ 
+1.3      All McGill Computing Facilities with multiple end-users,
+         and those attached directly or indirectly to the campus
+         network must have a duly appointed System Manager(s).  In
+         some cases, for primarily single-user, network-attached
+         workstations, the System Manager may be the end-user.
+ 
+ 
+2        Management Responsibilities
+ 
+2.1      Take all reasonable steps to protect systems and contents.
+         Specific requirements are dictated by physical location,
+         connectivity, sensitivity of data, contractual
+         requirements and user characteristics.  The term "protect"
+         includes taking appropriate actions to enable systems to
+         meet their intended purposes.  Responsibilities include,
+         but are not limited to, those described here.  System
+         Managers with limited jurisdiction (such as course-code
+         supervisors) only have those responsibilities reasonably
+         under their control.
+ 
+2.1.1    Manage facilities with the intent of meeting their
+         intended purpose(s).  Users must be informed of the
+         intended purposes of the systems and the expected level of
+         services.
+ 
+2.1.2    Control access to MCF as appropriate for the specific
+         facilities.  This includes (but is not limited to)
+         ensuring that all access other than to systems with
+         controlled, limited function (such as infoMcGill or MUSE)
+         is via appropriate access codes.  Identified security
+         vulnerabilities which may allow a user to bypass security
+         must be corrected where possible.
+ 
+2.1.3    Take reasonable steps to ensure that users do not act in
+         violation to the Code of Conduct.  Specifically,
+         facilities and services which allow users to easily bypass
+         security measures of local or remote systems must be
+         minimized.
+ 
+2.1.4    System Managers must respect privacy as specified in the
+         MCF Code of Conduct unless otherwise allowed by this
+         policy.  Under normal conditions, access to user data
+         other than for backup and routine maintenance must be only
+         with the explicit approval of the owner.
+ 
+2.1.5    Provide for: data backups, including off-site storage;
+         hardware maintenance and backup; and software maintenance
+         commensurate with departmental norms, user needs,
+         expectations and finances.
+ 
+2.1.6    Be aware that, although University insurance automatically
+         covers University-owned systems on University premises,
+         for non-McGill-owned equipment (whether owned by you,
+         other organizations or leased/loaned to McGill), or
+         McGill-owned equipment that is off-premises, explicit
+         insurance arrangement must be made with the Risk
+         Management and Insurance Department, the equipment owner,
+         or your personal insurance broker.
+ 
+2.1.7    For systems that allow multiple users, designate an
+         official point of contact for questions related to
+         administrative procedures.
+ 
+2.1.8    System Managers who observe actual or apparent use which
+         violates the MCF Code of Conduct are obliged to report
+         such use as specified in section 3.2.
+ 
+2.1.9    Major infractions of the Code of Conduct, and in
+         particular those related to intrusive or malicious
+         behaviour must be reported to the Director of Computing
+         and Telecommunications or duly identified delegate.
+ 
+3        Management Privileges and Limits
+ 
+3.1      In the course of carrying out the preceding
+         responsibilities, System Managers are empowered to take
+         certain actions.  As described in the sections that
+         follow, these actions generally can be taken only under
+         certain circumstances and with due regard to the MCF,
+         users as a whole, and individual users.
+ 
+3.2      In many cases, actions require permission or reporting -
+         details and examples follow.  Such permission must be
+         obtained from, or reports filed with the System Manager's
+         immediate or mediate management, appropriately designated
+         senior University officers, or the appropriate Guidance
+         Panel.  In all cases, intermediate management may escalate
+         to higher levels, or to the Guidance Panel.  Certain
+         classes of action must be referred to the Guidance Panel.
+ 
+ 
+3.3      System Management privileges permit actions such as those
+         which follow.
+ 
+3.3.1    Access to systems with privileges exceeding those of a
+         normal user must be restricted to those personnel who
+         specifically require such privileges.  Within the
+         limitations of the system involved, only those privileges
+         actually required should be granted.  It is understood
+         that some systems do not allow granting of certain
+         privileges with fine granularity.  In such cases,
+         privileged users may have more rights than they absolutely
+         need.  The granting of such privileges does not confer the
+         right to use them.
+ 
+3.3.2    System Managers may take all reasonable steps to control
+         the use of and access to MCF.  This may include setting
+         access and use priorities and limits, restricting access
+         to and availability of MCF, performance management, and
+         making decisions regarding the services to be provided.
+         All such actions and decisions must be made with the
+         conscious requirement to support the intended use of the
+         specific facility and the academic mission and the
+         administrative functions of the University.
+ 
+3.3.3    Data maintained by the system (log files, audit trails)
+         may be used in fulfilling the System Managers'
+         obligations.  General release of detailed content of
+         system log files without authorization is specifically
+         proscribed.
+ 
+3.3.4    System or sub-system failures may yield access without
+         prior permission.  In such cases, System Managers must act
+         with discretion.  In circumstances where the System
+         Manager believes  that illegal acts or acts violating
+         McGill's policies are involved, higher management must be
+         consulted.
+ 
+3.3.5    System maintenance, security, integrity or performance
+         issues may indicate that data privacy or integrity should
+         be breached, or that access should be denied.  In such
+         cases, problem analysis will clearly prescribe a course of
+         action.  Actions must be reasonably justified.  In such
+         cases prior approval should be obtained, or, if that is
+         not practical or possible, the action must be reported
+         promptly after the fact.  Guidance Panel consultation is
+         not required.
+ 
+3.3.6    In exceptional cases not covered by the above points,
+         permission must be obtained from the Guidance Panel to
+         carry out actions such as monitoring and investigations
+         that are reasonable given the indicated situation.  Such
+         investigations should always be done in such a way as to
+         minimize intrusiveness.  Where the threat to MCF justifies
+         urgent action, and where time would not allow prior
+         consultation, the panel must be advised as soon as
+         possible after the fact.  If the panel does not agree with
+         the action it may disallow use of any information so
+         obtained.
+ 
+3.3.7    All actions requiring supervisor permission or reports
+         according to these guidelines must be logged
+         (electronically or manually).  Such logs must be retained
+         for at least one year.
+ 
+ 
+4        Guidance Panel
+ 
+4.1      A Guidance Panel will exist to rule on the appropriateness
+         of actions taken by System Managers.  The Guidance Panel
+         must be consulted as specified in section 3.3.6 of these
+         Guidelines.  The Guidance Panel may also be consulted in
+         cases where System Managers do not choose to take action
+         on their own volition.
+ 
+4.2      The Panel will have the authority to allow all forms of
+         computer and network based investigation and
+         documentation.  In cases where the Guidance Panel is not
+         consulted prior to action, it will have the authority to
+         disallow use of information so obtained.
+ 
+4.3      The Senate Committee on Computing (SCC) will annually
+         identify the Guidance Panel membership.  The Guidance
+         Panel will consist of:
+ 
+         a)    A Chair selected by the SCC;
+         b)    A subset of the Senate Committee on Computing with at
+               least one representative from each of the following
+               groups:
+               -  undergraduate students;
+               -  graduate students;
+               -  academic staff;
+               -  administrative and support staff.
+         c)    The Director of Computing and Telecommunications or
+               delegate (ex-officio).
+ 
+4.4      Each time the Guidance Panel is convened to consider a
+         case, the Dean or Director in the area most concerned (or
+         delegate) will be invited to sit on the Guidance Panel
+         with full privileges.
+ 
+4.5      When the Chair receives a request for the Guidance Panel
+         to discuss an issue, efforts will be made to ensure that
+         attendance is as complete as possible, taking into account
+         constraints associated with time and urgency.
+ 
+ 
+5        Examples of System Manager Actions
+ 
+5.1      In exercising the rights described in this set of
+         guidelines, questions arise as to what a first-level
+         System Manager (responsible for day-to-day support) may do
+         on his/her own volition, and what actions require
+         permission and/or reporting.  These are examples;  no
+         claim is made that this is an exhaustive list.
+ 
+5.1.1    Actions not requiring permission/reporting
+ 
+         -  Data backups
+         -  Systems management (including starting/stopping system,
+            system recovery, repair)
+         -  Data line and network monitoring where intent is
+            performance management or problem diagnosis.
+         -  Controlling systems resource allocation
+         -  Routine mail re-routing and support
+         -  Routine file management (with prior notice if
+            appropriate)
+         -  Scanning systems for viruses
+         -  Scanning systems for potential security holes including
+            poor passwords
+         -  Enabling system logging
+         -  Scanning for improperly licensed software (with prior
+            notice)
+         -  Maintenance actions related to defunct accounts, loss
+            of student status, terminated employees, etc.
+            Previously documented (and where appropriate,
+            publicized) procedures should be followed.
+ 
+5.1.2    Actions requiring user permission
+ 
+         -  Inspection, alteration or deletion of user data in
+            support of the user.
+         -  Inspection, alteration or deletion of user data where
+            Code infractions are suspected and potential impact is
+            not urgent.  An uninspected copy of the data may be
+            made prior to requesting permission.
+         -  Altering ownership or access rights.
+ 
+5.1.3    Actions requiring prior notification to user
+ 
+         -  System-wide inspection of user data scanning for
+            copyright violation or programs designed to thwart
+            security (such as password cracking programs).  The
+            prior advice may take the form of a routine notice to
+            all local facility users.
+ 
+5.1.4    Actions requiring supervisor (or higher) permission or
+         reports
+ 
+         -  Altering data ownership or access rights where system
+            integrity is involved.
+         -  Inspection, alteration or deletion of user data where
+            Code infractions are suspected and potential impact is
+            urgent.  System penetration or intrusion will often be
+            present.
+         -  Denial of access to MCS for a particular user(s).
+ 
+5.1.5    Actions requiring permission of Guidance Panel
+ 
+         -  Accessing data for the purposes of identifying
+            potential infractors.  Data may be "live", or copied
+            previously.
+ 
+          ================================================================

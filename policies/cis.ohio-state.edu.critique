@@ -1,0 +1,379 @@
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk,cis.general
+From: kadie@eff.org (Carl M. Kadie)
+Subject:  Re: Policy from Ohio State University's CIS Dept.
+Message-ID: <1993Apr26.204055.23811@eff.org>
+Date: Mon, 26 Apr 1993 20:40:55 GMT
+
+This is a critique of Ohio State University's Computer and Information
+Sciences Department policies and guidelines. 
+
+
+Summary: It lacks due process protection and is ambiguous on privacy.
+It allows some freedom of use (even games, at a low priority). It
+prohibits (illegally, in my opinion) "obscene language", "personal
+attacks", "sexual or racially insenstivi[ty]", and display of any
+bitmap that "any user ... finds ... inappropriate". The policy does
+not say if it was created with the participation of users (or
+university legal counsel).
+
+Details:
+
+>Severe and/or repeated violations can lead to anything from loss of
+>privileges on your account ...
+
+The policy could be improved by specifying the due process procedure.
+
+>to a charge of academic misconduct. Academic misconduct charges will be
+>handled by the department according to the University's standard
+>procedures.
+
+My understanding (based on the Brack case) is that "academic
+misconduct" at OSU means things like creating on a test. I believe
+that things like breaking a window and most computer violations are
+considered nonacademic and are handled by the Judiciary Committee.
+
+[...]
+>* The contents of each user's files are that user's personal property.
+>No one should read or copy another user's files without that user's
+>permission.
+
+If "one" includes sys admins, this is wonderful privacy protection.
+
+[...]
+>You may use your CIS account not only for CIS lab work, but for other
+>CIS course work, for any course work in general, and even for
+>recreation. However, since these facilities are provided by the CIS
+>department, users working on CIS course work have top priority.
+[...]
+
+This seems quite reasonable and quite in keeping with the academic
+spirit of independent investigation.
+
+[...]
+>If the clean-up process does not free up enough disk
+>space, the accounts of users who are severely over quota may be looked
+>at, in an attempt to locate files that are obviously not CIS-related.
+>Note that this in only done if a clean-up does not release enough disk
+>space for the file server to be usable.
+
+This seems to contradict the privacy protection promised earlier.  I
+think it would be better just to move the largest files to tape
+without looking at their contents.
+
+[...]
+>* Obscene language and personal attacks are strictly prohibited.
+
+I believe this rule is an illegal infringement of constitutionally
+protected speech. 'In Papish v. University of Missouri, 410 U.S.  667,
+93 S.Ct. 1197, 35 L.Ed.2d 618 (1973), the Supreme Court ordered the
+reinstatement of a university student expelled for distributing an
+underground newspaper sporting the headline "Motherfucker acquitted"
+on the grounds that "the mere dissemination of ideas--no matter how
+offensive to good taste--on a state university campus may not be shut
+off in the name alone of conventions of decency."  Id. at 670, 93
+S.Ct. at 1199.' (from _Doe_, see refs).
+
+[...]
+>Complaints that a user has committed one of these offenses can lead to
+>removal of that user's mail and news privileges, other restrictions on
+>that user's account, and/or formal action by the department or
+>university including dismissal.
+[...]
+
+This suggests that a user's email and news privileges informally
+and/or before the complaint has been investigated. If so, it
+seems to be an illegal violation of student process rights
+(see refs).
+
+[...]
+>For example, if you have a background image on your machine that can
+>be considered sexually or racially insensitive or at worst, sexual or
+>racial harassment, you may be subject to discipline under both
+>University and CIS guidelines.
+
+While harassment can be prohibited, insensitivity is constitutionally
+protected. As U. of Wisconsin and U. of Michigan have found, it is
+illegal for a state university to prohibit or punish insensitivity.
+[see refs]
+
+[...
+>It may also be necessary to try to locate any trap
+>doors the perpetrators have added to the system, to make it easier for
+>them to get back in. Under these circumstances, the CIS staff will do
+>whatever is necessary to resolve the breach.
+
+When the President says the U.S. "will do whatever is necessary", he
+means that we will attack militarily, likely causing death. CIS would
+be wise to confine itself to "taking reasonable measures".
+
+[...]
+>Local users found to be violating or attempting to violate the security
+>of the systems may face academic misconduct charges, or other
+>appropriate legal action.
+[...]
+
+As mentioned above, "academic misconduct" charges are probably
+not the right charges.
+
+[...]
+>Any user who finds the display of a particular bitmap inappropriate may
+>notify the operations staff. The staff will notify the displayer to
+>remove the bitmap immediately and to refrain from further public
+>display. The bitmap will be removed from the CIS public directory if it
+>resides there.
+[...]
+
+"Someone finds your display inappropriate" is an inappropriate
+criteria for suppression. I'm sure the University has a procedure for
+handling harassing material while protecting non-harassing material.
+I'm reasonably confident that CIS staff are not part of that
+procedure.
+
+- Carl Kadie
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+policies/cis.ohio-state.edu
+=================
+* Edu -- Ohio State U. -- Computer & Information Sci
+
+The computer policy for OSU's Computer and Information Science
+Department.
+
+=================
+policies/old.cis.ohio-state.edu
+=================
+* Edu -- Ohio State U. -- Computer & Information Sci -- old
+
+The old appropriate use, mail (and Netnews), disk, and printer policy
+for the computers labs of OSU's Computer and Information Science
+Department (Critiqued)
+
+=================
+policies/old.cis.ohio-state.edu.critique
+=================
+* Edu -- Ohio State U. -- Computer & Information Sci. -- Critique -- old
+
+Critique for the old appropriate use, mail (and Netnews), disk, and
+printer policy for the computers labs of OSU's Computer and
+Information Science Department
+
+Summary: 'The policies are better than most. The privacy policy is
+especially good. In my opinion, the weakest policy covers email and
+netnews [and due process].
+
+It says that undergrads are prohibited from posting or emailing off
+campus.  This rule is enforced very selectively. To quote an OSU sys
+admin: "it's just something that's usable as a weapon against the
+occasional real jerk." (I think such selective enforcement is
+despicable.)'
+
+=================
+cases/brack@ohio-state.edu
+=================
+The letters from Ohio State University to Steven Brack including his
+letter of dismissial. Also comments on the letters.
+
+=================
+cases/brack@acs.ohio-state.edu
+=================
+All the early notes from CAF-talk related to Steven Brack, Ohio State,
+and Academic Computer Services.
+
+=================
+law/doe-v-u-of-michigan
+=================
+* Expression -- Hate Speech -- Doe v. U of Michigan
+
+This is Doe v. University of Michigan. In this widely referenced
+decision, the district judge down struck the University's rules
+against discriminatory harassment because the rules were found to be too
+broad and too vague.
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+* Expression -- Hate Speech -- UWM Post v. U Of Wisconsin
+
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+=================
+law/cohen-v-california.1
+=================
+* Expression -- Offensive -- Cohen v. California -- 1
+
+Definition of "fighting words"; why no right not to be offended
+
+The definition of fighting words from _Chaplinsky v. New Hampshire_
+and then _Cohen v. California_. Also, says quotes the Supreme Court
+saying that there is no universal right to not hear offensive
+expression.
+
+=================
+law/cohen-v-california.2
+=================
+* Expression -- Offensive -- Cohen v. California -- 2
+
+Netnews article with reference _Cohen v. California_, "in which the
+court ruled that Cohen's jacket, which stated "Fuck the Draft" was a
+protected form of free speech, even though he wore it in a county
+courthouse."
+
+=================
+law/cohen-v-california.3
+=================
+* Expression -- Offensive -- Cohen v. California -- 3
+
+Here are excerpts from several Supreme Court decisions inclusing
+_Cohen v. Calfiornia_. They say that offensive public expression is
+protected if those offended can "effectively avoid further bombardment
+of their sensibilities simply by averting their eyes."
+
+=================
+law/constraints.constitutional
+=================
+* Constitution -- Public University -- Constraints
+
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_ by Partrica A. Hollander, D. Parker Young, and Donald D.
+Gehring.  (College Administration Publication, 1985).  Discusses the
+constitutional constraints on public universities including the
+requires for freedom of expression, freedom against unreasonable
+searches and seizures, due process, specific rules.
+
+=================
+law/brandenberg-v-ohio
+=================
+* Expression -- Advocating Lawbreaking -- Brandenberg v. Ohio
+
+In e-mail, a correspondent expressed the view that there was no right
+to speech that advocated violence. This response is based on U.S. law.
+It is a summary of the ACLU's Bill of Rights Briefing Paper #10:
+Freedom of Expression. The Supreme Court's standard is that speech may
+not be suppressed or punished unless it is intended to produce
+'imminent lawless action' and it is 'likely to produce such action.'
+
+=================
+law/goss-v-lopez3
+=================
+* Due Process -- When Required -- Goss v. Lopez
+
+Two articles providing excerpts from Goss v. Lopez (1975) and
+discussing its application to the suspension of computer accounts.
+
+=================
+law/goss-v-lopez.fischer
+=================
+* Due Process -- When Required -- Goss v. Lopez -- Fischer
+
+Comments from _Teacher's and the Law_, 3rd edition, by Louis Fischer,
+et al. Published in 1991 by Longman. It reports that the Supreme Court
+says that some modicum of due process is necessary unless the matter
+is trivial or there is an emergency.
+
+=================
+law/goss-v-lopez.mnookin
+=================
+* Due Process -- When Required -- Goss v. Lopez -- Mnookin
+
+Comments from _In the Interest of Children_, R. Mnookin (Ed.),
+Franklin E.  Zimring and Rayman L.  Solomon (Contrib. Authors). It
+reports that the Supreme Court says that some modicum of due process
+is necessary unless the matter is trivial or there is an emergency.
+
+=================
+caf
+=================
+* About the CAF mailing lists (and newsgroups)
+
+A description of the comp-academic-freedom-talk mailing list. It is a
+free-forum for the discussion of questions such as: How should general
+principles of academic freedom (such as freedom of expression, freedom
+to read, due process, and privacy) be applied to university computers
+and networks? How are these principles actually being applied? How can
+the principles of academic freedom as applied to computers and
+networks be defended?
+
+
+-------------------------------------------------------------------------
+
+
+From: jgreely@morganucodon.cis.ohio-state.edu (J Greely)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk,cis.general
+Subject:  Re: Policy from Ohio State University's CIS Dept.
+Date: 26 Apr 1993 18:05:16 -0400
+Message-ID: <JGREELY.93Apr26180507@morganucodon.cis.ohio-state.edu>
+
+In article <1993Apr26.204055.23811@eff.org> kadie@eff.org
+ (Carl M. Kadie) writes:
+>Summary: It lacks due process protection and is ambiguous on privacy.
+
+Most of what you seem to want is covered in general university
+regulations, and doesn't merit more than a footnote in department
+policies.  As for privacy, the most likely explanation for ambiguity
+is that privacy *is* ambiguous.
+
+>It prohibits ... display of any bitmap that "any user ... finds ...
+>inappropriate".
+
+Note that that's *public* display of "inappropriate" bitmaps; I
+believe the specific justification is "creating an environment
+conducive to sexual harrassment".  The details on what constitutes
+"inappropriate" aren't clearly spelled out, but this policy is still
+in the early stages; to date, no image has been removed from the
+public raster directory for content (or even for quality).
+
+>>Note that this in only done if a clean-up does not release enough disk
+>>space for the file server to be usable.
+>This seems to contradict the privacy protection promised earlier.  I
+>think it would be better just to move the largest files to tape
+>without looking at their contents.
+
+Walk a few miles in our sandals, please.  Large-scale system
+administration doesn't seem to be your area of greatest experience
+(which is about as nicely as I can put that opinion without choking on
+saccharine).  When 200+ people are using the same disk, and it fills
+up in the middle of the day, writing a 50 megabyte file to tape takes
+far longer than determining that it's the result of an infinite loop
+and deleting it.  I did that this morning; I don't think the user's
+privacy was in any way compromised, and I'm sure the other 200 people
+on that disk prefer my solution to yours.
+
+>When the President says the U.S. "will do whatever is necessary", he
+>means that we will attack militarily, likely causing death. CIS would
+>be wise to confine itself to "taking reasonable measures".
+
+Since we're not career politicians, I think we can safely use the
+former phrase without confusing people.  If a future policy statement
+says "read my lips", I'll be sure to let you know.
+
+
+			"The greatest dangers to liberty lurk in
+			 insidious encroachment by men of zeal,
+			 well-meaning but without understanding."
+				-- Justice Louis O. Brandeis
+				   (Olmstead vs. United States)
+-- 
+J Greely (jgreely@cis.ohio-state.edu; osu-cis!jgreely)

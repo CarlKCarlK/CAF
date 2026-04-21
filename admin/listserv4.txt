@@ -1,0 +1,85 @@
+Both of you may wish to consider using "my" listserv program.  It's a
+newer version of the one from USCD than Mossberg's, but I've done
+quite a bit of work on it:
+
+	Logging now done through syslog
+
+	Many USCD un-localizations performed
+
+	Much sloppy command parsing repaired, where the number of args
+	wasn't checked although it was coded as it they were
+
+	Man page and detailed command help added
+
+	More aliases for commands to hopefully do the right thing in
+	more cases added
+
+	'SEND' command to wrap a file or directory in a variety of
+	methods added
+
+	Simpleminded installation script added
+
+	I forget what all else.  Do a 'diff -rl' and see for yourself.
+
+
+You may snag it from:
+
+	ftp.math.ufl.edu:pub/bb/listserv.tar
+
+Or poke at it via:
+
+	listserv@math.ufl.edu
+
+
+Don't be put off by the size increase; the tar contains an unmodified
+copy of the USCD version (for diff -rl), more help, examples, and the
+SEND code.  Enjoy.
+
+
+"To use Fred Brooks' terminology, people keep handing me programs
+when I'm expecting programming products."  -- Me
+-------------------------------------------------------------------------------
+Brian Bartholomew - bb@math.ufl.edu - Univ. of Florida Dept. of Mathematics
+
+----- 'SEND' help:
+
+        SEND filename
+
+        SEND filename shar
+
+        SEND filename uuencode
+
+                SEND mails you back the file you ask for.  All
+                filenames are relative to the anonymous ftp pub
+                directory.
+
+                The optional third parameter modifies the default
+                packing method, which is simply to split files into
+                1500-line chunks.  BITNET users wanting TeX and
+                Internet users wanting binary files will need to use
+                one of the packing methods with "uuencode" in the
+                name, and have the "uudecode" program available at
+                your site.  If in doubt, use anonymous ftp in binary
+                mode instead of listserv.
+
+                You can get multiple files in a single request by
+                giving multiple SEND commands to listserv, one per
+                line.  You can see what files are available in a given
+                directory with the DIR command.  You can get the list
+                of all available files with SEND INDEX.  Note that GET
+                and SENDME are synonyms for SEND.
+
+
+        SEND directoryname
+
+        SEND directoryname shar
+
+        SEND directoryname tar-uuencode
+
+        SEND directoryname tar-compress-uuencode
+
+                This variant packages up an entire directory tree and
+                sends it to you.  If you use the default packing
+                method, each file in the tree will be split and mailed
+                separately.
+

@@ -1,0 +1,336 @@
+<HEAD>
+<TITLE> Computers and Academic Freedom News</TITLE>
+<BODY>
+<h1>
+<img src="http://www.eff.org/CAF/cafnews.gif">
+</A> <b>Computers and Academic Freedom News</b></h1> <p>
+
+<A NAME="277d7k$2to@eff.org">  Computer privacy at Oregon State University</a>
+
+<pre>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.privacy
+Subject:  Computer privacy at Oregon State University
+Date: 15 Sep 1993 11:43:48 -0400
+Message-ID: <277d7k$2to@eff.org>
+According to the the Chronicle of Higher Education (Volume 40, Issue 4):
+"An attempt to bar broad searches of a computer system's contents
+at Oregon State University has produced an emotional debate among
+network users" (Page A24)
+
+Anybody have details?
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>
+<A NAME="277dvd$32s@eff.org">  Re: "Conditions of Use" policy document</a><pre>
+Newsgroups: alt.comp.acad-freedom.talk,comp.admin.policy
+Subject:  Re: "Conditions of Use" policy document
+Date: 15 Sep 1993 11:56:29 -0400
+Message-ID: <277dvd$32s@eff.org>
+This is a mini-critique:
+
+alanc@OCF.Berkeley.EDU (Alan Coopersmith) writes:
+
+[...]
+>Here's two very different examples from machines at U.C. Berkeley that all
+>undergraduates can get an account on:  (these (and more details) are
+>avaialble from gopher at uclink.berkeley.edu & ocf.berkeley.edu)
+[...]
+>Examples of activities UCLink is NOT to be used for include, but are
+>not limited to, items in the following list:
+[...]
+>  -  sending harassing e-mail such as sending unsolicited mail to strangers,
+[...]
+
+While I think it is ridiculous to ban "sending unsolicited mail to
+strangers", it is doubly ridiculous to define unsolicited mail as
+"harassment".
+
+- Carl
+
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>
+<A NAME="277nti$8gl@news.acns.nwu.edu">  Re: Computer privacy at Oregon State University</a><pre>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.privacy
+Subject:  Re: Computer privacy at Oregon State University
+Date: 15 Sep 1993 18:46:10 GMT
+Message-ID: <277nti$8gl@news.acns.nwu.edu>
+In article <277e2m$336@eff.org>, kadie@eff.org (Carl M. Kadie) writes:
+> 
+> According to the the Chronicle of Higher Education (Volume 40, Issue 4):
+> "An attempt to bar broad searches of a computer system's contents
+> at Oregon State University has produced an emotional debate among
+> network users" (Page A24)
+> 
+> Anybody have details?
+> 
+> - Carl
+
+I followed this debate on comp.infosystems.gopher fairly closely.
+He is a brief account of the issues as I saw them.
+
+A sysadmin at Oregon State had a gopher server with data consisting
+of thousands of files whose names were digit strings.  It was made
+known to people who would have interest in the data, but not 
+advertised or "registered" with the gopher people at Minnesota.
+The sysadmin had no objection to people on the net accessing his
+data if they were interested in it.
+
+Several (I think at least three) automated gopher indexers (e.g.
+veronica) found his gopher and started indexing it.  According to
+the sysadmin this could take a half an hour during which use of
+his computer was severely impacted.  He contacted indexers and asked
+them to stop.  According to the sysadmin they did not do so in a
+timely fashion (on the order of a week, I think).  It is possible
+they were not able to do so quickly, but the sysadmin seemed to
+believe that at least some of the indexers were uncooperative.
+
+The sysadmin posted an angry message to the group
+comp.infosystems.gopher expressing his feelings about gopher indexers.
+He also made the argument that indexers had no right to use his CPU
+without his permission.  A number of people jumped on him (quit
+unfairly in my opinion) saying he should not be trying to hoard his
+data.  He responded that he had no objection to people accessing his
+data, but he wanted the indexers to stop because 1) they were
+continuing to impede his work and 2) the indexes produced (being only
+numeric strings) were useless.  The sysadmin made several apparently
+unsuccessful efforts to block indexing including moving his server to
+a new port on the same machine.  One of the indexers who had stopped
+indexing found the new port and started indexing again in the belief
+that this was a "new server".  The sysadmin was clearly frustrated
+could perhaps be characterized as intemperate in his posts.
+
+Responding posters made the argument that having a gopher server
+implicitly gave permission to anyone to use his CPU in whatever way
+gopher supported.  Others made the argument that permission was
+implicit in the registration of his gopher server with the Univ of
+Minn.  The sysadmin responded that he had *not* registered it, that
+one of the indexers had "registered it for him".
+
+This discussion has lead to a mechanism, supported by at least the 
+Veronica indexers, by which a gopher maintainer can mark a directory
+(or the whole server) not to be indexed.
+
+
+--
+
+John Franks 	Dept of Math. Northwestern University
+		john@math.nwu.edu
+
+</pre>
+<A NAME="278ius$8u5@eff.org">  Computer file privacy at McGill U. in Canada</a><pre>
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk,alt.privacy
+Subject:  Computer file privacy at McGill U. in Canada
+Date: 15 Sep 1993 22:27:40 -0400
+Message-ID: <278ius$8u5@eff.org>
+[Excerpts received via email. Posted at correspondent's request.]
+
+=====================================
+The McGill Tribune, September 14, 1993, volume 13 number 2,
+page 6, Editorial
+ 
+"Student rights at issue in Code of Student Conduct amendments"
+ 
+   "In the last few weeks, Dean of Students [...] has proposed crucial
+changes to McGill's Code of Student Conduct and Disciplinary Procedures."
+ 
+[... background information, plus description of several very good changes
+     which are not disputed ...]
+ 
+"Another contentious change involves the issue of computer use at McGill.
+The dean is proposing that electronic mail written by students
+should be admissible as evidence in a hearing and that
+the article of the current code which stipulates that
+evidence obtained illegally is not admissible to a hearing
+would not apply in this case.  McGill officials would have the right
+to access and scrutinize the computer files of students stored
+on McGill computers.  This is a blatant infringement on a student's
+legitimate right to privacy."
+ 
+[...]
+ 
+"Students should recognize the importance of maintaining their
+hard-won rights on campus.  It is only through a united student effort
+that students can ensure that the rights they have gained will not be lost."
+---------------------------------------------------------------------------
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>
+<A NAME="1993Sep16.122907.9901@cs.aukuni.ac.nz">  Re: [CHE] Highlights from Chronicle of Higher Ed.</a><pre>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.censorship,soc.culture.new-zealand
+From: pgut1@cs.aukuni.ac.nz (Peter Gutmann)
+Subject:  Re: [CHE] Highlights from Chronicle of Higher Ed.
+Date: Thu, 16 Sep 1993 12:29:07 GMT
+Message-ID: <1993Sep16.122907.9901@cs.aukuni.ac.nz>
+>>There was also a short article in CAF-News a month ago. Does anyone
+>>have more details about what has happened since the bans?
+>
+>There has been no sign of any change in policy on the part of U of C. An 
+>extremely draconian anti-porn law has also been passed by the NZ government
+>(anticipation of this law was undoubtedly one of the motivations for U of 
+>C's action).  Among other stupidities, this law regards possession in any 
+>form (including electronic) of certain types of pornography (e.g. child 
+>porn) as indefensible.  As we all know, such things frequently appear in 
+>inappropriate newsgroups, so U of C are certain to be in `possession' of 
+>offensive material sooner or later, and they have of course seriously 
+>undermined the possibility of pleading the impracticality of monitoring 
+>incoming news postings by their actions in censoring some newsgroups.
+
+In case anyone's interested, here are a few relevant sections of the new law 
+(complete with my totally unbiased:-) comments), from a discussion in 
+nz.general a few weeks ago...
+
+>  "Publication" means--
+>[...]
+>  (c) Any paper or other thing--
+>[...]
+>    (ii) On which is recorded or stored any information that, by the use of
+>         any computer or other electronic device, is capable of being 
+>         reproduced or shown as any word, statement, sign, or representation.
+
+This shows the (typical) utter cluelessness of the people who drafted the 
+law.  There is no "normal use" clause here - it's possible to interpret data 
+in any way you choose if you want to.  There's no way that a jury consisting 
+of people who can't set the timers on their VCR's are going to be able to 
+differentiate between decoding a JPEG file and "decoding" an Excel 
+spreadsheet to get, in both cases, a politically-incorrect image.
+
+>    3. Meaning of "objectionable"--(1) For the purposes of this Act, 
+>  a publication is objectionable if it describes, depicts, expresses, 
+>  or otherwise deals with matters of sex, horror, crime, cruelty, or 
+>  violence in such a manner that the availability of the publication 
+>  is likely to be injurious to the public good. 
+>
+>  [long list of policitically incorrect topics covering virtually everything
+>   imaginable]
+>
+>    4. Whether publication objectionable a matter of expert judgement--
+>  The question whether or not a publication is objectionable is a matter 
+>  for the expert judgement of the person or body authorised or required, 
+>  by or pursuant to this Act, to determine it, and evidence as to, or 
+>  proof of, any of the matters or particulars that the person or body is 
+>  required to consider in determining that question is not essential to 
+>  its determination. 
+
+This means that even if the "person or authorised body" can't provide any 
+proof or evidence showing that a "publication" is illegal under the act, 
+they can still rule that it is "injurious to the public good".  It basically 
+allows whoever gets to make the judgement to enfore their morals on everyone 
+else.
+
+And now the really scary part:
+
+>Section 121. Offense to possess objectionable publication---
+>
+>(1) Subject to subsections 4 & 5 of this section, every person commits an 
+>    offense against the Act who, without lawful authority or excuse, has in 
+>    that person's possession an objectionable publication.
+>(2) Every person who commits an offense against subsection 1 of 
+>    this section is liable to a fine not exceeding, ---
+>        (a) In the case on an individual, $2000:
+>        (b) In the case of a body corporate, $5000.
+>        [also jail terms which are listed somewhere else]
+>(3) It shall be *no* defence to a charge under subsection 1 of this section 
+>    that the defendant had no knowledge or no reasonable cause to believe 
+>    that the publication to which the charge relates was objectionable.
+
+Note that (3) provides for, in effect, imprisonment without trial.  Once any 
+sort of non-PC material is in your hands, you can't defend yourself.  In 
+effect you go from arrest straight to sentencing without any cute niceties 
+like a trial by jury. 
+
+One person commented:
+
+>Fortunately there should be ample scope for this act to destroy itself. eg. 
+>the bible and some feminist literature (the "aren't men awful" type) a 
+>clearly and *unquestionably* "objectionable" under this act.
+>
+>It is our legal duty to surrender copies of these under the pending amnesty
+>or perhaps burn them straight off.
+>
+>Bibles can be found in churches and in the offices and homes of our christian
+>friends, relatives and colleagues.  Help them to avoid the wrath of the law 
+>destroying or posting their bible in to the amnesty for them.
+>
+>Feminist literature can be found in libraries, and I presume, offices of
+>feminist studies departments.  However, unlike the bible, each volume would 
+>to be read to check whether it was unquestionably objectionable.  Borderline
+>cases could be submitted to the new authority for a decision.
+
+Unfortunately the feminists and bible-bashers (who, according to a civil- 
+liberties group which made submissions on the act, were the main force 
+behind it) have conveniently excluded any of their own material from being 
+offensive.
+
+Knowing what's in the new law makes the Canterbury Uni position a bit more 
+understandable (although I still disagree with it completely).  While I 
+don't want to turn this into an imminent death of the net predicted lament, 
+the internet is a rather fragile institution over here.  There's just one 
+main backbone going to universities and a few companies and 
+govt.departments, and there's no official funding for it - it's all paid for 
+by universities and the like from computer centre budgets or whatever.  All 
+it takes is something like the alt.tasteless crossposts to rec.pets.cats a 
+while back followed by a complaint from a self-appointed guardian of public 
+morals for an administrator to panic and take drastic self-censorship 
+steps.  At $5K fine per non-PC posting a single days news can eat the entire 
+years network access budget, and many administrators would rather have a 
+highly limited feed than none at all (and a criminal record to boot).
+
+The NZ Internal Affairs dept. has been approached over this (for example 
+some people suggested supplying them with a newsfeed in hardcopy format and 
+creating a two-year backlog at the end of the first day), but their comment 
+was that they basically weren't interested in checking everything (of course 
+you're still guilty if you get caught with anything "illegal").  However 
+this was before the new law came into effect, I don't know what their 
+position is now.
+
+There is, however, one glimmer of hope:  One comment I made during the 
+discussion was:
+
+>>(3) Without limiting the power of the Classification Office to classify a 
+>>    publication as a restricted publication, a publication that would 
+>>    otherwise be classified as objectionable may be classified as a 
+>>    restricted publication in order that the publication may be made 
+>>    available to particular persons or classes of persons for educational, 
+>>    scientific, literary, artistic, or technical purposes.
+>
+>Hmm, "technical purposes":  "Yes your honour, I keep 2GB of white noise on 
+>tapes for use in testing the sound quality of my speakers.  Encryption? 
+>What's that?" :-)
+
+As I mentioned before since the people who wrote the act are obviously 
+utterly clueless when it comes to computers, the act says absolutely nothing 
+about encryption.  The only provision is that the soundtrack of a film may 
+have to be translated into English, but nothing else.  In fact if you had 
+the resources and without that ^$%^&@! automatically-guilty clause you could 
+probably bog any court case down indefinitely with arguments about 
+representation of information and use various information theory and 
+philosophy-based arguments to prove that either the law or their case as it 
+pertains to computer data is a load of rubbish.
+
+However all this does is provide privacy for personal data and 
+communications - it still doesn't help mitigate the threat of possible news 
+censorship... the only alternative is for anyone who wants an unlimited 
+newsfeed to bring it in in encrypted form from the US, which is 
+prohibitively expensive.
+
+Oh yes, I don't speak for the Uni of Auckland, and YMMV on the above 
+comments. 
+
+Peter.
+--
+ pgut1@cs.aukuni.ac.nz||p_gutmann@cs.aukuni.ac.nz||gutmann_p@kosmos.wcc.govt.nz
+peterg@kcbbs.gen.nz||peter@nacjack.gen.nz||peter@phlarnschlorpht.nacjack.gen.nz
+             (In order of preference - one of 'em's bound to work)
+                -- Censorship is the only form of obscenity --
+
+</pre>

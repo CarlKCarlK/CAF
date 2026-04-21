@@ -1,0 +1,555 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 23, 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "The TERMINUS server at MIT allowed users to connect to any port of any Internet connected machine, leading to security concerns from NSFnet.",
+        "There was a tension between the original open resource-sharing culture of Arpanet and the increasing demand for security in the evolving Internet.",
+        "Switch (Switzerland) refused to carry certain Usenet newsgroups based on potential illegality under Swiss law.",
+        "The Denco Ltd. v. Joinson case addressed whether unauthorized computer access constitutes grounds for employee dismissal."
+      ],
+      "organizations": [
+        "MIT",
+        "NSFnet",
+        "EFF",
+        "Switch"
+      ],
+      "people": [
+        "Elizabeth M. Reid",
+        "Brewster Kahle",
+        "Carl Kadie",
+        "William W. Arnold",
+        "Paul Joslin",
+        "Adam C. Gross"
+      ],
+      "summary": "This digest summarizes a series of discussions regarding the TERMINUS terminal server at MIT and its perceived security threat to NSFnet. It covers debates on network responsibility, the transition from an open Arpanet culture to a secured Internet, and broader issues of digital librarianship ethics and censorship in Switzerland.",
+      "title": "Abstract of CAF-News 02.09",
+      "topics": [
+        "network security",
+        "academic freedom",
+        "internet governance",
+        "censorship",
+        "digital ethics"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "emr@ariel.ucs.unimelb.edu.au (Elizabeth M. Reid)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 0 -- Abstract of CAF-News 02.09",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Feb 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The NSF typically avoids acting on Usenet discussions until a formal paper complaint is received.",
+        "Transit hosts like MIT should not be held responsible for users utilizing their systems to access insecure remote sites.",
+        "Network privatization will likely eliminate open-access services because they interfere with traffic monitoring and source-address billing."
+      ],
+      "organizations": [
+        "NSF",
+        "MIT",
+        "Data Research Associates, Inc"
+      ],
+      "people": [
+        "Sean Donelan"
+      ],
+      "summary": "The author discusses the controversy surrounding TERMINUS, a system providing open access to the network, and whether it violates NSFnet's acceptable use policies. The post argues that the responsibility for security lies with the destination systems rather than the transit hosts or the NSF. It further suggests that privatization of the network will likely end such open-access services due to traffic control and billing needs.",
+      "title": "Article 1--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "NSFnet",
+        "Acceptable Use Policy",
+        "Network Security",
+        "TERMINUS",
+        "Privatization"
+      ]
+    },
+    "identity": {
+      "date": "18 Feb 92 21:58:24 CST",
+      "from": "sean@sdg.dra.com",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<1992Feb18.215827.4@sdg.dra.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 1--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.security",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 18, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Open terminal servers allowing access to any TCP/IP port provide an avenue for attacks against remote systems.",
+        "Restricting anonymous access to telnet (port 23) would reduce cracking activity by ensuring a better audit trail.",
+        "TCP/IP wrappers and Identity Servers (RFC 931) allow sites to customize service availability and authenticate connections."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "NSFnet"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "Wes Morgan proposes technical restrictions for open terminal servers to mitigate security risks on the NSFnet. He suggests limiting unauthenticated connections to port 23 (telnet) and restricting 'bouncing' to prevent anonymous attacks on other TCP/IP services. The goal is to shift the security burden from network providers to individual site administrators.",
+      "title": "Article 2--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "network security",
+        "TCP/IP",
+        "open terminal servers",
+        "academic networking"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 18 Feb 1992 16:20:35 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1992Feb18.112035.26089@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 2--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 19 Feb 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Network policy should not compel a site to apply one network's policy to other networks.",
+        "The network service requester, not the provider, should be responsible for compliance with network policy."
+      ],
+      "organizations": [
+        "EFF",
+        "NSFnet",
+        "MIT",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Virginia Boucher"
+      ],
+      "summary": "Carl Kadie proposes general principles for network policy to prevent one network from compelling its policies on others. He suggests that the responsibility for compliance should lie with the service requester rather than the provider. These principles are discussed in the context of NSFnet's Acceptable Use Policy (AUP) and Usenet traffic.",
+      "title": "Re: NSFnet rules of use and terminus",
+      "topics": [
+        "network policy",
+        "Acceptable Use Policy",
+        "academic freedom",
+        "interlibrary loan",
+        "Usenet"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 19 Feb 1992 16:34:25 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1992Feb19.163425.9651@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 3--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "20 Feb 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Early Arpanet sites frequently used passwordless guest accounts to share unique software resources.",
+        "TIPs (Terminal Interface Processors) provided anonymous network access supported by the DoD.",
+        "The marginal cost of network traffic is low enough that economic arguments against guest access are often disingenuous."
+      ],
+      "organizations": [
+        "MIT Artificial Intelligence Lab",
+        "Stanford University",
+        "Department of Defense",
+        "NSF"
+      ],
+      "people": [
+        "Brian Harvey",
+        "Jeffrey M. Schweiger"
+      ],
+      "summary": "Brian Harvey defends the historical practice of providing open guest accounts and anonymous terminal servers on early networks like Arpanet. He argues that such openness fostered a communitarian spirit and allowed unaffiliated individuals to contribute to software development. Harvey contends that security should be managed at the serving host rather than at the network entry point.",
+      "title": "Article 4--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "network security",
+        "guest accounts",
+        "Arpanet",
+        "NSFnet",
+        "open access"
+      ]
+    },
+    "identity": {
+      "date": "20 Feb 1992 16:20:36 GMT",
+      "from": "bh@anarres.Berkeley.EDU (Brian Harvey)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<kq7lakINN4cb@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 4--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.security",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "20 Feb 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The original ARPAnet operated on a trust model similar to a small town where doors were left unlocked.",
+        "Increased network load and unofficial use have forced administrators to adopt defensive security tactics."
+      ],
+      "organizations": [
+        "University of Minnesota",
+        "NSFnet",
+        "ARPAnet"
+      ],
+      "people": [
+        "Craig A. Finseth",
+        "Brian Harvey",
+        "Jeffrey M. Schweiger"
+      ],
+      "summary": "Craig A. Finseth responds to a discussion regarding the decline of open terminal servers on the network. He argues that security-focused administrators are forced into defensive tactics due to the growth of the Internet, contrasting current conditions with the trust-based environment of the original ARPAnet.",
+      "title": "Article 5--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "network security",
+        "open terminal servers",
+        "internet history",
+        "trust models"
+      ]
+    },
+    "identity": {
+      "date": "20 Feb 92 18:04:56 GMT",
+      "from": "fin@unet.umn.edu (Craig A. Finseth)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1992Feb20.180456.10987@news2.cis.umn.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 5--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.security",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "21 Feb 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The lack of complaints from legitimate users is an insufficient metric for determining if a resource is being abused to harass others.",
+        "Implementing password protection on the TERMINUS server is a matter of willingness and principle, not engineering capability."
+      ],
+      "organizations": [
+        "MIT",
+        "NSFnet"
+      ],
+      "people": [
+        "Tom Neff"
+      ],
+      "summary": "Tom Neff argues that MIT should implement password protection on its TERMINUS server to prevent misuse and harassment of third parties. He contends that the issue is one of principle and institutional responsibility rather than technical difficulty. Neff defends the act of public persuasion against claims that criticizing MIT's internal policies constitutes improper interference.",
+      "title": "Article 6--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "network security",
+        "institutional responsibility",
+        "internet governance",
+        "abuse of resources"
+      ]
+    },
+    "identity": {
+      "date": "21 Feb 92 08:57:09 GMT",
+      "from": "tneff@bfmny0.BFM.COM (Tom Neff)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<50076102@bfmny0.BFM.COM>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 6--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.security",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-02-18",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "NSFnet's acceptable use policy focuses on 'what' and 'where' rather than 'who'.",
+        "There is a perceived bias that high school students' non-curricular internet use is viewed as 'cracking' rather than scholarly activity."
+      ],
+      "organizations": [
+        "NSFnet",
+        "MIT",
+        "University of Oregon"
+      ],
+      "people": [
+        "JQ Johnson"
+      ],
+      "summary": "JQ Johnson discusses the ambiguities of NSFnet's 'acceptable use' policy regarding who is permitted to access the network. The post questions whether institutions must proactively monitor traffic or restrict access to prevent potential abuse, specifically referencing a debate over an open-access terminal server at MIT. It highlights the tension between academic openness and the restrictive interpretations of research-based access policies.",
+      "title": "Article 7--access to and acceptable use of NREN networks",
+      "topics": [
+        "Acceptable Use Policy (AUP)",
+        "NREN",
+        "Network Access",
+        "Academic Freedom"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 18 Feb 1992 21:29:05 GMT",
+      "from": "jqj@duff.uoregon.edu",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<9202182129.AA25590@phloem.uoregon.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 7--access to and acceptable use of NREN networks",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 19, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The NSF AUP allows supervised high school student access to the Internet.",
+        "Monitoring network traffic is unacceptable absent a court order.",
+        "The FNC, advised by its Advisory Committee, is the policy-making body for NREN."
+      ],
+      "organizations": [
+        "NSF",
+        "NREN",
+        "FNC",
+        "EFF"
+      ],
+      "people": [
+        "Stephen Wolff",
+        "Carl Kadie"
+      ],
+      "summary": "Stephen Wolff discusses the NSF Acceptable Use Policy (AUP) regarding student access to the Internet and institutional oversight. He argues that 'due diligence' is the appropriate standard for supervision rather than strict restriction or monitoring. Notably, he expresses strong opposition to the monitoring of network traffic without a court order.",
+      "title": "Article 8--access to and acceptable use of NREN networks",
+      "topics": [
+        "Acceptable Use Policy",
+        "network monitoring",
+        "academic freedom",
+        "internet access",
+        "due diligence"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 19 Feb 1992 14:37:06 GMT",
+      "from": "steve@ncri.cise.nsf.gov (Stephen Wolff)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<9202191440.AA20298@cise.cise.nsf.gov>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 8--access to and acceptable use of NREN networks",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "Server operators can determine a user's exact interests and approximate identity through query logs.",
+        "The lack of human contact in digital interactions may lead to a decay in respect for patron privacy.",
+        "Users may be less willing to explore new or 'ignorant' subjects if they believe their queries are being monitored."
+      ],
+      "organizations": [
+        "Thinking Machines"
+      ],
+      "people": [
+        "Brewster Kahle",
+        "Mitch Kapor",
+        "Sherry Terkle",
+        "Whitfield Diffie"
+      ],
+      "summary": "Brewster Kahle discusses the ethical responsibilities of operators of electronic information systems, specifically using the Wide Area Information Server (WAIS) as an example. He warns that server logs can reveal a user's private interests and identity, potentially chilling intellectual curiosity if users feel watched. Kahle proposes a code of ethics for 'digital librarians' to protect patron privacy similar to traditional library standards.",
+      "title": "Ethics of Digital Librarianship",
+      "topics": [
+        "privacy",
+        "digital libraries",
+        "WAIS",
+        "information ethics",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Brewster Kahle <brewster@Think.COM>",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<fyi.199202191413.AA07128@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 9--Ethics of Digital Librarianship",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-02-18",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The English Employment Appeals Tribunal held that deliberate unauthorized computer access to obtain restricted information is gross misconduct justifying summary dismissal."
+      ],
+      "organizations": [
+        "Northern Territory University",
+        "Denco Ltd.",
+        "Intek",
+        "Employment Appeals Tribunal",
+        "Amalgamated Engineering Union"
+      ],
+      "people": [
+        "Mark P. Neely",
+        "Geoff Holgate",
+        "Michael Joinson"
+      ],
+      "summary": "Mark P. Neely discusses a legal case, Denco Ltd. v. Joinson [1991], regarding whether unauthorized computer access constitutes grounds for summary dismissal. The English Employment Appeals Tribunal ruled that deliberately using an unauthorized password to obtain restricted information is prima facie gross misconduct. The ruling emphasizes the importance of maintaining the integrity of employer-stored information.",
+      "title": "Article 10--Hacking - a ground for dismissal?",
+      "topics": [
+        "computer hacking",
+        "employment law",
+        "unauthorized access",
+        "labor relations"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 18 Feb 1992 19:46:02 GMT",
+      "from": "NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<920218194602.2020c632@DARWIN.NTU.EDU.AU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 10--Hacking - a ground for dismissal?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "20 Feb 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Switch implemented a four-category classification system for newsgroups, including 'Prohibited Newsgroups'.",
+        "The prohibited list included groups such as alt.politics.homosexuality and talk.politics.guns.",
+        "Brossard claims that Switch is acting as a censor rather than a neutral carrier of data."
+      ],
+      "organizations": [
+        "EPFL",
+        "Switch",
+        "CHUUG"
+      ],
+      "people": [
+        "Alain Brossard",
+        "Peter Gilli"
+      ],
+      "summary": "Alain Brossard of EPFL criticizes Switch, the federal institution linking Swiss universities, for implementing a newsgroup classification system that bans specific content. The prohibited list includes groups related to homosexuality, drugs, and politics (e.g., talk.politics.guns), which Brossard argues exceeds legal requirements and constitutes censorship. He suggests bypassing Switch via CHUUG or direct external NNTP feeds to maintain academic freedom of information.",
+      "title": "Article 11--Censorship and bigotism come up strong in Switzerland",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "network administration",
+        "Switzerland"
+      ]
+    },
+    "identity": {
+      "date": "20 Feb 92 17:07:52 GMT",
+      "from": "brossard@sic.epfl.ch (Alain Brossard EPFL-SIC/SII)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1992Feb20.180752@sic.epfl.ch>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 11--Censorship and bigotism come up strong in Switzerland",
+      "to_or_newsgroups": "ch.general,ch.network,epfl.general,news.admin,eunet.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 23, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The actual ISU policy was created without user participation and over the objections of the Computer Advisor Committee.",
+        "Administrative censorship of newsgroups often relies on redefined versions of 'academic freedom' to justify restricting content that might offend others."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl M. Kadie presents a parody of the official Usenet news policy at Iowa State University. The satire critiques the university's decision to censor newsgroups without user participation or regard for academic freedom. It highlights the tension between administrative fear of objectionable content and the open nature of the 'free marketplace of ideas' on campus networks.",
+      "title": "Article 12--What if the Iowa State U. Usenet policy was honest?",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "network policy",
+        "satire"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 23 Feb 1992 20:13:24 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1992Feb23.201324.12799@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n09",
+      "subject": "Article 12--What if the Iowa State U. Usenet policy was honest?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

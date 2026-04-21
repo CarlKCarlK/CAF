@@ -1,0 +1,18 @@
+@BOOK{camp::william:e,
+         Editor = "Camp, William E. and Connelly, Mary Jane and Underwood, Julie and {National Organization on Legal Problems of Education}",
+         Title = "Current issues in school law: principal's handbook",
+         FOR01 = "Principal's handbook, current issues in school law.",
+         Publisher = "NOLPE",
+         Address = "Topeka, Kan.",
+         Year = "1989",
+         COL = "296 p. ;$23 cm.",
+         NOG = "Spine title: Principal's handbook, current issues in  school law.",
+         NOB = "Includes bibliographical references and index.",
+         LON = "(WaOLN)5190270",
+         LON = "ocm21496956",
+         Subject = "Educational law and legislation--United States",
+	 Reviews = {For grade and high school principles. Section
+on student expression is concise and up-to-date.},
+	 Note = {Score: 6 of 10},
+	},
+

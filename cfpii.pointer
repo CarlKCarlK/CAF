@@ -1,0 +1,61 @@
+On-line Proceedings for "Computers, Freedom and Privacy II" are
+available to those on the Internet. A WAIS database contains the ASCII
+text of the proceedings courtesy of the ACM.
+
+The proceedings has 11 sections:
+
+ 1.  KEYNOTE ADDRESS: Freedom in Cyberspace: New Wine in Old
+ 2.  WHO LOGS ON?
+ 3.  ETHICS, MORALITY, AND CRIMINALITY
+ 4.  FOR SALE: GOVERNMENT INFORMATION
+ 5.  FREE SPEECH AND THE PUBLIC TELEPHONE NETWORK
+ 6.  WHO'S IN YOUR GENES?
+ 7.  PRIVATE COLLECTION OF PERSONAL INFORMATION
+ 8.  PRIVACY AND INTELLECTUAL FREEDOM IN THE DIGITAL LIBRARY
+ 9.  COMPUTERS IN THE WORKPLACE: ELYSIUM or PANOPTICON?
+ 10. WHO HOLDS THE KEYS?
+ 11. PUBLIC POLICY FOR THE 21st CENTURY
+
+It is available via WAIS, an internet tool. The "*.scr" file is
+enclosed. If you don't have wais, but do have telnet, you can
+    telnet quake.think.com
+and sign on as "wais" and run WAIS there. The database is about source
+106. Searching for the word "computer" will produce a list
+of all 11 sections.
+
+- Carl
+
+
+========== computers-freedom-and-privacy.scr ================
+(:source 
+  :version  3 
+  :ip-address "192.31.181.1"
+  :ip-name "quake.think.com"
+  :tcp-port 210
+  :database-name "/proj/wais/db/sources/computers-freedom-and-privacy"
+  :cost 0.00 
+  :cost-unit :free 
+  :maintainer "jonathan@think.com"
+  :description "Server created with WAIS release 8 b6 on Nov 16 13:40:50 1992 by jonathan@quake
+
+This database contains the ASCII text of the proceedings from \"the
+Conference on Computers, Freedom and Privacy II,\" courtesy of the ACM.
+
+The proceedings has 11 sections:
+
+ 1.  KEYNOTE ADDRESS: Freedom in Cyberspace: New Wine in Old
+ 2.  WHO LOGS ON?
+ 3.  ETHICS, MORALITY, AND CRIMINALITY
+ 4.  FOR SALE: GOVERNMENT INFORMATION
+ 5.  FREE SPEECH AND THE PUBLIC TELEPHONE NETWORK
+ 6.  WHO'S IN YOUR GENES?
+ 7.  PRIVATE COLLECTION OF PERSONAL INFORMATION
+ 8.  PRIVACY AND INTELLECTUAL FREEDOM IN THE DIGITAL LIBRARY
+ 9.  COMPUTERS IN THE WORKPLACE: ELYSIUM or PANOPTICON?
+ 10. WHO HOLDS THE KEYS?
+ 11. PUBLIC POLICY FOR THE 21st CENTURY
+"
+  )
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+

@@ -1,0 +1,72 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "7 Dec 1994",
+      "historical_relevance": "low",
+      "item_type": "post",
+      "notable_claims": [],
+      "organizations": [],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This item is a repost of a message originally intended for the alt.censorship newsgroup. The content consists solely of a forwarding note by Carl (kadie@hal.cs.uiuc.edu) without providing the original text of the discussion.",
+      "title": "Re: Self Empowered Censors",
+      "topics": [
+        "censorship",
+        "cross-posting"
+      ]
+    },
+    "identity": {
+      "date": "7 Dec 1994 14:53:49 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 2,
+      "item_index": 0,
+      "message_id": "<3c4i9t$ge5@vixen.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/dec_11_1994",
+      "subject": "Re: Self Empowered Censors",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 7, 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "JANET proposed excluding newsgroups based on 'offensive' content or legal contraventions.",
+        "The author views this as the beginning of the end of the 'free' internet in the UK."
+      ],
+      "organizations": [
+        "JANET"
+      ],
+      "people": [
+        "Dave Brokenshaw",
+        "Mary Whitehouse"
+      ],
+      "summary": "Dave Brokenshaw shares a letter sent to JANET users in the UK regarding potential censorship of newsgroups. The communication warns that content deemed 'offensive' or in contravention of legislation may be excluded from the network.",
+      "title": "Self Empowered Censors",
+      "topics": [
+        "censorship",
+        "internet freedom",
+        "network policy",
+        "UK academic networks"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 7 Dec 1994 13:40:11 GMT",
+      "from": "wmcdab@thor.cf.ac.uk (Dave Brokenshaw the 1st)",
+      "item_count": 2,
+      "item_index": 1,
+      "message_id": "<20311.9412071340@thor.cf.ac.uk>",
+      "source_kind": "news",
+      "source_path": "news/dec_11_1994",
+      "subject": "Re: Self Empowered Censors",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-10-28",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Student was dismissed from university until 1/93 following a hearing regarding ACS policies.",
+        "Hearing used 'preponderance of evidence' as the standard for decision."
+      ],
+      "organizations": [
+        "The Ohio State University",
+        "Academic Computing Services",
+        "EFF"
+      ],
+      "people": [
+        "Steven S. Brack",
+        "Carl Kadie"
+      ],
+      "summary": "Steven S. Brack reports that he has been dismissed from his university until January 1993 following a hearing. The proceedings involved testimony from the Engineering Workstation Facility manager and the security chief of Academic Computing Services (ACS). Brack notes that the decision was based on a preponderance of evidence rather than reasonable doubt.",
+      "title": "The Verdict",
+      "topics": [
+        "student discipline",
+        "university computing policy",
+        "academic freedom",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "sbrack@bluemoon.rn.com (Steven S. Brack)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "<1991Oct28.135044.18831@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "The Verdict",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "29 Oct 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Pennsylvania monitored and logged terminal sessions without faculty consultation.",
+        "Logging was limited to non-Penn hosts due to disk space constraints.",
+        "Management justified the surveillance as a necessary measure for security against 'crackers'."
+      ],
+      "organizations": [
+        "University of Pennsylvania",
+        "Data Communications Dept."
+      ],
+      "people": [
+        "Tony Catone"
+      ],
+      "summary": "Tony Catone reports that the University of Pennsylvania's Data Communications Dept. implemented electronic monitoring and logging of terminal sessions connecting to non-Penn hosts. The logs were scanned by humans and keyword filters to identify 'improper activities,' such as hacking. Catone notes that this policy was enacted without consulting faculty or university governance.",
+      "title": "Electronic session logging at the University of Pennsylvania",
+      "topics": [
+        "surveillance",
+        "privacy",
+        "network monitoring",
+        "academic freedom",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "29 Oct 91 07:00:36 GMT",
+      "from": "catone@dmark.wharton.upenn.edu (Tony Catone)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<54609@netnews.upenn.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Electronic session logging at the University of Pennsylvania",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-11-01",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Judge Leisure ruled CompuServe lacks editorial control over publications on its network.",
+        "Prodigy's policy of pre-screening public notes could potentially increase its legal liability for defamatory messages."
+      ],
+      "organizations": [
+        "CompuServe",
+        "Prodigy",
+        "International Business Machines Corp.",
+        "Sears, Roebuck & Co.",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "A news excerpt reports on a judicial ruling stating that CompuServe is not liable for defamatory content on its network, comparing its role to that of a library or bookstore. The text contrasts this with the Prodigy network, which pre-screened member notes and thus faced different liability risks. This highlights early legal distinctions between passive distributors and active moderators of electronic speech.",
+      "title": "CompuServe Isn't Liable for Contents of its Network",
+      "topics": [
+        "intermediary liability",
+        "free speech",
+        "electronic networks",
+        "moderation"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 1 Nov 1991 19:52:46 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1991Nov1.195246.13037@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "CompuServe Isn't Liable for Contents of its Network",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "29 Oct 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators may be unable to effectively prevent users from monitoring other users' network activity via simple shell scripts.",
+        "Certain technical requirements, such as those of NFS software, necessitate the public dissemination of information that could compromise user privacy."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Kentucky Engineering Computing Center"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "Wes Morgan provides technical feedback on a draft statement regarding the confidentiality responsibilities of system administrators. He argues that absolute privacy is difficult to implement because certain system requirements, such as NFS mount tables and Unix shell scripts, allow users to monitor each other's activity. He distinguishes between user-driven monitoring and automatic system logs, which he believes should be protected.",
+      "title": "Re: Draft Statement on Computers and Academic Freedom (CAF)",
+      "topics": [
+        "confidentiality",
+        "system administration",
+        "user privacy",
+        "Unix",
+        "NFS"
+      ]
+    },
+    "identity": {
+      "date": "29 Oct 91 16:37:43 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1991Oct29.163743.15765@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Re: Draft Statement on Computers and Academic Freedom (CAF)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 30, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The group sought to develop a formal statement on computers and academic freedom for potential adoption by the AAUP.",
+        "There was a debate over whether to use parliamentary procedure or simply provide raw discussion notes to policymakers."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Association of University Professors"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Dean Gottehrer"
+      ],
+      "summary": "Carl Kadie discusses the procedural methods for finalizing a draft statement on computers and academic freedom via email. He suggests using modified parliamentary procedure for voting and proposes submitting the final document to the American Association of University Professors (AAUP) for policy consideration.",
+      "title": "Re: Draft Statement on Computers and Academic Freedom (CAF)",
+      "topics": [
+        "academic freedom",
+        "governance",
+        "policy drafting",
+        "digital voting"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 30 Oct 1991 15:35:18 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1991Oct30.153518.19993@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Re: Draft Statement on Computers and Academic Freedom (CAF)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "29 Oct 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The success of the CAF document depends on adoption by academic institutions.",
+        "A USENET vote would only serve to demonstrate consensus to reluctant administrators."
+      ],
+      "organizations": [
+        "University of Iowa",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Douglas W. Jones",
+        "Carl M. Kadie",
+        "Robert F Solon"
+      ],
+      "summary": "Douglas W. Jones discusses strategies for implementing the Computers and Academic Freedom (CAF) statement within academic institutions. He argues that institutional adoption is more critical than a general readership vote on USENET. Jones notes he has already recommended the policy to his university's computer services director as a preemptive measure against potential controversies.",
+      "title": "Promulgating the CAF statement",
+      "topics": [
+        "CAF Statement",
+        "institutional policy",
+        "academic freedom",
+        "university administration"
+      ]
+    },
+    "identity": {
+      "date": "29 Oct 91 21:09:33 GMT",
+      "from": "jones@pyrite.cs.uiowa.edu (Douglas W. Jones,201H MLH,3193350740,3193382879)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<8856@ns-mx.uiowa.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Promulgating the CAF statement",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 11, 1991",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The UW Rule requires that expressive behavior be directed at an individual and intend to create a hostile environment to be actionable.",
+        "University computer systems are subject to disciplinary rules regarding discriminatory comments sent to faculty."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Wisconsin System",
+        "UWM Post, Inc."
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Gordon Baldwin",
+        "Richard Delgado",
+        "Ted Firiman"
+      ],
+      "summary": "Carl Kadie of the EFF shares a district court ruling regarding the University of Wisconsin System's 'UW Rule' on racist and discriminatory conduct. The case examines the legal distinction between protected offensive expression and illegal harassment within an academic environment. Notably, the court documents include an instance where a student was disciplined for sending a hate-speech message via a university computer system.",
+      "title": "UWM POST v. U. of Wisconsin",
+      "topics": [
+        "academic freedom",
+        "hate speech",
+        "harassment",
+        "First Amendment",
+        "email",
+        "student conduct"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 29 Oct 1991 04:15:14 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1991Oct29.041514.16218@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Re: YAHWEH is good! (instead of quoting reams, lets look at cases)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-10-29",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The CAF Law Archive was hosted on ftp.eff.org in the directory 'pub/academic/law'.",
+        "The archive included materials on the Electronic Communications Privacy Act of 1986 (ECPA) and its relation to email privacy.",
+        "The archive tracked legal distinctions between protected offensive expression and illegal harassment, specifically mentioning email in UWM POST v. U. of Wisconsin."
+      ],
+      "organizations": [
+        "Electronic Freedom Foundation",
+        "ACLU"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Ruel T. Hernadex"
+      ],
+      "summary": "Carl Kadie provides an updated directory of the Computers and Academic Freedom (CAF) Law Archive, hosted by the Electronic Freedom Foundation (EFF). The archive contains a curated collection of case law, legislation, and legal commentary regarding electronic privacy, speech codes, and academic freedom. It includes specific references to the Electronic Communications Privacy Act of 1986 and various court rulings on university harassment policies.",
+      "title": "Updated README file for CAF law subarchive",
+      "topics": [
+        "legal archives",
+        "academic freedom",
+        "electronic privacy",
+        "First Amendment",
+        "speech codes"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 29 Oct 1991 21:01:45 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1991Oct29.210145.18387@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Updated README file for CAF law subarchive",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "31 Oct 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Unmoderated newsgroups at universities function as free-speech forums.",
+        "Selective enforcement of newsgroup charters to punish offensive notes is prohibited by legal precedent (San Diego Committee v. Governing Bd).",
+        "Newsgroup charters are social contracts enforced by social pressure rather than government or institutional policing."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Mark Eckenwiler",
+        "Gene Spafford"
+      ],
+      "summary": "Carl Kadie argues that unmoderated Usenet newsgroups hosted by universities should be treated as free-speech forums. He contends that newsgroup charters are social contracts rather than legally enforceable documents and that selective enforcement of such charters by state universities would be legally prohibited.",
+      "title": "Re: yahweh is good posting",
+      "topics": [
+        "Usenet",
+        "free speech",
+        "academic freedom",
+        "newsgroup charters",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "31 Oct 91 16:14:05 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<kadie.688925645@herodotus.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Re: yahweh is good posting",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "2 Nov 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The free flow of ideas is the essence of academic, economic, and political freedom.",
+        "Censoring speech for content in universities or colleges to combat 'isms' or maintain 'political correctness' is wrong."
+      ],
+      "organizations": [
+        "DLA Systems Automation Center"
+      ],
+      "people": [
+        "Robert F Solon"
+      ],
+      "summary": "A discussion regarding the balance between a poster's right to free speech and a reader's right not to be offended on Usenet. The author argues that censoring speech based on content or 'political correctness' is an abomination and that the free flow of ideas is essential to academic, economic, and political freedom.",
+      "title": "Re: Rights for readers\\posters?",
+      "topics": [
+        "free speech",
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "reader rights"
+      ]
+    },
+    "identity": {
+      "date": "2 Nov 91 08:03:31 GMT",
+      "from": "nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<9111021803.AA15019@dsacg2.dsac.dla.mil>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Re: Rights for readers\\posters?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Tue, 29 Oct 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators may enforce newsgroup charters that include viewpoint discrimination if notified of violations.",
+        "Charter enforcement is often handled through user education rather than punitive removal of privileges.",
+        "The administrator distinguishes between free speech and the right to be free from harassment within specific group charters."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "An anonymous system administrator responds to queries regarding the enforcement of Usenet newsgroup charters. The admin states they would enforce charter-based viewpoint or sexual discrimination if notified of a violation, provided the group was approved by Usenet rules. The discussion highlights the tension between free speech and the prevention of harassment in early networked academic environments.",
+      "title": "Re: off-topic notes (was yahweh is good posting)",
+      "topics": [
+        "Usenet",
+        "sysadmin",
+        "academic freedom",
+        "content moderation",
+        "newsgroup charters"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 29 Oct 1991 15:05:56 GMT",
+      "from": "kadie@eff.org (Anonymous)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1991Oct29.150556.5266@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Re: off-topic notes (was yahweh is good posting)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "30 Oct 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "WWU banned alt.sex* and alt.binary newsgroups after a state auditor complained.",
+        "Vice Provost Jerry Boles characterized the alt.sex* groups as 'junk mail'.",
+        "Administration claimed groups could be restored if requested by faculty for academic reasons."
+      ],
+      "organizations": [
+        "Western Washington University",
+        "Seattle Post-Intelligencer"
+      ],
+      "people": [
+        "Jerry Boles",
+        "Jeff Wandling",
+        "Bent Faber",
+        "Vickie Hoover"
+      ],
+      "summary": "A student at Western Washington University reports that the university banned approximately 15 Usenet newsgroups, including alt.sex* and most alt.binary groups, following a state auditor's complaint. The author criticizes the administration's lack of technical understanding and highlights conflicting statements regarding the process for faculty to request the reinstatement of groups for academic reasons.",
+      "title": "Forget UW, let's talk about Western Washington U!",
+      "topics": [
+        "Usenet censorship",
+        "academic freedom",
+        "network administration",
+        "content filtering"
+      ]
+    },
+    "identity": {
+      "date": "30 Oct 91 04:08:44 GMT",
+      "from": "n8810182@henson.cc.wwu.edu (LittleOne)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1991Oct30.040844.8212@henson.cc.wwu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Forget UW, let's talk about Western Washington U!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "29 Oct 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Electronic communication is critical to the mission of CS departments.",
+        "Allowing administrators to judge which newsgroups are 'good' or 'bad' is unhealthy and leads to censorship."
+      ],
+      "organizations": [
+        "University of Washington",
+        "University of Aalborg"
+      ],
+      "people": [
+        "Lars P. Fischer",
+        "Wes Morgan"
+      ],
+      "summary": "Lars P. Fischer argues that Usenet access is critical to the mission of Computer Science departments for both pedagogy and professional research. He contends that universities should allocate shared resources for electronic communication to avoid placing individuals in the position of judging which content is 'good' or 'bad'.",
+      "title": "Re: USENET censorship strikes University of Washington!",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "resource allocation",
+        "computer science education"
+      ]
+    },
+    "identity": {
+      "date": "29 Oct 91 01:47:52 GMT",
+      "from": "fischer@iesd.auc.dk (Lars P. Fischer)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<FISCHER.91Oct29014752@thor.iesd.auc.dk>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n35",
+      "subject": "Re: USENET censorship strikes University of Washington!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

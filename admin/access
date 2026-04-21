@@ -1,0 +1,147 @@
+Here is information on how to access one computer medium via another.
+Please send any corrections/updates/additions to kadie@eff.org.
+
+How to:
+
+=======================
+* access anonymous ftp via email
+=======================
+
+There are a variety of ftp mail servers
+(ftpmail@decwrl.dec.com is a popular choice).  If you send it a
+message with the text:
+
+help
+
+you'll get a manual, but normally you'd send it a message such as:
+
+connect some.host.somewhere.else
+get somefilename
+quit
+
+=========================
+* access gopher via email
+=========================
+
+For information on "GopherMail", send email with any subject but no
+body to either gopher@calvin.edu or gophermail@ncc.go.jp.
+
+=======================
+* access gopher via telnet
+=========================
+
+telnet sites for gopher:
+     Hostname                  IP#              Login   Area
+     ------------------------- ---------------  ------  -------------
+     consultant.micro.umn.edu  134.84.132.4     gopher  North America
+     ux1.cso.uiuc.edu          128.174.5.59     gopher  North America
+     panda.uiowa.edu           128.255.40.201   panda   North America
+     info.anu.edu.au           150.203.84.20    info    Australia
+     gopher.chalmers.se        129.16.221.40    gopher  Sweden
+     gopher.ebone.net				gopher  Europe
+
+=======================
+* read netnews via gopher
+=======================
+
+Try some of these:
+
+gopher -pnntp phantom.bsu.edu 4320
+gopher -pnntp phred.math.byu.edu 4321
+gopher -pnntp jupiter.cc.gettysburg.edu 3030
+gopher -pnntp gopher.ic.ac.uk 4320
+gopher -pnntp teetot.acusd.edu 4320
+gopher -pnntp gopher.sdsu.edu 4320
+gopher -pnntp pinus.slu.se 4324
+gopher -pnntp services.canberra.edu.au 4320
+gopher -pnntp gopher.cc.umanitoba.ca 4320
+gopher -pnntp anemone.uta.fi 6671
+gopher -pnntp morse.cns.vt.edu 4320
+gopher -pnntp gopher.msu.edu 4320
+gopher -pnntp gopher.denet.dk 4320
+gopher -pnntp rs6000.cmp.ilstu.edu 4320
+gopher -pnntp cwis.oac.uci.edu 4324
+gopher -pnntp gopher.acs.oakland.edu 4320
+gopher -pnntp hengill.rhi.hi.is 4324
+gopher -pnntp mudhoney.micro.umn.edu 4324
+gopher -pnntp pinchy.micro.umn.EDU 4324
+gopher -pnntp ccat.sas.upenn.edu 4324
+gopher -pnntp info.anu.edu.au 71
+gopher -pnntp cc.nsysu.edu.tw 4320
+gopher -pnntp nuinfo.nwu.edu 4321
+gopher -pnntp knot.queensu.ca 17502
+gopher -pnntp info.mcc.ac.uk 4320
+
+=======================
+* read netnews via 'rn' from another site
+=======================
+For a list of sites, do:
+  finger lesikar@tigger.stcloud.msus.edu
+
+WARNING, WARNING, WARNING
+For each site you will want a different version of your ".newsrc" file.
+1. Copy your current .newsrc file somewhere safe
+For example, "mv .newsrc .newsrc.local"
+2. Set your "NNTP" variable to one of these sites:
+   m.cs.du.edu
+For example, type "setenv NNTP m.cs.du.edu"
+3. Run 'rn"
+For example, "rn"
+4. Before you sign off, restore your old ".newsrc"
+For example, "cp .newsrc .newsrc.other; cp .newsrc.local .newsrc"
+
+
+=======================
+* write netnews via email
+=======================
+
+To post an article via a mail server just mail it to one of these
+addresses:
+
+group.name@news.demon.co.uk
+group.name@news.cs.indiana.edu
+group.name@bull.com
+group.name@cass.ma02.bull.com
+group.name@undergrad.math.uwaterloo.ca
+group.name@magnus.acs.ohio-state.edu
+group.name@ccs.uwo.ca
+group.name@julian.uwo.ca
+group.name.usenet@decwrl.dec.com
+
+=======================
+* ftp via gopher
+=======================
+
+ftp via gopher:
+Host:  'gopher.tc.umn.edu' Port:  70
+Path:  '1/FTP Searches/Popular FTP Sites via Gopher'
+
+=======================
+* WWW via telnet
+=======================
+telnet info.cern.ch 
+   (or telnet 128.141.201.74) The simplest line mode browser. This server is in Geneva, Switzerland. 
+telnet ukanaix.cc.ukans.edu 
+   A full screen browser "Lynx" which requires a vt100 terminal. Log in as www. University of Kansas 
+telnet www.njit.edu 
+   Log in as www. A full-screen browser in New Jersey Institute of Technology. USA. 
+telnet vms.huji.ac.il 
+   (or telnet 128.139.4.3). A dual-language Hebrew/English database, with links to the rest of the world. The line mode
+   browser, plus extra features. Log in as www. Hebrew Uiversity of Jerusalem, Israel. 
+telnet sun.uakom.cs 
+   Slovakia. Has a slow link, use from nearby. 
+telnet fserv.kfki.hu 
+   Hungary. Has slow link, use from nearby. Login is as www. 
+telnet info.funet.fi 
+   (or telnet 128.214.6.100) (FINLAND) 
+Cornel Law school 
+   (address?) 
+
+[Information from http://info.cern.ch/hypertext/WWW/FAQ/Bootstrap.html#z11]
+
+=======================
+* WWW via email
+=======================
+For information, send email to listserv@info.cern.ch. Include
+the line: "help"
+

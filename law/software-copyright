@@ -1,0 +1,203 @@
+[Disclaimer: this is not legal advice]
+
+From: tzs@stein.u.washington.edu (Tim Smith)
+Newsgroups: rec.games.video,misc.legal
+Subject:  Re: Copyright and ownership
+Date: 11 Feb 1993 17:05:06 GMT
+Message-ID: <1le102INN9g6@shelley.u.washington.edu>
+
+[I'm adding misc.legal, since this doesn't really have much to do with
+ video games any more, and because I'm going to foolishly talk about
+ UCC 2-207, a section of the UCC which is fraught with danger]
+
+David Morning writes:
+>>they give me the merchandise, free and clear.  I may be bound by the law as to
+>>what I can do with the merchandise; for example, the copyright law states that
+>>I can't run off copies of the book for my friends.  (In the case of software
+>>packages, the law explicitly allows one archival backup copy as "fair use",
+>>something that I don't believe has changed under the Berne convention.)
+>
+>Only partly correct. Berne specifies quite clearly what is meant by 'fair use'
+>namely, you may copy *portions* of the original, not the entire work.
+>How big a portion depends on intended usage - personal, commercial and 
+>educational.
+
+Making an archival copy in the United States has nothing to do with
+fair use.  It is *EXPLICITLY* allowed by United States copyright law:
+
++============================================================+
+| s 117. Limitations on exclusive rights:  Computer programs |
+|                                                            |
+| Notwithstanding the provisions of section 106, it is not   |
+| an infringement for the owner of a copy of a computer      |
+| program to make or authorize the making of another copy or |
+| adaptation of that computer program provided:              |
+|                                                            |
+| (1) that such a new copy or adaptation is created as an    |
+| essential step in the utilization of the computer program  |
+| in conjunction with a machine and that it is used in no    |
+| other manner, or                                           |
+|                                                            |
+| (2) that such new copy or adaptation is for archival       |
+| purposes only and that all archival copies are destroyed   |
+| in the event that continued possession of the computer     |
+| program should cease to be rightful.                       |
+|                                                            |
+| Any exact copies prepared in accordance with the           |
+| provisions of this section may be leased, sold, or         |
+| otherwise transferred, along with the copy from which such |
+| copies were prepared, only as part of the lease, sale, or  |
+| other transfer of all rights in the program.  Adaptations  |
+| so prepared may be transferred only with the authorization |
+| of the copyright owner.                                    |
++============================================================+
+
+>As to what you refer to as 'shrinkwrap licenses', I think you'll find that
+>anyone who tries to challenge them these days will simply have Berne laws
+>thrown back at them in court and come a cropper.
+
+Anyone who tries to enforce a shrinkwrap license in the U.S. is likely to
+have UCC 2-207 thrown at them.  This is not speculation.  This is Step-Saver
+Data Systems, Inc., v. Wyse Technology and Software Link, Inc., 939 F.2d 91
+(3d cir. 1991).
+
+There are also numerous law review articles that have analyzed these licenses,
+and I've not found any that think that they will be enforceable in any other
+jurisdiction.
+
+Modern contract law tends to throw out things that aren't bargained for.
+The reason for this is simple.  Consider the following scenerio:
+
+	You order some item by filling out one of your standard purchase
+	order forms, with find print on the back, of course, and send it
+	to the seller.  Under common law, this would be an offer.
+
+	Seller ships the item, and it shows up on your loading dock.
+	Seller's truck driver tells your shipping clerk to sign for
+	the thing.  The form your clerk is asked to sign contains a
+	bunch of fine print on the back that doesn't match the fine
+	print on your purchase order.  Under common law, because the
+	terms did not match *exactly*, this was treated as a rejection
+	of your offer, and the offering of a counter-offer from the seller.
+
+	Your clerk signs, thereby accepting the counter-offer and all the
+	seller's terms.
+
+Well, you can predict what this would lead to.
+
+	Every time something arrives at the loading dock, you will have
+	to have your corporate counsel come down and read the find print
+	on the back of the seller's form.  If he doesn't like something,
+	he can cross it out and then sign. But now if the delivery person
+	leaves the item, it's probably an acceptance of your counter-counter-
+	offer.  So the seller is going to have to send a lawyer out on all
+	their deliveries...  give me a break!
+
+This is called "the battle of the forms," and caused many problems.
+
+The UCC deals with this as follows:
+
+	Section 2-207.  Additional Terms in Acceptance or Confirmation
+
+	(1) A definite and seasonable expression of acceptance or a written
+	confirmation which is sent within a reasonable time operates as an
+	acceptance even though it states terms additional or different from
+	those offrered or agreed upon, unless acceptance is expressly made
+	conditional on assent to the additional or different terms.
+
+	(2) The additional terms are to be construed as proposals for additions
+	to the contract.  Between merchants such terms become part of the
+	contract unless:
+
+		(a) the offer expressly limits acceptance to the terms of the
+		offer;
+
+		(b) they materially alter it; or
+
+		(c) notification of objection to them has already been given
+		or is given within a reasonable time after notice of them
+		is received.
+
+	(3) Conduct by both parties which recognizes the existence of a
+	contract is sufficient to establish a contract for sale although
+	the writings of the parties do not otherwise establish a contract.
+	In such case the terms of the particular contract consist of
+	those terms on which the writings of the parties agree, together
+	with any supplementary terms incorporated under any other
+	provisions of this Act.
+
+So, what happens when you call up a company and order a program?  First of
+all, when they ship it to you, that is an acceptance under 2-207(1).  Is it
+expressly conditional on you accepting the terms of the license in the box?
+No.  Courts have construed this very narrowly.  They would have to refuse to
+ship until you accepted the license.  So we have an acceptance.
+
+Now take a look at 2-207(2).  The license proposes additional or different
+terms or both, depending on exactly what it says.  If this were a sale
+between merchants, they would become part of the contract unless one of
+the exceptions were met.  However, you aren't a merchant in this example,
+so they don't become oart if the contract.  They merely stay as proposals
+for additions to the contract.
+
+If you were a merchant, the seller still has a problem.  2-207(2)(b) tends
+to nail the kind of terms that sellers like to try.
+
+Anyway, you tend to end up in 2-207(3), and you get all the usual stuff that
+goes with the sale of goods, such as warranties.
+
+--Tim Smith
+
+------------------------------
+
+From eff!news.byu.edu!gatech!howland.reston.ans.net!agate!spool.mu.edu!uwm.edu!linac!mp.cs.niu.edu!tk0jut1 Sat Feb 20 16:58:52 EST 1993
+Article: 7294 of alt.comp.acad-freedom.talk
+Xref: eff alt.comp.acad-freedom.talk:7294 comp.org.eff.talk:14647
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+Path: eff!news.byu.edu!gatech!howland.reston.ans.net!agate!spool.mu.edu!uwm.edu!linac!mp.cs.niu.edu!tk0jut1
+From: tk0jut1@mp.cs.niu.edu (jim thomas)
+Subject: Re: Shrink-wrap licenses 
+Message-ID: <1993Feb20.204446.12418@mp.cs.niu.edu>
+Organization: Northern Illinois University
+References: <1993Feb18.165222.24713@netcom.com> <1993Feb18.201145.5301@ringer.cs.utsa.edu> <bhayden.730185304@teal>
+Distribution: inet
+Date: Sat, 20 Feb 1993 20:44:46 GMT
+Lines: 38
+
+ 
+For those who haven't seen the March issue of Boardwatch Magazine,
+Lance Rose reports in his "Legally Online" column ("A Surprising
+Reverse on Reverse Enginering," p. 43) on a ruling that weakened
+restrictions on reverse engineering of software.
+ 
+In ATARI GAMES COPR. v. NINTENDO OF AMERICA, the Washington, D.C.
+appellate court, writes Rose:
+ 
+    ...declared, for the first time by a high federal court anywhere,
+    that making software copies as necessary to reverse engineer
+    another's program is perfectly legal. Although making
+    unauthorized copies would ordinarily infringe the copyright in
+    the copied software, it will be deemd a legal "fair use"when done
+    for the purpose of reverse engineering. as the court said:
+ 
+        _When the nature of a work requires intermediate copying to
+        understand the ideas and processes in a copyrighted work, that
+        nature supports a fair use for intermediate copying. Thus,
+        reverse engineering object code to discern the unprotectable
+        ideas in a computer program is a fair use._
+ 
+    This statement harks back to the basic trade-off embodied in the
+    Copyright Act. Creators of copyrighted works have the right to
+    prevent unathorized copying of the expression contained in those
+    works, but in exchange, any ideas in their works are open to the
+    public (p. 44).
+ 
+In the same article, Rose cites and summarizes several cases of
+"copyright misuse," in which copyright holders attempted to
+use "infringment" claims in ways counter to the intents and logic
+or copyright protection legislation.
+ 
+Information on Boardwatch Magazine can be obtained from
+jrickard@teal.csn.org
+ 
+Jim Thomas
+ 

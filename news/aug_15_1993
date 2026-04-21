@@ -1,0 +1,348 @@
+<HEAD>
+<TITLE> Computers and Academic Freedom News</TITLE>
+<BODY>
+<h1>
+<img src="http://www.eff.org/CAF/cafnews.gif">
+</A> <b>Computers and Academic Freedom News</b></h1> <p>
+
+<A NAME="CBHs8J.HL2@ms.uky.edu">  Re: Ethics of complaining to site (was Re:</a>
+
+<pre>
+Newsgroups: alt.comp.acad-freedom.talk
+From: morgan@engr.uky.edu (Wes Morgan)
+Subject:  Re: Ethics of complaining to site (was Re:
+Message-ID: <CBHs8J.HL2@ms.uky.edu>
+Date: Mon, 9 Aug 1993 12:33:54 GMT
+spraggej@Jeff-Lab.QueensU.CA wrote:
+>swaim@owlnet.rice.edu (Michael Parks Swaim) writes:
+>>Apparantly this behavior had occurred enough at the site for them 
+>>to consider it suspicious activity.
+>
+>If someone sets up an anonymous FTP site, that strikes me as the equivalent
+>of hanging out a shingle that says "public office". It doesn't matter whether
+>or not they intended to have it used that way; if you put that type of system
+>out on the net, you invite people in. In my opinion, you have no business
+>complaining unless and until someone actively attempts to subvert a restric-
+>tion.
+
+Ah, but don't we (as system administrators) *also* have an obligation to
+attempt to minimize such subversion *before* it happens?  If I see "sus-
+picious" activity and do nothing, I'll hear my users exploding in anger
+when something does happen.  Someone in this discussion said that sysadmins
+are, by and large, hypervigilant; while that person may have intended it
+as a perjorative, I'll suggest that it is an almost-necessary quality.
+
+I've said this several times, but it's worth repeating -- if *your* system
+dies because of some third party's tweaking/exploring/cracking/whatever, are
+you going to say "well, I'm glad that the admins didn't get involved until
+something happened"?  I doubt it; I strongly suspect that you'll be wailing
+and moaning (along with every other user) about the disruption of your work.
+It's happened here, and I've seen it happen at dozens of sites.  Everyone
+seems to counsel patience and non-intervention "unless and until" something
+nasty happens.  When it's *your* site, are you going to accept something
+like "well, we saw some suspicious things in our logs, but we decided to
+let it ride"?
+
+>Do you have confidence that everyone at your site on whose desk a complaint
+>might land has the required wisdom and judgement and technical knowledge?
+>Now, can you say that about every site? 
+>
+>It seems to me that you can't take an action knowing that you may trigger an
+>overreaction and just wash your hands of the responsibility by leaving it all
+>with the site you complain to.
+
+Oh, yes, you can!
+
+Look at it this way:
+
+	- I might send email to someone at another site, but I have
+	  no way of verifying that the message reached the proper 
+	  person.  (If, for instance, a cracker is misusing someone
+	  else's account, they'll just delete the message, right?)
+
+	- One usually doesn't have the time to track down the person 
+	  via telephone.  If I am successful, I (again) have no way of 
+	  verifying that I'm talking to the right person.
+
+	- In the case of "suspicious" activity, postal mail is far
+	  too slow a medium for problem resolution.
+
+	- The *only* people I can reach with any degree of certainty 
+	  are the adminstrators of that system.  They also happen to 
+	  be the people who can contact the individual user with some
+	  degree of certainty. 
+
+If I make it clear that I have no intention of proceeding with legal action,
+I have no problem "washing my hands" of the issue until/unless it happens
+again.  Case in point:
+
+	- This site (engr.uky.edu) does not allow the sharing of userids.
+	- If I find evidence of sharing (such as jwayne at foo.bar.edu
+	  using telnet to log into one of our systems as jdoe), I'll send
+	  a note to jwayne, with a Cc: to root@foo.bar.edu.
+	- The note says something like this:
+		"I've noticed that you are connecting to our systems
+		 and logging in under the 'jdoe' userid.  This site does
+		 not allow the sharing of userids; I have already spoken
+		 with jdoe.  I have no intention of initiating legal or 
+		 disciplinary action as a result of this incident; I merely 
+		 want to inform you of our policy.  If you have any ques-
+		 tions or comments, please get in touch with me.  A copy of 
+		 this note has been sent to root@foo.bar.edu."
+	- 99% of the time, I receive an "I didn't know -- sorry" reply, and 
+	  the situation is resolved.  To the best of my knowledge, no remote
+	  user has ever been penalized as a result of my actions in these
+	  mundane situations.  (There have been a few occasions in which
+	  other, more serious activities were uncovered while resolving 
+	  situations such as this.)
+
+I certainly agree that we cannot predict the technical competence or
+temperament/reaction of every site admin; however,  I do not believe
+that you can ask admins to ignore suspicious activity "unless or until"
+more serious incidents occur.  Asking us to do so is tantamount to
+requesting that we abdicate our responsibilities to our users.
+
+--Wes
+-- 
+          Wes Morgan - University of Kentucky - morgan@engr.uky.edu  
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+           GCS/E/MU  d---  -p+  c++  l+  m*  s++/++  !g  w+  t+  r 
+                     gharshana-neti -- mental floss?
+</pre>
+<A NAME="CBJHDD.FGn@cantua.canterbury.ac.nz">  Re: [KWR] "UW to probe offensive images in</a><pre>
+Newsgroups: alt.comp.acad-freedom.talk
+From: moselecw@elec.canterbury.ac.nz (moz)
+Subject:  Re: [KWR] "UW to probe offensive images in
+Message-ID: <CBJHDD.FGn@cantua.canterbury.ac.nz>
+Date: Tue, 10 Aug 1993 10:34:24 GMT
+Hey look, excuse me here, but I seem to have missed the start of this
+discussion completely. Are you arguing about whether the Net should face
+the same laws on porn as the rest of the media, or whether we should
+start a group soc.child-rape?
+
+Have you covered the New Zealand situation yet?
+We're in the process of a law to merger the censors into one body, and
+make electronic media subject to them in the same way as everything else.
+
+At the same time, the University of Canterbury has just cut alt.binary.pic.erotica
+and alt.sex* (incl. a.sexual-abuse-recovery) in a reaction to a news story!
+Two different subjects, both relevant here, have either been covered by
+you people?
+
+-- 
+*love* and *hugs*
+moz (moselecw@elec.canterbury.ac.nz)
+
+
+The strawman .sig:	Porn may be harmful
+			You can either have censorship or porn
+			We must therefore have censorship. 
+			      Julian Visch (jsv@math.canterbury.ac.nz)
+</pre>
+<A NAME="CBIG4G.1rJ@ms.uky.edu">  Re: USA Today jumps on a.b.p.e</a><pre>
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk,alt.censorship
+From: morgan@engr.uky.edu (Wes Morgan)
+Subject:  Re: USA Today jumps on a.b.p.e
+Message-ID: <CBIG4G.1rJ@ms.uky.edu>
+Date: Mon, 9 Aug 1993 21:09:52 GMT
+>ab2@acpub.duke.edu (Arnold  Baker) writes:
+>>The sexual harassment squad have once again targeted the Internet.  USA Today
+>>printed an article today (Fri, Aug 6, p. B1) discussing the case of Stephanie
+>>Brail, a West Coast freelance writer, who was, in her paradigm, sexually
+>>harassed by usenetters. I don't have time to transcribe the entire article,
+>>but here are the main points (about 1/2 the article):
+>>
+>>: Until two weeks ago, Stephanie Brail, a West Coast freelance writer, was
+>>: receiving harassing e-mail messages - including profanity-laced rape 
+>>: threats.  They were apparently in retaliation for anti-sexist remarks she 
+>>: had made to a computer discussion group.  She asked others on her network 
+>>: if they had ever been harrassed; more than 75 women said yes....
+
+Here's a question for you -- when does a discussion of a controversial
+issue, or even a flamefest, cross the line into sexual harassment?  If
+one's comments take a personal tone (as in, "yeah, you'd probably like
+XXXXXXX"), I think that most of us would consider that "over the line."
+However, what about generic comments?  What about the fellow who makes
+generalizations about women?  What about women who make generalizations 
+about men?  Can we apply the highly individual nature of the harassment
+laws/regulations to generalizations and broad statements?
+
+If I say something like "you can't understand impotence, since you're a
+woman," have I sexually harassed anyone?  As an aside, I'll point out
+that I've been told that my testosterone prevents me from understanding
+PMS, pregnancy, motherhood and the abortion issue......
+
+I think that we need to tread rather lightly when making bold statements
+like "more than 75 women said that they were harassed in a computer dis-
+cussion group."  There's a line between offense and harassment; let's not
+blur that line further.
+
+I'll give a open invitation to anyone, male or female, who believes that
+they have been sexually harassed via electronic forums (Usenet, mailing 
+lists, and online public forums) to contact me with examples.  All respon-
+ses will be held completely confidential.  If requested, I'll post anony-
+mized excerpts of the "harassing" materials.  I'd like to see exactly what 
+is being construed as "online harassment."
+
+--Wes
+
+ps> Notice that I did not include personal email in my request; I'll be
+    the first one to admit that harassment can (and does) take place in
+    personal email.  I'm concerned with the allegations of harassment in
+    the public forums of Cyberspace.
+
+-- 
+          Wes Morgan - University of Kentucky - morgan@engr.uky.edu  
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+           GCS/E/MU  d---  -p+  c++  l+  m*  s++/++  !g  w+  t+  r 
+                     gharshana-neti -- mental floss?
+</pre>
+<A NAME="24bf5j$okr@eff.org">  Re: Where's the "Banned Computer Uses" list?</a><pre>
+Newsgroups: alt.comp.acad-freedom.talk,comp.admin.policy,comp.org.eff.talk
+Subject:  Re: Where's the "Banned Computer Uses" list?
+Date: 11 Aug 1993 14:52:35 -0400
+Message-ID: <24bf5j$okr@eff.org>
+I've removed the UMass/Boston entry from the latest banned.1992.
+
+kadie@uiuc.edu (Carl Kadie) writes:
+
+> Would this be better?
+
+betsys@cs.umb.edu (Elizabeth Schwartz) writes:
+
+>It would be completely inaccurate. No complaints were received by me.
+>If you are asking, here's the complete stories. Quotes are
+>approximate, of course:
+[...]
+
+Thanks for the clarification. I've removed the UMass/Boston entry from
+the banned.1992 list. I apologize for the embarrassment that my
+misunderstanding of your articles and the subsequent listing caused.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>
+<A NAME="CBnDq7.n0w@ms.uky.edu">  Re: A policy draft paraphrase</a><pre>
+Newsgroups: alt.comp.acad-freedom.talk,comp.admin.policy,comp.org.eff.talk,alt.censorship
+From: morgan@engr.uky.edu (Wes Morgan)
+Subject:  Re: A policy draft paraphrase
+Message-ID: <CBnDq7.n0w@ms.uky.edu>
+Date: Thu, 12 Aug 1993 13:06:06 GMT
+kadie@eff.org (Carl M. Kadie) wrote:
+>This is a paraphrase of part of a draft policy for a departmental 
+>computer system. The department is part of a state university. The
+>department doesn't want to be identified because this is only a draft.
+>Please respect this wish.
+>
+>============================
+>* You have a right to free speech.
+>* Communicate whatever you want privately (and consentually).
+>* Please do not post graphically violent or obscene material to public
+>  forums. There is no sanction if you do post graphically violent or
+>  obscene material to public forums, but we believe that such posts
+>  are disrespectful to others and inappropriate for a university
+>  enviornment.
+
+Most of you know (by now, anyway) that I'm somewhat moderate.
+
+From a cold, hard free speech viewpoint, this seems agreeable.
+However, this policy doesn't address the *nature* of the forum
+in question.  Material which is quite acceptable in alt.sex.*
+could easily be disruptive/far-off-topic in comp.sys.hp.  
+
+I also fail to understand how the university can guarantee a
+"no sanctions" policy; it almost seems like a blanket protec-
+tion.  I could accept a "no *prior* sanction" clause, but this 
+policy does not acknowledge the fact that complaints may be made 
+(and sanctions levied) through the University's judicial system.  
+I'll assume that this university does, indeed, have such a judi-
+cial system in place; I doubt that the computing folks can simply 
+override the decisions of that system.
+
+Perhaps something like this would be more appropriate:
+
+	"We provide you with access to various public forums.
+	 You enjoy the right of free speech, and we support
+	 that right.  However, you should realize that you
+	 bear full responsibility for your contributions to
+	 those forums.  While we will not apply any restric-
+	 tions to your participation, you should remember that
+	 you are still subject to the University's judicial
+	 system, as well as local, state, and Federal law.
+
+	 In short, we won't stop you from expressing yourself
+	 in public forums, nor will we protect you from the 
+	 results of such expression.  You are responsible for 
+	 your own words and actions in these forums."
+
+The burden of responsibility should be clearly placed on the user.
+
+--Wes
+
+-- 
+          Wes Morgan - University of Kentucky - morgan@engr.uky.edu  
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+           GCS/E/MU  d---  -p+  c++  l+  m*  s++/++  !g  w+  t+  r 
+                     gharshana-neti -- mental floss?
+</pre>
+<A NAME="CBM88H.363@darkside.osrhe.edu">  Prono problem in Okla. Expands to Internet</a><pre>
+Newsgroups: comp.org.eff.talk
+From: markg@okcforum.osrhe.edu (Mark Grennan)
+Subject:  Prono problem in Okla. Expands to Internet
+Message-ID: <CBM88H.363@darkside.osrhe.edu>
+Date: Wed, 11 Aug 1993 22:09:53 GMT
+Because of local politics and commumity standards, the Oklahoma Regients
+for Higher Ed. have turned of any News group with the word SEX in it.
+
+Big brother lives. I can't beleave there realy doing this.
+
+
+
+-------------------------------^----------------------------------------
+ Mark T. Grennan              / \         markg@okcforum.osrhe.edu
+ 2604 Reeves Ct.             /   \/\      76545,2506@compuserve.com
+ Okla. City, OK 73122     /\/       \     (405) 728-9836 Home
+                       oo/     \O  ^ \    (405) 521-2780 Work
+ Author of             o/      _|\    \/\ PGP key avaible by Finger
+  ProLog Cycling Diary /    /\   \       \
+  [ Never slow down ] /    /  \           \   [ Climb Free or Die ]
+
+</pre>
+<A NAME="CBpCGD.KGB@darkside.osrhe.edu">  Re: Prono problem in Okla. Expands to Internet</a><pre>
+Newsgroups: comp.org.eff.talk
+From: wee@darkside.osrhe.edu (Operator)
+Subject:  Re: Prono problem in Okla. Expands to Internet
+Message-ID: <CBpCGD.KGB@darkside.osrhe.edu>
+Date: Fri, 13 Aug 1993 14:33:47 GMT
+Mark Grennan (markg@okcforum.osrhe.edu) wrote:
+: Because of local politics and commumity standards, the Oklahoma Regients
+: for Higher Ed. have turned of any News group with the word SEX in it.
+: Big brother lives. I can't beleave there realy doing this.
+
+Yes, that is true.  The Oklahoma State Regents for Higher Education (OSRHE) has
+turned any newsgroup with the word *sex*, *erotica* in it.  But this only
+concerns the OSRHE agency.  It is not a state-wide policy.  It is a 
+departmental decision.  It does not extend to any University.  The only
+person it affects is *YOU*, since you are using their server to read news.
+The justification?
+
+"What the hell are you doing at work reading pornography and looking
+at dirty pictures?  This is what I pay you for?"
+
+: -------------------------------^----------------------------------------
+:  Mark T. Grennan              / \         markg@okcforum.osrhe.edu
+:  2604 Reeves Ct.             /   \/\      76545,2506@compuserve.com
+:  Okla. City, OK 73122     /\/       \     (405) 728-9836 Home
+:                        oo/     \O  ^ \    (405) 521-2780 Work
+:  Author of             o/      _|\    \/\ PGP key avaible by Finger
+:   ProLog Cycling Diary /    /\   \       \
+:   [ Never slow down ] /    /  \           \   [ Climb Free or Die ]
+
+-- 
+-------------------------------------------------------------------------------
+Huy Nguyen                        | "It's not nearly enough to survive,
+wee@darkside.osrhe.edu            |  But to live." - M.M.
+-
+</pre>

@@ -1,0 +1,73 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 3, 1993",
+      "historical_relevance": "low",
+      "item_type": "post",
+      "notable_claims": [],
+      "organizations": [
+        "Pomona College"
+      ],
+      "people": [],
+      "summary": "This item consists of email headers and metadata regarding a message sent from 'Sgt. Mayhem' to cblanc at Pomona College. The provided text contains no body content or substantive discussion.",
+      "title": "the \"help i'm an idiot\" file",
+      "topics": [
+        "email correspondence"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 3 Oct 1993 19:01:48 GMT",
+      "from": "cblanc@pomona.claremont.edu (d.e.v. null)",
+      "item_count": 2,
+      "item_index": 0,
+      "message_id": "<0097376D.89B43582@pomona.claremont.edu>",
+      "source_kind": "news",
+      "source_path": "news/oct_10_1993",
+      "subject": "the \"help i'm an idiot\" file",
+      "to_or_newsgroups": "IN%\"cblanc@POMONA.CLAREMONT.EDU\"",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 7, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The search of student directories by a university supervisor may constitute an illegal search if conducted without reasonable suspicion directed at each specific student."
+      ],
+      "organizations": [
+        "University of Minnesota",
+        "EFF",
+        "ACLU"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Nancy Livingston"
+      ],
+      "summary": "Carl Kadie discusses a case where University of Minnesota campus police investigated students for allegedly selling commercial software after a lab supervisor searched accounts that were using excessive disk space. Kadie questions the legality of these searches and provides legal references regarding privacy rights and unreasonable searches at public universities.",
+      "title": "U. Minn. Campus Police Investigate Software Theft Ring",
+      "topics": [
+        "privacy",
+        "search and seizure",
+        "software piracy",
+        "academic freedom",
+        "digital forensics"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "\"Sgt. Mayhem\" <mayhem@access.digex.net>",
+      "item_count": 2,
+      "item_index": 1,
+      "message_id": "<199310031428.AA02990@access.digex.net>",
+      "source_kind": "news",
+      "source_path": "news/oct_10_1993",
+      "subject": "RE: Mayhem blows again...",
+      "to_or_newsgroups": "cblanc@POMONA.CLAREMONT.EDU",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,6 @@
+#!/bin/csh
+setenv CLMBOX "~/clmbox"
+setenv NS "news.eff.org"
+index2mbox -n$NS -s > $CLMBOX
+
+

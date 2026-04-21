@@ -1,0 +1,72 @@
+Newsgroups: misc.activism.progressive
+From: voteinfo@world.std.com (VIS)
+Subject:  Ratings of Members of Congress
+Message-ID: <1993Nov23.211902.12656@mont.cs.missouri.edu>
+Date: Tue, 23 Nov 1993 21:19:02 GMT
+
+	****************************************
+	RATINGS OF MEMBERS OF CONGRESS AVAILABLE
+	****************************************
+
+  As part of the project "Voter Information Services" (VIS), we have
+  developed a database that allows us to keep track of the voting
+  record of each member of the U.S. Congress and of the position on
+  legislation of different interest groups.
+
+  Using this data, we can calculate ratings of members of Congress.
+  These ratings reflect the degree of support given by a representative
+  or a senator (as indicated by his/her voting record) to the legislation
+  supported or opposed by various interest groups.
+
+  The table below shows what ratings are currently available.
+
+
+        INTEREST GROUP                     Year:    1992 1991 1990 1989
+        ================================================================
+        American Civil Liberties Union               X    X    X    .
+        American Conservative Union                  X    X    .    .
+        Americans for Democratic Action              X    X    .    .
+        AFL-CIO                                      X    X    .    .
+
+        American Security Council                    X    X    .    .
+        Bread for the World                          X    X    X    X
+        Common Cause                                 X    X    .    .
+        Family Research Council                      X    X    .    .
+
+        Friends Committee on National Legislation    X    X    X    .
+        League of Conservation Voters                X    X    X    .
+        Liberty Lobby                                X    X    .    .
+        NAACP                                        X    X    X    X
+
+        National Taxpayers Union                     X    X    X    .
+        Public Citizen                               X    X    X    X
+        U.S. Chamber of Commerce                     X    X    .    X
+
+            X  = VIS Ratings available.
+            .  = VIS Ratings NOT available.
+
+
+  To receive our ratings, send a single-line message to
+
+                voteinfo@world.std.com
+
+
+  The line must be in the following format:
+
+      GET RATINGS <two-letter state code> <congressional district number>
+
+  For example,
+		    GET RATINGS TX 5
+
+  will get you our ratings of the senators from Texas and
+  the representative(s) from the fifth Congressional District in Texas.
+  Use "1" or "AL" as the congressional district number for states with
+  only one district.
+
+  Any questions about "Project VIS" can also be emailed to the same address.
+
+       ***************************************************************
+       Voter Information Services
+       P.O. BOX 649                             voteinfo@world.std.com
+       Reading, MA 01867                        (617) 944-6406
+

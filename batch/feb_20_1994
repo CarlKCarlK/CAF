@@ -1,0 +1,4429 @@
+From caf-talk Caf Feb 14 02:44:54 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: ak200114@sol.yorku.ca
+Subject: Canadian Underwear
+Message-ID: <1994Feb14.024403.1@sol.yorku.ca>
+Date: Mon, 14 Feb 1994 07:44:03 GMT
+
+
+ For those of you who were concerned,
+ censorship is alive and well
+ and living in Canada.
+
+ Read uw.general,
+ the Usenet voice of Waterloo University,
+ and you will see that the discussion is NOT
+ whether the university community has the right
+ to read whatever it wants.
+ The discussion is
+ what newsgroups are illegal under the law.
+
+ In a Woody Allen movie,
+ a Latin American dictator decrees
+ that all citizens must wear their underwear
+ outside their clothes.
+
+ If this were to happen in Canada
+ Canadians would be discussing
+ what colour underwear is permitted by law.
+
+ 
+ Allan Trojan, resident of but not spokesman for, York University
+                                                  Toronto, Canada
+
+From caf-talk Caf Feb 14 10:42:19 1994
+From: morgan@engr.uky.edu (Wes Morgan)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: [tor.general, et al.]  Re: CDF changes
+Date: 14 Feb 1994 15:32:36 GMT
+Message-ID: <2jo5ik$59f@s.ms.uky.edu>
+
+[ can.*, tor.*, and ut.* removed from newsgroups line. ]
+
+>From: e0f1ztly@tuzo.erin (Bruno Fernandes)
+>
+>So then, it is fully permisable to rlogin to another machine that is part
+>of CDF?  i.e. Towel, Killozap, Trillian, Jade, etc.  And it would also then
+>be fully permisable to ftp as well from remote logins?  Why aren't users
+>able to specify which machine they wish to connect to anymore?
+
+When a local cluster implemented a similar setup a few years ago, 
+it was because users always connected to their "favorite" machine
+or the "fastest" (in their perception) system.  This, of course, 
+resulted in a marked imbalance in system load, as the "popular"
+machines were burdened by hordes of dialin users while the "un-
+popular" systems saw little use.  Since all systems in the clus-
+ter shared disk via NFS and supported the same software, this was
+a rather silly waste of resources.  
+
+>How many lines does CDF have this year?  I know the physical dialups are
+>also used to provide UTLink, EPAS, etc. access.  I also know how busy the
+>non-1200 numbers are.
+
+Our modem lines are *constantly* busy.  I have major problems with
+users tying my dialin ports to do nothing but telnet/rlogin to sys-
+tems who dialin ports are all busy; as a result, users who need to
+access *my* systems are left out in the cold.
+
+This really seems to be a question of resource management; although
+I don't use CDF systems, I doubt that any spite or malice is intended.
+
+--Wes
+
+-- 
+      Wes Morgan ----- University of Kentucky ----- morgan@engr.uky.edu
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+   GAT d(--) -p+ c++(++++) !l u++ e+ m* s++/++ !n h* f* !g w++ t+(++) r x+
+ And here's to you, Vicki Robinson; Usenet loves you more than you will know.
+
+From caf-talk Caf Feb 14 10:55:10 1994
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk,comp.admin.policy,alt.censorship,soc.college
+Subject: Abstract of CAF-News
+Date: 14 Feb 1994 10:55:50 -0500
+Message-ID: <2jo6u6$cvm@eff.org>
+
+[See the end of this article for information about obtaining the full
+CAF-News electronically and about CAF-News in general.]
+
+Abstract of CAF-News
+[Week ending feb 13 1994
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+Electronic Frontier Canada press release
+    [paraphrase: [Electronic Frontier Canada] EFC is concerned about the
+    newsgroup ban at U. of Waterloo. "By this ban, the University is
+    exercising `prior restraint' on the rights of [...] faculty, students,
+    and staff to read and contribute freely to the discussions on the
+    banned newsgroups." '[T]here was a "conspicuous absence of computer
+    scientists and librarians" on the committee that decides what people
+    can read on computers.']
+    <CKtrwB.MKL@watserv1.uwaterloo.ca>
+
+Fanny Hill Rides Again! (was Re: Censor on Internet..Pt-1)
+    [paraphrase: Here is my analysis of a university's responsibility when
+    a staff member runs an on-line archive. I think such an archive can be
+    either as a university archive or as a private archive, but steps
+    should be taken so that there is no confusion about which it is.]
+    <CKnwMx.21s@cs.uiuc.edu>
+
+Guelph is scanning all incoming mail for Possible Ban Breaks
+    [["Abdul", the pseudonymous moderator of the Teale Tales Mailing
+    List:] "The University of Guelph is now scanning all incoming mail for
+    refernces to Paul Bernardo and Karla Homolka. THIS INCLUDES PRIVATE
+    MAIL!  Already, two subscrbers to my mailing list have asked me to
+    scramble their mail."]
+    <100302Z08021994@anon.penet.fi>
+
+Volleyball today????
+    [Paraphrase: In reply to a complaint about a Usenet posting that said
+    "I HOPE YOU FUCKING QUEERS DIE FROM AIDS!!!", a manager at the U. of
+    Minnesota Central Computing Services wrote: "[The student in question]
+    has been advised that if it was he who made the post, future use of
+    offensive language will not be tolerated."]
+    <CKvMor.CKA@cs.uiuc.edu>
+
+netnews is not a right
+    [Excerpt: "Erindale College of the University of Toronto will be
+    re-instating the alt groups which were removed earlier by order of the
+    Dean of Sciences.  The same dean also ordered the re-instatement.
+    alt.binaries.pictures and the like will not be coming back though.  I
+    can understand how these groups eat huge amounts of storage space."]
+    <CL2MoF.nH@erin.utoronto.ca>
+
+McGill U. treating computer media differently than paper media
+    [paraphrase: [McGill U. (Canada) Legal Advisor:] The University
+    Libraries' acquisition and display of a newspaper article about Karla
+    Homolka could not be construed as publication. "By receiving a
+    newsgroup and packaging it in a special folder for local users, the
+    University is actually processing, editing and promulgating a
+    newsgroup for local consumption, all of which is an activity which
+    could be construed as publication."
+    <2jj9rb$jsf@eff.org>
+
+McGill U. treating computer media differently than paper media
+    [Paraphrase: "McGill's Legal Advisor suggests that banning material is
+    a way to prevent censorship rather than a way to impose censorship. I
+    disagree." He also misunderstands fundamental technical aspects of
+    Usenet (and university libraries).]
+    <2jjhp7$kue@eff.org>
+
+
+
+About CAF-News:
+
+The abstract is for the most recent "Computers and Academic Freedom
+News" (CAF-News). The full CAF-News is available via anonymous ftp or
+by email. For ftp access, do an anonymous ftp to ftp.eff.org
+(192.88.144.4). Get file "pub/academic/news/MON_DD_YEAR, for example,
+"pub/academic/news/jul_18_1993".  The full CAF-News is also available
+via email. Send email to archive-server@eff.org. Include the line:
+
+send caf-news MON_DD_YEAR
+
+CAF-News is a weekly digest of notes from CAF-talk.
+
+CAF-News is available as newsgroup alt.comp.acad-freedom.news or via
+email. If you read newsgroups but your site doesn't get
+alt.comp.acad-freedom.news, (politely) ask your sys admin to
+subscribe. For info on email delivery, send email to
+archive-server@eff.org. Include the line
+
+send acad-freedom caf
+
+Back issues of CAF-News are available via anonymous ftp or via email.
+Ftp to ftp.eff.org. The directory is pub/academic/news. For
+information about email access to the archive, send an email note to
+archive-server@eff.org. Include the lines:
+
+send acad-freedom README
+help
+index
+
+Disclaimer: This CAF-News abstract is not an EFF publication. The
+views an editor expresses and editorial decisions he or she makes are
+his or her own.
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 14 13:20:45 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Is an MS-Windows "Help" file a program? Yes.
+Message-ID: <CL8801.E3y@cs.uiuc.edu>
+Date: Mon, 14 Feb 1994 18:14:23 GMT
+
+During the discussion of the CICA archive's rejection of a hypertext
+version _Fanny Hill_, several people raised the question of whether a
+MS-Windows Help file is a program. According to _PC Magazine_,
+February 22, 1994 (13.4), p. 216:
+
+"You may never have heard of the Microsoft Multimedia Viewer
+Publishing Toolkit [...], but you've most certinaly used applications
+created with it -- incluing Windows Help in Microfoft Excell or any
+number of other Windows-based packages.  [...]  Like most auhtoir
+produces reviewd here, the Multimedia Viewer is extensible and can
+work with DLLs and programs wirtten in the C programming language, and
+it can support all MCI-controllable media."
+
+- Carl
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 14 14:03:41 1994
+From: m15617@mwvm.mitre.org (Dr. Marilyn Welles)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Reply to "Computers and Academic Freedom News (Digest)" (02/14/94 13:4
+Date: 14 Feb 1994 14:04:23 -0500
+Message-ID: <199402141904.OAA06197@mwunix.mitre.org>
+
+UNSUBSCRIBE
+
+END
+*
+*        Dr. Marilyn T. Welles
+*        PHONE: (O) 703-883-6049 (H) 301-652-2114 FAX: 703-883-3348
+*        ADDRESS:  P.O. Box 95, Cabin John, MD 20818, U.S.A.
+*
+
+From caf-talk Caf Feb 14 14:18:31 1994
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: "... Technology ... and the University Curriculum"
+Date: 14 Feb 1994 14:19:13 -0500
+Message-ID: <2joirh$h4i@eff.org>
+
+[Posted by request -cmk]
+
+The University of Chicago Press is making available on the 
+Internet an excerpt from _The Electronic Word_ by Richard 
+Lanham.  In _The Electronic Word_ Lanham, a professor of English 
+at UCLA, surveys the effects of electronic text on arts and 
+letters, on the academy, and on the future of democratic 
+education.  The excerpt includes the book's fourth chapter: 
+"Extraordinary Convergence: Democracy, Technology, Theory, and 
+the University Curriculum".  The excerpt may be retrieved via 
+gopher, anonymous FTP, or e-mail.  The ASCII text file is about 65K.
+
+View and/or retrieve via gopher:
+Gopher to: press-gopher.uchicago.edu (port 70) and choose the 
+menu item "New Books from Chicago"
+
+Retrieve the ASCII text file LANHAM.TXT via anonymous FTP:
+FTP to: press-gopher.uchicago.edu
+cd pub/Excerpts
+lanham.txt
+
+Retrieve the ASCII text file via e-mail:
+Send e-mail to etext-request@press.uchicago.edu with the subject 
+field blank and a message consisting of SEND ELECWORD; the 
+request is handled by a human, not a machine.
+
+************
+Dean Blobaum
+The University of Chicago Press
+dblobaum@press.uchicago.edu
+************
+This message may be reposted.
+
+======
+
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 14 14:45:28 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.irc]  Re: sexual harassment on irc
+Message-ID: <CL8C6G.MK@cs.uiuc.edu>
+Date: Mon, 14 Feb 1994 19:44:39 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 14 14:45:28 1994
+From: matt@sluaxa.slu.edu (matt ridings)
+Subject:  Re: sexual harassment on irc
+Message-ID: <1994Feb13.213923.22949@mont.cs.missouri.edu>
+Date: Sun, 13 Feb 1994 21:39:23 GMT
+
+John A. Lawson III (jlawson@lynx.dac.neu.edu) wrote:
+: So the mesages I've read so far sound like irc operators codone sexual
+: harrasment on irc.  hmmm so if you want to harass someone and not get in
+: trouble for it do it on irc. hmmm
+
+No, what we have stated (at least I have) is that _you_, the user, were
+given the ability to _stop_ ANY sort of unwanted communication by using
+the commands that are at your disposal with the IRC client.  Who do you 
+feel is better at determining what you should and should not have to deal
+with......you...or an IrcOp.  IrcOps are not your mothers, they are not
+there to coddle you when someone says something you do not like.  
+
+matt*what part of /quit don't you understand* ridings
+--
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  matt@sluaxa.slu.edu              |           Matthew S. Ridings
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+       The ideas and opinions expressed herein are solely mine and 
+       do not necessarily reflect the views of St. Louis University.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 14 14:49:34 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.irc]  Re: sexual harassment on irc
+Message-ID: <CL8C79.pC@cs.uiuc.edu>
+Date: Mon, 14 Feb 1994 19:45:08 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 14 14:49:34 1994
+Newsgroups: alt.irc
+Subject:  Re: sexual harassment on irc
+Date: 14 Feb 1994 15:12:46 GMT
+Message-ID: <2jo4de$3na@netnews.upenn.edu>
+
+In article <2jlus3$lp7@lynx.dac.neu.edu> jlawson@lynx.dac.neu.edu 
+(John A. Lawson III) babbles:
+>So the mesages I've read so far sound like irc operators codone sexual
+>harrasment on irc.  hmmm so if you want to harass someone and not get in
+>trouble for it do it on irc. hmmm
+
+Obviously you haven't been reading too closely.  Most ircops don't
+sexually harass and they don't condone it. But they can't do anything
+about it.  
+
+Second, every person on IRC can do something about HARASSMENT. They can
+use the command /ignore or they can /quit.
+
+IS IT SO HARD A CONCEPT TO UNDERSTAND.  MOST OF YOU ARE IN COLLEGE OR AT
+LEAST EDUCATED ENOUGH TO READ, SO STOP WHINING ON THIS NEWSGROUP ABOUT
+your SO-CALLED harassment. LEARN HOW TO /ignore /ignore /ignore
+
+That way no one who doesn't want to be harassed will be harassed.
+
+I have a feeling, though, that a lot of people like reading those
+harassing messages so they either can curse back at the offender or they
+can bitch and cry and complain.  This goes for Gunhed and his "lovely"
+fiance Tawnya. I have a feeling they just love making a stink and Gunhed
+loves watching his imaginary penis grow as he threatens all of IRC with
+his mode wars.
+
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 14 15:03:31 1994
+Newsgroups: alt.comp.acad-freedom.talk,news.admin.policy,comp.admin.policy
+From: tcokelys@tu108.tus.ssi1.com (Scott Cokely)
+Subject: Re: [news.admin.policy, et al.] Discipline Question.
+Message-ID: <tcokelys.761255641@tus.ssi1.com>
+Date: Mon, 14 Feb 1994 19:54:01 GMT
+
+In <1994Feb6.145715.1559@newshost.pictel.com> wpns@newshost.pictel.com (Willie Smith) writes:
+
+>tcokelys@tu108.tus.ssi1.com (Scott Cokely) writes:
+>>However, this is common practice on Internet, and companies
+>>that try to manage such things will soon be out of business, IMHO.
+
+>And companies that allow all of their employees to spend all their
+>time reading News will also soon be out of business, IMHO.  Somwhere
+>in between there's a balance...
+
+Sure, no argument.  My point is that there are too many techno-idiot
+fascists out there who aren't happy unless they can control everything
+their users can do.  These people are miserable about the 'net because
+it's too uncontrollable.  I've been working with one of these types for
+about a year now, and it's really rather sad to witness his futile
+attempt at controlling others' behavior.
+
+It's up to the employees.  I'm sure there are company policies regarding
+how much time can be spent reading journals and magazines.  Why should
+Usenet be any different?
+
+>>How come people aren't hopping mad about
+>>the "make money fast" series that keeps floating up?
+
+>They are, or hadn't you noticed?  The make.money.fast posters get
+>their accounts yanked in pretty quick order.  Also note that in
+>general, m.m.f postings don't get individually posted to every single
+>newsgroup...
+
+After the collective flamethrowers were aimed in my direction, I have to
+admit that the Usenet angst wasn't related in any way to the content of
+the post.  Perhaps I've been spending too much time in talk.politics lately...
+
+>Again, Nope.  You can prove it to yourself.  Generate a well-written,
+>factual, thought-provoking article on any innocuous subject of your
+>choice.  Individually post it to every newsgroup in existance.  Then
+>you'll see if it's the message or not... (*)
+
+As you've pointed out, the difference between m.m.f postings and the Exodus
+posting is the deliberate attempt to post to all newsgroups.  Well-placed
+killfile entries help, but I have also learned that too many sites still
+receive Usenet via phone lines that incur charges by the byte.  Retract.
+
+>-- 
+>Willie Smith	wpns@pictel.com		N1JBJ@amsat.org
+>Some people you don't have to satirize, you just quote em - Tom Paxton
+-- 
+| Scott Cokely		     | These opinions are mine, and do   |
+| Silicon Systems, Inc.      | not represent those of SSi or TDK.|
+| (714) 579-6624	     | "Change the channel, or kill me." |
+| scott.cokely@tus.ssi1.com  |    --- Beavis			 |
+
+From caf-talk Caf Feb 14 15:41:32 1994
+From: betsys@cs.umb.edu (Elizabeth Schwartz)
+Newsgroups: news.groups,news.admin.policy,alt.comp.acad-freedom.talk
+Subject: Controversy in soc.religion.islam and news admin policy
+Date: 14 Feb 1994 20:39:57 GMT
+Message-ID: <BETSYS.94Feb14153957@terminus.cs.umb.edu>
+
+
+We have been informed of the controversy in soc.religion.islam that
+involves one of our users, Ahmed Hashem. We have received some e-mail
+asking us to take (unspecified) action against our user.
+
+I spoke with Dr. Hashem and he assures me that he is working with the 
+moderators mailing list and the news.groups Powers that Be to resolve
+this conflict.
+
+We hope this matter can be settled in the appropriate groups by the people 
+who are directly involved.
+
+If we had a user who was committing some gross violation of Usenet 
+etiquette, (for example mail-bombing, flooding newsgroups, or forging other
+users's names) , we would take swift action. However, we do not feel that 
+it is our job to intervene in disputes about an individual news group's
+management or to pass judgements on whether a moderator is following
+proper procedures.
+
+Our user has the right to fight his own battles, as long as our system is
+used in a civilized manner. 
+
+Wishing you all a good holiday,
+
+Betsy Schwartz
+
+--
+System Administrator                  Internet: betsys@cs.umb.edu
+MACS Dept, UMass/Boston               Phone   : 617-287-6448
+100 Morrissey Blvd                    Staccato signals
+Boston, MA 02125-3393                      of constant information....
+
+From caf-talk Caf Feb 14 17:04:34 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [tor.general, et al.]  Re: netnews is not a right
+Message-ID: <CL8I47.Euq@cs.uiuc.edu>
+Date: Mon, 14 Feb 1994 21:52:54 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 14 17:04:34 1994
+Newsgroups: tor.general,ont.general,kw.general,uw.general,can.general,ut.general
+Subject:  Re: netnews is not a right
+Message-ID: <940214.083311.1F5.rusnews.w164w@alpha3.ersys.edmonton.ab.ca>
+Date: Mon, 14 Feb 1994 08:33:11 MST
+
+dmnieuwl@undergrad.math.uwaterloo.ca (Dan Nieuwland) writes:
+
+> I never did like thought control.
+
+just because the school doesn't hand it to you on a platter doesn't
+mean it's controlling you.
+
+I never did like lazy people.  well, those who complained.
+-- 
+Russell Schulz  russell@alpha3.ersys.edmonton.ab.ca  ersys!rschulz  Shad 86c
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 14 17:04:38 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [tor.general, et al.]  Re: CDF changes (Was: Re: UofW makes Globe and Mail front page)
+Message-ID: <CL8I4M.Ew5@cs.uiuc.edu>
+Date: Mon, 14 Feb 1994 21:53:10 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 14 17:04:38 1994
+From: jdd@cdf.toronto.edu (John DiMarco)
+Subject:  Re: CDF changes (Was: Re: UofW makes Globe and Mail front page)
+Message-ID: <jdd.761255469@cdf.toronto.edu>
+Date: Mon, 14 Feb 1994 19:51:09 GMT
+
+In <CL2n0A.uK@erin.utoronto.ca> e0f1ztly@tuzo.erin (Bruno Fernandes) writes:
+
+>So then, it is fully permisable to rlogin to another machine that is part
+>of CDF?  i.e. Towel, Killozap, Trillian, Jade, etc.  
+
+Yes. 
+
+>And it would also then
+>be fully permisable to ftp as well from remote logins?  
+
+If by "ftp from remote logins", you mean the ability to use ftp to reach
+CDF from somewhere else (eg. ECF) and transfer files, the answer is yes,
+assuming the owner of the CDF account involved is doing the transferring. 
+It is not okay to give your password to somebody else so that they can 
+access your CDF account. If by "ftp from remote logins", you mean the 
+ability to use a CDF account to ftp to other systems and transfer files,
+this is also okay as long as you are authorized to access the other system
+(eg. anonymous FTP). It wouldn't be okay to try to break into another system
+via FTP. 
+
+We don't currently have a rule against using FTP while accessing CDF from a
+dialup line. 
+
+>Why aren't users
+>able to specify which machine they wish to connect to anymore?
+
+Because we replaced the old terminal server (half.cdf) with a new device
+that connects directly to eddie. 
+
+>How many lines does CDF have this year?  
+
+28 lines from PACX. I don't know how many modems PACX runs. 
+
+Regards,
+
+John
+--
+John DiMarco                                              jdd@cdf.toronto.edu
+Computing Disciplines Facility Systems Manager            jdd@cdf.utoronto.ca
+University of Toronto                                     EA201B,(416)978-1928
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 14 17:04:44 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [tor.general, et al.]  Re: CDF changes (Was: Re: UofW makes Globe and Mail front page)
+Message-ID: <CL8I55.EyJ@cs.uiuc.edu>
+Date: Mon, 14 Feb 1994 21:53:27 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 14 17:04:44 1994
+From: jdd@cdf.toronto.edu (John DiMarco)
+Subject:  Re: CDF changes (Was: Re: UofW makes Globe and Mail front page)
+Message-ID: <jdd.761255971@cdf.toronto.edu>
+Date: Mon, 14 Feb 1994 19:59:31 GMT
+
+In <1994Feb13.195112.21260@alchemy.chem.utoronto.ca> mroussel@alchemy.chem.utoronto.ca (Marc Roussel) writes:
+
+>In article <CL2n0A.uK@erin.utoronto.ca> e0f1ztly@tuzo.erin (Bruno Fernandes)
+>writes:
+>>Why aren't users
+>>able to specify which machine they wish to connect to anymore?
+
+>     John DiMarco can confirm this, but I think I can answer this
+>question.  CDF used to have a Cisco terminal server.  The administration
+>of the facility decided that they didn't need it anymore so logging into
+>CDF puts you right into eddie.  I guess the maintenance costs for the
+>Cisco were judged not to be worth the slight extra convenience for
+>dial-in users.
+
+Marc is exactly right. The Cisco was very expensive to maintain, and we
+didn't dare run it without maintenance; if it ever broke, we wouldn't have
+any dialin support at all. It was also old and slow. We found it most 
+cost-effective to replace it with direct connections to eddie. We certainly 
+did not intend to create the impression that this was an attempt to prevent
+logins to CDF machines other than eddie, and I find it unfortunate that some
+students appear to have interpreted the change in this way. 
+
+Regards, 
+
+John
+--
+John DiMarco                                              jdd@cdf.toronto.edu
+Computing Disciplines Facility Systems Manager            jdd@cdf.utoronto.ca
+University of Toronto                                     EA201B,(416)978-1928
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 14 17:51:10 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.irc]  IRCops support sexual harassment
+Message-ID: <CL8K6G.Jnr@cs.uiuc.edu>
+Date: Mon, 14 Feb 1994 22:37:27 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 14 17:51:10 1994
+Newsgroups: alt.irc
+Subject:  IRCops support sexual harassment
+Date: 14 Feb 1994 21:01:20 GMT
+Message-ID: <2joor0$ht5@news.csus.edu>
+
+
+WARNING:  If you use IRC, and you are sexually harassed, as in your
+regular, well known nick is stolen by another user, and used to make
+you look like a slut to new users, it's your fault for joining IRC.
+
+Just use /IGNORE and that will solve the problem of people slandering
+you to others.  That'll solve them hacking op and kicking and banning
+you off.  Why, /IGNORE will even protect you from lame /KILL's by these
+same individuals when they happen to be IRCops like Fingwe.
+---------------------------------------------------------------------------
+
+That's what the likes of Fingwe want you to believe.  They want women
+on IRC - and the guys who, like them, think that sexual harassment is
+SICK - to give up and take it up the ass.
+
+If you're tired of sexual harassment, your target is Fingwe,
+lorenz@nestroy.wu-wien.ac.at.  Either /msg him that people like him
+have no place ANYWHERE - society or IRC or otherwise - and that people
+have a right not to have to be subjected to their abuse, IRC or
+otherwise.  See us - GunHed and Tawnya - on #talk, and we can defeat
+idiots like Fingwe through sheer numbers.
+
+As you and other *real* people know, /ignore does not work against
+these people when they're determined, and Fingwe is the most
+determined harasser of them all.
+
+Flame-mongers, your taunts and jokes and pokes are DEFINITELY going to
+/dev/null.  This is about sexual harassment and seeing the end of it
+on IRC so that women can use this network without all this bullshit.
+
+----------------------------------------------------------------------
+God still does miracles.. my fiancee, Toni Anaya for instance..
+    _/_/_/_/    _/    _/  _/_|   _/   _/    _/  _/_/_/_/  _/_/_/
+  _/           _/    _/  _/ _|  _/   _/    _/  _/        _/   _/
+ _/    _/_/_/ _/    _/  _/  _| _/   _/_/_/_/  _/_/_/_/  _/    _/
+ _/   _/ _/  _/    _/  _/   _|_/   _/    _/  _/        _/   _/
+  _/_/ _/   _/_/_/_/  _/    _|    _/    _/  _/_/_/_/  _/_/_/
+Blame it on Steve Chaney <chaneysa@nextnet.ccs.csus.edu>
+		      or <gunhed@netcom.com>
+And him alone :^)
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 01:10:13 1994
+From: mast@anubis.kbfi.ee (Madis Kaal)
+Newsgroups: alt.censorship,alt.comp.acad-freedom.talk,can.general,mcgill.general
+Subject: Re: McGill U. treating computer media differently than paper media
+Date: 15 Feb 1994 06:03:10 GMT
+Message-ID: <2jpoiu$61i@osiris.kbfi.ee>
+
+Fwd: (kadie@eff.org) wrote:
+> [A repost - Carl]
+
+> [paraphrase: [McGill U. (Canada) Legal Advisor:] The University
+> Libraries' acquisition and display of a newspaper article about Karla
+> Homolka could not be construed as publication. "By receiving a
+> newsgroup and packaging it in a special folder for local users, the
+> University is actually processing, editing and promulgating a
+> newsgroup for local consumption, all of which is an activity which
+> could be construed as publication."
+
+Jeesh. Is that what future of Internet looks like? Is it like that in all 
+universities in US?
+
+And I naively thought that only the 'high heads' of Estonian 
+univiersities have a tendency of being complete idiots when it comes to 
+something else but money :)
+
+From caf-talk Caf Feb 15 02:14:21 1994
+From: szhoffmn@chip.ucdavis.edu
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: Abstract of CAF-News
+Date: 15 Feb 1994 02:15:03 -0500
+Message-ID: <Pine.3.89.9402142311.B4674-0100000@chip.ucdavis.edu>
+
+stop sending
+
+
+From caf-talk Caf Feb 15 02:14:22 1994
+From: szhoffmn@chip.ucdavis.edu
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: Computers and Academic Freedom News (Digest)
+Date: 15 Feb 1994 02:15:05 -0500
+Message-ID: <Pine.3.89.9402142313.A4674-0100000@chip.ucdavis.edu>
+
+stop sending
+
+From caf-talk Caf Feb 15 07:45:54 1994
+Newsgroups: alt.censorship,alt.comp.acad-freedom.talk,can.general,mcgill.general
+From: RYTINA <INST000@MUSICB.MCGILL.CA>
+Subject: RE: McGill U. treating computer media differently than paper med
+Message-ID: <15FEB94.05169855.0068@VM1.MCGILL.CA>
+Date: Tue, 15 Feb 1994 09:47:12 GMT
+
+
+Karl Kadie posted a response from Raynald Mercille, legal council
+to McGill, defending newsgroup banning, below snipped down to
+save space.
+
+>By receiving a newsgroup and packaging it in a special folder
+>for local users, the University is actually processing, editing
+>and promulgating a newsgroup for local consumption, all of which
+>is an activity which could be construed as publication.  I
+
+        What distinguishes taboo information as a tiny fraction
+of what is in banned newsgroups and that same information (not to
+mention information violating other taboos) when it appears in,
+say, alt.censorship? Surely, this must be "publication" under
+this theory in every sense that it is when the same article
+appears in alt.fan.karla-holmolka.
+
+      The policy is plagued by arbitrariness. It is, of course,
+wildly impractical to monitor all the the ways that said info
+could leak in (or through) McGill mediated by USENET, leave alone
+the Internet more generally. Fine. On grounds that seem to me
+indistinguishable, the library washes its hands of responsibility
+because it could not concievably discharge that responsibility,
+i.e. monitor everything.
+
+      In short, the "publication" theory does not defend the
+policy because it fails to describe it. No one can say for sure,
+but it is entirely possible that more copies of various banned
+Homolka material will be "published" today through USENET plus
+McGill Computers than were the day before the policy was put in
+place. McGill is thus placed at risk since any authority made
+aware of this ineffective result could fault McGill for failing
+to carry out what it seemed to officially accept as it's
+obligation, i.e. preventing the spread of material violating the
+trial ban through its USENET+computer "publication facility".
+
+      Points of clarification: exactly when and how under your
+theory is the information "published" by McGill? It is said to be
+OK to copy it to a terminal screen (which is a copy, even if not
+a hard one). How about if a user prints the screen or saves to
+disk or saves into volatile memory on the terminal device? Does
+it matter whether user is dialed-in or in a McGill office? Is
+there some difference between allowing any McGill user to make a
+copy, and allowing some other university or private computer to
+make a copy? Does it matter whether the programs are running
+without immediate human supervision? with or without regard to
+content? How about when a McGill user causes a program running at
+McGlll to grab a copy from some computer elsewhere?
+
+>First, you have yourself in the past expressed an extreme
+>sensitivity to what you perceived as censorship.  There is no
+>censorship in Vice-Principal Tavenas' decision, because the
+>decision was not an imposition by Vice-Principal Tavenas of his
+>own values on others:  rather Vice-Principal Tavenas did what
+>had to be done by law.  Censorship is a process of editing
+>material to deprive another from access to it.  Vice-Principal
+>Tavenas' decision deprived even the supposed censor from having
+>materials to edit: it was a blackout for all.
+
+      This is 1984-speak. This unwillingness to use language in a
+plain manner suggests bad faith. By such reasoning, the more
+newsgroups (newspapers, magazines) choked off from ALL
+downstream, the LESS censorship. So if Canada customs refused
+admission to all foreign publications, they would thereby prevent
+all censorship of such material. Please don't tell them.
+
+>relation to suister universities.  The suggestion of McGill
+>using its place in the USENET system to deprive other
+>institutions of access and yet at the same time keep access is
+>difficult to justify and in my opinion, would open McGill to an
+>argument of inter institutional censorship.
+
+      So McGill WOULD be engaged in "institutional censorship" if
+other institutions were deprived of access but McGill was not.
+How would you characterize making access harder for those with
+lesser computer skills, but not those with greater? I am not
+saying that Alan Greenberg (e.g.) does read the banned
+information, but surely he has the skill to do so whenever he
+wishes.
+
+      Anyway, this logic seems very tortured. It is not
+publication to leave it around to be read at McGill, (or maybe it
+is depending on some unstated distinction between leaving it
+around under USENET which "edits" et cetera versus somehow just
+leaving it around unedited, unpromulgated) but to do this while
+refusing to share would be "censorship". In short, to avoid being
+censors, a key is to be thorough enough to get rid of otherwise
+perfectly legal copies at McGill. MORE=LESS, anyone?
+
+>prove to be their downfall.  This is an area of fascinating
+>freedom yet unregulated by government.  Those who push that
+>freedom to its limit may be inviting state regulatory
+>intervention.
+
+      Oh. The best way to "save freedom" is to make sure no one
+exercises it. This again is the kind of double-speak that Orwell
+identified with totalitarianism.  Turn it arouund. Those who
+preempt freedom in fear of the state make it unnecesary for the
+state to act.
+
+>law.  By pulling the plug on the newsgroup globally, although he
+>was forced to, Vice-Principal Tavenas ironically preserved the
+>very freedom you now enjoy.  By contrast, an unbridled approach
+>or a cunning evasion could possibly hasten the elimination of
+>that freedom.
+
+      At least this is called ironic. It reminds me of "to save
+the village we had to destroy it".  Defend the policy as legal,
+ethical, moral, whatever. But it is an offense to clear
+expression to argue that in restricting free choice one is REALLY
+protecting people from even worse repression. Does anyone else
+feel a "chilling effect"?
+
+      Simple question: do you favor or oppose government
+restriction of information flow? You pose as an oppositionist. If
+so, oppose the government or the judges. It is not helpful or
+forthright to claim to support free expression and communication
+while defending policies that do the very opposite. Better you
+than the "real" censors? I'm not sure I'm grateful.
+
+      Running through this memo is a fear of bad publicity and of
+a goal of prudently heading off worse threats. These are
+understandable objectives but they dodge a critical question. If
+McGill is unwilling to take up the challenge and risk of offering
+reasoned opposition, just who is going to do this? What I most
+fear is that this policy of appeasing potential censors will tend
+to disarm defenders of freedoms. Meanwhile, those attackers of
+freedom that you claim to fear will be encouraged by your
+lukewarm defense, or even learn from your clever ways of
+describing censorship as the reasonable person's version of
+freedom.
+
+      For myself, I value the free flow of information. I would
+prefer to see McGill reluctant rather than eager to lend support
+to would-be regulators of information flow. If elements of the
+judiciary or government desire elsewise, McGill can and should
+speak out favoring clear, narrow, focused policies and should
+resist all pressure to broaden or extend impediments to free
+communication beyond the minimum required by the legal mandates
+of other authorities.
+
+      Case in point: broadly speaking, the libraries clearly
+stated they could not reasonably be expected to inspect all
+incoming foreign publications, and thereby seem to have deflected
+pressure EVEN in such notorious instances as the "contaminated"
+issue of the Washington Post. Compared with what enters the
+libraries, USENET probably contains a higher proportion of
+forbidden information even with the  most obvious newsgroups
+censored, but government and judiciary  were left with the
+impression that reasonable steps were available and had been
+taken. This will NOT deflect future pressures but more likely
+encourage them.
+
+--
+>Carl Kadie -- I do not represent EFF; this is just me.
+> =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 09:44:54 1994
+Newsgroups: alt.censorship,alt.comp.acad-freedom.talk,can.general,mcgill.general
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Re: McGill U. treating computer media differently than paper media
+Message-ID: <CL9sr8.LFC@cs.uiuc.edu>
+Date: Tue, 15 Feb 1994 14:40:19 GMT
+
+>> [paraphrase: [McGill U. (Canada) Legal Advisor:] The University
+
+mast@anubis.kbfi.ee (Madis Kaal) writes:
+
+>Jeesh. Is that what future of Internet looks like? Is it like that in
+>all universities in US? [...]  And I naively thought that only the
+>'high heads' of Estonian univiersities have a tendency of being
+>complete idiots when it comes to something else but money :)
+
+There are plenty of complete idiots in the U.S., but in this case, the
+university is in Canada. It is the main (only?) English-speaking
+university in Quebec.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 09:51:20 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [comp.org.eff.talk]  [alt.security.pgp]  macar
+Message-ID: <CL9t27.M3H@cs.uiuc.edu>
+Date: Tue, 15 Feb 1994 14:46:55 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 15 09:51:20 1994
+Newsgroups: comp.org.eff.talk
+Subject:  [alt.security.pgp]  macar
+Message-ID: <127.2D6084D4@puddle.fidonet.org>
+Date: Sun, 13 Feb 94 18:08:13 PST
+
+>And, of course, if it were illegal for umich.edu to distribute it,    
+>soda.berkeley.edu would also be unable to do so.  One thing is clear:  
+>suppression of PGP is not happening for above-board legal reasons.   
+
+       Where the hell are you all getting this??? It's stated in the PGP
+documents quite clearly: It's only illegal to run it w/o permission from
+the patent holder and illegal to export it from the country. How does all
+this get started? Distributing it breaks no law, neither does half the
+things I've read from this group about it. Please read the damn manual
+and license before you come up with some new idea. Besides all of this,
+every fool out there can get PGP and run it w/o any problem. The
+government isn't _THAT_ stupid when it comes to public relations (even if
+that's not always real obvious) They wouldn't DARE do anything against
+PGP. There would be literally thousands of people jumping on their ass
+and protesting. As long as people care about their freedoms and are
+willing to _do_ something about it the gov't can't take away our freedom.
+
+*--------------------------------------------------*
+* B  e  n  s  o  n    S  c  h  l  i  e  s  s  e  r *
+*--------------------------------------------------*
+       PGP public key available by request...
+
+ * JABBER v1.1 * Authority will be respected when authority is respectable
+
+
+--  
+uucp: uunet!m2xenix!puddle!2250!18!Benson.Schliesser
+Internet: Benson.Schliesser@f18.n2250.z1.fidonet.org
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 10:34:20 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [comp.admin.policy]  Re: Computer Games
+Message-ID: <CL9uq6.2tM@cs.uiuc.edu>
+Date: Tue, 15 Feb 1994 15:22:53 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 15 10:34:20 1994
+Newsgroups: comp.admin.policy
+Subject:  Re: Computer Games
+Date: 15 Feb 1994 14:28:54 GMT
+Message-ID: <2jqm76$o98@s.ms.uky.edu>
+
+FRITZ <HAASFM@SLUVCA.SLU.EDU> wrote:
+>We have experienced many problems associated with the playing of computer 
+>games by students in our labs, especially those of a network variety (MUD's, 
+>DOOM, etc..).  They seem to generate a great deal of noise, network traffic 
+>and an intimidating enviroment for those who need to use the computers for 
+>legit academic purposes.  
+>
+>    What are the policies and experiences of other institutions and how well
+>are they being enforced.  I am interested in establishing a policy that is
+>both fair (if recreation is possible, then so be it) and enforeceable.
+
+Here's what we do:
+
+	PC Lab: We don't have a *published* policy.  We tell gamers, as
+	 	we see them, that gaming is acceptable *until* there are
+		fewer than 5 open PCs available.  We also tell them that
+		*one* case of a gamer refusing to give up their seat to
+		a more legitimate user will result in a total ban on games.
+
+	Unix:	I'm just restoring games after a six-year ban.  I've written
+		a small front-end program named "play" that will only allow
+		game execution:
+			- during non-prime hours (7 pm - 7 am)
+			- if fewer than 20 users are already playing
+		Privately-owned online games will be a no-no; however, I'll 
+		be happy to install the game under the "play" system upon re-
+		quest.  
+		
+--Wes
+
+-- 
+      Wes Morgan ----- University of Kentucky ----- morgan@engr.uky.edu
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+   GAT d(--) -p+ c++(++++) !l u++ e+ m* s++/++ !n h* f* !g w++ t+(++) r x+
+ And here's to you, Vicki Robinson; Usenet loves you more than you will know.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 11:08:50 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [comp.admin.policy]  Re: Computer Games
+Message-ID: <CL9wBD.6G4@cs.uiuc.edu>
+Date: Tue, 15 Feb 1994 15:57:12 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 15 11:08:50 1994
+Newsgroups: comp.admin.policy
+Subject:  Re: Computer Games
+Date: 15 Feb 1994 15:26:37 GMT
+Message-ID: <2jqpjd$elf@orion.cc.andrews.edu>
+
+In article <01H8VTFMQYB694ELCZ@sluvca.slu.edu> HAASFM@SLUVCA.SLU.EDU (FRITZ) writes:
+>Newsgroups: comp.edu
+>Subject: games in labs
+>
+>  I have a general question concerning policy and enforcement of non-game
+>playing rules in general purpose computer labs at universities and colleges.
+>I am the manager of computing at a small (~1000 students) college with 
+>both a Novell network and Internet access through UNIX and VMS machines.  We
+>have experienced many problems associated with the playing of computer games
+>by students in our labs, especially those of a network variety (MUD's, DOOM,
+>etc..).  They seem to generate a great deal of noise, network traffic and
+>an intimidating enviroment for those who need to use the computers for legit
+>academic purposes.  
+>
+>    What are the policies and experiences of other institutions and how well
+>are they being enforced.  I am interested in establishing a policy that is
+>both fair (if recreation is possible, then so be it) and enforeceable.  I
+>welcome any suggestions either posted to the group or to my personal account
+>
+>		haasfm@pxa.slu.edu
+
+For DOOM, I would suggest setting a certain time where playging the game
+is allowed and limit it to that time. Preferably during a period of low
+network usage.
+
+For mud, make a survey of how much load the mud puts on the host. If you
+can afford the load then designate a host for the mud and limit it to
+only that host. With muds also think on the incoming traffic to your
+site from the internet. Take traffic on your hookup into account.
+
+Our site only has a 56k line to the internet. This is one of the main
+reasons we don't allow mud servers running on our computers.
+
+No, I do not speak for Andrews University or it policies.
+
+
+
+
+-- 
+/  Bryan Clayton    / claytonb@andrews.edu  /4716 Kimber Lane    /
+/  Unix Support     / Andrews University    /Berrien Springs, MI /
+/  Computer Science / Berrien Springs, MI   /49103               /
+/  Department       / Unix is not an exact science.              /
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 12:00:22 1994
+Newsgroups: uw.general,uw.grad,can.general,ont.general,tor.general,alt.censorship,alt.comp.acad-freedom.talk,mcgill.general
+From: broberts@kingcong.uwaterloo.ca (Brent Robertson)
+Subject: UW GSA News Release
+Message-ID: <CL9yGo.LA5@watserv2.uwaterloo.ca>
+Date: Tue, 15 Feb 1994 16:43:35 GMT
+
+
+                           ***  NEWS RELEASE  ***
+
+----------------------------------------------------------------------------
+        February 15, 1994             For immediate release.
+----------------------------------------------------------------------------
+
+Following the banning of five Internet newsgroups at the University of
+Waterloo (UW) on February 1, 1994, the UW Graduate Student Association
+(GSA) Board of Directors passed the follow motion at a meeting Monday
+February 14:
+
+"Be it resolved that the GSA initiate a petition calling on the university
+administration to reinstate the banned newsgroups."
+
+"Be it further resolved that this [to be released] petition be distributed
+to all UW campus community members, subsequent to electronic approval of
+the board"
+
+The final wording of the petition is currently being determined by the GSA
+executive and, subject to Board approval, should be available later this week.
+For more information contact:
+
+                                Brent Robertson
+                                GSA VP Communications
+                                University of Waterloo
+                                (519) 885-1211 ext. 5165
+                        or
+                                broberts@kingcong.uwaterloo.ca
+
+From caf-talk Caf Feb 15 12:31:50 1994
+Newsgroups: news.groups,news.admin.policy,alt.comp.acad-freedom.talk
+From: cactus@clinton.com (L. Todd Masco)
+Subject: Re: Controversy in soc.religion.islam and news admin policy
+Message-ID: <CL9znr.Aro@clinton.com>
+Date: Tue, 15 Feb 1994 17:09:21 GMT
+
+Quite honestly, I'm appalled that people would go to a postmaster over
+ such an in-band issue as this.
+
+>Our user has the right to fight his own battles, as long as our system is
+>used in a civilized manner. 
+
+Damn straight.  Thanks for a reasonable policy, and not encouraging
+ people to bug admins over people they merely disagree with.
+-- 
+Todd Masco | cactus@clinton.com,  DoD #269 | SysAdmin, Clinton Group, Inc. 
+--
+"Your theory is crazy, but it's not crazy enough to be true."
+                           - Niels Bohr to a young physicist
+
+From caf-talk Caf Feb 15 14:44:12 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [uw.csc, et al.]  Re: Today in alt.sex.stories
+Message-ID: <CLA6KB.7vL@cs.uiuc.edu>
+Date: Tue, 15 Feb 1994 19:38:35 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 15 14:44:12 1994
+Newsgroups: uw.csc,uw.general,uw.opinion,crispins.special.group,alt.sex.stories
+Subject:  Re: Today in alt.sex.stories
+Date: 11 Feb 1994 23:33:29 GMT
+Message-ID: <2jh4k9$gep@falcon.ccs.uwo.ca>
+
+In article <CL2s1B.AG6@undergrad.math.uwaterloo.ca>,
+Brad `Squid' Shapcott <dbshapco@undergrad.math.uwaterloo.ca> wrote:
+>I think claims that the legal status of Usenet is unclear are
+>specious.
+...
+>(a more interesting question might be how much material is tainted by
+>inclusion with obscene material -- that is, what parallel to the
+>separation of one magazine being separate from another exists within
+>Usenet?).  My guess has been that using the internal separation is
+>probably best -- that is, at the level of newsgroups.
+
+This is precisely the basis for claiming that there is no legal status
+for declaring a newsgroup obscene.  I suggest to you that the
+appropriate level of separation is at the article, not the news group
+level.  The authors of the articles in a news group are discrete, and
+unless it is a moderated group, there is no one central point that can
+be regarded as controlling the content of the group.
+
+"newsgroups" don't really exist in any meaningful way.  Because any
+user anywhere can put anything in any news group, there is no actual
+correspondence between the newsgroup and it's contents.  Thus the
+groups don't really exist as a container for "tainted" material, they
+are only convenient labels for users to hang on the front of their
+articles.  This is in fact the way they are transmitted:  an article
+arrives, and the news server reads the "newsgroups" line to decide
+where to put it in the news spool.  But it was the author of the
+article that decided what to put in the "newsgroups" line.  Check out
+the "newsgroups" line at the top of this article for an example.
+
+Crispin
+-----
+Crispin Cowan, CS PhD student, University of Western Ontario
+Phyz-mail:  Middlesex College, MC28-C, London, Ontario, N6A 5B7
+E-mail:     crispin@csd.uwo.ca          Voice:  519-661-3342
+"If you see a skier, turn.  Trees too."  Burton rendition of the
+Skier's^H^H^H^H^H^H^H Snowboarder's Responsibility Code
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 15:21:19 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [uw.csc, et al.]  Re: Today in alt.sex.stories
+Message-ID: <CLA8F4.Byn@cs.uiuc.edu>
+Date: Tue, 15 Feb 1994 20:18:40 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 15 15:21:19 1994
+Newsgroups: uw.csc,uw.general,uw.opinion,crispins.special.group,alt.sex.stories
+Subject:  Re: Today in alt.sex.stories
+Date: 11 Feb 1994 23:33:29 GMT
+Message-ID: <2jh4k9$gep@falcon.ccs.uwo.ca>
+
+In article <CL2s1B.AG6@undergrad.math.uwaterloo.ca>,
+Brad `Squid' Shapcott <dbshapco@undergrad.math.uwaterloo.ca> wrote:
+>I think claims that the legal status of Usenet is unclear are
+>specious.
+...
+>(a more interesting question might be how much material is tainted by
+>inclusion with obscene material -- that is, what parallel to the
+>separation of one magazine being separate from another exists within
+>Usenet?).  My guess has been that using the internal separation is
+>probably best -- that is, at the level of newsgroups.
+
+This is precisely the basis for claiming that there is no legal status
+for declaring a newsgroup obscene.  I suggest to you that the
+appropriate level of separation is at the article, not the news group
+level.  The authors of the articles in a news group are discrete, and
+unless it is a moderated group, there is no one central point that can
+be regarded as controlling the content of the group.
+
+"newsgroups" don't really exist in any meaningful way.  Because any
+user anywhere can put anything in any news group, there is no actual
+correspondence between the newsgroup and it's contents.  Thus the
+groups don't really exist as a container for "tainted" material, they
+are only convenient labels for users to hang on the front of their
+articles.  This is in fact the way they are transmitted:  an article
+arrives, and the news server reads the "newsgroups" line to decide
+where to put it in the news spool.  But it was the author of the
+article that decided what to put in the "newsgroups" line.  Check out
+the "newsgroups" line at the top of this article for an example.
+
+Crispin
+-----
+Crispin Cowan, CS PhD student, University of Western Ontario
+Phyz-mail:  Middlesex College, MC28-C, London, Ontario, N6A 5B7
+E-mail:     crispin@csd.uwo.ca          Voice:  519-661-3342
+"If you see a skier, turn.  Trees too."  Burton rendition of the
+Skier's^H^H^H^H^H^H^H Snowboarder's Responsibility Code
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 15:43:26 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [ont.events, et al.]  New Online, Non-Degree Credit Courses from Western
+Message-ID: <CLA95u.DIC@cs.uiuc.edu>
+Date: Tue, 15 Feb 1994 20:34:42 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 15 15:43:26 1994
+Newsgroups: ont.events,ont.micro,can.general
+Subject:  New Online, Non-Degree Credit Courses from Western
+Date: 15 Feb 1994 18:06:35 GMT
+Message-ID: <2jr2vb$it1@falcon.ccs.uwo.ca>
+
+
+***********************************************************************
+* #####   #####   #####   ##### *  The University of Western Ontario  *
+* #   #     #     #       #     *             Faculty of              *
+* #####     #     #       ###   *  Part-Time and Continuing Education *
+* #         #     #       #     *    *****************************    *
+* #         #     #####   ##### *    *      WESTERN  ONLINE      *    *
+*                               *    *        Winter 1994        *    *
+***********************************************************************
+
+The following online courses are non-degree credit courses offered by
+The University of Western Ontario. The courses offered are:
+
+        1) Connect With The World: Computer Communications
+        2) Basics for Your Job Search
+        3) Writing for Fun and Profit
+        4) Navigating the Internet
+        5) Shareware Secrets and Free Finds
+        6) PC Exploration and Troubleshooting
+        7) Introduction to Unix
+        8) Programming the Bourne Shell
+
+Short course descriptions follow.
+
+For more information about these courses please feel free to contact:
+
+        Mike Baycroft - baycroft@uwo.ca
+
+or
+
+        Catherine Blake - CatherineB@courier.ptce.uwo.ca
+
+or call:
+
+	(519) 661-3632
+
+or fax:
+
+	(519) 661-3799
+
+These courses are conducted entirely online. By using an electronic
+mail system on one of the University's host computers you will team up
+with other students in a virtual classroom. Course handouts and
+exercises will be delivered electronically. Class discussions will
+take place online. You work from your home or office computer at your
+convenience.
+
+These courses run every time we have 10 or more current registrations.
+We will contact you to confirm the start date, then we mail you a
+personal start-up kit that contains the information you need to get
+online. 
+
+In order to take these courses you need either a PC, a modem,
+communications software, and a phone line OR a connection to the
+internet that allows you to telnet to a remote site. If you can telnet
+to: 
+
+   library.uwo.ca
+
+and get a proper screen display, then you should be OK.
+
+CONNECT WITH THE WORLD: PC COMMUNICATIONS
+
+  Instructor: Mike Baycroft
+      Length: 5 weeks
+        Cost: $150 Canadian
+
+This course will introduce you to basic communications terminology,
+software, and hardware configuration.  You will learn how to transfer
+files to and from remote computers and how to capture on-line
+information. Learn how to use your home or office PC and modem to
+connect you to the exciting world of on- line computer services.
+Explore electronic mail, computer conferencing, and PC Bulletin Board
+Services.  Discover new sources of information and software. Learn how
+to transform your PC and modem into a business tool.
+
+THE BASICS FOR YOUR JOB SEARCH
+
+  Instructor: Janet Beretta
+      Begins: Week of April 11
+      Length: 4 weeks
+        Cost: $120 Canadian
+
+This online course is intended to provide the participants with an
+understanding of the elements of the basic tools for the job search.
+The material will cover basic resume preparation, review of differenct
+types of resumes and their function, the use and effective composition
+of cover letters, job interview preparation and research, and
+interview skills. The instructor will also consult on individuals'
+prepared resumes.
+
+WRITING FOR FUN AND PROFIT
+
+  Instructor: Mark Kearney
+       Begin: April
+      Length: 5 weeks
+        Cost: $150 Canadian
+
+Do you love to write, and envy people who get paid for it? Do you read
+magazine and newspaper articles and think about how you would have
+written them?
+
+Prepare yourself to be a freelance writer/journalist with the
+necessary tools to help get your articles published. This course
+stresses practical work so be prepared to write. Examine differenct
+kinds of non-fiction writing, learn how to grab the readers' attention
+and to develop your own particular style. Inverviewing techniques are
+discussed and put to practical use in writing articles. 
+
+Your writing is evaluated regularly during the course. You will be
+encouraged to complete at least one frelance article for
+publication.  Journalistic experience is not necessary, but
+enthusiasm is.
+
+NAVIGATING THE INTERNET
+
+  Instructor: Mike Baycroft
+       Begin: March
+      Length: 5 weeks
+        Cost: $150 Canadian
+
+Begin exploring the Internet today!  This course is an opportunity
+for a guided tour of the international academic network.  Visit
+Australia!  Correspond with someone in Norway!  Browse a library
+catalogue in Mexico.  Discover special interest groups that span
+international borders!
+
+This course will introduce the new user to the basic tools used to
+navigate the Internet: email, telnet, ftp, usenet, archie, gopher,
+veronica, and wais. It will be of use to those who have a
+professional or personal curiosity in computer networking as well
+as those who would just like to meet other people around the world
+who share the same interests.
+
+SHAREWARE SECRETS AND FREE FINDS
+
+  Instructor: Brian MacAskill
+      Length: 5 weeks
+        Cost: $150
+
+Tired of paying the big bucks for programs you end up disappointed
+in? It needn't be that way -- there's a wealth of great software
+out there, and a lot of it's free (public domain) or free to try
+(shareware). Join a shareware author on a tour of the best of
+"non-commercial" software.
+
+Find a great word-processor, a powerful database program, an
+easy-to-use spreadsheet, and other useful gems. You'll learn the
+ins and outs of software licensing: just what *can* you copy? What
+can you keep? How much do you have to pay?
+
+PC EXPLORATION AND TROUBLESHOOTING
+
+  Instructor: Brian MacAskill
+      Length: 5 weeks
+        Cost: $150 Canadian
+
+Discover some of the more common hardware and software failings of
+PCs. Learn to use software that puts your PC to the test and makes
+sure it's working efficiently. 
+
+We'll also look at specialized software tools for:
+
+- figuring out just what ports you have (and we'll tell what they're for!)
+- determining whether or not your modem's up to scratch
+- testing those pesky little RAM chips
+- checking out floppy and hard drives
+- pushing your video card to the limit
+- and, of course, benchmarking your PC... is it really the fastest
+  on the block?
+
+You will have access to most of the software discussed in this
+course.
+
+INTRODUCTION TO UNIX
+
+  Instructor: Mike Baycroft
+      Length: 5 weeks
+        Cost: $150 Canadian
+
+Discover the beauty of unix! Unravel its web of mystery!
+
+This course introduces the participant to the basics of unix.
+Learn about the file system, basic file-maintenance, editing
+files, and the command shell. Begin to explore the myriad of unix
+commands and facilities that will profide you with a technical
+solution to almost any computing problem.
+
+PROGRAMMING THE BOURNE SHELL
+
+  Instructor: Sandy Kechnie
+      Length: 5 weeks
+        Cost: $150 Canadian
+
+Learn to write your own unix utilities and customize your unix
+environment. Explore the vast storehouse of tools that will make
+your life as a unix user a more enjoyable and productive one.
+Beginning with your first tenuous steps of encapsulating a complex
+unix command into a simple easy-to-use one, you will learn to
+create sophisticated programs that accpt command line options,
+work on multiple files, and even call other programs that you have
+written. 
+
+The prerequisite for this course is some knowledge of basic unix
+commands, preferably an introductory course in unix and the ability
+to use a text editor in the unix environment. Some exposure to
+programming would be an asset.
+
+
+---
+
+
+
+-- 
+Mike Baycroft	The University of Western Ontario Libraries
+		London, Ontario, CANADA, N6A-3K7.
+		EMAIL:	mike.baycroft@uwo.ca	baycroft@lib.uwo.ca
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 15:43:30 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [comp.org.eff.talk]  Re: [alt.security.pgp]  macar
+Message-ID: <CLA9CC.Dvz@cs.uiuc.edu>
+Date: Tue, 15 Feb 1994 20:38:35 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 15 15:43:30 1994
+From: strnlght@netcom.com (David Sternlight)
+Subject:  Re: [alt.security.pgp]  macar
+Message-ID: <strnlghtCLA2o2.99G@netcom.com>
+Date: Tue, 15 Feb 1994 18:14:26 GMT
+
+In article <127.2D6084D4@puddle.fidonet.org>,
+Benson Schliesser <Benson.Schliesser@f18.n2250.z1.fidonet.org> wrote:
+>>And, of course, if it were illegal for umich.edu to distribute it,    
+>>soda.berkeley.edu would also be unable to do so.  One thing is clear:  
+>>suppression of PGP is not happening for above-board legal reasons.   
+>
+>       Where the hell are you all getting this??? It's stated in the PGP
+>documents quite clearly: It's only illegal to run it w/o permission from
+>the patent holder and illegal to export it from the country.
+
+Such statements are, at best, a minimum concession from the author(s). The
+PGP documents aren't the law or the courts, and the authors are parties at
+interest, not neutral arbiters.
+
+Thus what they say is "illegal" is the minimum that's illegal, not the
+maximum.
+
+Questions of (U.S.) possession and distribution are, at best, unclear, and have
+been argued extensively here over the past year or so.
+
+Each of us is welcome to an OPINION on that matter, but it's important to
+recognize that's all it is, unless or until a legal expert (or the courts)
+tell us more. Some believe that under those circumstances caution is
+indicated, while others, perhaps having less to lose, believe in pushing the
+envelope as far as they can.
+
+David
+-- 
+David Sternlight       If you want to get somewhere, it's easier to move
+	                your sail than to try to change the wind.
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 16:21:51 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [comp.admin.policy]  Game Playing
+Message-ID: <CLAB0y.HFF@cs.uiuc.edu>
+Date: Tue, 15 Feb 1994 21:14:57 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 15 16:21:51 1994
+From: libhalc@cml.indstate.edu (Hal Cheney)
+Subject:  Game Playing
+Message-ID: <libhalc.336.761340694@cml.indstate.edu>
+Date: Tue, 15 Feb 1994 19:31:34 GMT
+
+  I have tried to get information about games playing from the EFF archives.
+  The archive-manager has told me that at this time a problem with the
+  archive-server prevents this.  At Indiana State University, we are
+  looking afresh at the problem of game playing -- especially interactive
+  game playing over the Internet -- at University microcomputer lab work-
+  stations.
+
+  The following is a first draft of A STATEMENT OF PRINCIPLES on
+  APPROPRIATE USE OF COMPUTER FACILITIES to guide our consideration of
+  this situation.  Comments?
+
+DRAFT      DRAFT     DRAFT     DRAFT     DRAFT     DRAFT     DRAFT     DRAFT
+
+1.   The computer and telecommunications facilities of the Indiana
+     State University are resources supported by public funds and
+     by student tuition and fees and are intended to support the
+     scholarly mission of the University.
+
+2.   The President, Vice-Presidents, and other Administrators are
+     stewards of the resources of the University and are responsible
+     for their appropriate use.  This responsibility extends to the
+     establishment of appropriate use policies and procedures, and
+     for the enforcement of these policies and procedures within the
+     University community.
+
+3.   The University is a community of scholars -- faculty, students,
+     and administrators -- all of whom have an interest in the
+     appropriate use of computer and telecommunications facilities,
+     and whose concerns must be considered in the development
+     of policies and procedures for appropriate use.
+
+DRAFT      DRAFT     DRAFT     DRAFT     DRAFT     DRAFT     DRAFT     DRAFT
+-------------------------------------------------
+HAL CHENEY -- Indiana State University Libraries
+-------------------------------------------------
+The comments above are mine alone and do not
+necessarily represent those of my institution.
+=================================================
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 15 18:02:48 1994
+From: U15289%UICVM@UIC.EDU
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Correction
+Date: 15 Feb 1994 18:03:32 -0500
+Message-ID: <199402152303.SAA10413@eff.org>
+
+Carl writes about McGill University:
+
+>There are plenty of complete idiots in the U.S., but in this case, the
+>university is in Canada. It is the main (only?) English-speaking
+>university in Quebec.
+
+Perhaps the largest, but not the only one.  Concordia University is another
+English-speaking university in Montreal.
+
+                                                  Mitch Pravatiner
+                                                  U15289@uicvm.uic.edu
+
+From caf-talk Caf Feb 15 19:45:36 1994
+Newsgroups: alt.comp.acad-freedom.talk,alt.censorship,can.general
+From: evan@telly.on.ca (Evan Leibovitch)
+Subject: Re: Why shouldn't rape advocacy be protected speech? (was FIRED RETIRED PROFESSOR)
+Message-ID: <CLA2ry.t7@telly.on.ca>
+Date: Tue, 15 Feb 1994 18:16:39 GMT
+
+In article <CKuBI3.J7D@news.direct.net>
+	nu7i@indirect.com (Darrell Shandrow) writes:
+
+>Hello.  There is a big difference between anti-war speech and the 
+>advocating of rape.  Advocating an anti-war stance is a political matter 
+>and does not involve the hurting of someone else.
+
+Wrong. Advocating an anti-war stance, in midst of the militarism of your
+enemies, can definitely hurt. And it has.
+
+Had Neville Chamberlain taken a mistrusting, hawkish stance with Hitler
+in the mid 1930's, how many lives might have been spared?
+
+What kind of conflict might have followed had John Kennedy taken a
+pacifist approach to the discovery of nukes in Cuba?
+
+How many people think Israel would still exist in any form at this time,
+had it not maintained a strong military?
+
+Then there's always the Joan Collins episode of Star Trek :-), which
+paints a fictional scenario where the advocating of an anti-war stance,
+results in the enslavement of most of the world.
+
+-- 
+ Evan Leibovitch, Sound Software Ltd., located in beautiful Brampton, Ontario
+         evan@telly.on.ca / uunet!utzoo!telly!evan / (905) 452-0504
+"We're just not good committee people. Some of us don't have that long to live"
+
+From caf-talk Caf Feb 16 03:13:48 1994
+From: bastille@delphi.com
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Barnwell South Carolina Chem Nuclear Site
+Date: Tue, 15 Feb 94 21:38:43 -0500
+Message-ID: <hwwI2QD.bastille@delphi.com>
+
+I have a friend who lives in Barnwell SC who has information concerning two
+contractors who work at the Chem Nuclear Sight in Barnwell.  They are still
+burying nuclear waste there.  According to this friend, one contractor, who has
+the responsibility of bu
+ring
+burying waste is "looked over" by another contractor (some kind of surveyor). 
+My friend tells me that the records at the Courthouse in Barnwell show that the
+party of the first part is "lending" large sums of money to the party of the
+second part.  All of
+ thi
+this bodes well for those of us living in South Carolina who rely on the
+acquifer underneath all this waste.  Apparently the party of the first part was
+the chairman of the Barnwell County Council for a good fifteen years or so. 
+During this time,
+it was discovered that hazardous waste (thousand of 55 gallon drums of all
+kinds of solvents and other toxic material).  The County ended up having to dig
+up all of the drums when someone found out
+about it. (They found it out when many local residents began to have water
+problems).  Seems the County was charging 2 or 3 dollars to local industry to
+let them bury it in its landfill.  The going rate in an approved landfill
+for this type of material was $55 and up.  Graft was alleged but never proven.
+My friend thinks the same type of situation is going on now.  He happened to
+stumble across the   records at the Courthouse showing a second mortgage on the
+guy who
+was supposed to be checking out what he was doing.  I understand the first
+mortgage was to a bank and the second (from the contractor) exceeded the value
+of the home.  Is anyone here familiar with where this information could be sent
+to have some type of w
+at
+watchdog look into it.  It has already been reported to the Sierra Club.  I
+really think this may appeal to a wider audience.  Please E-mail Bastille
+@delphi.com.  Thanks.
+
+From caf-talk Caf Feb 16 12:47:41 1994
+Newsgroups: news.admin.misc,alt.fan.clarence.thomas,alt.comp.acad-freedom.talk
+From: wpns@newshost.pictel.com (Willie Smith)
+Subject: Re: Clarence Thomas Fate as per Andrews University Student Paper
+Message-ID: <1994Feb16.153317.6007@newshost.pictel.com>
+Date: Wed, 16 Feb 1994 15:33:17 GMT
+
+J Lee Jaap <J.L.Jaap@larc.nasa.gov> writes:
+>wpns@newshost.pictel.com (Willie Smith) writes:
+>|>If they slap him on the wrist, give him a week's paid vacation, and
+>|>ask him not to do it again, someone else is a lot more likely to do a
+>|>repeat performance.  Heck, if I posted a hex dump of my CP/M machine's
+>|>hard disk to every group, could I get a month's paid vacation?  8*]
+
+>Ya wanna lynch mob instead of due process?
+
+No, of course not, as ref. my other postings on this matter.  However,
+it's been very unclear in the postings coming out of Andrews if this
+is either the first step in the disciplinary process or the sum total
+of his 'punishment'.
+
+-- 
+Willie Smith	wpns@pictel.com		N1JBJ@amsat.org
+Some people you don't have to satirize, you just quote em - Tom Paxton
+
+From caf-talk Caf Feb 16 18:46:35 1994
+From: randolph@merle.acns.nwu.edu (Paul Brenner)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Call for submissions for archive on cultural censorship
+Date: 16 Feb 1994 18:47:21 -0500
+Message-ID: <randolph-160294175040@aragorn72.acns.nwu.edu>
+
+SEND US INFORMATION YOU HAVE ON CULTURAL CENSORSHIP FOR INCLUSION IN A
+MULTI-MEDIA ARCHIVE TO BE ACCESSIBLE BY MOSAIC!
+
+WeU d like your help in developing a large scale project initiated by
+Muntadas, an internationally renowned installation artist working in
+collaboration with Randolph Street Gallery, a non-profit arts center in
+Chicago, to produce The File Room. The File Room will be a hands-on,
+interactive computer archive (employing the Mosaic program for the
+Macintosh) of instances of cultural censorship around the world throughout
+history. The archive will be installed as a public interactive artwork at
+the Chicago Cultural Center, May 20 - September 4, 1994, and will be
+globally accessible through Mosaic beginning  in mid-May.
+
+The archive will begin with definitions of censorship gathered from a
+number of sources. The diversity of these descriptions will function not
+only to provide a breadth of viewpoints on what constitutes an act of
+censorship, but also introduce the wavering nature of the concept. Who
+defines censorship; those who censor, those who are the victims of
+censorship; or an outside body? When and where has censorship been imposed
+fiercely and when has it remained relatively quiet? What are the various
+levels of censorship (outspoken, subtle, politically proscripted, tacitly
+implied, etc.) The File Room will include cases of censorship in the areas
+of visual art, music, dance, theatre, performance art, literature, etc. and
+will not be limited to cases of censorship of individual artworks. One goal
+of this project is to encourage people to re-examine their notions of what
+censorship is and broaden its definitions beyond a well-publicized focus on
+a specific work of art coming under fire. Some ideas to get you thinking:
+the suppression of artistsU careers; bans on entire media or subject
+matters in certain locations at certain times in history; self-suppression
+by artists in fear of reprisals; denied or limited access to information on
+cultural achievements by entire groups, or non-inclusion of such
+information in RauthoritativeS sources compiled by majority
+representatives; etc.
+
+Visual, textual and sonic data on cultural censorship from around the globe
+is being sought on instances of cultural censorship throughout history. In
+addition, a bibliography will form a crucial part of the archive, citing
+source material dealing with censorship in the cultural sphere.
+
+WE ARE ASKING YOU TO HELP DEFINE AND CREATE THIS ARCHIVE. Though we are
+engaging in some level of research, our hope is that the archive will be
+developed chiefly through submissions solicited over the Net and through
+the distribution of submission forms seeking snail mail and fax
+submissions.
+
+A version of the submission form follows below. The questions have been
+developed in a way which we hope is open-ended enough to encourage you to
+think about what you feel constitutes an act of cultural censorship. We ask
+only that you answer each question as fully and concisely as possible so
+that we may include all submitted information within a specific case
+record.
+
+1. Name of individual, organization or body censored or whose work was
+censored.
+
+2. Name of confronting bodies (both initiator of opposition/censorship and
+others brought into this opposition).
+
+3. Dates during which censorship action occurred.
+
+4. Location of censorship action (as specific as possible: site, city,
+state, region, country, etc.)
+
+5. If the instance of censorship involves a specific artwork or group of
+works, list the title, date of creation, media, dimensions/duration, and
+content.
+
+6. Short description of the case including action taken and results. (What
+were the consequences of the action? Were there protests?, etc.) 
+
+7. Source for your information. (If published, give full citation.)
+
+If you have hard copies of documentation surrounding this case, please
+snail mail or fax this information to the address/number below.
+
+We are also seeking images and sound clips (on cassette or CD) related to
+the case. If you have access to these, please snail mail them to the
+address below.
+
+If you know of other sources for information on cultural censorship, please
+let us know of these sources.
+
+Each submission will be credited in the archive (unless submitter wishes to
+remain anonymous), so please include the following info. in all
+correspondence:
+Your name, address, phone/fax #, e-mail address 
+
+Thanks for your participation in this project. We will be posting updates
+to this newsgroup as the project progresses. Feel free to contact us at any
+time for more information on The File Room.
+
+Send your information to:								
+E-mail: randolph@merle.acns.nwu.edu
+Mail: The File Room						
+Randolph Street Gallery					
+756 N. Milwaukee Ave.					
+Chicago, IL 60622						
+Phone # 312.666.7737						
+Fax # 312.666.8986						
+
+In Canada:
+E-mail: randolph@merle.acns.nwu.edu	
+Mail: The File Room
+Nomad Networks
+The Banff Centre, Media Arts
+Box 1020
+Banff, Alberta
+T0L 0C0
+
+From caf-talk Caf Feb 16 18:50:16 1994
+From: randolph@merle.acns.nwu.edu (Paul Brenner)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Call for submissions for archive on cultural censorship
+Date: 16 Feb 1994 23:48:12 GMT
+Message-ID: <randolph-160294175132@aragorn72.acns.nwu.edu>
+
+SEND US INFORMATION YOU HAVE ON CULTURAL CENSORSHIP FOR INCLUSION IN A
+MULTI-MEDIA ARCHIVE TO BE ACCESSIBLE BY MOSAIC!
+
+We’ d like your help in developing a large scale project initiated by
+Muntadas, an internationally renowned installation artist working in
+collaboration with Randolph Street Gallery, a non-profit arts center in
+Chicago, to produce The File Room. The File Room will be a hands-on,
+interactive computer archive (employing the Mosaic program for the
+Macintosh) of instances of cultural censorship around the world throughout
+history. The archive will be installed as a public interactive artwork at
+the Chicago Cultural Center, May 20 - September 4, 1994, and will be
+globally accessible through Mosaic beginning  in mid-May.
+
+The archive will begin with definitions of censorship gathered from a
+number of sources. The diversity of these descriptions will function not
+only to provide a breadth of viewpoints on what constitutes an act of
+censorship, but also introduce the wavering nature of the concept. Who
+defines censorship; those who censor, those who are the victims of
+censorship; or an outside body? When and where has censorship been imposed
+fiercely and when has it remained relatively quiet? What are the various
+levels of censorship (outspoken, subtle, politically proscripted, tacitly
+implied, etc.) The File Room will include cases of censorship in the areas
+of visual art, music, dance, theatre, performance art, literature, etc. and
+will not be limited to cases of censorship of individual artworks. One goal
+of this project is to encourage people to re-examine their notions of what
+censorship is and broaden its definitions beyond a well-publicized focus on
+a specific work of art coming under fire. Some ideas to get you thinking:
+the suppression of artists’ careers; bans on entire media or subject
+matters in certain locations at certain times in history; self-suppression
+by artists in fear of reprisals; denied or limited access to information on
+cultural achievements by entire groups, or non-inclusion of such
+information in “authoritative” sources compiled by majority
+representatives; etc.
+
+Visual, textual and sonic data on cultural censorship from around the globe
+is being sought on instances of cultural censorship throughout history. In
+addition, a bibliography will form a crucial part of the archive, citing
+source material dealing with censorship in the cultural sphere.
+
+WE ARE ASKING YOU TO HELP DEFINE AND CREATE THIS ARCHIVE. Though we are
+engaging in some level of research, our hope is that the archive will be
+developed chiefly through submissions solicited over the Net and through
+the distribution of submission forms seeking snail mail and fax
+submissions.
+
+A version of the submission form follows below. The questions have been
+developed in a way which we hope is open-ended enough to encourage you to
+think about what you feel constitutes an act of cultural censorship. We ask
+only that you answer each question as fully and concisely as possible so
+that we may include all submitted information within a specific case
+record.
+
+1. Name of individual, organization or body censored or whose work was
+censored.
+
+2. Name of confronting bodies (both initiator of opposition/censorship and
+others brought into this opposition).
+
+3. Dates during which censorship action occurred.
+
+4. Location of censorship action (as specific as possible: site, city,
+state, region, country, etc.)
+
+5. If the instance of censorship involves a specific artwork or group of
+works, list the title, date of creation, media, dimensions/duration, and
+content.
+
+6. Short description of the case including action taken and results. (What
+were the consequences of the action? Were there protests?, etc.) 
+
+7. Source for your information. (If published, give full citation.)
+
+If you have hard copies of documentation surrounding this case, please
+snail mail or fax this information to the address/number below.
+
+We are also seeking images and sound clips (on cassette or CD) related to
+the case. If you have access to these, please snail mail them to the
+address below.
+
+If you know of other sources for information on cultural censorship, please
+let us know of these sources.
+
+Each submission will be credited in the archive (unless submitter wishes to
+remain anonymous), so please include the following info. in all
+correspondence:
+Your name, address, phone/fax #, e-mail address 
+
+Thanks for your participation in this project. We will be posting updates
+to this newsgroup as the project progresses. Feel free to contact us at any
+time for more information on The File Room.
+
+Send your information to:								
+E-mail: randolph@merle.acns.nwu.edu
+Mail: The File Room						
+Randolph Street Gallery					
+756 N. Milwaukee Ave.					
+Chicago, IL 60622						
+Phone # 312.666.7737						
+Fax # 312.666.8986						
+
+In Canada:
+E-mail: randolph@merle.acns.nwu.edu	
+Mail: The File Room
+Nomad Networks
+The Banff Centre, Media Arts
+Box 1020
+Banff, Alberta
+T0L 0C0
+
+From caf-talk Caf Feb 16 21:40:44 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [news.admin.misc]  Re: netnews is not a right
+Message-ID: <CLCKK1.2p3@cs.uiuc.edu>
+Date: Thu, 17 Feb 1994 02:36:00 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 16 21:40:44 1994
+From: brad@clarinet.com (Brad Templeton)
+Subject:  Re: netnews is not a right
+Date: Wed, 16 Feb 1994 10:36:05 GMT
+Message-ID: <1994Feb16.103605.13857@clarinet.com>
+
+Moving to 60mb is indeed no big deal.  With disk space costing under $1
+per megabyte these days, it costs more in administrator's time to prune
+newsgroups for space than it costs to store them with short expiry times.
+
+
+The cost of disk space is not an argument.  If you run dynafeed, your
+disk load can become a lot smaller, too.
+
+Administrator's time is an argument.  News is not without its administrative
+cost, that's certain.  However, an alt.sex group costs no more to
+administer than a comp.sys group.
+-- 
+Brad Templeton, ClariNet Communications Corp. -- San Jose, CA 408/296-0366
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 16 21:40:46 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [news.admin.misc]  Re: netnews is not a right
+Message-ID: <CLCKK7.2qC@cs.uiuc.edu>
+Date: Thu, 17 Feb 1994 02:36:07 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 16 21:40:46 1994
+From: mark@ve6mgs.ampr.org (Mark G. Salyzyn)
+Subject:  Re: netnews is not a right
+Date: Wed, 16 Feb 94 16:27:24 GMT
+Message-ID: <1994Feb16.162724.7164@ve6mgs.ampr.org>
+
+russell@alpha3.ersys.edmonton.ab.ca (Russell Schulz) writes:
+
+>jmsellen@watdragon.uwaterloo.ca (John M. Sellens) writes:
+>> Given that we need to have a working news system, the extra effort
+>> to carry additional groups (like, say, the talk or soc hierarchies)
+>> is no effort at all, at least until the disks fill up.
+>you're saying the system announcements and campus announcements
+>come from your feed?  or, maybe it's the support of research and
+>computer support that comes in over your feed.
+
+I would assume support and research, as I am sure anyone is aware of the
+potential provided by the news system if they have *ever* asked a question
+on the network, or carefully read the FAQ or some knowledgeable posters.
+It helps people come up to speed quickly!
+
+>so you get comp.* and news.*, taking up, say, 20M per day (what are
+>the numbers?  it's probably more like 10)  moving to 60M is no big deal?
+
+I have 42M in my comp heirarchy, 1 day expire, comp.mail.maps vigorously
+deleted and by no means a full feed (I know what is missing in Edmonton ...)
+
+>ah, the luxury of cpu cycles to just burn for everyone on campus...
+
+Spare cycles (cpu or link bandwidth) cost whether they are used or not.
+Administration, however, is not such a inflexable quantity. Without the flow
+of news justifying the links (well, it accounts for less than half the
+bandwidth, the browsers and ftp transfers are major users, but some might
+suggest that an RFC missing from the news is an RFC that does not cause
+extra bandwidth usage ;-/ ), the Universities would all survive on 2400
+Baud Long Distance Email links (which, according to the technical abilities
+and time spare that I know most professors have, this is *all* they need!),
+and would have no people with any technical capability to handle much more.
+This is the way it is in the Former Soviet Union, I might add ...
+
+I know people that get up to 2.4M of email a day, though, but I know of no
+Professors that approach this quantity.  netnews, in some ways, keeps the
+administrators `sharp' ;-/
+
+Ciao -- Mark
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 16 21:40:48 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [news.admin.misc]  Re: netnews is not a right
+Message-ID: <CLCKKB.2r9@cs.uiuc.edu>
+Date: Thu, 17 Feb 1994 02:36:10 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 16 21:40:48 1994
+From: jstewart@superior.carleton.ca (John Stewart)
+Subject:  Re: netnews is not a right
+Message-ID: <jstewart.761424811@superior>
+Date: Wed, 16 Feb 1994 18:53:31 GMT
+
+In <1994Feb16.103605.13857@clarinet.com> brad@clarinet.com (Brad Templeton) writes:
+>Administrator's time is an argument.  News is not without its administrative
+>cost, that's certain.  However, an alt.sex group costs no more to
+>administer than a comp.sys group.
+
+I find the alt.* hierarchy is more of a pain to administer than all the other
+hierarchies combined.  I refuse to automatically honour every alt.* newgroup
+sent out by immature individuals who have figured out how to generate a
+newgroup control message.  It's less work to manually add the sensible 
+alt.* newsgroups than it is to remove the junk ones.
+
+All other hierachies have far fewer bogus newgroup requests and so I allow
+these to be executed automatically.
+
+
+-- 
+John Stewart -- Computing and Communications Services, Carleton University
+Internet: jstewart@ccs.carleton.ca                       613-788-2600x3707
+Freenet related queries: aa088@freenet.carleton.ca
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 16 21:40:49 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.culture.usenet, et al.]  Re: Imminent Death of the Net?
+Message-ID: <CLCKM9.2vy@cs.uiuc.edu>
+Date: Thu, 17 Feb 1994 02:37:20 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 16 21:40:49 1994
+Newsgroups: alt.culture.usenet,news.future
+Subject:  Re: Imminent Death of the Net?
+Date: 16 Feb 1994 21:02:18 GMT
+Message-ID: <2ju1kq$596@s.ms.uky.edu>
+
+
+[ Newsgroups line trimmed, removing alt.folklore.computers and a.r.k ]
+
+Malcolm McMahon <malcolm@geog.leeds.ac.uk> wrote:
+>The essence of netiquette is curtosy and consideration. Kids tend to
+>lack the judgement required.
+
+When I was growing up in rural Kentucky, I ran into some of the most
+arrogant age-based opinions you'd ever want to hear.  From the li-
+brary aide who asked my father if he "really wanted someone this young
+to be reading _One Day in the Life of Ivan Denisovich_" to the school-
+teachers who became angry when I read my own books after finishing the 
+work they assigned, I had to deal with the "you're not old enough" atti-
+tude.  I remember being accused of getting help from my parents when I 
+quoted the _New Republic_ in an 8th-grade history presentation; I remem-
+ber being threatened with a failing grade when I corrected a high school
+teacher in class.  Whose were the immature actions in these cases?
+
+The idea that maturity (or intelligence) is an absolute function of age 
+is ridiculous.  Would you care to estimate the age of Serdar Argic?  Dan 
+Gannon? L Detweiler?  Does our inability to do so make a difference?  Your 
+request for some sort of "age indicator" just proves the point that 
+you cannot estimate one's age from one's words.
+
+>How about allowing the kids to have net accounts but insisting that such
+>accounts have an agegroup as part of the name? That way if there is too
+>much hastle you can kill the little buggers in one go. Or maybe limit them
+>to a certain quota of postings.
+
+You talk about "courtesy and consideration," but you want a deadman
+switch that will eliminate everyone in that class?  How, pray tell,
+would that give "consideration" to each kid?
+
+One last thought; do you have any idea how many kids under the age of
+18 have *already* been participating?  Hordes of high school kids
+have access to Usenet via PC BBSs, school sites and local universities
+(don't assume that an address ending in .edu guarantees a college stu-
+dent on the other end); it's a given that younger folks have been among 
+us for several years.
+
+I'm all for giving the kids access.  Now, I would like to have some 
+means by which we could give feedback to the *educators* leading the
+parade; several of us are already working on just such a facility.
+
+--Wes
+
+-- 
+      Wes Morgan ----- University of Kentucky ----- morgan@engr.uky.edu
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+   GAT d(--) -p+ c++(++++) !l u++ e+ m* s++/++ !n h* f* !g w++ t+(++) r x+
+ And here's to you, Vicki Robinson; Usenet loves you more than you will know.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 16 22:35:13 1994
+From: dean@timss.ubc.ca (Dean Linford)
+Newsgroups: alt.comp.acad-freedom.talk,alt.censorship,can.general
+Subject: Re: Why shouldn't rape advocacy be protected speech? (was FIRED RETIRED PROFESSOR)
+Date: 17 Feb 1994 03:36:13 GMT
+Message-ID: <2juond$f7s@nntp.ucs.ubc.ca>
+
+In article <CLA2ry.t7@telly.on.ca>, Evan Leibovitch <evan@telly.on.ca> wrote:
+>
+>Had Neville Chamberlain taken a mistrusting, hawkish stance with Hitler
+>in the mid 1930's, how many lives might have been spared?
+
+	Had we not been so nice as to ignore the people such as Tommy
+Douglas, speaking in the Commons, against suppling the Nazis with the
+material required for war, we would have done a lot better too. The
+War didn't come all of a sudden. Unfortunately there was a polarized
+discussion at that time too!
+
+-- 
+- just a guest on this system ------
+- Dean Linford <dean@timss.ubc.ca> -
+
+From caf-talk Caf Feb 17 08:36:12 1994
+Newsgroups: alt.sex.stories,alt.comp.acad-freedom.talk,uw.csc,uw.general,uw.opinion
+From: bdb@gwendolyn.GTS.ORG (Bruce Becker)
+Subject: Re: Today in alt.sex.stories
+Message-ID: <1994Feb17.063822.23223@gwendolyn.GTS.ORG>
+Date: Thu, 17 Feb 1994 06:38:22 GMT
+
+In article <CLA8qM.CLF@cs.uiuc.edu> kadie@cs.uiuc.edu (Carl M Kadie) writes:
+|Brad `Squid' Shapcott <dbshapco@undergrad.math.uwaterloo.ca> wrote:
+|
+|[...]
+|>(a more interesting question might be how much material is tainted by
+|>inclusion with obscene material -- that is, what parallel to the
+|>separation of one magazine being separate from another exists within
+|>Usenet?).
+|[...]
+|
+|I don't know the law in Canada, but in the U.S., obscene material does
+|not "taint" nonobscene material. Instead, nonobscene material
+|"purifies" obscene material.
+|
+|In other words, (in the U.S.) a work must be considered as a whole.
+|If the whole has "serious literary, artistic, political, or scientific
+|value", then it is not obscene even if a part,considered in isolation,
+|would be considered obscene.
+|[...]
+
+
+	A test of this would be to see if the "uw"
+	namespace would be tainted by creation of
+	"uw.sex.stories", "uw.tasteless", etc.
+
+
+	I am teetering on the verge of  auto-reposting
+	the corresponding banned "alt." newsgroups
+	into their "uw." equivalents...
+
+
+-- 
+  ,u,	 Bruce Becker			Toronto, Ontario
+a /i/	 bdb@gwendolyn.gts.org		...!gts!gwendolyn!bdb
+ `\o\-e	 ./\./\./\./\./\./\./\./\./\./\./\./\./\./\./\.
+ _< /_	 "Dogs, bite your masters" - Porfirio Graffitti
+
+From caf-talk Caf Feb 17 15:13:37 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.censorship, et al.]  Universities in Canada - autonomous, but ...
+Message-ID: <CLDxCD.KyF@cs.uiuc.edu>
+Date: Thu, 17 Feb 1994 20:09:49 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 17 15:13:37 1994
+Newsgroups: alt.censorship,can.general,ont.general
+Subject:  Universities in Canada - autonomous, but ...
+Date: 17 Feb 1994 11:11:34 -0500
+Message-ID: <2k04vm$9r8@ghost.McRCIM.McGill.EDU>
+
+[excerpted from Stephanie Fysh's "NEWS IN CANADA" (11feb94)]
+
+Ontario Education Minister Dave Cooke says that the province
+cannot force universities to abide by its controversial "zero
+tolerance" harassment policy, but encourages them to do so.
+
+[end of excerpt]
+
+Although Universities are legally autonomous, they are also publicly funded.
+One wonders whether an "uncooperative" University might be
+penalized financially.
+
+For more information, look on the EFC gopher:
+
+	gopher -p "1/community/efc" ee470.ee.mcgill.ca
+
+Relevant files are labelled:
+
+	Ontario Ministry "Framework" (Speech codes)
+	CAUT urges review of "Framework" (08feb94)
+	Trent University/
+	   On Free Inquiry and Expression (statement)
+	   On Free Inquiry and Expression (the associated names)
+
+This last item is a petition signed by over 40% of the faculty
+at Trent University.
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 17 17:03:38 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.censorship]  WaterlooU Censorship - th
+Message-ID: <CLE2Dn.6sE@cs.uiuc.edu>
+Date: Thu, 17 Feb 1994 21:58:34 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 17 17:03:38 1994
+Subject:  WaterlooU Censorship - th
+From: steve.struthers@dt-can.com (Steve Struthers)
+Message-ID: <fe.955.2006.0N0CC5D6@dt-can.com>
+Date: Tue, 15 Feb 94 17:24:00 -0820
+
+On 2-6-94, you quoted parts of an article originally published in 
+the _Globe and Mail_, which read as follows:
+
+<other stuff deleted>
+
+AA+Waterloo's decision to pull the plug on five of the dozens of sex
+  +newsgroups has revived an angry debate that began at the
+  +university in 1988 with an abortive attempt to ban a computer
+  +service that carried racist jokes.  Administrators said at the
+  +time that they would not interfere with free access to Internet.
+
+The simplest way to deal with university administrators who choose to 
+cover their butts at the expense of our freedom of speech is to fund 
+private server sites so that people wishing to obtain a.b.p.e. 
+files/GIF's can do so without fear of having the plug pulled on them 
+because of conflicting interpretations of the law and disputes over the 
+jurisdiction to act in the manner the University of Waterloo did.
+
+As much as I personally dislike the University's patently knee-jerk 
+reaction to files they believe contravene the obscenity provisions of 
+the Criminal Code, I have to respect their decision. After all, the 
+servers belong to the University, and to taxpayers. The fact 
+that taxpayers' money goes to fund _all_ of UW's resources (and those 
+of other Canadian postsecondary institutions), means that the servers 
+are ultimately public property, if in an indirect way, and must be used 
+for everyone's benefit and not for the interests of a certain set or 
+subset of the university community, particularly where the files in 
+question may be of little or no demonstrable usefulness in academic 
+pursuits. Note carefully that I am *not* saying that 'little or no 
+demonstrable usefulness' for any particular purpose excuses censorship.
+
+I have no problem with porn in general. Hell, I've been known to view 
+and enjoy the stuff on many an occasion. But I wouldn't ask, say, the 
+University of Western Ontario's DB Weldon Library to carry the videos 
+that a firm like _Adults Only Video_ does. The reasoning behind my 
+argument is based on a simple distinction. AOV are a private firm who 
+are in business to serve a particular clientele. It goes without saying 
+that the clientele AOV serve are acting in a private, rather than 
+public realm. On the other hand, universities find themselves 
+rather squarely in the public domain. It is an unfortunate fact of life 
+that the mainstream public are possessed of a mindset that does not 
+readily tolerate the right of a minority to its freedom of self-
+determination, particularly when it takes a form that the mainstream 
+either find offensive or understand poorly.
+
+What we have then, in such a case, is the rather classic struggle 
+between majoritarian and minority interests. Unfortunately for us and 
+the people at UW who have lost access to certain Internet resources, 
+the majoritarian interests win out because the lawmakers and law 
+enforcers either side with the majority or tend to listen to that 
+polity more carefully. This is largely because their way of thinking 
+or worldview, if you will, is geared to accepting the emotively 
+reasoned arguments of a few alarmists as the only valid view and 
+as the embodiment of majoritarian views. It is not merely 
+coincidental that this pandering to a certain viewpoint provides a 
+convenient springboard for the exercise of power, never mind whether or 
+not such power is exercised in a just manner. Sometimes the mere 
+ability to blindly exercise that power and garner broad-based 
+political appeal is all that counts.
+
+Again, at the risk of belabouring an earlier point- the best way to 
+preserve access to a.b.p.e and some of the alt.sex newsgroups is to 
+fund them directly as private individuals using private resources. Part 
+of that funding should also include a reserve to provide a defence 
+against the inevitable legal assaults by people like McKinnon 
+and others who would seek to impose their moral standards on everyone 
+else.
+
+Steve
+---
+ * 1st 1.11 #1174s * Diplomacy: Saying "Nice doggie", until you can find a rock.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 17 19:34:53 1994
+Newsgroups: alt.censorship,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Re: WaterlooU Censorship - th
+Message-ID: <CLE97C.J2z@cs.uiuc.edu>
+Date: Fri, 18 Feb 1994 00:25:59 GMT
+
+steve.struthers@dt-can.com (Steve Struthers) writes:
+
+[...]
+>Note carefully that I am *not* saying that 'little or no demonstrable
+>usefulness' for any particular purpose excuses censorship.
+[...]
+
+It looks like this material was removed because some people didn't
+want other people to read it, not because it might have little or no
+usefulness.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 17 20:29:30 1994
+Newsgroups: ont.general,tor.general,alt.privacy,alt.comp.acad-freedom.talk
+From: cowan@pci.on.ca (Keith Cowan)
+Subject: Re: U of Toronto (Scarborough) introduces drastic computer policy
+Message-ID: <CLDJ4x.C8x@pci.on.ca>
+Date: Thu, 17 Feb 1994 15:02:56 GMT
+
+In article <CKFzA2.JC@mach1.wlu.ca> brea9430@mach1.wlu.ca (Piano Man) writes:
+>
+>1) Access to many opinions, some from acknowledged experts, which is much
+>more than a number of professors are wont to give.
+>2) The opportunity to develop my own writing (I have published a number of
+>articles that started out as posts; for an aspiring free-lance writer,
+>this benefit is beyond compare.
+>3) Freedom to express myself, again, more than I feel I have in some
+>(many) classes.
+>
+
+It is interesting that many technical people who network electronically
+consider the net to be much more useful than classes and workshops for
+learning a practice while actually performing it with help from the 
+electronic support group.
+
+One of the big fights at IBM was to get the educators to recognize this form
+of learning and give credit for it. The fight was lost. It seems that the
+makers of policy have great difficulty accepting anything that they have not
+personally experienced. This is the greatest obstacle to internet acceptance
+IMHO  ... Keith 
+-- 
+Keith Cowan       Phone: (905)887-5683           FAX: (905)764-9604
+               Internet: cowan@pci.on.ca  Compuserve: 72212,51
+
+From caf-talk Caf Feb 17 21:15:08 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [mcgill.general, et al.]  How to avoid censorship ...
+Message-ID: <CLEDu3.2H3@cs.uiuc.edu>
+Date: Fri, 18 Feb 1994 02:06:03 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 17 21:15:08 1994
+Newsgroups: mcgill.general,alt.censorship,comp.org.eff.talk,can.general
+Subject:  How to avoid censorship ...
+Date: 17 Feb 1994 20:00:27 -0500
+Message-ID: <2k13vb$bju@ghost.McRCIM.McGill.EDU>
+
+There seems to be a fundamental misunderstanding among certain
+McGill administrators about what constitutes censorship.
+This would all be terribly amusing, if it did not directly
+affect the academic mission of the University.
+
+"Censorship" has a technical meaning defined by librarians:
+
+	Censorship -- The change in the access status of material, made by a
+	governing authority or its representatives. Such changes include:
+	exclusion, restriction, removal, or age/grade level changes.
+
+As quoted in the McGill Tribune (15feb94, p9), Vice-Principal F.Tavenas said:
+
+	"What the people talking about censorship do not understand is that
+	the best way to censor is to absolutely flood with information".
+
+One wonders whether this reasoning is being applied to the budget
+allocated for the McGill Libraries.
+You see, to buy more books would constitute censorship.
+Thus, to avoid censorship, the Library budget must be reduced so that
+we do not overwhelm our library patrons with too much information.
+
+In the limiting case, to eradicate censorship completely,
+one could simply close all McGill Libraries.  Since there would be no
+books to consider, no censorship would be possible!
+
+dj
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 17 21:48:47 1994
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.censorship
+Subject: [CHE & Edupage] Highlights
+Date: 17 Feb 1994 21:49:35 -0500
+Message-ID: <2k1abv$rqq@eff.org>
+
+[Excerpts from the Chronicle of Higher Education abstract from their gopher
+ "gopher chronicle.merit.edu 70". Also, from Edupage, "gopher educom.edu."
+ I found them with the CAF whatsnews server, "gopher gopher.eff.org 5070".
+ I've changed the order of some of the CHE items.
+ - Carl]
+
+             A guide to the February 16, 1994, issue of
+                THE CHRONICLE OF HIGHER EDUCATION
+                      (Volume 40, Issue 24)
+
+[...]     
+  o  A FEDERAL JURY HAS ORDERED WESTERN NEW MEXICO UNIVERSITY
+     to pay $150,000 to a former tenured professor for violating
+     his free-speech rights: A24
+[...]
+  ______________________________________________________________
+    OPINION & LETTERS
+  --------------------------------------------------------------
+  
+  COPING WITH HATEFUL SPEECH
+  Colleges cannot ban inflammatory speakers, but they can take
+  steps to counter their impact, writes Robert M. O'Neil,
+  founding director of the Thomas Jefferson Center for the 
+  Protection of Free Expression and professor of law at the
+  University of Virginia: Page A52
+[...]  
+  POMONA COLLEGE DENIES CHARGES OF LESBIAN "PURGE"
+  Administrators and many professors dispute student charges
+  that two job candidates were rejected because of their
+  sexuality and politics: Page A24
+[...]     
+  o  ADMINISTRATORS AT WEST VIRGINIA UNIVERSITY ARE VOWING to
+     pay more attention to their trash after 700 confidential
+     student files thrown out last month resurfaced at a
+     school: A4
+     
+[...]     
+  o  WITH THE FINAL SHOWDOWN over the Western Association of
+     Schools and Colleges' diversity guidelines only a week away,
+     more college officials are taking sides: A23
+[...]  
+  BREAK-INS ON THE INTERNET
+  Security experts say hundreds of Internet computers have
+  been affected, including those at dozens of colleges. They
+  urge people to change their passwords: Page A25
+     
+  o  THE CLINTON ADMINISTRATION MADE HISTORY last week when it
+     released its spending plan for the 1995 fiscal year in
+     electronic formats. It put its mammoth budget proposal on
+     the Internet: A25
+     
+  o  THE QUESTION OF HOW TO INSURE THAT EDUCATORS HAVE ACCESS to
+     the proposed data highway was a major topic of discussion
+     at the first meeting of the 27-member National Information
+     Infrastructure Advisory Council: A25
+     
+[...]  
+  COURT UPHOLDS A RULING ON RELIGIOUS ACTIVITIES
+  An federal appeals court upheld the right of public
+  universities to deny funds for student religious
+  activities: Page A36
+[...]
+  CONTROVERSIAL SPEAKER CONTINUES HIS TOUR
+  Khalil Abdul Muhammad, the Nation of Islam member accused of
+  virulent anti-Semitism, plans more speeches on college
+  campuses: Page A41
+[...]     
+  o  THE KEY TO RETAINING WOMEN IN SCIENCE AND MATHEMATICS
+     is to make the undergraduate experience more interesting,
+     says a report released by the Wellesley College Center
+     for Research on Women: A41
+     
+  o  THE TRUSTEES OF THE UNIVERSITY OF NORTH CAROLINA have
+     decided to let students have overnight guests in their
+     dorm rooms after all: A41
+[...]  
+[...]
+====
+
+Subject: edupage-02.15.94
+
+************************************************************************
+EDUPAGE. Edupage, a twice-weekly summary of news items on information
+technology, is provided as a service by EDUCOM -- a consortium of leading
+colleges and universities seeking to transform education through the use of
+information technology.
+************************************************************************
+
+EDUCOM REVIEW GOES ON ELECTRONIC NEWSSTAND. The text of Educom Review, our
+bimonthly magazine about learning, communications and information
+technology, will now be available electronically on The Electronic
+Newsstand (internet.com), an electronic magazine subscription service that
+also features such national magazines as The New Yorker and The New
+Republic.  (The print version of the latest Educom Review is now in the
+mail to subscribers.)
+
+[...] 
+DRUG-NET.  The Ontario provincial government unveiled its $72.5-million
+Ontario Drug Network to provide confidential up-to- the-minute information
+on the 2.4-million clients of the Ontario Drug benefit program to the
+province's 2,300 pharmacies.  Pharmacists will immediately know whether the
+client already has a prescription for the same medication or whether it
+will interact with another drug the person is taking -- with aim of
+preventing prescription drug problems that lead to about 20% of the
+hospitalization of the province's seniors. (Ottawa Citizen, 02/14/94 p.
+B3).
+[...]
+PATROLLING THE DATA HIGHWAY. The Clinton administration is readying a bill
+that would require telecommunications companies to continue to allow law
+enforcement officials to listen in on digital conversations. The bill would
+exempt in-house telephone communications and most forms of e-mail from
+surveillance. In addition, police would be required to get a court order to
+monitor conversations on noncellular, cordless telephones, a protection
+that doesn't exist today. (Wall Street Journal 2/14/94 A4)
+[...]
+===
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 17 21:57:42 1994
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Wanted: Little program to measure newsgroup size
+Date: 17 Feb 1994 21:58:30 -0500
+Message-ID: <2k1asm$s4p@eff.org>
+
+Is there an easy way to see how much disk space each newsgroup
+on my spool is using? (I'm just a user, not a sys admin.)
+
+I tried "du /usr/spool/news", but it doesn't distinguish between disk
+use by files from disk use by subdirectories. This means, for example,
+that
+  rec.sport.baseball
+gets "charged" for space used by
+  rec.sport.baseball.college
+  rec.sport.baseball.fantasy
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 17 22:56:22 1994
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: alt.comp.acad-freedom.talk,alt.censorship
+Subject: ALA Office of Intellectual Freedom mailing list
+Date: 17 Feb 1994 22:57:10 -0500
+Message-ID: <2k1eam$b4@eff.org>
+
+To subscribe to the American Library Association's Office of
+Intellectual Freedom mailing list, send the message 
+  SUB ALAOIF <your name>
+to listserv@uicvm.uic.edu
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 18 09:35:59 1994
+From: russotto@eng.umd.edu (Matthew T. Russotto)
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+Subject: Re: [comp.org.eff.talk]  Re: [alt.security.pgp]  macar
+Date: 18 Feb 1994 14:12:37 GMT
+Message-ID: <2k2icl$44@mojo.eng.umd.edu>
+
+In article <CLA9CC.Dvz@cs.uiuc.edu> kadie@hal.cs.uiuc.edu (Fwd:) writes:
+}[A repost - Carl]
+}
+}Newsgroups: comp.org.eff.talk
+}From: strnlght@netcom.com (David Sternlight)
+}Subject:  Re: [alt.security.pgp]  macar
+}Message-ID: <strnlghtCLA2o2.99G@netcom.com>
+}Date: Tue, 15 Feb 1994 18:14:26 GMT
+}
+}In article <127.2D6084D4@puddle.fidonet.org>,
+}Benson Schliesser <Benson.Schliesser@f18.n2250.z1.fidonet.org> wrote:
+}>>And, of course, if it were illegal for umich.edu to distribute it,    
+}>>soda.berkeley.edu would also be unable to do so.  One thing is clear:  
+}>>suppression of PGP is not happening for above-board legal reasons.   
+}>
+}>       Where the hell are you all getting this??? It's stated in the PGP
+}>documents quite clearly: It's only illegal to run it w/o permission from
+}>the patent holder and illegal to export it from the country.
+}
+}Such statements are, at best, a minimum concession from the author(s). The
+}PGP documents aren't the law or the courts, and the authors are parties at
+}interest, not neutral arbiters.
+
+Do they pay you to spread fear, uncertainty, and doubt, or do you just
+do it for free?  Is there anything at all in the patent law which
+makes the possessor of the infringing devices an infringer?
+-- 
+Matthew T. Russotto	russotto@eng.umd.edu
+Some news readers expect "Disclaimer:" here.
+Just say NO to police searches and seizures.  Make them use force.
+(not responsible for bodily harm resulting from following above advice)
+
+From caf-talk Caf Feb 18 10:40:14 1994
+From: Stanton McCandlish <mech@eff.org>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.politics.datahighway,alt.internet.services,alt.culture.internet,alt.cyberspace,alt.culture.usenet,alt.culture.internet,comp.answers,alt.answers,news.answers
+Subject: ONLINE OUTPOSTS -- Cyberspatial Community Groups -- Local, Nat'l, Internat'l
+Date: 18 Feb 1994 15:26:42 GMT
+Message-ID: <net-community/orgs-list_761584275@rtfm.mit.edu>
+
+Archive-name: net-community/orgs-list
+Version: 3.0
+Last-modified: 94/01/25
+
+
+(This document has been brought to you in part by CRAM.  See the 
+bottom for more information, including instructions on how to 
+obtain updates.)
+
+===
+
+
+       -=> OUTPOSTS <=-
+   on the Electronic Frontier
+
+International, National, Regional & Local Groups 
+Supporting the Online Community 
+List Updated Jan. 25, 1994 - version 3.0
+
+For those readers interested in hooking up with regional groups 
+that are organized to work on projects to improve online communications,  
+feel free to contact any of the folks listed below with your ideas and 
+to learn more about how you can get involved. 
+
+We are constantly looking to update this list, so if you know of other 
+groups that we should add, or if you are trying to form a group in your 
+local area, please forward the name of the group and contact information 
+to Stanton McCandlish <mech@eff.org>.  Please also inform of any updates
+or changes that need to be made.  
+
+Note that wide-spread organizations, with many local affiliates,
+subdivisions, or chapters, are listed as one organization.  So far, this
+includes CPSR, NPTN/Free-Net, APC/IGC, and Cypherpunks.  To list all the
+local groups individually would consume a large amount of space, and would
+make this list about 4 times as long.
+
+
+
+-=>NATIONAL/INTERNATIONAL<=-
+
+-USA-
+
+* Electronic Frontier Foundation
+    A non-profit public interest membership organization, working to protect
+    individual rights in the emerging information age.  EFF supports legal
+    and legislative action to protect the civil liberties of online users;
+    hosts and participates in related conferences and projects, including
+    Big Dummy's Guide to the Internet, and Computers and Academic Freedom; 
+    and works to educate the online community about its legal rights and
+    responsibilities.  EFF members receive online bulletins about the
+    critical issues and debates affecting computer-mediated communications
+    and participate in online political activism. Donations are welcome and
+    are tax deductible.  EFF is a 501(c)(3) tax-exempt organization.
+        Basic info: info@eff.org
+        General: ask@eff.org
+        Membership: membership@eff.org
+        Legal: Shari Steele <ssteele@eff.org>, Dir. of Legal Services
+               Mike Godwin <mnemonic@eff.org>, Online Counsel
+        Policy/Open Platform/NII: Daniel J. Weitzner (djw@eff.org),
+                                  Senior Staff Counsel  
+	Tech: Dan Brown <brown@eff.org>, Systems Administrator
+        Online newsletter: Stanton McCandlish <mech@eff.org>, Online Activist
+        Hardcopy publications: pubs@eff.org
+	Mailing list requests: eff@eff.org (eff-talk, newsletter)
+	FTP: ftp.eff.org, 
+	Gopher: gopher.eff.org
+	WAIS:  wais.eff.org 
+	World Wide Web URL:  http://www.eff.org/
+	Usenet: comp.org.eff.talk, comp.org.eff.news, alt.politics.datahighway
+	WELL: g eff
+	AOL: keyword EFF
+	CIS: GO EFFSIG
+        Computers & Academic Freedom: kadie@eff.org, greeny@eff.org
+        CAF mailing list: listserv@eff.org (add comp-academic-freedom-news)
+    Electronic Frontier Foundation  
+    1001 G St. NW, Suite 950 E
+    Washington DC 20001, USA
+    voice: +1 202 347 5400
+    fax:   +1 202 393 5509
+        
+* Americans Communicating Electronically (ACE)
+   ACE membership is diverse and represents private and govt. organizations
+   and individuals who wish to promote interactive communications among
+   federal, state, and local governments, private businesses, public
+   libraries, and schools, rural cooperatives, public and private
+   universities, community-based arts and theater groups, voluntary
+   associations, job training services, and health care organizations.  The
+   members of ACE are particularly concerned that access and participation
+   be made possible and convenient for Americans who do not own modem
+   equipped computers. To support the development of interactive
+   communications between governments and communities, ACE is recommending
+   that all government agencies establish information access programs to
+   help create and foster an "interactive citizen-government communications
+   system."  Many govt. agencies, from the White House to the NSF and the 
+   Dept. of Labor, are already participating in the ACE project.  Unlike
+   Everything else on this list, ACE is actually a govt.-sponsored project.
+       Basic info: info@ace.esusda.gov
+       General: letters@ace.esusda.gov
+       Mailing list subscriptions: almanac@ace.esusda.gov [message body:
+                                   subscribe <list> <your name>]
+
+* Center for Civic Networking (CCN/CivicNet)
+    The Center for Civic Networking is a non-profit organization,
+    based in Boston and Washington, D.C., that promotes broad public
+    benefits of the emerging national information infrastructure.
+    The Center brings together expertise in large-scale computer and
+    network systems, community-based applications of computing, non-
+    profit management, community development, architecture, public
+    policy, and democratic participation. The Center's Programs
+    focus on framing a national vision for civic networking,
+    developing a policy framework that supports civic networking,
+    developing and supporting model civic networking projects, and
+    assisting in the technology transfer needed to achieve the broad-
+    based benefits of civic networking.  CCN is involved with SDIN network,
+    the Cambridge Civic Forum, and the "From Townhalls to Local Civic
+    Networks" conference, and ACE. 
+        General: Miles Fidelman <mfidelman@world.std.com>
+                                <mfidelman@civicnet.org>, Exec. Dir.   
+                 Richard Civille <rciville@civicnet.org>, Dir., DC office
+        FTP: ftp.eff.org, pub/Groups/CCN
+             world.std.com, ftp/amo/civicnet
+    [No mailing address available at present]
+    Voice: +1 202 362 3831 (R. Civille, Washington DC office)
+
+* Computer Professionals for Social Responsibility (CPSR)
+    CPSR is a national membership organization, based in Palo Alto,
+    California.  CPSR conducts many activities to protect privacy and civil
+    liberties.  Membership is open to the public and support is welcome. 
+    CPSR maintains local chapters in several US cities.
+	General (nat'l. HQ): cpsr@csli.stanford.edu
+	General (DC offc.): Marc Rotenberg <rotenberg@washofc.cpsr.org>
+	Washington DC chapter: Larry Hunter <hunter@nlm.nih.gov>
+	NY chapter: David Friedlander <friedd@pipeline.com>
+	Berkeley CA chapter: Jim Davis <cpsr-berkeley@csli.stanford.edu>
+                             Judi Clark <judic@netcom.com>
+	Palo Alto CA chapter: Andre Bacard <abacard@well.sf.ca.us>
+	Portland OR chapter: Erik Nilsson <erikn@goldfish.mitron.tek.com>
+        Los Angeles chapter: Rodney J. Hoffman <rodney@oxy.edu>
+	Mailing lists: listserv@cpsr.org (cpsr-cpu, bawit-announce, etc.)
+                       listserv@gwuvm.gwu.edu (cpsr)
+	FTP: ftp.cpsr.org
+	Gopher: gopher.cpsr.org
+	Nanotechnology SIG: Ted Kaehler <kaehler2@applelink.apple.com>
+	Telecom Policy Roundtable: Jeff Chester <cme@access.digex.net>,
+                                   voice: +1 202 628 2620
+	Electoral issues: Eva Waskell, voice: +1 703 435 1283 evenings
+    CPSR National Office    CPSR Washington Office    CPSR/Berkeley Chapter
+    P.O. Box 717            666 Pennsylvania Ave. SE  P.O. Box 40361
+    Palo Alto CA 94302 USA  Suite 303                 Berkeley CA 94704 USA
+    Voice: +1 415 322 3778  Washington DC 20003 USA   Voice: +1 415 398 2818
+    Fax:   +1 415 322 3798  Voice: +1 202 544 9240 
+                            Fax:   +1 202 547 5482
+
+* Information Systems Security Association (ISSA)
+    [No information available.]
+    Voice: +1 312 644 6610, Dave Lenef (Communications Coordinator) 
+    Fax:   +1 312 321 6869
+
+* National Online Media Association (NOMA)
+    NOMA is a trade association for BBS's, Internet service providers, and
+    other online services and public networking operations.  It was formed
+    at ONE BBSCON '93 in August at Colorado Springs, CO.  NOMA will be in an
+    initial organizational phase for a while. NOMA's mission is to act for
+    the BBS and online service industry  on matters of national importance
+    by creating an industry presence in Washington, D.C. and other means;
+    assist its members at the state and local levels; educate the public on
+    the unique social, business and legal roles of BBS's and other online
+    services; establish appropriate industry standards and guidelines;
+    promote business development in the industry; and maintain and provide
+    access to resources and industry information for use by the public and
+    the industry.  A forum on Delphi has been provided, as well as the
+    internet mailing list, which may be freely gated to BBS networks.
+        General: Phill Liggett <liggett@delphi.com> 
+                 Lance Rose <elrose@echonyc.com>
+                 Steve Barber <sbarber@echonyc.com>
+        Mailing list requests: listproc@echonyc.com (subscribe natbbs <name>)
+        FidoNet: Jim Taylor, 1:310/5 <jim.taylor@f5.n310.z1.fidonet.org>
+        Delphi: [no contact info provided]  
+    NOMA, c/o Phill Liggett
+    Solutions, Inc.
+    89 Seymore Ave.
+    West Hartford CT 06119 USA
+    Voice: Phill Liggett, +1 203 233 3163
+           Lance Rose, +1 201 509 1700 FOR
+    BBS: +1 805 520 2300 (sysop: Celeste Clark)
+         +1 703 648 1841 (sysop: Tony McClenny)
+         +1 209 685 8487 (sysop: W. Mark Richmond)
+
+* National Public Telecomputing Network (NPTN) - AKA Free-Net
+    The National Public Telecomputing Network exists to make free public 
+    access to computerized communications and information services a 
+    reality; to help people in cities throughout the U.S. and the world 
+    to establish free, open access, community computer systems (Free-Nets);
+    to link those systems together into a common network similar to 
+    National Public Radio or PBS on TV; to help supplement what the local 
+    systems are able to produce with high quality network-wide services 
+    and features. NPTN is a 501(c)(3) nonprofit corporation.
+        General: info@nptn.org [note: this is not an automailer, but a person]
+    National Public Telecomputing Network          
+    P.O. Box 1987                                    
+    Cleveland, Ohio  44106                       
+    Voice: 216-247-5800
+    FAX: 216-247-3328
+       Community Free-Net affiliate systems              modem number
+    Big Sky Telegraph           Dillon, Montana         +1 406 683 7680   
+    Buffalo Free-Net            Buffalo, New York       +1 716 645 6128
+    Cleveland Free-Net          Cleveland, Ohio         +1 216 368 3888
+    COIN                        Columbia, Missouri      +1 314 884 7000
+    Denver Free-Net             Denver, Colorado        +1 303 270 4865
+    Heartland Free-Net          Peoria, Illinois        +1 309 674 1100
+    Lorain County Free-Net      Elyria, Ohio            +1 216 366 9721
+    Medina County Free-Net      Medina, Ohio            +1 216 723 6732
+    National Capital Free-Net   Ottawa, Ont., Canada    +1 613 780 3733
+    Tallahassee Free-Net        Tallahassee, Florida    +1 904 576 6330
+    Tristate Online             Cincinnati, Ohio        +1 513 579 1990
+    Victoria Free-Net           Victoria, BC, Canada    +1 604 595 2300
+    Wellington Citynet          Wellington, New Zealand +64 4 801 3060
+    Youngstown Free-Net         Youngstown, Ohio        +1 216 742 3072
+  For more detailed information, including internet addresses and login
+  instructions, see ftp.eff.org, pub/Groups/NPTN-Freenet/login.info
+
+-AUSTRALIA-
+
+* Electronic Frontiers Australia (EFA)
+    Early in 1994 Electronic Frontiers Australia will be formed to define,
+    promote and defend the rights of electronic network users. This new
+    organisation will be similar to EFF in the USA. Michael Baker
+    <mbaker@apanix.apana.org.au> has announced the incept of a new
+    Internet mailing list forum for discussion and planning in the effort
+    to form a public interest electronic civil liberties organization in
+    Australia. If you want to join EFA contact Michael Baker at any of his
+    addresses listed below. If you want to take part in the formation
+    of EFA (and influence its basic objectives and policies), send a
+    subscribe request to the list request address listed below.
+	General: Michael Baker <mbaker@apanix.apana.org.au>
+	CompuServe: Michael Baker <100026,1312>
+        FidoNet: Michael Baker, 3:800/838
+	Mailing list requests: efa-request@iinet.com.au
+        FTP: ftp.eff.org, pub/Groups/EF-Australia
+        Usenet: aus.org.efa
+        IRC: join #EFA, or contact dking@suburbia.apana.org.au
+    EFA, c/o Michael Baker
+    P.O. Box 5
+    Flaxley SA 5153 Australia
+    Voice: +61 08 388 8439
+    Fax:   +61 08 388 9532
+
+-UK/Great Britain-
+
+* CommUnity
+    Set up in 1993, partly in response to the activities of FAST and ELSPA
+    in their suggestion that BBSs should be subjected to registration
+    procedures to operate legally.  Aims of CommUnity "expressly modelled
+    on EFF, though we are as yet very much smaller."
+        General: David Swarbrick <david@swarb.demon.co.uk>
+
+* UK Crypto-Privacy Association
+    The UK branch of the Cypherpunks.  Unlike the "main" CP group, the UK
+    is not a virtual organization (namely a mailling list) but is in fact an
+    physical one as well.
+        [no contact info yet]
+
+-GLOBAL/MULTINATIONAL-
+
+* Institute for Global Communications (IGC)
+    The Institute for Global Communications (IGC) provides computer
+    networking tools for international communications and information
+    exchange. The IGC Networks -- PeaceNet, EcoNet, ConflictNet and
+    LaborNet -- comprise the world's only computer communications system
+    dedicated solely to environmental preservation, peace, and human
+    rights.  New technologies are helping these worldwide communities
+    cooperate more effectively and efficiently. IGC, located in San
+    Francisco, California, is a division of the Tides Foundation, a
+    501(c)(3) tax-exempt organization. By subscribing to any one of the IGC
+    Networks, you have full access to the resources of any of the other IGC
+    Networks.  IGC maintains a major program to develop low-cost access to
+    computer networking from outside the United States, especially in
+    non-industrialized areas.  This program is the Association of
+    Progressive Communications (APC) which now includes low-cost computer
+    networks in several countries.
+        Basic info: apc-info@igc.apc.org, igc-info@igc.apc.org
+        General: support@igc.apc.org, support@igc.org
+        PeaceNet staff: peacenet@igc.apc.org
+        ConflictNet staff: ?
+        LaborNet staff: ?
+        EcoNet staff: ?
+        US/Mexico/China/Japan/MidEast: support@ign.apc.org
+        Argentina (Wamani/CCI network): apoyo@wamani.apc.org
+        Australia/Pac. Is./SE Asia (Pegasus network): support@peg.apc.org
+        Brasil/misc. S.Am. areas (AlterNex/IBASE network): suporte@ax.apc.org
+        Canada/Cuba (Web/Nirv Centre network): support@web.apc.org
+        Ecuador (EcuaNex network): intercom@ecuanex.apc.org
+        Nicaragua/Panama/misc Central Am. areas (Nicarao/CRIES network):
+            support@ni.apc.org
+        Germany/Italy/Austria/Switzerland/Zagreb/Beograd (ComLink e.V.
+            network): support@oln.comlink.de 
+        Russia/Commonwealth of Independent States (GlasNet):
+            support@glas.apc.org
+        S. Africa (SANGONet): support@wn.apc.org
+        Sweden/Scandinavia/Baltic/St. Petersburg area (NordNet):
+            support@pns.apc.org
+        Uruguay/Paraguay (Chasque network): apoyo@chasque.org.uy
+        UK/Africa/misc. Asian & European areas (GREENET): support@gn.apc.org
+    Institue for Global Communications    
+    18 de Boom St.
+    San Francisco CA 94107 USA
+    Voice: +1 415 442 0220 (USA/etc.)      +1 416 596 0212 (Can./Cuba)
+           +54 1 35 6842 (Arg.)           +44 71 608 3040 (UK/etc.)
+           +61 7 257 1111 (Austral./etc.) +49 511 350 1573 (Ger./It./etc.)
+           +55 21 286 0348 (Braz./etc.)   +7 095 207 0704 (Rus./CIS)
+           +27 11 838 6943 (S.Af.)        +46 8 6000331 (Swe./etc.)
+           +593 2 528 716 (Ecu.)          +505 2 26 2 28 (Nic./etc.)
+           +598 2 596 192 (Uru./Para.)
+    Fax: +1 415 546 1794 (USA) - contact other offices for non US
+                                 fax numbers and mailing addresses.
+         
+* International Internet Association (IIA)
+    The International Internet Association is an organization of
+    engineers and computer and network enthusiasts dedicated to the free
+    flow of information without regard to position or affiliation.  In
+    keeping with that concept, IIA is working diligently to ensure that
+    all aspects of our society, be they individual, corporate, social,
+    educational, intellectual, virtual, or correctional, have the
+    opportunity to take part in the world of tomorrow, which IIA believes
+    will be online.  IIA provides free internet access to all comers.  
+    LD access charges from telcos may still apply, as IIA does not have 
+    local POP access points at present, except in the NYC area, and access
+    via IIA's 800 number is NOT free. IIA is a nonprofit organization
+    [501(c)(3) application pending].
+        General: staff@mary.iia.org
+ 
+
+-=>REGIONAL/LOCAL<=-
+
+-USA-
+
+*ALABAMA*
+
+HUNTSVILLE & N. ALABAMA
+
+* Linux Users of North Alabama (LUNA) [formerly Huntsville Group]
+    LUNA is more than an advocacy group for Linux (a freeware version of
+    Unix for PCs), having become involved in network access issues on a
+    local basis, including encouragement of the BBS community, assisting
+    the startup of a local Internet access site, working on UAH's campus
+    network, providing tutorials on networking home computers, and
+    assisting communications development at a local high school. "LUNA is
+    here to provide community networking", says Matt Midboe. Though not
+    currently working on policy issues, LUNA's technically-oriented members
+    concentrate on bringing cyberspace to people who did not have the
+    capability and know-how before.
+	General: Matt Midboe <mmidboe@nyx.cs.du.edu>
+	         [also try postmaster@luna.cs.uah.edu to see if this
+                  new site is up yet.]
+
+*CALIFORNIA*
+
+SAN FRANCISCO BAY/BERKELEY AREA
+
+* BAWiT (Bay Area Women in Telecom)
+    Hosted by CPSR/Berkeley, and probably involved with This!Group, BAWiT
+    is a group of women working with telecom to make the online community
+    inclusive rather than exclusive of women and minorities. The
+    working group's activities include outreach and mentoring, and
+    providing speakers for events & informal online discussions. 
+	Info: Judi Clark <judic@sunnyside.com, judic@netcom.com>
+	Online conferences: listserv@cpsr.org (message body containing:
+                            subscribe bawit-announce [1st & last name])
+                               
+* This!Group
+    [This!Group is dormant as of this writing, but enthusiasm for new
+     projects and activism might get the ball rolling again.]   
+	General: Judi Clark <judic@netcom.com>
+
+*DISTRICT OF COLUMBIA/WASHINGTON DC METRO AREA*
+    
+* CapAccess
+    CapAccess is an interactive public access network providing
+    information and education for the metropolitan DC area.  It integrates
+    diverse media and allows access to a wide variety of free public
+    information about government, health and human services, libraries,
+    and education. In addition, CapAccess provides email and online
+    conferences and participation in public forums on timely issues.  All
+    that is needed to access CapAccess is a computer and modem.CapAccess is
+    part of a national movement towards civic networks which help citizens
+    with their daily lives, providing access to a variety of local 
+    information such as government services of the DC and Arlington Co. VA
+    and library services of Montgomery Co. MD.  Opinions about local and
+    national issues such as telecom policy and health reform are aired
+    via online forums.  Numerous local schools are using it to share
+    information about activities and to teach students how to access
+    information from around the corner and around the world. Organizations
+    are using it to coordinate services and extend outreach efforts.  In
+    addition, CapAccess is serving as a testbed for several national and
+    local projects.  CapAccess is a 501(c)(3) organization.
+        Basic info: info@cap.gwu.edu
+        General: help@cap.gwu.edu
+                 Richard Civille <rciville@cap.gwu.edu>
+                 Taylor Walsh <twalsh@cap.gwu.edu> 
+        Telnet: cap.gwu.edu    (login as guest, password visitor;
+                128.164.140.32  download reg. form to get full access)
+    CapAccess
+    George Washington University
+    2002 G St. NW, Ste. B-1
+    Washington DC 20052 USA
+    Voice: +1 202 986 2065 (registration & help) 
+           +1 202 994 4245
+    Fax:   +1 202 466 0522   
+    Dialup modem line: +1 202 785 1523 (14.4kbps, 8N1, vt100 emulation
+
+* Group 2600 [and some public access operators]
+	General: Bob Stratton <strat@intercon.com, strat@uunet.uu.net>
+                 Mikki Barry <ooblick@intercon.com>
+
+*MASSACHUSSETTS*
+
+CAMBRIDGE-BOSTON METRO AREA
+
+* EF128 (Electronic Frontier Route 128). 
+    [No information available at this time]
+        Lar Kaufman <lark@ora.com>
+
+*MISSISSIPPI*
+
+GULF COAST
+
+* SotMESC/GCMS
+    Local chapter with chapters in Alaska, Orlando Florida, Atlanta
+    Georgia, Mobile Alabama, Montgomery Alabama, Oxford Miss,
+    California, Ocean Springs Miss, and other locations.
+    [No info available on what this group is or does.] 
+        General: R. Jones <rjones%ucicp6.bitnet@vm.tcs.tulane.edu> 
+                 [NOTE: this email address may or may not be current]
+    SotMESC/GCMS
+    PO Box 573
+    Long Beach MS 39560 USA
+
+
+*MISSOURI*
+
+KANSAS CITY AREA
+
+* Greater Kansas City Sysop Association (GKCSA)
+    [No info available.]            
+        General: Scott Lent <slent@vax1.umkc.edu>
+    GKCSA
+    P.O. Box 14480
+    Parkville, MO 64152
+    Voice: +1 816 734 2949
+    BBS:   +1 816 734 4732 
+
+*NEW HAMPSHIRE*
+
+* Electronic Frontiers New Hampshire (EFNH)
+    A state/local group founded to work with federal and state legislators
+    and media on issues of electronic democracy, freedom of speech in the
+    online world, privacy of email and other electronic communication, access
+    to govt. information, and access issues surrounding the Nat'l. Information
+    Infrastructure debate.  Goals include airing important networking ideas,
+    attracting media & govt. attention to the issues, focussing on civil
+    rights online and providing a forum for discussion of same, protect
+    against, draw attention to, and provide a voice to speak against govt.
+    encroachments on individual liberties in networking, especially from a
+    grassroots level, and improving public access to govt. information.
+    EFNH, like EFA, is still in the formative stages.  It plans to formalize
+    considerably before long.  The "kickoff" meeting will be Jan. 21, '94.
+        General: efnh@mv.com, efnh@mv.mv.com
+                 Dan York <ldy@copely.mv.com>
+                 Mark E. Mallett <mem@mv.mv.com>
+                 Marta Greenberg <marta@mv.mv.com>
+    [No mailing address available at present.]
+    Voice: +1 603 437 5868 (Dan York)
+
+*NEW YORK*
+
+NEW YORK CITY METRO AREA
+
+* The Society for Electronic Access (SEA)
+    SEA is a membership organization focusing on civil liberties and access
+    issues that affect the online world. SEA is based in New York City, so
+    many of their activities are focused toward the New York metropolitan
+    area, though issues of national concern are addressed.
+        Basic Info: sea-info@sea.org (auto reply)
+        General: sea@sea.org
+        Membership: sea-member@sea.org
+        Administration: Simona Nass <simona@sea.org>, President
+        Media Contact: Steve Barber <sea@sea.org>, Secretary
+    SEA  
+    Post Office Box 3131
+    Church Street Station
+    New York, NY, 10008-3131
+    Voice: +1 212 592 3801
+   
+
+WESTERN NY STATE
+
+* Genesee Community College Group
+    [No info available.]
+        General: Thomas J. Klotzbach <3751365@mcimail.com> 
+    Thomas J. Klotzbach
+    Genesee Community College
+    Batavia, NY 14020
+    Voice (work) +1 716 343 0055 x358
+       
+*OKLAHOMA*
+        
+STILLWATER
+
+* [Group name unknown.]
+    [No info available.]
+        General: Lonny L. Lowe <u941013@unx.ucc.okstate.edu>
+    Lonny L. Lowe
+    Freelance Consulting
+    514 S. Pine
+    Stillwater OK 74074-2933 USA
+    Voice: +1 405 747 4242
+       
+*TENNESSEE*
+
+NASHVILLE
+ 
+* [Group name unknown.]
+    [No info available.]
+        General: Craig Owensby <basset@jackatak.raider.net>
+    Craig Owensby
+    805 Harpeth Bend Dr.
+    Nashville TN 37205
+    Voice: +1 615 662 2011 (home)
+           +1 615 248 5271 (work)
+
+*TEXAS*
+
+AUSTIN
+
+* EFF-Austin
+    EFF-Austin was formed to protect constitutional guarantees of free
+    speech and freedom from unreasonable search and seizure for
+    users of computer networks. Experience has taught us that these
+    freedoms must be fought for if they are to survive in the online
+    world.  EFF-Austin was created as an experimental local chapter of
+    the national EFF but became independent in 1993 while retaining
+    contacts with the parent organization. We're heavily involved
+    in public speaking, education, and advocacy of constitutional
+    rights in cyberspace. "We're Austin's forum for discussion of all
+    concerns related to the cutting edge where society meets technology."
+        General: eff-austin-moderator@tic.com
+        Mailing list subscriptions: eff-austin-request@tic.com
+        Directors: eff-austin-directors@tic.com
+        Usenet: austin.eff
+        FTP: ftp.tic.com, eff-austin directory
+        Gopher: gopher.tic.com, "EFF-Austin"
+    EFF-Austin
+    P.O. Box 18957
+    Austin TX 78760 USA
+    Voice: +1 512 465 7871
+    BBS: the SMOFboard +1 512 467 7317 (and many other local info-sites)
+   
+HOUSTON
+ 
+* Electronic Frontiers Houston (EFH)
+    a non-profit corporation devoted to working with and for the
+    Houston computer and telecommunications community.  Working in
+    alliance with the Electronic Frontier Foundation, EFF-Austin and
+    other national and regional organizations, EFH acts as a focal
+    point for the diverse set of individuals who find themselves
+    involved in computer communications. Included on the EFH's agenda
+    are: advocating civil liberty issues in "cyberspace," promoting
+    wider public access to computer networks, exploring artistic and
+    social implications of new digital media, and educating the public
+    about the increasingly important on-line world.  
+        General: efh@blkbox.com
+        WWIVnet: efh@5285
+        Board of Directors: efh-directors@blkbox.com
+                            (efh-directors@5285 on WWIVnet)
+        Usenet: houston.efh.talk
+        FTP: ftp.tic.com, EFH directory
+        Gopher: gopher.tic.com, "Electronic Frontiers Houston"
+    EFH
+    2476 Bolsover #145
+    Houston TX 77005 USA
+    Voice: Ed Cavazos, +1 713 661 1561
+    BBS: Bamboo Gardens +1 713 665 4656 (login as EFH GUEST, pw EFH)
+
+
+-CYBERSPACE-
+
+* comp.org.eff.talk/comp.org.eff.news
+    These newsgroups (online conferences), also gated to Internet
+    mailing lists and Fidonet echomail conferences, serve as much
+    more than EFF house organs, and are "hot spots" for online debate
+    on issues such as civil liberties online, legal liabilities of
+    system operators, copyright and net distribution, the development
+    of a national public network, and more.  Much of the discussion extends
+    it's way into alt.politics.datahighway and other "places".
+
+* Computer PRIVACY Digest (CPD) (ex- Telecom Privacy Digest)
+    Like RISKS, a moderated digest-format electronic newsletter.  It is
+    more open that RISKS or PFD, "and was established to provide a forum 
+    for discussion on the effect of technology on privacy.  All too often 
+    technology is way ahead of the law and society as it presents us with
+    new devices and applications.  Technology can enhance and detract from
+    privacy."
+        Subscribe requests: comp-privacy-request@uwm.edu
+
+* Computer underground Digest (CuD)
+    Cu-Digest, or CuD, is a more-or-less-weekly on-line electronic
+    journal/news digest. The Digest is intended as a forum for the
+    discussion of legal, ethical, social, and other issues regarding
+    computerized information and communications. We welcome contributions
+    reflecting diversity of thought and perspective, focussed on the
+    computer/telecommunications culture including BBSes, Internet, and 
+    public access systems.  CuD is focussed especially on alternative groups
+    that exist outside of the conventional net community. 
+	General/Subscribe requests: Jim Thomas <tk0jut2@mvs.cso.niu.edu>
+        BITNET: tk0jut2@niu.bitnet
+        Usenet: comp.society.cu-digest
+        FTP: ftp.eff.org, pub/Publications/CuD/CuD
+
+* Cypherpunks
+    The Cypherpunks mailing lists exist for those interested in cryptography
+    and it's political rammifications, programming encryption software,
+    creation of digital cash and electronic banking via secure (and
+    anonymous) crypto tech, local crypto-oriented activism, hacking cypher
+    hardware, and more.  There also tends to be much libertarian/
+    anarcho-capitalistdebate as well.  The main list is VERY high-traffic. 
+    The UK branch generally goes by the name of UK Crypto-Privacy Assoc.,
+    and like some of the other local sub-groups, has face-to-face meetings.
+    The CypherWonks list is a split-off that is generally opposed to the
+    anarchic stance of some on the main list.  I have no info at the moment
+    on the local groups, other than Austin Cypherpunks  so if anyone has
+    info to pass on please do so.
+        Main general: hughes@soda.berkeley.edu
+        Main subscribe requests: cypherpunks-request@toad.com
+        Main FTP: soda.berkeley.edu, pub/cypherpunks
+        Hardware general: jdblair@nextsrv.cas.muohio.edu
+        Hardware requests: cp-hardware-request@nextsrv.cas.muohio.edu
+        Wonks general: cypherwonks-owner@lassie.eunet.fi
+        Wonks requests: majordomo@lists.eunet.fi (message body of:
+                       subscribe cypherwonks [1st & last name] [address])
+        Austin general: Jim McCoy <mccoy@bongo.cc.utexas.edu>
+                        Doug Barnes <barnes@io.com>
+        Austin req. austin-cypherpunks-request@bongo.cc.utexas.edu
+                    austin-cypherpunks-announce-request@bongo.cc.utexas.edu 
+        Austin FTP: ftp.cc.utexas.edu, pub/cypherpunks
+
+* PRIVACY Forum Digest (PFD)
+    Like RISKS, a rather selectively moderated digest. "It spans the full
+    range of both technological and non-technological privacy-related issues
+    (with an emphasis on the former)."  Moderated by Lauren Weinstein.
+        Info: privacy-request@vortex.com [msg. body: information privacy]
+        Subscribe requests: privacy-request@vortex.com [message body:
+                            subscribe privacy <name>] 
+
+* RISKS Forum Digest (RFD)
+    Risks is an online newsletter of sorts, the "forum on risks to the
+    public in computers and related systems" of the ACM Committee on 
+    Computers and Public Policy.  Risks is a wealth of information and
+    banter about various issues surrounding computers, communications and
+    networking, and is moderated by Peter G. Neumann.
+        Subscribe requests: risks-request@csl.sri.com (subscribe risks [name])
+        Usenet: comp.risks
+        FTP: crvax.sri.com, cd RISKS: [Note the colon.  To get back issues,
+             "GET RISKS-i.j<return>" where i = volume 1 to 15, j = issue,
+             always 2 digits.  Issue 00 is always a summary of the selected
+             volume.  crvax.sri.com = 128.18.30.65.] 
+        Voice: +1 818 225 2800 [to inquire about FAXed issues ONLY]
+               +1 415 859 2375, Peter G. Neumann [last resort!]
+        FAX:   +1 818 225 7203 [issues are avail. via FAX]  
+
+* thesegroups
+    This list is for organizers of local and other electronic activist
+    groups and activities.  The focus is on public policy, civil liberties,
+    and community related to computing, telecommunications, and computer
+    networks.  This list is not public, and not all subscription requests
+    are accepted.  If you want a discussion list about electronic communities,
+    try COMUNET instead.  If you do ask to subscribe to thesegroups, please
+    say where you heard of it, or who sent you.
+        Subscription requests: thesegroups-request@tic.com
+ 
+* misc
+    Some other newsgroups that may be of relevance to the online activist
+        alt.activism
+        alt.activism.d
+        alt.2600
+        alt.privacy
+        alt.privacy.clipper
+        alt.security.pgp
+        sci.crypt
+        misc.legal
+        talk.politics.crypto
+        alt.politics.datahighway
+        alt.cyber*
+    and many more  
+
+__________________________ ADMINISTRIVIA ____________________________
+
+Who/where: This list is maintained by Stanton McCandlish <mech@eff.org>, and
+FAQ-ized and distributed by L. Detweiler. It is based on a previous version
+by Shari Steele.  Future updates will be posted to  the TheseGroups mailing
+list and comp.org.eff.talk, besides several other places.  The most current
+version is archived on ftp.eff.org, pub/Groups/outposts.faq, and is
+available for anonymous ftp.
+
+Your listing: Please! Check your entry regularly and make sure it is up to
+date. If your org/group does not have a description, please send on ASAP,
+or there's not really much point in listing you.  Please expand on your
+group's contact information as much as possible.  Thank you.
+
+Distribution: Note that some of this text is borrowed from the promotional
+literature of the organizations described herein.  The purpose of such things
+is to be copied and to spread info, so I can't see there being any objections,
+but if you are paranoid about reprint rights, best to contact the
+organizations yourself and make sure it's ok.  Before printing in any "real"
+publication, it would be a good idea to do so anyway, just to make sure the
+info is correct and current.  Please notify mech@eff.org if you wish to
+reprint this in a non-online medium or otherwise do something unusual with
+it (not because I will say no, which I won't, but because I'd just like to be
+kept clued in on how the list is being used and if it's being found to be
+useful.  Thanks!)   This FAQ is Copyright 1994 Stanton McCandlish, and is
+made available as a freeware service to the online community, on behalf of
+the Electronic Frontier Foundation. It may be freely distributed by any
+means, provided I and EFF are credited, the list is not sold for profit,
+and the list is not modified without permission (other than necessary
+reformatting, such as stripping of linefeeds/carriage returns, translation
+to postscript, etc. - i.e. no QUALITATIVE modification of the contents
+please.  If you need to update something, please tell me, and I will make
+sure the master copy is corrected and a new version distributed.)  This
+list may not be sold for profit in any medium, including but not limited to
+CD-ROM, database, diskette or hardcopy, without the explicit, written
+permission of Stanton McCandlish.
+
+Thanks to: Steve Barber, Simona Nass, Art McGee, Ed Cavazos, John S.
+Quarterman, Jon Lebkowski, Shari Steele, L.Detweiler, Elizabeth Reid,
+Bernard Aboba, all the folks I pumped for info about their organizations,
+all the folks who's descriptive text I've borrowed from, such as RISKs and
+CuD conference moderators, etc., and some people I am forgetting surely.
+
+-- 
+Stanton McCandlish * mech@eff.org * Electronic Frontier Found. OnlineActivist
+F O R   M O R E   I N F O,    E - M A I L    T O:     I N F O @ E F F . O R G 
+O  P  E  N    P  L  A  T  F  O  R  M     O  N  L  I  N  E    R  I  G  H  T  S
+V  I   R   T   U   A   L   C  U   L   T   U   R   E      C  R   Y   P   T   O
+
+
+===
+DISTRIBUTION: How to obtain this document
+
+This document has been brought to you in part by CRAM, involved in the
+redistribution of valuable information to a wider USENET audience (see
+below). The most recent version of this document can be obtained via
+the author's instructions above. The following directions apply to 
+retrieve the possibly less-current USENET FAQ version.
+
+  FTP
+  ---
+    This FAQ is available from the standard FAQ server rtfm.mit.edu via
+    FTP in the file /pub/usenet/news.answers/net-community/orgs-list
+
+  Email
+  -----
+    Email requests for FAQs go to mail-server@rtfm.mit.edu with commands
+    on lines in the message body, e.g. `help' and `index'.
+
+  Usenet
+  ------
+    This FAQ is posted every 21 days to the groups
+ 
+      comp.org.eff.talk
+      alt.comp.acad-freedom.talk
+      alt.politics.datahighway
+      alt.internet.services
+      alt.culture.internet
+      alt.cyberspace
+      alt.culture.usenet
+      alt.culture.internet
+      comp.answers
+      alt.answers
+      news.answers
+
+===
+CRAM: the Cyberspatial Reality Advancement Movement
+
+In an effort to bring valuable information to the masses, and
+as a service to motivated information compilers, I 
+(L. Detweiler) will help others unfamiliar with Usenet 
+`publish' their documents for widespread dissemination via the 
+FAQ structure, and act as a `sponsor' knowledgable in the 
+submissions process. This document is being distributed under
+this arrangement.
+
+I have found these compilations tend to appear on various 
+mailing lists and are valuable enough to deserve wider 
+distribution. If you know of an existing compilation of 
+Internet information that is not currently a FAQ, please 
+contact me and I may `sponsor' it. The benefits to the author 
+include:
+
+- use of the existing FAQ infrastructure for distribution:
+  - automated mail server service
+  - FTP archival
+  - automated posting
+
+- a far wider audience that can improve the quality, accuracy,
+  and coverage of the document enormously through email 
+  feedback
+
+- potential professional inquiries for the use of your 
+  document in other settings, such as newsletters, books, 
+  etc.
+
+- with me as your sponsor, I will also take care of the 
+  technicalities in the proper format of the posted version 
+  and updating procedures, leaving you free of the `overhead' 
+  to focus on the basic updates alone
+
+Send comments relating to the *distribution* of this document
+(particularly relevant newsgroups not currently covered in
+its current distribution) or inquiries on other documents to
+<ld231782@longs.lance.colostate.edu>. 
+
+The choice of who I `sponsor' is entirely arbitrary. You always
+have the option of handling the submission process yourself. 
+See the FAQ submission guidlines FAQ in news.answers.
+
+From caf-talk Caf Feb 18 16:39:56 1994
+From: ray@engr.latech.edu (Bill Ray)
+Newsgroups: alt.comp.acad-freedom.talk,soc.college.teaching-asst
+Subject: Job Offer
+Date: 18 Feb 1994 21:28:29 GMT
+Message-ID: <2k3btt$m4t@aurora.engr.latech.edu>
+
+
+The following advertisement for a faculty opening in
+Electrical Engineering Technology is being sent to
+ASEE Prism and to several large city newspapers.
+
+If you have an interest, or if you know someone who
+might be interested, please send an e-mail message
+to ray@engr.latech.edu or yates@engr.latech.edu.
+Please note that a doctorate is NOT required, but
+a Master's degree is.  However, a candidate with
+only a bachelor's degree and an excellent 
+industrial background would be considered.
+
+The EET program at Louisiana Tech University is
+attempting to structure its emphasis towards the 
+support of manufacturing, with a strong grounding
+in the principles of TQM/CQI. 
+
+What follows is the text of the ad:
+
+Electrical Engineering Technology.   Faculty Opening
+
+Tenure Track position in Electrical Engineering Technology at
+Louisiana Tech University.  A Master of Science in Electrical
+Engineering, Technology, Industrial Engineering, or a related
+field, and three or more years of relevent U.S. industrial
+experience is required.  Particular emphasis to be given to
+power distribution systems, distributed control systems, and
+quality control.  All materials, including letters from references,
+transcripts, etc, will be considered starting immediately, until
+the position is filled or until final cutoff on May 31, 1994.
+Applicants must be eligible for employment in the U.S.  Send 
+resume and three references to:   EET Search, College of
+Engineering, Louisiana Tech University, Ruston, LA  71272.
+Louisiana Tech University is an Equal Education and Employment
+Institution.
+
+ 
+
+From caf-talk Caf Feb 18 17:37:43 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [tor.general, et al.]  Re: CDF changes (Was: Re: UofW makes Globe and Mail front page)
+Message-ID: <CLFyp9.DKp@cs.uiuc.edu>
+Date: Fri, 18 Feb 1994 22:34:20 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 18 17:37:43 1994
+From: root@sizone.pci.on.ca (Zulu Meat Hood)
+Subject:  Re: CDF changes (Was: Re: UofW makes Globe and Mail front page)
+Date: Wed, 16 Feb 1994 09:31:44 GMT
+Message-ID: <1994Feb16.093144.526@sizone.pci.on.ca>
+
+John DiMarco (jdd@cdf.toronto.edu) wrote:
+
+: - when dialing in, remote logins to other systems (i.e. non-CDF machines) are 
+:   prohibited. The intent of this rule is to prevent people from hogging
+:   CDF dialin lines (a scarce resource) to access other machines. 
+                     ^^^^^^^^^^^^^^^^^^^ 
+
+ACK! This is imposed on CDF students, yet UTLINK is encouraging people to
+use GOPHER to play muds or read news or login to Freenets and generally
+do ReallFunStuff.
+
+I dont get it. I spose that PACXNET is for everyone, and as CDF users we
+could just as well go and use UTLINK to mess around and waste dialup lines
+while there are three CS assignments due the next day, just as any other
+student. Is that how it works? Should it?
+
+I still say that CDF somehow get into cahoots with Engineering and deal with
+them instead. They've got alot more high power users than the PACXNET and
+have dealt with these kinds of demands for a long time - CDF has had to
+deal with UTCS and an incredible range of different demands, yet they must
+use the same setups for everyone. Ungood. The dialup lines are the main
+concern here of course.
+
+: We generally have better things to do. 
+
+.. except scan mail for breaks of the Holmolka ban? (just kidding, I know
+that UfT's higherups have a better grasp of ethics than that than to instruct
+unwilling admins to do that kind of crap)
+
+/kc
+
+-- 
+Ken P. Chasse -- Sysadmin, Sonic Interzone	"Earthquakes dont kill people,
+Public Access email/Usenet -- 416-968-7292	 architecture does."
+spooge@sizone.pci.on.ca --  Toronto CANADA	  - Jonathan French, @alias.com
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 19 04:15:19 1994
+From: djones@CIM.McGill.CA (David Jones)
+Newsgroups: can.general,ont.general,uw.general,alt.censorship,alt.comp.acad-freedom.talk,comp.org.eff.talk
+Subject: UW censorship - where does it end?  Is Gopher to be censored?
+Date: 19 Feb 1994 03:55:35 -0500
+Message-ID: <2k4k67$e5t@ghost.McRCIM.McGill.EDU>
+
+
+Since February 1, the newsgroup "alt.tasteless" has been banned
+from University of Waterloo campus computers.
+Nevertheless, the "alt.tasteless FAQ" file dated February 4 is still
+accessible to anyone on campus through the UW gopher:
+
+	gopher -p "1/servers/guides/usenet" watserv2.uwaterloo.ca
+
+	USENET - Internet newsgroups/
+	   Frequently asked questions (FAQs) archives/
+	      alt. --- alternative newsgroup listings/
+		 alt.tasteless! 
+
+
+QUESTION:
+
+	Are UW gopher administrators obligated to remove this from
+	their gopher servers, since the UW Ethics Committee has
+	ruled "alt.tasteless" is criminally obscene?
+
+SUGGESTION:
+	Exercise your freedom to read the alt.tasteless FAQ while you
+	still can and decide for yourself whether it is CRIMINAL.
+	Should this be removed from the UW gopher?
+
+
+From caf-talk Caf Feb 19 09:39:23 1994
+Newsgroups: can.general,ont.general,uw.general,alt.censorship,alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: Roger Watt <rwwatt@dcs1.uwaterloo.ca>
+Subject: Re: UW censorship - where does it end?  Is Gopher to be censored?
+Message-ID: <CLH6zH.35A@watserv2.uwaterloo.ca>
+Date: Sat, 19 Feb 1994 14:30:53 GMT
+
+from djones@CIM.McGill.CA (David Jones) :
+>Since February 1, the newsgroup "alt.tasteless" has been banned
+>from University of Waterloo campus computers.
+>Nevertheless, the "alt.tasteless FAQ" file dated February 4 is still
+>accessible to anyone on campus through the UW gopher:
+
+All of the stuff is still acccessible to anyone on campus by going to
+off-campus sources in a variety of ways, of which gopher is only one. 
+
+>	Are UW gopher administrators obligated to remove this from
+>	their gopher servers, [...]
+
+If the newsgroup archive were being stored in an on-campus computer, I
+believe action would be required. However, if you look at where that
+gopher item points, you will see that it points outside UW. This is not an
+issue of what UW computer users may or may not _read_. 
+
+>       [...] since the UW Ethics Committee has
+>	ruled "alt.tasteless" is criminally obscene?
+
+Your "since" is incorrectly worded. The UW Ethics Committee made its
+recommendation for removal as a consequence of information presented to
+it, including opinion from UW's legal counsel based on specific articles.
+The Committee does not make rulings about what is or is not "criminally"
+_anything_. 
+
+
+From caf-talk Caf Feb 19 10:40:32 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [mtl.general, et al.]  Re: Will Quebec "limit the flow of info" on Electronic Highway?
+Message-ID: <CLH9vy.DoC@cs.uiuc.edu>
+Date: Sat, 19 Feb 1994 15:33:34 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 19 10:40:32 1994
+From: alain@rco.qc.ca (Alain Simon)
+Subject:  Re: Will Quebec "limit the flow of info" on Electronic Highway?
+Date: Fri, 18 Feb 1994 22:13:06 GMT
+Message-ID: <CLFxpu.2q9@rco.qc.ca>
+
+alain@rco.qc.ca (Alain Simon) writes:
+> > > INFO-HIGHWAY & CANADA'S CONSTITUTION.  Internal Department of
+> > > Communications documents suggest that the Quebec government may "deem it
+> > > necessary to impose some gates or rules on the content of information
+> > > flowing to Quebec."  One analyst added that the idea of unifying Canada
+> > > with an information highway "...may be perceived as a threat to the
+> > > distinctive character of  Quebec and another assimilation factor."
+> why am I not surprised...  (no question mark)
+
+	Politicians and bureaucrats will  always try to put themselves
+	into the loop, whatever the loop is.   Their favorite ploy to
+	do so is to invent a threat so they can posture as defenders.
+
+	The real aim is to maintain or increase control over people,
+	and extract more taxes.  It never fails.  We let them do it,
+	every time.  But filtering the net may prove to be much harder
+	than they'd dreamed.  I hope it gives them ulcers.
+
+	As far as I am concerned the net may be democracy's salvation;
+	but this will require some effort on the part of the netizens;
+	like education, and independant thinking.  Am I asking too much?
+
+-- 
+Alain - Virtually me, really
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 19 11:19:35 1994
+Newsgroups: can.general,ont.general,uw.general,alt.censorship,alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: shallit@graceland.uwaterloo.ca (Jeffrey Shallit)
+Subject: Re: UW censorship - where does it end?  Is Gopher to be censored?
+Message-ID: <CLHAGB.3nt@watserv1.uwaterloo.ca>
+Date: Sat, 19 Feb 1994 15:45:46 GMT
+
+In article <CLH6zH.35A@watserv2.uwaterloo.ca>,
+Roger Watt  <rwwatt@dcs1.uwaterloo.ca> wrote:
+>from djones@CIM.McGill.CA (David Jones) :
+>>Since February 1, the newsgroup "alt.tasteless" has been banned
+>>from University of Waterloo campus computers...
+>
+>>       [...] since the UW Ethics Committee has
+>>	ruled "alt.tasteless" is criminally obscene?
+>
+>Your "since" is incorrectly worded. The UW Ethics Committee made its
+>recommendation for removal as a consequence of information presented to
+>it, including opinion from UW's legal counsel based on specific articles.
+
+However, if one reads the Ethics Committee memo (which has not
+been widely distributed), one discovers that, in fact, the 
+"legal counsel" did NOT recommend the removal of the group
+alt.tasteless.  The legal counsel's advice was limited to
+alt.sex.bondage and alt.sex.bestiality.  The Committee 
+apparently decided on its own  that the other three groups, one of which was
+alt.tasteless, "may from time to time contain `obscene' material".
+
+Jeff Shallit
+
+From caf-talk Caf Feb 19 11:39:28 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [comp.admin.policy]  Re: Game Playing
+Message-ID: <CLHCo6.HIu@cs.uiuc.edu>
+Date: Sat, 19 Feb 1994 16:33:42 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 19 11:39:28 1994
+Newsgroups: comp.admin.policy
+Subject:  Re: Game Playing
+Date: Fri, 18 Feb 1994 17:14:19
+Message-ID: <0097A40A.0F758FA0@Msu.oscs.montana.edu>
+
+>  The following is a first draft of A STATEMENT OF PRINCIPLES on
+>  APPROPRIATE USE OF COMPUTER FACILITIES to guide our consideration of
+>  this situation.  Comments?
+
+I would specify that games are not explicitly forbidden by your
+policy (if, in fact, they're not forbidden), though they must not
+interfere with other appropriate uses of the computers.  By not
+specifying that games are *not forbidden*, you leave the door open
+for an administrator to arbitrarily (and perhaps unfairly) forbid
+them.  It's happened here at MSU.
+
+>1.   The computer and telecommunications facilities of the Indiana
+>     State University are resources supported by public funds and
+>     by student tuition and fees and are intended to support the
+>     scholarly mission of the University.
+
+[SOAPBOX]
+I'm not sure how broad you want to make this "Statement of Principles,"
+but you might mention that recreational use of computers is okay as
+long as it doesn't interfere with the academic mission of the 
+university.  By analogy, students pay mandatory fees for intramural and
+varsity athletics at many schools, implying that recreation has a
+legitimate role in university life.  And intramural athletics often
+uses facilities which were built for other uses but which are
+idle--the facilities are not being used for those primary uses, so
+intramurals is not interfering.  Similarly, recreational computer
+usage should explicitly be allowed by "acceptable use" policies, so long
+as it does not noticibly interfere with academic uses.
+[soapbox]
+
+On the other topic - of game policies for PC labs - we just put up signs
+saying "These computers are for acadmic use.  Games take second priority.
+Anyone who needs to use these computers for academic reasons has the
+right to ask game players to move or leave."  With such dire warnings in
+place, other users are more likely to just ask the DOOM-players to be
+quieter.  Without any intervention from lab supervisors. :-)
+
+ - Mark
+
+========== Disclaimer: I reserve the right to make my own mistakes! ==========
+Mark Wistey: mark@ece.ee.montana.edu, ECE::MARK  | Christ-like living, Music,
+217 S. 8th Ave, Bozeman MT 59715 (BikeNet)     | Apple II's, Biking & Physics!
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 19 12:09:02 1994
+From: djones@CIM.McGill.CA (David Jones)
+Newsgroups: can.general,ont.general,uw.general,alt.censorship,alt.comp.acad-freedom.talk,comp.org.eff.talk
+Subject: Re: UW censorship - where does it end?  Is Gopher to be censored?
+Date: 19 Feb 1994 12:03:17 -0500
+Message-ID: <2k5gol$ed6@ghost.McRCIM.McGill.EDU>
+
+In article <CLH6zH.35A@watserv2.uwaterloo.ca>,
+Roger Watt  <rwwatt@dcs1.uwaterloo.ca> wrote:
+>from djones@CIM.McGill.CA (David Jones) :
+>
+>>  Are UW gopher administrators obligated to remove [the alt.tasteless FAQ]
+>>  this from their gopher servers [...] ?
+>
+>If the newsgroup archive were being stored in an on-campus computer, I
+>believe action would be required. However, if you look at where that
+>gopher item points, you will see that it points outside UW.
+
+	So, someone maintaining a UW gopher could make links directly
+	to any or all of the following with complete impunity?
+	Any takers?  Any student-run gopher servers?
+	
+gopher -p "nntp ls alt.tasteless" gopher.utdallas.edu 4320
+gopher -p "nntp ls alt.tasteless" icsi.berkeley.edu 4320
+gopher -p "nntp ls alt.tasteless" info.anu.edu.au 71
+gopher -p "nntp ls alt.tasteless" usage.csd.unsw.OZ.AU 4320
+
+	So, a directory called:
+	   "Newsgroups removed because of Womyn's Centre complaints"
+	could be established on a UW gopher right?
+
+	I did not realize how hollowly symbolic this ban truly is!
+
+	Is the Womyn's Centre satisfied with this state of affairs?
+
+	Similarly, one would imagine that a link from a UW World-Wide-Web
+	document (viewed using "mosaic") to the following URL
+	would be unchallenged by the administration?
+
+http://cs.indiana.edu/hyplan/smiale/karla.html
+
+	As has been stated in "uw.general", these access methods are
+	"common knowledge", so I am not telling you anything new.  Right?
+
+	dj
+
+
+From caf-talk Caf Feb 19 12:30:27 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.politics.correct]  Is PC being used to break tenure?
+Message-ID: <CLHEwC.KvA@cs.uiuc.edu>
+Date: Sat, 19 Feb 1994 17:21:48 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 19 12:30:27 1994
+Newsgroups: alt.politics.correct
+Subject:  Is PC being used to break tenure?
+Date: Fri, 18 Feb 1994 10:24:30 -0500
+Message-ID: <ghNBqiW00WBOE1dvhA@andrew.cmu.edu>
+
+I have been following the various threads dealing with incidents of
+"political correctness" on college campuses and campaigns against
+professors who have made these so-called transgressions.  An incident
+occured recently to a professor friend of mine which makes me wonder if
+a number of these incidents aren't being fabricated by university
+administrations to get rid of senior tenured faculty in an effort to cut
+costs.
+
+I will respect my friend's privacy and not reveal his name or the
+college in which he teaches (especially since the case is still
+pending).  However here are the details of his case:
+
+He teaches at a medium-sized private college (not here at CMU, btw). 
+The college, like a lot of private colleges, has been experiencing
+financial problems recently.  This professor is over 65 but is still
+quite active and has no intention of retiring at this time.  However,
+the university has been after him on a number of occassions to retire.
+
+He teaches economics and has taught a number of lectures where he's
+demonstrated the effects of government programs (in particular,
+Affirmative Action) using traditional economic theory.  He was recently
+charged by a number of students with making "racially and sexually
+insensitive" statements in class.  He's talked to his lawyer and he
+feels his chances of beating these trumped-up charges are very good but
+he's totally disgusted with the university for this cheap shot and with
+his colleagues who have been unanimous in their sheep-like lack of
+support for him.
+
+Historically, the purpose of tenure was to provide protection for
+faculty members so they would be free to espouse views that some people
+might dislike without fear of retribution.  I'd very interested to learn
+whether some of the other professors who have been involved in PC
+incidents recently have backgrounds similar to the case I just
+mentioned.  If so, it appears university administrations have finally
+found a way around the protection of tenure.
+
+Dave
+----
+
+"Nobody ever went broke underestimating the intelligence of the American
+people." - H.L. Mencken
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 19 12:30:28 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.politics.correct]  Re: Is PC being used to break tenure?
+Message-ID: <CLHEwI.KwE@cs.uiuc.edu>
+Date: Sat, 19 Feb 1994 17:21:54 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 19 12:30:28 1994
+Newsgroups: alt.politics.correct
+Subject:  Re: Is PC being used to break tenure?
+Date: 18 Feb 1994 19:39:06 GMT
+Message-ID: <2k35gq$qk6@netnews.upenn.edu>
+
+David Pickering (dp3u+@andrew.cmu.edu) wrote:
+: I have been following the various threads dealing with incidents of
+: "political correctness" on college campuses and campaigns against
+: professors who have made these so-called transgressions.  An incident
+: occured recently to a professor friend of mine which makes me wonder if
+: a number of these incidents aren't being fabricated by university
+: administrations to get rid of senior tenured faculty in an effort to cut
+: costs.
+[details omitted]
+
+: He teaches economics and has taught a number of lectures where he's
+: demonstrated the effects of government programs (in particular,
+: Affirmative Action) using traditional economic theory.  He was recently
+: charged by a number of students with making "racially and sexually
+: insensitive" s atements in class.  He's talked to his lawyer and he
+: feels his chances of beating these trumped-up charges are very good but
+: he's totally disgusted with the university for this cheap shot and with
+: his colleagues who have been unanimous in their sheep-like lack of
+: support for him.
+
+: Historically, the purpose of tenure was to provide protection for
+: faculty members so they would be free to espouse views that some people
+: might dislike without fear of retribution.  I'd very interested to learn
+: whether some of the other professors who have been involved in PC
+: incidents recently have backgrounds similar to the case I just
+: mentioned.  If so, it appears university administrations have finally
+: found a way around the protection of tenure.
+
+: Dave
+: ----
+
+Your perception is correct.  As someone who has decried PC and its related
+trampling of due process, free-speech and academic liberty, I receive a
+large number of horror stories, many of them attested and compelling. 
+Obviously, there are actual cases involving inappropriate BEHAVIORS, but
+there are a growing number of cases in which politically incorrect beliefs
+or personalities are being indicted under the guise of harrassment; it IS
+a way in which colleagues can remove the protection of tenure selectively
+and in partisan spirit.  It is far worse than the long remembered McCarthy
+pressures at universities.  Further, a few PC administrators have sought
+to use the notion of "cutting edge" or "conversant with new developments
+in one's field" as a "competence" model of getting around tenure (the
+pretense being that not being conversant with postmodern or feminist
+theory in cultural fields is the equivalent of not being conversant with
+quantum mechanics in physics in the early 20th century--an odd claim for
+anti-positivists!).  These assaults are not going unchallenged, however,
+and there are organizations of scholars and legal centers that are
+fighting back by appropriate means.  The truly astonishing thing is how
+few people notice these trends in the way that you have, and how few
+faculty members are willing to become engaged in the struggle to preserve
+essential dignities, decencies and freedoms in academic life.  Cheers, ACK
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 19 12:30:28 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.culture.usenet]  Re: Netiquette?
+Message-ID: <CLHF9J.LE8@cs.uiuc.edu>
+Date: Sat, 19 Feb 1994 17:29:42 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 19 12:30:28 1994
+Newsgroups: alt.culture.usenet
+Subject:  Re: Netiquette?
+Date: 18 Feb 1994 20:59:43 -0500
+Message-ID: <2k3rqf$pl2@panix.com>
+
+In <mmakaoINNghp@exodus.Eng.Sun.COM> tesh@cleo.Eng.Sun.COM (T2) writes:
+
+>I have seen the word "Netiquette" being used quite frequently
+>over the net. Where could I find the list of rules/terms that
+>fall under Netiquette?
+
+If you have gopher, look at the Society for Electronic Access listing
+(gopher panix.com, choose Item 6, with in the SEA Gopher choose Item
+7, Internet Disk/   Netiquette is Item #13)
+
+If you have ftp,
+
+Host hubcap.clemson.edu
+ 
+    Location: /pub/info
+           FILE -rw-r--r--      51603  Sep 18 1990  news_netiquette
+
+
+
+-- 
+Clay Shirky
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 19 12:59:22 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.angst]  Computer Harassment
+Message-ID: <CLHGFA.n2E@cs.uiuc.edu>
+Date: Sat, 19 Feb 1994 17:54:44 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 19 12:59:22 1994
+Subject:  Computer Harassment
+Message-ID: <41976.dennish@extsparc.agsci.usu.edu>
+From: "Your Name Here!" <dennish@extsparc.agsci.usu.edu>
+Date: Fri, 18 Feb 94 15:57:54 MST
+
+hot off the press of my media contacts bin is this request that I thought
+some of you NetVets might be interested in commenting on. Contact the 
+journalist directly.
+
+
+DLH  putting the spin back in spin doctors
+
+
+
+
+COMPUTERS AND HARASSMENT:
+I am writing this request for Associated Press writer Mary Jane 
+Alexander. Please forward responses to her by fax at: 
+212/621-6967, or respond to me at: bshapiro@phantom.com 
+    Ms. Alexander is writing a story on how online activity may 
+or may not be affecting peoples' behavior toward one another, 
+specifically in the area of sexual harassment. She would be 
+interested in studies that have been done and expert comments.  
+She is also requesting personal anecdotes from other sources, but 
+which would be welcome here as well.
+    She is looking at whether the anonymity factor of working 
+through computers has:
+
+- given license to harass more because the harasser is unknown
+- made harassment less likely as the sex of the opposite person 
+  is unknown
+- lessened harassment because social pressure to harass is 
+  removed
+- made other changes in interaction
+- made no difference in behavior
+
+    Harassment in many forms is being considered, from the benign 
+treatment of women as delicate and ignorant creatures to outright 
+expectations of sexual favors and sexist comments.
+    Her deadline is the end of February. Please include a 
+telephone number so that she may contact you, with a brief 
+description of the kind of information you might be able to 
+provide.
+
+Thank you.
+Barbara Gellis Shapiro
+Chief News Librarian
+Associated Press
+bshapiro@phantom.com
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 19 13:22:45 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Subject: [alt.politics.sex, et al.]  Access to pornography on Internet
+Message-ID: <CLHHGy.1M3@cs.uiuc.edu>
+Date: Sat, 19 Feb 1994 18:17:21 GMT
+
+[A repost - Carl]
+
+From caf-talk Caf Feb 19 13:22:45 1994
+From: acyoung@suncat.syr.edu (Aaron C. Young)
+Subject:  Access to pornography on Internet
+Message-ID: <1994Feb18.042604.8914@newstand.syr.edu>
+Date: Fri, 18 Feb 1994 04:26:04 GMT
+
+
+Hello,
+
+Can anyone guide me to work or text written regarding access to
+pornography on the internet?  I'm trying to find any text or
+if I'm lucky policy statements regarding the shaping rules
+in this area.  With more and more high schools and middle
+schools gaining access I'm interested in any policy that might
+be developing in this area.
+
+Would any one know where I could start?
+
+Any thoughts would be appreciated.
+
+Thanks,
+
+Aaron
+  ~
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+From caf-talk Caf Feb 19 15:19:31 1994
+Newsgroups: can.general,ont.general,uw.general,alt.censorship,alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: Roger Watt <rwwatt@dcs1.uwaterloo.ca>
+Subject: Re: UW censorship - where does it end?  Is Gopher to be censored?
+Message-ID: <CLHM94.5qL@watserv2.uwaterloo.ca>
+Date: Sat, 19 Feb 1994 20:00:39 GMT
+
+from djones@CIM.McGill.CA (David Jones) :
+>	As has been stated in "uw.general", these access methods are
+>	"common knowledge", so I am not telling you anything new.  Right?
+
+Right.
+
+From caf-talk Caf Feb 19 16:02:58 1994
+From: djones@CIM.McGill.CA (David Jones)
+Newsgroups: can.general,ont.general,uw.general,alt.censorship,alt.comp.acad-freedom.talk,comp.org.eff.talk
+Subject: Re: UW censorship - where does it end?  Is Gopher to be censored?
+Date: 19 Feb 1994 15:55:35 -0500
+Message-ID: <2k5uc7$ep9@ghost.McRCIM.McGill.EDU>
+
+In article <CLHM94.5qL@watserv2.uwaterloo.ca>,
+Roger Watt  <rwwatt@dcs1.uwaterloo.ca> wrote:
+>from djones@CIM.McGill.CA (David Jones) :
+>>	As has been stated in "uw.general", these access methods are
+>>	"common knowledge", so I am not telling you anything new.  Right?
+>
+>Right.
+
+You didn't address the real question:
+
+	Can a UW sysadmin set up a UW gopher with direct links to
+	NNTP service of "alt.tasteless" ?
+
+dj
+
+
+From caf-talk Caf Feb 19 16:19:42 1994
+From: wwiewior@camtwh.eric.on.ca (Victor Wiewiorowski)
+Newsgroups: can.general,ont.general,uw.general,alt.censorship,alt.comp.acad-freedom.talk,comp.org.eff.talk
+Subject: Re: UW censorship - where does it end?  Is Gopher to be censored?
+Date: 19 Feb 1994 16:27:43 -0500
+Message-ID: <2k608f$oh8@camtwh.eric.on.ca>
+
+In article <2k5uc7$ep9@ghost.McRCIM.McGill.EDU> djones@CIM.McGill.CA (David Jones) writes:
+>	Can a UW sysadmin set up a UW gopher with direct links to
+>	NNTP service of "alt.tasteless" ?
+>dj
+
+Fortunately we don't even need a sysadmin for that, the computer science club
+has it's own gopher area providing personal areas to it's members, possibly
+allowing one of them (:-) to do so. Moreover the CS club will as I understand
+have a machine soon, I wonder if they'll have the guts to carry the banned 
+news groups?
+That would I think kill the argument "Tax-payers (University, general public,
+etc..) are paying for the distribution of pornography".
+
+
+
+							Victor W.
+
+From caf-talk Caf Feb 20 13:44:00 1994
+From: sipresm@cnsvax.uwec.edu
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: [alt.politics.correct]  Is PC being used to break tenure?
+Message-ID: <1994Feb20.123627.12932@cnsvax.uwec.edu>
+Date: 20 Feb 94 12:36:27 -0600
+
+In article <CLHEwC.KvA@cs.uiuc.edu>, kadie@hal.cs.uiuc.edu (Fwd:) writes:
+> [A repost - Carl]
+> 
+> From: David Pickering <dp3u+@andrew.cmu.edu>                    
+> Newsgroups: alt.politics.correct
+> Subject:  Is PC being used to break tenure?
+> Date: Fri, 18 Feb 1994 10:24:30 -0500
+> Message-ID: <ghNBqiW00WBOE1dvhA@andrew.cmu.edu>
+> 
+> I have been following the various threads dealing with incidents of
+> "political correctness" on college campuses and campaigns against
+> professors who have made these so-called transgressions.  An incident
+> occured recently to a professor friend of mine which makes me wonder if
+> a number of these incidents aren't being fabricated by university
+> administrations to get rid of senior tenured faculty in an effort to cut
+> costs.
+> 
+
+Administrators frequently prefer to rid themselves of the strictures of tenure. 
+It's protection in part depends on the willingness of the faculty to be united
+in its opposition in the kinds of attempts you describe.  I know that in public
+institutions we often have statutory protection (which is the case in
+Wisconsin) plus the 1st Amendment/14th Amendment conncection which makes it
+more difficulty for administrators to be as arbitrary as they would like to be. 
+The private institution, though, does have the "contractural" or "property"
+right protection which can be pursued.
+
+Very frequently, the college or university that is made to realize that they
+would have to provide a due process hearing, that the burden of proof would
+rest on the administration, and that a subsequent judicial proceeding would be
+likely is a good deterrent.  Your colleague, though, would have to show a
+willingness to force the university through such processes.  Is the institution
+unionized, or is there legal counsel available to faculty through voluntary
+organizations such as AAUP or the ACLU?  In Wisconsin we can work with an
+organization called The Association of University of Wisconsin Professionals.
+
+I am a strong believer in things like affirmative action, challenging racism
+and sexism, and diversity on college campuses.  Such principles are fully 
+compatible with guarantees of academic freedom, freedom of speech and press,
+and tenure.  Students and faculty who are offended by remarks made by faculty
+and speakers should certainly challenge those remarks.  But they have a
+responsibility to respect academic freedom. 
+
+I would suggest that those who have coined the PC acronym are the right wingers
+who have little respect for academic freedom.  Opponents of racism and sexism
+should be the first to resist the "PC" attempts to infringe on academic freedom
+because tampering with tenure and first amendment rights only strenghtens those
+who would persist with racist and sexist practices. 
+
+This may all sound nice in terms of ivory tower theory.  In practical terms, a
+united and assertive faculty may be the needed protection.
+
+msmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsms
+
+These opinions are mine, and maybe a few others.  They certainly are not
+UWEC's.
+
+msmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsmsms
+
+Prof. Mort Sipress
+University of Wisconsin-Eau Claire
+715-836-2269 (Pol. Sci. Office)
+715-836-5288 (Univ. Senate Office)
+715-836-2380 (FAX)
+sipresm@uwec.edu
+______________________________________________________________________________
+
+(For ID purposes only, I am a Political Scientist who is also chair of our
+University Senate.)
+
+From caf-talk Caf Feb 20 13:59:57 1994
+Newsgroups: can.general,ont.general,uw.general,alt.censorship,alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: Roger Watt <rwwatt@dcs1.uwaterloo.ca>
+Subject: Re: UW censorship - where does it end?  Is Gopher to be censored?
+Message-ID: <CLJDGM.6Gw@watserv2.uwaterloo.ca>
+Date: Sun, 20 Feb 1994 18:45:57 GMT
+
+from djones@CIM.McGill.CA (David Jones) :
+>You didn't address the real question:
+>	Can a UW sysadmin set up a UW gopher with direct links to
+>	NNTP service of "alt.tasteless" ?
+
+I thought I had. I said in my initial response to your initial posting
+that the measures imposed have nothing to do with what a UW computer user
+may or may not read. 
+
+
+From caf-talk Caf Feb 20 14:20:38 1994
+Newsgroups: can.general,ont.general,uw.general,alt.censorship,alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: Roger Watt <rwwatt@dcs1.uwaterloo.ca>
+Subject: Re: UW censorship - where does it end?  Is Gopher to be censored?
+Message-ID: <CLJEAy.7CL@watserv2.uwaterloo.ca>
+Date: Sun, 20 Feb 1994 19:04:09 GMT
+
+>Fortunately we don't even need a sysadmin for that, the computer science
+>club has it's own gopher area providing personal areas to it's members,
+>possibly allowing one of them (:-) to do so. Moreover the CS club will as
+>I understand have a machine soon, I wonder if they'll have the guts to
+>carry the banned news groups? That would I think kill the argument
+>"Tax-payers (University, general public, etc..) are paying for the
+>distribution of pornography".
+
+I think that needs more thought. If one wished to undertake such an
+activity, one might be wise to do so without consuming any university
+resource and without contravening any university directive in the process.
+The preamble to UW Policy #1, I recall, makes all university directives
+binding on all members of the university community. Floorspace is a
+university resource. Electricity is a university resource. The campus
+network is a university resource. Etc. 
+
+
+From caf-talk Caf Feb 20 18:16:04 1994
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: [Parker-L] Speech Code at Dalhousie U. (Canada)
+Message-ID: <CLJpr3.Iwo@cs.uiuc.edu>
+Date: Sun, 20 Feb 1994 23:11:26 GMT
+
+[Copyright 1994 by Parker Barss Donham.  All rights reserved.
+Posted with permission.
+
+Parker Barass Donham writes a column on free speech issues in the
+Halifax (Nova Scotia, Canada) Daily News. His columns (and a
+discussion) are also available via email. To subscribe, send a message
+to listserv@nstn.ns.ca with the usual line:
+ subscribe Parker-L <YOUR FULL NAME>
+
+- Carl]
+
+Parker Barss Donham's column                     20 February 1994
+-----------------------------------------------------------------
+     I don't have a daughter at Dalhousie, but if I did, I'd be
+darned sore at the University Senate for assuming she needed
+special protection from the rigors of free speech.
+
+     That's the condescending message hidden in last week's vote
+to establish a code against discriminatory harassment at Dal. 
+The senate thinks women, blacks, natives, and gays are no match
+for the sexists, bigots, and knaves they'll encounter in life.
+
+     But that's not what Nichet Smith thought when she came upon
+a racist flyer at Arizona State University, where she was a
+third-year student in justice studies.  Smith and three friends,
+all of them black women, were visiting a campus residence when
+they noticed a mock application for minority job seekers tacked
+to an apartment door.
+
+     The flyer's hateful, racist stereotypes filled the women
+with anger and hurt.  What they did _ and did not do _ is
+instructive.  Nat Hentoff recounts the story in his book, (BOLD)
+Free Speech for Me _ But Not For Thee, (ROMAN) a survey of the
+movement to impose political orthodoxy on U.S. campuses.
+
+     Powered by their own anger, the women pounded on the door of
+the apartment, demanding to know who had put up the poster.  The
+occupant who answered stressed that he was not responsible, and
+that he understood why they were angry.  He agreed to take the
+poster down.
+
+     Next, the women organized a residence-wide meeting.  About
+50 students, half white, half black, showed up for a spirited
+discussion of race relations at the university.  ``It's offensive
+to me as a white person,'' a female student said, ``because it
+looks like all white people feel that way.''
+
+     The meeting led to an anti-racism rally, a news conference
+by black students, an evening program at the residence on
+African-American history, and more discussions of race relations
+among more students of both races.  The school newspaper was
+flooded with letters, including one that read:
+
+     ``We would like to extend our sincerest and deepest
+apologies to anyone and everyone who was offended by the
+tasteless flyer that was displayed on our front door. . . .  We
+did not realize the hurt that would come of this flyer.  We now
+know that we caused great distress among many different people
+and we would again like to apologize.''
+
+     These four black women didn't run from the hateful challenge
+thrown up at them.  Equally important, they did not ask the
+university to ``protect'' them by invoking the school's speech
+code.  Instead of trying to silence their adversaries _ a
+strategy that would only have turned them into martyrs _ the
+women confronted them, and overwhelmed them with the moral and
+intellectual force of their arguments.
+
+     The students who put up the racist flyer learned a lesson,
+too, one that could change their outlook permanently.  In short,
+everyone benefitted from what John Stuart Mill described as ``the
+clearer perception and livelier impression of truth, produced by
+its collision with error.''
+
+     That's not the approach a majority of the Dalhousie Senate
+thinks students should take in similar circumstances.  The senate
+expects offended minorities to cower in fear of their
+adversaries, file anonymous complaints, invoke secret
+disciplinary procedures.
+
+     The imposition of a speech code is a declaration of
+educational failure:  a failure to reach those who harbor
+offensive, ignorant ideas, and a failure to equip women and
+minority students with the skills and confidence needed to
+confront and overcome such louts.
+
+     If racist and sexists attitudes are allowed out in the open,
+those who know better will at least have an opportunity to
+challenge them.  But at Dalhousie, students who arrive with
+bigoted views will henceforth keep their own counsel _ and leave
+four years later with their retrograde ideas in tact.
+
+     The sanctification of victimhood for women and minorities
+was vividly evinced by Jennifer Bankier, a professor of law who
+spoke in favor of the speech code.  Like many who seek to silence
+those who disagree with them, Bankier fancies herself a believer
+in free speech.  Indeed, she told the senate she had come to
+Dalhousie for the very purpose of finding free speech, only to
+discover that, as a woman, she was not free to speak, because she
+was treated as a heretic.
+
+     Bankier's lack of access to free speech is not immediately
+evident.  She is a full, tenured professor at one of the nation's
+most distinguished law schools.  She is a voting member of the
+University's governing senate.  The Dalhousie Faculty Association
+recently elected her its president.  She was one of the most
+persistent voices in favor of the speech code. 
+
+     With such achievements, Bankier ought to inspire young women
+entering Dalhousie.  Instead, she proclaims herself a victim,
+deprived of free speech by the usual culprits:  middle-aged,
+white, heterosexual men.
+
+     What a pathetic self-portrait _ for Professor Bankier, and
+for Dalhousie.
+
+
+
+-----------------------------------------------------------------
+Copyright (c) 1994 by Parker Barss Donham.   All rights reserved.
+-----------------------------------------------------------------
+
+*  To post comments to all Parker-L subscribers, send an e-mail
+   message to:  Parker-L@nstn.ns.ca
+
+--
+ Parker Barss Donham     |  R.R. 1,  Bras d'Or,   |  (902) 674-2953 (vox)
+ pdonham@fox.nstn.ns.ca  |  N.S., Canada B0C-1B0  |  (902) 674-2994 (fax)
+
+From pdonham@fox.nstn.ns.ca Sun Feb 20 13:20:47 1994
+Delivery-Date: Sun, 20 Feb 94 15:20:55 CST
+Return-Path: pdonham@fox.nstn.ns.ca
+Received: from fox.nstn.ns.ca by hal.cs.uiuc.edu with SMTP id AA14982
+  (5.67a/IDA-1.5 for <kadie@hal.cs.uiuc.edu>); Sun, 20 Feb 1994 15:20:52 -0600
+Received: from [137.186.24.116] (antigonish-ts-16.nstn.ns.ca) by Fox.nstn.ns.ca (4.1/SMI-4.1)
+	id AA27880; Sun, 20 Feb 94 17:20:49 AST
+Date: Sun, 20 Feb 94 17:20:47 +0400
+From: "Parker Barss Donham" <pdonham@fox.nstn.ns.ca>
+Message-Id: <73516.pdonham@fox.nstn.ns.ca>
+X-Minuet-Version: Minuet1.0_Beta_14.6
+Reply-To: <pdonham@fox.nstn.ns.ca>
+X-Popmail-Charset: English
+To: kadie@hal.cs.uiuc.edu
+Subject: Re: Repost permission request
+Status: R
+
+On Sun, 20 Feb 1994 13:02:28 -0600, 
+Carl M Kadie  <kadie@hal.cs.uiuc.edu> wrote:
+
+>
+>May I have permission to repost today's speech code column to
+>alt.comp.acad-freedom.talk/news?
+>
+>- Carl
+
+
+Cheerts,  Parker
+
+--
+ Parker Barss Donham     |  R.R. 1,  Bras d'Or,   |  (902) 674-2953 (vox)
+ pdonham@fox.nstn.ns.ca  |  N.S., Canada B0C-1B0  |  (902) 674-2994 (fax)
+
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+

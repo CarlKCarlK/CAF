@@ -1,0 +1,16 @@
+@BOOK{burress::lee,
+         Author = "Burress, Lee",
+         Title = "Battle of the books: literary censorship in the  public schools, 1950-1985",
+         Publisher = "Scarecrow Press",
+         Address = "Metuchen, N.J.",
+         Year = "1989",
+         COL = "v, 385 p. ;$23 cm.",
+         NOG = "Includes index.",
+         NOB = "Bibliography: p. 353-363.",
+         SBN = "0810821516",
+         LON = "(WaOLN)4506115",
+         LON = "ocm18558130",
+         CAL0 = "Z658.U5$B87 1989",
+         DDCF = "098/.12/0973$19",
+         Subject = "Children's literature--Censorship--United States; Young adult literature--Censorship--United States; School libraries--Censorship--United States; Public schools--Censorship--United States; Children--United States--Books and reading; High school students--United States--Books and reading; Censorship--United States--History--20th century"
+}

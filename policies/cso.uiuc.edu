@@ -1,0 +1,121 @@
+Newsgroups: uxa.general,uiuc.general
+From: bob@uxa.cso.uiuc.edu (Bob Foertsch)
+Subject:  Official CCSO response
+Message-ID: <1992Feb7.214834.17947@ux1.cso.uiuc.edu>
+Date: Fri, 7 Feb 1992 21:48:34 GMT
+
+Here is the official CCSO response as written by the director George Badger.
+
+
+During the last few weeks many questions have been raised related to
+the groundrules under which CCSO computers are operated, particularly
+where their use by students is concerned. The groundrules are based
+on a combination of state or federal law, campus and departmental
+policy, funds available and the realities of the various operating
+systems environments. They vary somewhat from machine to machine
+depending on the purposes for which that machine was purchased.
+
+In the early 1980's the Center (then CSO) established the policy that
+any student could have an account for use at their discretion. This
+was in addition to any access provided in conjunction with courses.
+At the time this was on a machine shared with research, coursework
+and internal administration. Over time we have been able to establish
+a separate facility -UXA- that provides much of this service, and to
+provide UIUCnet and Internet access as part of this. We have been
+able to relax many of the restrictions on use as the capacity of this
+facility has been increased, including (in the near future) improving
+the rather limited disk quota. The explicit purpose of this system is
+to allow students to use a modern computing environment with the
+broadest possible degree of personal discretion. We have treated this
+facility as a high priority for funding, comparable to facilities
+needed to complete assigned work in courses. Whether you consider
+this a right or a privilege, it has been our clear intent to make
+this as available as possible, as functional as we can, and to treat
+it as an open invitation to students to experiment in the electronic
+communications environment as they wish. Restrictions based on policy
+are kept at a minimum, and students access is almost never suspended.
+It is only one of many services we offer, and gets only a share of
+our budget applied to these goals.
+
+Issues of privacy, and of acceptable behavior, have always been a
+part of this service. In the case of students there are additional
+privacy laws that apply. Most of these laws were created without
+thought for their impact in a technologically rich environment, and
+most computer software was created without much thought for these
+laws.  We plan to honor all  legal requirements for privacy and to
+try and create an environment which allows as much freedom as is
+consistent with the law and campus policies. We also will have those
+policies necessary to us for responsible operation of the system.
+These, of course, get very specific upon implementation. Part of this
+set of policies will be maintaining our ability to associate things
+done on the system with the person doing them.
+
+Some specific issues are of current interest, but there will
+certainly be more after we address them. The system currently has
+utilities or operating procedures which disclose student information
+which we plan to let you control in a manner consistent with other
+sources of directory information. If a student files the necessary
+forms with Admissions and Records to have their personal information
+suppressed, the material we receive to build the ph database will not
+have any record that they exist. (Note that suppression options and
+our source of information are different for students than they are
+for faculty/staff. A person who is both student and staff will
+probably be handled as staff if this is allowed by the laws.) If they
+wish to have a ph entry in order to use services which depend on this
+database there will be a provision by which such a entry can be
+created. It will contain their real name within the database, but
+this information will not be disclosed, nor will we disclose the
+existence of the entry in response to an inquiry using the name. We
+will try and have a timely method of incorporating suppression
+requests as they occur, rather than the current once a semester
+practice.
+
+"finger" is a part of the culture and history of UNIX. One use of it
+is to get information about the owner of a particular id. There has
+been much debate about whether the information provided in response
+to this should be the persons real name or a nickname they have
+provided. We will revert back to the practice of responding with the
+nickname.This practice may change after people have had ample time to
+suppress information. (Note that the nickname is the real name unless
+the user has changed it intentionally.)  If a person has requested
+suppression of directory information, we will still require that we
+can make the connection between an id and their real name, but will
+not disclose their name.
+
+
+"really" is a locally produced utility that provides a real name in
+response to a request based on user-id. It is only available on UXA. It
+is our intent to remove it in the near future when comparable
+facilities are available using ph, so the rules of ph will apply.
+There will not be any interim changes.
+
+In choosing to exercise your right to protect information about you
+there may be occasions where this is in conflict with your ability to
+obtain a service. We will make reasonable efforts to provide
+alternatives, with more effort expended when the service is essential
+to your academic requirements, and less when it is not. A positive
+example is an alternative way of being included in the ph database
+despite having suppressed information. Another example is that ph
+allows most fields to be blanked out by simple editing, offering an
+alternative to the inconveniences of total suppression.
+
+None of our efforts to provide privacy relieve anyone of
+accountability for their actions, nor us of our obligation to be
+responsible in the operation of these systems. Harassment, threats
+and other illegal behavior will not be provided anonymity or
+protection. We expect this medium of communication to be provided all
+the freedom of expression, and associated responsibility, available
+in more traditional media. We encourage, but cannot dictate, civil
+behavior.
+
+One final comment on the current debate. There has never been any
+discussion about removing this service, or of restricting individuals
+from using it. Like any other campus facility, abuse can be a matter
+for legal action or official campus disciplinary procedures.
+
+-- 
+ |	Bob Foertsch			|	Unix Systems Administrator    |
+ |					|	University of Illinois        |
+ |	bob-foertsch@uiuc.edu		|	1304 West Springfield         |
+ |	(217) 333-8033			|	Urbana, Illinois   61801      |
+

@@ -1,0 +1,891 @@
+Computers and Academic Freedom (news version)
+August 4, 1991
+Vol. 1, No. 19
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is academic/news. Best-of-the-month issues are available as files
+April, May, June, (and soon July).
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+[I am happy to report that the CAF project is growing. Helen C.
+O'Boyle, William W. Arnold, and I will be working together to manage
+CAF-news and CAF-talk. We will take turns (month by month) editing
+CAF-news.
+
+The first five notes in this collection discuss searches of computer
+files. Issues covered include probable cause, enforcement of probable
+cause requirements, the reasonableness of expecting privacy, and system
+defaults that can be set to make problems with user-user snooping much
+less likely.
+
+In the news, a report of student a the University of Georgia who was
+suspend from the University after distributing an encrypted password
+file.  It appears that the student received due process.
+
+The next notes outline the contractual and constitutional constraints
+on sys admin (and University) authority. They explains that
+universities are under a contractual obligation to treat students
+fairly. Every administrator and student should read these notes.
+
+The final notes discuss an initiative to develop a sample computer
+policy that would respect academic freedom. The notes include a
+request (by me) that we wait until more students return to campus next
+month to pursue this project. Other notes propose outlines of a sample
+policy.  - Carl]
+
+
+In this issue:
+
+xanthian         70  
+Sanjay Kapur     51  >Legislating searches
+M K Thakur       64  >Legislating searches <EA7<>5E0A0C34A@ccmail.sunysb.edu> 
+Sanjay Kapur     77  >Administrator Access (Was Re: Ohio State)
+C Davis          32  >Legislating searches
+Carl M. Kadie    89  student suspended for mailing passwords at U. of Georgia
+Carl M. Kadie    65  Authority of Public Universities
+Carl M. Kadie    76  >
+J P Eisenmenger  87  >
+Carl M. Kadie    19  >
+Aydin Edguer     48  >
+F Thoron'edras   27  >
+John Otto        34  >
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 25 Jul 91 20:14:52 GMT
+Message-Id: <1991Jul25.201452.836@zorch.SF-Bay.ORG>
+Organization: SF-Bay Public-Access Unix
+From: elroy.jpl.nasa.gov!swrinde!mips!pacbell.com!tandem!zorch!xanthian@uunet.uu.net
+
+References <6620@gazette.bcm.tmc.edu>, <23.Jul.91.155137.81@cogsci.cog.jhu.edu>, <ESCOTT.91Jul23203508@clippers.shearson.com>=]
+~Subject: Re: Administrator Access (Was Re: Ohio State)
+
+escott@clippers.shearson.com (E. Scott Menter) writes:
+> wjb@cogsci.cog.jhu.edu writes:
+
+>> As both a system administrator and a user this
+>> seems quite reasonable to me. The only thing I
+>> would add is that if a users' data has been
+>> accessed as a result of an emergency situation
+>> that the user must be informed of that access
+>> after the emergency has been alleviated or a
+>> fixed time period has passed. (a week or two?).
+>> The user should also be informed what emergency
+>> required this action. This would probably even
+>> cover investigating possible "crackers" as that
+>> would seem to be an emergency
+
+> Not entirely. Say you thought a user might be
+> doing something naughty, like keeping a personal
+> copy of some company-owned source code. You take a
+> look at his files, and find that not to be the
+> case. Should you then send him email saying "we
+> thought you might be a dishonest jerk, but we
+> checked it out and decided you aren't one?"
+
+> Even when I worked in academia this wouldn't have
+> been a popular approach 8^).
+
+And for good reason; that is not an _emergency_,
+that is a "show probable cause" type of situation,
+and at the least, the person's account should be
+frozen or a protected copy of the file made, and a
+procedure gone through in which evidence supporting
+admin access to that file's insides is presented,
+subject to owner's rebuttal, and adjudicated by
+higher authority before the file is browsed by other
+than its owner.
+
+Kent, the man from xanth.
+<xanthian@Zorch.SF-Bay.ORG> <xanthian@well.sf.ca.us>
+
+
+>From kadie Tue Jul 30 10:07:51 1991
+To: cafb-mail
+~Subject: Computers and Academic Freedom mailing list (batch edition)
+Status: RO
+
+
+Computers and Academic Freedom mailing list (batch edition)
+Tue Jul 30 10:07:13 EDT 1991
+
+In this issue:
+
+kadie (Carl M. Kad : CAF mailing-list header improvement                      
+russotto@eng.umd.e : Re: (none)                                               
+smith@sctc.com (Ri : Re: Hamline Univ shuts off account w/o notice or stated r
+llama@eleazar.dart : Re: (none)                                               
+William Hugh Murra :                                                          
+kadie@eff.org (Car : student suspended for mailing passwords at U. of Georgia 
+kadie@m.cs.uiuc.ed : Stanford President Kennedy to resign                     
+Bill Dugan <bdugan : Legislating searches                                     
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Date: Tue, 30 Jul 1991 11:39 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Subject: Re: Legislating searches
+Message-Id: <EA7AC0D5E0A0C34A@ccmail.sunysb.edu>
+X-Organization: State University of New York, Stony Brook
+X-Vms-Cc: SKAPUR
+
+>This brings up a couple of problems I can see right off the bat.  Firstly,
+>novice users won't know how to use chmod.  Simple; when the university gives
+>out accounts, it explains the policy in a brochure, and explains how to use
+>chmod to protect your files.  Problem solved.  Secondly, though, it would
+
+The percentage of non-technical (non-engineering, non-CS) students who 
+actually read through these brochures is dismally low (about 5%) so the 
+problem is NOT solved.
+
+>seem to require a lot of clarifying policies emphasizing that yes, Joe
+>Student has more rights than Joe Policeman.
+
+A systems administrator is not a policeman.  A policeman's main job is to 
+prevent crime and apprehend criminals.  A systems administrator hopefully will 
+not see a criminal act on the computer at all.  What a systems administrator 
+is interested is in providing service and high availability.  This high 
+availability covers a lot.  It also covers problem resolution which may 
+require "snooping" on a Computer which is owned by the systems administrator's 
+employer.  Another aspect of providing computer resources that users do not 
+appreciate is this: Sheilding users from faculty and beaurocrats who would 
+further restrict access.  I have gotten several requests from faculty members 
+interested in running programs that would ferret out cheating in homework 
+assignments and programming projects.  I have turned them down on the basis 
+that the faculty member's course is not the only course being taught that the 
+student may be taking and to run such a program without the student's express 
+consent is not right.
+
+Part of a systems administrators job is to preserve "order".
+
+>  A student snooping around the
+>files is OK; an authority snooping around the files to try to kill hackers
+>is not OK.
+
+The above is a most interesting statement that is also illogical.  See below.
+
+>  Interesting.  Enforcement is obviously almost impossible.
+
+You would be correct if you remove the word "almost" from the above sentence.
+
+How are you going to catch a supersuser who can browse files without any trace 
+of such browsing?  What proof of violation of policy would you have?  How 
+would you prosecute a superuser without proof?
+
+>Bill Dugan
+>bdugan@teri.bio.uci.edu
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+Message-Id: <9107310026.AA02625@zerkalo.harvard.edu>
+Subject: Re: Legislating searches 
+             <EA7AC0D5E0A0C34A@ccmail.sunysb.edu> 
+Date: Tue, 30 Jul 91 20:25:53 EDT
+From: "Manavendra K. Thakur" <thakur@zerkalo.harvard.edu>
+
+>>>>> On Tue, 30 Jul 1991 11:39 EDT, Sanjay Kapur <SKAPUR@ccmail.sunysb.edu> said:
+
+> How are you going to catch a supersuser who can browse files without
+> any trace of such browsing?  What proof of violation of policy would
+> you have?  How would you prosecute a superuser without proof?
+
+If the sysadmin knows something that could have learned only by
+perusing a user's file, then that constitutes prima facie evidence
+that the sysadmin has conducted a search of the user's files.  What
+then remains to be determined is whether or not the sysadmin had
+proper and prior approval from a higher authority to conduct such a
+search.
+
+If a sysadmin wishes to introduce evidence against a user in the
+course of a disciplinary hearing, the sysadmin would be required to
+demonstrate, if challenged, the legality of any evidence introduced
+against the accused any disciplinary hearing - i.e. describe exactly
+what the evidence is; describe how, where, and when the evidence was
+gathered; and cite both the specific approval initially sought and the
+specific approval ultimately granted to conduct the search.
+
+If the sysadmin is unable or unwilling to document the legality of the
+evidence, then the evidence cannot be introduced in the disciplinary
+hearing and can play no role in the hearing.  Furthermore, failure to
+document the legality of evidence could then open the door for charges
+of privacy violation to be filed against the sysadmin.
+
+
+Such a system would create strong incentives for sysadmins and their
+bosses to get a proper approval for a search from a higher authority
+in advance.  Not only would illegally obtained evidence be barred from
+any disciplinary hearing, it would also make the sysadmin and their
+bosses liable for (possibly) conducting an illegal search.
+
+Finally, it is important to have a firm policy against sysadmin
+snooping, because it does happen now and then that a user will see
+bits and pieces of a private file on someone's terminal or possibly
+even in a publicly-readable file owned by the sysadmin.  Sysadmin make
+mistakes too, despite the ability to cover their tracks, and it's
+entirely possible that a user might catch the sysadmin in the act.
+Indeed, at least one contributor to this newsgroup has claimed to do
+just that.  Other contributors have suspected that a sysadmin was
+reading their private e-mail.
+
+To handle cases such as these, i.e. cases in which the sysadmin or
+some other party inadvertently reveals that unauthorized snooping has
+taken place, a firm policy against such violations of privacy would be
+necessary for affected users to prosecute their case.
+
+
+These are but some of the ways in which an anti-snooping policy could
+be enforced.  Such schemes are obviously not perfect, but one should
+not demand a perfect enforcement scheme before implementing such a
+policy.  Even with its weaknesses, an enforcement scheme such as this
+one has the potential for significant benefit.  At the very least,
+this enforcement scheme would address the most egregious cases of
+unauthorized sysadmin snooping, and that alone is a significant
+improvement over the situation that prevails today.
+
+Manavendra K. Thakur			 Internet: thakur@zerkalo.harvard.edu
+Systems Programmer, High Energy Division BITNET:   thakur@cfa.BITNET
+Harvard-Smithsonian Center for		 DECNET:   CFA::thakur
+Astrophysics				 UUCP:	   ...!uunet!mit-eddie!thakur
+
+Date: Wed, 31 Jul 1991 19:39 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Message-Id: <F6CC482F00A0CD74@ccmail.sunysb.edu>
+Subject: Re: Administrator Access (Was Re: Ohio State)
+
+>From: otto@fsu1.cc.fsu.edu (John Otto)
+>What's dishonest is putting forth the appearance that the privacy of
+>the people who are using the system(s)  is being respected, when it 
+>is not.  If you look at the contents of files people have created,
+>it should be only after having established, to the satisfaction of at
+>least one third party, that in this particular circumstance, at this 
+>particular time, you have reasonable cause to do so.  If you go on
+>fishing expeditions, or if you look at a file someone has created on
+>without having to jump through the hoop of establishing before-hand
+>that there are valid reasons for you to suspect "violation of the rules"
+>then you are (or I would be, if I did it) demonstrating a cavalier 
+>disregard of the individual's privacy rights.
+
+I agree.
+
+>
+>What is really annoying is how easy it is for people to rationalize
+>themselves excuses to trample all over their fellows.  One of the 
+>big differences between so-called blue-collar and white-collar 
+>criminals pointed out a few evenings ago on a tube program is the
+>extent to which white-collar criminals extrapolate and worm around
+>to justify to themselves e.g. robbery, in cases where the blue-collar
+>criminal uses more open and honest direct use of force just because he 
+>wants whatever it is.  Now, violation of privacy is not usually as
+>severe a form of theft as taking a book or a wallet off of someone's
+>desk, but it is still not a nice thing to do.
+>
+
+I agree.  Unfortunately, not everyone is nice.  Being nice is in very few job 
+descriptions.
+
+>I grant that operating systems, even variants of Unix, differ widely,
+>but I have yet to see a case which required snooping into file contents
+>without establishing probable cause, in order to sustain ordinary system
+>operations.
+
+I totally disagree.  I grant you that such cases are rare, but emergencies do 
+arise.  You have been lucky in that you have avoided them.
+
+>  In cases where I have had to do so, it has been with the
+>owner/creator of the file standing beside me. 
+
+You have been extremely lucky (till now).
+
+> Unauthorized users have
+>tended to expose themselves, with account owners occasionally requesting
+>a trace, themselves.
+>
+
+Again you are lucky.
+
+>If a company or a university has an established practice (set of rules 
+>and procedures) of violating the privacy of employees and/or customers, 
+>it is dishonest for the people associated with that company or university
+>to neglect to disclose that fact before hiring, before doing any business 
+>with outside parties and before matriculation.
+
+But then some people insist that you can not sign your rights away. :-)
+
+Unless explicitly told otherwise, I always assume that I do not have any 
+privacy.  That way I will not expect what I do not have.  Maybe I am more 
+of a cynic than you are, but I just do not expect people to be honest and 
+upfront about these things. 
+
+I keep all my personal information on my PC.  I do not do so on my PC at work 
+but the PC I own that I keep in my house.
+
+
+Let me be more explicit:  ANYONE WHO EXPECTS PRIVACY BY DEFAULT 
+                          IS LIVING IN A FOOL'S PARADISE.
+
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+Date: Tue, 30 Jul 1991 16:08:08 GMT
+From: ckd@eff.org (Christopher Davis)
+Message-Id: <CKD.91Jul30120804@eff.org>
+References: <EA7AC0D5E0A0C34A@ccmail.sunysb.edu>
+Subject: Re: Legislating searches
+
+ SK> == Sanjay Kapur <SKAPUR@ccmail.SUnysb.EDU> 
+ BD> == Bill Dugan <bdugan@teri.bio.uci.edu>
+
+ BD> [...] novice users won't know how to use chmod.  Simple; when
+ BD> the university gives out accounts, it explains the policy in a
+ BD> brochure, and explains how to use chmod to protect your files.
+
+ SK> The percentage of non-technical (non-engineering, non-CS) students who 
+ SK> actually read through these brochures is dismally low (about 5%) so the 
+ SK> problem is NOT solved.
+
+Well, then, have the default account creation procedure put a umask 077
+in the user's configuration files!  That way, people who want to make
+their files public can do so, but it takes some work (heck, put comment
+lines in the .cshrc explaining it...)
+
+This seems to work fairly well (I've seen it in action), and is not
+unreasonable.  However, you may wish to make sure your ftpd also
+supports umask; many of them run with a default umask 0, which can cause
+great gaping holes, especially for people who ftp their .rhosts files
+around...
+
+(If you need source for one that does, let me know.  It also supports
+logging anonymous ftp sessions, and a 'guest motd'.)
+
+--Chris
+-- 
+Christopher Davis <ckd@eff.org>   | ELECTRONIC MAIL WORDS OF WISDOM #5:
+System Manager & Postmaster       |      "Internet mail headers are
+Electronic Frontier Foundation    |       not unlike giblets."
++1 617 864 0665                   |        -- Paul Vixie <vixie@pa.dec.com>
+
+Date: Tue, 30 Jul 1991 01:34:20 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Jul30.013420.19111@eff.org>
+Subject: student suspended for mailing passwords at U. of Georgia
+
+[Reposted from Effector Online 1.09 with permission of author - Carl]
+
+
+                   STUDENT SUSPENDED FOR MAILING PASSWORDS
+                            by Rita Rouvalis
+
+The University of Georgia's (UGA) Student Judiciary has recently
+sentenced a student to two quarters suspension for e-mailing Athena's
+/etc/passwd file to an unauthorized user who wanted to break into the
+system. Intense debate ensued when the following post was made to
+eff.talk: 
+                             
+>The University will soon be issuing a news release about this incident.
+>In the meantime, here is a summary:
+
+>(1) A number of unauthorized users have been using various University
+>of Georgia computers. Most of them have left much more of a trail than
+>they realized and will be hearing from us. 
+
+>(2) The first person actually caught as part of this incident has now
+>been sentenced to 2 quarters' suspension, plus a probated expulsion,
+>by the Student Judiciary. This was a U.Ga. student whose name cannot
+>be released due to confidentiality of educational records. What this
+>student did was mail a copy of /etc/passwd from athena.cs.uga.edu to a
+>"hacker" who had already penetrated another system, and who wanted to
+>use a password-guessing program to break into athena. The student was
+>fully aware that he was assisting in a break-in. 
+> --  Michael Covington, sysadmin UGA
+                             
+Discussion was muddied considerably by confusion with other threads,
+and opinions were posted without factual basis. If one looks at the
+facts, one finds the student received surprisingly fair treatment from
+the University of Georgia, whether or not one agrees with the actual
+sentence. 
+
+Upon investigating an intrusion into one of the AI Lab's machines, the
+sysadmin for the AI lab found that the intruder had saved, on disk, a
+copy of Athena's /etc/passwd file with an email header indicating it
+had come from the student in question's account on Athena. Assuming at
+first that either the e-mail header was bogus, or that the student's
+account had also been hacked, the Athena sysadmins deactivated the
+account. Notice that this was a file saved under an unauthorized
+username; no e-mail was ever intercepted.
+
+Upon further investigation, the student admitted to being the
+owner/sender of this e-mail message. He also apparently admitted to
+being a member of an "elite group of hackers/phreakers," and knowing
+that the /etc/passwd file would be used to try to crack Athena.
+
+When the matter came before them, UGA officials felt the needs of the
+student would be better served if he/she was brought before the
+Student Judiciary instead of filing criminal charges. The only
+punishments the Student Judiciary can hand out are expulsion,
+suspension, and community service; all proceedings are kept
+confidential as required by federal law.
+
+According to UGA Student Judiciary policy, a student can choose either
+an administrative hearing, or a student court hearing before three
+specially trained students. In either case, the student is assisted by
+a trained defender (also a student) and has the right to have other
+people present for his defense. The hearing is supervised by UGA's
+staff of Judicial Programs and follow the same rules of evidence and
+procedure as a courtroom trial. If convicted, the student can appeal
+to the Vice President and to the President (which this student has
+done).
+
+Despite protests from a few netters about the sentence the student
+received, it is clear that the student court carefully considered the
+intent and personality of the student when handing down the sentence
+-- a consideration not taken in too many hacker cases. Officials felt
+that two quarters suspension would effectively remove the student from
+the influence of the hackers/phreakers and realign his priorities.
+Community service involving computers was not chosen for the express
+reason of not encouraging hacking to prove ability.
+
+While some netters may disagree with the sentence handed down, they
+should agree that this case was fairly and thoroughly handled by UGA
+officials. Their measured deliberation of all the issues involved
+should be used as an example in this era of hacker hysteria.
+
+EFFector Online will keep you posted as the case progresses...
+Portions of postings by Michael Covington, sysadmin of one of the UGA
+machines involved, are reproduced by permission.
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Tue, 30 Jul 1991 20:21:26 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Jul30.202126.7529@eff.org>
+Subject: Authority of Public Universities
+
+The United States Constitution limits the authority of public
+universities and their employees. These limits are discussed in the
+book "A Practical Guide to Legal Issues Affecting College Teachers" by
+Partrica A. Hollander, D. Parker Young, and Donald D. Gehring.
+(College Administration Publication, 1985).
+
+The books says that the University is no longer considered "In
+Loco Parentis". The relationship is now contractual. Thus, a
+student at a public university has contractual and constitutional
+rights.
+
+=Freedom of Expression=
+
+Students have a First Amendment right to free expression. "The
+institution has a right, on the other hand, to reasonably regulate
+this expression as to time, place, and manner of expression so as to
+prevent disruption of the educationally process or interference with
+the rights of others, and prevent placing persons or property in
+danger."
+
+"Student newspapers at public institutions generally cannot be
+censored prior to publication.  Student editors usually are permitted
+to publish and take the risk of allegations of libel or obscenity.
+The student press at public institutions is subject to restrictions
+only where college official can 'reasonable forecast substantial
+disruption of material interference' with educational activities, or
+that the material is clearly libelous or obscene."
+
+=Freedom Against Unreasonable Searches and Seizures=
+
+"Teachers and administrators at public institutions generally are
+considered to be public officials, so, in most instances, they should
+search only with a warrant. Under emergency conditions, a search
+without a warrant possibly would be permitted."
+
+=Due Process= 
+
+"The Fourteenth Amendment requires due process before a governmental
+entity, such as a public institution, may deprive one of life,
+liberty, or property. In a college setting, a student's good name and
+reputation arm considered a 'liberty' right, and a student's right to
+attend college is considered a 'property' right. Due process would be
+required before a student is deprived of either at a public
+institution."
+
+"Substantive processes requires, essentially, that policies and rules
+must be related to the basic government purpose at hand that basic
+fairness be employed. For instance, college rules should be related to
+educational matters and applied fairly. Procedural due process
+generally refers to the requirement of notice and hearing before being
+deprived of a right. For example, before being expelled for
+misconduct, students should have notice of what they have done wrong
+and a chance to tell their side of the story."
+
+=Rules=
+
+"[T]he degree of specificity required [in codes of conduct] is that
+which would allow a student to adequately prepare a defense against the
+charge. Teachers should make plain the prohibited conduct, the
+procedure for determining whether a student engaged in such conduct,
+and what the penalty is."
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: 31 Jul 91 14:49:39 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-ID: <1991Jul31.144939.23532@eff.org>
+References: <1991Jul30.202126.7529@eff.org>
+Subject: Re: Authority of Public Universities
+
+I wrote:
+
+[...]
+>The books says that the University is no longer considered "In
+>Loco Parentis". The relationship is now contractual. Thus, a
+>student at a public university has contractual and constitutional
+>rights.
+[...]
+
+I have been asked "Can you give some details of the contractual rights
+(of the student) and obligations (of the University)?"
+
+Here is what A Practical Guide to Legal Issues Affecting College
+Teachers says:
+
+"Today, courts recognize that when a student pays tuition for a
+college education, a legal contract comes into being. The student has
+contracted for an education as advertised by the institution in its
+catalog and by its representatives. Some like to think of the student
+as a consumer of education, and an institution as a supplier of a
+product called education. The consumers is entitled to receive what
+was paid for. The old days of in loco parentis have been replaced by
+the law of contracts and the concepts of consumerism. This contractual
+relationship implies a property interest which also triggers
+constitutional guarantees at public institutions."
+...
+
+"Teacher As Agent of Institution
+
+When a teacher is acting within the scope of his or her employment, a
+teacher generally is viewed as the agent of the institution. A
+teacher's acts, then, are considered to be the acts of the
+institution. Thus, a teacher's acts can form the basis for liability
+of the institution. For example, if a teach of history refuses to
+follow the syllabus for a history course and insists on teaching more
+writing skills than history in the course, a dissatisfied student may
+sue the institution as well as the teach for breach of contract of
+enrollment."
+
+"Sources of Legal Rights and Responsibilities at Public and Private Colleges 
+[... Constitutions ... Statutes ... Contracts ...] 
+
+Policies of Governing Boards
+
+Policies of a board of trustees or board of regents usually set forth
+the mission of the college, student admission and graduation policies,
+and personnel policies. The policies become implicit and often
+explicit terms of the teacher's contract or the student's enrollment
+contract.
+
+Handbooks
+
+Student, faculty, staff and other handbooks contains the more detailed rules
+and regulations that implement the basic policies set by the governing
+board. These rules and regulations also become part of the contracts relating 
+to teachers and students.
+
+[... Professional Standards ... Custom and Traditions ... Duty and
+Reasonable Care Under the Circumstances ...]"
+
+...
+
+"Institutional Liability
+
+[...]
+
+Institutions may be solely liable where there is a breach of the
+student contract of enrollment, as where courses advertised in the
+catalog are not offered, or where students are suspended or expelled
+for misconduct without proper due process."
+
+...
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: 31 Jul 91 14:28:34 GMT
+From: jpe@egr.duke.edu (John P. Eisenmenger)
+Message-ID: <1489@cameron.egr.duke.edu>
+References: <1991Jul30.202126.7529@eff.org>
+Subject: Re: Authority of Public Universities
+
+
+> =Freedom of Expression=
+>
+> Students have a First Amendment right to free expression.
+
+I know you spent a while searching out these quotes, and I'm sure we all
+appreciate the effort, but the issue is not whether a student should be
+allowed his/her Constitutional rights.  The question (at least for me) is
+whether a student should be able to use, without permission, university
+resources to voice his/her (sometimes unpopular) opinions (or perform
+any function not related to the purpose for their account).
+
+My machines are there to support the educational process.  A student saving
+megabytes of data, or using 90% of available CPU time for some cause s/he
+supports could interfere with the other students getting their homework
+assignments done.  Our priorities have to lie with the students trying to
+do their classwork.
+
+> "Student newspapers at public institutions generally cannot be
+> censored prior to publication.
+
+One example you have is the student newspaper.  A perfect example for both
+of us in that the student newspaper is run with the permission of the
+university, and more than likely obtains funding from it.  If instead the
+paper editors embezzled resources from the university to run the paper, I'd
+expect the university to do everything in its power to "stop the press."
+
+> =Freedom Against Unreasonable Searches and Seizures=
+> 
+> "Teachers and administrators at public institutions generally are
+> considered to be public officials, so, in most instances, they should
+> search only with a warrant. Under emergency conditions, a search
+> without a warrant possibly would be permitted."
+
+I agree whole-heartedly.  I would never scan a user's files unless something
+came to light against him/her.  However if I find evidence in a public place
+(/tmp, /usr/tmp, via ps, etc.) or if I receive complaints from other users,
+I will consider that as due cause and take a quick look.  It would probably
+be a good idea for me to obtain a warrant from the department chairman and
+serve that warrant.
+
+> =Due Process= 
+> 
+> "The Fourteenth Amendment requires due process before a governmental
+> entity, such as a public institution, may deprive one of life,
+> liberty, or property.
+
+I also agree with this.  This is why colleges have Honor Codes and a court
+where claimed violations can be contested.  Whether on paper or on computer
+the Honor Code is applicable.  A good follow-up question is how many students
+know their Honor Code and what may constitute a violation?
+
+> =Rules=
+> 
+> "[T]he degree of specificity required [in codes of conduct] is that
+> which would allow a student to adequately prepare a defense against the
+> charge. Teachers should make plain the prohibited conduct, the
+> procedure for determining whether a student engaged in such conduct,
+> and what the penalty is."
+
+I also agree with this.  Without concrete guidelines you'd be making the
+rules up as you went along.  It is easier and fairer to have a guide where
+you can approach someone and say "I think you're in violation of this rule."
+
+***
+*** Personal notes (my users will like this):
+***
+
+I am an administrator for 30+ machines and it is not in my interest to become
+a full-time policeman of my machines or my network.  I do monitor this group,
+but usually keep my opinions to myself (avoiding the flame storm :-).  Before
+I get labelled as a computer dictator, I'd like to say that I try to be as
+fair as possible (incidents at my site are very, very low), and that I'm open
+to reasonable suggestions.  I would prefer that suggestions be posted to this
+group instead of being mailed to me.
+
+It would be nice if this group could turn its discussion towards the creation
+of a template for a thorough and fair computing policy.  Any possibility of
+this happening people?  I'd be willing to throw out topics for comments,
+editing, etc., but only if the discussion could be constructive and not
+degenerate into a flame slugfest.
+
+-John P. Eisenmenger
+ Systems' Administrator
+ Dept. of Electrical Engineering
+ Duke University
+
+Date: 31 Jul 91 16:57:03 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-ID: <1991Jul31.165703.25469@eff.org>
+References: <1991Jul30.202126.7529@eff.org> <1489@cameron.egr.duke.edu>
+Subject: Re: Authority of Public Universities
+
+jpe@egr.duke.edu (John P. Eisenmenger) writes:
+
+[...]
+>It would be nice if this group could turn its discussion towards the creation
+>of a template for a thorough and fair computing policy.  Any possibility of
+>this happening people?  I'd be willing to throw out topics for comments,
+>editing, etc., but only if the discussion could be constructive and not
+>degenerate into a flame slugfest.
+
+I think this is a great idea. It might be best, however, to wait
+until September when more people are on campus.
+
+- Carl
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: 2 Aug 91 15:14:04 GMT
+From: edguer@alpha.ces.cwru.EDU (Aydin Edguer)
+Message-ID: <9108021514.AA12751@charlie.CES.CWRU.Edu>
+References: <1491@cameron.egr.duke.edu>
+Subject: Re: Authority of Public Universities
+
+> Hmm.  Mine is meant to be fair, but it reads very harshly in some sections.
+> I think we should probably start out discussing what exactly should be in
+> a computing policy guide.  After we decide on the outline (if we ever do),
+> we can attack the outline topics one-by-one.  I jotted down some ideas
+> earlier (although numbered they aren't in any real order):
+> 
+>      1.	An explanation of why the policy guide exists.
+>      2. Who is allowed to have an account.
+>      3. The rights, responsibilities, and authority of users.
+>      4. The rights, responsibilities, and authority of administrators.
+>      5. How cases of policy violations are dealt with.
+>      6. Specific policies, possibly with examples, minimum and maximum
+> 	punishments, etc.
+
+I would suggest that a good starting point would be the policy issues listed
+in RFC 1244 "Site Security Handbook":
+
+ - There are a number of issues that must be addressed when developing a
+ - security policy.  These are:
+ -
+ -    1.  Who is allowed to use the resources?
+ -    2.  What is the proper use of the resources?
+ -    3.  Who is authorized to grant access and approve usage?
+ -    4.  Who may have system administration privileges?
+ -    5.  What are the user's rights and responsibilities?
+ -    6.  What are the rights and responsibilities of the
+ -        system administrator vs. those of the user?
+ -    7.  What do you do with sensitive information?
+
+They are quite similar to those you have listed (great minds think alike?).
+
+RFC 1244 is a very good document that gives many references to books and papers
+on security, ethics, and the legal system.  It does not try to answer
+questions so much as give people some of the questions they must ask
+themselves and some of the resources they can consult to answer them.
+
+I think this is all that comp-academic-freedom can and should really do.
+All these discussions of exactly what a policy should say are pointless.
+They are nice as examples to work from, and perhaps having a pro- and con-
+critique of each policy would be nice but trying to come up with a universal
+policy is ineffective.
+
+Each institution needs to decide for itself what its policy should be,
+and once decided, it should try to uphold its policy in a fair and impartial
+manner.
+
+Aydin Edguer
+
+Date: 2 Aug 91 18:06:56 GMT
+From: phillips@syrinx.umd.edu (Felan shena Thoron'edras)
+Message-ID: <9223@umd5.umd.edu>
+References: <EcZkc=e00j69M_WSgT@andrew.cmu.edu> <1491@cameron.egr.duke.edu>
+Subject: Re: Authority of Public Universities
+
+In article <1491@cameron.egr.duke.edu> jpe@egr.duke.edu (John P. Eisenmenger) writes:
+>     1.	An explanation of why the policy guide exists.
+>     2. Who is allowed to have an account.
+>     3. The rights, responsibilities, and authority of users.
+>     4. The rights, responsibilities, and authority of administrators.
+>     5. How cases of policy violations are dealt with.
+>     6. Specific policies, possibly with examples, minimum and maximum
+>	punishments, etc.
+
+Suggestion for a 7, or for a subset of 6:
+      7. The reasoning behind each policy described in 6, that is, answering
+	  'why' the policy exists.
+
+This is distinct from 1, as far as I can tell, because 1 describes the
+policy guide itself ("This is so you know what rules we have and what
+happens when you break those rules" is how I interpret 1, with perhaps
+a bit more detail), and my 7 explains each rule.  I've found that 
+explaining WHY helps a lot in getting users to agree willingly to the
+rules (as opposed to trying to find a way around the rules out of spite,
+for instance).
+
+Leanne Phillips
+"Do not meddle with the affairs of wizards, for they are subtle and quick
+to anger."
+Words to live by: "Violence is the refuge of the incompetent."
+	(Yes, I know it isn't right; it's deliberate.)
+
+Date: 3 Aug 91 02:50:16 GMT
+From: otto@fsu1.cc.fsu.edu (John Otto)
+Message-ID: <1991Aug2.203613.8760@mailer.cc.fsu.edu>
+References: <EcZkc=e00j69M_WSgT@andrew.cmu.edu>, <1491@cameron.egr.duke.edu>
+Subject: Re: Authority of Public Universities
+
+In article <1491@cameron.egr.duke.edu>, jpe@egr.duke.edu (John P. Eisenmenger) writes...
+>Hmm.  Mine is meant to be fair, but it reads very harshly in some sections.
+>I think we should probably start out discussing what exactly should be in
+>a computing policy guide.  After we decide on the outline (if we ever do),
+>we can attack the outline topics one-by-one.  I jotted down some ideas
+>earlier (although numbered they aren't in any real order):
+
+>     1. An explanation of why the policy guide exists.
+         a. how the people who developed the policy guide were selected
+         b. how the policy guide can be changed
+>     2. Who is allowed to have an account.
+         a. who owns each account or group of accounts
+         b. feedback on resources used (reports, memos, bills?)
+>     3. The rights, responsibilities, and authority of users.
+>     4. The rights, responsibilities, and authority of administrators.
+>     5. How cases of policy violations are dealt with.
+>     6. Specific policies, possibly with examples, minimum and maximum
+>        punishments, etc.
+
+This is a fair beginning.  I've been giving some thought to the roll of 
+"system administrators".  I must confess that my experience with people 
+holding that exact title is extremely limited (i.e. 1).  Many of the tasks
+and problems mentioned as being those of a sysadmin have been dispersed 
+among many people at most sites at which I've worked.  I've seen operators, 
+system development analysts, financial/accounting people, applications 
+analysts and hot-line analysts separately performing the functions 
+discussed.  At the one site where we moved a secretary to sysadmin, 
+the main jobs were making file backups (a task done mostly automatically 
+or by operators on other systems) and making sure the user validation 
+files were as they should be (a task done variously by finance/accounting, 
+sys dev analysts, applications analysts, operators and even qa/performance 
+analysts at different sites, systems and times).  The reason I bring 
+this up is as it relates to the sysadmin role in policy development, 
+approval, and implementation...jgo
+

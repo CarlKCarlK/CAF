@@ -1,0 +1,1685 @@
+Computers and Academic Freedom (news version)
+April, 1991
+Vol. 1, No. 8
+Editor: Carl M. Kadie (kadie@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org".
+
+[SPECIAL ISSUE: The Best of April
+
+This is a compilation of the best notes from April. It includes the
+original announcement for the CAF archive and copies of general policy
+statements from the American Library Association, the Canadian Library
+Association, and the American Association of University Professors.
+It also includes reports of a victory for freedom of expression at
+Denver University, newsgroup censorship at Purdue and Case Western,
+and one-sided e-mail policy at the University of Illinois.
+
+    - Carl]
+
+In this issue:
+
+       Annoucing the Computers and Academic Freedom (CAF) Archive
+       Jim Sanders censored no more
+       Library Policy
+       kill bush kill quayle (2)
+       Academic Freedom For Students -- the very idea
+       What really happened at CWRU
+       New NCSA e-mail policy inconsistent with Academic Freedom (2)
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Back issues are available via anonymous ftp from eff.org. See file
+academic/README.
+
+Sender: comp-academic-freedom-talk-request@eff.org
+Precedence: bulk
+Return-Path: <kadie>
+Date: Thu, 11 Apr 91 10:54:13 EDT
+Subject: Annoucing the Computers and Academic Freedom (CAF) Archive
+Status: R
+
+
+This is an electronic library of information about computers and
+academic freedom.
+
+It is available via anonymous ftp to eff.org (192.88.144.3) in
+directory "academic". For more information, to make contributions, or
+to report typos (and scanos) contract Carl Kadie (kadie@eff.org).
+
+=================
+caf-talk
+-----------------
+A discription to the comp-academic-freedom-talk mailing list.
+
+=================
+ecpa.1986
+-----------------
+Portions of the Electronic Communications Privacy Act of 1986 (ECPA) related
+to e-mail privacy.
+
+=================
+eff.rights
+-----------------
+An overview of the electronic frontier and the U.S Bill of Rights
+
+=================
+email.privacy.essay
+-----------------
+"Computer Electronic Mail and Privacy", an edited version of a law
+school seminar paper by Ruel T. Hernadex
+
+=================
+jmcabstract
+-----------------
+Professor John 	McCarthy lead the effort to restore "rec.humor.funny"
+at Stanford. In March of 1991, he travelled to the University of
+Waterloo, a place where "rec.humor.funny" was (and still is) banned.
+At Waterloo, he gave one talk on a new computer language and a second
+talk on "Network Publication and Free Expression". This is the
+abstract of that talk. (Also, see "stanford.statements")
+
+
+=================
+k12.networks.survey
+-----------------
+Results of a survey by EDUCOM and IBM on the status of
+computer networking in K12 education.
+
+=================
+library.canada
+-----------------
+Canadian Library Association Statement on Intellectual Freedom
+
+=================
+library.porn
+-----------------
+A parody of a real newpaper article published in the Houston Chronicle. The
+parody is my Carl Kadie. It was published in rec.humor.funny.
+
+=================
+library.us
+-----------------
+The "Freedom to Read Statement" of the American Library Association
+and Association of American Publishers.
+
+=================
+library.us.excerpts
+-----------------
+Excepts from the "Freedom to Read Statement" of the American Library
+Association and Association of American Publishers.
+
+=================
+nsf
+-----------------
+The tentative statement by the National Science Foundation on
+acceptable use of the backbone networks.
+
+=================
+stanford.statements
+-----------------
+"In 1989 rec.humor.funny was suppressed in some of the Stanford
+University computers.  After a campaign it was re-installed in those
+computers." 
+
+This file contains 
+1) the "Statement of Protest about the AIR Censorship of rec.humor.funny" 
+2) a statement by the Stanford faculty committee on libraries
+3) Notes from Professor John McCarthy on how censorship was fought at Stanford
+
+(also see "jmcabstract")
+=================
+student.freedoms
+-----------------
+Joint Statement on Rights and Freedoms of Students -- This is the main
+statement on student academic freedom.
+
+=================
+uiuc.code.excerpts
+-----------------
+Excerpts from the University of Illinois at Urbana-Champaign's Code on
+Campus Affairs and Regulations Applying to All Students (Aug. 1985)
+
+=================
+=================
+Last update
+Tue Apr  9 22:48:42 EDT 1991
+
+Sender: comp-academic-freedom-talk-request@eff.org
+Precedence: bulk
+Return-Path: <kadie@cs.uiuc.edu>
+Date: Fri, 12 Apr 91 11:30:45 -0500
+Subject: FYI: Jim Sanders censored no more
+Status: R
+
+Xref: m.cs.uiuc.edu alt.censorship:752 alt.conspiracy:1303 talk.politics.mideast:7685
+Path: m.cs.uiuc.edu!wuarchive!cs.utexas.edu!uunet!mnemosyne.cs.du.edu!aburt
+Newsgroups: nyx.misc,alt.censorship,alt.conspiracy,talk.politics.mideast
+Subject: Jim Sanders censored no more
+Message-ID: <1991Apr12.140541.8984@mnemosyne.cs.du.edu>
+Date: 12 Apr 91 14:05:41 GMT
+Organization: University of Denver, Dept. of Math & Comp. Sci.
+Lines: 279
+
+
+I feel like I'm about to step from the frying pan into the fire...
+
+Well, here's the verdict -- Jim Sanders will be allowed back on the air again.
+BUT READ THIS ALL BEFORE YOU FLAME...  this is a very difficult matter,
+not a black and white issue; I'll try to convince you this is the "right"
+choice; or at least the lesser of two enormous evils.
+
+People are on both sides of the fence about this, of course, but please
+read through this all before flaming... (and if you can avoid flaming, please
+do!)  We're trying to get this resolved in the way fairest to all concerned,
+"society as a whole" included.
+
+CLEARLY we can't please everyone; and there have been plenty of flames so
+far.  So let's let this lengthy posting be the final one on the matter.
+
+I'll try to go through the history a bit, inject some personal opinions, and 
+tell you DU's opinion, while I explain how decisions were made.
+
+Pertinent Background:
+
+Nyx is a public access system run by DU, specifically the Math/CS dept.,
+wherein I (Andrew Burt) am a professor and system admin for our various
+departmental machines.  Nyx is NOT an official project of the department
+or DU; it's all volunteer run and donation funded.  I run Nyx on my own time;
+DU owns the hardware.  DU does not "support" Nyx in any way other than
+pay the electricity and allow the use of old hardware that would otherwise
+be shut off.  I started Nyx as a personal project, to give Unix/net access
+to the public; consider it a hobby of mine.  DU tolerates it.
+
+Nyx is completely open to the public; it is completely free to users --
+no charges.  Anyone can sign up for an account.  We have a full newsfeed,
+and allow posting to anyone.  All users are asked to read the netiquette
+documents, which are made easily accessible (the whole thing is menu oriented).
+I believe Nyx provides a valuable community service, by making netnews
+accessible to many who would otherwise never know of it.
+
+Jim Sanders is one of the 3000+ people who've tried it.  He has NOTHING
+to do with DU -- not a student, employee, anything.  (And, as it goes, he's
+the only user we've had any kind of "problem" with.)
+
+We have a disclaimer as users log in that reads:
+
+    Disclaimer:  The University of Denver disclaims everything it can
+    relating to Nyx.  DU doesn't support Nyx in any way.  There.  We said it.
+
+DU's policy for its students, staff, etc., forbids doing anything
+"inconsiderate" with a usercode.
+
+Also, DU is a private school, with a nominal Methodist affiliation.  (Though
+I haven't a clue how many Methodists are in high places.  I doubt it's much
+more than a nominal affiliation.  I'm not Methodist at any rate, nor are
+the few people whose affiliations I am aware of.) 
+
+And bear in mind that DU shut down the school paper for several months 
+last year because it ran blatantly offensive, sexually biased "advertisements".
+Well, not ads, but the back page was sort of a free-for-all; folks paid
+to say whatever they wanted, and it wasn't censored.  Some of the remarks
+were patently offensive, and the staff didn't seem to care.  They were also
+in the red financially.  So they just shut it down, fired all the workers;
+it has just recently resumed publishing (mid-March).
+
+What Jim Sanders did:
+
+Jim Sanders began posting pretty inflammatory material, heavily criticizing
+lawyers, oilmen, etc.  Later, the criticisms were leveled at one particular
+ethnic/religious group, namely Jewish people.  His postings were of personal
+opinion mixed with quotes from various published sources.  They often included
+considerable profanity (even after being asked to stop).
+
+Further postings in his name appeared apologizing for the original notes.
+He alleged he did not send them; or sent the wrong file; even though postings
+weeks earlier promised these files would be posted.  He later alleged that
+his account had been violated (I found no local evidence of this, but forging
+e-mail and postings is simple enough without that).  At any rate, he began
+posting from the account of Evan Ravitz, apparently a business associate
+of his.  Since eravitz's account predates jsanders, I presume eravitz
+gave jsanders his password to use.  (I don't see this as an issue, however --
+since jsanders could have signed up under any name at all just like a new
+user would.  I remove obvious phony accounts like 'mmouse', but a qsmith
+or whatever wouldn't get removed.)  Additionally, he posted the same
+files on a regular basis, a basic breach of netiquette.
+
+What other people did:
+
+With his anti-semitic postings, tempers flared wildly.  Many people,
+including people from inside DU, voiced their outrage at his postings
+(lots of adjectives were used... "filth", "trash", "anti-semitic
+drivel", and on and on).  The outrage was both directed at his opinions
+and at the fact that DU/Nyx's-system-admin (me) would allow such postings.
+
+Everyone stated their displeasure with his postings.  Most asked that Jim
+Sanders not only be told that his behavior was not appropriate for the
+net but also that he be stopped, or asked to stop.  I read the net articles
+in response to his, and saw articles saying he shouldn't be allowed to say what
+he said, but none (over the couple days that I watched anyway) saying
+"no, that's censorship, don't do it". The general consensus on the net
+seemed to be that his postings were absolutely ludicrous and a waste of
+net bandwidth, not to mention that he was "breaking" many net "rules" of
+conduct.
+
+Some netlanders even contacted DU administrative officials to complain about
+the situation.  This is when the real problems started.  DU brass are not
+computer people.  They don't understand bulletin boards, let alone the
+Usenet anarchy; they're not sure DU even should be involved with a "BBS"
+type system.
+
+What DU did:
+
+Legally, DU has the right to decide what postings are allowed or not
+allowed from DU property, which Nyx's hardware is.  The initial reaction
+was to apply the same regulations to Nyx-originated postings that apply
+to all other systems -- again, not to allow postings that are construed
+as inconsiderate, into which category racist and profane postings clearly are.
+Indeed, some DU brass had a MAJOR fit about this -- and talked of
+shutting Nyx down (remember, DU has reservations about running Nyx in
+the first place; racist postings "from" DU don't help, and this is how it
+was presented to them by some net folks, or is at least how they understood it;
+they were told "DU students are sending obscene messages").  It would
+certainly silence Jim Sanders to kill Nyx; but it would also be a loss
+to the community.  
+
+Remember, this sounds a lot like the newspaper issue.  People being offensive,
+nobody doing anything about it, etc.  From a school with a religious
+affiliation to "answer to", "uphold", phrase it how you will.
+
+So the basic idea was: if I don't shut Jim Sanders down, Nyx is shut down.
+To prevent Nyx from being shut down, and feeling that (a) he had broken
+net rules, and (b) he had gotten his message out (over and over in fact) -- so
+I wasn't really preventing him from airing his views (I mean, he had done
+so for a while and was only being redundant) -- I chose the lesser evil.
+I asked Jim Sanders not to post, and enforced this restriction at the software
+level.  Since he could easily get back on under another name, I
+monitored outgoing postings to verify he didn't post (he didn't).  I
+didn't intend to censor anything else; and nothing was censored at
+all.  Jim Sanders did not attempt to post once asked not to.
+
+[begin personal opinion:]  I *personally* am totally against
+censorship.  I thought it was pretty ironic to get called a nazi
+fascist pig censor!  I told Jim Sanders many times that I disagreed
+with his opinions vehemently, but I believed in and would defend his
+right to express them.  I did not WANT to censor him, but I didn't want
+Nyx shut down either.  It skates on thin ice as it is.  And he'd made his
+point thoroughly anyway; so while an evil, it looked better to keep
+Nyx -- I mean, Jim Sanders loses the ability to post from Nyx either way.
+
+I firmly believe in freedom of speech; after further discussion here,
+and with the help of overwhelming net protests against censorship,
+I have gotten DU to agree that freedom of speech is more important than
+silencing offensive speech.
+
+DU as a whole in no way supports the views of ANY Nyx users, Jim
+Sanders included.  (Indeed, I have added a "Disclaimer:" header to
+all Nyx postings stating exactly this point.  Too many people seemed to
+assume that DU supported jsander's views simply because it came from a
+DU system.  Silly, but true.)
+
+Rationale for final decision:
+
+I could offer the "easy" way out, and point out that Jim Sanders could
+have been cut off for knowingly breaking net rules.  But that too would
+be censorship, in the same vein as convicting Al Capone on tax evasion
+was convicting him for his other crimes.  Further, it *is* DU's
+system.  DU is a private school, and can decide what constitutes
+inappropriate use of its hardware.  DU has the right to censor
+postings.  Again, this is an easy way out.  If Nyx is truly a public
+system, all the views of the public should be allowed, no matter how
+offensive to groups or incredibly ridiculous readers may find them.  If
+the posting was clearly illegal, that's different (e.g., posting credit
+card numbers).  Nyx will, however, adopt the stance that it is simply a
+carrier, and not responsible for the postings of its users; like the
+phone company isn't responsible for, e.g., drug deals done by phone.
+
+Some folks might say "we pay for our newsfeed, and don't want to waste
+our money on this."  I think the best analogy here is to a newspaper.
+If a newspaper carried a story you found offensive, you wouldn't get a
+refund of 1% because you disliked one of the 100 articles.  You bought
+the whole paper, both good and offensive.  (You could cancel your
+subscription, or not buy it again -- with respect to netnews, you can
+drop your feed or quit reading some groups; or put jsanders in your
+kill file.  The "Just say 'n'." approach.  Or get the net to agree that
+we need alt.jsanders, get him to post only there, then don't carry
+it.)  But say jsanders posts one offensive article a day (to err on the
+high side), that's what, one article out of 20,000; maybe you pay,
+what, $5/day for news (sounds high, would cover the cost of a uunet
+feed) -- then jsanders cost you $.00025.  You undoubtedly lose more
+money than that in work time lost worrying about it.
+
+Some said "this isn't tolerable on a government supported network".  Well,
+the government is MORE likely to support it under the freedom of speech
+amendment than is a private network.  Government support doesn't mean
+the government supports every opinion expressed -- no more than DU or I
+support Nyx users' opinions.
+
+Another tack was "posting is a privilege, not a right".  Agreed, but revoking
+the privilege simply because it contains highly unpopular opinions isn't
+fair.  Perhaps his opinions are "over the line" -- but who's to judge?
+Me, or the whole net?  I never wanted to be the judge; that leaves the net.
+Did he abuse the privilege in other ways?  Profanity?  Well, we all do it,
+it's part of being human; again, the net can judge.  Apologizing then
+not apologizing, etc.?  It still isn't clear who posted what, if any
+forged articles were sent.  I can't hold that against Jim Sanders.
+Posting for different accounts?  Well, he thought his account had been
+hacked into and presumably wanted to prove he hadn't posted the next
+allegedly forged message.  Besides, it's better that he uses his real name
+(I presume it IS his real name, but no matter) than a lot of pseudonyms.
+
+What about the issue of "his postings are WAAAAAY out of line"?  Well,
+that's for you to decide and argue with him about.  YOU decide, not me.
+I won't decide for you.
+
+[Let me suggest this:  If everyone really hates his postings so much,
+let's just NOBODY reply to them.  If he's ignored, he'll likely go away.
+I argued with him once; he ignored my argument, so I quit arguing.  Now
+I personally just ignore his postings.]
+
+Complaints on this matter have really been swamping my mailbox.  First
+it was "shut jsanders up"; then "don't shut jsanders up". I would say,
+though I didn't count, that the anti-censorship letters were 5 to 10 times
+as many as the pro-censorship letters.
+
+Most people who said let him speak made one or more of the following points:
+
+	- they disagreed with him entirely
+	- they felt he had a right to his opinions
+	- they would rather be the judge of his opinions than a censor
+	- censorship was far worse than offensive opinions
+	- he wrote nothing illegal -- no slander, no libel
+	- they felt the net folks as a whole were pretty intelligent,
+	  and nobody would be likely to buy his ideas anyway, or at
+	  least he was unlikely to convert anyone to his ideas
+	- private (legal) censorship whittles away our rights too, just
+	  like government censorship
+	- silencing him only makes him a martyr
+	- silencing him only helps prove his point about group X controlling
+	  the world
+
+Plus:
+
+	- a couple people said they thought his postings were "interesting"
+	- one person even agreed wholeheartedly with him
+	- some said they like to watch the fireworks
+
+All critics of the censorship decision presented good arguments against
+censorship, no matter how offensive the material was.  The critics of
+jsanders in favor of censorship, presented weaker arguments, which I've
+discussed above.
+
+Conclusion:
+
+On balance, the cost of freedom of speech is allowing the speech you
+disagree with.
+
+So to wrap this up, I personally disagree with jsanders writings.  But
+I respect his right to say it.  I want to keep Nyx a place where people
+can express their opinions freely.
+
+If you disagree, fine, I respect that.  But please accept the judgement
+of the net and DU, which is what I consider the outcome to be.  Please don't
+try to subvert it, or Nyx, by, e.g., bitching to DU officials, filling
+up jsanders mbox with megabytes of XXX's or whatever.  (Someone did
+that.  It never got to jsanders because it filled up our disk and I had
+to delete it; royally screwed things up, ticked me off bad.)  Try Nyx
+before you condemn it; and regardless, don't take matters into your own
+hands trying to shut jsanders down, that just hurts the hundreds of
+other regular Nyx users, and makes you guilty of censorship.  If you
+want to argue with him, please do.  Keep it to words, not actions
+though.  Keep it a clean fight.  Remember that a lot of people want him
+to be able to post whatever nonsense he wants to, even though they
+nearly all disagree with him.
+
+Any replies should be mailed to me, as I don't really read these groups.
+
+Again, if you can let it rest now, please do.
+-- 
+Andrew Burt 				   			uunet!isis!aburt
+								or aburt@du.edu
+
+                            "Kwyjibo on the loose!"
+
+>From comp-academic-freedom-talk-request@eff.org Tue Apr 16 14:37:12 1991
+Sender: comp-academic-freedom-talk-request@eff.org
+Precedence: bulk
+Return-Path: <kadie>
+Date: Tue, 16 Apr 91 14:05:03 EDT
+Subject: Library Policy
+
+Dudley Irish <dirish@math.utah.edu> writes:
+  The association that librarians belong to has a policy that addresses
+  this.  Would anyone care to see if they can find a copy of this that
+  is on line?
+
+I'm enclosing a copy of the US and Canadian library policies. (A list
+of similar documents are available via anonymous ftp from eff.org in
+file academic/README)
+
+=====
+[Joint statement by: the American Library Association and Association 
+ of American Publishers. Adopted May 1953]
+
+                           FREEDOM TO READ STATEMENT
+
+
+      The freedom to read is essential to our democracy.  It is continuously
+under attack.  Private groups and public authorities in various parts of the
+country are working to remove books from sale, to censor textbooks, to label
+"controversial" books, to distribute lists of "objectionable" books or authors,
+and to purge libraries.  These actions apparently rise from a view that our
+national tradition of free expression is no longer valid; that censorship and
+suppression are needed to avoid the subversion of politics and the corruption
+of morals.  We, as citizens devoted to the use of books and as librarians and
+publishers responsible for disseminating them, wish to assert the public
+interest in the preservation of the freedom to read.
+
+
+      We are deeply concerned about these attempts at suppression.  Most
+such attempts rest on a denial of the fundamental premise of democracy: that
+the ordinary citizen, by exercising his critical judgment, will accept the
+good and reject the bad.  The censors, public and private, assume that they
+should determine what is good and what is bad for their fellow citizens.
+
+      We trust Americans to recognize propaganda, and to reject it.  We do not
+believe they need the help of censors to assist them in this task.  We do not
+believe they are prepared to sacrifice their heritage of a free press in order
+to be "protected" against what others think may be bad for them.  We believe
+they still favor free enterprise in ideas and expression.
+
+      We are aware, of course, that books are not alone in being subjected to
+efforts at suppression.  We are aware that these efforts are related to a
+larger pattern of pressures being brought against education, the press, films,
+radio and television.  The problem is not only one of actual censorship.  The
+shadow of fear cast by these pressures leads, we suspect, to an even larger
+voluntary curtailment of expression by those who seek to avoid controversy.
+
+      Such pressure toward conformity is perhaps natural to a time of uneasy
+change and pervading fear.  Especially when so many of our apprehensions are
+directed against an ideology, the expression of a dissident idea becomes a
+thing feared in itself, and we tend to move against it as against a hostile
+deed, with suppression.
+
+      And yet suppression is never more dangerous than in such a time of
+social tension.  Freedom has given the United States the elasticity to endure
+strain.  Freedom keeps open the path o novel and creative solutions, and
+enables change to come by choice.  Every silencing of a heresy, every
+enforcement of an orthodoxy, diminishes the toughness and resilience of our society
+and leaves it the less able to deal with stress.
+
+      Now as always in our history, books are among our greatest instruments of
+freedom.  They are almost the only means for making generally available ideas
+or manners of expression that can initially command only a small audience.  They
+are the natural medium for the new idea and the untried voice from which come
+the original contributions to social growth.  They are essential to the extended
+discussion which serious thought requires, and to the accumulation of knowledge
+and ideas into organized collections.
+
+      We believe that free communication is essential to the preservation of a
+free society and a creative culture.  We believe that these pressures towards
+conformity present the danger of limiting the range and variety of inquiry and
+expression on which our democracy and our culture depend.  We believe that every
+American community must jealously guard the freedom to publish and to circulate,
+in order to preserve its own freedom to read.  We believe that publishers and
+librarians have a profound responsibility to give validity to that freedom to
+read by making it possible for the readers to choose freely from a variety of
+offerings.
+
+      The freedom to read is guaranteed by the Constitution.  Those with faith
+in free will stand firm on these constitutional guarantees of essential
+rights and will exercise the responsibilities that accompany these rights.
+
+      We therefore affirm these propositions:
+
+  1.  It is in the public interest for publishers and librarians to make
+available the widest diversity of views and expressions, including those which are
+unorthodox or unpopular with the majority.
+
+      Creative thought is by definition new, and what is new is different.  The
+bearer of every new thought is a rebel until his idea is refined and tested.
+Totalitarian systems attempt to maintain themselves in power by the ruthless
+suppression of any concept which challenges the established orthodoxy.  The power
+of a democratic system to adapt to change is vastly strengthened by the freedom
+of its citizens to choose widely from among conflicting opinions offered freely
+to them.  To stifle every nonconformist idea at birth would mark the end of the
+democratic process  Furthermore, only through the constant activity of weighing
+and selecting can the democratic mind attain the strength demanded by times like
+these.  We need to know not only what we believe but why we believe it.
+
+  2.  Publishers, librarians and booksellers do not need to endorse every idea
+or presentation contained in the books they make available.  It would conflict
+with the public interest for them to establish their own political moral or
+aesthetic views as a standard for determining what books should be published
+or circulated.
+
+      Publishers and librarians serve the educational process by helping to
+make available knowledge and ideas required for the growth of the mind and the
+increase of learning.  They do not foster education by imposing as mentors the
+patterns of their own thought.  The people should have the freedom to read and
+consider a broader range of ideas than those that may be held by any single
+librarian or publisher or government or church.  It is wrong that what one man can
+read should be confined to what another thinks proper.
+
+  3.  It is contrary to the public interest for publishers or librarians to
+determine the acceptability of a book on the basis of the personal history or
+political affiliations of the author.
+
+      A book should be judged as a book. No art or literature can flourish if
+it is to be measured by the political views or private lives of its creators.
+No society of free men can flourish which draws up lists of writers to whom it
+will not listen, whatever they may have to say.
+
+  4.  There is no place in our society for efforts to coerce the taste of others,
+to confine adults to the reading matter deemed suitable for adolescents, or to
+inhibit the efforts of writers to achieve artistic expression.
+
+      To some, much of modern literature is shocking.  But is not much of life
+itself shocking?  We cut off literature at the source if we prevent writers from
+dealing with the stuff of life.  Parents and teachers have a responsibility to
+prepare the young to meet the diversity of experiences in life to which they will
+be exposed, as they have a responsibility to help them learn to think critically
+for themselves.  These are affirmative responsibilities, not to be discharged
+simply by preventing them from reading works for which they are not yet
+prepared.  In these matters taste differs, and taste cannot be legislated; nor can
+machinery be devised which will suit the demands of one group without limiting
+the freedom of others.
+
+  5.  It is not in the public interest to force a reader to accept with any
+book the prejudgment of a label characterizing the book or author as subversive
+or dangerous.
+
+      The ideal of labeling presupposes the existence of individuals or groups
+with wisdom to determine by authority what is good or bad for the citizen.  It
+presupposes that each individual must be directed in making up his mind about
+the ideas he examines.  But Americans do not need others to do their thinking
+for them.
+
+  6.  It is the responsibility of publishers and librarians, as guardians of
+the people's freedom to read, to contest encroachments upon that freedom by
+individuals or groups seeking to impose their on standards or tastes upon the
+community at large.
+
+      It is inevitable in the give and take of the democratic process that the
+political, the moral, or the aesthetic concepts of an individual or group will
+occasionally collide with those of another individual or group.  In a free
+society each individual is free to determine for himself what he wishes to read,
+and each group is free to determine what it will recommend to its freely
+associated members.  But no group has the right to take the law into its own hands,
+and to impose its own concept of politics or morality upon other members of a
+democratic society.  Freedom is no freedom if it is accorded only to the
+accepted and the inoffensive.
+
+  7.  It is the responsibility of publishers and librarians to give full
+meaning to the freedom to read by providing books that enrich the quality and diversity
+of thought and expression.  By the exercise of this affirmative responsibility
+bookmen can demonstrate that the answer to a bad book is a good one, the
+answer to a bad idea is a good one.
+
+      The freedom to read is of little consequence when expended on the trivial;
+it is frustrated when the reader cannot obtain matter fit for his purpose.  What
+is needed is not only the absence of restraint, but the positive provision of
+opportunity for the people to read the best that has been thought and said.
+Books are the major channel by which the intellectual inheritance is handed down,
+and the principal means of its testing and growth.  The defense of their freedom
+and integrity, and the enlargement of their service to society, requires of all
+bookmen the utmost of their faculties, and deserves of all citizens the fullest
+of their support.
+
+
+
+
+      We state these propositions neither lightly nor as easy generalizations.
+We here stake out a lofty claim for the value of books.  We do so because we
+believe that they are good, possessed of enormous variety and usefulness, worthy
+of cherishing and keeping free.  We realize that the application of these
+propositions may mean the dissemination of ideas and manners of expression that
+are repugnant to many persons.  We do not state these propositions in the
+comfortable belief that what people read is unimportant.  We believe rather that
+what people read is deeply important; that ideas can be dangerous; but that the
+suppression of ideas is fatal to a democratic society.  Freedom itself is a
+dangerous way of life, but it is ours.
+
+
+                                     Joint statement by:
+
+                                     American Library Association
+                                     Association of American Publishers
+
+                                     Adopted May, 1953.
+
+------------------
+
+                        Library Bill of Rights
+
+The American Library Association affirms that all libraries are forums for
+information and ideas, and that the following basic policies should guide
+their services.
+
+    1. Books and other library resources should be provided for the interest,
+information, and enlightenment of all people of the community the library
+serves. Materials should not be excluded because of the origin, background,
+or views of those contributing to their creation.
+
+    2. Libraries should provide materials and information presenting all
+points of view on current and historical issues. Materials should not be
+proscribed or removed because of partisan or doctrinal disapproval.
+
+    3. Libraries should challenge censorship in the fulfillment of their
+responsibility to provide information and enlightenment.
+
+
+    4. Libraries should cooperate with all persons and groups concerned
+with resisting abridgment of free expression and free access to ideas.
+
+    5. A person's right to use a library should not be denied or abridged
+because of origin, age, background, or views.
+
+    6. Libraries which make exhibit spaces and meeting rooms available to
+the public they serve should make such facilities available on an equitable
+basis, regardless of the beliefs or affiliations of individuals or groups
+requesting their use.
+
+
+ 
+                       Adopted June 18, 1948.
+      Amended February 2, 1961, June 27, 1967, and January 23, 1980,
+                         by the ALA Council.
+
+>From comp-academic-freedom-talk-request@eff.org Wed Apr 17 14:04:26 1991
+Sender: comp-academic-freedom-talk-request@eff.org
+Precedence: bulk
+Return-Path: <@CUNYVM.CUNY.EDU:STANKULI@UWF.BITNET>
+Date:         Wed, 17 Apr 91 11:07:23 CST
+Subject:      kill bush kill quayle
+Status: R
+
+
+  i just started reading this group, but i assume a case study concerning
+electronic freedom is in order?
+
+  a couple years ago i was on the faculty at purdue, doing some research which
+involved extensive use of the computer services.  they had a censor who
+screened all outgoing usenet news feeds and abruptly pulled anything off the
+nets that he did not like.  i had several submissions pulled because of some
+tedious local constraints on form and content.  the last one he yanked because
+he thought i had posted it to the wrong group...  he felt the content belonged
+on comp.legal or some such, rather than the group that i read everyday.
+
+  well, i was friends with an engineering graduate student.  he could be
+described as ultraliberal and a touch paraniod.  he was a curious mix-- active
+member of a palestinian rights group, homophobic, and a naval reserve officer.
+he had an account in one of the engineering systems with a GUI interface.  he
+said he felt that the system operators were always monitoring his accounts
+which he felt was an invasion of his personal security.  anyway, way down in
+his heirarchical file structure he created an empty folder entitled 'KILL BUSH
+KILL QUAYLE'. just an empty folder, nothing in it.  shortly after he had done
+this, he told me he had to see if they were watching him.
+
+  well, a couple weeks later, he came home one day to find the secret service
+ransacking his apartment.  to be honest, his apartment was one of the messiest
+i have ever seen, so it did not look much different afterward.  the ss guys
+asked him a lot of questions, especially one of them asked if he was writing
+any computer games.  they took some notes and left.  then the FBI started
+phoning him, requesting appointments which he refused.   the local lafayette
+police department started showing up on his doorstep to let him know they were
+watching.
+
+  i do not know if his account ever got frozen or pulled, but i know he was
+getting warnings from the system people on the amount of proprietary macintosh
+software he was storing there-- about 18 meg as i recall.  some of it was due
+to CAD software he was betatesting.
+
+  i don't know what generalizations should come from this experience.  the
+system people were obviously monitoring his file structures.  whether this is a
+routine process, like system backup, or something special tagged to certain
+users-- i do not know.  when i left purdue, i was glad to get out from under
+the noticeable censorship of news group postings.  i'd bet this message would
+have been yanked if i had sent it from there.  i met some system people there
+who were genuinely helpful, but there were others who were pretty heavy-handed
+in their sense of user control.
+
+  okay, that is your case study.  where lies the right and wrong?
+                                                                 stan
+
+   .                      stankuli@UWF.bitnet
+  ===
+  | |      close your eyes, my darling, or three of them at least
+  ---                                           -- old venusian lullaby
+
+>From comp-academic-freedom-talk-request@eff.org Wed Apr 17 14:18:48 1991
+Sender: comp-academic-freedom-talk-request@eff.org
+Precedence: bulk
+Return-Path: <rsk@juniper.circ.upenn.edu>
+Posted-Date: Wed, 17 Apr 91 13:40:41 EDT
+Subject: Re: kill bush kill quayle
+Date: Wed, 17 Apr 91 13:40:41 EDT
+Organization: Cardiothoracic Imaging Research Center, Hospital of UPenn
+X-Queued-Mail: 585messages
+X-Mailer: ELM [version 2.3 PL11]
+Status: R
+
+>  a couple years ago i was on the faculty at purdue, doing some research which
+>involved extensive use of the computer services.  they had a censor who
+>screened all outgoing usenet news feeds and abruptly pulled anything off the
+>nets that he did not like.  i had several submissions pulled because of some
+>tedious local constraints on form and content.  the last one he yanked because
+>he thought i had posted it to the wrong group...  he felt the content belonged
+>on comp.legal or some such, rather than the group that i read everyday.
+
+Well, this should be interesting.  :-)
+
+I was the person who was the news administrator described above, but
+I have a different view of the situation.
+
+First off, I never removed an article because I "did not like" it.  If I
+had done so, I would have been far too busy to any real work.
+
+I did, however, for a time, monitor all outbound articles from our site,
+and pulled those which grossly failed to conform to the guidelines for
+news usage posted to news.announce.newusers.  Those guidelines were
+(1) reposted locally (2) available in a directory on every machine that
+handled news (3) referred to in the user's guide for the site (4) summarized
+in a "local" style guide that augmented them with a few "local usage"
+conventions and (5) referred to by the "Pnews" program, used by most users
+to post news.  In other words, those guidelines were widely publicized,
+as was what would happen if they weren't followed.
+
+Why was this done?  It was done because the site in question had
+thousands of users, many of whom posted news, and some of those
+folks posted articles to highly inappropriate groups (based on the
+group charters in the article "List of Active Newsgroups", which is
+posted monthly), or they overquoted previous articles, or did other
+things which are considered antisocial on Usenet.  This in turn resulted
+in a great deal of mail being sent to the news administrator (me)
+complaining about these problems.  So, after about a year and a half
+of trying to simply educate people w/o taking any action,
+I started keeping an eye on what went out in order to try and reduce
+the number of complaints that I had to deal with.
+
+I'll point out here that this represents a context-based restriction,
+not a content-based restriction.  Simply put, I couldn't care less what
+anyone had to say, as long as they said it in the right place (Usenet
+newsgroup).
+
+Secondly, any article which was removed from the outbound queue was returned
+to the author with an explanation of why it was deleted, and usually
+(if I had time) suggestions on what needed to be done to it in order
+to make it acceptable to the rest of Usenet, and a pointer to the
+"netiquette" rules, so that they could acquaint themselves with them.
+
+Now, if it had been my intention to "censor" folks, I certainly wouldn't
+have told them what I was doing.  I would have simply caused the article
+to vanish at all sites *except* the one we were at, and the user would
+probably have never noticed what happened.  I probably would not have
+let articles that were critical of me or my site get through, either.
+
+Thirdly, there came a time when the use of Usenet news
+at the site came under critical scrutiny by some highly-placed folks
+at Purdue.  If it had been my intention to silence anyone (everyone),
+I certainly wouldn't have defended it as vocally as I did.  It would
+have been far easier to remain silent, or to take the side of those
+who wished to remove all or part of Usenet news.
+
+---Rsk
+
+>From comp-academic-freedom-talk-request@eff.org Wed Apr 17 18:12:56 1991
+Sender: comp-academic-freedom-talk-request@eff.org
+Precedence: bulk
+Return-Path: <kadie>
+Date: Wed, 17 Apr 91 17:22:13 EDT
+Subject: Academic Freedom For Students -- the very idea
+Status: R
+
+
+The AAUP, the largest supporter of academic freedom for faculty, also
+recognizes academic freedom from students. These rights go beyond
+constitutional rights (but do not as far as faculty rights).  For your
+reading pleasure, here is the AAUP statement.
+
+[From AAUP Policy Documents and Reports, 1977 Edition]
+
+                        Joint Statement on Rights and Freedoms
+                                      of Students
+
+
+  In June, 1967, a joint committee, comprised of representatives from
+the American Association of University Professors, U. S. National
+Student Association, Association of American College, National
+Association of Student Personnel Administrators, and National
+Association of Woman Deans and Counselors, met in Washington, D.C.,
+and drafted the Joint Statement on Rights and Freedoms of Students
+published below.
+
+  Since its formulation, the Joint Statement has been endorsed by each
+of its five national sponsors, as well as by a number of other
+professional bodies. The Association's Council approved the Statement
+in October, 1967, and the Fifty-fourth Annual Meeting endorsed it as
+Association policy.
+
+
+                             Preamble
+
+  Academic institutions exist for the transmission of knowledge, the
+pursuit of truth, the development of students, and the general
+well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals its members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth. Institutional procedures for achieving
+these purposes may vary from campus to campus, but the minimal
+standards of academic freedom of students outlined below are essential
+to any community of scholars.
+
+  Freedom to teach and freedom to learn are inseparable facets of
+academic freedom. The freedom to learn depends upon appropriate
+opportunities and conditions in the classroom, on the campus, and in
+the larger community Students should exercise their freedom with
+responsibility.
+
+  The responsibility to secure and o respect general conditions
+conducive to the freedom to learn is shared by all members of the
+academic community. Each college and university has a duty to develop
+policies and procedures which provide and safeguard this freedom. Such
+policies a procedures should be developed at each institution within
+the framework of general standards and with the broadest possible
+participation of the members of the academic community. The purpose of
+this statement is to enumerate the essential provisions for student
+freedom to learn.
+
+     1. Freedom of Access to Higher Education
+
+  The admissions policies of each college and university are a matter
+of institutional choice provided that each college and university
+makes clear the characteristics and expectations of students which it
+considers relevant to success in the institution's program. While
+church-related institutions may give admission preference to students
+of their own persuasion, such a preference should be clearly and
+publicly stated. Under no circumstances should a student be barred
+>from admission of a particular institution on the basis of race. Thus,
+within the limits of its facilities, each college and university
+should be open to all students who are qualified according to is
+admission standards. The facilities and services of a college should
+be open to all of its enrolled students, and institutions should use
+their influence to secure equal access for all students to public
+facilities in the local community.
+
+
+               II. In the Classroom
+
+  The professor in the classroom and in conference should encourage
+free discussion, inquiry, and expression Student performance should be
+evaluated solely on an academic basis, not on opinions or conduct in
+matters unrelated to academic standards.
+
+A. Protection of Freedom of Expression
+
+  Students should be free to take reasoned exception to the data or
+views offered in any course of study and to reserve judgment about
+matters of opinion, but they are responsible for learning the content
+of any course of study for which they are enrolled.
+
+B. Protection against Improper Academic Evaluation
+
+  Students should have protection through orderly procedures against
+prejudiced or capricious academic evaluation. At the same time, they
+are responsible for maintaining standards of academic performance
+established for each course in which they are enrolled.
+
+C. Protection against Improper Disclosure
+
+  Information about student views, beliefs, and political associations
+which professors acquire in the course of their work as instructors,
+advisers, and counselors should be considered confidential. Protection
+against improper disclosure is a serious professional obligation.
+Judgments of ability and character may be provided under appropriate
+circumstances, normally with the knowledge or consent of the student.
+
+
+                III. Student Records
+
+  Institutions should have a carefully considered policy as to the
+information which should be part of a student's permanent educational
+record and as to the conditions of its disclosure. To minimize the
+risk of improper disclosure, academic and disciplinary record should
+be separate, and the conditions of access to each should be set forth
+in an explicit policy statement. Transcripts of academic records
+should contain only information about academic status. Information
+>from disciplinary or counseling files should not be available to
+unauthorized persons on campus, or to any person off campus without
+the express consent of the student involved except under legal
+compulsion or in cases where the safety of persons or property is
+involved. No records should be kept which reflect the political
+activities or beliefs of students. Provisions should also be made for
+periodic routine destruction of nonconcurrent disciplinary records.
+Administrative staff and faculty members should respect confidential
+information about students which they acquire in the course of their
+work.
+
+
+                IV. Student Affairs
+
+  In student affairs, certain standards must be maintained if the
+freedom of students is to be preserved.
+
+A. Freedom of Association
+
+  Students bring to the campus a variety of interests previously
+acquired and develop many new interests as members of the academic
+community. They should be free to organize and join associations to
+promote their common interests.
+
+  1. The membership, policies, and actions of a student organization
+usually will be determined by vote of only those persons who hold bona
+fide membership in the college or university community.
+
+  2. Affiliation with an extramural organization should not of itself
+disqualify a student organization from institutional recognition.
+
+  3. If campus advisers are required, each organization should be free
+to choose its own adviser, and institutional recognition should not be
+withheld or withdrawn solely because of the inability of a student
+organization to secure an advisor. Campus advisers may advise
+organizations in the exercise of responsibility, but they should not
+have the authority to control the policy of such organizations.
+
+  4. Student organizations may be required to submit a statement of
+purpose, criteria for membership, rules of procedures, and a current
+list of officers. They should not be required to submit a membership
+list as a condition of institutional recognition.
+
+  5. Campus organizations, including those affiliated with an
+extramural organization, should be open to all students without
+respect to race, creed, or national origin, except for religious
+qualifications which may be required by organizations whose aims are
+primarily sectarian.
+
+B. Freedom of Inquiry and Expression
+
+  1. Students and student organizations should be free to examine and
+discuss all questions of interest to them, and to express opinions
+publicly and privately. They should always be free to support causes
+by orderly means which do not disrupt the regular and essential
+operation of the institution. At the same time, it should be made
+clear to the academic and the larger community that in their public
+expressions or demonstrations students or student organizations speak
+only for themselves.
+
+  2. Students should be allowed to invite and to hear any person of
+their own choosing. Those routine procedures required by an
+institution before a guest speaker is invited to appear on campus
+should be designed only to insure that there is orderly scheduling of
+facilities and adequate preparation for the event, and that the
+occasion is conducted in a manner appropriate to an academic
+community. The institutional control of campus facilities should not
+be used as a device of censorship. It should be made clear to the
+academic and larger community that sponsorship of guest speakers does
+not necessarily imply approval or endorsement of the views expressed,
+either by the sponsoring group or the institution.
+
+C. Student Participation in Institutional Government
+
+      As constituents of the academic community, students should be
+free, individually and collectively, to express their views on issues
+of institutional policy and on matters of general interest to the
+student body. The student body should have clearly defined means to
+participate in the formulation and application of institutional policy
+affecting academic and student affairs. The role of the student
+government and both its general and specific responsibilities should
+be made explicit. and the actions of the student government within the
+areas of its jurisdiction should be reviewed only through orderly and
+prescribed procedures.
+
+D. Student Publications
+
+  Student publications and the student press are a valuable aid in
+establishing and maintaining an atmosphere of free and responsible
+discussion and of intellectual exploration on the campus. They are a
+means of bringing student concerns to the attention of the faculty and
+the institutional authorities and of formulating student opinion on
+various issues on the campus and in the world at large.
+
+  Whenever possible the student newspaper should be an
+independent corporation financially and legally separate
+>from the university. Where financial and legal autonomy
+is not possible, the institution, as the publisher of student
+publications, may have to bear the legal responsibility for
+The contents of the publications. In the delegation of
+editorial responsibility to students, the institution must
+provide sufficient editorial freedom and financial autonomy
+for the student publications to maintain their integrity of
+purpose as vehicles for free inquiry and free expression
+in an academic community.
+
+  Institutional authorities, in consultation with students and
+faculty, have a responsibility to provide written clarification of the
+role of the student publications, the standards to be used in their
+evaluation, and the limitations on external control of their
+operation. At the same time, the editorial freedom of student editors
+and managers entails corollary responsibilities to be governed by the
+canons of responsible journalism, such as the avoidance of libel,
+indecency, undocumented allegations, attacks on personal integrity,
+and the techniques of harassment and innuendo. As safeguards for the
+editorial freedom of student publications the following provisions are
+necessary.
+
+  1. The student press should be free of censorship and advance
+approval of copy, and its editors and managers should be free to
+develop their own editorial policies and news coverage.
+
+  2. Editors and managers of student publications should be protected
+>from arbitrary suspension and removal because of student, faculty,
+administrative, or public disapproval of editorial policy or content.
+Only for proper and stated causes should editors and managers be
+subject to removal and then by orderly and prescribed procedures. The
+agency responsible for the appointment of editors and managers should
+be the agency responsible for their removal.
+
+  3. All university published and financed student publications should
+explicitly state on the editorial page that the opinions there
+expressed are not necessarily those of the college, university, or
+student body.
+
+          V. Off-Campus Freedom of Students
+
+A. Exercise of Rights of Citizenship
+
+  College and university students are both citizens and members of the
+academic community. As citizens, students should enjoy the same
+freedom of speech, peaceful assembly, and right of petition that other
+citizens enjoy and, as members of the academic community, they are
+subject to the obligations which accrue to them by virtue of this
+membership. Faculty members and administrative officials should insure
+that institutional powers are not employed to inhibit such
+intellectual and personal development of students as is often promoted
+by their exercise of the rights of citizenship both on and off campus.
+
+B. Institutional Authority and Civil Penalties
+
+
+  Activities of students may upon occasion result in violation of law.
+In such cases, institutional officials should be prepared to apprise
+students of sources of legal counsel and may offer other assistance.
+Students who violate the law may incur penalties prescribed by civil
+authorities, but institutional authority should never be used merely
+to duplicate the function of general laws. Only where the institutions
+interests as an academic community are distinct and clearly involved
+should the special authority of the institution be asserted. The
+student who incidentally violates institutional regulations in the
+course of his off-campus activity, such as those relating to class
+attendance, should be subject to no greater penalty than would
+normally be imposed. Institutional action should be independent of
+community pressure.
+
+
+
+      VI. Procedural Standards in Disciplinary
+                     Proceedings
+
+  In developing responsible student conduct, disciplinary
+proceedings play a role substantially secondary to
+example, counseling, guidance, and admonition. At the same
+time, educational institutions have a duty and the
+corollary disciplinary powers to protect their educational
+purpose through the setting of standards of scholarship and
+conduct for the students who attend them and through
+the regulation of the use of institutional facilities. In the
+exceptional circumstances when the preferred means fail
+to resolve problems of student conduct, proper procedural
+safeguards should be observed to protect the student from
+the unfair imposition of serious penalties.
+
+  The administration of discipline should guarantee procedural
+fairness to an accused student. Practices in disciplinary cases may
+vary in formality with the gravity of the offense and the sanctions
+which may be applied. They should also take into account the presence
+or absence of an honor code, and the degree to which the institutional
+officials have direct acquaintance with student life in general and
+with the involved student and the circumstances of the case in
+particular. The jurisdictions of faculty or student judicial bodies,
+the disciplinary
+responsibilities of institutional officials and the regular
+disciplinary procedures, including the student's right to
+appeal a decision, should be clearly formulated and
+communicated in advance. Minor penalties may be assessed
+informally under prescribed procedures.
+
+  In all situations, procedural fair play requires that the student be
+informed of the nature of the charges against him, that he be given a
+fair opportunity to refute them, that the institution not be arbitrary
+in its actions, and that there be provision for appeal of a decision.
+The following are recommended as proper safeguards in such proceedings
+when there are no honor codes offering comparable guarantees.
+
+A. Standards of Conduct Expected of Students
+
+
+  The institution has an obligation to clarify those standards of
+behavior which it considers essential to its educational mission and
+its community life. These general behavioral expectations and the
+resultant specific regulations should represent a reasonable
+regulation of student conduct, but the student should be as free as
+possible from imposed limitations that have no direct relevance to his
+education. Offenses should be as clearly defined as possible and
+interpreted in a manner consistent with the aforementioned principles
+of relevance and reasonableness. Disciplinary proceedings should be
+instituted only for violations of standards of conduct formulated with
+significant student participation and published in advance through
+such means as a student handbook or a generally available body of
+institutional regulations.
+
+B. Investigation of Student Conduct
+
+
+  1. Except under extreme emergency circumstances, premises occupied
+by students and the personal possessions of students should not be
+searched unless appropriate authorization has been obtained. For
+premises such as residence halls controlled by the institution, an
+appropriate and responsible authority should be designated to whom
+application should be made before a search is conducted. The
+application should specify the reasons for he search and the objects
+or information sought. The student should be present, if possible,
+during the search. For premises not controlled by the institution,
+the ordinary requirements for lawful search should be followed.
+
+  2. Students detected or arrested in the course of serious violations
+of institutional regulations, or infractions of ordinary law, should
+be informed of their rights. No form of harassment should be used by
+institutional representatives to coerce admissions of guilt or
+information about conduct of other suspected persons.
+
+
+C. Status of Student Pending Final Action
+
+  Pending action on the charges, the status of a student
+should not be altered, or his right to be present on the
+campus and to attend classes suspended, except for
+reasons relating to his physical or emotional safety and
+wellbeing, or for reasons relating to the safety and well-being
+of students, faculty, or university property.
+
+D. Hearing Committee Procedures
+
+
+  When the misconduct may result in serious penalties and if the
+student questions the fairness of disciplinary action taken against
+him, he should be granted, on request, the privilege of a hearing
+before a regularly constituted hearing committee. The following
+suggested hearing committee procedures satisfy the requirements of
+procedural due process in situations requiring a high degree of
+formality.
+
+  1. The hearing committee should include faculty members or students,
+or, if regularly included or requested by the accused, both faculty
+and student members. No member of the hearing committee who is
+otherwise interested in the particular case should sit in judgment
+during the proceeding.
+
+  2. The student should be informed, in writing of the reasons for the
+proposed disciplinary action with sufficient particularity, and in
+sufficient time, to insure opportunity to prepare for the hearing.
+
+  3. The student appearing before the hearing committee should have the
+right to be assisted in his defense by an adviser of his choice.
+
+  4. The burden of proof should rest upon the officials bringing the
+charge.
+
+  5. The student should be given an opportunity to testify and to
+present evidence and witnesses. He should have an opportunity to hear
+and question adverse witnesses. In no case should the committee
+consider statements against him unless he has been advised of their
+content and of the names of those who made them, and unless he has
+been given an opportunity to rebut unfavorable inferences which might
+otherwise be drawn.
+
+  6. All matters upon which the decision may be based must be
+introduced into evidence at the proceeding before the hearing
+committee. The decision should be based solely upon such matters.
+Improperly acquired evidence should not be admitted.
+
+  7. In the absence of a transcript, there should be both a digest and
+a verbatim record, such as a tape recording, of the hearing.
+
+  8. The decision of the hearing committee should be final, subject
+only to the student's right of appeal to the president or ultimately
+to the governing board of the institution.
+
+>From comp-academic-freedom-talk-request@eff.org Wed Apr 17 21:34:15 1991
+Sender: comp-academic-freedom-talk-request@eff.org
+Precedence: bulk
+Return-Path: <junger@cwru.cwru.edu>
+Date: 17 Apr 91 20:43:00 EST
+Subject: What really happened at CWRU
+Cc: junger@cwru.cwru.edu
+Status: R
+
+        Dan Brown <brown@usenet.INS.CWRU.Edu> has raised--in a rather
+misleading way--a case involving the censorship by the local network
+administrators of the work product of a law student here at Case Western
+Reserve University.
+
+        One of the most misleading features of Dan Brown's message is,
+of course, the explicit assumption that research has to be "sanctioned"
+before it fits into the "academic freedom category."  Since all
+education begins with self-education--and too often ends there--it seems
+clear to me that all members of the academic community, whether
+students or faculty or those holding research appointments, are entitled
+at the minimum to study whatever they deem to be relevant to their
+interests--and to publish the results of such studies--without being
+subject to censorship and harassement by employees of the university (or
+other academic institution) who are neither students nor the holders of
+academic appointments.  It is the individual scholars who must select
+their area of research, not the department of buildings and grounds nor
+the managers of the local network.
+
+        I do not believe that anyone within the academic community would
+seriously question those conclusions in a case that did not involve
+computers.  When computers are involved, however, the fact that most
+faculty members--quite understandably--neither understand nor use such
+devices, leaves the typical user (who almost always will be a student)
+at the mercy of those who are supposed to support the use of this new
+technology.  Certainly that is the case at Case Western Reserve
+University, where all the undergraduate dorms are connected by optical
+cables to the Internet, but no faculty offices--except oddly enouugh
+those in the law school--have yet been so connected.
+
+        I am thus horrified at, but not surprised by, the position taken
+by Dudley Irish--dirish@math.utah.edu, Manager Computer Operations
+Center for Scientific Computing, Department of Mathematics, University
+of Utah--to the effect that "the student had no right to use the
+university's equipment to publish his `research', that his academic
+freedoms had not been violated, and that the Student Behavior Committee
+should consider expelling him."
+
+        I fear that someone with Dudley Irish's obvious dislike of
+students would come to such a nasty conclusion even if he knew the facts
+of the case.  On the other hand, those who are concerned with academic
+freedom may find what actually happened quite instructive, if rather
+discouraging.
+
+        Although Case Western Reserve University has installed a
+high-speed optical fiber network for use by the students (and will be
+making it available to the faculty in the future) and has supplied
+telnet and ftp programs, there is very little use that can be made of
+that system, other than conducting non-Boolean searches in the library
+catalog and reading and posting messages to the news lists maintained on
+a public bulletin board called Freenet.
+
+        On that bulletin board there is a local news list called
+CWRU.INS.GENERAL (INS stands for Information Network Services).  One of
+our law students--a student whose major, as Dan Brown correctly says,
+law students not having majors, "is incidentally not computer
+related,"--this law student, who was not taking the course in computers
+and the law only because I did not offer it this year, repeatedly posted
+messages on this local news list asking INS for information about the
+way that the TCP/IP programs and the packet drivers worked, and how they
+were configured, etc.  As those who are aware of the ways of systems
+administrators might suspect, no information was forthcoming.  The
+student then wrote a simple "chat" program in 8086 assembly language
+that demonstrating how one can cause the packet drivers supplied by INS
+to send and receive messages, and he posted the source code--but not the
+executable program--on CWRU.INS.
+
+        Shortly thereafter the following message appeared on CWRU.INS
+over the name of one of the system managers:
+
+   We have removed a posting by "cjs" of a program that allows one to
+   send raw Ethernet packets.  We suggest that users NOT attempt to use
+   this or any similar program to send raw packets on the network.  We
+   remind users that any disruption of the network through the use of
+   such programs, intentional or not, is considered a violation of the
+   University's ethics policy. Anyone found violating that policy will
+   be brought up on charges to the appropriate University office.  Such
+   activity will result in disciplinary action up to and including
+   dismissal from the institution.
+
+Though there is, of course, no ethics policy forbidding "any disruption
+of the network through the use of such programs, intentional or not," no
+one is arguing that INS lacks the authority to forbid the use--as
+opposed to the posting of the source code--of a program on the networks
+that they administer.  On the other hand, it is debatable--and it was
+extensively debated--whether the program itself (as opposed to the
+source code) "could potentialy be used disruptably" as Dan Brown claims.
+(Some claimed that it could, but the responsible people at INS never
+really made such a claim.)  The important fact is that the more serious
+claim that the program somehow "comprimised network security" is true
+only if one believes that network security is secured only by making
+_public information_ about the system unavailable to its users.
+
+        The actual reason for the removal of the program is made clear
+in a message from the systems manager responsible for the censorship to
+the student who wrote the program.  This explanation was later posted on
+CWRU.INS, so Dan Brown can hardly claim that he did not know the facts.
+Here's that explanation, which starts with a quotation from a request
+made by the student:
+
+    >I'd like to post a copy of my chat program so people can see what
+    >we are all talking about.
+    >
+    >Is this OK?
+    >
+    >cjs
+    >
+    >p.s. you're invited to follow it with a post explaining which
+    >sections you feel are bad programming (I'll of course respond
+    >explaining why you're >not correct :->); this will help students
+    >begin to understand how to program the network and what INS
+    >considers good programming practice.
+    
+    No. It is not ok. Here is the reason why it is not ok.
+    
+    The reason we do not want your program posted is that we feel it creates a
+    potential threat to the operation and administration of the network.  As
+    you have stated, local area networks have many failings with respect to
+    security.  Their security partly depends on the obscurity of certain
+    aspects of their design and implementation.  Your program essentially
+    provides everyone with the tools by which they can create significant
+    problems for us to effectively manage the network.  Showing people how to
+    remove or change the source address on the Ethernet packet is the largest
+    threat.  While we would still be able to track down the source, the job
+    would be significantly more difficult involving significantly more human
+    and equipment resources than would otherwise be necessary.  Another threat
+    is the fact that naive users may modify this program in ways that would
+    adversely affect operation of the network without being aware of it, again
+    requiring human and equipment resources to track the problem down.  While
+    you provide the tools that allow them to interact with the network at its
+    lowest layers, you do not provide them with the wisdom to do so correctly. 
+    
+    You might argue that people can find this information anyway if they make
+    an effort.  I would say that part of what provides security is the fact
+    that people must make such an effort to find out this information.  Those
+    who might intentionally cause problems or even those who would naively
+    cause problems might not ever become aware of the means by which to cause
+    problems because of the effort required to find these tools and to know
+    what they can do.  You remove that effort by directly providing them with
+    the tools to manipulate the network at its lowest layers. 
+    
+    You might argue that you could, and perhaps would, offer to change the
+    program to include the source address on the Ethernet packet.  I would
+    counter that while making that change would improve the operation of your
+    program with respect to our concerns, it would still give users the tools
+    to cause operational problems and it still has other problems which I
+    discuss below. 
+    
+(Several paragraphs follow that have been deleted.  They seem quite
+reasonable--if slightly worry-warty--and do not, in my opinion, raise
+any questions relating to academic freedom.)
+
+        The idea that a student's work would be removed from a public
+bulletin board maintained by the University, not because it was posted
+on the wrong board, but because that work contained publicly available
+information, strikes me as an egregious violation of academic freedom.
+"Security by obscurity" may be a reasonable goal in the world of
+commerce where information is hoarded as a valuable trade secret; but
+the goal of the academic community is to make information available, not
+to obscure it.
+
+        For those who do not care about students, I should add that this
+act of censorship by the network administrators also infringes the
+academic freedom of at least one faculty member.  I shall be teaching a
+course in computer law next year; in that course I intend for us to
+study issues of computer security, which will mean that my students will
+be learning exactly the sort of information that our censors wish to
+obscure.  I will obviously not be able to use a bulletin board on the
+network for class assignments and discussion, knowing as I do that the
+students' work--and perhaps mine--will be "removed" if it is deemed too
+informative.
+
+Peter D. Junger
+Professor of Law
+Case Western Reserve University Law School
+internet:  JUNGER@CWRU.CWRU.EDU
+bitnet:    JUNGER@CWRU
+
+------
+
+Date: Tue, 23 Apr 91 04:42:14 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9104230942.AA06697@m.cs.uiuc.edu>
+Subject: New NCSA e-mail policy inconsistent with Academic Freedom
+
+[Enclosed is a copy of a note I posted in "uiuc.general," a campus-wide
+newsgroup at the University of Illinois. I also sent e-mail copies
+to the administrators who approved the policy and to several
+Professors interested in these issues (including the president of
+the local chapter of the AAUP). Following this note, expect copies
+of the policy in question and my notes from a conversation with
+Michael Smith of the NCSA.
+
+I will, of course, keep the list informed as to what happens.
+ - Carl Kadie]
+
+----------------------------------------------------------------------
+The new NCSA e-mail policy permits searches and punishment of
+faculty, students, and researcher who "attack" the University, or the
+NCSA in e-mail.
+----------------------------------------------------------------------
+
+The National Center for Supercomputer Applications (NCSA) is a department
+in the University of Illinois' Graduate College. On April 1 [no kidding],
+the NCSA set down a new e-mail policy. The policy was cleared by the
+University's legal counsel and the Graduate College. Faculty, students,
+and researchers, however, were not consulted.
+
+Although the policy offers much good advice and addresses legitimate
+security concerns, it is overly broad and vague.  Moreover, it is
+inconsistent with the principles of Academic Freedom, Constitutional
+rights, and University policies with respect to freedom of expression
+and privacy.
+
+The policy should concern all users of NCSA's e-mail facilities. It should
+also concern anyone who sends e-mail to a NCSA user or through a NCSA
+managed network. Finally, it should concern anyone who believes that
+the principles of academic freedom (including freedom of expression and
+privacy) apply to computers.
+
+In a sense, this note is not constructive. I will not suggest an
+alternate e-mail policy. Instead, I will criticize the current policy.
+It is my hope that criticism will lead to the retraction of the
+current policy and creation of a more balanced policy that respects
+the rights of computer users.
+
+Specifically, here are nine criticisms (in no particular order):
+
+1) The policy was created without user representation.
+
+The faculty, students, and researchers who use NCSA e-mail should have
+helped form any policy. Also, any University committees
+concerned with Academic Freedom should have been consulted.
+
+2) NCSA contracts with industry are not an excuse to override academic
+freedom and individual rights.
+
+One attempted justification of the policy is that the NCSA is
+contractually obligated to provide security and confidentiality to
+industry. This is no justification at all. Contracts with industry
+must be made within the boundaries of Academic Freedom.
+
+3) E-mail to users at the NCSA from outside the NCSA deserves more protection.
+
+Under this policy, searches of a user's e-mail will be typically
+conducted by inspecting that user's mbox file. If you send e-mail to a
+NCSA user, your note might end up in his or her mbox. If the mbox file is
+searched, your note might be read (without any suspicion about
+you and without the permission of the addressee).
+
+4) The policy gives the Director extraordinary power with no check and
+balances.
+
+No search can be done without explicit authorization from the Director
+of the NCSA. The Director, however, reports to no one.
+
+5) Due process is not guaranteed in the policy.
+
+If a user (faculty or student) is found to have committed an offense,
+he or she should have the right to a formal hearing and the right of
+appeal. 
+
+Also, some of the due process that is provided is not guaranteed in
+writing. For example, there is an unwritten policy that the Director
+cannot delegate the authority to authorize a search. This protection
+should be make explicit.
+
+6) The policy fails to respect e-mail.
+
+The policy allows disk space to be searched, but there is no similar
+policy allowing telephones or campus mail to be monitored or offices
+to be searched. Privacy should be respected in all its forms.
+
+7) The policy is vague.
+
+It prohibits e-mail that "attempts to disadvantage NCSA." What does
+this mean? It prohibits "inappropriate information disclosures," but
+does not define "inappropriate".
+
+8) The policy may prohibit constitutionally protected speech.
+
+According to Michael Smith, the Associate Director of the NCSA,
+the phrase "attempts to disadvantage NCSA" prohibits attacks in
+e-mail on the NCSA and the University. This interpretation (of
+a vague phrase) is inconsistent with the First Amendment, Academic
+Freedom, and University policy.
+
+The First Amendment to the U.S. Constitution says: "Congress shall
+make no law [...] abridging the freedom of speech, or of the press;"
+This amendment also applies to the States and to State institutions
+such as this University. It protects your right to forcefully
+criticize institutions such as the NCSA and the University.
+
+The Joint Statement on Rights and Freedoms of Students it the main
+statement on the academic freedom of students. It has been endorsed by
+the American Association of University Professors, the U. S. National
+Student Association, and the Association of American Colleges.  It
+says:
+
+"Academic institutions exist for the transmission of knowledge, the
+pursuit of truth, the development of students, and the general
+well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals its members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth."
+
+Faculty's freedom of expression is, of course, also protected by
+Academic Freedom.
+
+The University of Illinois Code on Campus Affairs says:
+
+"STATEMENT ON INDIVIDUAL RIGHTS
+ I. Preamble
+ A student at the University of Illinois at the Urbana-Champaign campus
+ is a member of the University community of which all members have at
+ least the rights and responsibilities common to all citizens, free from
+ institutional censorship; affiliation with the University as a
+ student does not diminish the rights or responsibilities held by a
+ student or any other community member as a citizen of larger
+ communities of the state, the nation, and the world."
+ ...
+
+"III. Campus Expression
+ A. Discussion and expression of all views is permitted within the
+ University subject only to requirements for the maintenance of order.
+  [...]
+ C. The campus press and media are to be free of censorship. The editors
+ and managers shall not be arbitrarily suspended because of student,
+ faculty, administration, alumni, or community disapproval of editorial
+ policy or content."
+ ...
+"VI. Student Affairs 
+ [...]
+ B. Freedom of Inquiry and Expression
+ 1. Students and student organizations should be free to examine and to
+ discuss all questions of interest to them, and to express opinions
+ publicly and privately. [...]
+ 2. Students should be allowed to invite and hear any person of their
+ own choosing. [...] The University's control of campus facilities should
+ not be used as a device of censorship. It should be made clear to the
+ academic and larger community that sponsorship of guest speakers
+ does not necessarily imply approval or endorsement of the views expressed
+ either by the sponsoring group or the institution."
+
+9) The policy may allow constitutionally prohibited search.
+
+The Fourth Amendment says: "The right of the people to be secure in
+their persons, houses, papers, and effects, against unreasonable
+searches and seizures, shall not be violated, and no Warrants shall
+issue, but upon probable cause, supported by Oath or affirmation, and
+particularly describing the place to be searched, and the persons
+or things to be seized."
+
+A government institution, such as this University can not ignore these
+protections just because it owns the facilities [Mancusi v. DeForte
+392 U.S. 364, 368 (1967); Gillard v. Schmidt 579 F.2d 825, 829 (3d
+Cir. 1978)]
+
+University privacy policy is described in the Code on Campus Affairs.
+I think University rules concerning assigned office space provide
+the best model of how disk space and e-mail should be treated.
+
+"IV. Privacy
+
+A. Members of the University community have the same rights of
+privacy as other citizens and surrender none of those rights by
+becoming members of the academic community. These rights of privacy
+extend to residence hall living. Nothing in University regulations or
+contracts shall give University officials authority to consent to a
+search by police or other government officials of offices assigned or
+living quarters leased to individuals except in response to a properly
+executed search warrant or search incident to an arrest.
+
+B. When the University seeks access to an office assigned or living
+quarters leased to an individual to determine compliance with
+provisions of applicable multiple-dwelling unit laws, ordinances, and
+regulations, or for improvement or repairs, the occupant shall be
+notified of such action not less that twenty-four hours in advance.
+There may be entry without notice in emergencies where imminent
+danger to life, safety, health, or property is reasonably feared and
+for custodial service.
+
+C. The University may not conduct or permit a search of an office
+assigned or living quarters leased to an individual except in
+response to a properly executed search warrant or search incident to
+an arrest."
+
+
+
+In conclusion, the new NCSA e-mail policy is inconsistent with the
+constitutional rights and the academic freedom of faculty, students,
+and researchers. It says that freedom of expression and the right to
+privacy to not extend to computers. I urge the NCSA to rescind the
+policy.
+
+
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+Date: Wed, 24 Apr 91 14:37:24 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9104241937.AA28098@herodotus.cs.uiuc.edu>
+Subject: Re: New NCSA e-mail policy inconsistent with Academic Freedom
+
+Thanks to a discussion on "uiuc.general", a newsgroup at U. of Illinois,
+more details are coming out.
+
+1) It appears that some time in March (?), an NCSA student (?)
+employee(s?) anonymously sent e-mail to someone?/everyone? at the
+NCSA. The recipent(s) found the mail to be "rude, crude, and very
+immature". The e-mail was make to look like it came from
+"saddam@iraq.bunker.gov".
+
+2) The sender was somehow identified (by a search of his or her mbox?)
+and fired.
+
+3) On April 1st, an e-mail policy was handed down that, among other
+things, permits searches of mboxes is someone uses e-mail to "attempt
+to disadvantage NCSA".
+
+(I don't know the order of #2 and #3.)
+
+

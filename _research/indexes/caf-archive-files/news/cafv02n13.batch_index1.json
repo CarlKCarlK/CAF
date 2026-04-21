@@ -1,0 +1,501 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 15, 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "The Bush administration proposed a bill to mandate that telephone exchanges allow easy wiretapping by the FBI.",
+        "Debate existed over whether logging FTP usage constitutes an infringement on user privacy or a necessary tool for tracing malicious activity (e.g., the Macintosh MBDF-A virus).",
+        "Critics argued that restricting commercial use of the network highway limited its overall utility."
+      ],
+      "organizations": [
+        "SWITCH",
+        "FBI",
+        "FCC",
+        "EFF",
+        "NSFnet"
+      ],
+      "people": [
+        "David Swanlund",
+        "Carl M. Kadie",
+        "Jim Lick"
+      ],
+      "summary": "This is a digest abstract summarizing several discussions regarding digital rights and network governance in early 1992. Key themes include opposition to censorship by network providers like SWITCH, concerns over FBI wiretapping legislation, the restriction of commercial use on the internet, and the ethics of logging FTP usage for surveillance versus security.",
+      "title": "Abstract of CAF-News 02.13",
+      "topics": [
+        "censorship",
+        "wiretapping",
+        "privacy",
+        "FTP logging",
+        "Acceptable Use Policy (AUP)",
+        "commercial use of internet"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "david@swan.vm.iastate.edu (David Swanlund)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 0 -- Abstract of CAF-News 02.13",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "9 Mar 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "SWITCH was accused of not only censoring its own library of content but also blocking access to other information sources.",
+        "A debate exists between the 'democratic' right of a funding majority to restrict content and the individual right to read without restriction."
+      ],
+      "organizations": [
+        "SWITCH"
+      ],
+      "people": [
+        "Alan Cox",
+        "Keith Smith"
+      ],
+      "summary": "Alan Cox shares a debate with Keith Smith regarding censorship and the control of information flow on Usenet. The discussion contrasts the right of community funders to restrict content with the principle of open access to information, specifically referencing SWITCH's blocking of alt.* newsgroups.",
+      "title": "Article 1--Censorship",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "information access"
+      ]
+    },
+    "identity": {
+      "date": "9 Mar 92 17:24:32 GMT",
+      "from": "iiitac@pyramid.swansea.ac.uk (Alan Cox)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<16825.9203091724@pyr.swan.ac.uk>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 1--Censorship",
+      "to_or_newsgroups": "news.admin",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-03-10",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "A bill existed to mandate wiretapping capabilities in both commercial and private telephone exchanges.",
+        "Non-compliant businesses could face fines of up to $10,000 per day.",
+        "The author suggests such mandates could make packet-switched phone programs using TCP/IP illegal."
+      ],
+      "organizations": [
+        "FBI",
+        "Justice Department",
+        "FCC",
+        "ACLU"
+      ],
+      "people": [
+        "Russell E. Whitaker",
+        "Bob Stringfield"
+      ],
+      "summary": "A forwarded warning regarding a proposed bill drafted by the FBI and Justice Department. The legislation would require the FCC to mandate hardware and software attachments on commercial and private telephone exchanges to facilitate wiretapping, with significant fines for non-compliance.",
+      "title": "Privacy Alert: Wiretapping Legislation",
+      "topics": [
+        "privacy",
+        "wiretapping",
+        "surveillance legislation",
+        "telecommunications"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 10 Mar 1992 10:29:34 GMT",
+      "from": "bstring@mainz-emh2.army.mil (BOB STRINGFIELD)",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<199203101029.AA06819@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 2--Re:  Privacy Alert",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 12, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "AUP restrictions prevented commercial information providers from obtaining routing approval to the internet.",
+        "The restriction on commercial use created a 'one-lane highway' effect by excluding the business lobby from network development.",
+        "Some entities were denied access despite providing services relevant to the NSFnet mission."
+      ],
+      "organizations": [
+        "EFF",
+        "NSFnet",
+        "World.Std.Com",
+        "Quantum Books",
+        "CIX"
+      ],
+      "people": [
+        "Barry Shein",
+        "Gordon Cook",
+        "Steve Wolff"
+      ],
+      "summary": "Barry Shein argues that Acceptable Use Policies (AUP) on the NSFnet created significant barriers for commercial entities and information providers. He contends that these restrictions prevented legitimate businesses, such as Quantum Books, from providing services to academic and research audiences. Shein suggests that the lack of commercial access limited the network's utility and discouraged potential supporters.",
+      "title": "Article 3--From Whence Cometh the A. U. P.?",
+      "topics": [
+        "Acceptable Use Policy",
+        "commercialization of the internet",
+        "network access",
+        "NSFnet"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 12 Mar 1992 18:52:31 GMT",
+      "from": "bzs@world.std.com (Barry Shein)",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<9203130452.AA05819@world.std.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 3--From Whence Cometh the A. U. P.?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 11, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Collecting identity and workplace information from users without knowledge or consent may be illegal at government-funded institutions.",
+        "File popularity can be monitored using system utilities without identifying individual users."
+      ],
+      "organizations": [
+        "Oklahoma State University",
+        "University of Kentucky",
+        "DARPA"
+      ],
+      "people": [
+        "Eric Gindrup",
+        "Wes Morgan"
+      ],
+      "summary": "A debate between Eric Gindrup and Wes Morgan regarding the ethics and legality of logging user identities on anonymous FTP sites. Gindrup argues that tracking uploaders is unnecessary and potentially illegal if done without consent, especially at government-funded institutions. The discussion contrasts administrative needs for system maintenance with users' rights to privacy and anonymity.",
+      "title": "Article 4--Re: Logging system usage (FTP), was Re: NSFnet rules",
+      "topics": [
+        "FTP logging",
+        "user privacy",
+        "anonymous access",
+        "academic freedom",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 11 Mar 1992 17:23:59 GMT",
+      "from": "gindrup@math.okstate.edu (Eric `'d'kidd' G..)",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<1992Mar11.172359.1124@math.okstate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 4--Re: Logging system usage (FTP), was Re: NSFnet rules",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-03-11",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System logs at Stanford were the primary link used to trace the Macintosh MBDF-A virus back to the students who released it."
+      ],
+      "organizations": [
+        "Cornell University",
+        "Stanford University"
+      ],
+      "people": [
+        "Eric Scheirer",
+        "Eric Gindrup"
+      ],
+      "summary": "Eric Scheirer argues in favor of maintaining system logs for FTP sites to enable the traceback of malicious activity. He cites a specific case at Stanford where logs were used to identify students who released the Macintosh MBDF-A virus, leading to criminal proceedings.",
+      "title": "Logging system usage (FTP)",
+      "topics": [
+        "system logging",
+        "FTP",
+        "cybercrime",
+        "accountability",
+        "malware"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 11 Mar 1992 08:08:43 GMT",
+      "from": "escheire@sunlab.cit.cornell.edu (Eric Scheirer  , HORJ@vax5.cit.cornell.edu)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<9203111808.AA23181@hibiscus.cit.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 5--Re: Logging system usage (FTP), was Re: NSFnet rules",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 12, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Anonymous FTP at UUNET requires identifiable clients via reverse server information (PTR records) and email passwords.",
+        "All file transfers at ftp.uu.net are logged.",
+        "Incoming files are screened for security problems and copyright infringement, with findings reported to CERT.",
+        "Restrictive policies were implemented to protect the organization from potential legal liability regarding archived files."
+      ],
+      "organizations": [
+        "UUNET",
+        "CERT"
+      ],
+      "people": [
+        "James R Revell Jr"
+      ],
+      "summary": "James Revell Jr. describes the restrictive access and logging policies implemented at ftp.uu.net to combat abuse. He explains that 'anonymous' FTP is a myth at UUNET, as users must be identifiable via PTR records and email addresses. The post highlights the tension between open service provision and the need to prevent security breaches and copyright infringement.",
+      "title": "Logging usage of services (FTP)",
+      "topics": [
+        "FTP",
+        "logging",
+        "surveillance",
+        "copyright infringement",
+        "network security"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 12 Mar 1992 21:33:07 GMT",
+      "from": "revell@uunet.uu.net (James R Revell Jr)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<1992Mar12.213307.11252@uunet.uu.net>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 6--Re: Logging usage of services (FTP)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 13, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Uploading illegal material places significant liability on the sysop and the owning organization.",
+        "Providing a public service does not legally entitle a user to use that service for any purpose they choose."
+      ],
+      "organizations": [
+        "University of California Santa Barbara"
+      ],
+      "people": [
+        "Jim Lick",
+        "Eric Gindrup"
+      ],
+      "summary": "Jim Lick responds to a debate regarding the responsibilities and rights of system administrators managing anonymous FTP sites. He argues that providing public access does not grant users the right to upload illegal material or bypass administrative restrictions. The exchange highlights early tensions between user expectations of 'anonymous' access and the legal liabilities faced by university system operators.",
+      "title": "Article 7--Re: Logging system usage (FTP), was Re: NSFnet rules",
+      "topics": [
+        "FTP",
+        "system administration",
+        "liability",
+        "network policy",
+        "NSFnet"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 13 Mar 1992 07:19:05 GMT",
+      "from": "jim@ferkel.ucsb.edu (Jim Lick)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<jim.700471145@ferkel>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 7--Re: Logging system usage (FTP), was Re: NSFnet rules",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "10 Mar 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Computers make it uniquely easy for authorities to collect information on all users of a facility.",
+        "The ease of digital surveillance increases the necessity for privacy concerns rather than diminishing them."
+      ],
+      "organizations": [
+        "NSFnet"
+      ],
+      "people": [
+        "Brian Harvey",
+        "Jurgen Botz",
+        "J. Edgar Hoover"
+      ],
+      "summary": "Brian Harvey responds to a claim that anonymity on the Internet is unnecessary for legal activities. He argues that while government surveillance may catch criminals, it creates dangerous potential for abuse by authorities. He emphasizes that computers make mass data collection uniquely easy, increasing the need for privacy protections.",
+      "title": "Article 8--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "anonymity",
+        "surveillance",
+        "civil liberties",
+        "privacy",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "10 Mar 92 16:03:07 GMT",
+      "from": "bh@anarres.Berkeley.EDU (Brian Harvey)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<pimjrINN9pn@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 8--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,news.admin",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 10, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Internet is inherently insecure because authentication is not part of standard application-level protocols.",
+        "Patents held by MIT mathematicians on public-key algorithms may be delaying the progress of secure authentication."
+      ],
+      "organizations": [
+        "Mount Holyoke College",
+        "LPF"
+      ],
+      "people": [
+        "Jurgen Botz"
+      ],
+      "summary": "Jurgen Botz discusses the technical limitations of identity tracking in FTP protocols and the inherent insecurity of the Internet due to a lack of standardized authentication. He notes that software patents on public-key algorithms may be hindering the adoption of secure authentication. The post references the LPF's opposition to software patents.",
+      "title": "Article 9--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "FTP protocol",
+        "Internet security",
+        "authentication",
+        "software patents",
+        "public-key cryptography"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 10 Mar 1992 17:55:13 GMT",
+      "from": "jbotz@mtholyoke.edu (Jurgen Botz)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<1992Mar10.175513.1600@mtholyoke.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 9--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "10 Mar 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The argument 'what do you have to hide' is used to justify regimentation over privacy in both physical and computer contexts.",
+        "US tradition resists carding people without special reason due to a distrust of government authority."
+      ],
+      "organizations": [
+        "NSFnet"
+      ],
+      "people": [
+        "Brian Harvey",
+        "Wes Morgan"
+      ],
+      "summary": "Brian Harvey argues against the requirement for users to provide identification when accessing systems, specifically regarding anonymous FTP. He compares digital identity logging to physical surveillance and carding, arguing that a tradition of privacy is essential to resist unnecessary regimentation. The discussion frames the debate as a conflict between system security/accountability and the cultural expectation of anonymity.",
+      "title": "Article 10--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "privacy",
+        "anonymous FTP",
+        "digital identity",
+        "surveillance",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "10 Mar 92 19:01:01 GMT",
+      "from": "bh@anarres.Berkeley.EDU (Brian Harvey)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<pj11dINNf4s@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 10--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,news.admin",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "10 Mar 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Private entities, not just governments, can possess excessive power through data collection.",
+        "Essential services (phone companies, banks) require tighter regulation because users cannot realistically opt out of using them."
+      ],
+      "organizations": [
+        "NSFnet",
+        "Lotus"
+      ],
+      "people": [
+        "Brian Harvey",
+        "Jurgen Botz"
+      ],
+      "summary": "Brian Harvey responds to a debate regarding identity verification on networks. He argues that both government and private entities can abuse power through the collection of personal data, citing the necessity of privacy regulations for essential services like banking and telecommunications.",
+      "title": "Article 11--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "privacy",
+        "identity verification",
+        "data collection",
+        "network ethics"
+      ]
+    },
+    "identity": {
+      "date": "10 Mar 92 20:20:18 GMT",
+      "from": "bh@anarres.Berkeley.EDU (Brian Harvey)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<pj5m2INNhta@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n13",
+      "subject": "Article 11--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  }
+]

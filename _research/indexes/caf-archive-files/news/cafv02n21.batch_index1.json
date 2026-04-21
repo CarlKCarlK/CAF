@@ -1,0 +1,401 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 10, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Iowa State University violated due process and academic freedom by restricting alt.sex and punishing a student for redistributing its content.",
+        "The University of Nebraska-Lincoln's restriction of the alt. hierarchy was based on a misunderstanding of NSFNET powers and policies.",
+        "Middle East Technical University's computer policy bans significant speech and provides no due process protection."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "Electronic Frontier Foundation",
+        "University of Manitoba",
+        "University of Nebraska-Lincoln",
+        "NSFNET",
+        "Middle East Technical University",
+        "Potomac Telephone Company"
+      ],
+      "people": [
+        "Elizabeth M. Reid",
+        "Carl M. Kadie",
+        "Michael L Begley",
+        "Gray Watson",
+        "Mark D. Smucker",
+        "Kevin A Buhr"
+      ],
+      "summary": "This digest summarizes several incidents of network censorship at universities, including the banning of rec.arts.erotica and the revocation of a student's account at Iowa State University. It also addresses the University of Nebraska-Lincoln's decision to stop supplying the alt. hierarchy due to perceived NSFNET acceptable use policy risks. Additionally, it critiques the computer use policy at Middle East Technical University for lacking due process.",
+      "title": "Abstract of CAF-News 02.21",
+      "topics": [
+        "Usenet censorship",
+        "due process",
+        "acceptable use policy",
+        "academic freedom",
+        "network access"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "emr@ariel.ucs.unimelb.edu.au (Elizabeth M. Reid)",
+      "item_count": 9,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n21",
+      "subject": "Article 0 -- Abstract of CAF-News 02.21",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "6 May 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "ISU restricted rec.arts.erotica, the first non-alt hierarchy group to be limited.",
+        "Mark Smucker's account was revoked without a cited policy violation regarding inappropriate or obscene material.",
+        "The author claims ISU is subject to the 5th Amendment and must provide due process for equipment access."
+      ],
+      "organizations": [
+        "Iowa State University"
+      ],
+      "people": [
+        "Michael L Begley",
+        "Mark Smucker"
+      ],
+      "summary": "Michael Begley reports that Iowa State University (ISU) restricted access to the rec.arts.erotica newsgroup. In response, student Mark Smucker reposted content from that group to isu.newsgroup, resulting in his account being revoked. The author argues this action violated due process and 5th Amendment rights.",
+      "title": "Student at ISU has account revoked",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "account revocation",
+        "due process",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "6 May 92 02:17:06 GMT",
+      "from": "spam@iastate.edu (Michael L Begley)",
+      "item_count": 9,
+      "item_index": 1,
+      "message_id": "<1992May6.021706.7137@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n21",
+      "subject": "Article 1--Student at ISU has account revoked.",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.censorship,comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 6, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Restricting access to non-alt hierarchy Usenet groups at a public university may violate academic freedom.",
+        "Summary revocation of computer accounts for speech in a university forum violates constitutional due process rights.",
+        "University attempts to justify censorship via sexual harassment or obscenity laws are frequently overturned by courts."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Michael L Begley",
+        "Mark Smucker"
+      ],
+      "summary": "Carl Kadie discusses the revocation of a student's computer account at Iowa State University after the student reposted restricted Usenet content to a university newsgroup. Kadie argues that restricting access to groups like rec.arts.erotica and punishing students for expression in university forums violates academic freedom and due process. The post includes an extensive list of legal references and precedents regarding free speech and procedural rights in public universities.",
+      "title": "Student at ISU has account revoked",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "due process",
+        "academic freedom",
+        "student rights"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 6 May 1992 03:31:43 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 9,
+      "item_index": 2,
+      "message_id": "<1992May6.033143.16713@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n21",
+      "subject": "Article 2--Re: Student at ISU has account revoked.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "7 May 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Iowa State University removed rec.arts.erotica and parts of alt.* newsgroups.",
+        "The University of Nebraska at Lincoln censored all alt.* newsgroups, including technical groups like alt.sys.sun and alt.os.mach.",
+        "Iowa State suspended a student account immediately before final exams."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "University of Nebraska at Lincoln",
+        "Antaire Corporation",
+        "NSF"
+      ],
+      "people": [
+        "Gray Watson",
+        "George Strawn",
+        "Richard Seagrave",
+        "George Covert",
+        "Bill Frazier",
+        "Dorothy Lewis"
+      ],
+      "summary": "Gray Watson protests the censorship of Usenet newsgroups at Iowa State University and the University of Nebraska at Lincoln. The post highlights the removal of alt.* groups and rec.arts.erotica, as well as the suspension of a student's account prior to finals. Watson argues that such restrictions are uncharacteristic of a university environment.",
+      "title": "Article 3--iowa state censorship...",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "7 May 92 16:03:40 GMT",
+      "from": "gray@antaire.com (Gray Watson)",
+      "item_count": 9,
+      "item_index": 3,
+      "message_id": "<9205071603.AA26232@antaire.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n21",
+      "subject": "Article 3--iowa state censorship...",
+      "to_or_newsgroups": "comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 8, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The interim director of the Computing Center promised a letter regarding the feasibility of user-controlled access vs. machine access."
+      ],
+      "organizations": [
+        "Iowa State University"
+      ],
+      "people": [
+        "Mark D. Smucker",
+        "Dr. Seagrave",
+        "John Dobson",
+        "Mary Beth Snyder"
+      ],
+      "summary": "Mark D. Smucker reports that his university computer account has been restored. He notes that the interim director of the Computing Center is preparing a report on user-controlled access versus machine access for university administration.",
+      "title": "ISU student account restored",
+      "topics": [
+        "account suspension",
+        "user access control",
+        "student rights"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 8 May 1992 06:43:04 GMT",
+      "from": "mds@iastate.edu (Mark D. Smucker)",
+      "item_count": 9,
+      "item_index": 4,
+      "message_id": "<1992May8.064304.8364@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n21",
+      "subject": "Article 4--ISU student account restored.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 10, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Manitoba removed the alt.sex.* newsgroup hierarchy in response to media pressure.",
+        "University administration (Terry Falconer) suggested severing links to the Unix system as a solution to 'computer porn'.",
+        "Usenet is described by the author as an invaluable resource for learning, comparable to formal coursework."
+      ],
+      "organizations": [
+        "University of Manitoba",
+        "Winnipeg Free Press"
+      ],
+      "people": [
+        "Kevin Andrew Buhr",
+        "Terry Falconer",
+        "Ms. Paul",
+        "Daniel J. Salomon",
+        "DeCruyenaere"
+      ],
+      "summary": "Kevin Andrew Buhr reports that the University of Manitoba administration removed the alt.sex.* newsgroup hierarchy following a critical article in the Winnipeg Free Press. The post criticizes the newspaper's misunderstanding of Usenet and the university's reactive censorship. Buhr argues that Usenet is an invaluable academic resource and that removing specific groups sets a dangerous precedent for information access.",
+      "title": "Article 5--FP Article Confirms Billionth Monkey Hypothesis",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "internet governance",
+        "university administration"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 10 May 1992 09:36:35 GMT",
+      "from": "buhr@ccu.umanitoba.ca (Kevin Andrew Buhr)",
+      "item_count": 9,
+      "item_index": 5,
+      "message_id": "<1992May10.093635.27536@ccu.umanitoba.ca>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n21",
+      "subject": "Article 5--FP Article Confirms Billionth Monkey Hypothesis",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 1, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "UNL administration claimed NSFNET AUP required the removal of 'alt' newsgroups to prevent loss of internet access.",
+        "The NSFNET Acceptable Use Policy explicitly allows communication to debate issues in a field or subfield of knowledge.",
+        "Critics argue that resource limitations and federal policy were used as a 'smoke screen' for content-based censorship."
+      ],
+      "organizations": [
+        "University of Nebraska-Lincoln",
+        "National Science Foundation",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Mike Lewis",
+        "Doug Gale",
+        "Carl M. Kadie",
+        "David Burchell"
+      ],
+      "summary": "A student newspaper article reports that the University of Nebraska-Lincoln (UNL) stopped supplying 'alt' USENET newsgroups due to concerns over pornography and torture instructions. The UNL director claimed this was necessary to avoid violating NSFNET acceptable use policies. Carl Kadie disputes these claims, arguing that NSF policy allows for professional debate and does not mandate the banning of such groups.",
+      "title": "Article 6--\"The NSF made be do it\"",
+      "topics": [
+        "USENET",
+        "censorship",
+        "Acceptable Use Policy",
+        "academic freedom",
+        "NSFNET"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 5 May 1992 00:58:13 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 9,
+      "item_index": 6,
+      "message_id": "<1992May5.005813.281@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n21",
+      "subject": "Article 6--\"The NSF made be do it\" (was no subject)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 4, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "METU's policy forbids political and religious activism on the network.",
+        "METU's policy allows for cancellation of user IDs without notice or due process.",
+        "US universities like Iowa State and University of Illinois have implemented similarly restrictive computer speech policies."
+      ],
+      "organizations": [
+        "Middle East Technical University",
+        "Electronic Frontier Foundation",
+        "Iowa State University",
+        "University of Texas",
+        "University of Illinois",
+        "National Center for Supercomputer Applications",
+        "National Science Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Kursat Cagiltay"
+      ],
+      "summary": "Carl M. Kadie critiques the computer usage policy of Middle East Technical University (METU) in Turkey, noting its lack of due process and bans on political and religious activism. He compares METU's restrictions to similar restrictive policies at US institutions like Iowa State, the University of Texas, and the University of Illinois. The post argues that academic freedom requires students and professors to speak for themselves rather than as representatives of their university.",
+      "title": "Critique of Turkish AUP",
+      "topics": [
+        "Acceptable Use Policy",
+        "Academic Freedom",
+        "Censorship",
+        "Due Process",
+        "International Computer Law"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 4 May 1992 22:32:43 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 9,
+      "item_index": 7,
+      "message_id": "<1992May4.223243.28741@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n21",
+      "subject": "Article 7--Critique of Turkish AUP (was \"just read and think\")",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 6, 1992",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "A partnership existed between Virginia Tech and a Bell Atlantic company to study the feasibility of a town-wide high-speed electronic network."
+      ],
+      "organizations": [
+        "Virginia Tech",
+        "Chesapeake & Potomac Telephone Company",
+        "Bell Atlantic Company",
+        "Illinois Library Computer Systems Office"
+      ],
+      "people": [
+        "Bernie Sloan",
+        "Beverly Watkins"
+      ],
+      "summary": "Bernie Sloan shares a report from the Chronicle of Higher Education regarding a feasibility study for an 'electronic village' in Blacksburg, Virginia. The project is a partnership between Virginia Tech and the Chesapeake & Potomac Telephone Company to create a high-speed network connecting homes, businesses, and schools. The initiative aimed to provide community-wide access to email, discussion groups, and the Internet.",
+      "title": "Virginia Tech Electronic Village",
+      "topics": [
+        "community networking",
+        "public access",
+        "ISDN",
+        "town-gown partnerships"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Public-Access Computer Systems Forum <LIBPACS@UHUPVM1.BITNET>",
+      "item_count": 9,
+      "item_index": 8,
+      "message_id": "<PACS-L%92050610141096@UHUPVM1.BITNET>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n21",
+      "subject": "Article 8--Virginia Tech Electronic Village",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

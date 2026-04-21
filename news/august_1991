@@ -1,0 +1,1790 @@
+Computers and Academic Freedom (news version)
+August, 1991
+Vol. 1, No. 25
+
+[SPECIAL ISSUE: The Best of August
+August 5, 1991 to September 1, 1991
+
+The first five notes discuss freedom of expression on the net. In the
+first note, a sys admin at the University to Kentucky says that one
+reason that his site dropped Netnews was because his Dean received
+mail complaining about the postings of several users. (He also says
+that when they upgrade their hardware they may support Netnews but may
+not carry the alt.sex newsgroup because minors might be able to access
+it.) In the second note a student argues that Netnews is much like
+other small student publications he has worked on (and so should be
+treated like other student publications).
+
+The third note describes the likely legal status of Netnews at public
+universities. It quotes a court decision that explains and applies the
+Supreme Court' Public-Forum Doctrine. Under this doctrine, Netnews and
+email (but not necessarily the computer as a whole) seem to be
+"limited-public forums" in which "viewpoint discrimination" is
+prohibited. The fourth note, quoting a law book, expands on this. It
+says that a public university's ownership of a student publication
+does not given it unfettered control of content and that "... school
+authorities cannot [legally] withdraw support from a student
+publication simply because of displeasure with the content." The fifth
+note tries to answer the question of how public schools should address
+their concerns about libel and obscenity in student publications.
+Quoting a law book, the note says that prior restraints are generally
+forbidden, but "[s]tudents can be punished and publications
+confiscated if the material distributed ... is libelous or obscene
+..."
+
+The next three notes concern the freedom to read Netnews. The first
+note explains why a sys admin may not want to carry a controversial
+newsgroup such as alt.sex. The reasons include fear of criticism (and
+lawsuits) and fear of obscenity and pantering laws. The second note
+points out that under the Limited-Forum Doctrine, sys admins legally
+*can* select which Netnews newsgroups their site will acquire. The
+third note suggests that sys admins should select newsgroup the way
+that librarians select books and periodicals. It includes references
+to American Library Association (ALA) policy documents. The note
+reports that the ALA fights official access restrictions based on age.
+
+The next note explains that although private universities do not have
+Constitutional obligations to their students, they often have
+legally-binding contractual obligations to provide, for example,
+provide due process.
+
+The last four notes are about policy making and due process. The first
+note is excerpts from a 100 page on-line document. The document
+advises on site security and also makes some good suggestions about
+policy making. The next note, argues that that like academic, library,
+and parking policy, university computer policy should be in the main
+student handbook.
+
+The third note, quoting a book on school law, reports that due process
+requirements have not "turned classrooms and schools into courtrooms".
+It also explains that some due process is legally required unless the
+matter is trivial (or there is an emergency). Finally, at some
+schools, a student will be suspended from the computer anytime the
+computer administration wants the student to meet with them. In the
+last note, a sys admin says such suspensions should not be used until
+reasonable attempts to set up a meeting have failed. The note also
+gives examples of when a sys admin needs more flexibility than a
+formal policy might allow.
+
+- Carl]
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+lines "help" and "index".
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+In this issue:
+
+Wes Morgan       96  >I don't get it.
+Paul Moloney     46  >Netnews censorship at U. of Kentucky
+Carl M. Kadie   213  Taxonomy of forums (was R<>ard a taxonomy ... of alt.sex)
+Carl M. Kadie    54  >Toward a taxonomy of arguments for censorship of alt.sex
+Carl M. Kadie    49  >Netnews censorship at U. of Kentucky
+Wes Morgan       63  >Toward a taxonomy of arguments for censorship of alt.sex
+Wes Morgan      110  >Taxonomy of forums (was R<>rd a taxonomy ... of alt.sex)
+Carl M. Kadie    39  >I don't get it.
+Carl M. Kadie    30  >Public/Private institutions
+Carl M. Kadie   639  >Authority of Public Universities
+Carl M. Kadie    32  Computer Policy in the Student Handbook
+Carl M. Kadie    80  >
+rickert@cs.niu   85  >
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+Date: 19 Aug 91 14:37:43 GMT
+From: morgan@ms.uky.edu (Wes Morgan)
+Message-Id: <1991Aug19.143743.21042@ms.uky.edu>
+References: <9108172010.AA21385@vega.irus.rri.uwo.ca>
+Subject: Re: I don't get it.
+
+aganguli@irus.rri.uwo.ca (Ami Ganguli) writes:
+>
+>	My greatist criticism of administrators in general ( and perhaps one
+>that can be explained away? ) is that many seem to feel that controlling who
+>accesses the system and for what purposes is a goal unto itself.  When you
+>make a rule against running games or sending personal e-mail or reading alt.
+>sex, or any of those horrible things that users like to do, do you ever ask
+>yourself why?
+>
+
+OK, let me explain the rationale behind my site's policies:
+
+1) We do not allow games or game playing.
+
+Our systems are used by 1800 students, staff, and faculty members.  For
+about 10 years, our only systems were an AT&T 3B20 and a Harris HCX-7.
+Anyone with experience on these systems can testify to their computational
+sloth.  There is no such thing as "occasional" game playing when there are
+1800 userids on a system.  When we profiled the system performance and load,
+we found that games were burning about 20% of the available CPU time at
+peak usage.  That was unacceptable.  
+
+2) We do not support Usenet.
+
+At one time, my site participated in Usenet.  Several things combined to
+cause us to drop our feeds:
+
+	- Disk space.  Since we have to give priority to academic use,
+	  we did not have the disk space to support a full feed.  Rather
+	  than provide a "crippled" Usenet, we decided to drop it alto-
+	  gether.  
+
+	- Public relations.  Several users at my site caused some con-
+	  sternation on the net, which resulted in USMail being dispatched
+	  to the Dean of our College, as well as to the Director of the
+	  computing center.  This was not your typical flamage; these users
+	  really did "go over the line".
+
+	- The aforementioned CPU time problem.  Usenet was eating huge
+	  chunks of CPU time, both in transport and user-interface.
+
+Now that we have upgraded our hardware (to StarServer Es and SPARCStations,
+with an HP-9000 thrown in for good measure), we hope to reestablish our shop
+as a Usenet site.  However, we will not carry certain groups, such as the 
+alt.sex.* hierarchy.  Our rationale for this decision is simple:
+
+	We cannot properly ascertain the identity of our users.  We do
+	not have access to personal user data, such as birthdates.  We
+	cannot guarantee that user "jqpubl01" is John Q. Public; it might
+	be his roommate, his girlfriend, or his 10-year-old brother.  Since
+	many of the discussions and images in the alt.sex hierarchy are
+	oriented towards adults, they should be restricted to adults, just
+	as adult movies and periodicals are restricted.  Since we cannot 
+	reliably enforce such restrictions, we will not carry those groups
+	at all.
+
+>	A computer that isn't begin used is a very expensive piece of trash.
+>If somebody want's to play a game, why not let them?  Instead of making a 
+>policy like "thou shalt not play video games", why not just say, "if you're
+>playing a video game, we have the right to boot you off if somebody else needs
+>the computer"?  That way at least the machine will be used.
+
+Because this doesn't work.  Can I spend all my time policing the student labs,
+which are spread all over campus?  After I leave at 5 PM, who is going to per-
+form the "booting"?  Students don't listen to other students; the most common
+reply I've heard in student labs is "F*** off, I was here first".  This is
+hardly an enforceable restriction.
+
+>	On mainframes, why not check your average cpu usage sometime.  Is
+>it only at 50% ?  How's your disk space?  70% ? If so, then why are you 
+>trying to place so many restrictions on your users?  Did the university spend
+>all that money because they wanted a really expensive paperweight?
+
+Well, during the school year we usually run at 75% CPU utilization and above.
+Disk space is usually running at about 85%.  Can you imagine what those sta-
+tistics would look like without our restrictions?
+
+>	People will generally respect rules if you make them reasonable and
+>provide some justification.
+
+I hope that this has given you some insight into our situation.  I don't 
+claim that our restrictions should apply to everyone; the measures I des-
+cribe here are merely our method of dealing with our situation.  When the
+hardware upgrade is in place, we will reevaluate our restrictions.  We've
+already decided to reimplement our Usenet feed; personally, I hope that
+we can allow more recreational use of our systems.  Our first priority,
+however, must be the academic users.
+
+Best,
+Wes
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Date: 23 Aug 91 21:19:43 GMT
+From: pmoloney@unix1.tcd.ie (Paul Moloney)
+Message-Id: <pmoloney.682982383@unix1.tcd.ie>
+References: <1991Aug22.155144.21136@ms.uky.edu>, <1991Aug22.184036.20080@eff.org>, <1991Aug23.150637.11652@ms.uky.edu>
+Subject: Re: Netnews censorship at U. of Kentucky
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+>Each student is his own paper?  Interesting; you want to compare NetNews
+>access to student newspapers and student organizations, but you don't want
+>there to be a "checks and balances" system until due process gets involved?
+>Student organizations have officers and advisors, and student newspapers
+>and magazines have editorial boards and advisors; can you really group
+>them together with a "one-man" NetNews paper?
+
+Probably. Here in Trinity I edit, along with three others, a College
+magazine. You could argue that four people make an 'editorial board',
+but several other magazines here are edited (and some, indeed, written)
+by one person.
+
+By the way, of the four editors, three have had their access to news
+removed at one stage or another. The fourth never posts. I wonder is there 
+a genetic correllation or something? Or are we Editors just Too
+Dangerous To Live????? (ta-dah)
+
+In my opinion, Usenet _does_ resemble a magazine that anyone can write
+to. For that reason, there should be freedom of opinion there, without
+restraint, except of course by the law of the land (libel and slander
+should of course apply to Usenet as well as to any other publication.
+The realities of actually enforcing libel suits against someone halfway
+across the globe are another matter - a matter for the law, not for the
+university.)
+
+The problem with the university, business, whatever being liable for
+whatever is written seems to me to be a misunderstanding by the law as
+to what the computer's function is as regards Usenet. If there exists a
+magazine to which anyone can mail articles (I use mail here in the
+Postman Pat sense of the word), then of course the postal service
+shouldn't be liable for any slander suits - the person who mailed the
+articles should be. Likewise with Usenet. The computer, that the
+university had provided to you, is only a means of _accessing_ Usenet. 
+The same a postbox or a phone is to a regular magazine.
+
+Opinions? Or an I talking bullshit (it _is_ quite late here)?
+
+P.
+--
+moorcockheathersiainbankshamandcornpizzapjorourkebluesbrothersspikeleepratchett
+clive P a u l  M o l o n e y "Lines of light ranged in the nonspace of the  rem
+james Trinity College, Dublin mind." PMOLONEY%VAX1.TCD.IE@PUCC.PRINCETON.EDU vr
+brownbladerunnerorsonscottcardprincewatchmenkatebushbatmanthekillingjoketolkien
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Taxonomy of forums (was Re: Toward a taxonomy ... of alt.sex)
+Message-ID: <1991Aug29.202609.17233@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <8FC1B522C8807487@ccmail.sunysb.edu>
+Date: Thu, 29 Aug 1991 20:26:09 GMT
+Lines: 212
+
+SKAPUR@ccmail.sunysb.edu (Sanjay Kapur) writes:
+
+[...]
+>The simple solution is for all systems administrators to explicitly state at 
+>account assignment time that the computer is not a "free speech forum".
+>(This is already implied if the account is for research or class use.)
+
+>Also, the argument that Netnews access is a "student publication" is not a 
+>valid argument.  (The Berkeley OCF is the only "student publication"/"free 
+>speech forum" that I know off.  I personally believe that this is the proper 
+>and constitutionally protected approach to the free speech question.)
+
+>Both the above arguments make the case cited by Carl inapplicable in the case 
+>of a University owned instructional computing facility.
+[...]
+
+Here is some info about to free speech forums at public universities.
+It outlines the different types of forums and the rules for each one.
+
+This is from _The Freedom to Publish_ edited by Haig A. Bosmajian.
+Published by Neal-Schuman Publishers 1989. It is part of the First
+Amendment in the Classroom series. All the books in the series are
+edited by Bosmajian. Each book is just a collection of court
+decisions. Other books in the series include _The Freedom to Read
+books, Films, and Plays_, _Freedom of Religion_, _Freedom of
+Expression_, _Academic Freedom_, _Freedom to Publish_.
+
+
+In San Diego Committee v. Governing Bd., 790 F.2d 1471 (1986),
+a high school board rejected an anti-draft advertisement that the
+San Diego Committee Against Registration and the Draft (CARD)
+wanted to place in student newspapers. The Court said:
+
+--- begin quote--
+
+CARD's advertisement comes within the boundaries of the limited public
+forum the Board has created. Having established a limited public forum
+the Board cannot, absent a compelling governmental interest, exclude
+speech otherwise within the boundaries of the forum.... In particular,
+the Board cannot allow the presentation of one side of an issue, but
+prohibit the presentation of the other side ... Here, the board
+permitted mixed political and commercial speech advocating military
+service, but attempted to bar the same type of speech opposing
+interest justifying its conduct. Accordingly, the Board violated the
+First Amendment when it excluded CARD's advertisements from the
+newspapers.
+
+[...]
+
+The Board has failed to advance any reasonable grounds for excluding
+CARD's advertisement from the newspapers. Accordingly, even if we
+assume that the newspapers are a nonpublic forum, that is, the type of
+forum which receives the least protection under the First Amendment,
+we must conclude that the Board violated the guarantees of that
+amendment when it prevented the publication of CARD's advertisement.
+
+-end quote---
+
+Here is some more about the different kinds of forums. (This
+is from the same decision).
+
+-- begin quote ---
+
+III. THE PUBLIC FORUM DOCTRINE AND THE FIRST AMENDMENT
+
+[...]
+
+The values embodied in the First Amendment require the state, under
+certain circumstances, to provide members of the public with access to
+its facilities for purpose of speech. Certain state facilities, which
+may be appropriately used for communication, enjoy special
+constitution status as "public forums." [...references...] In these
+public forums, the First Amendment narrowly circumscribes the
+government's power to exclude or regulate speech. Of course, a state's
+mere ownership or control of a facility does not, in itself, guarantee
+access under the First Amendment. [... references ...] Similarly,
+merely permitting public access to a government facility does not
+necessarily open it for use as a public forum. [... references ...]
+However, even with respect to nonpublic forums, the state may not act
+unreasonably. _Cornelius_, 105 S.Ct at 3448.
+
+In _Perry_ and _Cornelius_, the Supreme Court identified three types of
+forums to which the public's right to access varies, as does the type
+of limitations the state may impose upon the right. The Court first
+focused on "places which by long tradition or by government fiat have
+been devoted to assembly and debate," such as streets and parks, where
+"the rights of the state to limit expressive activity are sharply
+circumscribed. [...references...] The Court stated that
+
+"{i}n these quintessential public forums, the government may not
+prohibit all communicative activity. For the state to enforce a
+content-based exclusion it mush show that its regulation is necessary
+to serve a compelling state interest and that it is narrowly drawn to
+achieve that end. The state may also enforce regulations of the time,
+place and manner of expression which are content-neutral, are narrowly
+tailored to serve a significant government interest, and leave open
+amble alternative channels for communcations. _Perry_
+[...reference...]"
+
+The second type of public forum on which the Court focused consists of
+"public property which the State has opened for use by the public as a
+place for expressive activity." [refs] The courts have come to call
+this type of public forum a "limited public forum" or a "public forum
+by designation." In such a forum, "{t}he Constitution forbids a state
+to enforce certain exclusions from a forum generally open to the
+public even if it was not required to create the forum in the first
+place." [refs] A limited public forum may, depending on its nature and
+the nature of the state's actions, be open to the general public for
+the discussion of all topics, or there may be limitations on the
+groups allowed to use the forums or the topics that can be discussed.
+Thus, a limited public forum may be open to certain groups for the
+discussion if any topic, [ref] or to the entire public for the
+discussion of certain topics, [ref] or some combination of the two.
+
+Once the state has created a limited public forum, its ability to
+impose further constraints on the type of speech permitted in that
+forum is quite restricted:
+
+"{a}lthough a State is not required to indefinitely retain the open
+character of the facility, as long as it does so it is bound by the
+same standards as apply in a traditional public forum. Reasonable
+time, place, and manner regulations are permissible, and a
+content-based prohibition must be narrowly drawn to effectuate a
+compelling state interest." [refs]
+
+"Thus the identical broad free speech rights attach to the first and
+second types of public forums, [ref]although in the latter type of
+forums those broad rights apply only within the particular boundaries
+of the specific forum that has been established.
+
+The third type of forum is "{p}ublic property ... which is not by
+tradition or designation a forum for public communications," [ref]
+such as a military base or jail. The Court recognized that this type of forum is governed by standard different from those applicable to the first two. The
+Court stated that
+
+"{i}n addition to time, place, and manner regulations, the state may
+reserve the forum for its intended purposes, communicative or
+otherwise, as long as that regulation on speech is _reasonable_". [ref]
+
+"The existence of reasonable grounds for limiting access to a
+nonpublic forum, however, will not save a regulation that is in
+reality a facade for viewpoint-based discrimination." _Cornelius_,
+105 S.Ct. at 3454.
+
+IV. SCHOOL NEWSPAPERS AS A LIMITED PUBLIC FORUM
+
+The Board first contends that the school newspaper falls into the
+third category of forums, nonpublic forums. We disagree, and hold that
+the newspapers fall into the second category, limited pubic forums.
+In deciding whether a particular forum is a limited public forum or a
+nonpublic forum, we must determine what type of forum the government
+intended to created. [ref] The government's intent is evidenced by
+"{its} policy and practice ... {as well as} the nature of the property
+and its compatibility with expressive activity." [ref]
+
+In the case before use, the evidence clearly indicates an intent to
+create a limited public forum. Newspapers, including the Board's are
+devoted entirely to expressive activity. Everything that appears in a
+newspaper is speech, whether commercial, political, artistic, or some
+other type. It is difficult to think of any other kind of property that
+is more compatible with expressive activity. In addition, the admitted
+policy and practice of the Board is to allow a particular group -- the
+students -- to discuss any topic in the newspapers, subject only to
+certain conditions not relevant to the issues before us. Thus, under
+the test enumerated in _Cornelius_, the Board's newspapers, like most
+other school papers constitute, at a minimum, a limited public forum of
+the type found in _Widmar_. [ref]
+
+[...]
+
+Thus, the Board has allowed certain members of the public -- various
+military recruiters -- to use its newspapers to engage in speech that
+is not essentially commercial in nature but that combines elements of
+political and commercial speech. As a result, the Board's _actual_
+policy and practice leads, under _Cornelius_, to the conclusion that
+the Board has established the school newspapers as a limited public
+forum in which students can discuss any topic, and in which
+non-students can engage in commercial speech generally and in speech
+which is both political and commercial with respect to at least on
+important and highly controversial topic -- military service. Because
+the Board on a number of occasions permitted the publication of
+advertisements advocating military service, there can be no question
+by that the Board intended to open the newspapers for advertisements
+on this topic -- at least by one side to the debate.
+
+[...]
+
+B. Viewpoint-Based Discrimination
+
+Furthermore, it appears that the Board was engaging in viewpoint-based
+discrimination. By allowing the publication of the military
+recruitment advertisements, the Board allowed the presentation of one
+side of a highly controversial issue. The Board provided a forum to
+those who advocated military service. The Board then refused, without
+a valid reason, to allow those who oppose military service to use the
+same forum. The only reasonable inference is that the Board was
+engaging in viewpoint discrimination. As the Supreme Court has stated,
+"{t}o permit one side of a debatable public question to have a
+monopoly in expressing its views ... is the antithesis of
+constitutional guarantees." _City of Madison_ [refs] In other words,
+"the First Amendment means that the government has no power to
+restrict expression because of its message, its ideas, its subject
+matter, or its content. _Bolger v. Youngs Drug Products Corp_ [ref].
+Viewpoint-based discrimination is not permitted even in a non-public
+forum. _Cornelius_ [ref]. Accordingly, the Board's viewpoint
+discrimination provides a second ground for holding that even if the
+school newspapers do not constitute a public forum, the Board violated
+the First Amendment in excluding CARD's advertisement.
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Toward a taxonomy of arguments for censorship of alt.sex
+Message-ID: <1991Aug29.162832.11923@eff.org>
+Organization: The Electronic Frontier Foundation
+References: <2B4DC7B358804D3E@ccmail.sunysb.edu>
+Date: Thu, 29 Aug 1991 16:28:32 GMT
+Lines: 53
+
+SKAPUR@ccmail.sunysb.edu (Sanjay Kapur) writes:
+
+>>1. "Any price for freedom is too high."
+>>	If I carry alt.sex, someone might object, and this would be
+>>	an inconvenience to me.  I or my university might even get sued,
+>>	and if so, the bad guys might win.
+
+>An inconvenience to me is a loss of MY freedom.  I am thoroughly convinced that 
+>people are confusing the freedom of the press with freedom of speech.  Freedom 
+>of press, the current model for Usenet, is the freedom of the owner of the 
+>press, i.e. the owner of the hardware.  Just as a magazine or newspaper 
+>publisher publishes what they want according to their convenience, so does a 
+>Usenet computer owner.
+[...]
+
+[From Public School Law: Teachers' and Students' Rights by Martha M.
+McCarthy and Nelda H. Cambron-McCabe:]
+
+----- begin quote----
+School Sponsorship of Student Publications
+
+School authorities often have claimed that they exert more control
+over school-sponsored publications than over nonschool material, but
+the judiciary has recognized that constitutional protections apply to
+both types of student literature. mere school affiliation does not
+remove student literature from first amendment protection. The
+judiciary has reasoned that a governmental body "is not necessarily
+the unfettered master of all it creates." Thus, the content of a
+school-sponsored paper that is established as a medium for student
+expression cannot be regulated more closely than a nonsponsored paper.
+For example, the Second Circuit Court of Appeals [Connecticut, New
+York, Vermont - Carl] affirmed a decision in which the federal
+district court held that a [high school] principle could not prohibit
+the distribution of a school-sponsored newspaper in which students
+placed a four-page supplement with information about contraception and
+abortion. The court noted that the articles in the supplement were
+intended to convey information and that the subjects were treated in a
+serious manner. While recognizing that the supplement might create
+some controversy, the court reasoned that it did not threaten a
+disruption in the educational environment.
+
+Although school boards are not obligated to support student papers, if
+a given publication was originally created as a free speech forum,
+removal of financial or other school board support can be construed as
+an unlawful effort to stifle free expression. In essence, school
+authorities cannot withdraw support from a student publication simply
+because of displeasure with the content. [...]
+
+---- end of quote---
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+>From comp-academic-freedom-talk-request@eff.org Mon Aug 26 17:41:52 1991
+Return-Path: <comp-academic-freedom-talk-request@eff.org>
+Received: from eff.org by alpha.CES.CWRU.Edu with SMTP (5.64+/ane.07.08.91.01)
+	id AA25848; Mon, 26 Aug 91 17:41:49 -0400
+Received: by eff.org (5.61+++/Spike-2.0)
+	id AA24205; Mon, 26 Aug 91 17:41:12 -0400
+Reply-To: comp-academic-freedom-talk@eff.org
+Precedence: bulk
+To: comp-academic-freedom-talk@eff.org
+Date: Mon, 26 Aug 1991 21:32:02 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug26.213202.23932@eff.org>
+Organization: The Electronic Frontier Foundation
+From: comp-academic-freedom-talk-request@eff.org
+References: <475E3B736880119D@ccmail.sunysb.edu>
+Subject: Re: Netnews censorship at U. of Kentucky
+Status: OR
+
+>> In an
+>>illustrative case, the Eight Circuit Court of Appeals ruled that a
+>>university could not change its funding policy for a student paper
+>>based on the 'hue and cry' of the public objecting to a particular
+>>issue {78}.
+
+SKAPUR@ccmail.sunysb.edu (Sanjay Kapur) writes:
+[...]
+>But what if the reason is any one of:
+
+>1) Fear of a libel suit
+>2) Anti-pornography laws
+>3) Running out of funds due to budget cuts
+>4) Not one issue but all issues cause a "hue and cry", something not addressed
+>   in your article.
+
+I've some info on the libel question (that may also
+apply to "Anti-pornography" laws).
+
+>From _Public School Law: Teachers' and Student' Rights_ by Martha
+McCarthy and Nelda Cambron-McCabe:
+
+---start quote---
+[p.124]
+Permissible and Impermissible Content
+
+While courts are reluctant to endorse prior restrains on the content
+of student publicaitons, they are more inclined to support
+disciplinary action after distribution has begun. [High-school- Carl]
+[s]tudents can be punished and publications confiscated if the
+material distributed forsters a disruption of the educational process,
+is libelous or obscene, or encourages others to engage in dangerous or
+unlawful activity.
+[...]
+
+Courts also have ruled that the mere discussion of controversial
+issues cannot be barred from student publications. The judiciary has
+recognized that material dealing with war, drugs, abortion, and birth
+control information is not too controversial for high school students.
+[...]
+--- end quote---
+
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!iWarp.intel.com!uunet!wupost!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Toward a taxonomy of arguments for censorship of alt.sex
+Message-ID: <1991Aug29.201145.4152@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+References: <1991Aug28.210259.3773@news.Hawaii.Edu>
+Date: Thu, 29 Aug 1991 20:11:45 GMT
+Lines: 62
+
+lee@uhunix.uhcc.Hawaii.Edu (Greg Lee) writes:
+>
+>1. "Any price for freedom is too high."
+>	If I carry alt.sex, someone might object, and this would be
+>	an inconvenience to me.  I or my university might even get sued,
+>	and if so, the bad guys might win.
+>
+
+In a utopia, this wouldn't even be necessary.  In reality, however, this
+is a concern.  Many news admins are NOT in a position to be a martyr to
+the "freedom to post whatever the heck I want" cause.  Many sites consider
+news a privilege; I certainly consider it as such.  I will be installing
+news on one of our systems in the near future.  There are many factors which
+could cause its removal.  This factor may not be philosophically valid,
+but it must certainly be considered.
+
+>2. "Someone else denies freedoms, so it must be ok."
+>	I once saw a newstand vendor refuse to sell Playboy to a
+>	five year old.  Same thing.  And what better model to follow
+>	for a university in a free society?
+
+Now hold on a second.  Many people have compared NetNews to newsstands
+and libraries, for purposes of determining its status as an information
+source.  Are you trying to say that I can't make that comparison?
+For that matter, many universities refuse to allow minors to access adult
+materials without parental consent (according to posters in this forum; I
+don't have firsthand knowledge of this).  Why shouldn't my access policies
+be the same as the library's?
+
+>3. "We had to destroy freedom in order to save it." (variant of #1)
+>	A reporter will notice I carry alt.sex.  It will get into
+>	the news.  Someone will write a congressman.  The congressman
+>	will call NSF.  NSF will not renew the grant that pays for
+>	network access.  Legitimate research will be impeded, no one
+>	will be able to read news, and (here's the killer) the very
+>	people who wanted alt.sex will not have access to it!!
+
+What's your point?  Would you care to convince me
+that this is not a valid concern? 
+
+Actually, my concern is not reporters; I'm concerned about parents.
+What happens when that father calls the University Administration
+about that "nasty pornography" little Biily is getting from "those
+computers" that his big brother uses?  There won't *be* any letters,
+nor will there be any legal hoohah at all.  There will simply be an
+"administrative" decision made by some faceless bureaucrat, eliminating
+news on university systems.  They'll find some pretext like "network
+congestion" or "large phone bills" or "disk space considerations" or
+"academic use only".
+
+Sarcasm is fine, but let's concern ourselves with the reality of our
+situation.  We're all discussing methods of changing our academic (and
+computing) environments, and that's great.  However, until we have
+effected those changes, we must deal with the current environment, and
+that means that we must make compromises.
+
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!iWarp.intel.com!uunet!wupost!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Taxonomy of forums (was Re: Toward a taxonomy ... of alt.sex)
+Message-ID: <1991Aug29.215250.22926@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+References: <8FC1B522C8807487@ccmail.sunysb.edu> <1991Aug29.202609.17233@eff.org>
+Date: Thu, 29 Aug 1991 21:52:50 GMT
+Lines: 109
+
+kadie@eff.org (Carl M. Kadie) writes:
+
+>Certain state facilities, which
+>may be appropriately used for communication, enjoy special
+>constitution status as "public forums." [...references...] 
+
+I could argue that, since many computer systems were purchased for
+"academic use only", they do not enjoy "public forum" status.
+
+>The Court first
+>focused on "places which by long tradition or by government fiat have
+>been devoted to assembly and debate," such as streets and parks, 
+
+I don't think that a computer system would enjoy this status, regardless
+of the growth of Usenet, IRC, email, and the like.  Access to many systems
+is granted on the basis of *individual* services.  Can we consider a com-
+puter system, in and of itself, to be "devoted to assembly and debate"?
+
+>The second type of public forum on which the Court focused consists of
+>"public property which the State has opened for use by the public as a
+>place for expressive activity." 
+
+Again, computing services are often provided for academic use, i.e. study
+and/or research.  I don't know of a case where a computer system has been
+opened by the State specifically for "expressive activity".  Some systems
+may have evolved into such a beast, but I don't know of any which enjoyed
+such a status since its inception.
+
+I would agree that the addition of a usenet feed to a given com-
+puter system might confer upon that system the status of a "limited public
+forum".  In anticipation of such a status, let's look at the next paragraph:
+
+>A limited public forum may, depending on its nature and
+>the nature of the state's actions, be open to the general public for
+>the discussion of all topics, 
+
+I would suggest that this grants the state, as represented by the individual
+systems' administrators, to start a Usenet feed.
+
+>or there may be limitations on the
+>groups allowed to use the forums or the topics that can be discussed.
+
+Surprise!!  Am I correct in interpreting this as a license to "tailor"
+my Usenet feed?  Doesn't this imply that I could, at the outset, decide
+which newsgroups would or would not be available in the "limited public
+forum" that is the computer system?
+
+>Thus, a limited public forum may be open to certain groups for the
+>discussion if any topic, [ref] or to the entire public for the
+>discussion of certain topics, [ref] or some combination of the two.
+
+Let's embark on another logical chain:
+
+	- We have determined in previous discussions that access
+	  to computer systems may be limited to a particular sec-
+	  tion of the public (i.e., students/faculty/staff, mem-
+	  bers of a particular part of the University (Engineering,
+	  Computer Science, whatever), and the like).
+
+	- I have argued, using this ruling, that a given computer
+	  system does not qualify as a "quintessential public forum".
+	  This interpretation, as always, is subject to debate.
+
+	- However, I have argued, from this ruling, that the addition 
+	  of Usenet to a computer system may grant it status as a "limited 
+	  public forum", according to the decision cited above.
+
+	- The paragraph quoted above grants the state the right to
+	  determine the topics that will be subject to discussion in
+	  the "limited public forum".
+
+To me, it seems that this ruling explicitly gives me the right, as an
+agent of the State, to determine the content of the "limited public
+forum" (i.e., Usenet) which I wish to make available to the public.
+
+>Once the state has created a limited public forum, its ability to
+>impose further constraints on the type of speech permitted in that
+>forum is quite restricted:
+
+As well it should be.  Of course, if I choose not to offer a particular
+newsgroup FROM THE OUTSET, it would seem that I am protected in that 
+choice by this precedent.
+
+>The third type of forum is "{p}ublic property ... which is not by
+>tradition or designation a forum for public communications," [ref]
+>such as a military base or jail. 
+
+I could make the argument that a computer system is not "by tradition
+or designation a forum for public communications".  It is primarily 
+designated as a computational service.  Any public communcation tools,
+such as email or Usenet, might be considered secondary to the computing
+mission.
+
+>Because
+>the Board on a number of occasions permitted the publication of
+>advertisements advocating military service, there can be no question
+>by that the Board intended to open the newspapers for advertisements
+>on this topic -- at least by one side to the debate.
+
+If I do not provide a particular newsgroup FROM THE OUTSET of news
+service, this wouldn't apply to my news feed.  Netiher side of a 
+particular newsgroup discussion would enjoy access to my system.
+I think I'm covered.
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+>From comp-academic-freedom-talk-request@eff.org Mon Aug 26 12:56:50 1991
+Return-Path: <comp-academic-freedom-talk-request@eff.org>
+Received: from eff.org by alpha.CES.CWRU.Edu with SMTP (5.64+/ane.07.08.91.01)
+	id AA24871; Mon, 26 Aug 91 12:56:47 -0400
+Received: by eff.org (5.61+++/Spike-2.0)
+	id AA18536; Mon, 26 Aug 91 12:56:08 -0400
+Reply-To: comp-academic-freedom-talk@eff.org
+Precedence: bulk
+To: comp-academic-freedom-talk@eff.org
+Date: Mon, 26 Aug 1991 16:54:22 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug26.165422.18472@eff.org>
+Organization: The Electronic Frontier Foundation
+From: comp-academic-freedom-talk-request@eff.org
+References: <1991Aug19.143743.21042@ms.uky.edu>, <cos.682978378@chaos.cs.brandeis.edu>, <1991Aug26.135435.7338@ms.uky.edu>
+Subject: Re: I don't get it.
+Status: OR
+
+Concerning so-called adult periodicals:
+
+Some states have laws that restrict the display and sales of sexually
+explicit material to minors. The laws have often been rewritten after
+courts found them to interfere too much with the rights of adults
+to read what they wished.
+
+Libraries are often (for example, in Michigan) are exempt from
+these laws.
+
+It is the official position of the American Library Association that
+"a person's right to use a library should not be denied or abridged
+because of origin, age, background, or views." This means that they
+fight against requiring "a parent's permission before allowing a
+customer under 18 to browse/borrow from the adult collection."
+[quoting Wes Morgan].
+
+I am not aware that such restrictions are widespread.
+
+If such a law really applies to you, I can see that you
+might feel compelled (under protest, I hope) to restrict
+sexually explicit material to people over 18.
+
+I would note that alt.sex is the most widely read newsgroup
+in the world. This suggest that most sites have not
+found it necessary to ban it.
+
+ ~References:
+The Library Bill of Rights (available via anonymous ftp from eff.org
+                   as file pub/academic/library.us)
+Censorship and Selection: Issues and Answers for Schools
+Before and After the Censor: a Resource Manual on Intellectual Freedom
+Intellectual Freedom Manual
+  (full references in note <1991Aug15.200628.27084@eff.org>)
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Mon, 12 Aug 1991 14:54:34 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug12.145434.3380@eff.org>
+References: <9108110456.AA10689@relay1.UU.NET>
+Subject: Re: Public/Private institutions
+
+bsc835!ehunt@uunet.uu.net writes:
+[...]
+>My question is this: Do these same rules and precedents apply to private 
+>colleges as well? I attend a Methodist affiliated private college in 
+>Birmingham, AL, and am beginning to become unsure of my rights as a student
+>in a private institution. While we are a very small college (1850 enrollmnt)
+>and I've not had any problems whatsoever in these areas, I would feel better
+>if I had the knowledge that I was "covered" under the same legal umbrella
+>that the public schools are under.
+[...]
+
+My understanding is that students at privacy colleges and universities
+have contractual rights but not constitutional rights. To learn about
+your contractual rights look for a document with a name (something
+like) "Code on Campus Affairs and Handbook of Policies and
+Regulations". If you are about to sign a registration agreement for
+Fall, look at what you are signing; it may refer to the handbook.
+
+These handbooks (usually) promise due process, some free expression,
+and some privacy. These are not idle promises; they are legally
+enforceable contractual obligations.
+
+Computer policies that contradict these contractual obligations are,
+in my opinion, morally and legally indefenseable.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Wed, 7 Aug 1991 16:31:31 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug7.163131.23490@eff.org>
+References: <1991Jul30.202126.7529@eff.org>, <1489@cameron.egr.duke.edu>, <2072@vtserf.cc.vt.edu>
+Subject: Re: Authority of Public Universities
+
+marchany@vtserf.cc.vt.edu (Randy Marchany) writes:
+[...]
+>In answer to John's question, there is an OFFICIAL RFC out (RFC 1244)
+>entitled "Site Security Handbook" by P. Holbrook and J. Reynolds that is
+>a "first attempt at providing Internet users guidance on how to deal
+>with security issues in the Internet. This handbook is meant to be a
+>starting place for further research and should be viewed as a useful
+>resource, but not the final authority." (quote from the description
+>of the RFC). 
+[...]
+
+The document is about 100 pages long. It is mostly about security
+(physical security, security audits, incident handling, etc).
+
+ It is very general. It applies as much to a free student account at a
+university as to an internet connected machine at a military base.
+
+Here are some excerpts related to computer policy creation.  [The full
+RFC (request for comment) is available via anonymous ftp from eff.org
+as file academic/rfc1244.txt.]
+
+ - Carl
+
+
+--------------------------
+
+[...]
+   2.1.2  Who Makes the Policy?
+
+      Policy creation must be a joint effort by technical personnel, who
+      understand the full ramifications of the proposed policy and the
+      implementation of the policy, and by decision makers who have the
+      power to enforce the policy.  A policy which is neither
+      implementable nor enforceable is useless.
+
+      Since a computer security policy can affect everyone in an
+      organization, it is worth taking some care to make sure you have
+      the right level of authority in on the policy decisions.  Though a
+      particular group (such as a campus information services group) may
+      have responsibility for enforcing a policy, an even higher group
+      may have to support and approve the policy.
+
+[...]
+
+2.3  Policy Issues
+
+   There are a number of issues that must be addressed when developing a
+   security policy.  These are:
+
+      1.  Who is allowed to use the resources?
+      2.  What is the proper use of the resources?
+      3.  Who is authorized to grant access and approve usage?
+      4.  Who may have system administration privileges?
+      5.  What are the user's rights and responsibilities?
+      6.  What are the rights and responsibilities of the
+          system administrator vs. those of the user?
+      7.  What do you do with sensitive information?
+
+   These issues will be discussed below.  In addition you may wish to
+   include a section in your policy concerning ethical use of computing
+   resources.  Parker, Swope and Baker [17, PARKER90] and Forester and
+   Morrison [18, FORESTER] are two useful references that address
+   ethical issues.
+
+   2.3.1  Who is Allowed to use the Resources?
+
+      One step you must take in developing your security policy is
+      defining who is allowed to use your system and services.  The
+      policy should explicitly state who is authorized to use what
+      resources.
+
+   2.3.2  What is the Proper Use of the Resources?
+
+      After determining who is allowed access to system resources it is
+      necessary to provide guidelines for the acceptable use of the
+      resources.  You may have different guidelines for different types
+      of users (i.e., students, faculty, external users).  The policy
+      should state what is acceptable use as well as unacceptable use.
+      It should also include types of use that may be restricted.
+
+      Define limits to access and authority.  You will need to consider
+      the level of access various users will have and what resources
+      will be available or restricted to various groups of people.
+
+      Your acceptable use policy should clearly state that individual
+      users are responsible for their actions.  Their responsibility
+      exists regardless of the security mechanisms that are in place.
+      It should be clearly stated that breaking into accounts or
+      bypassing security is not permitted.
+
+      The following points should be covered when developing an
+      acceptable use policy:
+
+         o Is breaking into accounts permitted?
+         o Is cracking passwords permitted?
+         o Is disrupting service permitted?
+         o Should users assume that a file being world-readable
+           grants them the authorization to read it?
+         o Should users be permitted to modify files that are
+           not their own even if they happen to have write
+           permission?
+         o Should users share accounts?
+
+      The answer to most of these questions will be "no".
+
+      You may wish to incorporate a statement in your policies
+      concerning copyrighted and licensed software.  Licensing
+      agreements with vendors may require some sort of effort on your
+      part to ensure that the license is not violated.  In addition, you
+      may wish to inform users that the copying of copyrighted software
+      may be a violation of the copyright laws, and is not permitted.
+
+      Specifically concerning copyrighted and/or licensed software, you
+      may wish to include the following information:
+
+         o Copyrighted and licensed software may not be duplicated
+           unless it is explicitly stated that you may do so.
+         o Methods of conveying information on the
+           copyright/licensed status of software.
+         o When in doubt, DON'T COPY.
+
+      Your acceptable use policy is very important.  A policy which does
+      not clearly state what is not permitted may leave you unable to
+      prove that a user violated policy.
+
+      There are exception cases like tiger teams and users or
+      administrators wishing for "licenses to hack" -- you may face the
+      situation where users will want to "hack" on your services for
+      security research purposes.  You should develop a policy that will
+      determine whether you will permit this type of research on your
+      services and if so, what your guidelines for such research will
+      be.
+
+      Points you may wish to cover in this area:
+         o Whether it is permitted at all.
+         o What type of activity is permitted: breaking in, releasing
+           worms, releasing viruses, etc..
+         o What type of controls must be in place to ensure that it
+           does not get out of control (e.g., separate a segment of
+           your network for these tests).
+         o How you will protect other users from being victims of
+           these activities, including external users and networks.
+         o The process for obtaining permission to conduct these
+           tests.
+
+      In cases where you do permit these activities, you should isolate
+      the portions of the network that are being tested from your main
+      network.  Worms and viruses should never be released on a live
+      network.
+
+      You may also wish to employ, contract, or otherwise solicit one or
+      more people or organizations to evaluate the security of your
+      services, of which may include "hacking".  You may wish to provide
+      for this in your policy.
+
+   2.3.3  Who Is Authorized to Grant Access and Approve Usage?
+
+      Your policy should state who is authorized to grant access to your
+      services.  Further, it must be determined what type of access they
+      are permitted to give.  If you do not have control over who is
+      granted access to your system, you will not have control over who
+      is using your system.  Controlling who has the authorization to
+      grant access will also enable you to know who was or was not
+      granting access if problems develop later.
+
+      There are many schemes that can be developed to control the
+      distribution of access to your services.  The following are the
+      factors that you must consider when determining who will
+      distribute access to your services:
+
+         o Will you be distributing access from a centralized
+           point or at various points?
+
+      You can have a centralized distribution point to a distributed
+      system where various sites or departments independently authorize
+      access.  The trade off is between security and convenience.  The
+      more centralized, the easier to secure.
+
+         o What methods will you use for creating accounts and
+           terminating access?
+
+      From a security standpoint, you need to examine the mechanism that
+      you will be using to create accounts.  In the least restrictive
+      case, the people who are authorized to grant access would be able
+      to go into the system directly and create an account by hand or
+      through vendor supplied mechanisms.  Generally, these mechanisms
+      place a great deal of trust in the person running them, and the
+      person running them usually has a large amount of privileges.  If
+      this is the choice you make, you need to select someone who is
+      trustworthy to perform this task.  The opposite solution is to
+      have an integrated system that the people authorized to create
+      accounts run, or the users themselves may actually run.  Be aware
+      that even in the restrictive case of having a mechanized facility
+      to create accounts does not remove the potential for abuse.
+
+      You should have specific procedures developed for the creation of
+      accounts.  These procedures should be well documented to prevent
+      confusion and reduce mistakes.  A security vulnerability in the
+      account authorization process is not only possible through abuse,
+      but is also possible if a mistake is made.  Having clear and well
+      documented procedure will help ensure that these mistakes won't
+      happen.  You should also be sure that the people who will be
+      following these procedures understand them.
+
+      The granting of access to users is one of the most vulnerable of
+      times.  You should ensure that the selection of an initial
+      password cannot be easily guessed.  You should avoid using an
+      initial password that is a function of the username, is part of
+      the user's name, or some algorithmically generated password that
+      can easily be guessed.  In addition, you should not permit users
+      to continue to use the initial password indefinitely.  If
+      possible, you should force users to change the initial password
+      the first time they login.  Consider that some users may never
+      even login, leaving their password vulnerable indefinitely.  Some
+      sites choose to disable accounts that have never been accessed,
+      and force the owner to reauthorize opening the account.
+
+   2.3.4  Who May Have System Administration Privileges?
+
+      One security decision that needs to be made very carefully is who
+      will have access to system administrator privileges and passwords
+      for your services.  Obviously, the system administrators will need
+      access, but inevitably other users will request special
+      privileges.  The policy should address this issue.  Restricting
+      privileges is one way to deal with threats from local users.  The
+      challenge is to balance restricting access to these to protect
+      security with giving people who need these privileges access so
+      that they can perform their tasks.  One approach that can be taken
+      is to grant only enough privilege to accomplish the necessary
+      tasks.
+
+      Additionally, people holding special privileges should be
+      accountable to some authority and this should also be identified
+      within the site's security policy.  If the people you grant
+      privileges to are not accountable, you run the risk of losing
+      control of your system and will have difficulty managing a
+      compromise in security.
+
+   2.3.5  What Are The Users' Rights and Responsibilities?
+
+      The policy should incorporate a statement on the users' rights and
+      responsibilities concerning the use of the site's computer systems
+      and services.  It should be clearly stated that users are
+      responsible for understanding and respecting the security rules of
+      the systems they are using.  The following is a list of topics
+      that you may wish to cover in this area of the policy:
+
+         o What guidelines you have regarding resource consumption
+           (whether users are restricted, and if so, what the
+           restrictions are).
+         o What might constitute abuse in terms of system performance.
+         o Whether users are permitted to share accounts or let others
+           use their accounts.
+         o How "secret" users should keep their passwords.
+         o How often users should change their passwords and any other
+           password restrictions or requirements.
+         o Whether you provide backups or expect the users to create
+           their own.
+         o Disclosure of information that may be proprietary.
+         o Statement on Electronic Mail Privacy (Electronic
+           Communications Privacy Act).
+         o Your policy concerning controversial mail or postings to
+           mailing lists or discussion groups (obscenity, harassment,
+           etc.).
+         o Policy on electronic communications: mail forging, etc.
+
+      The Electronic Mail Association sponsored a white paper on the
+      privacy of electronic mail in companies [4].  Their basic
+      recommendation is that every site should have a policy on the
+      protection of employee privacy.  They also recommend that
+      organizations establish privacy policies that deal with all media,
+      rather than singling out electronic mail.
+
+      They suggest five criteria for evaluating any policy:
+
+         1. Does the policy comply with law and with duties to
+            third parties?
+
+         2. Does the policy unnecessarily compromise the interest of
+            the employee, the employer or third parties?
+
+         3. Is the policy workable as a practical matter and likely to
+            be enforced?
+
+         4. Does the policy deal appropriately with all different
+            forms of communications and record keeping with the office?
+
+         5. Has the policy been announced in advance and agreed to by
+            all concerned?
+
+   2.3.6  What Are The Rights and Responsibilities of System
+          Administrators Versus Rights of Users
+
+      There is a tradeoff between a user's right to absolute privacy and
+      the need of system administrators to gather sufficient information
+      to diagnose problems.  There is also a distinction between a
+      system administrator's need to gather information to diagnose
+      problems and investigating security violations.  The policy should
+      specify to what degree system administrators can examine user
+      files to diagnose problems or for other purposes, and what rights
+      you grant to the users.  You may also wish to make a statement
+      concerning system administrators' obligation to maintaining the
+      privacy of information viewed under these circumstances.  A few
+      questions that should be answered are:
+
+         o Can an administrator monitor or read a user's files
+           for any reason?
+         o What are the liabilities?
+         o Do network administrators have the right to examine
+           network or host traffic?
+
+   2.3.7  What To Do With Sensitive Information
+
+      Before granting users access to your services, you need to
+      determine at what level you will provide for the security of data
+      on your systems.  By determining this, you are determining the
+      level of sensitivity of data that users should store on your
+      systems.  You do not want users to store very sensitive
+      information on a system that you are not going to secure very
+      well.  You need to tell users who might store sensitive
+      information what services, if any, are appropriate for the storage
+      of sensitive information.  This part should include storing of
+      data in different ways (disk, magnetic tape, file servers, etc.).
+      Your policy in this area needs to be coordinated with the policy
+      concerning the rights of system administrators versus users (see
+      section 2.3.6).
+
+2.4  What Happens When the Policy is Violated
+
+   It is obvious that when any type of official policy is defined, be it
+   related to computer security or not, it will eventually be broken.
+   The violation may occur due to an individual's negligence, accidental
+   mistake, having not been properly informed of the current policy, or
+   not understanding the current policy.  It is equally possible that an
+   individual (or group of individuals) may knowingly perform an act
+   that is in direct violation of the defined policy.
+
+   When a policy violation has been detected, the immediate course of
+   action should be pre-defined to ensure prompt and proper enforcement.
+   An investigation should be performed to determine how and why the
+   violation occurred.  Then the appropriate corrective action should be
+   executed.  The type and severity of action taken varies depending on
+   the type of violation that occurred.
+
+   2.4.1  Determining the Response to Policy Violations
+
+      Violations to policy may be committed by a wide variety of users.
+      Some may be local users and others may be from outside the local
+      environment.  Sites may find it helpful to define what it
+      considers "insiders" and "outsiders" based upon administrative,
+      legal or political boundaries.  These boundaries imply what type
+      of action must be taken to correct the offending party; from a
+      written reprimand to pressing legal charges.  So, not only do you
+      need to define actions based on the type of violation, you also
+      need to have a clearly defined series of actions based on the kind
+      of user violating your computer security policy.  This all seems
+      rather complicated, but should be addressed long before it becomes
+      necessary as the result of a violation.
+
+      One point to remember about your policy is that proper education
+      is your best defense.  For the outsiders who are using your
+      computer legally, it is your responsibility to verify that these
+      individuals are aware of the policies that you have set forth.
+      Having this proof may assist you in the future if legal action
+      becomes necessary.
+
+      As for users who are using your computer illegally, the problem is
+      basically the same.  What type of user violated the policy and how
+      and why did they do it?  Depending on the results of your
+      investigation, you may just prefer to "plug" the hole in your
+      computer security and chalk it up to experience.  Or if a
+      significant amount of loss was incurred, you may wish to take more
+      drastic action.
+
+
+   2.4.2  What to do When Local Users Violate the Policy of a Remote
+          Site
+
+      In the event that a local user violates the security policy of a
+      remote site, the local site should have a clearly defined set of
+      administrative actions to take concerning that local user.  The
+      site should also be prepared to protect itself against possible
+      actions by the remote site.  These situations involve legal issues
+      which should be addressed when forming the security policy.
+
+   2.4.3  Defining Contacts and Responsibilities to Outside
+          Organizations
+
+      The local security policy should include procedures for
+      interaction with outside organizations.  These include law
+      enforcement agencies, other sites, external response team
+      organizations (e.g., the CERT, CIAC) and various press agencies.
+      The procedure should state who is authorized to make such contact
+      and how it should be handled.  Some questions to be answered
+      include:
+
+         o Who may talk to the press?
+         o When do you contact law enforcement and investigative agencies?
+         o If a connection is made from a remote site, is the
+           system manager authorized to contact that site?
+         o Can data be released?  What kind?
+
+      Detailed contact information should be readily available along
+      with clearly defined procedures to follow.
+
+   2.4.4  What are the Responsibilities to our Neighbors and Other
+          Internet Sites?
+
+      The Security Policy Working Group within the IETF is working on a
+      document entitled, "Policy Guidelines for the Secure Operation of
+      the Internet" [23].  It addresses the issue that the Internet is a
+      cooperative venture and that sites are expected to provide mutual
+      security assistance.  This should be addressed when developing a
+      site's policy.  The major issue to be determined is how much
+      information should be released.  This will vary from site to site
+      according to the type of site (e.g., military, education,
+      commercial) as well as the type of security violation that
+      occurred.
+
+   2.4.5  Issues for Incident Handling Procedures
+
+      Along with statements of policy, the document being prepared
+      should include procedures for incident handling.  This is covered
+      in detail in the next chapter.  There should be procedures
+      available that cover all facets of policy violation.
+
+2.5  Locking In or Out
+
+   Whenever a site suffers an incident which may compromise computer
+   security, the strategies for reacting may be influenced by two
+   opposing pressures.
+
+   If management fears that the site is sufficiently vulnerable, it may
+   choose a "Protect and Proceed" strategy.  This approach will have as
+   its primary goal the protection and preservation of the site
+   facilities and to provide for normalcy for its users as quickly as
+   possible.  Attempts will be made to actively interfere with the
+   intruder's processes, prevent further access and begin immediate
+   damage assessment and recovery.  This process may involve shutting
+   down the facilities, closing off access to the network, or other
+   drastic measures.  The drawback is that unless the intruder is
+   identified directly, they may come back into the site via a different
+   path, or may attack another site.
+
+   The alternate approach, "Pursue and Prosecute", adopts the opposite
+   philosophy and goals.  The primary goal is to allow intruders to
+   continue their activities at the site until the site can identify the
+   responsible persons.  This approach is endorsed by law enforcement
+   agencies and prosecutors.  The drawback is that the agencies cannot
+   exempt a site from possible user lawsuits if damage is done to their
+   systems and data.
+
+   Prosecution is not the only outcome possible if the intruder is
+   identified.  If the culprit is an employee or a student, the
+   organization may choose to take disciplinary actions.  The computer
+   security policy needs to spell out the choices and how they will be
+   selected if an intruder is caught.
+
+   Careful consideration must be made by site management regarding their
+   approach to this issue before the problem occurs.  The strategy
+   adopted might depend upon each circumstance.  Or there may be a
+   global policy which mandates one approach in all circumstances.  The
+   pros and cons must be examined thoroughly and the users of the
+   facilities must be made aware of the policy so that they understand
+   their vulnerabilities no matter which approach is taken.
+
+   The following are checklists to help a site determine which strategy
+   to adopt: "Protect and Proceed" or "Pursue and Prosecute".
+
+
+
+   Protect and Proceed
+
+      1. If assets are not well protected.
+
+      2. If continued penetration could result in great
+         financial risk.
+
+      3. If the possibility or willingness to prosecute
+         is not present.
+
+      4. If user base is unknown.
+
+      5. If users are unsophisticated and their work is
+         vulnerable.
+
+      6. If the site is vulnerable to lawsuits from users, e.g.,
+         if their resources are undermined.
+
+   Pursue and Prosecute
+
+      1. If assets and systems are well protected.
+
+      2. If good backups are available.
+
+      3. If the risk to the assets is outweighed by the
+         disruption caused by the present and possibly future
+         penetrations.
+
+      4. If this is a concentrated attack occurring with great
+         frequency and intensity.
+
+      5. If the site has a natural attraction to intruders, and
+         consequently regularly attracts intruders.
+
+      6. If the site is willing to incur the financial (or other)
+         risk to assets by allowing the penetrator continue.
+
+      7. If intruder access can be controlled.
+
+      8. If the monitoring tools are sufficiently well-developed
+         to make the pursuit worthwhile.
+
+      9. If the support staff is sufficiently clever and knowledgable
+         about the operating system, related utilities, and systems
+         to make the pursuit worthwhile.
+
+      10. If there is willingness on the part of management to
+          prosecute.
+
+      11. If the system adminitrators know in general what kind of
+          evidence would lead to prosecution.
+
+      12. If there is established contact with knowledgeable law
+          enforcement.
+
+      13. If there is a site representative versed in the relevant
+          legal issues.
+
+      14. If the site is prepared for possible legal action from
+          its own users if their data or systems become compromised
+          during the pursuit.
+
+2.6  Interpreting the Policy
+
+   It is important to define who will interpret the policy.  This could
+   be an individual or a committee.  No matter how well written, the
+   policy will require interpretation from time to time and this body
+   would serve to review, interpret, and revise the policy as needed.
+
+2.7  Publicizing the Policy
+
+   Once the site security policy has been written and established, a
+   vigorous process should be engaged to ensure that the policy
+   statement is widely and thoroughly disseminated and discussed.  A
+   mailing of the policy should not be considered sufficient.  A period
+   for comments should be allowed before the policy becomes effective to
+   ensure that all affected users have a chance to state their reactions
+   and discuss any unforeseen ramifications.  Ideally, the policy should
+   strike a balance between protection and productivity.
+
+   Meetings should be held to elicit these comments, and also to ensure
+   that the policy is correctly understood.  (Policy promulgators are
+   not necessarily noted for their skill with the language.)  These
+   meetings should involve higher management as well as line employees.
+   Security is a collective effort.
+
+   In addition to the initial efforts to publicize the policy, it is
+   essential for the site to maintain a continual awareness of its
+   computer security policy.  Current users may need periodic reminders
+   New users should have the policy included as part of their site
+   introduction packet.  As a condition for using the site facilities,
+   it may be advisable to have them sign a statement that they have read
+   and understood the policy.  Should any of these users require legal
+   action for serious policy violations, this signed statement might
+   prove to be a valuable aid.
+
+
+[...]
+
+3.8  Communicating Security Policy
+
+   Security policies, in order to be effective, must be communicated to
+   both the users of the system and the system maintainers.  This
+   section describes what these people should be told, and how to tell
+   them.
+
+   3.8.1  Educating the Users
+
+      Users should be made aware of how the computer systems are
+      expected to be used, and how to protect themselves from
+      unauthorized users.
+
+      3.8.1.1  Proper Account/Workstation Use
+
+         All users should be informed about what is considered the
+         "proper" use of their account or workstation ("proper" use is
+         discussed in section 2.3.2).  This can most easily be done at
+         the time a user receives their account, by giving them a policy
+         statement.  Proper use policies typically dictate things such
+         as whether or not the account or workstation may be used for
+         personal activities (such as checkbook balancing or letter
+         writing), whether profit-making activities are allowed, whether
+         game playing is permitted, and so on.  These policy statements
+         may also be used to summarize how the computer facility is
+         licensed and what software licenses are held by the
+         institution; for example, many universities have educational
+         licenses which explicitly prohibit commercial uses of the
+         system.  A more complete list of items to consider when writing
+         a policy statement is given in section 2.3.
+
+[...]
+
+   [FORESTER]
+           Forester, T., and P. Morrison, "Computer Ethics: Tales and
+           Ethical Dilemmas in Computing", MIT Press, Cambridge, MA,
+           1990.  (192 pages including index.)
+           From the preface: "The aim of this book is two-fold: (1) to
+           describe some of the problems created by society by computers,
+           and (2) to show how these problems present ethical dilemmas
+           for computers professionals and computer users.
+
+           The problems created by computers arise, in turn, from two
+           main sources: from hardware and software malfunctions and
+           from misuse by human beings.  We argue that computer systems
+           by their very nature are insecure, unreliable, and
+           unpredictable -- and that society has yet to come to terms
+           with the consequences.  We also seek to show how society
+           has become newly vulnerable to human misuse of computers in
+           the form of computer crime, software theft, hacking, the
+           creation of viruses, invasions of privacy, and so on."
+
+           The eight chapters include "Computer Crime", "Software
+           Theft", "Hacking and Viruses", "Unreliable Computers",
+           "The Invasion of Privacy", "AI and Expert Systems",
+           and "Computerizing the Workplace."  Includes extensive
+           notes on sources and an index.
+
+[...]
+
+   [PARKER90]
+           Parker, D., Swope, S., and B. Baker, "Ethical Conflicts:
+           Information and Computer Science, Technology and Business",
+           QED Information Sciences, Inc., Wellesley, MA. (245 pages).
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Fri, 23 Aug 1991 14:52:58 GMT
+Sender: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug23.145258.12240@eff.org>
+Subject: Computer Policy in the Student Handbook
+
+At many (most?) universities, a computer organization can suspend or
+expel a user from the computer for any reason and with no right of
+appeal. This power is sometimes justified by defining it away. (For
+example, Due process is only necessary if there is a punishment.
+Computer expulsion is defined not be a punishment. Therefore, due
+process is not needed.)
+
+Other times, it is justified as an administrative action. But what
+other university officials have this much unchecked power?
+
+At my school, the University of Illinois at Urbana, faculty can punish
+a student for cheating by (among other things) assigning the student a
+failing grade. Also, the library can fine a patron for keeping a book
+too long. In both cases, however, everything is outlined in the
+student handbook (even the amount of the library fines).
+
+Also, the handbook's rules for the classroom and library can not be
+changed at the whim of the dean or the head librarian. The rules are
+part of the official University code and all changes must be discussed
+and approved by the University government and administration.
+
+For many students and faculty, computer facilities are now as
+important as libraries. The time for informal, ad hoc, and local
+computer policies has passed. It's time to put computer policies in
+the student handbook.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+>From comp-academic-freedom-talk-request@eff.org Mon Aug 26 15:41:53 1991
+Return-Path: <comp-academic-freedom-talk-request@eff.org>
+Received: from eff.org by alpha.CES.CWRU.Edu with SMTP (5.64+/ane.07.08.91.01)
+	id AA25454; Mon, 26 Aug 91 15:41:50 -0400
+Received: by eff.org (5.61+++/Spike-2.0)
+	id AA21925; Mon, 26 Aug 91 15:41:08 -0400
+Reply-To: comp-academic-freedom-talk@eff.org
+Precedence: bulk
+To: comp-academic-freedom-talk@eff.org
+Date: Mon, 26 Aug 1991 19:29:51 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug26.192951.21811@eff.org>
+Organization: The Electronic Frontier Foundation
+From: comp-academic-freedom-talk-request@eff.org
+References: <1991Aug23.145258.12240@eff.org>, <1991Aug23.233843.25066@mp.cs.niu.edu>, <1991Aug26.163042.17952@eff.org>
+Subject: Re: Computer Policy in the Student Handbook
+Status: OR
+
+kadie@eff.org (Carl M. Kadie) writes:
+[...]
+
+>Maybe we can make a list of actions that should be at the sysadmin's
+>discretion (subject to the requirement that the sysadmin not act
+>capriciously) and another list of disciplinary actions that would be
+>reviewed more closely:
+
+>Here is a first cut:
+
+>Discretionary actions:
+
+>  - changing disk quotas
+>  - suspending high CPU jobs until a later time
+>  - deleting the /tmp directory
+>  - suspending an account for "reasons relating to his physical or
+>    emotional safety and well being, or for reasons relating to the safety
+>    and well-being of students, faculty, or university property.
+>  etc
+
+>Disciplinary Actions:
+> (- informal warning)
+>  - formal warning
+>  - suspending a student from the computer as a penalty for an infraction
+>  - expelling a student from the computer
+>  - suspending a student from the university
+>  - etc.
+
+I got a batch of library books a few hours after I wrote this.
+Here is a quote from _Teacher's and the Law_, 3rd edition, by
+Louis Fischer, et al. Published in 1991 by Longman. (The book
+is aimed at K-12 teachers).
+
+--- begin quote----
+[Question:] Have due process requirements turned classrooms and schools
+into courtrooms?
+
+[Answer:] No. When the Supreme Court ruled in Goss that even short-term
+suspensions require some modicum of due process, a hue and cry arose
+across the land. School administrators, parents, and teachers were
+upset and feared that the decision would force school officials to
+consult lawyers before they could take any disciplinary measures in
+schools. These fears where ill based. Careful reading of Goss and
+other cases indicates that the legal requirements are not at all
+excessive and that there is no need for lawyers to be at the side of
+administrators or teachers. Conscientious educators used fair
+procedures long before these cases ever went to court, and their
+procedures amply satisfy the law.
+
+On the other hand, oppressive, authoritarian procedures that do not
+respect students' rights to know why they are being disciplined and do
+not provide opportunities for students to present their defense in a
+fair way are crumbling as a result of the application of the
+Constitution to the schools. In sum, on may think of the right of due
+process as applying to student disciplinary matters on a continuum
+represented in the following diagram:
+
+May act without due process:
+
+Trivial or vary minor matters, or emergencies. The latter must be
+followed by due process as soon as possible.
+
+Some modicum of due process is necessary:
+
+Disciplinary matters that may lead to short-term suspensions
+or entry on the students' record.
+
+Extensive, careful due process is required:
+
+Disciplinary matters that may result in long-term suspension or
+expulsion, or in a significant penalty such as a short suspension
+during final exams.
+
+---- end of quote ---
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: rickert@cs.niu.edu (Neil Rickert)
+Subject: Re: Computer Policy in the Student Handbook
+Message-ID: <1991Aug31.162538.22121@mp.cs.niu.edu>
+From: rickert@cs.niu.edu
+Organization: Northern Illinois University
+References: <1991Aug23.145258.12240@eff.org> 
+Date: 31 Aug 91 16:25:38 GMT
+Approved: usenet@eff.org
+Lines: 85
+
+In article <1991Aug30.221014.20654@eff.org> kadie@eff.ORG (Carl Kadie) writes:
+>How about a compromise? Maybe a user (student, faculty, etc) could be
+>given 24 or 48 hours after being contacted to make an appointment for
+>a meeting. After that their account would be suspended until they made
+>an appointment. (This is kind of like not being able to register for
+>classes if you owe the University money.)
+
+ I have no problem with this provided:
+  (a) There is provision for immediate suspension where needed to protect
+      the system - I would expect use of this to be very rare.
+
+  (b) The 48 hours notice can be given by email.  If the user doesn't bother 
+      to read his email, too bad.  That is his problem.  This is somewhat 
+      comparable to the idea that certain types of legal notices can be
+      published in appropriate newspapers/journals, and that publication is 
+      deemed adequate notification.
+
+>>  If,
+>>on the other hand, an instructor fails a student in a class, this will likely
+>>have very serious long term consequences for the student, yet you accept that
+>>this is something the instructor can do in the normal course of events,
+>>subject only to some appeal procedure.
+>
+>I can't think of any better alternative than to have faculty assign
+>grades. Note that even faculty can't punish a student for cheating
+>without at least an informal hearing.
+
+ The faculty member can assign a grade of FAIL for cheating.  Unless the
+students appeals, there will be no hearing.
+
+>> You only have to look at the mess the patent office and the
+>>courts are making in computer related cases to realize that we do not have
+>>the experience necessary to prepare such a set of rules as you propose.
+>
+>I agree with your assessment, but draw the opposite conclusion. I
+>would say that the patent office and the courts are messed up because
+>they don't have computer-specific laws to guide them.
+
+ The don't have the computer-specific laws to guide them because we do not 
+have enough experience to know how to design such laws.  There have been 
+various attempts, largely unsuccessful, to draw up such laws.
+
+>>  When
+>>you don't have the experience to understand the consequences you need to
+>>grant a great deal of flexibility to those who make the decisions, 
+>
+>Can you give examples of situations in which a sys admin needs a great
+>deal of flexibility? Perhaps we can propose some rules that are clear
+>enough to satisfy me and flexible enough to satisfy you.
+
+   I see a student has 50 processes running wild (our current per-user limit), 
+   and I see a faculty member has 3 processes very carefully 'nice'd. 
+
+   I need the flexibility to decide that the student problem is 
+   inconsequential, probably caused by a shell script named 'test' which does 
+   an 'if test ...', and I need the flexibility to kill two of the professor's 
+   processes because, in spite of the 'nice', they are memory hogs and are 
+   thrashing so severely as to cause severe interference with other users.
+
+   --
+
+   I see student A has started a daemon which watches for new logins, and 
+   does 'write's to them.  I see student B has started a daemon which watches 
+   for new processes and attempts to 'kill' them.
+
+   I need the flexibility to determine that student A has done something 
+   abusive and anti-social, while student B has merely seen a neat looking 
+   program named 'init', tried it to see what it does, then attempted to kill 
+   it after realizing his mistake.  (Naturally I removed the world execute 
+   permissions of 'init' after this happened).
+
+   --
+
+   I need the flexibility to decide that a student who is 'telnet'ing to port 
+   2000 as some place halfway across the country is violating our rules 
+   against playing games in the middle of the day.  I need the flexibility to 
+   decide that another student who is running a program called 'hangman' is 
+   just working on an assignment in his programming class.
+
+
+-- 
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+  Neil W. Rickert, Computer Science               <rickert@cs.niu.edu>
+  Northern Illinois Univ.
+  DeKalb, IL 60115                                   +1-815-753-6940
+
+
+

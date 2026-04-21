@@ -1,0 +1,517 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "ending January 3, 1993",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "The Secret Service seized computers from Texas Tech dorms alleging software theft via the Internet.",
+        "Revised copyright laws allowed felony charges for pirating more than 10 copies of copyrighted software.",
+        "NSFNet backbone access was granted to information providers stating their resources would support research and education."
+      ],
+      "organizations": [
+        "Secret Service",
+        "Texas Tech University",
+        "CERT",
+        "NSF",
+        "University of Miami",
+        "EFF"
+      ],
+      "people": [
+        "Karl Barrus",
+        "Joe Abernathy",
+        "Mike Riddle",
+        "Jim Thomas",
+        "Lance Rose",
+        "Leonard Erickson",
+        "Jyrki Kuoppala",
+        "J S Greenfield",
+        "Tom Leylan",
+        "Foxvog Douglas",
+        "Gordon Cook",
+        "Stephen Wolff",
+        "Carl M. Kadie",
+        "William W. Arnold",
+        "Elizabeth M. Reid",
+        "Paul Joslin",
+        "Adam C. Gross",
+        "Mark C. Sheehan",
+        "John F. Nixon",
+        "Aaron Barnhart"
+      ],
+      "summary": "This digest summarizes various discussions regarding computer law and academic freedom, including a Secret Service raid at Texas Tech University over software piracy. It highlights legal resources for bulletin board operators (SYSLAW), debates on public property rights versus government policy, and NSFNet Acceptable Use Policies. The item also touches upon censorship and the reporting of offensive content to system administrators.",
+      "title": "Abstract of CAF-News 02.64",
+      "topics": [
+        "software piracy",
+        "BBS law",
+        "Acceptable Use Policy",
+        "censorship",
+        "property rights",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "elee9sf@Menudo.UH.EDU (Karl Barrus)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 0 -- Abstract of CAF-News 02.64",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "A 1992 copyright law revision allowed felony charges for trading more than 10 pieces of copyrighted software.",
+        "The raid involved an expanded right to use forfeiture against computer equipment used in crimes."
+      ],
+      "organizations": [
+        "Secret Service",
+        "Texas Tech University",
+        "Software Publishers Association",
+        "Computer Professionals for Social Responsibility"
+      ],
+      "people": [
+        "Joe Abernathy",
+        "R. David Freriks",
+        "Scott Chasin",
+        "Marc Rotenberg"
+      ],
+      "summary": "The Secret Service raided a Texas Tech University dorm to seize computers from students allegedly using the Internet to trade pirated software. The action highlighted new copyright law revisions that lowered the felony threshold for software piracy and expanded government forfeiture rights over computer hardware.",
+      "title": "Federal Agents Raid Dorm, Seize Computer Equipment",
+      "topics": [
+        "software piracy",
+        "search and seizure",
+        "copyright law",
+        "Internet history",
+        "computer crime"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Joe.Abernathy@HOUSTON.CHRON.COM(Joe Abernathy)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<fwd.BzMzto.HC5@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 1--File 2--Secret Service Raids Dorm",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 21, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Law often lags behind technology, leaving sysadmins and sysops in a state of legal uncertainty.",
+        "The relationship between a user and a bulletin board is essentially contractual.",
+        "Courts had not yet provided definitive answers to many questions regarding the seizure of equipment due to user actions."
+      ],
+      "organizations": [
+        "PC Information Group, Inc."
+      ],
+      "people": [
+        "Mike Riddle",
+        "Lance Rose",
+        "Jonathan Wallace",
+        "Carl Kadie"
+      ],
+      "summary": "A review of the book 'SYSLAW' by Lance Rose and Jonathan Wallace, which examines the intersection of law and computer technology. The text focuses on the legal rights and liabilities of system operators (sysops) regarding censorship, intellectual property, and search and seizure. It highlights the gap between existing statutes and the technological realities of bulletin board systems.",
+      "title": "Article 2--File 4--SYSLAW (Review #1)",
+      "topics": [
+        "computer law",
+        "sysop liability",
+        "First Amendment",
+        "intellectual property",
+        "bulletin board systems"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Mike.Riddle@IVGATE.OMAHUG.ORG(Mike Riddle)",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<fwd.BzMzwC.HG5@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 2--File 4--SYSLAW (Review #1)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "BBSs are analogous to physical printing presses and deserve full First Amendment protection.",
+        "The U.S. Secret Service's seizure of BBS hardware raises significant constitutional questions regarding speech and assembly.",
+        "Over-cautious sysops may engage in unnecessary self-censorship due to fear of government intervention."
+      ],
+      "organizations": [
+        "U.S. Secret Service",
+        "PC Information group, Inc."
+      ],
+      "people": [
+        "Jim Thomas",
+        "Lance Rose",
+        "Jonathan Wallace",
+        "Carl Kadie"
+      ],
+      "summary": "A review of the book 'SYSLAW' by Lance Rose and Jonathan Wallace, which examines the legal liabilities and obligations of Bulletin Board System (BBS) sysops. The text discusses the application of First Amendment protections to electronic speech and the risks posed by government seizures of hardware during hacker crackdowns. It highlights the tension between government intervention and the potential for sysop self-censorship.",
+      "title": "Article 3--File 5--SYSLAW (Review #2)",
+      "topics": [
+        "BBS",
+        "First Amendment",
+        "Academic Freedom",
+        "Computer Law",
+        "Censorship"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Jim Thomas <tk0jut2@mvs.cso.niu.edu>",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<fwd.BzMzwK.HHB@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 3--File 5--SYSLAW (Review #2)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "System operators may review private e-mail if they believe it is necessary to protect the system from injury or legal seizure.",
+        "The contract asserts that users retain rights to original messages, but the operator claims copyright over the 'look and feel' and collective work of message sequences."
+      ],
+      "organizations": [
+        "SysLaw",
+        "Fidonet"
+      ],
+      "people": [
+        "Lance Rose"
+      ],
+      "summary": "This item provides a sample 'Bulletin Board Services Agreement' sourced from SysLaw. The contract outlines the legal and behavioral expectations for users of a Bulletin Board System (BBS), including payment terms, privacy policies, and editorial control. It emphasizes the system operator's right to limit access to prevent illegal activities and protect the system from liability.",
+      "title": "Article 4--File 6--Model BBS/User Contract (from SYSLAW)",
+      "topics": [
+        "BBS",
+        "Terms of Service",
+        "User Agreements",
+        "Online Law",
+        "Editorial Control"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Lance Rose <72230.2044@COMPUSERVE.COM>",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<fwd.BzMzwn.HI8@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 4--File 6--Model BBS/User Contract (from SYSLAW)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "22 Dec 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "CERT expanded the scope of its advisory to include all systems, not just federal ones.",
+        "Access to educational and government computer systems is governed by property rights similar to physical property."
+      ],
+      "organizations": [
+        "CERT",
+        "U.S. Department of Justice"
+      ],
+      "people": [
+        "Leonard Erickson",
+        "Jyrki Kuoppala"
+      ],
+      "summary": "A discussion regarding a CERT advisory based on U.S. Department of Justice guidance concerning keystroke monitoring. The participants debate whether the scope of the advisory applies only to federal systems or all systems regardless of ownership, and how property rights affect access to educational and government computer systems.",
+      "title": "Article 5--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "keystroke monitoring",
+        "property rights",
+        "computer access",
+        "government surveillance"
+      ]
+    },
+    "identity": {
+      "date": "22 Dec 92 15:08:16 GMT",
+      "from": "leonard@qiclab.scn.rain.com (Leonard Erickson)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<1992Dec22.150816.13247@qiclab.scn.rain.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 5--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 22, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Publicly funded educational sites involve privacy and other rights via academic freedom.",
+        "The use of public property should be determined by public policy rather than the preferences of agency heads."
+      ],
+      "organizations": [],
+      "people": [
+        "Jyrki Kuoppala",
+        "Leonard Erickson"
+      ],
+      "summary": "Jyrki Kuoppala responds to Leonard Erickson regarding the nature of public property and access rights to government systems. Kuoppala argues that public property is governed by policy rather than traditional property rights and suggests that academic freedom implies certain privacy rights at educational sites.",
+      "title": "Article 6--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "public property",
+        "access rights",
+        "academic freedom",
+        "privacy",
+        "government systems"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 22 Dec 1992 23:57:26 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<1992Dec22.235726.23374@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 6--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 21, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Existing definitions of chain letters may be overly broad, potentially including resumes and jokes.",
+        "Two workable definitions of chain letters exist: one based on US Postal regulations and another focusing on distribution for the sake of distribution."
+      ],
+      "organizations": [
+        "EFF",
+        "Syracuse University"
+      ],
+      "people": [
+        "J. S. Greenfield",
+        "Tom Leylan"
+      ],
+      "summary": "J. S. Greenfield engages in a debate regarding the legal and technical definition of 'chain letters' in the context of electronic communication. The discussion focuses on whether existing definitions are overly broad, potentially encompassing resumes or jokes, and the necessity of precise definitions before taking action.",
+      "title": "Article 7--Re: Chain letters?",
+      "topics": [
+        "legal definitions",
+        "electronic communication",
+        "chain letters",
+        "free speech"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 21 Dec 1992 17:30:54 GMT",
+      "from": "greeny@eff.org (J S Greenfield)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<1992Dec21.173054.18939@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 7--Re: Chain letters?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 23 Dec 92",
+      "historical_relevance": "low",
+      "item_type": "post",
+      "notable_claims": [
+        "The author argues that absolute definitions of chain letters often fail to capture all 'chain-like' variants."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Tom Leylan",
+        "J S Greenfield"
+      ],
+      "summary": "Tom Leylan responds to J.S. Greenfield regarding the difficulty of establishing a precise definition for 'chain letters.' The exchange focuses on whether definitions should be broad enough to cover variants or narrow enough to exclude items like resumes and jokes.",
+      "title": "Article 8--Re: Chain letters?",
+      "topics": [
+        "definitions",
+        "chain letters",
+        "online discourse"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 23 Dec 92 03:06:44 GMT",
+      "from": "tleylan@pegasus.com (Tom Leylan)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<1992Dec23.030644.26358@pegasus.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 8--Re: Chain letters?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 23 Dec 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The author claims the US government is a major distributor of child pornography for the purpose of entrapment.",
+        "The author argues that photographs should be treated as evidence of a crime rather than a separate crime themselves."
+      ],
+      "organizations": [
+        "FBI",
+        "Cornell University"
+      ],
+      "people": [
+        "Douglas Foxvog",
+        "Bill Dixon"
+      ],
+      "summary": "A debate between Douglas Foxvog and Bill Dixon regarding the legal and ethical distinctions between child abuse and the possession or distribution of images. The discussion touches upon government entrapment, the definition of pornography, and whether laws should target the act of abuse rather than the evidence (photos) of that abuse.",
+      "title": "Article 9--Re: [UPI] \"FBI probes computer child porn at Cornell\"",
+      "topics": [
+        "child pornography",
+        "law enforcement",
+        "digital evidence",
+        "government entrapment",
+        "freedom of expression"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 23 Dec 1992 12:37:31 GMT",
+      "from": "dfo@tko.vtt.fi (Foxvog Douglas)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<1992Dec23.123731.9243@ousrvr.oulu.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 9--Re: [UPI] \"FBI probes computer child porn at Cornell\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 12, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Dialog was initially considered a commercial user of ANS but was later blessed by the NSF as an acceptable research and education user in January 1992."
+      ],
+      "organizations": [
+        "NSF",
+        "ANS",
+        "Dialog",
+        "Orbit",
+        "Dow Jones",
+        "BRS",
+        "EFF"
+      ],
+      "people": [
+        "Gordon Cook",
+        "Steve Wolff"
+      ],
+      "summary": "Gordon Cook questions the current NSFnet Acceptable Use Policy (AUP) regarding commercial information providers. He references a previous dispute where Dialog was initially labeled 'commercial' before being reclassified as a research and education user by the NSF. The post seeks clarification on whether information providers can remain AUP-conformant if they restrict customer use to research and education.",
+      "title": "Article 10--What *IS* Current AUP Policy for Information Providers?",
+      "topics": [
+        "Acceptable Use Policy",
+        "NSFnet",
+        "Commercialization of the Internet",
+        "Information Providers"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 12 Dec 1992 17:48:04 GMT",
+      "from": "cook@tmn.com (Gordon Cook)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<9212121748.AA06273@tmn.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 10--What *IS* Current AUP Policy for Information Providers?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 3, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators are the primary authority for determining if material is unsuitable for public medium and for penalizing users' network access."
+      ],
+      "organizations": [],
+      "people": [
+        "Deepak Bose",
+        "Deb Chatterjee",
+        "Mustafa Ibrahim",
+        "D. Pereira"
+      ],
+      "summary": "A user on the newsgroup soc.culture.indian issues a warning to specific posters regarding offensive and racist material. The author threatens to report violators to their respective system administrators to seek penalties or denial of Usenet write access.",
+      "title": "DEADLINE TO STOP OBSCENE POSTINGS!",
+      "topics": [
+        "Usenet",
+        "content moderation",
+        "system administration",
+        "online harassment"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 30 Dec 1992 20:18:51 GMT",
+      "from": "steve@cise.cise.nsf.gov (Stephen Wolff)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<9212302019.AA06836@ncri>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n64",
+      "subject": "Article 11--What *IS* Current AUP Policy for Information Providers?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

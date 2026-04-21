@@ -1,0 +1,3266 @@
+From caf-talk Caf May 22 12:13:55 1995
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+From: subhas@cs.wm.edu
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Message-ID: <1995May22.155332.8893@cs.wm.edu>
+Date: Mon, 22 May 1995 15:53:32 GMT
+
+>In article [15]<3pg0cj$pm9@News1.mcs.com>
+[...stuff deleted[
+>I agree that something should be done about some of the things that are out
+>there, but don't make the wrong person responsible.  There has got to be a
+>better way.
+>Dennis
+>==================================================================
+>Dennis Harrigan                                     HAKUNA MATATA
+>dennisj@omni.voicenet.com
+>dharriga@camden.ge.com
+>dennis.j.harrigan@den.mmc.com
+>http://www.voicenet.com:80/1/voicenet/homepages/dennisj/index.html
+>==================================================================
+
+
+Can the parents prevent their children from viewing
+--------------------------------------------------
+unwanted Web pages? 
+-------------------
+
+Yes. There is a simple solution.
+
+The senate's Communication Decency Bill is ultimately harmful and
+moreover it won't work because Internet does not know any country
+boundaries. Nevertheless, the politicians are making impassioned
+arguments that the children must be protected from the pornographic
+materials and other unwanted materials (like how to make a bomb). Do
+they have a valid point? Well, let me rephrase the question : 
+
+ If you have a simple way to prevent your kids from viewing some adult
+materials or other unwanted stuff available on the Web, would you use
+it to control their access? Particularly if that objective can be
+accomplished without any censorship laws or any inconvenience? Also
+free of cost too? I suppose most parents probably would.
+
+Below the proposed solution is introduced in a question answer form.
+
+
+Q1. Why is this fuss? I don't see any problem. Therefore no solution
+    is necessary.
+
+A. Actually, there is a problem. Do you want your 10-year old kid to
+  read Hustler magazine? There are actually lots of adult materials on
+  the Web (and there are going to be more in the future) which are even
+  more unsuitable for young children. Concerned parents want to protect
+  their kids from viewing such materials available on the Web. Also,
+  adult page authors don't want any kids to view their stuff. Its apparent
+  that the Internet is going to be so useful that kids should be
+  encouraged to surf the Net.  Currently there is no good solution to
+  this dilemma.
+
+   If something is not done by the net-citizens themselves, the
+  politicians can generate enough public support to curtail freedom of
+  expression on the Net. Despite all the hype, only a small percentage
+  of the general population are on the Net and thus netters are powerless
+  to the law-makers majority of whom are not friends of the Net.
+
+
+Q2.  Can anything be done?  How?
+
+A. Yes. Concerned parents and educators can control access on Web. All
+  it needs is a little cooperation from the Web browser designers (like
+  people at Netscape and NCSA Mosaic) and also from the adult Web page
+  authors.
+
+  In the next version of the Web navigators, just introduce a new HTML
+  tag <adult_only>. If a WWW browser encounters this tag enclosed inside
+  the <head> </head> part of a HTML document, then the browser will
+  simply refuse to load or render the document. The author of a Web page
+  should put that tag in all of his pages containing materials that he
+  does not want to be seen by young children.
+
+  At the time of installing the browser, a password will be asked from
+  the person (who is assumed to be an adult) installing the
+  program. This password is for identification of the installer.  As a
+  default, the <adult_only> checking is enabled.  To allow a parent (the
+  adult installer) the freedom to view adult-only stuff, the browser can
+  have a command line option "-unrestricted".  If that option is used,
+  the program will ask for a password for identification (only at the
+  beginning of the session).
+
+  This way, a parent protects the kids from unwanted stuff on the
+  Net. Also, the adult page authors are protected from unwanted
+  attention from kids. It involves no cost, no laws or hassles.
+
+
+Q3. What about gopher and FTP sites?
+
+A.  This solution works for any HTML page which many come via HTTP,
+  gopher or FTP protocols.  Besides, now the Web is the most popular
+  part of the Net. However, external gif/jpeg files cannot be prevented
+  because they are not in HTML. So, by this tag trick, all the unwanted stuff
+  that is not in HTML cannot be barred.
+
+
+Q4. Why would the purveyors of net pornography comply to use the
+    <adult_only> HTML tag in their pages?
+
+A. It seems that the people who are posting adult materials on their
+  Web pages would like to prevent the young children from accessing the
+  pages. That's why they build such lame "adult access shield" which
+  asks "don't click here if you are under eighteen".  So, we can hope
+  that an author of a Web page containing adult stuff will be glad to
+  put this HTML tag at the beginning of the all Web pages containing
+  adult materials. One can send an e-mail to remind the author in case such
+  a page is not properly tagged.
+
+
+Q5. Why should Netscape people or Mosaic people support the tag?
+
+A. Because implementing the tag is very easy and all protective
+  parents and educators would be glad to have the support for such a
+  tag. Such a tag should become a part of the standard HTML.
+
+
+Q6. But browsers are freely available and a kid can download his own
+    copy of a browser himself. Also, a smart kid can hack something to get
+    around the efforts of access control. What about that?
+
+A. Yes, this could be a problem. But automated software techniques
+  (using some operating system support) can be used to ensure that
+  no secretly installed browser exists in the system.
+
+  A determined smart kid cannot not prevented from accessing anything he
+  wants. He can possibly write his own browser and other tools. Heck, he
+  can buy his own PC, have his own Internet connection and set up a
+  Web server with his own home page containing adult materials! So, let
+  us be concerned about the no-so-determined kids.
+
+
+Q7. Can't we use SurfWatch software or other such tools?
+
+A. SurfWatch (http://www.surfwatch.com) is a newly announced tool that
+  seem to allow the concerned parents to prepare a list of offending
+  sites.  Any site in the list will be denied access to the browsers
+  used by the children of the customer of SurfWatch.
+
+  However there are serious problems.
+
+   - Nobody can maintain an up-to-date and exhaustive list of
+  sites. There are many obscure sites all over the world. New Web pages
+  are appearing and disappearing dynamically everyday. You may block the
+  Penthouse site, but your kid may possibly be viewing far more unwanted
+  stuff from some obscure site in Netherlands if that site is not
+  included in your list.
+
+   - SurfWatch will maintain a list of unwanted sites for you (if you
+   pay extra monthly fee). Then you will need to trust SurfWatch to
+   decide what is good or bad for your kids.
+  
+   - You will have to pay for the blocking software as well as a
+  optional list of sites maintained by SurfWatch company.
+
+   - The browser will need to check a list of possibly thousand sites
+  for every single Web access just to make sure it is not one of
+  those. Won't it be slow?
+
+   - A WWW site can host thousands of separate Web pages only a few of
+  which probably contain adult materials and the rest are possibly
+  harmless or useful. So blocking access to a site is not a good
+  idea. If SurfWatch starts maintaining a list of offending Web pages,
+  the list will be in very very long indeed. It is a hopeless idea to
+  maintain a list of unwanted sites or unwanted URLs.
+
+
+Q8. The tag seems to be a good idea. Can it be used for other
+    purposes?
+
+A.  This tag idea can be generalized to classify Web documents in
+  variety of ways and it will greatly facilitate cataloging the Web
+  documents. Web desperately needs such categorization so that your
+  browser can select and reject Web materials of all sorts based on your
+  priorities. This will cut down noise as well as litigation.
+
+
+From caf-talk Caf May 22 15:04:21 1995
+From: david@arch.ping.dk (David Stodolsky)
+Newsgroups: news.admin.policy,comp.admin.policy,comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,alt.current-events.net-abuse
+Subject: Re: Welcome to Judges-L
+Date: Wed, 17 May 95 22:53:40 +0200 (CET DST)
+Message-ID: <01050105.u0bnj3@arch.ping.dk>
+
+
+In article <3oqvrq$4lh@iapetus.comco.com> (news.admin.policy,comp.admin.policy,
+comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,
+news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,
+alt.current-events.net-abuse), dougmc@algol.frenzy.com (Doug McLaren) writes:
+> When you subscribe to their mailing list, this is the email that they
+> send you.  Pay special attention to the `Registration Form' at the
+> bottom of the email ...
+[snip]
+> | The Registration Form is at the end of the Judges-L FAQ 
+> | below. Please read the Cancel Messages FAQ first, if you have 
+> | not already done so. 
+
+Unfortunately, chances of understanding that Registration Form are
+virtually nil if you haven't read the entire Judges-L FAQ, and chances
+of understanding the Judges-L FAQ are low unless you have read the
+Cancel Messages FAQ first. Doug McLaren received both, but if you
+saw both, they were most likely out of order, because he reposted
+the Judges-L FAQ without the Cancel FAQ, and my posting of the Cancel
+FAQ happened to be just after his brilliant effort for the Net :-).
+
+
+
+> | Copyright 1994-1995 Judges-L Registrar. 
+> | Please do not redistribute without permission.
+
+Looks like we got one here that hasn't mastered the "Copyright Myths FAQ."
+
+Whether you found anything out about Judges-L is doubtful, 
+but I found out I should never send anything to Doug McLaren
+I don't want to see here.
+
+
+
+> | Judges-L: Frequently Asked Questions (FAQ) ver. 2.4
+> | 
+
+This is outdated, so folks who suggested corrections about,
+for example, "fair use", too bad, that has already been changed.
+You can thank Doug McLaren for your wasted effort. This is one
+reason why it says, "Please do not redistribute without permission."
+The updated FAQ will be posted to news.admin.misc, etc. in about a week, 
+barring any last minute objections. 
+
+Posted corrections are less likely to be used than those mailed,
+and if you really want something changed, best to subscribe and do
+it yourself.
+
+dss
+
+David S. Stodolsky, PhD,  Euromath Center,  University of Copenhagen
+Universitetsparken 5, DK-2100 Copenhagen, Denmark. david@euromath.dk
+david@arch.ping.dk. Tel.: +45 38 33 03 30. Fax: +45 38 33 88 80. (C)
+
+From caf-talk Caf May 22 15:39:40 1995
+From: david@arch.ping.dk (David Stodolsky)
+Newsgroups: news.admin.policy,comp.admin.policy,comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,alt.current-events.net-abuse
+Subject: Re: Welcome to Judges-L
+Date: Wed, 17 May 95 22:53:40 +0200 (CET DST)
+Message-ID: <01050105.u0bnj3@arch.ping.dk>
+
+
+In article <3oqvrq$4lh@iapetus.comco.com> (news.admin.policy,comp.admin.policy,
+comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,
+news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,
+alt.current-events.net-abuse), dougmc@algol.frenzy.com (Doug McLaren) writes:
+> When you subscribe to their mailing list, this is the email that they
+> send you.  Pay special attention to the `Registration Form' at the
+> bottom of the email ...
+[snip]
+> | The Registration Form is at the end of the Judges-L FAQ 
+> | below. Please read the Cancel Messages FAQ first, if you have 
+> | not already done so. 
+
+Unfortunately, chances of understanding that Registration Form are
+virtually nil if you haven't read the entire Judges-L FAQ, and chances
+of understanding the Judges-L FAQ are low unless you have read the
+Cancel Messages FAQ first. Doug McLaren received both, but if you
+saw both, they were most likely out of order, because he reposted
+the Judges-L FAQ without the Cancel FAQ, and my posting of the Cancel
+FAQ happened to be just after his brilliant effort for the Net :-).
+
+
+
+> | Copyright 1994-1995 Judges-L Registrar. 
+> | Please do not redistribute without permission.
+
+Looks like we got one here that hasn't mastered the "Copyright Myths FAQ."
+
+Whether you found anything out about Judges-L is doubtful, 
+but I found out I should never send anything to Doug McLaren
+I don't want to see here.
+
+
+
+> | Judges-L: Frequently Asked Questions (FAQ) ver. 2.4
+> | 
+
+This is outdated, so folks who suggested corrections about,
+for example, "fair use", too bad, that has already been changed.
+You can thank Doug McLaren for your wasted effort. This is one
+reason why it says, "Please do not redistribute without permission."
+The updated FAQ will be posted to news.admin.misc, etc. in about a week, 
+barring any last minute objections. 
+
+Posted corrections are less likely to be used than those mailed,
+and if you really want something changed, best to subscribe and do
+it yourself.
+
+dss
+
+David S. Stodolsky, PhD,  Euromath Center,  University of Copenhagen
+Universitetsparken 5, DK-2100 Copenhagen, Denmark. david@euromath.dk
+david@arch.ping.dk. Tel.: +45 38 33 03 30. Fax: +45 38 33 88 80. (C)
+
+From caf-talk Caf May 22 19:17:09 1995
+From: kadie@sal.cs.uiuc.edu (Carl M Kadie)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 22 May 1995 22:17:26 GMT
+Message-ID: <3pr2hm$8cl@vixen.cso.uiuc.edu>
+
+subhas@cs.wm.edu writes:
+
+[...]
+>  In the next version of the Web navigators, just introduce a new HTML
+>  tag <adult_only>.
+[...]
+
+Here we go again ...
+
+=============== ftp://ftp.eff.org/pub/CAF/faq/labeling ===============
+q: Would encouraging the labeling of offensive material be a way
+protect intellectual freedom?
+
+a: No, such "voluntary" labeling schemes have not worked to protect
+intellectual freedom; they inevitably have lead to censorship by
+government coercion.
+
+Consider, under such a scheme what are you going to do about me, a
+HTML author who refuses to label his pages?  Force me to label them?
+Then your system would not be voluntary. Also, in the U.S., forced
+labels are likely unconstitutional. Worldwide enforcement would be even
+harder.
+
+Instead of trying to make other people do the work of labeling and
+then forcing them to carry labeling against their will, how about a
+really voluntary system?
+
+    * you and like minded people could created a trademarked label
+         (like the Good Housekeeping Seal of Approval (TM)). Only
+         pages that met your standard would be allowed to have
+         the label. (Cryptography could be use instead of  trademark
+         protection.  
+    * you and like-minded people could also created index of good
+         and bad (according to your standards) material.
+    * people who cared and who liked your standards could get browser
+                software that look for your labels or index entries.
+
+This alternative scheme would cost less (and the cost would be carried
+by those who used the scheme), would be less work (and the world be be
+done by those who used the scheme), and would not require enforcement
+by the governments of the world.
+
+- Carl
+
+
+
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/library/labeling.ala">
+library/labeling.ala
+=================</a>
+* Labeling (ALA)
+
+An interpretation by the American Library Association of the "Library
+Bill of Rights"
+
+It gives three reasons why labeling is bad. The first is that
+"[l]abeling is an attempt to prejudice attitudes and as such, it is a
+censor's tool."
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/civil-liberty/pop-music.aclu">
+civil-liberty/pop-music.aclu
+=================</a>
+* Popular Music Under Siege -- ACLU Briefing Paper #21
+
+[To visit the ACLU gopher, try: "gopher aclu.org 6601"]
+
+Answers these questions:
+
+What's wrong with voluntary labeling?  Isn't it, like movie rating, a
+     harmless way to give parents consumer information that can help them
+     make intelligent choices for their kids?
+What about government labeling or classification of music lyrics?
+What about laws that keep music with antisocial, misogynistic or violent
+     messages away from minors -- doesn't society have an obligation to protect
+     kids?
+But what if someone listens to "Cop Killer" and then murders a police
+     officer?  Don't lyrics that deal with sex, violence, drug use, suicide,
+     etc. cause anti-social behavior?
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/civil-liberty/artistic-freedom.aclu">
+civil-liberty/artistic-freedom.aclu
+=================</a>
+* Artistic Freedom -- ACLU Briefing Paper #14
+
+[To visit the ACLU gopher, try: "gopher aclu.org 6601"]
+
+Answers these questions:
+
+What protects the work of artists from government censorship?
+When and how did the threat to artistic freedom emerge in this country?
+How has the Supreme Court dealt with sexually explicit expression?
+Why does the ACLU object to the obscenity exception to the First Amendment?
+But don't obscene and pornographic works cause anti-social and even
+       violent behavior?
+Even if the government can't suppress art, surely it shouldn't use
+       tax monies to fund art that offends!?
+Why does the ACLU object to movie ratings, music labeling, or other
+       voluntary rating systems?  Don't they give guidance to
+       consumers, especially parents?
+But mustn't we protect our children from inappropriate messages and
+       images, especially graphic sex and violence?
+Defending artists is fine, but why does the ACLU spend time and money
+       defending pornographers and sleaze merchants?
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/library/freedom-to-read.ala">
+library/freedom-to-read.ala
+=================</a>
+* Freedom to Read Statement (ALA)
+and Association of American Publishers.
+
+It says in part: "We trust Americans to recognize propaganda, and to
+reject it.  We do not believe they need the help of censors to assist
+them in this task.  We do not believe they are prepared to sacrifice
+their heritage of a free press in order to be "protected" against what
+others think may be bad for them.  We believe they still favor free
+enterprise in ideas and expression."
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/riley-v-nfb">
+law/riley-v-nfb
+=================</a>
+* Expression -- Labeling
+
+A summary of _Riley v. National Federation of the Blind_ from an
+_Wired_ 2.11 article about computer game labeling. In that case, the
+Supreme Court said the government generally does not have authority to
+compel speech. Specifically, it could not require charity solicitors
+to detail how much money was going to professional fund raisers.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/moderator.rights">
+law/moderator.rights
+=================</a>
+* Expression -- Moderator Rights
+
+A summary of the rights of an editor/moderator. Addresses the
+question: "if a moderator is government-site-based, what is his or her
+authority/right to exclude material?" (It also talks about a private
+author/publisher's right to exclude material.)
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and then:
+
+  cd  /pub/CAF/library
+  get labeling.ala
+  cd  /pub/CAF/civil-liberty
+  get pop-music.aclu
+  cd  /pub/CAF/civil-liberty
+  get artistic-freedom.aclu
+  cd  /pub/CAF/library
+  get freedom-to-read.ala
+  cd  /pub/CAF/law
+  get riley-v-nfb
+  cd  /pub/CAF/law
+  get moderator.rights
+
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com
+Include the line(s):
+
+  connect ftp.eff.org
+  cd  /pub/CAF/library
+  get labeling.ala
+  cd  /pub/CAF/civil-liberty
+  get pop-music.aclu
+  cd  /pub/CAF/civil-liberty
+  get artistic-freedom.aclu
+  cd  /pub/CAF/library
+  get freedom-to-read.ala
+  cd  /pub/CAF/law
+  get riley-v-nfb
+  cd  /pub/CAF/law
+  get moderator.rights
+--
+Carl Kadie -- I do not represent any organization or employer; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf May 22 20:40:14 1995
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+From: subhas@cs.wm.edu
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Message-ID: <1995May22.221753.15850@cs.wm.edu>
+Date: Mon, 22 May 1995 22:17:53 GMT
+
+To give SufWatch their due credit:
+<adult_only> tag works only for HTML-ed material. SurfWatch can work
+in most areas -- WWW, gopher, FTP, Chat etc.  Also, their filter will be able
+to block out majority of the sites including all well-known ones.
+
+From caf-talk Caf May 22 20:49:25 1995
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+From: subhas@cs.wm.edu
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Message-ID: <1995May22.222021.15948@cs.wm.edu>
+Date: Mon, 22 May 1995 22:20:21 GMT
+
+To give SurfWatch their due credit:
+<adult_only> tag works only for HTML-ed material. SurfWatch can work
+in most areas -- WWW, gopher, FTP, Chat etc.  Also, their filter will be able
+to block out majority of the sites including all well-known ones.
+
+From caf-talk Caf May 22 21:34:21 1995
+From: schalit@rot.ucsb.edu (Matthew Schalit)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 22 May 1995 23:43:12 GMT
+Message-ID: <3pr7ig$fh4@yuggoth.ucsb.edu>
+
+>Can the parents prevent their children from viewing
+>--------------------------------------------------
+>unwanted Web pages? 
+>-------------------
+>
+>Yes. There is a simple solution.
+
+The parents should take on the resposibility that they get when they have kids.
+
+
+
+
+>Q1. Why is this fuss? I don't see any problem. Therefore no solution
+>    is necessary.
+>
+>A. Actually, there is a problem. Do you want your 10-year old kid to
+>  read Hustler magazine?
+
+Yes! Better that than all the bogus violence out that you "civilized" people offer us.
+
+
+
+>Q2.  Can anything be done?  How?
+>
+>A. Yes. Concerned parents and educators can control access on Web. All
+>  it needs is a little cooperation from the Web browser designers (like
+>  people at Netscape and NCSA Mosaic) and also from the adult Web page
+>  authors.
+>
+>  In the next version of the Web navigators, just introduce a new HTML
+>  tag <adult_only>.
+
+
+HTML is a markup language you moron.  It tells the viewer how the document is structured, not 
+if it should be loaded.  There is no place in a free network for your censorship.
+
+
+
+>Q4. Why would the purveyors of net pornography comply to use the
+>    <adult_only> HTML tag in their pages?
+>
+>A. It seems that the people who are posting adult materials on their
+>  Web pages would like to prevent the young children from accessing the
+>  pages. 
+
+
+Terrible logic error -- hasty generalization.
+
+
+>Q5. Why should Netscape people or Mosaic people support the tag?
+>
+>A. Because implementing the tag is very easy and all protective
+>  parents and educators would be glad to have the support for such a
+>  tag. Such a tag should become a part of the standard HTML.
+
+
+Another hasty generalization.  Didn't you go to college?  Your logic errors are silly.
+Stop trying to impose your views on other people.  We are free citizens, not subjects.
+
+
+>Q8. The tag seems to be a good idea. Can it be used for other
+>    purposes?
+
+Flase premise.
+
+Goodbye.  The net was a much nicer place before all you idots found it this year.
+
+Matthew Schalit
+
+
+From caf-talk Caf May 22 21:39:35 1995
+From: kadie@sal (Fwd:)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: [alt.censorship, et al.]  Re: Ausnet Censors Newsgroups (fwd)
+Date: 23 May 1995 00:29:57 GMT
+Message-ID: <3praa5$n3c@vixen.cso.uiuc.edu>
+
+[A repost - Carl]
+
+From caf-talk Caf May 22 21:39:35 1995
+Newsgroups: alt.censorship,comp.org.eff.talk
+Subject:  Re: Ausnet Censors Newsgroups (fwd)
+Date: 22 May 1995 19:16:35 -0500
+Message-ID: <199505230016.UAA15567@eff.org>
+
+Forwarded message:
+From owner-efa@iinet.com.au  Wed May 17 19:50:22 1995
+From: Rhys Weatherley <rhys@fit.qut.edu.au>
+Newsgroups: aus.org.efa
+Subject: Re: Ausnet Censors Newsgroups
+Organization: Queensland University of Technology, Australia
+Distribution: world
+Message-ID: <3pds4b$24s@stork.qut.edu.au>
+References: <3p3vlf$lgc@world.net>
+NNTP-Posting-Host: ocean.fit.qut.edu.au
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+X-Newsreader: TIN [version 1.2 PL2]
+Reply-To: efa@iinet.com.au
+Sender: owner-efa@iinet.com.au
+To: efa@iinet.com.au
+Date: 17 May 1995 22:08:11 GMT
+
+Robert Love (roblove@mailhost.world.net) wrote:
+> Service provider Ausnet, whose invasion by Optic Surfer has
+> had so much discussion in this group recently (yes, I've lurked my
+> requisite month), appears to have deleted all of the obviously sexual
+> newsgroups from their system.
+
+Assuming the censorship didn't happen further up the news propagation
+tree before it got to Ausnet, which happens sometimes.
+
+It looks like yet another case of idiot management saying "get rid of
+everything with sex in it" without realising that there are lots of
+other newsgroups that contain information which makes a.b.p.e look like
+a Sunday school picnic.  This type of censorship is the worst: it isn't
+based on content, but rather on rumors of content.  It's like the
+communities in the US (Florida I think) which banned NYPD Blue based on
+the hype surrounding the "nude" scenes.  A survey done by a research
+group showed that there were things already on TV in those communities
+that made NYPD Blue look quite ordinary in comparison.
+
+If Ausnet wants to protect the schools, they would be much better off
+setting up a separate news server with just the "approved" newsgroups and
+then using firewalls to prevent the kids accessing any news server except
+the "safe" one.  Banning it from the adult server acheives nothing and
+fools no one.  The most it will do is create more traffic on the link
+to the rest of the world when users request it individually, denying other
+users access to "normal" things.
+
+As for liability, no IP provider in Australia has yet been sued for carrying
+sex related newsgroups.  Until a court case occurs to set a precedent, banning
+newsgroups is just giving into fear of currently non-existent threats.
+
+I've played this game before with Melbourne University.  It will get you
+exactly nowhere.  "It's our system so bugger off" sums up their response
+fairly nicely.  Sadly, too many people think that the only adults who would
+be interested in seeing such newsgroups propagated are perverts.  It is
+difficult to convince them of the errors in such reasoning.
+
+Cheers,
+
+Rhys.
+
+
+
+
+--
+<A HREF="http://www.eff.org/~mech/">          Stanton McCandlish
+</A><HR><A HREF="mailto:mech@eff.org">        mech@eff.org
+</A><P><A HREF="http://www.eff.org/">         Electronic Frontier Foundation
+</A><P><A HREF="http://www.eff.org/1.html">   Online Services Mgr.      </A>
+================= end of repost ==================
+--
+Carl Kadie -- I do not represent any organization or employer; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf May 23 09:36:02 1995
+Newsgroups: news.admin.policy,comp.admin.policy,comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,alt.current-events.net-abuse
+From: peter@bonkers.taronga.com (Peter da Silva)
+Subject: Re: Welcome to Judges-L
+Message-ID: <D918J4.9o3@bonkers.taronga.com>
+Date: Tue, 23 May 1995 13:09:04 GMT
+
+In article <01050105.u0bnj3@arch.ping.dk>,
+David Stodolsky <david@arch.ping.dk> wrote:
+>> | Copyright 1994-1995 Judges-L Registrar. 
+>> | Please do not redistribute without permission.
+
+>Looks like we got one here that hasn't mastered the "Copyright Myths FAQ."
+
+Physician, heal thyself. All your bogus spam about "Judges" being a "mark" of
+Judges-L is covered in there as well.
+
+From caf-talk Caf May 23 10:58:10 1995
+Date: Tue, 23 May 1995 03:29:33 CDT
+From: <U58563@uicvm.uic.edu>
+Message-ID: <95143.032933U58563@uicvm.uic.edu>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.censorship
+Subject: Re: UK University bans newsgroups.
+
+The intolerable aspect to the "might generate a lawsuit" argument is that it
+applies to ANY newsgroup, ANY ftp site, ANY www page, anywhere.  It is a form
+of terrorism that exempts no one, and attempts to compel each person into
+becoming a policeman for the person one rung down on the ladder.  There will
+always be another group that "has to be" closed, until there are none left
+--- someone will always be "worst".
+
+The ONE AND ONLY defense against terrorism is DEFIANCE.  We must each reject
+all such arguments and try our best to uphold our principles; if terrorists
+come for us and disrupt our lives, we must KILL THEM.
+
+From caf-talk Caf May 23 11:07:40 1995
+From: lml@vision.ummed.edu (Lawrence Mark Lifshitz)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: info wanted on disclaimers for webpages and news articles
+Date: 23 May 1995 14:40:15 GMT
+Message-ID: <3pss4f$nnf@gauss.ummed.edu>
+
+I am involved in formulating network policy at the 
+Univ. of Mass. Medical Center.  I have been perusing this
+group, the eff site and others for info on acceptable use
+policies.  Most of this seems geared towards BBS and usenet
+news groups.  This is useful to me.  But I am also looking for information
+on what individuals should put on their webpages in the way of
+disclaimers so that the university (and the individual) is
+as safe as possible legally.  Would this disclaimer be the same
+as one at the bottom of news posting?
+
+Also, policy/design issues related to University web pages
+would be of interest.  Do/should other universities have official
+"certification" of some of their web pages? If so, how do they
+make sure the web pages are not changed after being certified as
+"officially sanctioned"?  How are such certifications made 
+clear to viewers of the page?
+
+Any pointers to info, comments, etc would be welcome.
+
+BTW, let me state my general "bias".  I would like to make
+it as easy as possible for anyone here (students, employees, etc)
+to create web pages that say whatever they want on them
+(work related, nonwork related, offensive, nonoffensive, etc.).
+However (it seems like there is almost always a "however") I
+also need to make sure that we stay within the law (or at least
+isolate the university from lawsuits against individuals), and
+would also like to provide students, etc with as much legal
+protection ahead of time (ie, disclaimers) as possible.
+
+We also have the additional issue that a medical center is
+associated with the campus.  We need to make clear (for legal
+purposes I assume) which web pages are providing "official
+medically valid advice" and which only contain personal preferences
+of an individual.
+
+thanks for any input.
+feel free to email me directly, or to post in this newsgroup.
+
+	Larry
+
+
+From caf-talk Caf May 23 11:23:49 1995
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+From: subhas@cs.wm.edu
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Message-ID: <1995May23.150130.29212@cs.wm.edu>
+Date: Tue, 23 May 1995 15:01:30 GMT
+
+>    [1]Reply to: Carl M Kadie
+>    
+>subhas@cs.wm.edu writes:
+>
+>[...]
+>>  In the next version of the Web navigators, just introduce a new HTML
+>>  tag <adult_only>.
+>[...]
+>
+>Here we go again ...
+>
+>=============== ftp://ftp.eff.org/pub/CAF/faq/labeling ===============
+>q: Would encouraging the labeling of offensive material be a way
+>protect intellectual freedom?
+>
+>a: No, such "voluntary" labeling schemes have not worked to protect
+>intellectual freedom; they inevitably have lead to censorship by
+>government coercion.
+
+Not necessarily. 
+Also, there is no planet-wide government yet.  
+
+If HTML tag <adult_only> scheme is adopted, only the kid's
+intellectual freedom will be curtailed (only if his parents wish so).
+
+>Consider, under such a scheme what are you going to do about me, a
+>HTML author who refuses to label his pages?  Force me to label them?
+
+No. In that case I might send an email requesting you to label your pages
+in case you forgot. Force is out of question.
+
+If a HTML author deliberately omits labelling his adult pages because
+he _wants_ to show those materials to children, then nothing can be done.
+But what about the majority of the adult web page authors who intend their
+audience to be adults only? What can they do? Currently they set up
+a farcial 'adult-access-shield' -- "How old are you? Don't click if
+you are under 18."  Well, on the Internet, nobody knows 
+how old you really are. But a parent (who controls all aspects
+of his/her kids's life anyway) knows  the age of the kid. So, by labelling
+the web page, the adult page author gives the parent a convenient
+way to block the access of the page if she chooses.
+
+I'd not call the <adult_only> tag idea a form real censorship. It will
+work only if _both_ the creator of the page wants it _and_ the parent
+of the kid wants it. The author can omit the labelling. Also,
+a parent can turn off the checking of <adult_only> html tag if she/he
+wants to let the kid have unrestricted access to all pages. 
+
+What about the kid's right to access all information? Well, he can 
+sue his mother. :-)
+
+>Then your system would not be voluntary. Also, in the U.S., forced
+>labels are likely unconstitutional. Worldwide enforcement would be even
+>harder.
+>
+>Instead of trying to make other people do the work of labeling and
+>then forcing them to carry labeling against their will, how about a
+>really voluntary system?
+>
+>    * you and like minded people could created a trademarked label
+>         (like the Good Housekeeping Seal of Approval (TM)). Only
+>         pages that met your standard would be allowed to have
+>         the label. (Cryptography could be use instead of  trademark
+>         protection.
+>    * you and like-minded people could also created index of good
+>         and bad (according to your standards) material.
+>    * people who cared and who liked your standards could get browser
+>                software that look for your labels or index entries.
+>
+>This alternative scheme would cost less (and the cost would be carried
+>by those who used the scheme), would be less work (and the world be be
+>done by those who used the scheme), and would not require enforcement
+>by the governments of the world.
+>
+
+The HTML tag scheme costs $0. On the other hand, Your Seal of Approval scheme
+is essentially an expensive form of Killfile for Web.
+
+>- Carl
+>
+
+-Subhas
+
+
+From caf-talk Caf May 23 13:02:01 1995
+From: cburian@ux4.cso.uiuc.edu (Christopher J Burian)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 23 May 1995 16:15:43 GMT
+Message-ID: <3pt1nf$np7@vixen.cso.uiuc.edu>
+
+subhas@cs.wm.edu writes:
+
+]To give SufWatch their due credit:
+]<adult_only> tag works only for HTML-ed material. SurfWatch can work
+]in most areas -- WWW, gopher, FTP, Chat etc.  Also, their filter will be able
+]to block out majority of the sites including all well-known ones.
+
+I keep reading "sites" will be blocked off by Smurfwatch.  Does that mean,
+for instance, the Online Book Intiative, a treasure trove of cool stuff, is
+verboten because it might have a book somebody objects to?  Will whole
+sites be banned because the site has a page promoting the First Amendment
+(which, of course, must be banned if it contains examples of challenged 
+materials)?  I've got nothing against Serfwatch, to be honest.  They're
+just greedy capitalists exploiting idiots who want somebody to censor what
+they read.  But the people who actually subscribe to the service are highly
+deserving of ridicule.
+
+Chris Burian
+
+
+From caf-talk Caf May 23 13:05:37 1995
+From: kadie@sal.cs.uiuc.edu (Carl M Kadie)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 23 May 1995 16:17:13 GMT
+Message-ID: <3pt1q9$nv8@vixen.cso.uiuc.edu>
+
+subhas@cs.wm.edu writes:
+
+>If HTML tag <adult_only> scheme is adopted, only the kid's
+>intellectual freedom will be curtailed (only if his parents wish so).
+
+There is no need to speculate about the effects of so-called voluntary
+labeling systems. They have a long history. From the comic book code,
+to the MPAA ratings, to music labeling. (See the references for
+details.)  All have harmed intellectual freedom. I see no reason to
+believe that your so-called voluntary labeling scheme would be any
+different than other others.
+
+[...]
+>If a HTML author deliberately omits labelling his adult pages because
+>he _wants_ to show those materials to children, then nothing can be done.
+
+You are assuming that "adult pages" is well defined. I'm the
+co-archivist of the Computer and Academic Freedom archive. The word
+"fuck" probably appears in the archive hundreds of times. My Web pages
+includes the joke that got rec.humor.funny banned from Stanford
+U. (for a while).  It includes pointers to a Dali painting of a virgin
+auto sodomizing herself. (The painting somewhat famous; it hangs in a
+museum).
+
+I believe the Playboy sites are the exception. More common are sites
+like mine that contain all kinds of material. Much of the material
+might offends one person, but not another.
+
+[...]
+>The HTML tag scheme costs $0. On the other hand, Your Seal of Approval scheme
+>is essentially an expensive form of Killfile for Web.
+[...]
+
+For me to tag all the material in my archive would cost a fortune in
+time. Plus, as you suggested in your first note, the "<adult_only>"
+token is only the beginning; more tokens will be created. That will
+cost me another fortune in time. Plus, as you suggested, I can expect
+lots of email if people don't agree with the way that I've labeled
+material. Reading and responding will cost another fortune in time.
+
+If *you* want my material labeled, do it yourself.
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================<a href="http://www.eff.org/CAF/faq/labeling.html">
+faq/labeling
+=================</a>
+[No annotation available.]
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and then:
+
+  cd  /pub/CAF/faq
+  get labeling
+
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com
+Include the line(s):
+
+  connect ftp.eff.org
+  cd  /pub/CAF/faq
+  get labeling
+
+
+
+--
+Carl Kadie -- I do not represent any organization or employer; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf May 23 17:21:00 1995
+From: kadie@sal.cs.uiuc.edu (Carl M Kadie)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 23 May 1995 18:15:11 GMT
+Message-ID: <3pt8nf$a3m@vixen.cso.uiuc.edu>
+
+cburian@ux4.cso.uiuc.edu (Christopher J Burian) writes:
+
+[...]
+>I've got nothing against Serfwatch, to be honest.  They're
+>just greedy capitalists exploiting idiots who want somebody to censor what
+>they read.  But the people who actually subscribe to the service are highly
+>deserving of ridicule.
+[...]
+
+But what if the people who subscribe are public school officials? Is
+SurfWatch is qualified to select material for schools? I doubt it.
+I think it could very well be unconstitutional for a public school
+to use SurfWatch. I'm enclosing details.
+
+- Carl
+
+=====================================================
+This is the conclusion from the chapter "Sex and School Library" from
+the book _Sex, Schools, and the Law_, by Fernand N. Dutile, 1986.
+
+It refers to grade and high schools.
+
+============================
+
+Because the _Island Trees_ litigation ended so inconclusively, it is
+not yet clear what fundamental constitutional principle with regard to
+library book selection and removal on the basis of sexual content will
+ultimately prevail. [...]  Whatever the outcome, at least tentative
+conclusions with regard to such selection ore removal are possible
+even now.
+
+First, student minds must be challenged and exercised, and this is
+best done through exposure to diverse and sometimes controversial
+materials, including sexually-oriented ones. Sex is an obviously
+fundamental aspect of human life and cannot be ignored in any
+appropriate education.
+
+Second, the constitutional issue deals only with what a school board
+has the power to do, not with what the wisest course might be. The
+path of wisdom will often lead away from censorship of a particular
+book even if the ultimately prevailing constitutional principle might
+support the board's power to censor.
+
+Third, to the extent school boards seek to control sexual content in
+the school library, arbitrariness, narrowmindedness, community
+controversy and litigation {197} are best avoided through the
+establishment of, and adherence to, written, neutral and narrowly-draw
+policies governing book selection,{198} book removal and the
+resolution of grievances with regard to book content.{199}. The
+policies should provide for a balanced presentation of ideas, a record
+of proceedings for possible court review, and deference to the views
+of education experts.{200} Parent and students should have some input
+into selecting material for school libraries, possibly through service
+on library selection committees.{201} Perhaps school boards should be
+required to provide written reasons for book selection and removal
+decisions.{202}
+
+
+Constitutionally valid procedures and adherence to them help school
+libraries to provide students and exciting and diverse educational
+experience without the necessity for distracting and expensive
+controversy or litigation.
+
+NOTES
+
+1. Except as otherwise indicated, these and subsequent facts in the
+case are taken from Board of Education, Island Trees Union Free School
+District No. 26 v. Pico, 457 U.S.853, 854-861 (1982) (hereafter
+_Island Trees_).
+
+[...]
+
+197. See [Niccolai, _The Right to Read and School Library Censorship_,
+10 J. LAW & EDUCATION 23, 32 (1981)] at 32.
+
+198. State statutes provide guidelines of varying levels of usefulness
+with regard to substantive criteria for book selection. [...]
+
+199. See N.Y. EDUC. LAW [section]310(5)-(6) [...]
+
+200. Niccolai, _supra note 25, at 31.  201. _Id._ at 31-32.  202. See
+Comment, _supra note 110, at 665
+
+=======================
+--
+Carl Kadie -- I do not represent any organization or employer; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf May 23 17:36:47 1995
+From: harbison@unlinfo.unl.edu (gerry harbison)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 23 May 1995 20:31:00 GMT
+Message-ID: <3ptgm4$rrt@crcnis3.unl.edu>
+
+cburian@ux4.cso.uiuc.edu (Christopher J Burian) writes:
+
+
+>I keep reading "sites" will be blocked off by Smurfwatch.  Does that mean,
+>for instance, the Online Book Intiative, a treasure trove of cool stuff, is
+>verboten because it might have a book somebody objects to?  Will whole
+>sites be banned because the site has a page promoting the First Amendment
+>(which, of course, must be banned if it contains examples of challenged 
+>materials)?  I've got nothing against Serfwatch, to be honest.  They're
+>just greedy capitalists exploiting idiots who want somebody to censor what
+>they read.  But the people who actually subscribe to the service are highly
+>deserving of ridicule.
+
+I think you're being a little harsh. There's clearly a body of people who 
+are worried about the dangers lurking on the internet for unsuspecting
+innocent kids.  I'm inclined to blame this largely on moron 
+TV journalists (apologies for redundancy), who have devoted every 
+second news report on the 'net in the last year to 'porn'. Anyone who 
+promises a 'cure' for this 'problem' is going to attract well-meaning 
+but naive customers.
+
+The best way to head off the CC and Exon on this issue is to push 
+browser-level means of blocking access. SurfWatch is evidently a first
+attempt at this. My guess is that SurfWatch is 
+going to last just as long as it takes for people to discover they can
+create their own list of 'nasty' sites and put it on line for free. If 
+the Christian Coalition had started to do this, instead of pushing for 
+legislation, I might have a shred of respect for them. (Well, no, 
+that's going a little far.  I'd despise them slightly less than I already
+do). But, heck, how hard would it be to put a 
+user-configurable blocking option in Netscape/Mosaic, that would read a disk 
+file or URL containing blocked sites and/or files? A little encryption and a 
+password, and you could render it tamper proof to first-order.
+
+Of course, how you stop the 'nasty sites' list from being distributed
+as a 'cool sites' list is a whole 'nother thing.  "Banned in Boston" 
+was always a killer advertisement.
+
+--
+Gerry Harbison http://chem-gharbison.unl.edu/HomePage.html gerry@wendigo.unl.edu
+Nearly Professor of Chemistry, University of Nebraska, Lincoln, NE 68588-0304
+..who speaks for UNL only when he says he does, and he isn't doing so at 
+the moment. 300 bits of saved bandwidth -->
+
+From caf-talk Caf May 23 19:06:29 1995
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+From: skoper@netcom.com (Stan Koper)
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Message-ID: <wjfwvUjRQAfO083yn@netcom.com>
+Date: Tue, 23 May 1995 15:02:08 GMT
+
+In article <3pr2hm$8cl@vixen.cso.uiuc.edu>,
+dated 22 May 1995 22:17:26 GMT, kadie@sal.cs.uiuc.edu (Carl M Kadie) wrote:
+>subhas@cs.wm.edu writes:
+>
+>[...]
+>>  In the next version of the Web navigators, just introduce a new HTML
+>>  tag <adult_only>.
+>[...]
+>
+>Here we go again ...
+>
+>=============== ftp://ftp.eff.org/pub/CAF/faq/labeling ===============
+>q: Would encouraging the labeling of offensive material be a way
+>protect intellectual freedom?
+>
+>a: No, such "voluntary" labeling schemes have not worked to protect
+>intellectual freedom; they inevitably have lead to censorship by
+>government coercion.
+>
+>Consider, under such a scheme what are you going to do about me, a
+>HTML author who refuses to label his pages?  Force me to label them?
+>Then your system would not be voluntary. Also, in the U.S., forced
+>labels are likely unconstitutional. Worldwide enforcement would be even
+>harder.
+>
+>Instead of trying to make other people do the work of labeling and
+>then forcing them to carry labeling against their will, how about a
+>really voluntary system?
+>
+>    * you and like minded people could created a trademarked label
+>         (like the Good Housekeeping Seal of Approval (TM)). Only
+>         pages that met your standard would be allowed to have
+>         the label. (Cryptography could be use instead of  trademark
+>         protection.  
+>    * you and like-minded people could also created index of good
+>         and bad (according to your standards) material.
+>    * people who cared and who liked your standards could get browser
+>                software that look for your labels or index entries.
+>
+>This alternative scheme would cost less (and the cost would be carried
+>by those who used the scheme), would be less work (and the world be be
+>done by those who used the scheme), and would not require enforcement
+>by the governments of the world.
+
+To expand on this a bit further (or maybe underscore the last 
+starred point, instead of a browser that would "lock out" sites
+tagged with <adults only>, parents could look for a
+browser/gopher/etc. that will only log into predetermined, 
+pre-approved sites.  That is, browser software might be written 
+to allow only parents (or others with a designated password) to 
+be able to "program" the sofware to go to only those sites that
+they have actually identified as acceptable.  You wouldn't need 
+to label anything.
+
+I mean, if the real concern on the part of parents is that their 
+kid might have his [her?] brain fried by looking at pictures of 
+"nekkid wimmen" (tm) (or "nekkid men", for that matter), then 
+they should be willing to take an active part in junior/sis's 
+activities, right?
+
+So instead of SurfGard or whatever it's called, "locking *out*" 
+certain sites, let's have Mom & Dad "lock *in*" sites.  And where
+an approved site shows a pointer to another site not yet on the 
+list, the browser won't go there unless Mom or Dad punches in an
+override code for that specific site.  Then if it checks out, it 
+can be added to the list (with maybe a simplified procedure for
+doing so).
+
+Stan Koper
+skoper@netcom.com
+     "The Bill of Rights--Ten Impediments to Law Enforcement?"
+         This message brought to you by uqwk and Yarn 0.83
+
+From caf-talk Caf May 23 20:22:08 1995
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+From: lloyd@cs.monash.edu.au (Lloyd Allison)
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Message-ID: <lloyd.801270867@bruce.cs.monash.edu.au>
+Date: Tue, 23 May 1995 23:14:27 GMT
+
+another view:
+   <URL:http://www.cs.monash.edu.au/~lloyd/tilde/InterNet/Innocent/>
+
+Lloyd ALLISON
+Dept. of Computer Science, Monash University, Clayton, Victoria 3168, AUSTRALIA
+tel: 61 3 905 5205       fax: 61 3 905 5146       email: lloyd@cs.monash.edu.au
+<A HREF="http://www.cs.monash.edu.au/~lloyd/">LA home</A>
+
+
+From caf-talk Caf May 23 20:55:56 1995
+From: harbison@unlinfo.unl.edu (gerry harbison)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: info wanted on disclaimers for webpages and news articles
+Date: 23 May 1995 21:39:11 GMT
+Message-ID: <3ptklv$s0i@crcnis3.unl.edu>
+
+lml@vision.ummed.edu (Lawrence Mark Lifshitz) writes:
+
+>Also, policy/design issues related to University web pages
+>would be of interest.  Do/should other universities have official
+>"certification" of some of their web pages? If so, how do they
+>make sure the web pages are not changed after being certified as
+>"officially sanctioned"?  How are such certifications made 
+>clear to viewers of the page?
+
+We've had a recent controversy about this at UNL. You can read about 
+it on:
+
+http://chem-gharbison.unl.edu/Academic_freedom.html
+
+And there is a (non-comprehensive) list of server registration 
+policies at other public universities in the US, indexed at:
+
+http://chem-gharbison.unl.edu/other_servers.html
+
+>Any pointers to info, comments, etc would be welcome.
+
+>BTW, let me state my general "bias".  I would like to make
+>it as easy as possible for anyone here (students, employees, etc)
+>to create web pages that say whatever they want on them
+>(work related, nonwork related, offensive, nonoffensive, etc.).
+>However (it seems like there is almost always a "however") I
+>also need to make sure that we stay within the law (or at least
+>isolate the university from lawsuits against individuals), and
+>would also like to provide students, etc with as much legal
+>protection ahead of time (ie, disclaimers) as possible.
+
+And you also have to observe whatever academic freedom policies your 
+University has in place.  Some of us would say that's of paramount 
+importance :-)
+
+--
+Gerry Harbison http://chem-gharbison.unl.edu/HomePage.html gerry@wendigo.unl.edu
+Nearly Professor of Chemistry, University of Nebraska, Lincoln, NE 68588-0304
+..who speaks for UNL only when he says he does, and he isn't doing so at 
+the moment. 300 bits of saved bandwidth -->
+
+From caf-talk Caf May 23 21:24:11 1995
+From: kadie@sal.cs.uiuc.edu (Carl M Kadie)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: info wanted on disclaimers for webpages and news articles
+Date: 23 May 1995 22:35:40 GMT
+Message-ID: <3ptnvs$gns@vixen.cso.uiuc.edu>
+
+Most academic institutions have two kinds of publications:
+    * student (and sometimes faculty) publications
+    * official institutionally publications
+
+For example, at the U. of Illinois, the _Daily Illini_ is a student
+publication. It is controlled by students. The university can not
+legally censor it but also legally is not responsible for its
+content. _Inside Illinois_ is a official university publication.  The
+University has editorial control and is legally responsible for
+content.
+
+I think Web pages should be treated the same. Some should be official
+some should be under the control of student, staff, or faculty. I'm
+enclosing related information.
+
+- Carl
+
+=============== ftp://ftp.eff.org/pub/CAF/faq/netnews.writing ===============
+q: Should my university allow students to post to Netnews?
+
+a: Yes. Free inquiry and free expression are an important part of a
+university's mission. Most universities encourage and support student
+expression and publication. Most universities also seem to give full
+network access to all users, even students. (This conclusion is based
+on an informal survey posted to comp.admin.policy in October, 1991.
+[cafv01n33])
+
+There is probably no need to create special rules for student computer
+media; your university likely already has rules for student media.
+(Look in your Student Code.) In the U.S., most student publications
+are free of university screening, censorship, and most retaliation.
+(For state universities, this is a legal requirement.) At the same
+time, most universities disclaim responsibility for student
+publications, even when the university "owns the presses."
+
+The American Library Association's draft policy recommendation
+on electronic services and networks says (in part):
+
+    No user should be restricted or denied access for expressing or
+    receiving constitutionally protected speech.  No user's access
+    should be changed without due process, including, but not limited
+    to, notice and a means of appeal.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/library/computer.draft.ala">
+library/computer.draft.ala
+=================</a>
+* DRAFT: Access to Electronic ... Services and Networks ... (ALA)
+
+A draft interpretation by the American Library Association of the
+"Library Bill of Rights"
+
+Says in part: "Libraries and librarians exist to facilitate [freedom
+of speech and freedom to read] by providing access to, identifying,
+retrieving, organizing, and preserving recorded expression regardless
+of the formats or technologies in which that expression is recorded."
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/statements/caf-statement">
+statements/caf-statement
+=================</a>
+* Computer and Academic Freedom Statement -- Draft
+
+This is an attempt to codify the application of academic freedom to
+academic computers. It reflects our seven months of on-line discussion
+about computers and academic freedom. It covers free expression, due
+process, privacy, and user participation.
+
+Comments and suggestions are very welcome (especially when posted to
+CAF-talk). All the documents referenced are available on-line.
+(Critiqued).
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/statements/caf-statement.critique">
+statements/caf-statement.critique
+=================</a>
+* Computer and Academic Freedom Statement -- Draft -- Critique
+
+This is a critique of an attempt to codify the application of academic
+freedom to academic computers. It reflects our seven months of on-line
+discussion about computers and academic freedom. It covers free
+expression, due process, privacy, and user participation.
+
+Additional comments and suggestions are very welcome (especially when
+posted to CAF-talk). All the documents referenced are available
+on-line.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/statements/bill-of-rights.aahe">
+statements/bill-of-rights.aahe
+=================</a>
+* Bill of Rights ... for Electronic ... Learners
+
+This is the "Bill of Rights and Responsibilities for the Electronic
+Community of Learners". It could become the first widely endorsed
+statement directly related to computers and academic freedom.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/academic/student.freedoms.aaup">
+academic/student.freedoms.aaup
+=================</a>
+* Student Freedoms (AAUP)
+
+Joint Statement on Rights and Freedoms of Students -- This is the main
+U.S. statement on student academic freedom.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/academic/speech-codes.aaup">
+academic/speech-codes.aaup
+=================</a>
+* Speech Codes (AAUP)
+
+On Freedom of Expression and Campus Speech Codes Expression - An
+official statement of the American Association of University
+Professors (AAUP)
+
+It says in part: "On a campus that is free and open, no idea can be
+banned or forbidden.  No viewpoint or message may be deemed so hateful
+or disturbing that it may not be expressed."
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/academic/academic-freedom.wus">
+academic/academic-freedom.wus
+=================</a>
+* Academic Freedom (WUS)
+
+The Lima Declaration on Academic Freedom and Autonomy of Institutions
+of Higher Education, an international declaration by the World
+University Service.
+
+Source: _World University Service Academic Freedom 1990: A Human
+Rights Report_ by Laksiri Fernando, et al.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/academic/academic-freedom.can">
+academic/academic-freedom.can
+=================</a>
+* CAUT-ACPU Policy on Academic Freedom (Canada)
+
+Policy statement on academic freedom for the Canadian Association
+of University Teachers.
+
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/policies/netnews.uwm.edu">
+policies/netnews.uwm.edu
+=================</a>
+* Edu -- U. of Wisconsin-Milwaukee -- Netnews
+
+These are the network policy resolutions developed by the Computer
+Policy Committee at the University of Wisconsin-Milwaukee. The
+resolutions were approved by the Committee and forwarded to the
+Chancellor. They were given final approval by the Chancellor as campus
+administrative policy (memo dated 02/23/93).
+
+They say (to paraphrase) 1) Netnews is important 2) No restrictions
+should be imposed without wide consultation 3) The principles of
+intellectual freedom developed for university libraries apply to
+Netnews material 4) The principles of intellectual freedom developed
+for publication in traditional media apply to computer media.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/policies/netnews.uwo.ca">
+policies/netnews.uwo.ca
+=================</a>
+* U. of Western Ontario -- Netnews policy
+
+It says in part: "In its publications regarding Usenet, CCS should
+make it clear that the individual user bears the primary
+responsibility for the material that he or she chooses to send or
+display on the network or on the University's computer systems."  It
+also specifies a procedure for dealing with challenges to material.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/news/cafv01n33">
+news/cafv01n33
+=================</a>
+[No annotation available.]
+
+=================<a href="http://www.eff.org/CAF/faq/netnews.reading.html">
+faq/netnews.reading
+=================</a>
+* Netnews -- Policies on What Users Read
+ 
+q: Should my university remove (or restrict) Netnews newsgroups
+because some people find them offensive? If it doesn't have the
+resources to carry all newsgroups, how should newsgroups be selected?
+ 
+a: Material should not be restricted just because it is offensive to
+...
+
+=================<a href="http://www.eff.org/CAF/faq/media.control.html">
+faq/media.control
+=================</a>
+* University Control of Media
+ 
+q: Since freedom of the press belongs to those who own presses, a
+public university can do anything it wants with the media that it
+owns, right?
+ 
+a: No. Like any organization, the U.S. government must work within its
+...
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/san-diego-committee-v-gov-bd">
+law/san-diego-committee-v-gov-bd
+=================</a>
+* Expression -- Public Forum -- Overview -- San Diego Committee v. Gov Bd
+
+Excerpts from San Diego Committee v.  Governing Bd., 790 F.2d 1471.  A
+decision by an appellate court that applied the Supreme Court's Public
+Forum Doctrine (to a school newspaper).
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/stanley-v-magrath">
+law/stanley-v-magrath
+=================</a>
+* Expression -- Public Forum -- Closing -- Stanley v. Magrath
+
+Comments from _Public Schools Law: Teachers' and Students' Rights_ 2nd
+Ed. by Martha M. McCarthy and Nelda H. Cambron-McCabe, published in
+1987 by Allyn and Bacon, Inc. It says, in part, "[a]lthough school
+boards are not obligated to support student papers, if a given
+publication was originally created as a free speech forum, removal of
+financial or other school board support can be construed as an
+unlawful effort to stifle free expression." Also, "school
+authorities cannot withdraw support from a student publication simply
+because of displeasure with the content" and "the content of a
+school-sponsored paper that is established as a medium for student
+expression cannot be regulated more closely than a nonsponsored
+paper". Also, it tells what to do about libel in student
+publications.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/student-publications.misc">
+law/student-publications.misc
+=================</a>
+* Expression -- Offensive -- Student Publications -- Misc
+
+Quotes from the book _Law of the Student Press_ by the Student Press
+Law Center (1985,1988). They say that four-letter words are protected
+speech, that public universities are not likely to be liable for
+publications that they for which they do not control the contents, and
+that the _Hazelwood_ decision does not apply to universities.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/uwm-post-v-u-of-wisconsin">
+law/uwm-post-v-u-of-wisconsin
+=================</a>
+* Expression -- Hate Speech -- UWM Post v. U Of Wisconsin
+
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/rust-v-sullivan">
+law/rust-v-sullivan
+=================</a>
+* Expression -- Gag Rule -- Rust v. Sullivan
+
+The decision and decent for the so-called abortion information gag
+rule case. The decision explicitly mentions universities as a place
+where free expression is so important that gag rules would not be
+allowed.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/rav-v-st-paul.1">
+law/rav-v-st-paul.1
+=================</a>
+* Expression -- Hate Speech -- RAV v. St Paul -- 1
+
+The Supreme Court's _R.A.V. v. City of St. Paul_ decision about hate crimes.
+
+The Court overturned St. Paul's Bias-Motivated Crime Ordinance, which
+prohibits the display of a symbol which one knows or has reason to
+know "arouses anger, alarm or resentment in others on the basis of
+race, color, creed, religion or gender."
+
+By 9-0, the Court said the law as overly broad. By 5-4, the Court said
+that the law was also unfairly selective because it only tried to protect
+some groups.
+
+Included: summary, majority opinion, 3 concurring opinions.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/perry-v-perry">
+law/perry-v-perry
+=================</a>
+* Expression -- Public Forum -- Campus Mail -- Perry v. Perry
+
+Comments from the ACLU Handbook _The Rights of _Teachers_. It says
+that campus mail systems (and other school facilities) may or may not
+be limited public forums depending on how they are managed. (Perry v.
+Perry was about an interschool mail system that was managed as a
+nonpublic forum. It was one of the cases that defined the Public Forum
+Doctrine.)
+
+Also, a paraphrase from an ACLU handbook _The Rights of Teachers_. It
+says that generally, speech, if otherwise shielded from punishment by
+the First Amendment, does not lose that protection because its tone is
+sharp.
+
+Also, from p. 92, it says that there are legal limits to the oaths a
+(public) school can ask its teachers to sign. [Some of these same
+limits might apply to what a school can ask a user to sign as a
+condition of getting (or keeping) a computer account.]
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/broadrick-v-oklahoma">
+law/broadrick-v-oklahoma
+=================</a>
+* Expression -- Vague Regulation -- Broadrick v. Oklahoma, et al.
+
+Summary of case law on overly vague regulation of expression. It says
+a statute is unconstitutionally vague when "men of common intelligence
+must necessarily guess at its meaning."
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/naacp-v-button">
+law/naacp-v-button
+=================</a>
+* Expression -- Overbroad Regulation -- NAACP v. Button, et al.
+
+Summary of case law on overly broad regulation of expression. It says
+"[b]ecause First Amendment freedoms need breathing space to survive,
+government may regulate in the area only with narrow specificity."
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/pd-of-chicago-v-mosley">
+law/pd-of-chicago-v-mosley
+=================</a>
+* Expression -- Content Regulation -- Police Department of Chicago v. Mosley
+
+Summary of case law on content-based regulation of expression. It says
+that "above all else, the First Amendment means that government has no
+power to restrict expression because of its message, its ideas, its
+subject matter, or its content."
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/cohen-v-california.4">
+law/cohen-v-california.4
+=================</a>
+* Expression -- Regulation of Tone -- Cohen v. California -- 4
+
+A short quote from _Cohen v. California_: "We cannot sanction the view
+that the constitution, while solicitous of the cognitive content of
+individual speech, has little or no regard for that emotive function
+which, practically speaking, may often be the more important element
+of the overall message sought to be communicated."
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and then:
+
+  cd  /pub/CAF/library
+  get computer.draft.ala
+  cd  /pub/CAF/statements
+  get caf-statement
+  cd  /pub/CAF/statements
+  get caf-statement.critique
+  cd  /pub/CAF/statements
+  get bill-of-rights.aahe
+  cd  /pub/CAF/academic
+  get student.freedoms.aaup
+  cd  /pub/CAF/academic
+  get speech-codes.aaup
+  cd  /pub/CAF/academic
+  get academic-freedom.wus
+  cd  /pub/CAF/academic
+  get academic-freedom.can
+  cd  /pub/CAF/policies
+  get netnews.uwm.edu
+  cd  /pub/CAF/policies
+  get netnews.uwo.ca
+  cd  /pub/CAF/news
+  get cafv01n33
+  cd  /pub/CAF/faq
+  get netnews.reading
+  cd  /pub/CAF/faq
+  get media.control
+  cd  /pub/CAF/law
+  get san-diego-committee-v-gov-bd
+  cd  /pub/CAF/law
+  get stanley-v-magrath
+  cd  /pub/CAF/law
+  get student-publications.misc
+  cd  /pub/CAF/law
+  get uwm-post-v-u-of-wisconsin
+  cd  /pub/CAF/law
+  get rust-v-sullivan
+  cd  /pub/CAF/law
+  get rav-v-st-paul.1
+  cd  /pub/CAF/law
+  get perry-v-perry
+  cd  /pub/CAF/law
+  get broadrick-v-oklahoma
+  cd  /pub/CAF/law
+  get naacp-v-button
+  cd  /pub/CAF/law
+  get pd-of-chicago-v-mosley
+  cd  /pub/CAF/law
+  get cohen-v-california.4
+
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com
+Include the line(s):
+
+  connect ftp.eff.org
+  cd  /pub/CAF/library
+  get computer.draft.ala
+  cd  /pub/CAF/statements
+  get caf-statement
+  cd  /pub/CAF/statements
+  get caf-statement.critique
+  cd  /pub/CAF/statements
+  get bill-of-rights.aahe
+  cd  /pub/CAF/academic
+  get student.freedoms.aaup
+  cd  /pub/CAF/academic
+  get speech-codes.aaup
+  cd  /pub/CAF/academic
+  get academic-freedom.wus
+  cd  /pub/CAF/academic
+  get academic-freedom.can
+  cd  /pub/CAF/policies
+  get netnews.uwm.edu
+  cd  /pub/CAF/policies
+  get netnews.uwo.ca
+  cd  /pub/CAF/news
+  get cafv01n33
+  cd  /pub/CAF/faq
+  get netnews.reading
+  cd  /pub/CAF/faq
+  get media.control
+  cd  /pub/CAF/law
+  get san-diego-committee-v-gov-bd
+  cd  /pub/CAF/law
+  get stanley-v-magrath
+  cd  /pub/CAF/law
+  get student-publications.misc
+  cd  /pub/CAF/law
+  get uwm-post-v-u-of-wisconsin
+  cd  /pub/CAF/law
+  get rust-v-sullivan
+  cd  /pub/CAF/law
+  get rav-v-st-paul.1
+  cd  /pub/CAF/law
+  get perry-v-perry
+  cd  /pub/CAF/law
+  get broadrick-v-oklahoma
+  cd  /pub/CAF/law
+  get naacp-v-button
+  cd  /pub/CAF/law
+  get pd-of-chicago-v-mosley
+  cd  /pub/CAF/law
+  get cohen-v-california.4
+
+
+--
+Carl Kadie -- I do not represent any organization or employer; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf May 23 23:24:55 1995
+From: russ.wuertz@spacecoast-bbs.com (RUSS WUERTZ)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Illegal Wire TAP
+Message-ID: <8A9E3C3.00680001E4.uuout@spacecoast-bbs.com>
+Date: Tue, 23 May 95 16:03:00 -0500
+
+
+    Ben Delieto, Police Chief of the New Haven, Police, was accused of
+becomming Mayor using an Illegal Wire Tap.    Mayor Johnson of the Town
+over... West Haven was also involved as per a civil suit filed by
+Williams and Wise in a Class Action style.
+
+     Dilieto campaigned that it was the Black Panters that initiated the
+wire tap and it indeed happened.   The Full page of names of persons
+wiretapped were all store owners and sports betters however.
+
+     Williams and Wise NEVER found the actual wire tap, but in the
+Newspaper was a picture of the old style wire tap equipment which was
+sent to be distroyed.
+
+      This type of activity continued... In West Haven, so many people
+were complaining about the Police listening in that the term, Bug up the
+ass origionated.   Lawyers refered to this as a bug deep in the gut of
+the person being wiretapped.
+
+      It gets so obvious when "some people" are wiretapped.   Even Radio
+shows get invovled.   Sgt. Casey of the West Haven P.D. says, "Court
+ordered wiretaps are hard to get."
+
+      No law enforcement agency knows what OTHER may be wiretapping.
+FBI... State Attorney.... Local police...????  So they continue and
+continue as eveyone watches and says..."We don't know why yet."
+
+      In MY case... I go from that area to Jacksonville FL only to have
+the three major network news stations talk back to me through a
+microphone that "cannot be found."   With a 10000 dollar fine and jail
+time if it is not Court ordered.   The Jacksonville News...NBC and CBS
+did mention that a Federal Judge ordered it.
+
+     When I went to see the State Attorney... after leaving I had a gun
+put to my head and had my wallet stolen.   I was told, "keep your mouth
+shut."
+     The p.i.n. number of my bank card went over CBS as "public
+information."
+
+From caf-talk Caf May 24 10:48:27 1995
+From: russ.wuertz@spacecoast-bbs.com (RUSS WUERTZ)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhan
+Message-ID: <8A9F1E3.00680001EF.uuout@spacecoast-bbs.com>
+Date: Wed, 24 May 95 08:03:00 -0500
+
+
+    I had PCpursuit and called BBS's all over the Country.   The number
+of "Cult" bbs's as charged by the CBN station was about 2 out of 1000.
+
+    There are a few small bbs's with unlisted numbers that have that.
+It is regulated in Cities like Jacksonville, by them all having a BBS
+association and not listing the phone numbers of those who have adult
+GIFs.
+
+    Then someone told me that Pagan BBS's are Cult.  They are Midevil
+BBS's that have that type of interest.   Very small.
+
+
+     If Exon wanted to put regulation at an Association level instead of
+trying to censor everyone and everything, and leave it to Religion and
+the separation of Church and State, it would be more appropriate.
+
+From caf-talk Caf May 24 13:02:57 1995
+From: you@somehost.somedomain (Your Name Here)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Books for Immigrants
+Date: 24 May 1995 13:02:53 -0400
+Message-ID: <3pvo5p$ev2@maze.dpo.uab.edu.801334971>
+
+TWO BOOKS AVAILABLE FOR IMMIGRANTS
+
+There are two excellent books now available for new immigrants to the 
+United States.  It doesn't matter from where one has emigrated.  They are 
+great reference books for anyone who wants to know more about immigration laws and citizenship requirements.
+________________________________________________________________________
+
+Immigration the Easy Way, paperback, 283 pp., $13.00 + $6.00 shipping.
+The first comprehensive guide to US immigration, explains sweeping 
+changes under the new Immigration and Nationality Act.
+
+What you need to know about getting your green card:
+- who is eligible
+- how to get a work permit
+- when to seek an immigration lawyer
+- where to send your application
+
+Explained in detail:
+- how to enter the US legally, as a temporary or permanent resident
+- your legal rights as an immigrant under US law
+- the steps required for naturalization and citizenship
+
+Immigration the Easy Way takes you step by step, explains the system to 
+you, is completely up to date, answers your questions.
+________________________________________________________________________
+
+How to Prepare for the US Citizenship Test (3rd ed.), paperback, 261 pp.,
+$13.00 + $6.00 shipping/handling.
+
+Learn citizenship requirements and find out how to meet them.
+
+Succeed on the test.
+
+Updated to reflect the latest legal requirements.
+
+You'll find reading practice, legal information, job eligibility 
+information, a directory of immigration offices, sample forms, 
+check-up tests with answers.
+
+Plus these helpful features:  American idiomatic expressions and 
+pronunciation help, a review of US history and government, national 
+holidays and special observance days in the US.
+
+Charts, illustrations, sample forms, maps, etc.
+________________________________________________________________________
+
+Both books are available by calling this toll free number:  
+1 (800) 437-6988
+
+	or by writing:  IES (102)
+			P.O. Box 55118
+			Birmingham, AL 35255-5118
+_______________________________________________________________________
+
+From caf-talk Caf May 24 14:27:01 1995
+From: amueller@cis.ohio-state.edu (andrew j mueller)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 24 May 1995 13:17:54 -0400
+Message-ID: <3pvpo2INN442@hammer.cis.ohio-state.edu>
+
+>(gerry harbison) writes:
+>
+>I think you're being a little harsh. There's clearly a body of people who 
+>are worried about the dangers lurking on the internet for unsuspecting
+>innocent kids.
+
+
+	Solution: Keep kids off the net. We don't let kids drive cause
+	it's dangerous, so don't let them on the internet. How many
+	times does your 12 year old son take your car out for a test
+	drive? My computer has a lock. Does YOURS??
+
+	When I worked for OARnet (Ohio Academic Resource Network) I
+	was opposed to the K-12 program being run there to hook up
+	schools throughout ohio to the internet. We can't get them
+	all up to 10th grade reading level by the time they graduate,
+	I think internet connections should be WAAAAY down on the list
+	of priorities.
+
+
+
+	Andrew Mueller
+	HyperMedia Programmer
+	Nationwide Life Insurance Co.
+	amueller@cis.ohio-state.edu / 143658@ibmmail.com
+
+
+
+
+From caf-talk Caf May 24 18:45:41 1995
+From: kadie@sal.cs.uiuc.edu (Carl M Kadie)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 24 May 1995 22:41:39 GMT
+Message-ID: <3q0cn3$12k@vixen.cso.uiuc.edu>
+
+Shapiro@AOL.com (Eric Shapiro) writes:
+
+>> <adult_only> tag for Web pages
+> 
+>I definitely agree that this should be done asap.
+>It's a great solution because:
+> 
+>1) It's cheap
+
+It shifts cost from those who care to those who don't.
+That is not fair (and it would not be cheap.)
+
+>2) It will help stop congress from regulating the net
+[...]
+
+It is true that self-censorship under threat from formal censorship
+will often stop formal censorship, but so what? The censorship
+is still there.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================<a href="http://www.eff.org/CAF/faq/labeling.html">
+faq/labeling
+=================</a>
+* Labeling Offensive Material
+ 
+q: Would encouraging the labeling of offensive material be a way
+protect intellectual freedom?
+ 
+a: No, such "voluntary" labeling schemes have not worked to protect
+...
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and then:
+
+  cd  /pub/CAF/faq
+  get labeling
+
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com
+Include the line(s):
+
+  connect ftp.eff.org
+  cd  /pub/CAF/faq
+  get labeling
+
+--
+Carl Kadie -- I do not represent any organization or employer; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf May 25 01:56:15 1995
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+From: rohan@cs.monash.edu.au (Rohan Baxter)
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Message-ID: <rohan.801375569@bruce.cs.monash.edu.au>
+Date: Thu, 25 May 1995 04:19:29 GMT
+
+Carl Kadie has listed some perceived dangers with the 
+labeling of documents proposals. Most of the dangers can be
+avoided, provided:
+
+1. the labeling scheme is truly voluntary 
+(no one said "all" materials "have" to be labelled.
+Carl doesn't have to label his pages. His pages have no label 
+and are hence labeled "unlabeled" by browsers equipped to use 
+labels :-) (Hope he doesn't mind!)  
+
+2. the labeling is done by authors, not providers or carriers or others
+(sure, its subjective and incomplete and has no guarantees, but 
+authors can choose to meet some social obligations by flagging 
+materials as potentially offensive if they so wish.)
+
+3. The voluntary labeling in the record industry is a case where
+voluntary labeling didn't work. What happened was that record
+stores succumbed to intense pressure not to carry records with
+certain labels. Would this happen to internet providers? 
+
+3.1 Already does to a certain extent...newsgroup names are
+self-labeling and some providers succumb to pressure to
+remove them. It is possible voluntary labeling may exacerbate
+this... 
+
+3.2 If censorship by carriers based on labels became widespread, 
+this would provide an incentive for authors to voluntarily
+mislabel, or just not label their materials, and the voluntary 
+labeling system would breakdown. The advantages of flagging
+content is lost, but at least the censors don't win...
+
+A prerequisite for voluntary labeling to work is that there is no 
+or only isolated censorship by internet providers without consent
+of their readers. 
+Perhaps there is a nice symbiosis between "no censorship by
+carriers/providers" and voluntary labeling....One needs the other
+to survive.
+
+regards Rohan
+PS. Further discussion of voluntary labeling can be found in:
+<URL:http://www.cs.monash.edu.au/~lloyd/tilde/InterNet/Innocent/>
+--
+----------------------------------------------------------
+Rohan Baxter, rohan@cs.monash.edu.au  ph. +61 3 905 5721 
+Dept. of Computer Science, Monash University, Clayton, 3168, Australia.
+www:  <A HREF="http://www.cs.monash.edu.au/~rohan"> rohan </A>
+
+From caf-talk Caf May 25 02:03:30 1995
+From: A&M@news.usit.net (A&M INC.)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Make $200 to $2000 a week, at home!
+Date: 25 May 1995 02:03:24 -0400
+Message-ID: <A&M-2505950203290001@r-acox.ppp.usit.net.801381800>
+
+Pay off all your debts!
+
+Buy that nice new car!
+
+Quit your full-time job, and work part-time at home!
+
+
+It¹s all extremely possible with my guide!.
+
+³Home-Job Opportunity Guide²  is an instructional manual with five (5)
+different EASY methods of making a steady income, from the comfort of your
+home. Anyone can do it! - most of the methods are so easy that a kid could
+do it!
+
+This guide includes information on:
+
+€ Starting your own 900 service for under $400, and NO monthly payment...
+€ Buying and selling through the News-Paper...
+€ Assembling small parts for local and long distance companies...
+€ Working for various companies, at home, on your computer...
+€ Creating your own "How-To" manual, and making it sell...
+€ !Bonus chapter! on Advertising with NO money...
+
+Rush a check, or money order of $10 to the following address:
+
+Adam E. Cox
+205 East Glenwood Ave. 
+Knoxville, TN  37917
+
+From caf-talk Caf May 25 12:06:21 1995
+From: harbison@unlinfo.unl.edu (gerry harbison)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 25 May 1995 15:39:13 GMT
+Message-ID: <3q28b1$4c8@crcnis3.unl.edu>
+
+rohan@cs.monash.edu.au (Rohan Baxter) writes:
+
+>Carl Kadie has listed some perceived dangers with the 
+>labeling of documents proposals. Most of the dangers can be
+>avoided, provided:
+
+>1. the labeling scheme is truly voluntary 
+>(no one said "all" materials "have" to be labelled.
+>Carl doesn't have to label his pages. His pages have no label 
+>and are hence labeled "unlabeled" by browsers equipped to use 
+>labels :-) (Hope he doesn't mind!)  
+
+Well, exactly. He should mind.  There is a tradition in both our legal 
+systems that innocence be presumed until guilt is established.  
+Labelling schemes ask web page authors to certify the 'innocence' of 
+their pages before the fact.  Would you ask the author of every magazine 
+article to include a statement at the beginning of his/her article to 
+tell the reader whether he/she might be offended by reading it?
+
+The issue seems to me to be simple. There are two groups of people; 
+those who think the availability of sexual (or other) 
+material on web is a major concern, and those who do not.  Those who 
+do have an obvious solution; figure out individually or collectively 
+where the material that bothers them is, and act so that the children,
+(or even adults ) for whom they are custodians don't get to see what's on
+this index prohibitorum (if that's legal, of course; Carl's point 
+about the legality of school administrators deciding what kids in 
+their school should read is well taken).  They could buy SurfWatch, or 
+push Netscape to include a lock-out option, or even write their own 
+internet browser. 
+
+It appears to me that rather than go
+to the trouble of doing this, they want the other group of people - 
+those of us who aren't concerned about this issue  - to do their work for 
+them. If nothing else, this seems the height of laziness.
+ 
+--
+Gerry Harbison http://chem-gharbison.unl.edu/HomePage.html gerry@wendigo.unl.edu
+Nearly Professor of Chemistry, University of Nebraska, Lincoln, NE 68588-0304
+..who speaks for UNL only when he says he does, and he isn't doing so at 
+the moment. 300 bits of saved bandwidth -->
+
+From caf-talk Caf May 25 15:41:03 1995
+From: selberg@cs.washington.edu (Erik Selberg)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 25 May 1995 11:43:47 -0700
+Message-ID: <rj74u2j15b0.fsf@wally.cs.washington.edu>
+
+I think the label people have things a bit backwards. 
+
+Instead of labelling things <adult_only> or some such, we should label
+things <kid_safe>. That way, we can create browsers which won't accept
+any page unless it's safe. So, people who care for kids to read their
+stuff can put in the <kid_safe> thing, and everyone else who doesn't
+care can go about their business in a NC-17 world. 
+
+And to all those who say "but when we start up, no kid will be able to
+access anything" --- you catch on quickly.
+
+-Erik
+
+-- 
+
+				Erik Selberg
+"I get by with a little help	selberg@cs.washington.edu
+ from my friends."		http://www.cs.washington.edu/homes/selberg
+
+From caf-talk Caf May 25 17:31:56 1995
+From: kadie@sal (Fwd:)
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk
+Subject: [eye.news, et al.]  EYENET: Ban Nothing
+Date: 25 May 1995 19:57:52 GMT
+Message-ID: <3q2ng0$2uf@vixen.cso.uiuc.edu>
+
+[A repost - Carl]
+
+From caf-talk Caf May 25 17:31:56 1995
+Newsgroups: eye.news,alt.censorship,alt.culture.internet,can.infohighway
+Subject:  EYENET: Ban Nothing
+Date: 25 May 1995 15:16:38 -0400
+Message-ID: <3q2l2m$poj@gold.interlog.com>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+eye WEEKLY                                                 May 25 1995
+Toronto's arts newspaper                      .....free every Thursday
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EYENET                                                          EYENET
+
+                              BAN NOTHING
+                          Question everything
+
+                                  by
+                             K.K. CAMPBELL
+
+
+I was on CBC Newsworld's Faceoff two Tuesdays ago (May 16). Topic:
+censorship on the net. My opponent was Bernie Farber of the Canadian
+Jewish Congress. Take a wild guess which side I took ...
+
+The forces of censorship are amassing and, I hate to say it, if Canada
+maintains its traditions, we're doomed. The term net.cop will have a
+more real meaning than it does today.
+
+Our saving grace might be the U.S. If the U.S. abides by its own
+tradition of banning very little speech, Canucks will always be able to
+get an account in the U.S. and thus maintain our voices. While the
+net.illiterate assholes on Parliament Hill play Emperor For A Day,
+citizens will telnet across the border and publish whatever they want,
+from American computers.
+
+Here are the main three points I tried to make on the show:
+
+                        DIGITAL BOOK BURNERS
+
+Farber and his ilk are the moral descendants of book burners. But
+because books and printed matter have much stronger legal protections,
+The Modern Inquisition finds it easier to target CPUs and sysadmins.
+
+Right now, the panic-mongers in government and the media blame just
+about every social ill on the net. But the main theme today is bombs:
+"You can learn how to make bombs from reading the net! This evil must
+stop!"
+
+It's somewhat true. There is a file called The Terrorist's Handbook
+which circulates cyberspace. (It has a real wanky "WareZ d00d" feel to
+it and I wouldn't trust it for a second.) There's also The Anarchist's
+Cookbook making the rounds, which details everything from blowing up
+suspension bridges to cooking LSD in your kitchen. (Regard it with the
+same suspicion.)
+
+Sure enough, when I arrived at CBC studios, I saw that Farber had a
+printout of one of these text files.
+
+It was a good thing I had walked over to the World's Biggest Bookstore
+on my lunch hour and bought a copy of The Anarchist's Cookbook for
+$34.75. Information on bomb building. Right off the shelf.
+
+"Ah, but that costs money," the pro-censorship forces would counter.
+"You can copy it off the net for free.
+
+Anticipating that objection, I strolled over to the Metro Reference
+Library last Saturday. There, on the main floor, sat a horrible
+collection of terrorist information: the Encyclopedia Britannica. I
+grabbed volume 21 (right off the shelf), flipped to page 323 and read
+the section on explosives. I photocopied it for about a buck and
+strolled back out with the detailed description of how to make an
+ammonium nitrate fuel oil bomb -- exactly like that used in the
+Oklahoma City bombing.
+
+I hope Allan Rock and the feds attend to this outrage immediately and
+write legislation to regulate these damn libraries.
+
+                   FIGHT SPEECH WITH SPEECH, NOT COPS
+
+Farber kept suggesting that Nazis and hatemongers are using the net as
+a propaganda tool. This is uninformed opinion of the first order. The
+net is terrible as a "propaganda tool" because it's a two-way medium.
+Newsgroups are interactive. Racists are forced to answer questions.
+When Farber says, "Millions of people see what these people write,"
+complete the image for him: "Millions of people see these people
+ridiculed and humiliated in intellectual debate over and over again."
+
+That is pretty ineffective propaganda.
+
+In the finest of anarchist traditions, the net.community naturally
+produces people who rebut every hate-mongering pamphlet that denies the
+Holocaust happened. Canada's Ken McVay is one famous example. He's
+built an enormous reservoir of historical documents that permanently
+shred the revisionist pamphlets. Every time the same old pamphlets are
+uploaded to cyberspace, someone quickly tags on the real story.
+
+"And that's the beauty of the Internet: once it's refuted in an honest
+and academic fashion, you can't run away from it," McVay says. "The
+most intellectual among them (revisionists) are stupid and completely
+inept when it comes to historical research. And, of course, they are
+liars. That being the case, why on Earth would anyone want to shut them
+up or force them underground? I want to know who I'm dealing with. I
+want to know where they are. And I want to know how their minds work."
+
+It's dramatic to watch. No need for Thought Cops. As Deborah Lipstadt
+writes in Denying The Holocaust: "The main shortcoming of legal
+restraints is that they transform the deniers into martyrs on the altar
+of free speech."
+
+                   CENSORSHIP SUPPORTS THE STATUS QUO
+
+Throughout history, censorship has only worked to uphold the status
+quo. It keeps the strong strong and the weak weak.
+
+In 1871, Prussia's "personal honor" laws were intended to prevent
+insults against groups, such as Jews. Not surprisingly, the courts
+never upheld them for Jews, but rigorously used them to prevent
+criticism of Prussians, clerics and the military -- the status quo.
+
+At the turn of the century, France never charged the anti-Semitic
+enemies of Captain Alfred Dreyfuss. Of course, when Emile Zola wrote
+his famous tract "J'Accuse," he was charged with libel against the
+clergy and had to flee to England.
+
+In 1965, the British Race Relations Act was passed to combat racism.
+The first people charged under it? Black Power leaders, labor leaders,
+no-nuke activists. Britain's National Front thrives.
+
+In 1974, Britain's National Union of Students passed a resolution
+against "openly racist and fascist organizations." It was designed
+specifically to prevent anti- Semitism. A year later, it was invoked to
+prevent Israeli/Zionist speakers from touring. The National Front was
+delighted.
+
+Think all this is ancient history? How about Canada's infamous 1992
+Supreme Court decision in "Butler vs. the Queen"? It was hailed by
+pro-censorship feminists like Andrea Dworkin and Catherine MacKinnon as
+being a great step forward for women in the "battle" against sexual
+images.
+
+Two-and-a-half years later, we find that it has been used by the
+authorities to seize and confiscate material from well over half of all
+the feminist bookstores across the country. In fact, Customs actually
+seized two of Dworkin's own books. It was also used against gays and
+lesbians. "Traditional" sexual material was never touched.
+
+When are people who work for change going to learn that when they
+support censorship, they are building their own gallows? If they want
+to change society, why are they working to transfer still greater
+powers to the state? If they believe in change, they simply cannot
+support censorship.
+
+The Master's tools will never dismantle the Master's house.
+
+                                  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Retransmit freely in cyberspace        Author holds standard copyright
+http://www.interlog.com/eye                     Mailing list available
+eyeNET archive --> http://www.interlog.com/eye/News/Eyenet/Eyenet.html
+eye@interlog.com     "...Break the Gutenberg Lock..."     416-971-8421
+
+
+================= end of repost ==================
+--
+Carl Kadie -- I do not represent any organization or employer; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf May 26 07:33:48 1995
+From: donald@srd.bt.co.uk (Donald Fisk)
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.censorship,soc.culture.british
+Subject: Re: UK University bans newsgroups.
+Date: 26 May 1995 11:33:29 GMT
+Message-ID: <3q4ea9$qlo@pheidippides.axion.bt.co.uk>
+
+Paul Smee (ccpes@sun.cse.bris.ac.uk) wrote:
+: In article <3p070p$3uo@pheidippides.axion.bt.co.uk>,
+: Donald Fisk <donald@srd.bt.co.uk> wrote:
+: >Solomon Taibi (taibi91@taurus.cs.newpaltz.edu) wrote:
+: >: : If the UK has a constitution, post the text of said document.
+: >
+: >I have the text of the said document but I'm not going to waste my time
+: >typing it all in.
+
+: I hate to seem difficult, but it might be a service if you typed it in,
+: since you seem to be the only person in the entire country who has a
+: copy.  I'd certainly love to see it.  (Even more, I'd certainly love
+: for the government to see it.)
+
+I have seen no evidence that any MP is aware of its contents.   I'd
+like to see the Act enforced.
+
+It's in a book called "The Lyon Enchained".   I don't know the author.
+Hope that helps.
+
+: -- 
+: Paul Smee, Computing Service, University of Bristol, Bristol BS8 1UD, UK
+:    P.Smee@bristol.ac.uk - Tel +44 117 928 7865 - FAX +44 117 929 1576
+
+--
+Le Hibou (mo bheachd fhe/in:my own opinion) Email: donald@info.bt.co.uk
+
+"Well, I have an English father and a Scottish mother.   Which means
+I'm both stuck-up *and* mean." -- Angus Deayton
+
+From caf-talk Caf May 26 11:10:14 1995
+From: russotto@wanda.pond.com
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 26 May 1995 10:50:24 -0400
+Message-ID: <3q4prg$pr@wanda.pond.com>
+
+In article <rj74u2j15b0.fsf@wally.cs.washington.edu>,
+Erik Selberg <selberg@cs.washington.edu> wrote:
+}I think the label people have things a bit backwards. 
+}
+}Instead of labelling things <adult_only> or some such, we should label
+}things <kid_safe>. That way, we can create browsers which won't accept
+}any page unless it's safe. So, people who care for kids to read their
+}stuff can put in the <kid_safe> thing, and everyone else who doesn't
+}care can go about their business in a NC-17 world. 
+}
+}And to all those who say "but when we start up, no kid will be able to
+}access anything" --- you catch on quickly.
+
+Until someone (probably a kid) comes up with a proxy server which adds
+<kid_safe> to all documents :-)
+
+
+From caf-talk Caf May 26 14:31:54 1995
+From: kadie@sal (Fwd:)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: [alt.sexual.abuse.recovery, et al.]  Re: CENSOR ALL SEX AND VIOLENCE ON INTERNET
+Date: 26 May 1995 16:53:11 GMT
+Message-ID: <3q511n$nhs@vixen.cso.uiuc.edu>
+
+[A repost - Carl]
+
+From caf-talk Caf May 26 14:31:54 1995
+Newsgroups: alt.sexual.abuse.recovery,alt.censorship
+Subject:  Re: CENSOR ALL SEX AND VIOLENCE ON INTERNET
+Date: Thu, 25 May 1995 22:39:14 -0700
+Message-ID: <Pine.HPP.3.91.950525222530.17507A-100000@corpse.ecst.csuchico.edu>
+
+	Can someone help me?  I just subscribed today because I don't 
+know where else to go.  I would like to say that my heart aches for all 
+of you.  I've been through it and I know.  I commend all of you to seek 
+out support.
+	Now for my problem.  It concerns the I-net.  I have been 
+subscribed to alt.tasteless.pictures because I am a pre-med student and 
+looking for autoposy and crime scene photos.  What I came across was a 
+lot of posts about kiddie porn and trading of such and some posts of 
+(pornographic) of girls reported to be under eighteen.  I can't donwload 
+these things to be sure but once a while back I found some really 
+unpleasant stuff on my computer left from someone who accessed his 
+account from there.  They were NOT over eighteen by any stretch of the 
+imagination.
+	These groups are being accessed through the CSU Chico campus free 
+accounts to their students.  I know they can limit what their students 
+have access to, and I iwsh I knew why they would want to give freshmen 
+and the like access to alt.beastiality, 
+alt.binaries.pictures.eroctia.teen.  I've written to the Pres. of the 
+campus, the governor of CA, etc... I wrote to Newsweek.  I posted 
+something about my revulsion that no one seemed to care that they were 
+posting pictures of abused animals and children.  In response to this I 
+got E-mail from a man who said sex at any age was beautiful and victims 
+of such abuse said it was like "hugging".  He said he enjoyed it and gave 
+me a few choice words.  I was so furious I took his address and along 
+with the net addresses of several such posters right to the police 
+station.  I am supposed to get in touch with the sex crime, computer 
+investigator tomorrow.  
+	Am I doing the right thing?  Can these groups be removed from the 
+internet?  I thought since most of the people posting such vile and 
+revolting pictures were doing so from work accounts maybe I should inform 
+their companies what these people are up to.  I fingered them and some of 
+their names.  I just can't take the fact that not only to people commit 
+these crimes but they post them and gloat over them.  
+	As a result of my abuse, maybe I'm a zealot.  I'm a neurotic and 
+possibly over-protective parent.  Aside from my Internet problem, I would 
+like to hear from other abuse survivors who have children and what they 
+have done to protect them from the same things.  Sorry about the endless 
+post but I'm up late and agonizing about how such terrible things can 
+happen to innocent people while no one does anything to help them.
+	Sincerely,
+
+	Satan
+================= end of repost ==================
+--
+Carl Kadie -- I do not represent any organization or employer; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf May 26 16:45:55 1995
+From: russ.wuertz@spacecoast-bbs.com (RUSS WUERTZ)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhan
+Message-ID: <8AA12AD.00680001FA.uuout@spacecoast-bbs.com>
+Date: Fri, 26 May 95 11:25:00 -0500
+
+
+    There are people in the business of censorship who use different
+tactics to stop free speech.   Pornography is one of them.
+
+     If a person posts a get rich quick scheme here then they are trying
+to get a moderator to stop NON-sence posts and have some one person
+start deleting messages.
+
+      This is the business that they are in.   To stop one violator who
+went obscene they must stop other persons who are just telling the truth
+to someone who does not know of it.
+
+       For example...put up a sign on a street telephone pole, and they
+will respond with 5000 leaflets on telephone poles all over the place
+and then ask the police to start ripping them ALL down!
+
+
+        Senator Exon knows this.   There is much truth that is hard to
+tell people.   Time communications and people who rob thoughts are
+examples of it.
+
+From caf-talk Caf May 26 17:49:44 1995
+From: mwm@contessa.phone.net (Mike Meyer)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: Fri, 26 May 95 13:39:16 PST
+Message-ID: <19950526.76392E8.C341@contessa.phone.net>
+
+In <3q4prg$pr@wanda.pond.com>, russotto@wanda.pond.com wrote:
+> In article <rj74u2j15b0.fsf@wally.cs.washington.edu>,
+> Erik Selberg <selberg@cs.washington.edu> wrote:
+> }Instead of labelling things <adult_only> or some such, we should label
+> }things <kid_safe>. That way, we can create browsers which won't accept
+> }
+> }And to all those who say "but when we start up, no kid will be able to
+> }access anything" --- you catch on quickly.
+> 
+> Until someone (probably a kid) comes up with a proxy server which adds
+> <kid_safe> to all documents :-)
+
+Yeah - that'd be almost as hard as a proxy server that strips
+<adult_only> from any documents passing through it.
+
+Sigh. A workable technical solution that requires no changes on the
+client side has been proposed a number of times.
+
+I suspect that it requires those wanting to censor things to actually
+do some work is the primary reason that it keeps getting "forgotten".
+
+	<mike
+
+From caf-talk Caf May 26 21:54:19 1995
+From: raj@cup.hp.com (Rick Jones)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 27 May 1995 01:41:49 GMT
+Message-ID: <3q600t$8gt@hpindda.cup.hp.com>
+
+I suspect that nothing we could come-up with to "protect" children
+from anything on the net will take the place of good child rearing...
+
+rick jones
+
+From caf-talk Caf May 26 23:06:44 1995
+From: raj@cup.hp.com (Rick Jones)
+Newsgroups: comp.infosystems.www.users,comp.infosystems.www.providers,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 27 May 1995 01:41:49 GMT
+Message-ID: <3q600t$8gt@hpindda.cup.hp.com>
+
+I suspect that nothing we could come-up with to "protect" children
+from anything on the net will take the place of good child rearing...
+
+rick jones
+
+From caf-talk Caf May 27 15:10:46 1995
+From: judges@arch.ping.dk (NetNews Judges)
+Newsgroups: news.admin.policy,comp.admin.policy,comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,alt.current-events.net-abuse
+Subject: Cancel Messages: Frequently Asked Questions (FAQ). Ver. 2.3.2 
+Date: Sat, 27 May 95 11:28:40 +0200 (CET DST)
+Message-ID: <01050105.upfb81@arch.ping.dk>
+
+
+
+Cancel Messages: Frequently Asked Questions (FAQ). Ver. 2.3.2
+
+
+---------------------------------------------------------
+
+Summary:
+
+You can protect your reputation as a information source by 
+cancelling articles posted under your name as soon as you 
+discover that they are erroneous.
+
+Cancelling other's articles, however, can expose you, 
+your site, and the Net as a whole, to serious threats. The 
+sender should be notified when articles need to be cancelled. 
+
+Complaints can be directed to the Judges' List, however,
+they will only be considered if the protocol herein is 
+followed. Confidential dispute resolution is offered under 
+preconditions described in the Judges-L Frequently Asked 
+Questions List.
+
+---------------------------------------------------------
+Copyright 1994, 1995 Judges-L Registrar. 
+Please do not redistribute without permission.
+
+
+
+       List of Frequently Asked Questions
+
+
+*** Purpose of this document
+
+1) What are cancel messages?
+
+2) How have cancel messages been used?
+
+3) When should I issue a cancel message?
+
+4) When should I not issue a cancel message?
+
+5) What should I do when in doubt about whether a 
+cancel is appropriate?
+
+6) What should I do if I receive a request to 
+cancel one of my own messages?
+
+7) How can I request that a message be cancelled 
+when I can not do so myself?
+
+8) What should I do if I suspect one of my 
+posts has been improperly cancelled?
+
+9) Why should I follow these guidelines?
+
+10) How can I find out more about the NetNews Judges' List?
+
+*** Cancellation request form
+
+*** Contributors to this FAQ List
+
+*** Distinctive marks
+
+---------------------------------------------------------
+
+
+
+***     Purpose of this document
+
+This FAQ list serves as an introduction to cancel messages. 
+More advanced information is presented in the document 
+"Administration of Cancel Messages", which is directed to 
+News system administrators. The objectives and operational 
+procedures of Judges' List are specified and explained in the 
+Judges-L FAQ, also available as a Welcome message for new 
+subscribers to the List.
+
+
+
+1)     What are cancel messages?
+
+Cancel messages are special USENET messages from a class 
+known as "Control" messages.  Control messages don't result 
+in postings for people to read. Instead, they give 
+instructions to the USENET server software at each site that 
+gets the message.  A cancel message is a control message that 
+indicates that a particular message (named through its unique 
+Message-ID) should be deleted.
+
+
+
+2)     How have cancel messages been used?
+
+Most commonly they are used when a person posts something 
+they want to delete, correct, or retract.  One can cancel an 
+old message and optionally issue a new one.  (There is a
+better way to cancel and re-issue called superseding, but 
+most user programs do not support it.) 
+
+Cancels are sometimes used by moderators of moderated 
+newsgroups to delete messages that should not have been 
+posted. 
+
+
+
+3)     When should I issue a cancel message?
+
+You should issue a cancel message if it becomes necessary to 
+delete, correct, or retract one of your own posts.
+
+You can issue a cancel message to delete a forgery: A message 
+posted by someone else, that appears to be from you. A 
+forgery can often be cancelled by you as if it were your own 
+article. Such cancels should be reported to the Judges' List 
+(see below).
+
+Some victims of forgeries don't cancel them, but consider it 
+sufficient to post disclaimers to the affected newsgroups 
+alerting everyone to the forgery. This is wise, in any case, 
+since the forged message is likely to be seen by many people, 
+even if it is cancelled.
+
+The newsreaders rn, nn, and trn use "C" as the cancel 
+command. In Rusnews type ":cancel" while reading the message 
+to be deleted.
+
+
+
+4)     When should I not issue a cancel message?
+
+It is not appropriate to cancel an article posted by someone 
+else. However, a forgery is an exception. 
+
+A low-tech form of "forgery" is to insert fabricated quotes 
+in an article. Such posts should be followed-up with a 
+correction and the poster notified. 
+
+Misattribution of quotations, as opposed to fabrication, is 
+often a result of inferior news-reading software. Such posts 
+can be followed-up with a correction and the poster should be 
+notified. 
+
+It is inappropriate to cancel someone else's writing simply 
+because you find the opinions expressed offensive. You can, 
+however, ask the author to cancel the offensive post. Your 
+news-reading software should permit you to enter the names of 
+offensive posters in a "kill" file. Then, you will not see 
+articles from that person in the future. Ask your 
+administrator to upgrade your software if your news-reading 
+software does not have this capability.
+
+The poster should be asked to cancel a chain letter or a 
+libelous article, or any other post, such as an advertisement 
+or pyramid scheme, that has inappropriate content.  A copy of 
+the request should be directed to the postmaster at the 
+originating site, if the content is unlawful.
+
+
+
+5)      What should I do when in doubt about whether a cancel 
+is appropriate?
+
+Unless you are certain the poster is acting in bad faith, you 
+should explain to the poster why you object to the post and 
+ask that it be deleted. State that you are considering 
+submitting a complaint to the Judges' List and explain how 
+one can participate in the dispute-resolution process (see 
+below). You may explain how the offending post, or a post 
+that accomplishes the same objective, can be broadcast.  One 
+source of information is a list of Frequently Asked 
+Questions, "How to find the right place to post (FAQ)" in the 
+newsgroup "news.newusers.questions".
+
+If the post comes from your site, contact your postmaster or 
+News administrator for an opinion about whether the article 
+violates the site's usage agreement.
+
+Complaints can be directed to the Judges' List if they  
+include, whenever possible, a:
+
+     :complete copy of the offending post.
+
+     :complete copy of your letter to the poster, requesting 
+that the post be cancelled.
+
+     : complete copy of any reply from the poster or a News 
+administrator (only if permission to forward is not refused).
+
+The complaint must have a subject line that starts with the 
+characters "COMPLAINT: ", followed by the subject of the 
+offending post.
+
+If you receive additional information after submitting a 
+complaint or wish to withdraw the complaint, the same subject 
+line should be used.
+
+Mail the complaint to JUDGES-L@UBVM.cc.buffalo.edu or 
+JUDGES-L@UBVM.BITNET.
+
+If you wish to participate in the discussion of the 
+complaint, email to LISTSERV@UBVM.cc.buffalo.edu or 
+LISTSERV@UBVM.BITNET with only the command:
+SUB JUDGES-L <your-name-here>
+in the message body. Replace the <your-name-here>, with your 
+first and last name, in the above command.
+
+Before making comments on the List, please wait for someone 
+to respond to your complaint. If there is no response within 
+a week, it is most likely that you did not file a 
+satisfactory complaint (see above). If you find no error in 
+your complaint and the problem still has not been resolved, 
+send an additional message asking for help.
+
+
+
+6)     What should I do if I receive a request to cancel one 
+of my own messages?
+
+If you do not agree that the request is valid, reply to the 
+request with your reasons for not cancelling. If the request 
+does not mention the Judges' List, refer to this FAQ and ask 
+that you be notified if a complaint is submitted.
+
+
+
+7)     How can I request that a message be cancelled when I 
+can not do so myself?
+
+If your software does not permit cancellation, or you are not 
+confident in using it, ask your administrator to issue a 
+cancel message for you.
+
+
+
+8)     What should I do if I suspect one of my posts has been 
+improperly cancelled?
+
+If you suspect that your post has been improperly cancelled, 
+contact your News administrator to rule out the possibility 
+of a technical failure. If there has been an improper cancel, 
+complete documentation should be directed to the Judges' 
+List. Follow the procedures for submitting a complaint, but 
+replace the characters "COMPLAINT: " with "CANCEL: ".
+
+
+
+9)     Why should I follow these guidelines?
+
+If you do not cancel erroneous articles that you have posted, 
+you waste readers' time and damage your own reputation as a 
+reliable source. Consider an article posted to a typical 
+newsgroup with 36,000 readers, a post that takes an average 
+of 1 second for each reader to deal with (i. e., examining 
+the subject line) uses a total of ten man-hours  (36,000 
+seconds / 3,600 seconds/hour = 10 hours). If the article uses 
+up an average of four seconds, then the total time 
+expenditure is 40 hours, the equivalent of a work-week. This 
+is probably the minimum time expenditure on any article that 
+is even selected for scanning. Thus, a few minutes spent 
+cancelling an article can save a lot of time for readers. 
+Groups with a lot of erroneous articles tend to lose readers, 
+and articles posted to those groups reach a limited audience. 
+By cancelling erroneous posts, you also reduce the risk that 
+your name will be entered in numerous kill files, thus 
+limiting the audience you can reach with your posts. Posting 
+of apologies for faulty articles, such as those with an empty 
+body, is to be avoided, since this wastes even more time of 
+the reader, without supplying useful information.
+
+If you abuse the cancel facility, by cancelling other's 
+articles, you force people to take defensive actions. Many 
+administrators have disabled cancels, because they have been 
+abused. The disabling of cancels means that you will not be 
+able to delete all copies of your own posts. Therefore, if 
+you cancel an erroneous article and then post a corrected 
+one, readers at certain sites will first see the erroneous 
+one and then the corrected one. They may think that the 
+corrected one is a duplicate and not read it. This situation 
+is obviously of no benefit to posters or readers. If your 
+site's administrator has disabled cancels, it is wise for you 
+to notify your administrator when you issue a cancel, so at 
+least it can be deleted at your site. 
+
+Disabling of cancels does not prevent a cancel from working 
+at all, since the cancel message can delete the cancelled 
+article before it gets to a site where cancels are disabled. 
+Therefore, a cancel will be most effective if it is issued 
+immediately after the target article is posted. In some 
+cases, robot posters have been used to immediately repost 
+articles that have been cancelled. This can rapidly lead to a 
+newsgroup being overloaded at a site where the cancel 
+facility has been disabled. This type of conflict situation 
+should be avoided, since it makes the newsgroup unusable for 
+most readers. Cancel messages must be used with extreme care.
+
+If you cancel articles based upon their content, you expose 
+your site to a legal risk, since it can then be argued that 
+you are taking responsibility for all articles' content, some 
+of which may violate copyright or pornography laws, for 
+example. Originating sites already are exposed to this risk, 
+therefore, they should be allowed to cancel such posts. They 
+should also have a user agreement that permits them to 
+discipline a user, thus ensuring that repeated postings of 
+this type do not occur, and thereby reducing the legal risk 
+at all News sites. 
+
+This is not a hypothetical risk. Many sites have been closed 
+down, had their equipment seized, and their operators 
+prosecuted, and in some cases jailed. The effectiveness of a 
+common-carrier or "bookstore" type of defense has yet to be 
+established (But see Mike Godwin <mnemonic@eff.org>. INTERNET 
+LIBEL: IS THE PROVIDER RESPONSIBLE? Internet World, Nov./Dec. 
+1993) [URL: ftp://ftp.eff.org/pub/CAF/lawlibel_1.IW]. The use 
+of non-originating site cancels, to control content of 
+articles, reduces the chances that such a defense can ever be 
+established. This could make the risk of operating a News 
+site unacceptable. Some sites have already been prohibited 
+from operating moderated newsgroups or mailing lists by their 
+legal counsel, because of the legal risk associated with 
+assuming responsibility for content of distributed messages. 
+The damage to USENET caused by the most extreme case of 
+abusive posting was much less than that caused by external 
+threats, even when those threats did not directly result in 
+disruption of a News site. Therefore, in doubtful cases, 
+cancel messages should not be issued. Notification of 
+authorities external to the Net should be avoided. Contacts 
+to the Press should be left to those who have been trained in 
+public relations or have equivalent experience.
+
+In order to minimize legal liability, you should in, first 
+instance, try to stop abusive posting at the source. By 
+objecting directly to a poster of offensive material and 
+making the person aware of this FAQ, you reduce the chances 
+of repeated abuse.
+
+In the case, that a poster refuses to comply with a request 
+to cancel an article and you refer the matter to the Judges' 
+List, the conflict can be resolved in a way which benefits 
+the Net in the long term, and reduces the risk that you will 
+be subject to retaliation, for example, by having your posts 
+improperly cancelled. Complaints to the Judges' List also 
+permits a database of repeat abusers to be built up, with 
+much more effective resolution of such cases then becoming 
+possible.
+
+
+
+10) How can I find out more about the NetNews Judges' List?
+
+The Judges-L Frequently Asked Questions List contains 
+complete information about the List. It includes the rules 
+that govern processing of complaints, the procedures for 
+creating consensus documents, such as this one, information 
+on how to change the rules, etc. It is available in the 
+Judges-L public archive and posted monthly to 
+news.admin.misc, etc. Private archives, which 
+contain all messages sent to the List, are available to List 
+subscribers. Subscription is open to persons who submit a 
+correctly completed Judge-L Registration Form, which is 
+included in the Judges-L FAQ.
+
+Background information on the List is available in these 
+articles:
+
+Arthur, C. (1 Oct. 1994).
+Internet posse will run junk e-mail out of town.
+New Scientist, vol. 143, num. 1945, p. 6.
+
+McKinney, E. (Dec. 1994)
+The matrix vs. spam.
+Matrix News, 4(12), pp. 6-7.
+
+Stodolsky, D.  (25 Feb 95).
+Re: JUDGES-L (da Silva, RISKS-16.83 on Stodolsky, RISKS-
+16.82). RISKS DIGEST 16(85).
+http://catless.ncl.ac.uk/Risks/16.85.html
+
+
+
+***     Cancellation request form
+
+Sample reply to a poster requesting cancellation or 
+explanation (not usable in cases where only the opinions 
+expressed are offensive):
+
+---------------------------------------------------------------
+I object to your post, because ....
+
+Please cancel this post and notify me that you have done so, 
+or explain why you will not delete the post. Please note that 
+any reply may be forwarded to the JUDGES-L list, unless 
+explicit objection is given.
+
+If I get no response, I will submit a complaint to the 
+Judges' List. 
+
+If you wish to participate in the discussion of the complaint 
+on that List, email to LISTSERV@UBVM.cc.buffalo.edu or 
+LISTSERV@UBVM.BITNET with only the command:
+SUB JUDGES-L <your-name-here>
+in the message body. Replace the <your-name-here>, with your 
+first and last name, in the above command.
+---------------------------------------------------------------
+
+
+
+***     Contributors to this FAQ include:
+
+Bob MacDowell <bobmacd@NETCOM.COM>
+David Stodolsky <david@arch.ping.dk>
+Dimitri Vulis <dlv@dm.com>
+
+
+
+*** Distinctive marks
+
+Judges-L, judges, Judges' List, net.judges, NetNews Judges, 
+NetNews Judges List, NetNews Judges' List 
+are marks of the Judges-L Registrar.
+
+These marks should not be used in any situation whatsoever
+where there is a likelihood of confusion. For example, use of 
+the name "judges" or "Judges-L" as the sender of a message or 
+as a signature would be an infringement.
+
+
+=============================================================
+
+
+David S. Stodolsky,     Euromath Center,    University of Copenhagen
+Universitetsparken 5, DK-2100 Copenhagen, Denmark. david@euromath.dk
+david@arch.ping.dk. Tel.: +45 38 33 03 30. Fax: +45 38 33 88 80. (C)
+
+From caf-talk Caf May 27 15:46:20 1995
+Newsgroups: news.admin.policy,comp.admin.policy,comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,alt.current-events.net-abuse
+From: peter@bonkers.taronga.com (Peter da Silva)
+Subject: Re: Cancel Messages: Frequently Asked Questions (FAQ). Ver. 2.3.2 
+Message-ID: <D994Ky.4rr@bonkers.taronga.com>
+Date: Sat, 27 May 1995 19:24:33 GMT
+
+In article <01050105.upfb81@arch.ping.dk>,
+NetNews Judges <judges@arch.ping.dk> wrote:
+>Judges-L, judges, Judges' List, net.judges, NetNews Judges, 
+>NetNews Judges List, NetNews Judges' List 
+>are marks of the Judges-L Registrar.
+>
+>These marks should not be used in any situation whatsoever
+>where there is a likelihood of confusion. For example, use of 
+>the name "judges" or "Judges-L" as the sender of a message or 
+>as a signature would be an infringement.
+
+Obviously the person who wrote this hasn't read the Copyright Myths FAQ.
+
+>David S. Stodolsky,     Euromath Center,    University of Copenhagen
+>Universitetsparken 5, DK-2100 Copenhagen, Denmark. david@euromath.dk
+>david@arch.ping.dk. Tel.: +45 38 33 03 30. Fax: +45 38 33 88 80. (C)
+
+Funny that he was just flaming someone else over that.
+
+>Newsgroups: news.admin.policy,comp.admin.policy,comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,alt.current-events.net-abuse
+
+Need to read How to Work With the Usenet Community as well...
+
+From caf-talk Caf May 27 16:12:44 1995
+From: russ.wuertz@spacecoast-bbs.com (RUSS WUERTZ)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Drug Dealing to kill
+Message-ID: <8AA2337.00680001FF.uuout@spacecoast-bbs.com>
+Date: Sat, 27 May 95 13:43:00 -0500
+
+
+    There really are people out there who would KILL people selling
+poison to people.   Bartenders who used to put "mickies" in draft...(and
+still do) are just the legal side of the coin.
+
+     People who used drugs, may be getting paraquat in their marajuna.
+Carter was knowinly allowing drugs to be sold poisoned.
+
+     Cocaine... if not giving a person a heart attack, seemed to cause
+that person to become yellowish.   (Kidney malfunction?)
+
+      Doctors prescribe thorozine, which makes the person feel like he
+wants to jump out of his skin and he rocks back and forth all day long
+and cannot sleep at night.
+
+       Doctors and Lawyers and polititons know about Narcotics and over
+doses and the user being the victom.   They are all murdered by people
+who ROB thoughts.   They are mind readers who are affiliated with the
+broadcasting industry and use radio waves to HEAR thoughts of their
+suckers or assholes.
+
+From caf-talk Caf May 27 18:58:36 1995
+From: andy@clark.net (andy)
+Newsgroups: comp.infosystems.www.users,alt.comp.acad-freedom.talk
+Subject: Re: Protecting kids from porn on Web -- html enhancement
+Date: 27 May 1995 22:58:35 GMT
+Message-ID: <3q8aqr$2ld@clarknet.clark.net>
+
+
+hp.com>
+Organization: clark.net
+Distribution: world
+
+Rick Jones (raj@cup.hp.com) wrote:
+: I suspect that nothing we could come-up with to "protect" children
+: from anything on the net will take the place of good child rearing...
+
+: rick jones
+
+I think this is probably true, but I would add "good supervision," also. 
+While I certainly would not want my young chaps stumbling upon 
+pornographic material, I'm just wondering if it's really as bad as all 
+that. I've spent a goodly bit of time surfing the web, and found nothing 
+objectionable. I've even accessed the Playboy pages, and saw nothing more 
+"pornographic" than one might see in the supermarket on the cover of Vogue.
+Well, I'm sure there must be some serious pornography out there somewhere, 
+but I'm not convinced I need to panic about my kids finding it.
+
+-andy
+
+
+From caf-talk Caf May 27 19:15:05 1995
+From: ichudov@star89.galstar.com (Igor Chudov @ home)
+Newsgroups: news.admin.policy,comp.admin.policy,comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,alt.current-events.net-abuse
+Subject: Re: Cancel Messages: Frequently Asked Questions (FAQ). Ver. 2.3.2
+Date: 27 May 1995 23:22:23 GMT
+Message-ID: <3q8c7f$kv6@mercury.galstar.com>
+
+We should be aware that so called "Judges" are just a group of
+self-appointed individuals with no special rights whatsoever. Anyone who
+has been around here for a while knows that, but these posting can
+deceive newcomers to news.admin.* groups.
+
+Best regards,
+--
+	- Igor. (My opinions only)
+
+From caf-talk Caf May 28 10:00:50 1995
+From: vsn@ic.ac.uk (Vartan Narinian)
+Newsgroups: news.admin.policy,comp.admin.policy,comp.security.misc,misc.legal.computing,news.admin.misc,news.groups.questions,news.groups,news.newusers.questions,alt.censorship,alt.comp.acad-freedom.talk,alt.current-events.net-abuse
+Subject: Re: Cancel Messages: Frequently Asked Questions (FAQ). Ver. 2.3.2
+Date: 28 May 1995 13:59:14 GMT
+Message-ID: <3q9vji$g17@oban.cc.ic.ac.uk>
+
+judges@arch.ping.dk (NetNews Judges) writes:
+>
+>Cancel Messages: Frequently Asked Questions (FAQ). Ver. 2.3.2
+
+Hey Buttheads, welcome to my kill file.
+
+-- 
+Vartan
+
+From caf-talk Caf May 28 10:10:16 1995
+From: russ.wuertz@spacecoast-bbs.com (RUSS WUERTZ)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Censorship of Newspapers
+Message-ID: <8AA3235.0068000204.uuout@spacecoast-bbs.com>
+Date: Sun, 28 May 95 09:25:00 -0500
+
+
+    Maxwell of the New Haven Register died in Mysterious curcumstances.
+He was an English newspaper barron apparently.   His death seemed to get
+even OLD re-runs of Dr. Who upset, and mentioning it.
+
+     Maxwell used to take a butcher knife out of his desk and warn
+Broadcasting managers with it.   I guess Maxwell had something to do
+with Mcmillian Publishers.
+
+     Maxwell was an English Jew.  He waved the Brittish flag.  He was
+bold enough to write about the Gambino crime family in his Newspaper in
+New Haven, CT.
+
+      He was ALSO bold enough to write about the "broadcasted voices"
+that WELI radio and WEBE radio must have been broadcasting to people who
+smoked CRACK.   Rick Craven... a broadcasting "brat" told me that they
+FIRST KEPT what they were doing with that out of print!
+
+      These broadcasted voices... tell people to kill and they also
+repeat the victoms thoughts.  That was the un-known effects of crack
+as reported by WELI radio who ran Shireley  Frank Foundation Commercials
+every TEN minutes 24 hours a day.
+
+
+    When the Guy did KILL...it was not the fault of broadcasting who
+broadcasts voices and robs thoughts... but was the fault of CRACK
+because thats why they do it.  (Children stink)
+
+From caf-talk Caf May 28 10:27:49 1995
+From: isdn2@aol.com (Isdn2)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Monitor Button
+Date: 28 May 1995 10:18:18 -0400
+Message-ID: <3qa0na$nfo@newsbf02.news.aol.com>
+
+I have a degauss button on my monitor, what does it do?
+
+"Modem," said the gardener after he finished mowing the lawn!
+ISDN2
+Better watch out before I hack your account.
+
+From caf-talk Caf May 28 13:49:02 1995
+From: mickky@pop3.pop.net (Mick Watson)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: The new generation
+Date: 28 May 1995 13:49:00 -0400
+Message-ID: <mickky-2805951349020001@192.0.2.1.801683336>
+
+
+
+PLEASE LISTEN BEFORE YOU START FLAMING ME. I THOUGHT THESE
+THINGS WERE SCAMS ALSO BUT IN THE LAST WEEK I RECEIVED
+$5,000 IN THE MAIL FROM PEOPLE AROUND THE WORLD.  I DON'T
+KNOW ABOUT PYRAMID SCHEMES OR ANYTHING LIKE THAT BUT I DO
+KNOW I MADE $5,000 AND ALL I GAVE WAS 5 MEASLY BUCKS. I WANT
+OTHER PEOPLE TO JOIN IN MY GOOD FORTUNE!!!
+  -A satisfied customer!
+
+
+
+        INSTRUCTIONS
+
+Follow these instructions EXACTLY, and in 20 to 60 days you will
+have received over 50,000.00 dollars IN CASH.
+
+[1]  Immediately mail $1.00 to the first 5 names listed below,
+starting at number 1 through number 5.  SEND CASH ONLY. (Total
+investment: $5.00 + postage) >ENCLOSE A LETTER WITH A NOTE
+SAYING:
+"Please add my name to your mailing list".  Include your name
+and mailing address.  This is a legitimate service that you are
+requesting and you are paying $1.00 for this service.
+
+[2]  Remove the name that appears as number 1 on the list.  Move
+the other 9 names up one position (Number 2 becomes number 1,
+number 3 becomes number 2, and so on).  Place your name, address,
+and zip code in the number 10 position.
+
+[3]  With your name in the number 10 position, upload this ENTIRE
+file to 15 (Fifteen) different bulletin boards (local or
+out-of-state).  You may post it to the BBS's message base or to
+the file section.  Name it FASTCASH.TXT, and use the file
+description comments to draw attention to this file and its
+great potential for all of us.
+
+[4]  Within 60 days you will receive over $50,000.00 in CASH.
+Keep a copy of this file for yourself so that you can use it
+again and again whenever you need money.  As soon as yu mail out
+these  letters you are automatically in the mail order business.
+People will be sending YOU $1.00 to be placed on your mailing
+list.  This list can then be rented to a broker that can be found
+in your local yellow pages listings for additional income on a
+regular basis.
+
+        The list will become more valuable as it grows in size.
+This is a service.  **  IT IS PERFECTLY LEGAL  **
+If you have any doubts as to the legality of this service, please
+refer to Title 18,h sections 1302 and 1341 of the Postal Lottery
+Laws.
+NOTE:  Make sure that you retain EVERY name and address sent to
+you, either on computer or hard copy, but do not discard the
+names and notes that people send to you.  This is PROOF that you
+are truly providing a service, and should the I.R.S. or some
+other government agency question you, you can provide them with
+this proof!
+        Remember, as each post is downloaded and the instructions
+carefully followed, five members will be reimbursed for their
+participation as List Developer with $1.00 each.  Your name will
+move up the list geometrically so that when your name reaches the
+number 5 position you will be receiving thousands of dollars in
+cash.
+REMEMBER  -  THIS PROGRAM FAILS ONLY IF YOU ARE NOT HONEST
+-PLEASE!!PLEASE BE HONORABLE...IT DOES WORK!  THANK YOU.
+
+
+
+1. Sean Goetsch    1013 North Blvd.     Universal Cty., TX 78148
+2. Marc Luo       50 La Verne Ave.           Long Beach,CA. 90803
+3. Jason Song        50 La Verne Ave.        Long Beach,CA. 90803
+4. Hardeep Malik 6475 Marguerite St.  Vancouver,BC V6M 3L5 Canada
+ 5. Doug Bargeron   721 West 12th Street     Tifton, GA 31794
+6. Dien Tran 19 Presnell St.     Portland, Me  04102
+7. Marc Provencher  444 Capisic St.    Portland, Me 04102
+8. James Grubic     P.O. Box 8161     Bozeman, MT 59773
+9. Zach Nelson      311 Sycamore Road, West Reading, PA 19611
+10. Mike Scalet   236 West Portal, #522  San Francisco, CA 94127
+
+The following letter was written by a participating member in
+this program.
+*****************************************************************
+To those with the COMMON sense to participate in this easy money
+opportunity:
+        About six months ago I received the enclosed post in
+letter form.  I ignored it.  I received about five more of the
+same letter within the next two week.  I ignored them also.  Of
+course, I was tempted to follow through and dreamed of making
+thousands, but I was convinced it was just another gimmick and
+could not possibly work.
+  I was wrong!  About three weeks later I saw this same letter
+posted on a local bulletin board in Montreal.  I liked the idea
+of giving it a try with my computer.  I didn't expect much
+because I figured, if other people were as skeptical as I, they
+would not be too quick to part with $5.00.  But, I BUY LOTTERY
+TICKETS WEEKLY IN MY PROVINCE AND HAVE NOTHING TOO SHOW FOR IT
+BUT TICKET STUBS!  This week I decided to look at this as my
+weekly lottery purchase.  I addressed the envelopes and mailed
+out $1.00 in each as directed. Two weeks went by and I didn't
+receive anything in the mail.  The fourth week rolled around and
+I couldn't believe what happened!  I can not say that I received
+$50,000.00, but it was definitely well over $35,000.00!  For the
+first time in 10 years I got out of debt.  It was great.  Of
+course, it did not take me long to go through my earnings, so I
+am using this  excellent money making opportunity once again.
+FOLLOW THE INSTRUCTIONS AND GET READY TO ENJOY!
+        Please send a copy of this letter along with the enclosed
+letter so together we can convince people who are skeptical that
+this really does work!
+                                      Good Luck,
+                                                  Charles Kust
+
+
+P.S. Everyone participating in this program keeps track of all
+     the names from whom they receive money.  If you
+     decide NOT to be HONEST, and NOT to send money to
+     the first 5 people on the list, you can always be tracked
+     down and sued, and I'm sure that you DON'T want that.
+     Well, in any case, we hope that you follow through with
+     all the instructions in this letter in order to keep this
+     thing going.  If you do, you may expect to start getting
+     mail from your first clients in less than three weeks.
+     Good luck, and we hope that you can benefit from this,
+     just like numerous others from coast to coast, and all
+     over the world.
+
+
+<<<>>>
+

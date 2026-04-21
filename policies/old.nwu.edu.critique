@@ -1,0 +1,266 @@
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk,rec.arts.poems
+Subject:  Re: Northwestern U. computer policies
+Date: 7 May 1994 15:51:36 -0400
+Message-ID: <2qgrg8$5vc@eff.org>
+
+Summary: This is a critique of the policies of Northwestern U.'s
+Academic Computing and Network Services (ACNS) organization. The
+intellectual freedom policy is very good. Due-process policy is
+fatally flawed: ACNS improperly claims authority to judge alleged
+offensives and impose summary punishments on students. This
+contradicts explicit University policy (and the principles of academic
+freedom). The privacy policy is better than most, but it is
+confusingly expressed.  Northwestern U. general policy also requires
+that students be given a voice in creating policy that affects them. I
+don't know how (or if) students participated in the creation of these
+policies.
+
+Aside: Northwestern U. has one of the best general student policies
+I've ever read. Even better, most all its polices are on-line.
+    [See gopher -p"1/handbook/happend" nuinfo.nwu.edu 70]
+
+
+============
+>ACNS Guidelines for the Use of Network and Computing 
+>Resources at Northwestern University
+[...]
+
+[see gopher -p"1/computers/ACNS Information/acns" nuinfo.nwu.edu 70]
+
+________________________
+>* Privacy. [...]
+>if a user is suspected of violations of the responsibilities as
+>stated in this document, their right to privacy is superseded by the
+>University's requirement to maintain the network's integrity and the
+>rights of all network users.
+
+This is vague. It suggests that a system operator could decide on his
+or her own to search a user's files. It is clarified later:
+
+>Should the security of a computer system be threatened, user files
+>may be examined under the direction of the Director or Associate
+>Director of ACNS, the Director of UMS, the Director of UCC, or the
+>Vice President of Information Systems and Technology.
+
+Which seems more in line with the university's general privacy policy:
+
+>     7. The University will not act in derogation of the 
+> rights of students to be secure in their possessions. 
+> Students will be secure against invasion of privacy and 
+> unreasonable search and seizure.
+
+I suggest removing the first, vague, statement.
+
+________________________
+>* Safety.
+
+>While harassment or unwanted unsolicited contact cannot be controlled
+>on the network, network users who receive threatening communications
+>should bring them to the attention of ACNS.
+
+No, they shouldn't. This advice contradicts official University policy
+on sexual harassment.
+
+ACNS is *not* authorized to handle sexual harassment complaints.
+Protected expression is often separated from unprotected expression
+only by a dim and uncertain line. In order to find this line,
+Northwestern U. has a "University Policy on Sexual Harassment".  It
+says:
+
+    A member of the University community who believes that he or she
+    has been the victim of sexual harassment or who becomes aware of
+    an incident of sexual harassment as defined above should bring any
+    such matter to the attention of either the school dean, the
+    assistant vice president for student affairs, or the associate
+    vice president for human resources, as he or she prefers.
+    [See gopher -p"1/handbook/happend" nuinfo.nwu.edu 70]
+
+For other types of alleged harassment, I believe official University
+procedure is to file a complaint with the office of the executive
+secretary of the University Hearing & Appeals Board. (This office
+also works with this less formal Conciliation Board).
+    [See gopher -p"1/handbook/happend" nuinfo.nwu.edu 70
+       Select "Filing of Complaints"]
+
+________________________
+>* Intellectual Freedom.
+
+>The network is a free and open forum for the expression, including
+>viewpoints that are strange, unorthodox, or unpopular. The network
+>administrators place no official sanctions upon the expression of
+>personal opinion on the network. As stated in the Policy Statement on
+>Student Rights and Responsibilities, students are free from
+>censorship in expressing their views, as long as their views are not
+>represented as the views of Northwestern University.
+
+Excellent.
+
+________________________
+[...]
+>If you knowingly violate a network responsibility, your network
+>access will be suspended. Depending on the seriousness of the
+>violation, you could be referred through the University disciplinary
+>procedure process.
+
+This suggests that computer access can be suspended without due
+process. Not only is this a violation of academic freedom, it is a
+violation of Northwestern's "University Regulations: Computing and
+Telecommunications Equipment, Facilities, and Services" which
+authorizes no summary computer expulsion, instead it says:
+
+   Students who violate these or any other computing or
+   telecommunications facilities regulations shall be subject to
+   University disciplinary procedures that may include fines,
+   restitution of funds, probation, suspension, or expulsion from the
+   University.
+     gopher -p"1/handbook/handbook/studcond" nuinfo.nwu.edu 70
+     then select: "Policy Statement on Student Rights & Responsibilities"
+
+The ACNS rule also violates the jurisdiction of the University Hearing
+and Appeals System. According to student code:
+
+    The University Hearing and Appeals System shall have jurisdiction
+   over all cases, other than those arising because of unsatisfactory
+   academic work, which may call for discipline of a student, group of
+   students, or student organization (undergraduate or graduate) of
+   any school on the Evanston campus, including cases concerning the
+   rights or property of the University or of the members of the
+   University community and the rights and property of any person if
+   the acts complained of occurred on premises under the control of
+   the University.
+
+The University does have a policy on summary suspensions from campus).
+It says that summary suspensions can be authorized only by the
+president, a designated vice president, or by the dean of the Chicago
+campus. And only for reasons relating to the safety and well-being of
+students, faculty, or University property.
+     [gopher -p"1/handbook/happend" nuinfo.nwu.edu 70]
+
+
+________________________
+[...]
+>4. You must not deliberately perform an act which will 
+>seriously impact the operation of computers, terminals, 
+>peripherals, or networks.
+
+I suggest changing "impact" to "disrupt", since even proper use of a
+computer or terminal can "seriously impact" its operation. ("Disrupt"
+is also the word used in "Trustee Statement on Disruption".)
+
+________________________
+>5. You must not [...] give to another [] a program which could result in 
+>the eventual damage to a file or computer system and/or the 
+>reproduction of itself.
+[...]
+
+This is so broad that I think it violates the University's commitment
+to free expression. It make you responsible for the possible actions
+of another. Giving a program to another person is expression and
+should be protected as far as possible. Almost any program *could*
+result in damage depending on what that other person does with it.
+
+I suggest something along the lines of the _Brandenburg v.  Ohio_
+Supreme Court decision which said that expression may not be
+suppressed or punished unless it is intended to produce 'imminent
+lawless action' and it is 'likely to produce such action.'
+
+________________________
+>6. You must not attempt to [...] uncover security loopholes.
+
+and later
+
+>ACNS should be notified  [...] about potential loopholes in the 
+>security of its computer systems and networks.
+
+These rules contradict each other. I suggest dropping the first
+one.
+
+________________________
+[...]
+>you must not 
+>make copies of copyrighted software, unless ACNS has a site 
+>license specifically allowing the copying of that software. 
+
+This needs to be worded better. As it stands, it outlaws use of GNU
+software. I suggest something like:
+
+   You must not copy software in violation of copyright or
+   license.
+
+________________________
+[...]
+>10. You must not attempt to monitor another user's data 
+>communications, nor may you read, copy, change, or delete 
+>another user's files or software, without permission of the 
+>owner.
+[...]
+
+The word "owner" should be changed to "user" to allow for monitoring
+with permission
+
+________________________
+[...]
+>11. You must not use any of ACNS' microcomputers, 
+>workstations, or networks for other than a Northwestern 
+>University course, research project, departmental activity, 
+>or personal communications. These resources must not be used 
+>for personal or financial gain.
+
+This seems to prohibit self-directed study (typically done for
+personal, nonfinancial gain).
+
+________________________
+Another ACNS statement:
+
+>============================================
+>Source: ACNS
+>Last updated: June 15, 1993
+>
+>PRIVACY ISSUES
+>
+>Just as there's nothing stopping the phone company from 
+>listening in on your conversations,
+
+The law prohibits the phone company of arbitrary listening. Also, when
+phone companies to need to listen to a line to check quality, it is
+the policy of most to use a voice scrambler so that conversations are
+unintelligible.
+
+>people with system privileges have the power to examine all the mail
+>that passes through "their" systems.
+
+I suggest replacing the broad "power" with "technical ability".
+
+[...]
+>ACNS reserves the right to take whatever steps are necessary 
+>to investigate security threats or violations of ACNS 
+>guidelines or University regulations.
+
+So the ACNS reserves the right to commit murder? I suggest replacing
+"whatever steps" with "reasonable steps".
+
+This whole "Privacy Issues" statement seems redundant and confusing. I
+suggest killing it. The privacy section on the ACNS's Guidelines
+already covers this area.
+
+________________________
+
+Finally, with respect to user participation in policy making, the
+University's "Policy Statement on Student Rights and Responsibilities"
+says:
+
+     14. Students will have their views and welfare 
+    considered in the formation of University policy and will be 
+    consulted by or represented on University committees that 
+    affect students as members of the University community.
+
+I don't know how (or even if) students and other users participated in
+the creation of these ACNS policies.
+
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+

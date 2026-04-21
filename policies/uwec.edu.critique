@@ -1,0 +1,198 @@
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk,alt.fan.robert.mcelwaine
+From: kadie@eff.org (Carl M. Kadie)
+Subject:  Re: Computer Policy for U. of Wisconsin - Eau Claire
+Message-ID: <1993May13.184945.10159@eff.org>
+Date: Thu, 13 May 1993 18:49:45 GMT
+
+This is a critique of the U. of Wisconsin - Eau Claire computer
+policy. Overall the policy is quite good with excellent participation
+and privacy. Free expression is generally very good. My only main
+suggestion involved being more specific about "information that in
+some way endangers" and overuse of computer conferences. Due process
+is also very good. The only suggest relates to the possibility that a
+computer expulsion might be an extra-disciplinary sanction.
+
+
+>                 UNIVERSITY OF WISCONSIN - EAU CLAIRE
+>                   COMPUTING AND NETWORKING SERVICES
+>                         COMPUTER AND NETWORK
+>                           USAGE GUIDELINES
+
+[...]
+>Access to computing and networking resources is a privilege to which all
+>University faculty, staff, and students are entitled.
+[...]
+
+It is wonderful that universities can offer university computer
+access.
+
+[...]
+>In general, information stored on computers is considered confidential,
+>whether protected by the computer system or not, unless the owner
+>intentionally makes that information available to other groups or
+>individuals. The University of Wisconsin - Eau Claire will assume that
+>computer users wish the information they store on central and campus
+>shared computing resources to remain confidential. UWEC computing
+>centers will maintain the confidentiality of all information stored on
+>their computing resources.
+
+Great.
+ 
+>IV. ACADEMIC FREEDOM
+
+>Free expression of ideas is central to the academic process. University
+>of Wisconsin - Eau Claire computer system administrators will not remove
+>any information from individual accounts or from electronic bulletin
+>boards maintained in individual accounts unless it is determined that: 
+
+[...]
+>	b. The information in some way endangers computing, networking
+>	   resources, or the information of other users (e.g., a 
+>	   computer worm, virus, or other destructive program).
+
+I wonder if the machine code for COPS is considered "information that
+in some way endangers ... the information of others." The source code?
+An Netnews article that tells how to write a 10-line password breaker?
+
+I think nonrunable text should definitely be allowed. I think source
+code should probably be allowed. And maybe even machine code (although
+perhaps with a requirement that it not be executable in one-step).  In
+general "information" should be allowed; just as information on
+lockpicking and bomb making is allowed in the library. The policy
+could be improved by only banning programs (at some specific level of
+compilation) and not the too general "information".
+
+[...]
+>unacceptable use of computing and networking resources include: 
+
+[...]
+>	f. Use of computer and/or network facilities in ways that 
+>	   impede the computing activities of others (for example; 
+>	   randomly initiating interactive electronic communications 
+>	   or e-mail exchanges, overuse of interactive network 
+>	   utilities, overuse of network accessible bulletin boards or 
+>	   conferences, and the "off topic" posting of material
+>	   bulletin boards and conferences).
+[...]
+
+What is over use? The policy could be improved with some specific
+limit. Also, "off topic" seems very subjective and hard to enforce
+fairly.
+
+[...]
+>Violation of the policies described herein for use of computing
+>resources are dealt with seriously. Violators are subject to
+>disciplinary procedures of the University and, in addition, may lose
+>computing privileges.
+[...]
+
+This suggests that a computer explusion is not part of the
+disciplinary procedure. I think the policy would be improved by
+saying:
+
+>Violators are subject to disciplinary procedures of the University
+>which can result in, among other sanctions, a lose computing
+>privileges.
+
+
+>VII. APPEAL PROCESS
+
+>To appeal a sanction, submit a letter to the Office of Student Affairs.
+>The appeal will be reviewed by a Computing and Networking Services
+>Review Panel. This panel is comprised of faculty and students. For
+>additional information and assistance, contact the Office of Student
+>Affairs.
+
+Good!
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+-------------------------------------------------------------------------
+
+
+Newsgroups: alt.comp.acad-freedom.talk
+From: U15289@UICVM.UIC.EDU
+Subject:  I wec, you wec, we all wec for UWEC :-)
+Message-ID: <199305131858.AA10422@eff.org>
+Date: Thu, 13 May 1993 18:44:35 GMT
+
+The UWEC AUP reproduced in these pages today says, in pertinent part, that
+
+>   g. Use of computing facilities for personal or business purposes
+>      unrelated to the mission of the University.
+
+is actionable.  Prohibiting use of the system for commercial purposes is
+one thing; but the "personal purposes" clause, it seems to me, technically
+prohibits a wide range of commonplace--and benign--uses.  I refer particularly
+to the practice of reading, and posting to, a wide variety of mailing lists
+and newsgroups that may not have a provable nexus to the curriculum.  Ironic-
+ally, the installation itself makes much of this allegedly illicit activity
+possible, by providing the Usenet feed in the first place.  In practice, the
+good will and common sense of sysadmins is (usually) likely to minimize
+overbreadth in the application of this technicality; but more formal protection
+than that, IMHO, would be desirable.
+
+                                                     Mitch Pravatiner
+                                                     U15289@uicvm.uic.edu
+
+
+-------------------------------------------------------------------------
+
+
+From: chip@eniac.seas.upenn.edu (Charles Buchholtz)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject:  Re: Computer Policy for U. of Wisconsin - Eau Claire
+Message-ID: <126854@netnews.upenn.edu>
+Date: 14 May 93 15:16:33 GMT
+
+kadie@eff.org (Carl M. Kadie) writes:
+[...]
+>                 UNIVERSITY OF WISCONSIN - EAU CLAIRE
+>                   COMPUTING AND NETWORKING SERVICES
+>                         COMPUTER AND NETWORK
+>                           USAGE GUIDELINES
+[...]
+>II. SECURITY
+[...]
+>
+>	d. The microcomputer user should be aware of computer viruses 
+>	   and other destructive computer programs, and take steps to 
+>	   avoid being either their victim or propagator.
+
+How "aware" should the user be, and what steps are sufficient to
+satisfy this requirement?  Presumably, the users aren't required to
+be more aware than the computer administration staff, so the staff
+might as well pass along the information, rather than just require
+that the users get it somehow.
+
+I'd use the following approach:
+
+    Articles regarding the risks of computer viruses and other
+    destructive programs are regularly posted to the uwis.comp.risks
+    newsgroup.  Users of microcomputers should read these articles and
+    take the recommended precautionary measures.
+
+
+----------------------------------------------------------------------
+
+My $0.02 regarding criticisms of policy statements: 
+
+I find that criticisms which suggest a better way of phrasing or
+approaching the issue to be infinitely more helpful than simply
+pointing out the flaws.  I know from personal experience how difficult
+it is to write a concise, clear, and complete policy statement, and
+that compromises are often made between these conflicting goals.  I
+assume that the authors of the examples posted here have made a good
+faith effort to address these issues.  They may not have come up with
+the *best* way of phrasing each point, but that does not mean that
+they weren't aware of the issues.  
+
+
+Charles H. Buchholtz                           chip@seas.upenn.edu
+Systems Programmer                             (215) 898-2491
+School of Engineering and Applied Science      200 S. 33rd St, rm 154
+University of Pennsylvania                     Philadelphia, PA 19104
+
+

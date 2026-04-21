@@ -1,0 +1,526 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 17, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Iowa State University admins cited Iowa's Obscenity Law (Chapter 728) as a reason for censoring newsgroups.",
+        "The Software Publishers Association (SPA) can seize hardware via court order but typically performs on-site audits and settles out of court.",
+        "Florida State's Seminole ACCESS system combined ID, ATM, and credit cards, raising concerns about database tracking and unauthorized access by staff."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "University of Nebraska",
+        "Florida State University",
+        "University of Pennsylvania",
+        "Software Publishers Association",
+        "Southern Connecticut State University",
+        "Educational Media Resources, Inc."
+      ],
+      "people": [
+        "A. Andrew Brennan",
+        "Bob Rehak",
+        "Stacy Veeder",
+        "Carl M. Kadie"
+      ],
+      "summary": "A digest of discussions regarding network censorship and administrative policies at universities. Key topics include the use of state obscenity laws to justify Usenet filtering, the privacy implications of multi-purpose campus ID cards, and the distinction between community 'peer pressure' and official administrative sanctions on networks.",
+      "title": "Abstract of CAF-News 02.24",
+      "topics": [
+        "Usenet censorship",
+        "network administration",
+        "privacy",
+        "software auditing",
+        "computer ethics"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "brennan@hal.hahnemann.edu (A. Andrew Brennan)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 0 -- Abstract of CAF-News 02.24",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 11, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Iowa State and University of Nebraska used potential NSF intervention as a reason to censor newsgroups.",
+        "ISU administration cited Iowa Code Chap 728 (Obscenity Law) to justify censorship."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "University of Nebraska",
+        "NSF"
+      ],
+      "people": [
+        "John Hascall",
+        "Carl M. Kadie",
+        "Gray Watson"
+      ],
+      "summary": "John Hascall discusses censorship of alt.* newsgroups at Iowa State University (ISU) and the University of Nebraska. He notes that ISU administration cited state obscenity laws as justification for censorship despite exemptions for educational institutions.",
+      "title": "nsf and the alt.* groups...",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "obscenity laws",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 11 May 1992 13:26:30 GMT",
+      "from": "john@iastate.edu (John Hascall)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<1992May11.132630.23905@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 1--Re: [comp.org.eff.talk]  nsf and the alt.* groups...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 11, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Claims that university computer resource managers often lack technical knowledge or possess self-inflated egos.",
+        "Argues that institutional policies and managerial oversight serve as necessary safeguards against capricious system shutdowns."
+      ],
+      "organizations": [],
+      "people": [
+        "Stacy Veeder",
+        "Bob Rehak"
+      ],
+      "summary": "A discussion between two professionals regarding the management of university computer resources. Bob Rehak criticizes the incompetence and ego of system administrators, while Stacy Veeder argues that bureaucratic safeguards against arbitrary system downtime are necessary for stability.",
+      "title": "Article 2--Re: University Censorship",
+      "topics": [
+        "system administration",
+        "university computing",
+        "governance",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 11 May 1992 17:40:14 GMT",
+      "from": "SBVEEDER@SUVM.BITNET (Stacy Veeder)",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<199205111758.AA11573@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 2--Re: University Censorship",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-05-12",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Seminole Access card allows the university to record financial transactions and building entry/exit.",
+        "The system uses Social Security numbers for electronic coding, potentially ignoring federal privacy laws.",
+        "University officials have broad discretion over who has 'need to know' access to student data."
+      ],
+      "organizations": [
+        "Florida State University",
+        "FSView",
+        "MCI"
+      ],
+      "people": [
+        "John G. Otto",
+        "Shannon Greene",
+        "Dianna Allen",
+        "Robert Basham",
+        "Charles Knox"
+      ],
+      "summary": "John G. Otto critiques the implementation of the 'Seminole Access' multi-purpose smart card at Florida State University. He argues that consolidating ID, ATM, and calling functions into one electronic card enables the university to track students' financial transactions, library usage, and physical movements. The post highlights concerns over privacy, the mandatory use of Social Security numbers, and the move toward a 'cashless society' on campus.",
+      "title": "Seminole ACCESS",
+      "topics": [
+        "surveillance",
+        "privacy",
+        "smart cards",
+        "cashless society",
+        "student data"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 12 May 1992 17:14:58 GMT",
+      "from": "otto@systems.cc.fsu.edu (John G. Otto)",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<9205121714.AA18456@systems.cc.fsu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 3--(none)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 12, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Real-time conferencing systems (RELAY/IRC) differ from email because one user's traffic can affect many users simultaneously.",
+        "The distributed nature of RELAY means a single incident can involve multiple university sites and administrators."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "University of Southern California",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie",
+        "Kursat Cagiltay"
+      ],
+      "summary": "Wes Morgan argues that policies for handling harassment on real-time conferencing systems like BITNET RELAY and IRC should differ from those used for email. He highlights the broadcast nature of these systems, where a single user can disrupt hundreds of people across multiple university sites. Morgan questions whether system administrators should act as regulatory bodies (akin to the FCC) in managing such behavior.",
+      "title": "Article 4--Re: Restriction or not ?",
+      "topics": [
+        "network governance",
+        "harassment",
+        "BITNET RELAY",
+        "IRC",
+        "administrative policy"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 12 May 1992 19:18:28 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<1992May12.151828.21744@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 4--Re: Restriction or not ?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "12 May 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Computer networks are viewed by the author as publications rather than open forums.",
+        "System administrators have a right to make decisions about material emanating from their systems.",
+        "The author distinguishes between .com/.org sites and .edu/.gov sites, noting that the latter are bound by institutional policies."
+      ],
+      "organizations": [
+        "University of Pennsylvania",
+        "NASA JPL"
+      ],
+      "people": [
+        "Nathan J. Mehl"
+      ],
+      "summary": "A debate regarding whether the moderation or blocking of content by system administrators constitutes censorship. The author argues that computer networks function as publications rather than open forums, and that sysadmins have the right to control material emanating from their systems.",
+      "title": "Article 5--Re: [news.admin] Re: Policy on malicious/bad posts to a newsgroup",
+      "topics": [
+        "censorship",
+        "netnews",
+        "system administration",
+        "free speech",
+        "network policy"
+      ]
+    },
+    "identity": {
+      "date": "12 May 92 20:28:22 GMT",
+      "from": "nmehl@rm105serve.sas.upenn.edu (Nathan J. Mehl)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<920512#119#131650_nmehl@rm105serve.sas.upenn.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 5--Re: [news.admin] Re: Policy on malicious/bad posts to a newsgroup",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,news.admin",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 14, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Classifying system administrators as 'editors' would lead them to shut down services due to legal risk.",
+        "The volume of NetNews is too great for any human to monitor or edit effectively.",
+        "Network news functions more like a distributed telephone switch than a printing press."
+      ],
+      "organizations": [],
+      "people": [
+        "Karl Denninger"
+      ],
+      "summary": "Karl Denninger argues against classifying Usenet and its system administrators as publishers or editors in a legal sense. He contends that the volume of network traffic makes manual editing physically impossible, suggesting instead that networks should be viewed as common carriers similar to telephone switches.",
+      "title": "Policy on malicious/bad posts to a newsgroup",
+      "topics": [
+        "Usenet",
+        "legal liability",
+        "common carrier",
+        "censorship",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 14 May 1992 06:23:44 GMT",
+      "from": "karl@ddsw1.mcs.com (Karl Denninger)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<1992May14.062344.14289@ddsw1.mcs.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 6--Re: [news.admin] Re: Policy on malicious/bad posts to a newsgroup",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "12 May 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "SPA generally settles copyright violations out of court rather than testing evidence in court.",
+        "The legality of shrink wrap licenses had not been fully tested in court as of May 1992.",
+        "SPA focused primarily on DOS and Mac platforms, with limited capability to audit Unix systems at the time.",
+        "Most software piracy cases are discovered via disgruntled employees or support requests."
+      ],
+      "organizations": [
+        "Software Publishers Association",
+        "University of Pennsylvania"
+      ],
+      "people": [
+        "Helen Anderson",
+        "Jodi Morrison"
+      ],
+      "summary": "Helen Anderson summarizes a talk by Jodi Morrison of the Software Publishers Association (SPA) regarding software audits and copyright enforcement at universities. The post details SPA's tactics, including on-site 'snapshots,' the use of federal marshals, and their preference for out-of-court settlements over litigation. It highlights the tension between license compliance and technical realities in academic computing environments.",
+      "title": "Article 7--Re: SPA -- what are your rights?",
+      "topics": [
+        "software licensing",
+        "copyright enforcement",
+        "software audits",
+        "academic freedom",
+        "shrink wrap licenses"
+      ]
+    },
+    "identity": {
+      "date": "12 May 92 19:02:58 GMT",
+      "from": "anderson@grip.cis.upenn.edu (Helen Anderson)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<77815@netnews.upenn.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 7--Re: SPA -- what are your rights?",
+      "to_or_newsgroups": "comp.org.eff.talk,comp.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 12, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators in university settings are often peers of the users they manage.",
+        "Denying access to a network based on the content of posts is characterized by some as censorship, while others view it as enforcing common sense and guidelines against malicious intent."
+      ],
+      "organizations": [
+        "Ultra Network Technologies",
+        "UC Berkeley"
+      ],
+      "people": [
+        "Bill St. Croix",
+        "Brian Harvey",
+        "Geoff Ballinger"
+      ],
+      "summary": "A discussion regarding the ethics of system administrators removing user access to Usenet due to malicious or inappropriate posting. The participants debate whether denying access based on content constitutes censorship and discuss the role of sysadmins as peers in university settings.",
+      "title": "Article 8--Re: Policy on malicious/bad posts to a newsgroup",
+      "topics": [
+        "censorship",
+        "system administration",
+        "Usenet",
+        "academic freedom",
+        "network abuse"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 12 May 92 18:15:07 GMT",
+      "from": "stcroix@ultra.com (Bill St. Croix)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<1992May12.181507.7296@ultra.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 8--Re: Policy on malicious/bad posts to a newsgroup",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "13 May 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Administrative sanctions should be based on uniform rules worked out in advance rather than community pressure.",
+        "Peer pressure on Usenet refers to social correction via email, not system administrator intervention."
+      ],
+      "organizations": [
+        "UC Berkeley",
+        "University of Edinburgh",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Brian Harvey",
+        "Geoff Ballinger",
+        "Carl M. Kadie"
+      ],
+      "summary": "Brian Harvey distinguishes between 'peer pressure' and 'administrative sanctions' in the context of Usenet governance. He argues that administrative actions should be based on pre-established uniform rules rather than immediate community pressure or emotional reactions. The discussion emphasizes a preference for social correction over centralized authority to maintain academic and communicative freedom.",
+      "title": "Policy on malicious/bad posts to a newsgroup",
+      "topics": [
+        "Usenet governance",
+        "administrative sanctions",
+        "peer pressure",
+        "online behavior",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "13 May 1992 18:55:23 GMT",
+      "from": "bh@anarres.CS.Berkeley.EDU (Brian Harvey)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<uromrINNkco@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 9--Re: Policy on malicious/bad posts to a newsgroup",
+      "to_or_newsgroups": "news.admin,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "14 May 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Revoking a full system account is considered an excessive response to malicious newsgroup posting."
+      ],
+      "organizations": [],
+      "people": [
+        "Allen Smith"
+      ],
+      "summary": "Allen Smith responds to a system administrator's query regarding how to handle users who post 'filth' or malicious content to unmoderated newsgroups. Smith advises against revoking entire system accounts, suggesting instead that administrators limit posting access or allow the user to be penalized by incoming hate mail filling their mail quota.",
+      "title": "Policy on malicious/bad posts to a newsgroup",
+      "topics": [
+        "newsgroup moderation",
+        "system administration",
+        "freedom of speech",
+        "user sanctions"
+      ]
+    },
+    "identity": {
+      "date": "14 May 92 13:11:30 GMT",
+      "from": "allens@yang.earlham.edu (Allen Smith)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<1992May14.081130.17848@yang.earlham.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 10--Re: Policy on malicious/bad posts to a newsgroup",
+      "to_or_newsgroups": "news.admin,alt.comp.acad-freedom.talk,alt.censorship",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 13, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Integrating computer ethics into curricula helps departments fulfill national accreditation requirements (CSAC/CSAB)."
+      ],
+      "organizations": [
+        "Research Center on Computing and Society",
+        "Southern Connecticut State University",
+        "Educational Media Resources, Inc.",
+        "CSAC",
+        "CSAB",
+        "Clarkson University",
+        "ACM",
+        "IEEE-CS",
+        "National Science Foundation",
+        "East Tennessee State University",
+        "American Philosophical Association",
+        "Bowling Green State University",
+        "The George Washington University",
+        "William and Mary College",
+        "Dartmouth College",
+        "SRI International",
+        "Computer Professionals for Social Responsibility"
+      ],
+      "people": [
+        "Terry Bynum",
+        "Susan Conry",
+        "Gerald Engel",
+        "Don Gotterbarn",
+        "Deborah Johnson",
+        "Walter Maner",
+        "Dianne Martin",
+        "Keith Miller",
+        "James H. Moor",
+        "Donn Parker",
+        "John L. Fodor",
+        "Batya Friedman",
+        "Terry Winograd"
+      ],
+      "summary": "The Research Center on Computing and Society at Southern Connecticut State University and Educational Media Resources, Inc. released a 'Starter Kit' to help educators integrate social and ethical implications into computer science and engineering curricula. The kit consists of three video tapes and two monographs focusing on human values, case studies, and course syllabi. It was designed in part to help departments meet national accreditation requirements.",
+      "title": "Teaching Computer Ethics: A Starter Kit",
+      "topics": [
+        "computer ethics",
+        "curriculum development",
+        "academic accreditation",
+        "computing and human values"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 13 May 1992 13:01:46 GMT",
+      "from": "BYNUM@SCSUC.CTSTATEU.EDU (Terry Bynum)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<199205132109.AA01445@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n24",
+      "subject": "Article 12--Teaching Computer Ethics: A Starter Kit",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

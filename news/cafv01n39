@@ -1,0 +1,1122 @@
+Computers and Academic Freedom News
+Vol. 01, No. 39
+
+[Week ending November 24, 1991
+
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASE of the
+article, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Notes 1-2 are about academic freedom incidents.
+
+1. (A student:) Mohawk Valley Community College suspended my computer
+access (without any hearing) for 1) setting the (correct) time on the
+PCs in the lab where I worked and 2) sharing simple utility programs
+with other users. Administrative appeals were futile. I failed my
+English class when the sys admin refused to give me copies of my
+files. I eventually transferred to another school.
+    <1991Nov15.152856.25079@pool.info.sunyit.edu>
+
+2. According to the LA times, 'A reproduction of a famous Goya
+painting of a nude woman has been taken down from a classroom wall at
+Penn State following a complaint from a woman professor that it was a
+form of sexual harassment.' The painting was moved to the student
+center. When we can't leave, "[w]e should "be free *not* to be
+subjected to things we find offensive ...".
+    <91319.162616JKH107@psuvm.psu.edu>
+
+Notes 3-7 are about Steven Brack and Ohio State University.
+
+3. (Steven Brack:) "The only action I ever performed that had any
+impact on the system was the fixman command". I ran it the because its
+manual page led me to think that it would improve the display time of
+my manual pages. My action was noticed because fixman acts globally,
+not locally, and because it kept running (for hours) after I thought
+that I had killed it.
+    <9111190335.AA14297@uoftcse.cse.utoledo.edu>
+
+4. "This brings up an interesting point. Should administrators
+remove/disable the man pages for administrative commands? "Perhaps a
+blanket note in the admin man pages is appropriate; something like
+'This is an administrative commands; general users should not execute
+it. This man page is provided for information ONLY!' might do the
+job."
+    <1991Nov19.215003.27317@ms.uky.edu>
+
+5. (Steven Brack:) "I did everything I could to get the charges &
+specifications, but OSU wouldn't give them to me." Also, "[a]lthough I
+disagree that my actions needed defending, I did defend them [at the
+formal hearing]. I explained each action in terms of why I did it &
+what its effect was.  I also explained how little guidance I had from
+ACS as to what was permissible & what wasn't."
+    <9111190356.AA14385@uoftcse.cse.utoledo.edu>
+
+6. (Steven Brack:) "I am retaining counsel, and will fight OSU from a
+legal standpoint, rather than being trapped playing their game, by
+their rules, on their field."
+    <9111190340.AA14311@uoftcse.cse.utoledo.edu>
+
+7. A student should be given the findings of fact upon which the
+formal hearing board bases its decision. In the Brack case, no
+findings of fact were given. This is unfair and likely illegal. (Legal
+references are enclosed.)
+    <1991Nov19.192831.1996@eff.org>
+
+Notes 8-9 are about universities and the law.
+
+8. According to a monograph (with legal references) by the General
+Counsel of Southern Illinois University: State universities are
+constrained by the 14th amendment. The _Goss v. Lopez_ due process
+decision applies to public universities as well as to secondary
+schools. Students subject to expulsion or long-term suspension must be
+given adequate notice (i.e. written, explicit, specific) of charges.
+    <1991Nov23.190239.14673@eff.org>
+
+9. According to a law book: "'In _Papish v. Board of Curators of
+University of Missouri ...  the high Court ruled that the use of
+["motherfucker"] in a paper distributed on a college campus was not
+disruptive of the school environment."' Student control of media
+decreases the chance university liability. "[T]he _Hazelwood_ decision
+that allows censorship of sponsored high school newspapers does not,
+according to a footnote in the decision, apply to universities."
+    <1991Nov19.202845.3261@eff.org>
+
+Notes 10-12 are on miscellaneous topics.
+
+10. (A sys admin:) The goal of limiting the user-admin ratio is
+worthy, but difficult. The goal of communicating and educating users
+is practical and productive.
+    <1991Nov18.150215.11121@ms.uky.edu>
+
+11. Enclosed is the privacy policy for the University of Pennsylvania
+Campus Wide Information System (CWIS). It ways that
+personally-identifiable use records will not be kept.
+    <199111221525.AA11205@eff.org>
+
+12. Rules that outlaw offensive computer expression also outlaw
+on-line searches of library catalogs because many catalogs contain
+offensive titles.
+    <1991Nov21.182340.11577@eff.org>
+
+- Carl]
+
+
+In this issue:
+
+
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the line:
+  send acad-freedom README
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From: buck@pool.info.sunyit.edu (Jesse Buckley)
+Subject:  The Buckley Case.
+Message-ID: <1991Nov15.152856.25079@pool.info.sunyit.edu>
+Date: Fri, 15 Nov 1991 15:28:56 GMT
+
+You asked here it is...
+
+
+My story is basiclly this.  The first semester I went to MVCC (Mohawk
+Valley Community College) I found they had a VAX 11/780 running VMS.
+Well I quickly learned that I'd have to get used to it, so I went and
+asked the System Admin if I coulod borrow the manuals.  I was told they
+were way to vaulable and she couldn't let them go.  Well, what if I just
+read them here?  No, she couldn't let me do that, either.  (It's worth
+mentioning that I was working there as a Lab assistant.  (Work Study)) I
+found myself in the lab alot.  I'd finish up my assignment quickly,
+leaving me with time to do other things.  I tutored people in the lab
+and was informed by the SysAdmin that this was not part of my job so it
+was at "my own risk".  (This was understood to mean that she didn't care
+but I had to do my other work first (putting paper in the printer,
+etc.)) After a while I got the itch to learn so I discovered 'help'.  I
+learned how to do command files, symbols, etc.  (scripts and aliases for
+you UNIX people) I wrote files to compile fortran and pascal, etc.  (In
+VMS you need to run three commands to compile and run stuff.  (fortran,
+link, run)) A few people asked for copies so they lowered their
+protections and I copied the stuff in.  I mentioned this to her several
+times, she didn't understand what they did but she didn't care.  Then
+one day I was locked out of my account.  (No message just a password
+change.) It took me two days to find her and then they accused me of
+tampering with PCs in a lab I worked in.  (2 hours a week) I told all I
+ever did with those PCs to "modify" the configuration was to set the
+time correctly.  She told me I shouldn't have done that.  (I did use the
+free time there to do my english reports.) I was banned from all PC
+rooms and my account would be locked for the rest of the semester.  I
+left and talked to the director who reiterated this.  I asked why?
+Because I was in other people accounts.  No, just their directories
+(coping those files in).  They told me it was the same.  I pulled my
+father in hoping that might at least get me enough CPU time to finish my
+English stuff and my fortran programs for my classes.  I got the fortran
+account back but still was denied access from the PC labs.  I tried to
+make an academic appeal but, it wasn't covered.  I went to the appeal
+officer, to the acad VP assistant, and then tpo the VP.  I got nothing
+but that I was extreamly bad for doing what I did, according to the ACS
+people.  I finally met with the president and he wouldn't even let me
+show him that I could get into someones files (with their permission)
+without logging in as them.  ACS said you did it so you did.  I asked
+about my english reports (I had a few that were typed but not printed
+out.) He said he would have ACS set something up for me.  Not fair but
+good enough I thought, I could at least get this stuff done, and the
+denial was only till next semester.  (10 days left) I finally found this
+PC and it didn't have either a 5 1/4 floppy or WordPerfect.  I told the
+SysAdmin this and she said she would arrange for me to get the stuff
+transfered and get WP on the PC.  Neither ever happened and I failed
+English.  My prof would take my excuse that it was on the PC as I didn't
+have to type it up.  I couldn't have done those reports over again they
+took weeks to do.  I tried to talk to the president again to tell him
+ACS never kept their part of the bargain and he said ACS said they did
+and he belived them.  The story doesn't end there.
+
+The fifth semester I built many files for myself and opened my dir so
+people could run them.  This time the SysAdmin locked all them out and
+told them they might get expelled.  One person threaten me physically.
+(grabbed me and pushed me up against a wall.) Well, I can handle getting
+yelled at but not violence.  I went and talk to the VP.  He told me he
+would look into it and I should come back after my next class.  When I
+came back, he told me this was all my fault and that the college would
+take no action.  That was my last semester there.
+
+--
+-Buck (buck@sunyit.edu)
+"Just go with the flow control, roll with the crunches, and, when you
+get a prompt, type like hell."
+-- 
+
+From: JKH107@psuvm.psu.edu (Joy Haftel)
+Subject:  Re: Feminist Prudes vs. Goya's Nudes
+Message-ID: <91319.162616JKH107@psuvm.psu.edu>
+Date: 15 Nov 91 21:26:15 GMT
+
+In article <2924217f.2487@polyslo.CalPoly.EDU>, dgross@polyslo.CalPoly.EDU (Dave
+Gross) says:
+>
+>From the Los Angeles Times (11/15/91)
+>
+>        GOYA'S GOTTA GO:  A reproduction of a famous Goya painting of
+>        a nude woman has been taken down from a classroom wall at Penn
+>        State following a complaint from a woman professor that it was
+>        a form of sexual harassment.  "Nude Maja" had hung in the music
+>        room on campus for more than a decade.  The president of the
+>        Student Government Assn. called it "ludicrous censorship," but
+>        the Liaison Committee of the Penn State Commission for Women
+>        said that female faculty "find if [sic.] difficult to appear
+>        professional when forced to lecture to a class with a picture
+>        of a female nude on the wall behind them."  Four other paintings
+>        were taken down to avoid a debate over what should and shouldn't
+>        be displayed.
+
+As an addendum to that, I heard that one of the reasons it was taken down
+was because it was in a classroom where people who could be offended by
+looking at the picture couldn't just leave the room to avoid looking at it,
+as opposed to an art gallery where one could just walk out.  I think there's
+some sense to that; after all, I don't feel that something offensive should
+be foisted on me when I am in class.  Not that I find a Goya painting of a
+nude woman offensive (although perhaps distracting in a classroom), but
+in a country where we are free to do many things, we should also be free
+*not* to be subjected to things we find offensive every day without being
+able to leave.
+
+Joy Haftel               "A thing of beauty is a joy for ever."
+JKH107@PSUVM                        --Keats
+
+From: brack@uoftcse.cse.utoledo.edu (Brack)
+Subject: Re: Re; Brack Expulsion. What Happened?
+Message-ID: <9111190335.AA14297@uoftcse.cse.utoledo.edu>
+Sender: brack@uoftcse.cse.utoledo.edu
+Date: 19 Nov 91 03:35:06 GMT
+
+In article <199111181857.AA23498@eff.org> you write:
+> On Wed, 13 Nov 1991 21:45:31 GMT Carl M. Kadie said:
+> >[Posted for author - Carl]
+>    Interesting...this was apparently written by Mr. Brack, the first
+> description of what actually happened.
+> 
+> >	What OSU did was to overreact to three or four minor incidents.
+> >
+> >	The only action I ever performed that had any impact on the system was
+> >	the fixman command, a command that: 1) should not have been open to
+> >	any user, and 2) caused no real damage, only the removal of underlining
+> >	from man pages which were easily restored from backup.
+
+>    What I would love to hear from Mr. Brack is WHY he did these things?
+> WHY take out the underlining?  For fun?  To see if it could be done?  To
+> hassle some system person who would have to restore from backup?
+> Some other reason?
+
+	Well, let's see: If the man page didn't warn me that the command
+	was global, if ACS didn't warn me not to use the command
+	, and if access permissions both on fixman, and on /usr/man/*
+	were set to allow me to do what I did, where would I, with about 10-12
+	weeks of experience with Unix, get the idea that the command was a
+	"bad thing?"  The man pages spoke of increased efficiency in displaying
+	manual pages, which sounded like something I'd want to do.  A
+	hassling some system people, restoring it from backup is as simple as
+	untaring the usr/man backup set.  Not a great hardship.  If you don't
+	want people coming in your business, then don't ghive them an invitation
+	(the man page), and don't give them permission to come in.  By the same
+	token, giving users permission to run fixman implies somethingh about
+	what users are allowed to do, especially if the user was given no
+	information to the contrary.
+
+>    Also, if it was such a minor infraction, how did anyone even know
+> (or care) that the underlining had been removed?  Are there "manual police"
+> there?  Did the system report the change to an administrator?  Did someone
+> happen to be casually be reading the manual and note the change?  OR, did
+> the removing of underlining change the meaning enough  to make a difference.
+> In many manuals different typefaces ARE significant to the reader/user.
+
+	The system was set up to log everything, including what commands
+	were run.  The sysadmins seem to operate in full fascist mode most
+	of the time, and so tend to notice everything, no matter how minor.
+	In my case, they noticed the process 2-3 hours after it had started,
+	and about 1.5 hours after I though I had stopped it by logging off.
+	As I said, my knowledge of Unix was not quite perfect. 8)
+
+>    Agreed it should not be available to any user, but that doesn't mean that
+> all things that CAN be done SHOULD be done, does it?
+> 
+	You know, they're called permissions for a reason.  They indicate
+	what those responsible for the system have given you *permission* to
+	do.
+> 
+> >	Everything else was just thrown in so that the body of evidence against
+> >	me would seem more damning than it actually is.
+
+>    Well, isn't that part of what happens in many criminal trials?  Bringing
+> in related history or issues to show a pattern?  (If you murdered ten other
+> people I might be more likely to belive you murdered this one too, and aren't
+> just a "innocent bystander" who happened to be standing around with a
+> smoking gun you found on the street.)
+
+	Yes, but an inadvertent crosspost has nothing to do with running
+	fixman, or with criticizing the University in news. 
+> 
+> >> How many others have OSU suspended for similar offences? Hundreds? Dozens?
+> >> A few? None?
+
+>    But that is a fairly bogus argument.  If I get caught going 80 on the
+> Interstate, does  it do any good to tell the cop that "You shoulda  caught the
+> SOB who blew my doors off and was going at least  a hundred."??   His answer
+> is likely to be "Yeah, I shoulda, but I caught YOU  instead so don't give
+> me no shit boy, unless you wanna  go to jail RIGHT NOW!"
+
+	That wasn't my point.  I meant that OSU may have done this many times
+	before that we don't know about.  BTW, if the information I'm getting
+	from sources at OSU is accurate, this has happened more often than
+	originally thought.
+> 
+> >	To clarify, once more: I am the cause of the action.  The action,
+> >	however is of far greater scope than anything I did.  I admit that
+> >	had I been a "nice person," this wouldn't have happened.  But, I
+
+>    Well, I am NOT  defending what did, or didn't, to Mr. Brack at OSU.
+> But it still seems that it would have been much smarter to  be a "nice
+> person."  Just as  not hassling the cop  in the example above would be
+> a much smarter thing to do instead of ending up trying to dig up bail
+> money at some odd hour in some strange town.
+
+	But, whether I am nice to the cop or not, his requirement to protect
+	my rights is not abated.  Who knows, maybe Rodney King was not a
+	"nice person" either. 
+
+> >	hold that even though I wasn't a nice person, my actions did not justify
+> >	dismissal.
+>    Well, maybe mine didn't justify going to jail....but HE had the gun.
+
+	Having a gun does not make him right, any more than being an admin makes Bill Miller or Cliff Collins right. 
+> 
+> >	I was not told of the "wrongness" of my actions until after I had
+> >	committed them.  If I had been told prior to that, then I would not
+> >	have committed them.  A person cannot be held to a rule which was
+> >	never made public, and which may not have even existed at the time
+> >	he allegedly violated it.
+
+>    WELL, yes and no!   But in civil and criminal law, I believe the
+> expression is "Ignorance of the law is no excuse."
+> Try and  tell the cop that "I didn't see the school speed limit sign"
+> when you get the ticket for 40 in a 25 mph school zone.  Good luck.
+
+	But, there was a sign there.  I had no warning, and was given nothing
+	even remotely resembling rules or policies until after the fixman
+	incident, and those "rules" said nothing about any of the other
+	"crimes" I allegedly committed.
+
+> >	I'm glad we have you posting to this group.  It's nice to see
+> >	that there's at least one person on the Net who has never made a
+> >	mistake, or been deceived.  I wish I had been like you.
+
+>    I have suffered both.  It is part of living  and of growing up.
+> No one promised that life would be fair.  Guess what, it often isn't.
+> I don't have to LIKE that....but I do have to accept it  unless I wanna
+> spend my life bitching and moaning about it.
+
+	We all make a choice whether to fight for what we believe to be
+	right.  I don't begrudge you your choice, but I ask that you 
+	understand mine. 
+> 
+> Please note that in none of this do I indicate that anyone SHOULD be
+> treated unfairly, or that they shouldn't avail themselves of the options
+> for appeal or redress.  They should.  BUT, they should know that in real
+> life  that sometimes those appeals may actually hurt you.  Plea bargains
+> offer a good example.  To coin a bumper sticker, "Shit Happens."
+
+	I am not, by any stretch, an idealist.  But, I do believe that
+	some principles are worth fighting for, and I simply could not
+	allow ACS's actions to go unopposed.
+> 
+> dan
+> 
+> *****************************************************************************
+> * Dan Lester                          Bitnet:   alileste@idbsu           
+> * Associate University Librarian      Internet: alileste@idbsu.idbsu.edu    *
+> * Boise State University                                                    *
+> * Boise, Idaho  83725                 BSU and I have a deal: I don't speak  *
+> * 208-385-1234                        for them and they don't speak for me. *
+> *****************************************************************************
+
+--
+Steven S. Brack                        |          brack@uoftcse.cse.utoledo.edu
+2021 Roanwood Drive                    |        STU0061@uoft01.utoledo.edu
+Toledo, Ohio      43613-1605 _________/^\_______ sbrack@bluemoon.rn.com
++1 419 474 1010              | MY OWN OPINIONS | sbrack@nyx.cs.du.edu
+
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Re; Brack Expulsion. What Happened?
+Message-ID: <1991Nov19.215003.27317@ms.uky.edu>
+Date: 19 Nov 91 21:50:03 GMT
+References: <9111190335.AA14297@uoftcse.cse.utoledo.edu>
+
+brack@uoftcse.cse.utoledo.edu (Brack) writes:
+>
+>	If you don't
+>	want people coming in your business, then don't give them an invitation
+>	(the man page), 
+
+
+This brings up an interesting point.  Should administrators remove/disable
+the man pages for adminstrative commands?  What about general commands that
+most users would never, ever use?
+
+The admin could make the argument that "users don't need to know anything
+in section 8 of the manual", while users would argue that "we're students,
+we want to know that stuff".  Which is the stronger point?
+
+Perhaps a blanket note in the admin man pages is appropriate; something like
+"This is an administrative commands; general users should not execute it.
+This man page is provided for information ONLY!"  might do the job.
+
+Of course, someone's going to have to go through and edit all the man
+pages........8(
+
+>	The system was set up to log everything, including what commands
+>	were run.  The sysadmins seem to operate in full fascist mode most
+>	of the time, and so tend to notice everything, no matter how minor.
+
+Um, I wouldn't call it fascist mode.  Most systems run some form of process
+accounting.   Any user can check the actions of any other users.  
+
+>	In my case, they noticed the process 2-3 hours after it had started,
+>	and about 1.5 hours after I though I had stopped it by logging off.
+
+So someone did a ps(1) and saw your process; that isn't really "fascist
+mode" operation.  Any user at all could have seen that job running.
+
+I'm not saying that the people involved acted properly; however, the mere
+fact that a given system runs process accounting does NOT imply that they
+are fascist.  Heck, we wouldn't get 50% of our budget requests without that
+accounting data to prove the need.
+
+Don't misinterpret normal activity as "snooping" or "fascism".
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+From: brack@uoftcse.cse.utoledo.edu (Brack)
+Subject: Re: Brack Expulsion. What Happened?
+Message-ID: <9111190356.AA14385@uoftcse.cse.utoledo.edu>
+Sender: brack@uoftcse.cse.utoledo.edu
+Date: 19 Nov 91 03:56:39 GMT
+
+In article <1991Nov8.162827.16063@ms.uky.edu> you write:
+> FANSHEN@ccvm.sunysb.edu (Frank Anshen) writes:
+> >Punishing somebody without
+> >specifying the specific charges against him is certainly not due process and
+> >it is not sufficient to decide that he has cleverly walked between the
+> >cracks in the rules and thus we will ignore the rules. 
+> 
+> As I understand it, Steven *did* participate in a hearing of the charges
+> and allegations against him.  He states that "no connection" was made be-
+> tween the specific charges against him and the policies which he allegedly
+> violated.  
+> 
+> My questions are simple:
+> 
+> 	- Did he ask for the specific connections?
+
+	Yes, although I shouldn't have had to.  Instead of getting the
+	charges & specifications, I got a list of charges & a list of 
+	specifications, with no connection between them.
+
+> 	- If they didn't provide the connectoins, did he press them
+> 	  to do so?
+
+	I did everything I could to get the charges & specifications, but
+	OSU wouldn't give them to me.
+
+> 	- Did he have any observers or attorneys present?
+
+	I was allowed to have a non-attorney advisor present.  I chose my
+	father.  None of the people I wanted to be witnesses showed up.
+
+> 	- Does he have a transcript of the proceedings?
+
+	A transcript costs money & is only available on tape. 
+> 
+> 	- Did he even attempt to defend his actions, or did he
+> 	  just sit there and say "you're wrong"?
+
+	Although I disagree that my actions needed defending, I did defend
+	them.  I explained each action in terms of why I did it & what its
+	effect was.  I also explained how little guidance I had from ACS
+	as to what was permissable & what wasn't.
+	> 
+> In short, did he exercise his rights in the hearing, or did he just
+> sit there and listen?
+
+	I exercised what rights I had.  For instance, I was not allowed to
+	ask all the questions I needed to, and the hearing was decided by
+	a preponedrance of the evidence, requiring me to basically prove
+	my innocence. 
+
+> Personally, I'd like to see a transcript of the hearing, if it exists. 
+> Until that occurs, we're right back to "they said this, and they're wrong";
+> that approach doesn't get us anywhere.
+
+	Send me the money for the transcript & I'll send you the tapes.
+> 
+> -- 
+> morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+
+
+--
+Steven S. Brack                        |          brack@uoftcse.cse.utoledo.edu
+2021 Roanwood Drive                    |        STU0061@uoft01.utoledo.edu
+Toledo, Ohio      43613-1605 _________/^\_______ sbrack@bluemoon.rn.com
++1 419 474 1010              | MY OWN OPINIONS | sbrack@nyx.cs.du.edu
+
+From: brack@uoftcse.cse.utoledo.edu (Brack)
+Subject: Re: Re; Brack Expulsion. What Happened?
+Message-ID: <9111190340.AA14311@uoftcse.cse.utoledo.edu>
+Sender: brack@uoftcse.cse.utoledo.edu
+Date: 19 Nov 91 03:40:28 GMT
+
+In article <199111181910.AA23891@eff.org> you write:
+> >> There is plenty of indication that OSU has a valid appeal process for
+> >> almost all of the mentioned actions, but Mr. Brack is NOT appealing.
+> >> This single item calls the whole situation into question.
+> >
+> >	Much as I'd like to, I can't put my life, job, & education on hold
+> >	to play paperwork games with OSU.  I believe what was done was wrong,
+> >	& I will fight it, but I can't fight it now.
+> >--
+> >Steven S. Brack                        |          brack@uoftcse.cse.utoledo.edu
+
+> VERY interesting.  IS it important, or isn't it?  The failure to appeal
+> in  a TIMELY manner will seriously hurt the case.  In fact, most appeal
+> processes with which I am familiar have a limited time period during
+> which an appeal can be made at all.  Maybe 30 or 60 or 90 days.  A
+> reasonable amount of time, but limited.
+> 
+> Have you checked on this Mr. Brack?   If the time period expires, you
+> will have no appeals.
+
+	I am retaining counsel, and will fight OSU from a legal standpoint,
+	rather than being trapped playing theoir game, by their rules, on their
+	field.
+> 
+> dan
+> 
+> * Dan Lester                          Bitnet:   alileste@idbsu              *
+
+
+--
+Steven S. Brack                        |          brack@uoftcse.cse.utoledo.edu
+2021 Roanwood Drive                    |        STU0061@uoft01.utoledo.edu
+Toledo, Ohio      43613-1605 _________/^\_______ sbrack@bluemoon.rn.com
++1 419 474 1010              | MY OWN OPINIONS | sbrack@nyx.cs.du.edu
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Steve Brack's Letter of Dismissal
+Message-ID: <1991Nov19.192831.1996@eff.org>
+References: <9111060339.AA24819@uoftcse.cse.utoledo.edu>
+Date: Tue, 19 Nov 1991 19:28:31 GMT
+
+Ohio State University's mishandling of the Steven Brack case has
+increased my confidence in and appreication of our systlem of justice.
+How can this be? Well, it seems that almost every OSU action that I
+consider unfair, is, in fact, illegal.
+
+Consider for example, the conclusion of the hearing:
+
+brack@uoftcse.cse.utoledo.edu (Brack) writes:
+>	Well, here it is, the instrument of my dismissal:
+[...]
+>Not guilty of:
+
+>3335-25-01 (E) Dishonest conduct, including, but not limited to, knowingly 
+>reporting a false emergency; knowingly making false accusation of misconduct; 
+>misuse or falsification of University documents by actions such as forgery, 
+>alteration, or improper transfer; submission to a University official of 
+>information known by the submitter to be false;
+
+
+>Guilty of:
+
+>3335-25-01 (F) Theft or attempted theft, or the unauthorized use or possession 
+
+>of University property or services, or the property of others while on 
+>University premises;
+
+>3335-25-01 (G) Failure to comply with directives of authorized University 
+>officials, identified as such, in the performance of their duties, including 
+>failure to identify oneself when so requested; or, violation of the terms of a 
+
+>disciplinary sanction;
+
+>3335-25-01 (J) Disorderly conduct that interferes with University-authorized 
+>activities, including teaching, research, administration, or other activities 
+>conducted, sponsored, or permitted by the University;
+
+>3335-25-01 (K) Violation of other published University regulations, policies, 
+>or rules, or any other violation of state or federal law committed on 
+>University premises.  This alleged violation resulted from an incident on or 
+>before May 26, 1991, involving use of Academic Computing Services facilities, 
+>equipment, and programs.
+[...]
+
+There is no finding of fact. This is unfair and makes an appeal almost
+impossible.
+
+In _Due Process for School Officials: A Guide for the Conduct
+of Administrative Proceedings_ by Edgar H. Bittle (1986), it says:
+
+--- begin quote----
+Findings and Conclusions
+
+One of the lessons of _Mt. Healthy City School District v. Doyle_{95}
+and the above cases is that a board in making its decision should
+clearly state the findings of fact upon which the board is basin is
+decision, reciting both the charges made and the facts that support
+those charges and were used by the board as the basis for its
+conclusion that disciplinary or discharge actions should be taken.
+
+[...]
+
+In _State ex rel. Newton v. Board of  School Trustees of the Metropolitan
+School District of Wabash County_, the court noted
+
+"the existence of such finding is essential to preserve the limited
+scope of a reviewing court's inquiry. 'The absence of findings invites
+a reweighing of the evidence on review, thereby paving the way for
+judical intrusion into matters committed to administrative decision
+...' An administrative body has the duty to make a find of the
+pertinent facts on which its decision is based in order to facilitate
+judical review."{108}
+
+In _Erb v. Iowa State Board of Public Instructions_, the Iowa Supreme
+Court noted the requirement to make findings of fact in an
+adjudicatory proceedings. The court said:
+
+"[B]oards are required, even without statutory mandate, to make
+findings of fact on issues presented in any adjudicatory proceeding.
+Such finding must be sufficiently certain to enable a reviewing court
+to ascertain with reasonable certainty the factual basis and legal
+principle upon which the administrative body acted. _Cedar Rapids
+Steel Transportation, Inc. v. Iowa Sate Commerce Commission, 160 N.W2d
+825,837 (Iowa 1968), _cert den._ 394 U.S. 918,89 S. Ct. 1189, 22 L.
+Ed.2d 451".{109}
+
+[References]
+
+{95} Mt. Health City School Dist. v. Doyle, 429 U.S. 274, 276 (1977)
+
+{108} State _ex rel._ Newton v. Board of School Trustees of the
+Metropolitan School Dist.  of Wabash County, 404 N.E.22d 47, 48-49
+(Ind. Ct. App. 1980)
+
+{109} Erb v. Iowa State Board of Pub. Instruction, 216 N.W.2d 339, 242
+(Iowa 1974). _see also_ [{108}]
+
+--- end quote---
+
+
+Here is a sample finding from the book:
+
+--- begin quote --
+
+Findings of Fact
+
+1. The Board has jurisdiction to hear this recommendation for
+expulsion. The student and her parents have received notice of the
+hearing and the written statement setting forth the specific charges
+upon which the recommendation for expulsion is based. The student, her
+attorney, and her mother were present throughout the heading and had
+the opportunity to ask questions and to present evidence or make a
+statement to the Board.
+
+2. On February 28 and 29, 1990, the student, a freshman at the High
+School, was involved in possession and sale of controlled substance or
+a look-alike controlled substance.
+
+3. The police of the School District prohibited the sale or
+distribution of any controlled substance or drug look-alike while the
+student is on any school property or under school supervision. Any
+student violating the provisions of this policy is subject to
+recommendations for expulsion.
+
+4. The student violated the aforestated policy, sold a controlled
+substance or look-alike to other studies while at the High School and
+is subject to the expulsion procedure of this Board.
+
+-- end quote----
+
+In contrast with this sample, Ohio State University merely lists five (vague)
+rules, labeling each with "guilty" or "not guilty".
+
+- Carl
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Re; Brack Expulsion. What Happened?
+Message-ID: <1991Nov23.190239.14673@eff.org>
+References: <1991Nov13.215045.3194@eff.org>
+Date: Sat, 23 Nov 1991 19:02:39 GMT
+
+Here is some information from
+
+_The Redefinition of the Exclusionary Rule as to Student Procedural
+Due Process in High Education_. A monograph from the Office of the
+General Counsel [of Southern Illinois University] by Dr. Larry L.
+French, General Counsel, 1977.
+
+------------begin-----
+
+Introduction
+
+The debate whether education is a right or privilege, is no long a
+subject of controversy, because the student's right to the benefit of
+a state educational system is an interest protected by the 14th
+Amendment of the United States Constitution{1}.
+
+[...]
+
+The "exclusionary rule", as defined herein, pertains to any policy
+from which a violation of, could result in exclusion from school
+either on a temporary or permanent basis.
+
+[...]
+
+The landmark decision of _Dixon v. Alabama State Board of
+Education_{4} remains as the basic authority providing students in
+higher education the right to appropriate due process protection in
+disciplinary proceedings which involve long term suspension or
+expulsion (dismissal). Such due process means any accused student must
+be given adequate notice and an opportunity for hearing _prior to_ the
+initial disposition of his case.
+
+[...]
+
+Although the facts of [_Goss v. Lopez_{5}] were directed at the
+secondary level of public education, they are as well applicable to
+proceedings in high education, both as to academic and non-academic
+matters.
+
+[...]
+
+As to what constitutes proper notice of charges, it may be said that a
+student must be given, at a time reasonably prior to the commencement
+of the proceedings, a written statement in which the charges are
+explicitly set forth as well as the the specific ground or grounds,
+which if proven, would justify the penalty commensurate with the
+violation.
+
+[...]
+
+[References]
+{1} _Board of Regents v. Roth_, 92 Supreme Court 2701 (1972).
+
+{4} 294 F2d 150 (5th Circuit, 1961) cert. den.
+
+{5} 419 U.S. 565 (1975)
+---- end quote----
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Prohibiting four-letter words, liability & prior review, Hazelwood
+Message-ID: <1991Nov19.202845.3261@eff.org>
+Date: Tue, 19 Nov 1991 20:28:45 GMT
+
+The book _Law of the Student Press_ by the Student Press Law Center
+(1985,1988), p. 28, says:
+
+"In _Papish v. Board of Curators of University of Missouri{30} ...
+the high Court ruled that the use of profanity or 'four-letter words'
+in a paper distributed on a college campus was not disruptive of the
+school environment."
+
+{30} _Papish v. Board of Curators of University of Missouri_, 410 U.S.
+667 (1973)
+
+On p. 37, it says:
+
+"Only two court cases have considered the liability question, and in
+both cases the courts found that the institution was free from
+liability because control was in the hands of the students."{33,34}
+
+...
+
+"Thus, despite arguments by administrators that they need to prevent
+libel, it appears that just the opposite is true: Where administrators
+have not exercised control over the content of student publications,
+the courts have refused to hold their schools responsible for libel
+appearing in such publication. If, however, administrators exercise
+the power of prior review, then the court will also hold them and
+their schools liable for the contents of such publications.
+Encouraging the establishment of a clear-cut separation between school
+administration and editor functions may also result in the reduction
+of libel suits, for potential plaintiffs will realize that substantial
+funds are beyond their reach.
+
+{33} _Mazart v. State_ 441 N.Y.S.2d 600 (1981)
+
+{34} _Milliner v. Turner_ 436 So.2d 1300 (La. App. 1983)
+
+Finally, on page 90, it says the _Hazelwood_ decision that allows
+censorship of sponsored high school newspapers does not, according to a
+footnote in the decision, apply to universities.
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: User/admin communication.
+Message-ID: <1991Nov18.150215.11121@ms.uky.edu>
+Date: 18 Nov 91 15:02:15 GMT
+References: <9A03910890421012@ccmail.sunysb.edu>
+
+Sanjay Kapur <skapur@ccmail.sunysb.edu> writes:
+>
+>I would like to propose that to improve this communication [ between users
+>and admins - Wes ] the following be done:
+>
+>1) Like the student-teacher ratio, the user-admin ratio needs to be reduced at 
+>large sites.
+
+A worthy goal, but difficult to implement.  We have student assistant running
+our PC labs (they're scholarship students), and they can handle most of the 
+PC questions and some Unix questions.  Most of the Unix questions, however,
+wind up coming to me.  That's one admin (me) for 2000 users.  When I first
+started, the flood of user consulting was almost overwhelming (for reasons
+I'll discuss below); it's not that bad today, now that users are working with 
+each other more.
+
+>2) Like class size in a school, the total number of users on a system 
+>should be kept at a manageable level.
+
+This one is much too ambiguous.  We have several missions:
+	- Support classroom work in the College
+	- Support research work in the College
+	- Develop general computing skills of our students
+
+In support of these missions, we have decided that each student in the
+College needs access to our systems.  Therefore, every student has an
+account on our general Unix system.  Presto!  There's 1710 users.  Is
+this unmanageable?  No, and here's why.  During their first two years,
+our students are not taking many computing-intensive courses.  Freshmen
+and Sophomores tend to use our system almost solely for electronic mail
+and general Unix experimentation (if they have the time for such experi-
+mentation).  As a result, they do not place a heavy burden on me; handouts
+and our student assistants can handle the vast majority of their needs.  By
+the time they become Juniors, they are sufficiently Unix-literate that,
+even through they begin to make more extensive use of our system, their
+basic knowledge is enough to get them through.  I have found that the
+majority of my user support goes to about 10% of the userbase.  Inclu-
+ding faculty and staff, that's about 175-200 users; that is certainly
+a manageable number.
+
+It's extremely difficult to predict a "manageable" staff/user ratio.
+Our shop is working fairly well with a ratio of about 400:1; a different
+group of staff people might choke on that.  I've seen computing shops 
+with a 50:1 ratio that fall apart in user support.
+
+>3) As many layers of bureaucracy as possible should be removed between the 
+>users and the system administrators.  Users should always have direct and open 
+>access to the system administrators.  Systems administrators should also have 
+>direct access to the users.  There should not be any go-between that either is 
+>required to go through.
+
+Bingo!  There's the biggest problem I've seen.  How many times have we 
+seen something like this in a computing center's newsletter?
+
+	Q: I'm having a problem dialing in from home.  I set everything
+	   up as described in your documentation, and I get a carrier,
+	   but it just stops unexpectedly.  What's going on?
+
+	A: It sounds like a communications problem.  You need to talk
+	   to so-and-so or so-and-so to fix it.
+
+
+	Q: Why can't I do XXXXXX?  According to the help files, it
+	   should work, but it gives me this error message "YYYYY".
+
+	A: We fixed it; it should work now.
+
+Why point every question to someone else?  Why not explain the problem
+that caused that software to fail?   The purpose of newsletters and Q&A
+sessions is to EDUCATE your users; what does "We fixed it" do for them?
+More importantly, what does that do for other users that may be experi-
+encing the same problem?  All that happens is that Mr. so-and-so starts
+getting more phone calls, and he has to explain the same solution over
+and over.  That's doesn't help; in fact, it makes the problem worse.
+I usually try to give the users as much information as they can han-
+dle.  When I explain a problem, I always start with "stop me if there's
+something you don't understand."  You can't predict the knowledge of
+an individual user; part of your task is to keep your explanations within
+their knowledge.
+
+I've read computing center newsletters from around the world, and this
+seems to be a universal problem.
+
+Another major problem is the "can't do that" theme.  We
+had a user who needed to adjust some parameters on a job on another
+system (outside our site).  The consultant told him "that can't be done; 
+you'll just have to work around it".  The user came to me, and, after a 
+little digging through manuals, we found that he could accomplish it with 
+a one-line addition.  The way I see it, his problem came from one of three
+sources:
+
+	- The consultant didn't know how to do it, didn't want to admit
+	  that fact, and just gave the user a brush-off.
+	- For some reason, the admins didn't want anyone to do that, so
+	  they just told people that "it can't be done".  This is usually
+	  called "security through obscurity".
+	- The consultant was too lazy to RTFM.
+
+In my opinion, none of these are acceptable reasons.
+
+The big problem in the user's perspective is the "I'm important" attitude.
+Many users expect admins (or consultants) to drop whatever they're doing
+when they need help.  I have a sign in my office that reads "A lack of
+planning on your part does NOT create an emergency on my part".  If a
+student comes in while I'm trying to (for instance) hash out an RFS
+problem, he's going to get second priority.  As soon as I hear the words
+"but this is due this afternoon (or tomorrow)", my usual response is "I'm
+sorry, but I can't run from your schedule; this is more important.  I'll 
+help you as soon as I can".  They may grumble, but they have to accept it.
+
+Now, if a user demonstrates that he IS planning ahead, administrators must
+make every attempt to help them.  Most of our users have, after a few epi-
+sodes such as those I just described, begun to plan ahead.  I'm getting more
+and more questions like "I'm working on setting up electronic mail on my
+workstation, but I don't really need it for about 2-3 weeks; when can you
+help me?"  Believe me, I'm going to jump through hoops to help that guy
+before his deadline.  The mere fact that he IS planning ahead is going to
+make my life easier.
+
+There are several agendas in a computing center; the admins have one, the
+bureaucrats/moneymen have a second, and the users have their own.  One of
+our largest responsibilities is the merging of those agendas into a cohe-
+sive whole.  Don't forget, administrators wouldn't be here if users didn't
+exist.  Each of these groups has to understand and respect the agendas of
+the others.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+From: updegrove@a1.relay.upenn.edu (Dan Updegrove)
+Subject:  Privacy rights of CWIS end users
+Message-ID: <199111221525.AA11205@eff.org>
+Date: 22 Nov 91 05:02:01 GMT
+
+As part of the final preparations before rolling out PennInfo, the
+University of Pennsylvania's CWIS, we have been concerned about assuring
+the end user community that their individual use of the system would in no
+way be monitored. At the same time, we wished to disclose that each session
+will leave some trace in log files, such that aggregate usage statistics
+could be compiled and bugs fixed.
+
+To this end, we have drafted and received approval from our General
+Counsel's office for the following document to be added to the "About
+PennInfo" folder. We would be interested in any comment on the document,
+general issues of privacy-vs.-instrumentation, and experiences with such
+issues in actual CWIS practice.
+
+Thanks,
+Dan Updegrove
+Assistant Vice Provost
+
+              Privacy Rights of PennInfo End Uses
+
+The University of Pennsylvania is committed to protecting the
+privacy rights of individuals who access PennInfo. As a matter of
+policy, no one will be authorized to make any attempt to determine
+how any individual uses PennInfo or peruses certain documents.
+
+Users should be advised, however, that log files are maintained to
+enable the Office of Information Systems and Computing (ISC) to
+diagnose technical problems and monitor overall system usage. It
+will be possible, for example, to determine how many times each
+document is accessed and the average duration of PennInfo sessions.
+The individual log files provide no way to determine who accesses
+any given document. Log files and PennInfo system software are
+maintained on a tightly-secured computer, and only properly-
+authorized ISC staff have login priveleges on this computer.
+
+Questions or concerns about PennInfo privacy protection should be
+addressed to _____ .
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Schools that outlaw on-line searches of library catalogs
+Message-ID: <1991Nov21.182340.11577@eff.org>
+Date: Thu, 21 Nov 1991 18:23:40 GMT
+
+Universities that prohibit offensive expression in computer media, may
+be prohibiting on-line searches of library catalogs.
+
+Libraries all of the world are working to make their on-line catalogs
+available via the Internet. But do these on-line catalogs violate the
+speech restrictions on some universities?
+
+For example, suppose you telnet into Illinet Online ("telnet
+garcon.cso.uiuc.edu 620"). This on-line catalog has holding
+information for most the the libraries in the State of Illinois.
+
+You are looking for an arts magazine:
+
+----Illinet session---
+LCSgated>f t magazine of the arts
+
+                                          SUMMARY DISPLAY
+RESULT:   38 bibliographic items.
+
+
+LCSgated>s 24
+
+                                          BIBLIOGRAPHIC DISPLAY
+
+     FUCK YOU; A MAGAZINE OF THE ARTS NEW YORK 
+     uc 10-053242  
+
+LCSgated>
+---- end session------
+
+Now that your interest has been aroused, you try:
+
+---- Illinet session-----
+LCSgated>f t fuck $ all
+
+                                          BIBLIOGRAPHIC DISPLAY
+
+     1. Moe, David Ishtar Robinhood fuck spelling : a poem / c1978. 5
+        leaves, sewn at center; unpaged    ocm04-147599  
+     2. Fuck hate : :poems / ca. 1966: :4: p.    ocm07-408611  
+     3. FUCK YOU; A MAGAZINE OF THE ARTS   uc 10-053242  
+     4. McCloskey, Michael. FUCK YOU; A VOLUME OF SHORT STORIES.   uc
+        12-031984  
+     5. MICHELS, PETER M.  FUCK THE WAR. 1972.   uc 17-000346  
+     6. B.A.L.L. (Musical group) Period (another American lie) :sound
+        recording: / :1987: 1 sound disc    ocm17-376469  
+
+LCSgated>
+---end session---
+
+It looks like Boston University and Ohio State University will need to
+cut their connections to on-line catalogs. The on-line catalogs also
+might violate the restrictions of the Computer Science Department at
+the University of Texas at Austin, the University of Newcastle's
+University Computing Services, and James Madison University. (I'm
+enclosing the relevant parts of the polices.)
+
+Conclusion: I see nothing wrong with narrowly-drawn rules against
+harassment, but there is no place for rules against offensiveness in a
+University. As this example shows, to prohibit offense, is to prohibit
+free inquiry.
+
+- Carl
+
+===================================================
+
+The Boston University's [Office of] Information Technology says: "[You
+must not] transmit[] or mak[e] accessible offensive [...] material."
+[ftp.eff.org:pub/academic/policies/bostonu.edu]
+
+Ohio State University, in at least one case, characterized the the
+phrase "fuck you" as obscene and brought a student up on charges for
+posting it. [ftp.eff.org:pub/academic/brack@ohio-state.edu]
+
+The Computer Science Department at the University of Texas at Austin
+says "Users of electronic mail and bulletin boards should avoid
+sending messages that are ... patently offensive ... ."
+[ftp.eff.org:pub/academic/policies/cs.utexas.edu] (While the phrase
+"patently offensive" is not defined, it is the same phrase used by the
+FCC in its definition of indecency. Thus, it is reasonable to conclude
+that the "words that can't be said on TV" might be prohibited at UT.)
+
+The University of Newcastle's University Computing Services says:
+"You may not use the University's computing facilities to send ...
+offensive ... messages." [ftp.eff.org:pub/academic/widener/newcastleu]
+
+The Draft Computer Ethics Statement at James Madison University says
+"The following are examples of unethical or irresponsible use of the
+computer: ... Sending electronic mail messages containing material
+offensive to the receiver."
+[ftp.eff.org:pub/academic/widener/jmadisonu]
+
+========================================================
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+

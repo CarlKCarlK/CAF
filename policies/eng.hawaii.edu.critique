@@ -1,0 +1,184 @@
+
+From caf-talk Caf Sep  8 12:30:52 1992
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 3--Re: policy
+Message-ID: <1992Sep8.163018.8554@eff.org>
+Date: Tue, 8 Sep 1992 16:30:18 GMT
+
+This is a critique of the computer policy of University of Hawaii,
+College of Engineering, University of Hawaii at Manoa. The policy
+seems to be a pretty good attempt at making the rules explicit.
+Several parts of the policy, however, likely violates legal and moral
+requirements for due process, privacy, free expression, and user
+participation.
+
+I. Due process
+
+The policy asserts several times that computer use is a privilege not
+a right. I don't know what this means. It might be an assertion that
+the University can act arbitrarily, if so it is legally meaningless.
+For while use of computers may not be a "right", due process is. This
+right cannot be asserted away. The policy could be improved by
+removing or clarifying these assertions.
+
+The policy gives sys admins the authority to summarily suspend users
+from the computer *before* establishing that the user has done
+anything. The policy thus authorizes illegal violations of user's due
+process rights and gives sys admins more authority than professors
+have. It also violates a tenet of academic freedom:
+
+"Pending action on the charges, the status of a student should not be
+altered, or his right to be present on the campus and to attend
+classes suspended, except for reasons relating to his physical or
+emotional safety and well being, or for reasons relating to the safety
+and well-being of students, faculty, or university property."
+  - From the Joint Statement on Rights and Freedoms of Students
+
+The policy could be improved by being made consistent with the law on
+due process and the principles of academic freedom.
+
+II. Privacy
+
+The policy allows a sys admin to search a users email and files at the
+sys admins' own discretion: no higher authorization is required, no
+notice must be given to the subject of the search - even after the
+search.
+
+The policy could be improved having the University treat searches of
+assigned disk space the same as it treats searches of assigned office
+space and dorm rooms. As it stands, the policy may be an illegal
+violation of user's right to be free of "unreasonable searches".
+[4th Amendment]
+
+III. Free Expression
+
+The policy prohibits the sending of frivolous message. The word
+"frivolous" is too vague. The policy could be improved by removing it.
+
+IV. User Participation
+
+The policy was apparently created and is apparently enforced without
+the participation of the user community. This is contrary to the
+principles of academic freedom. It is also likely contrary do the U.
+of Hawaii's policy making procedures. (It is also unwise.)
+
+- Carl Kadie
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+faq/policy
+=================
+q: What guidance is there for creating or evaluating a computer policy?
+
+=================
+statements/caf-statement
+=================
+This is an attempt to codify the application of academic freedom to
+academic computers. It reflects our seven months of on-line discussion
+about computers and academic freedom. It covers free expression, due
+process, privacy, and user participation.
+
+Comments and suggestions are very welcome (especially when posted to
+CAF-talk). All the documents referenced are available on-line.
+(Critiqued).
+
+=================
+statements/caf-statement.critique
+=================
+This is a critique of an attempt to codify the application of academic
+freedom to academic computers. It reflects our seven months of on-line
+discussion about computers and academic freedom. It covers free
+expression, due process, privacy, and user participation.
+
+Additional comments and suggestions are very welcome (especially when
+posted to CAF-talk). All the documents referenced are available
+on-line.
+
+=================
+law/due-process.french
+=================
+Quotes about the due process requirements of "notice of charges" and
+"find of facts" at a formal administrative hearing. The quotes are
+from:
+
+_The Redefinition of the Exclusionary Rule as to Student Procedural
+Due Process in High Education_. A monograph from the Office of the
+General Counsel [of Southern Illinois University] by Dr. Larry L.
+French, General Counsel, 1977.
+
+=================
+faq/email.policies
+=================
+q: Do any universities treat email and computer files as private?
+
+=================
+academic/student.freedoms.aaup
+=================
+Joint Statement on Rights and Freedoms of Students -- This is the main
+U.S. statement on student academic freedom.
+
+=================
+law/constitution.us
+=================
+The Constitution of the United States
+
+=================
+policies/seas.ucla.edu
+=================
+Computer policy for UCLA's SEASnet (Critiqued)
+
+=================
+policies/seas.ucla.edu.critique
+=================
+Critique of computer policy for UCLA's SEASnet
+
+Summary: "It seems like a pretty good policy. I especially like that
+it covers both users and sys admins. Also, it lays out clear rules and
+disciplinary procedures. And, it acknowledges the user's privacy.
+
+I think it could be improved (perhaps with the participation of users)
+by clarifying the prohibition against noncommercial personal use.
+Also, procedure by which a sys admin is authorized to search user
+files should be made clear and it should be made consistent with the
+University's general search procedures (or its telephone search
+procedures).  Finally, users should not be punished for rule
+infractions until and unless it is determined such infractions have
+occurred."
+
+=================
+=================
+
+These document(s) are available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/faq/policy
+  pub/academic/statements/caf-statement
+  pub/academic/statements/caf-statement.critique
+  pub/academic/law/due-process.french
+  pub/academic/faq/email.policies
+  pub/academic/academic/student.freedoms.aaup
+  pub/academic/law/constitution.us
+  pub/academic/policies/seas.ucla.edu
+  pub/academic/policies/seas.ucla.edu.critique
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/faq policy
+send acad-freedom/statements caf-statement
+send acad-freedom/statements caf-statement.critique
+send acad-freedom/law due-process.french
+send acad-freedom/faq email.policies
+send acad-freedom/academic student.freedoms.aaup
+send acad-freedom/law constitution.us
+send acad-freedom/policies seas.ucla.edu
+send acad-freedom/policies seas.ucla.edu.critique
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =

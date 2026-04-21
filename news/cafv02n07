@@ -1,0 +1,1041 @@
+
+----------------------------------------------------------------------
+
+From: joslin@tso.uc.edu (Paul Joslin)
+Subject: Article 0 -- Abstract of CAF-News 02.07
+
+Computers and Academic Freedom News
+Vol. 02, No. 07
+
+[Week ending February 16, 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Notes 1-2 discuss a student whose computer access was threatened
+because an archived copy of a password cracking program was found
+among his files.
+
+1.  A user on this system was apparently running a password cracking
+program.  An administer went looking around and found I had a copy of
+the newest version of Crack.  I have legitimate reasons for having
+this program.  I have received mail from the Chairman of the
+Department "inviting" me to discuss my account privileges. "It really
+bothers me that I'm going to get in a lot of trouble (probably anyway)
+just for the mere possession of a program."
+    <9202161945.AA24863@bsu-cs.bsu.edu>
+
+2. Your treatment may violate due process procedures.  Supporting
+quotes from the Joint Statement on Rights and Freedoms of Students are
+included.
+    <1992Feb16.202149.17301@eff.org>
+
+Note 3 concerns student protests over the Ohio State _Lantern_'s
+coverage of a Revisionist advertisement.
+
+3. The Ohio State University _Lantern_ refused to accept an ad which
+claimed that the Holocaust never occurred.  Instead, it ran the ad on
+the editorial page, as news, along with an anti-Revisionist editorial
+cartoon and a seven paragraph explanation. Jewish students are calling
+for the resignation of the _Lantern_'s editor-in-chief, advisor, and
+business manager.  The _Lantern_'s covered was balanced; what is the
+effect of the challenge? "When we become afraid to speak our minds,
+when we become fearful of expression because of what others might
+think, and when we stifle academic pursuit because of what is
+currently "correct," then we lose what it means to be fully human."
+    <9202141919.AA21041@dsacg2.dsac.dla.mil>
+
+Note 4 is a list of computer crime statues recently uploaded to the
+SULAW archive.
+
+4. "The following files have been uploaded to the SULAW archive
+(sulaw.law.su.oz.au). They are presently located in the /upload
+directory but will eventually be moved to the /pub/law directory."
+    <1992Feb16.151824.2536@darwin.ntu.edu.au>
+
+Note 5 is an article from _The Jewish Advocate_, a Boston weekly,
+concerning anti-Semitism on the Internet.
+
+5.  A Berkeley graduate student was "stunned to discover" anti-Semitic
+material on the Internet.  No specific legal action is planned since
+the university's policies on computer expression are general. A
+spokesman for the Anti-Defamation League of B'nai B'rith said, "We
+don't advocate censorship.  We encourage Internet subscribers to use
+their subscription power, their keyboard power, to register their own
+objections to this perversion of computer technology."
+    <kpgo3cINNvq@news.bbn.com>
+
+Note 6 is a discussion of new rules for gaming on machines in a lab at
+the University of Illinois.
+
+6. Previously, you could game until someone needed that machine for
+academic use.  However, people are reluctant to ask a gamer to give up
+a machine. "My job is to see that that person gets a computer, not
+that another gets to play 6 hours of Civilization."
+    <1992Feb11.160723.20190@ux1.cso.uiuc.edu>
+
+Notes 7-9 concern the lengths to which a student must protect
+information stored on a school computer.  Is it a violation of
+academic integrity to have a "022" umask?
+
+7. A Cornell student was told by a TA, "by leaving class files
+unprotected, allowing anyone to walk in and peruse my solutions to
+programming assignments, I could potentially be considered to be
+providing solutions to the assignments, particularly since I've done
+it "knowingly" by changing the protection myself."
+    <9202102257.AA20024@crocus.cit.cornell.edu>
+
+8.  Under Dartmouth's honor code, the situation would be treated
+differently.  If someone steals something, they are at fault.  If you
+left it unprotected so they could copy it, you can be held
+responsible.
+    <1992Feb12.140210.10645@dartvax.dartmouth.edu>
+
+9. A user asks, "If you left written things in the unlocked room,
+would that be considered the same thing?".  "I consider locks (and the
+permission bits in UNIX filesystems) to be the thing to use WHEN I DO
+NOT TRUST PEOPLE.  However I do not think it should be someone else's
+place to tell you who to trust and who not to trust."
+    <1992Feb12.013327.3257pdh@netcom.COM>
+
+Notes 10-11 continue the discuss on speech restrictions CMU's computer
+bulletin boards.
+
+10. A prior message claimed that the suppressed speech was
+"intimidating, harassing, or sexually harassing", and that "Such
+speech, like the classic example of "Fire!" in a crowded theatre, can
+be shown to do real harm."  This user claims that it is the result of
+shouting fire which should be punished, not the shouting. "What
+exactly is the difference between offensive, intimidating, and
+harassing?"
+    <1992Feb11.080542.20333@Princeton.EDU>
+
+11. How can you quantify unacceptable speech? If I proposition a
+woman, am I guilty of some crime other than rudeness?  What if I made
+a (crude) statement of fact?
+    <1992Feb9.213333.3056@hubcap.clemson.edu>
+
+- Paul]
+
+
+In this issue:
+
+Bryan Strawser  145  (none)
+Carl M. Kadie    58  >
+Robert F Solon   99  Another OSU Lantern Imbroglio
+Carl M. Kadie     3  [alt.bbs.allsysop, et al.<>puter Crime Statutes extracts)
+Mark Neely      108  New Uploads (Computer Crime Statutes extracts)
+Carl M. Kadie     3  [comp.org.eff.talk] "Anti<>und on Large Computer Network"
+Ron Newman       82  "Anti-Semitism Found on Large Computer Network"
+Carl M. Kadie     3  [cso.general] Re: Game Ban!!! (What the...?)
+Declan Fleming   35  >Game Ban!!! (What the...?)
+Eric Scheirer -- 32  umask & culpability
+Geoff Bronner    40  >
+Phil NRA         69  >
+David Nieporent  31  >Speech restrictions on CMU computer bboards
+Mike Percy       36  >
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Feb 16 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: feanor@bsu-cs.bsu.edu (Bryan Strawser)
+Subject: Article 1--(none)
+Message-ID: <9202161945.AA24863@bsu-cs.bsu.edu>
+Date: Sun, 16 Feb 1992 09:45:36 GMT
+
+I logged onto our system yesterday, to find this /etc/motd (message of
+the day) waiting for all users to see and read.
+
+---------------------------------------------------------------------------
+
+ULTRIX V4.1 (Rev. 55) System #13: Thu Jan 16 16:05:05 EST 1992
+UWS V4.1 (Rev. 197)
+
+        Games are restricted to the time period midnight to 8am.
+        Violators will lose their telnet privileges.
+
+NOTE:   ftp from remote sites during non-prime hours (that
+        is, 8 pm to 6 am).
+
+NOTE:   Do not put any subdirectories on the /tmp area.
+
+NOTE:   Backups are scheduled for 5pm on Sundays.
+
+        *********************************************************
+
+        Password hacking is unethical and will not be tolerated
+        on this system. Any potential and/or real violators will
+        lose their account on this system and perhaps others.
+        The system will be monitored for this and any other
+        potentially unethical problems.
+
+        *********************************************************
+-----------------------------------------------------------------------------
+
+How did all of this come about?  That has to be one of the first questions on
+your mind.  Here's the story...  or as close as I think i've got it figured
+out so far...
+
+
+Apparently some user I am not even familiar with was running a password
+cracking program, more than likely Crack, or something of that sort.  It
+placed a drain on the system, so one of the users (who had root's password)
+went looking, probably with a 'ps -aux | grep something'.  S/he found
+a process that was consuming time, noticed it was called Crack, or something 
+of the sort.  Su'ed root, killed the process, changed the password of the
+account, and went looking around.  Could have been a find / -name Crack* or
+something else, I'm not really sure.  They found copies of the program in 
+a number of accounts, in different forms.  Some tarred, some compressed, and 
+some untarred and compiled.  One of the accounts in which it was in was mine.
+
+In my archive directory, where I store programs for download at a later point,
+I had the newest version of Crack in a tar file, called crack.tar.  I had
+downloaded it a few weeks ago, and placed it on my 3b1 - awaiting the arrival
+of my Sun 3/140 Workstation I bought a month ago.  
+
+Why did I have this?
+        In my research agenda in the field of Computer Science, I have many
+        varied interests.  I'm involved in such things as Cognitive Science,
+        Computer Human Interaction (CHI), User interface design, Psychology,
+        and - of course - Computer Security, especially when considering
+        the people behind the breakins, what drives them, what are they 
+        looking for, what are they trying to do...
+
+What was I going to do with this?
+        On my 3b1, and my Sun (whenever it gets here :) I would be testing
+        the ability of these programs to crack passwords.  If enough evidence
+        could be gathered to show that nearly any password could be  broken,
+        given enough time - my future research paper could give a strong case
+        for the shadow password system, and othe ways of increasing security.
+
+Where did I get it?
+        I ftp'ed Crack from a FTP site out there somewhere, off hand I just
+        don't remember which one it was.
+
+
+Now, I have never EVER ran this program on any machine that I do not own
+myself.  There are multiple users on my 3b1, and there will be multiple users
+on my Sun 3/140 as well, but since I have the root password , there is no
+need for anyone to worry about myself running Crack on my machine.
+
+Since this was discovered in my account, nothing has happened, yet anyway.
+I did however, receive this mail message to my account on our VaxCluster
+>from the Chairman of the Department that owns and operates our Unix system.
+
+==============================================================================
+
+Please see me about your UNIX privileges.  Since you will
+be a computer science major, I want to see that you get on
+the right track.  Running password cracking program is not
+wise,
+
+==============================================================================
+
+As I had already stated, I have never ran a password cracking program on
+their unix machine.  In actuality, I've never ran it on my machine, it 
+doesn't seem to like my 3b1 too well.  I suppose a case could be made that
+I could have downloaded the /etc/passwd file onto my machine, and 
+cracked it there.  But, I will testify to the fact that I have not done
+anything of the sort.
+
+It really bothers me that I'm going to get in a lot of trouble (probably
+anyway) just for the mere possession of a program.  In a way, I guess it's
+kind of like being a locksmith..  should we kill all locksmiths because
+they possess the knowledge to crack through any lock - just because that
+mere possession of knowledge could lead him to break into your home, and 
+steal your wife's favorite doll?
+
+While I know that I only possess the program, and I have never ran it, where
+do they get the idea that I have ran it?  Are they so paranoid now that
+they will accuse me of running it even though I just possess it?
+
+I've never been accused in a crime.  I've only been in court once, to testify
+concerning an assault and battery case that I witnessed a few years back.
+Now, I could be accused of breaking into literally hundreds of accounts on
+this system, just because I possess the program to do that.  
+
+What will happen now?
+        I'm not sure.  Eventually, after I have calmed down, talked to 
+some people, and called different places.. I'll go in and see the people that
+I need to see, and make my point.  If they decide to take my account, I'll 
+fight it for as long as I can.
+
+The Others
+        I only personally know one other person involved in this impropriety.
+His account has been revoked pending "further investigation", who knows 
+if he will ever get it back.  To the best of my knowledge, of all of the people
+involved, I am the only one that still has access to their account.
+
+Finished in a fit of frustration,
+
+Bryan Strawser
+The Indiana Academy for Science, Mathematics, and the Humanities
+Jeep Hall
+Ball State University
+Muncie, IN 47306-0655
+(317) 285-7417
+
+
+Please do not send mail to any other users here (like root) about this matter,
+I would prefer to keep this discussion away from them until absolutely
+necessary.  Feel free to e-mail myself if you have any questions, or call
+if you're really that interested :-)
+
+
+Bryan Strawser                                          feanor@bsu-cs.bsu.edu
+ -=-=-=-=- Ball State University - Computer Science Department Unix -=-=-=-=-
+    "Unix: It's a nice place to live, but you don't want to visit there."
+
+
+------------------------------
+
+From caf-talk Caf Feb 16 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 2--Re: (none)
+Message-ID: <1992Feb16.202149.17301@eff.org>
+Date: Sun, 16 Feb 1992 20:21:49 GMT
+
+feanor@bsu-cs.bsu.edu (Bryan Strawser) writes:
+
+>I logged onto our system yesterday, to find this /etc/motd (message of
+>the day) waiting for all users to see and read.
+
+>       Any potential and/or real violators will
+            *********
+>       lose their account on this system and perhaps others.
+
+[...]
+>       I only personally know one other person involved in this impropriety.
+>His account has been revoked pending "further investigation", who knows 
+>if he will ever get it back.  
+>To the best of my knowledge, of all of the people
+>involved, I am the only one that still has access to their account.
+[...]
+
+It sounds like you need some due process procedures. I am appalled
+that you can be expelled from the computer without a hearing because
+one person thinks you have the potential to do something "unethical."
+
+Here is what the Joint Statement on Rights and Freedoms of Students
+says:
+
+======================start quote 1 ============
+C. Status of Student Pending Final Action
+
+  Pending action on the charges, the status of a student
+should not be altered, or his right to be present on the
+campus and to attend classes suspended, except for
+reasons relating to his physical or emotional safety and
+well being, or for reasons relating to the safety and well-being
+of students, faculty, or university property.
+================end quote===========
+
+==============begin quote 2=========
+  When the misconduct may result in serious penalties and if the
+student questions the fairness of disciplinary action taken against
+him, he should be granted, on request, the privilege of a hearing
+before a regularly constituted hearing committee. The following
+suggested hearing committee procedures satisfy the requirements of
+procedural due process in situations requiring a high degree of
+formality.
+================= end quote =====================
+
+For more on due process see:
+
+ftp.eff.org:pub/academic/student.freedoms
+ftp.eff.org:pub/academic/caf-statement
+ftp.eff.org:pub/academic/law/README
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Feb 14 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: Article 3--Another OSU Lantern Imbroglio
+Message-ID: <9202141919.AA21041@dsacg2.dsac.dla.mil>
+Date: Fri, 14 Feb 1992 09:19:20 GMT
+
+Well, the Ohio State University _Lantern_ is at it again!!
+
+[begin objective mode]
+
+Note:  All direct quotes are from _The Columbus Dispatch_, Friday, February
+14, 1992 on page 6 C.
+
+_The Columbus Dispatch_ reported today that over one hundred Jewish students
+at OSU have filed a complaint with the Office of Affirmative Action, claiming
+that publishing a column in the _Lantern_ that called the Holocaust a hoax was
+racial harassment.  The complaints seek to have the editor "'disciplined.'"  The
+OSU Office of Affirmative Action has authority to to discipline students up to
+and including expulsion.
+
+The background is as follows:
+
+Bradley R. Smith, a California-based Holocaust revisionist, wanted to run a
+full-page ad in the _Lantern_ that said that Zionist organizations conspired
+to create a "'Holocaust legend'" to arose sympathy and support for Jewish
+causes.  The Publications Committee, composed of both students and faculty,
+voted 5-4 not to run the ad.  The editorial staff of the _Lantern_ then voted
+to run the ad as an editorial in the opinion page.  The same day, there was an
+editorial cartoon denouncing revisionism, along with a seven-paragraph
+explanation defending publishing the text of the ad as news.  Also, OSU
+President Gordon Gee wrote a column denouncing the view of history advocated
+by Smith.  (There was extensive coverage of the deliberations of the
+Publications Committee in prior issues.)
+
+After the _Lantern_ went to press on Jan. 24, there was a demonstration at the
+journalism building by Jewish leaders and students.  The Hillel Foundation has
+called for the resignations of Editor-in-Chief Samantha G. Haney, newspaper
+advisor Dr. Mary Webster, and the _Lantern's_ business manager, Ray Catalino.
+
+Daniel Newman, the vice-president of an OSU student group called Students for
+Journalistic Integrity, said, "'Calling the Holocaust a Jewish hoax is an
+anti-Jewish slur and should therefore be treated by the university the same
+way as any other act of racial harassment.'"
+
+[end objective mode]
+
+
+My first reaction to this is the Students for Journalistic Integrity is
+overreacting.  The _Lantern's_ coverage was extremely well balanced.  They
+treated the ad as an editorial about political issues.  On First Amendment
+grounds, I would guess that writers are protected, as long as they do not
+libel or slander, which Mr. Smith never did.   (I read the Jan 24 issue.  I'll
+see if I can make it available to interested readers.)  So I'm not sure if
+there is a legal case here.
+
+However, as I have emphatically stated before, it isn't the responsibility of
+the creators of expression to determine if others are offended.  They can't do
+it, because there is no objective way to determine offense.  Further, the
+hallmark of a liberally-educated person is the ability to think critically,
+i.e., to examine with an open mind all the facts and then make a dtermination
+as to the validity of them.  What SJI would like to do, apparently, is
+substitute critical thinking for an ideology of doctrine.  Doctrine,
+traditionally, is that which is unquestionable and to be accepted
+unconditionally.  I reject this philosophy.  As I've argued before, doctrine
+backed by the force of law is merely totalitarianism.  What SJI advocates is
+actually totalitarianism of an academic sort.
+
+When we become afraid to speak our minds, when we become fearful of expression
+because of what others might think, and when we stifle academic pursuit
+because of what is currently "correct," then we lose what it means to be
+fully human.  We allow our own dignity and freedom as individuals to be
+lessened.  We become nothing more than automata, unwilling to think for
+ourselves, fearful of free expression, and blind to our own thoughts, ideas,
+and feelings.
+
+This is what Students for Journalistic Integrity want to do.  They want to
+destroy academic freedom and replace it with blind obedience.  Under the guise
+of protecting and promoting dignity and self-worth, they actually seek to
+undermine it, by denying all people the right to think and evaluate for
+themselves.  Their very name is a misnomer.  They aren't for Journalistic
+Integrity.  They're for Journalistic Slavery, and they want to be the
+slave-drivers.
+
+I stand for all expression.  I am afraid of no idea, for I know that I can
+look at it squarely and reject it or accept it on its merits, with no
+preconceptions and no preconditions.  Why do people continually advocate, here
+in the U.S.A., philosophies that have been rejected by Russians, Latvians,
+Poles, Germans, Chinese, and all who have fought, and died, for freedomn to
+think?
+
+If "Students for Journalistic Integrity" are our futire leaders, then I weep
+for our generation.
+
+
+
+Robert F. Solon, Jr.
+rsolon@dsac.dla.mil
+My opinions are my own.
+
+
+
+
+
+
+------------------------------
+
+From caf-talk Caf Feb 16 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 4--[alt.bbs.allsysop, et al.]  New Uploads (Computer Crime Statutes extracts)
+Message-ID: <9202161725.AA13467@m.cs.uiuc.edu>
+Date: Sun, 16 Feb 1992 05:25:02 GMT
+
+
+
+------------------------------
+
+From caf-talk Caf Feb 16 00:00:00 1992
+From: neely_mp@darwin.ntu.edu.au (Mark Neely, NTU Law School)
+Newsgroups: alt.bbs.allsysop,misc.legal,misc.legal.computing,comp.org.eff.talk
+Subject: Article 5--New Uploads (Computer Crime Statutes extracts)
+Message-ID: <1992Feb16.151824.2536@darwin.ntu.edu.au>
+Date: 16 Feb 92 15:18:23 +0900
+
+The following files have been uploaded to the SULAW archive
+(sulaw.law.su.oz.au). They are presently located in the /upload directory but
+will eventually be moved to the /pub/law directory.
+
+A word of warning - the SULAW machine has had a few difficulties resulting in
+the loss of the computer hosting the /pub/law directory. This will be fixed on
+or around Monday morning (17th Feb) so it might be prudent to hold off
+downloading the files until then!
+
+___
+
+
+canada.law      - Quotes from Canadian Criminal Code
+                        by Henry Waldock
+
+alabama.law     - Extract from Alabama Criminal Code
+                  Title 13A, Chapter 8, Article 1
+
+arizona.law     - Extract from Arizona Criminal Code
+                  Title 13. Criminal Code Chapt. 23 Organized Crime and Fraud
+                  s.13-2316 Computer Fraud
+
+california.law  - Extract from California Penal Code
+                  Part 1. Title 13. Crimes Against Property
+                  Chapter 5. Larcency [Theft]
+                  s.502 Unauthorised access to computers, computer systems and
+                        data
+
+colorado.law    - Extract from Colorado Criminal Code
+                  Title 18 Article 5.5 Computer Crime
+
+connecticut.law - Extract from Connecticut Penal Code
+                  Title 53A Chapt. 952 Part XXII Computer Related Offences
+
+delaware.law    - Extract from Delaware Criminal Code
+                  Title 11 Part 1. Chapt. 5 sub-Chapt.III Offenses Involving 
+                  Property
+
+florida.law     - Extract from Florida Computer Crimes Act
+                  Title XLVI Chapter 815. Computer Related Crimes
+
+georgia.law     - Extract from Georgia Computer Systems Protection Act
+                  Title 16 Chapter 9. Article 6. Computer Related Offenses
+
+  
+ghana.law       - Text of *proposed* Ghana Computer Crime Law
+
+hawaii.law      - Extract from Hawaii Penal Code
+                  Title 37 Chapter 708. Part IX. Computer Crimes
+
+iowa.law        - Extract from Iowa Criminal Code
+                  Title XXXV Chapter 716A Computer Crime
+
+idaho.law       - Extract from Idaho Criminal Code
+                  Title 18 Chapter 22 Computer Crime
+
+illinois.law    - Extract from Illinios Criminal Code
+                  Chap.38. Div. I Title III Part C. 
+                  Article 160. Computer Crime
+
+indiana.law     - Extract from Indiana Criminal Code
+                  Title 35 Article 43 Offenses Against Property
+
+maryland.law    - Extract from Maryland Criminal Code
+                  Article 27, s.146 Unauthorised Access to Computers Prohibited
+
+minnesota.law   - Extract from Minnesota Criminal Code
+                  Chapter 609.87 Computer Crimes
+
+new_jersey.law  - Extract from New Jersey Code of Criminal Justice
+                  Title 2C sub-Title 2 Pt.2 Chapter 20(II) Computer-Related
+                  Crimes
+
+new_york.law    - Extract from New York Consolidated Laws
+                  Chapter 40 Part 3 Title J Article 156
+                  Offences Involving Computers
+
+tx.law          - Extract from Texas Penal Code
+                  Title 7 Chapter 33. Computer Crimes
+
+united_kingdom.law
+                - Computer Misuse Act
+
+us.law          - Extract from US Code (Annotated)
+                  Title 18 Part I Chapter 47
+                  s.1030 Fraud and Related Activity in connection with computers
+
+virginia.law    - Extract from Virginia Criminal Code
+                  Title 18.2 Chapter 5. Article 7.1 Computer Crimes
+
+wisconsin.law   - Computer Law - State of Wisconsin
+                  Chapter 293, s.943.70 Computer Crimes
+
+west_virginia.law 
+                - West Virginia State Law
+                
+___
+                                Mark Neely                                      
+
+Articled Clerk (Slave)                      | Tutor
+Messrs Cridlands,                           | Law School
+Barristers and Solicitors.                  | Northern Territory University
+
+                            Darwin, NT Australia
+                         neely_mp@darwin.ntu.edu.au
+
+
+------------------------------
+
+From caf-talk Caf Feb 14 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 6--[comp.org.eff.talk]  "Anti-Semitism Found on Large Computer Network"
+Message-ID: <9202142121.AA05298@m.cs.uiuc.edu>
+Date: Fri, 14 Feb 1992 09:21:12 GMT
+
+
+
+------------------------------
+
+From caf-talk Caf Feb 14 00:00:00 1992
+From: rnewman@bbn.com (Ron Newman)
+Newsgroups: comp.org.eff.talk
+Subject: Article 7--"Anti-Semitism Found on Large Computer Network"
+Date: 11 Feb 92 23:46:52 GMT
+Message-ID: <kpgo3cINNvq@news.bbn.com>
+
+[I have also posted this to alt.censorship and soc.culture.jewish.
+ I am posting it here separately to try to avoid cross-pollution and
+ keep this newsgroup friendly and free of neo-Nazi nuts.  -- Ron Newman]
+
+--------------------
+>from The Jewish Advocate (a Boston weekly), 2/7/92:
+
+Anti-Semitism Found on Large Computer Network
+by Garth Wolkoff, Northern California Jewish Bulletin
+
+    Late last year, U.C. Berkeley graduate student David Kaim logged
+onto a school computer network.  He heard that by pressing a few
+buttons, he could access job listings, buy a bicycle, read movie
+reviews and communicate with students at schools around the country.
+
+    He found all that--but he also was stunned to discover screen
+after screen of anti-Semitic material, mostly entries describing how
+the Holocaust was a gross exaggeration by a Jewish or Zionist
+conspiracy and that Jews should apologize to David Duke for defaming
+his character.
+
+    Kaim had tapped into Internet, a computer network that connects up
+to five million scientists, researchers, students, and other academics
+around the world; in the Bay Area alone it is used by tens of
+thousands of students every day.
+
+    Other Jewish students involved with Berkeley Hillel told Kaim they
+had noticed the entries.  So had Giovanni Paoletti, who works for a
+computer company in Silicon Valley and attends Temple Beth David in
+Saratoga, as did many of Paoletti's friends who work at computer
+companies in the area.
+
+    In fact, addresses and phone numbers where computer subscribers
+can buy or obtain Holocaust-revisionist material and other
+anti-Semitic texts are being posted on the Internet network with
+alarming frequency.
+
+    "There never have been any proofs that Jews murder gentile
+children to use their blood for matzah.  There have never been any
+proofs that Germans murdered Jews and used their fat to manufacture
+hand soap," read one transmission from Oregon in September, an excerpt
+>from a Bradley Smith tract titled "Confessions of a Holocaust
+Revisionist."
+
+    Some of the anti-Semitic material on Internet, which runs the
+gamut from Jewish media conspiracy theories to the reproduction of
+Holocaust-revisionist literature, originates in Oregon; a fax number
+often included for more information has that state's area code.
+
+    Other transmissions collected by Kaim have come from the San Jose
+area; Amherst, Mass.; New Jersey's Rutgers University; and an
+unspecified branch of AT&T Bell Laboratories.
+
+    In Berkeley, the Hillel plans to respond to Kaim's complaint,
+according to director Beverly Pinto.   But no specific legal action
+is planned, she said, since the university's policies on computer
+expression are quite general.
+
+    Interestingly, Kaim's complaints come on the heels of a November
+controversy involving the Berkeley student newspaper's refusal to
+print a Holocaust-revisionist advertisement by the same Bradley Smith
+whose "Confessions" were quoted on the computer network.
+
+    The discovery of the anti-Semitic material also comes after the
+Anti-Defamation League of B'nai B'rith successfully persuaded Prodigy,
+a private computer network based in New York, to censure [sic]
+anti-Semitic transmissions.
+
+    But according to Jack Cohen of the ADL's Central Pacific Region,
+unless Internet has a policy of censoring material, his agency won't
+ask the network to stop the anti-Semitic electronic mail.
+
+    "We don't advocate censorship," Cohen said.  "We encourage
+Internet subscribers to use their subscription power, their keyboard
+power, to register their own objections to this perversion of computer
+technology."
+
+-- 
+Ron Newman              rnewman@bbn.com
+
+
+------------------------------
+
+From caf-talk Caf Feb 14 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 8--[cso.general]  Re: Game Ban!!! (What the...?)
+Message-ID: <9202142113.AA00928@m.cs.uiuc.edu>
+Date: Fri, 14 Feb 1992 09:13:41 GMT
+
+
+
+------------------------------
+
+From caf-talk Caf Feb 14 00:00:00 1992
+Newsgroups: cso.general
+From: declan@ux1.cso.uiuc.edu (Declan J. Fleming)
+Subject: Article 9--Re: Game Ban!!! (What the...?)
+Message-ID: <1992Feb11.160723.20190@ux1.cso.uiuc.edu>
+Date: Tue, 11 Feb 1992 16:07:23 GMT
+
+vanichth@ux1.cso.uiuc.edu (Mitri Van) writes:
+>Yeah, the old policy used to be that you could game until someone needed it
+>for academic use.  Lately, tho... we've noticed that people tend to be 
+>intimidated by gamers, and would leave the lab rather than asking an op to 
+>boot the gamer, or, someone would peek their head into a lab, notice that
+>all the computers were being used, and then leave without checking to see if
+>games were being played or not.  This new policy is designed to ensure that
+>there are always open terms so that people don't have to be forced to ask 
+>gamers to leave, as well as let people know that there *are* open terms.
+>For example, at Illini Hall before the game ban, 80% of the computers being
+>used would be occupied by people playing games.  Someone that needed to do
+>academic work would usually peek into the lab, see all the computers full and
+>leave.  I personally think that the ban is kinda good... it helps keep the
+>noise level down, which tends to annoy people doing real work, as well as
+>force _me_ to do schoolwork...
+>
+>All these opinions are mine and _not_ CCSO's
+>
+
+This is a pretty good summary of why things are the way they are.  The 
+computers are provided for academic use.  Up til now, I didn't care if people
+played games on them.  But as more and more classes depend directly on the
+machines in our labs, I want to make access as easy as possible for people
+doing class work.  I've personally seen what Mitri talks about above.  Some
+people don't want to bother someone else playing a game, so they leave.  My
+job is to see that that person gets a computer, not that another gets to 
+play 6 hours of Civilization.  
+
+Declan Fleming
+
+>Mitri Van
+>   mv45925@uxa.cso.uiuc.edu
+
+
+------------------------------
+
+From caf-talk Caf Feb 10 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: escheire@sunlab.cit.cornell.edu (Eric Scheirer -- HORJ@vax5.cit.cornell.edu)
+Subject: Article 10--umask & culpability
+Message-ID: <9202102257.AA20024@crocus.cit.cornell.edu>
+Date: 10 Feb 92 12:57:37 GMT
+
+While chatting with my TA earlier today, I learned that I may be in
+potential violation of Cornell's Code of Academic Integrity by
+having added "umask 022" to my .login file.  For those who may not
+speak UNIX, that's the command which lets everyone in the world
+read and execute, although not modify, my files.
+
+According to him, by leaving class files unprotected, allowing anyone
+to walk in and peruse my solutions to programming assignments, I
+could potentially be considered to be providing solutions to the
+assignments, particularly since I've done it "knowingly" by changing
+the protection myself.
+
+Note that all of this is for a class in which "help" and "consultation"
+has been expressly NOT forbidden.  However, copying someone's code
+would certainly violate academic integrity, as it should.  
+
+What are people's reactions to this?  Is this sort of policy actually
+stated in any school's honor code or code of academic integrity?  (I
+plan to pick up a copy of Cornell's tomorrow).  Most importantly,
+has anyone ever been disciplined under this sort of reasoning?
+
+This "suggestion" (and it was really only a suggestion) didn't bother
+me too much.  I happily complied by changing the permissions on my 
+classwork directory while leaving my non-coursework files readable.
+
+----
+Eric Scheirer -- Cornell U. -- (607) 253-2431 -- HORJ@vax5.cit.cornell.edu
+
+"Small change can often be found under sofa cushions." -- Lazarus Long
+
+
+------------------------------
+
+From caf-talk Caf Feb 12 00:00:00 1992
+From: geoffb@coos.dartmouth.edu (Geoff Bronner)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 11--Re: umask & culpability
+Message-ID: <1992Feb12.140210.10645@dartvax.dartmouth.edu>
+Date: 12 Feb 92 14:02:10 GMT
+
+In <9202102257.AA20024@crocus.cit.cornell.edu> escheire@sunlab.cit.cornell.edu (Eric Scheirer -- HORJ@vax5.cit.cornell.edu) writes:
+
+>While chatting with my TA earlier today, I learned that I may be in
+>potential violation of Cornell's Code of Academic Integrity by
+>having added "umask 022" to my .login file.  For those who may not
+>speak UNIX, that's the command which lets everyone in the world
+>read and execute, although not modify, my files.
+
+[stuff deleted]
+
+>What are people's reactions to this?  Is this sort of policy actually
+>stated in any school's honor code or code of academic integrity?  (I
+>plan to pick up a copy of Cornell's tomorrow).  Most importantly,
+>has anyone ever been disciplined under this sort of reasoning?
+
+Wow. I thought Dartmouth had a screwed up judicial system. This clearly
+takes the cake. Why not start arresting people when people steal things
+>from them? It reminds me of how mad the drill instructor in "Full Metal
+Jacket" got when his recruits left their footlockers open.
+
+Anyway. Dartmouth has an honor code so a situation like that would be
+treated a lot differently. If you leave something unprotected and someone
+steals it for their own academic benefit they are at fault. Not you.
+But, if you left something unprotected so that someone could copy it you
+would be held responsible. Complicity = guilt.
+
+Of course, that doesn't mean they won't say, "you should have taken better
+precautions." But that is a lot better than getting charged.
+Dartmouth is pretty reasonable about assiging blame, they just aren't very
+good at dealing with things after that.
+
+-Geoff
+--
+geoffb@Dartmouth.EDU  -  Computing Support Technician, Tuck School of Business
+_______________________________________________________________________________
+     "Are you sure?"      |           "That's a lot of money for a head!"
+ "Yeah.  Sure I'm sure."  |                        -The Ugly
+
+
+------------------------------
+
+From caf-talk Caf Feb 11 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: pdh@netcom.COM (Phil Howard KA9WGN / I am the NRA)
+Subject: Article 12--Re: umask & culpability
+Message-ID: <1992Feb12.013327.3257pdh@netcom.COM>
+Date: Wed, 12 Feb 92 01:33:27 GMT
+
+escheire@sunlab.cit.cornell.edu (Eric Scheirer -- HORJ@vax5.cit.cornell.edu) writes:
+
+>While chatting with my TA earlier today, I learned that I may be in
+>potential violation of Cornell's Code of Academic Integrity by
+>having added "umask 022" to my .login file.  For those who may not
+>speak UNIX, that's the command which lets everyone in the world
+>read and execute, although not modify, my files.
+
+This is sort of like leaving the lock on a door in the unlocked state
+as a routine action.
+
+
+>According to him, by leaving class files unprotected, allowing anyone
+>to walk in and peruse my solutions to programming assignments, I
+>could potentially be considered to be providing solutions to the
+>assignments, particularly since I've done it "knowingly" by changing
+>the protection myself.
+
+If you left written things in the unlocked room, would that be considered
+the same thing?
+
+
+>Note that all of this is for a class in which "help" and "consultation"
+>has been expressly NOT forbidden.  However, copying someone's code
+>would certainly violate academic integrity, as it should.  
+
+Agreed!
+
+
+>What are people's reactions to this?  Is this sort of policy actually
+>stated in any school's honor code or code of academic integrity?  (I
+>plan to pick up a copy of Cornell's tomorrow).  Most importantly,
+>has anyone ever been disciplined under this sort of reasoning?
+
+It depends.
+
+Consider the unlocked room and compare it to your "unprotected" home
+file tree.
+
+Do you actually tell people the room is unlocked?
+
+Do you tell people there are certain things (not the class work)
+that are worth looking at in the unlocked room?
+
+
+>This "suggestion" (and it was really only a suggestion) didn't bother
+>me too much.  I happily complied by changing the permissions on my 
+>classwork directory while leaving my non-coursework files readable.
+
+Seems to be the reasonable approach.  I would have considered it
+acceptable to merely put the classword in a separate directory, that
+being equivalent to putting your classword in a drawer in the unlocked
+room (no lock on drawer).
+
+I consider locks (and the permission bits in UNIX filesystems) to be
+the thing to use WHEN I DO NOT TRUST PEOPLE.  However I do not think it
+should be someone else's place to tell you who to trust and who not to
+trust.
+
+On the other hand, you may be accepting certain terms as part of your
+agreement to get what you have (a room, an account).
+-- 
+/***********************************************************************\
+| Phil Howard  ---  KA9WGN  ---  pdh@netcom.com   |   "The problem with |
+| depending on government is that you cannot depend on it" - Tony Brown |
+\***********************************************************************/
+
+
+------------------------------
+
+From caf-talk Caf Feb 11 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,alt.censorship,alt.politics.correct
+From: niepornt@phoenix.Princeton.EDU (David Marc Nieporent)
+Subject: Article 13--Re: Speech restrictions on CMU computer bboards
+Message-ID: <1992Feb11.080542.20333@Princeton.EDU>
+Date: Tue, 11 Feb 1992 08:05:42 GMT
+
+In article <wdYU6XS00WBwEAmKIc@andrew.cmu.edu> jm36+@andrew.cmu.edu (John Gardiner Myers) writes:
+>kadie@m.cs.uiuc.edu (Carl M. Kadie) writes:
+>> So what's wrong with suppressing offensive speech? Here is John Stuart
+>> Mill's answer. 
+
+>...which is fairly irrelevant because no one at CMU was arguing to
+>suppress speech that was merely offensive.  The issue is about
+>suppressing speech that is intimidating, harassing, or sexually
+>harassing.  Such speech, like the classic example of "Fire!" in a
+>crowded theatre, can be shown to do real harm.
+
+As I recall, the *actual* quote is *falsely* shouting Fire! in a crowded
+theater *AND CAUSING A PANIC.*
+
+i.e.  It's the causing a panic which can be punished, *not* the shouting.
+
+More importantly, what harm can they "be shown to do"?
+
+The replies to Jefferson's messages certainly seemed intimidating and
+harassing to me.  Does that mean that the people who sent it are guilty too?
+
+What exactly is the difference between offensive, intimidating, and harassing?
+
+-- 
+David M. Nieporent              niepornt@phoenix.princeton.edu
+Orioles 1992 World Series Champs!!!  Cal Ripken Jr -- 1992 AL MVP!!!
+ALEast 92:1.Baltimore 2.Boston 3.Toronto 4.Detroit 5.Milwaukee 6.NY 8.Cleveland
+"Less likely to need Ultra Slim Fast than Cecil Fielder"
+
+
+------------------------------
+
+From caf-talk Caf Feb 13 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,alt.censorship,alt.politics.correct
+From: grimlok@hubcap.clemson.edu (Mike Percy)
+Subject: Article 14--Re: Speech restrictions on CMU computer bboards
+Message-ID: <1992Feb9.213333.3056@hubcap.clemson.edu>
+Date: Sun, 9 Feb 1992 21:33:33 GMT
+
+jm36+@andrew.cmu.edu (John Gardiner Myers) writes:
+
+>kadie@m.cs.uiuc.edu (Carl M. Kadie) writes:
+>> So what's wrong with suppressing offensive speech? Here is John Stuart
+>> Mill's answer. 
+
+>...which is fairly irrelevant because noone at CMU was arguing to
+>suppress speech that was merely offensive.  The issue is about
+>suppressing speech that is intimidating, harassing, or sexually
+>harassing.  Such speech, like the classic example of "Fire!" in a
+>crowded theatre, can be shown to do real harm.
+ 
+Unless, of course, there is a fire...
+
+If I were to walk up to a strange woman at CMU and ask her "Would you
+like to fuck?" and if she declined, simply walked away would I have been
+guilty of some "crime" other than sheer rudeness?  What if I made a
+statement of fact -- "I would like to fuck you."?
+
+Perhap sI could get away from rudeness and delve into ignorance.  Would
+I be punished for saying something like "All white people are bigots and
+secretly support the KKK"?  What about "All black people should work in
+menial jobs since that is all they are mentally capable of doing"?  
+
+What is it about some speech that makes it worse than other speech that
+you can quantify?  And if so, how can you define such speech without
+violating your own policies?  I doubt there's much that could be said
+that poses a clear and imminent danger without there being clear
+physical circumstances.  Saying that you want people to go out and hang
+someone is not the same as having that someone at hand ready to hang and
+telling them to hang him.
+
+Mike Percy             | grimlok@hubcap.clemson.edu  | I don't know about
+Sr. Systems Analyst    | mspercy@clemson.clemson.edu | your brain, but mine
+Info. Sys. Development | mspercy@clemson.BITNET      | is really...bossy.
+Clemson University     | (803) 656-3780              | (Laurie Anderson)
+
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

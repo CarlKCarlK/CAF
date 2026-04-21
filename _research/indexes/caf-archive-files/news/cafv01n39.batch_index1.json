@@ -1,0 +1,499 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The student was denied access to system manuals and PC labs for sharing scripts and modifying PC clock settings.",
+        "Administrative appeals failed to resolve the dispute over account access and resource availability.",
+        "Institutional reliance on System Administrator reports led to the student failing a course due to lack of access to saved files."
+      ],
+      "organizations": [
+        "Mohawk Valley Community College",
+        "ACS"
+      ],
+      "people": [
+        "Jesse Buckley"
+      ],
+      "summary": "Jesse Buckley describes his experiences at Mohawk Valley Community College, where he faced disciplinary action and account lockouts for sharing utility scripts with other students. He details a conflict with the System Administrator and college administration over access to VAX/VMS resources and PC labs. The account highlights the tension between student-led technical assistance and rigid institutional control of computing resources.",
+      "title": "The Buckley Case",
+      "topics": [
+        "academic freedom",
+        "computing access",
+        "student discipline",
+        "VAX/VMS",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 15 Nov 1991 15:28:56 GMT",
+      "from": "buck@pool.info.sunyit.edu (Jesse Buckley)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "<1991Nov15.152856.25079@pool.info.sunyit.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "The Buckley Case.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "15 Nov 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "A Goya painting was removed from a Penn State music room after a female professor claimed it was sexual harassment.",
+        "The Student Government Assn. characterized the removal as 'ludicrous censorship'.",
+        "The Penn State Commission for Women argued that nude art makes it difficult for female faculty to appear professional."
+      ],
+      "organizations": [
+        "Penn State",
+        "Los Angeles Times",
+        "Student Government Assn.",
+        "Penn State Commission for Women"
+      ],
+      "people": [
+        "Joy Haftel",
+        "Dave Gross"
+      ],
+      "summary": "A discussion regarding the removal of a reproduction of Goya's 'Nude Maja' from a Penn State classroom following sexual harassment complaints. The debate centers on whether removing art in a mandatory educational setting constitutes censorship or a protection against offensive environments.",
+      "title": "Feminist Prudes vs. Goya's Nudes",
+      "topics": [
+        "censorship",
+        "sexual harassment",
+        "academic environment",
+        "freedom of expression"
+      ]
+    },
+    "identity": {
+      "date": "15 Nov 91 21:26:15 GMT",
+      "from": "JKH107@psuvm.psu.edu (Joy Haftel)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<91319.162616JKH107@psuvm.psu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Re: Feminist Prudes vs. Goya's Nudes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Nov 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The user argues that system permissions imply authorization to run a command.",
+        "Claims the university administration operated in 'full fascist mode' by logging all commands.",
+        "Contends that dismissal was an overreaction to minor incidents and lack of public rules."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "Boise State University"
+      ],
+      "people": [
+        "Steven S. Brack",
+        "Dan Lester",
+        "Carl M. Kadie",
+        "Bill Miller",
+        "Cliff Collins"
+      ],
+      "summary": "Steven S. Brack defends his actions and challenges the expulsion from Ohio State University (OSU) following a dispute over system usage. He argues that he used a command ('fixman') that was available via user permissions and lacked clear warnings, while criticizing the university's 'fascist' administrative monitoring. The exchange highlights early conflicts between student users and university sysadmins regarding acceptable use policies and due process.",
+      "title": "Re: Re; Brack Expulsion. What Happened?",
+      "topics": [
+        "academic freedom",
+        "acceptable use policy",
+        "system administration",
+        "student rights",
+        "Unix permissions"
+      ]
+    },
+    "identity": {
+      "date": "19 Nov 91 03:35:06 GMT",
+      "from": "brack@uoftcse.cse.utoledo.edu (Brack)",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<9111190335.AA14297@uoftcse.cse.utoledo.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Re: Re; Brack Expulsion. What Happened?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Nov 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Process accounting data is used to justify budget requests for computing centers.",
+        "The availability of administrative man pages creates a tension between administrator control and student desire for knowledge."
+      ],
+      "organizations": [
+        "University of Kentucky Engineering Computing Center"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Brack"
+      ],
+      "summary": "Wes Morgan responds to a discussion regarding the expulsion of a user named Brack, debating whether system administrators should restrict access to administrative man pages. Morgan argues against characterizing process accounting and monitoring as 'fascist,' noting that such data is often necessary for securing budget requests.",
+      "title": "Re: Re; Brack Expulsion. What Happened?",
+      "topics": [
+        "system administration",
+        "man pages",
+        "process accounting",
+        "surveillance",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "19 Nov 91 21:50:03 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<1991Nov19.215003.27317@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Re: Re; Brack Expulsion. What Happened?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Nov 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "OSU provided lists of charges and specifications without connecting them",
+        "The hearing was decided by a preponderance of evidence",
+        "Brack claimed a lack of guidance from ACS regarding permissible actions"
+      ],
+      "organizations": [
+        "Ohio State University",
+        "ACS"
+      ],
+      "people": [
+        "Steven S. Brack",
+        "Frank Anshen",
+        "Wes Morgan"
+      ],
+      "summary": "Steven S. Brack responds to inquiries regarding his expulsion from Ohio State University (OSU). He describes a lack of due process, claiming the university failed to connect specific charges to policy violations and restricted his ability to question evidence during the hearing.",
+      "title": "Re: Brack Expulsion. What Happened?",
+      "topics": [
+        "student discipline",
+        "due process",
+        "academic freedom",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "19 Nov 91 03:56:39 GMT",
+      "from": "brack@uoftcse.cse.utoledo.edu (Brack)",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<9111190356.AA14385@uoftcse.cse.utoledo.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Re: Brack Expulsion. What Happened?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Nov 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Brack chose to seek legal counsel rather than utilize OSU's internal appeal process."
+      ],
+      "organizations": [
+        "Ohio State University"
+      ],
+      "people": [
+        "Steven S. Brack",
+        "Dan Lester"
+      ],
+      "summary": "Steven S. Brack discusses his decision not to use the internal university appeal process following his expulsion from Ohio State University (OSU). He expresses a preference for pursuing legal counsel over adhering to the institution's administrative rules. The exchange highlights the tension between institutional due process and external legal challenges in academic disputes.",
+      "title": "Re: Re; Brack Expulsion. What Happened?",
+      "topics": [
+        "academic expulsion",
+        "due process",
+        "student rights",
+        "legal action"
+      ]
+    },
+    "identity": {
+      "date": "19 Nov 91 03:40:28 GMT",
+      "from": "brack@uoftcse.cse.utoledo.edu (Brack)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<9111190340.AA14311@uoftcse.cse.utoledo.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Re: Re; Brack Expulsion. What Happened?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 19, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Ohio State University dismissed Steven Brack for unauthorized use of Academic Computing Services facilities and equipment.",
+        "The university's disciplinary notice listed rule violations as 'guilty' without providing supporting findings of fact."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Steven Brack"
+      ],
+      "summary": "Carl Kadie critiques Ohio State University's dismissal of Steven Brack, arguing that the university failed to provide necessary findings of fact in its disciplinary decision. The case involves charges related to the unauthorized use of Academic Computing Services facilities and equipment. Kadie suggests that the lack of factual basis for the 'guilty' verdicts makes a legal appeal difficult but potentially viable.",
+      "title": "Re: Steve Brack's Letter of Dismissal",
+      "topics": [
+        "academic freedom",
+        "due process",
+        "computing services",
+        "student discipline"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 19 Nov 1991 19:28:31 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<1991Nov19.192831.1996@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Re: Steve Brack's Letter of Dismissal",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 23, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Students in higher education have a right to appropriate due process protection in disciplinary proceedings involving long-term suspension or expulsion.",
+        "Due process requires that an accused student be given adequate notice and an opportunity for a hearing prior to the initial disposition of their case.",
+        "Proper notice must include a written statement explicitly setting forth charges and the grounds justifying the penalty."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Southern Illinois University"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Larry L. French"
+      ],
+      "summary": "Carl Kadie shares excerpts from a 1977 monograph by Dr. Larry L. French regarding student procedural due process in higher education. The text outlines the legal requirements for notice and hearings prior to a student's suspension or expulsion. This was provided as context for a discussion regarding the 'Brack Expulsion'.",
+      "title": "Re: Re; Brack Expulsion. What Happened?",
+      "topics": [
+        "due process",
+        "student rights",
+        "academic discipline",
+        "expulsion"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 23 Nov 1991 19:02:39 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<1991Nov23.190239.14673@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Re: Re; Brack Expulsion. What Happened?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-11-19",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The Supreme Court ruled in Papish v. Board of Curators that profanity in college papers is not inherently disruptive.",
+        "Institutions are less likely to be held liable for libel if they do not exercise prior review over student publications.",
+        "The Hazelwood decision allowing censorship of high school newspapers does not apply to universities."
+      ],
+      "organizations": [
+        "Student Press Law Center",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie shares excerpts from 'Law of the Student Press' regarding legal precedents for student publications. The text discusses how profanity on college campuses is not considered disruptive and explains the relationship between administrative prior review and institutional liability for libel. It also notes that the Hazelwood decision regarding high school censorship does not apply to universities.",
+      "title": "Prohibiting four-letter words, liability & prior review, Hazelwood",
+      "topics": [
+        "student press",
+        "censorship",
+        "prior review",
+        "libel liability",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 19 Nov 1991 20:28:45 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<1991Nov19.202845.3261@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Prohibiting four-letter words, liability & prior review, Hazelwood",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Nov 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The author argues that 'security through obscurity' is an unacceptable reason for denying user requests.",
+        "Claims that the primary purpose of computing center newsletters and Q&A should be to educate users rather than just resolve tickets.",
+        "Suggests a manageable admin-to-user ratio varies by staff capability, citing his own experience with a 400:1 ratio."
+      ],
+      "organizations": [
+        "University of Kentucky Engineering Computing Center",
+        "SUNY Stony Brook"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Sanjay Kapur"
+      ],
+      "summary": "Wes Morgan responds to a proposal regarding the relationship between system administrators and users. He discusses the challenges of user-to-admin ratios, arguing that transparency and education are more effective than bureaucracy or 'security through obscurity.' He emphasizes the need for admins to educate users rather than simply providing fixes.",
+      "title": "Re: User/admin communication",
+      "topics": [
+        "system administration",
+        "user support",
+        "academic computing",
+        "transparency"
+      ]
+    },
+    "identity": {
+      "date": "18 Nov 91 15:02:15 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<1991Nov18.150215.11121@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Re: User/admin communication.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "22 Nov 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Pennsylvania committed to not authorizing attempts to determine how individuals use PennInfo.",
+        "Log files were maintained for diagnosing technical problems and monitoring overall system usage.",
+        "Individual log files were claimed to provide no way to determine who accessed a specific document."
+      ],
+      "organizations": [
+        "University of Pennsylvania",
+        "Office of Information Systems and Computing (ISC)"
+      ],
+      "people": [
+        "Dan Updegrove"
+      ],
+      "summary": "Dan Updegrove, Assistant Vice Provost at the University of Pennsylvania, seeks feedback on a privacy policy for 'PennInfo,' the university's Campus Wide Information System (CWIS). The proposed policy commits to not monitoring individual user behavior while acknowledging that aggregate log files are maintained for technical diagnostics. This reflects early institutional efforts to balance system administration with user privacy in academic computing.",
+      "title": "Privacy rights of CWIS end users",
+      "topics": [
+        "privacy",
+        "CWIS",
+        "logging",
+        "academic policy",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "22 Nov 91 05:02:01 GMT",
+      "from": "updegrove@a1.relay.upenn.edu (Dan Updegrove)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<199111221525.AA11205@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Privacy rights of CWIS end users",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-11-21",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Broad prohibitions on 'offensive' expression in computer media may effectively prohibit the use of online library catalogs.",
+        "University policies at Boston University, Ohio State, UT Austin, Newcastle, and James Madison University contain language regarding offensive material that could conflict with academic research."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Boston University",
+        "Ohio State University",
+        "University of Texas at Austin",
+        "University of Newcastle",
+        "James Madison University"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie argues that university policies prohibiting 'offensive' material on computer networks inadvertently restrict access to legitimate academic research. He demonstrates this by showing how searching an online library catalog for arts magazines can return titles containing profanity. The post highlights the conflict between broad conduct policies and the necessity of free inquiry in academic libraries.",
+      "title": "Schools that outlaw on-line searches of library catalogs",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "acceptable use policies",
+        "online catalogs",
+        "free speech"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 21 Nov 1991 18:23:40 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<1991Nov21.182340.11577@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n39",
+      "subject": "Schools that outlaw on-line searches of library catalogs",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

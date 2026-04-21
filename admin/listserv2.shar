@@ -1,0 +1,918 @@
+#!/bin/sh
+# This is a shell archive (produced by shar 3.49)
+# To extract the files from this archive, save it to a file, remove
+# everything above the "!/bin/sh" line above, and type "sh file_name".
+#
+# made 06/20/1991 16:46 UTC by aem@mthvax.cs.miami.edu
+# Source directory /tempf/aem/system/listserv
+#
+# existing files will NOT be overwritten unless -c is specified
+#
+# This shar contains:
+# length  mode       name
+# ------ ---------- ------------------------------------------
+#   1951 -r--r--r-- README
+#    729 -r--r--r-- Makefile
+#    303 -r--r--r-- listserv.h
+#   1638 -r--r----- commands.c
+#   4708 -r--r----- main.c
+#    487 -r--r--r-- str.c
+#   3631 -r--r----- subscribe.c
+#   2319 -rw------- example-files/HELP
+#   1552 -rw-r--r-- example-files/info-hams.info
+#   1011 -rw-r--r-- example-files/packet-radio.info
+#
+# ============= README ==============
+if test -f 'README' -a X"$1" != X"-c"; then
+	echo 'x - skipping README (File already exists)'
+else
+echo 'x - extracting README (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'README' &&
+$Header: /tempf/aem/listserv/RCS/README,v 1.2 91/06/17 16:56:53 aem Exp $
+$Log:	README,v $
+# Revision 1.2  91/06/17  16:56:53  aem
+# added installation instructions
+# 
+# Revision 1.1  91/06/17  15:31:52  aem
+# Initial revision
+# 
+X
+This is the UCSD listserv program, which I retrieved from ucsd.edu by
+anonymous ftp.  As retrieved, it consisted of the following files:
+X
+Makefile
+commands.c
+listserv.h
+main.c
+str.c
+subscribe.c
+X
+I've made a couple minor changes, to make it slightly less
+UCSD-specific. I've also added this README, and example files in the
+subdirectory example-files
+X
+INSTALLATION:
+X
+1) Set up the variables in listserv.h and Makefile to suit your site.
+X
+2) Compile the programs. Everything compiled on my MicroVax II running
+ULTRIX 3.0 without any problem at all. Your results may vary.
+X
+3) Create your SERVDIR wherever you specified in step 1. Install a HELP
+file, perhaps using the example-files/HELP in this directory as a template.
+X
+4) For each mailing list you will serve, create a name.info file giving
+a bit of information about that mailing list. see the *.info files in
+the example-files subdirectory.
+X
+5) Create a name file in the same directory, consisting of email
+addresses one to a line of subscribers to a group. If it is for a
+brand-new group, create an empty file. Remember that this file must be
+writable by the mail daemon.
+X
+6) set up an alias in your /etc/aliases that points to this program, for
+example:
+X
+listserv:	"|/usr/local/mail/listserv"
+X
+7) Depending on how you have your mailing lists set up, you may need to
+add an alias to the /etc/aliases file for each of the mailing lists. For
+example:
+X
+real-recipes: :include:/usr/local/mail/maillists/recipes
+X
+So sending mail to real-recipes actually goes to each of the subscribers
+listed in /usr/local/mail/maillists/recipes
+X
+8) Install listserv in the appropriate directory.
+X
+9) Run newaliases to get sendmail to read the changes in /etc/aliases.
+X
+10) Try it out.
+X
+SHAR_EOF
+chmod 0444 README ||
+echo 'restore of README failed'
+Wc_c="`wc -c < 'README'`"
+test 1951 -eq "$Wc_c" ||
+	echo 'README: original size 1951, current size' "$Wc_c"
+fi
+# ============= Makefile ==============
+if test -f 'Makefile' -a X"$1" != X"-c"; then
+	echo 'x - skipping Makefile (File already exists)'
+else
+echo 'x - extracting Makefile (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'Makefile' &&
+#
+# Makefile for UCSD listserv
+#
+# $Header: /tempf/aem/listserv/RCS/Makefile,v 1.4 91/06/17 17:06:34 aem Exp $
+X
+CC = cc
+CFLAGS = -g
+INSTALLDIR = /usr/local/mail
+X
+all:	listserv
+X
+install:	all
+X	install -c -m 2711 -g mail listserv $(INSTALLDIR)
+X
+listserv:	main.o commands.o subscribe.o str.o
+X	$(CC) -O -o listserv main.o commands.o subscribe.o str.o
+X
+main.o:	main.c listserv.h
+X	$(CC) -c $(CFLAGS) main.c
+X
+commands.o:	commands.c listserv.h
+X	$(CC) -c $(CFLAGS) commands.c
+X
+subscribe.o:	subscribe.c listserv.h
+X	$(CC) -c $(CFLAGS) subscribe.c
+X
+str.o:	str.c
+X	$(CC) -c $(CFLAGS) str.c
+X
+clean:
+X	@rm -f listserv main.o commands.o subscribe.o str.o core
+X
+shar:
+X	@rm -f listserv.shar
+X	shar README Makefile *.h *.c example-files >listserv.shar
+SHAR_EOF
+chmod 0444 Makefile ||
+echo 'restore of Makefile failed'
+Wc_c="`wc -c < 'Makefile'`"
+test 729 -eq "$Wc_c" ||
+	echo 'Makefile: original size 729, current size' "$Wc_c"
+fi
+# ============= listserv.h ==============
+if test -f 'listserv.h' -a X"$1" != X"-c"; then
+	echo 'x - skipping listserv.h (File already exists)'
+else
+echo 'x - extracting listserv.h (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'listserv.h' &&
+#include <stdio.h>
+#include <strings.h>
+#include <ctype.h>
+#include <sys/file.h>
+X
+#define MAILER	"/usr/lib/sendmail"
+#define HELPFILE	"/usr/local/mail/maillists/HELP"
+#define SERVDIR	"/usr/local/mail/maillists"
+#define LOGFILE	"/var/adm/listserv.log"
+#define POSTMASTER "postmaster@mthvax.cs.miami.edu"
+SHAR_EOF
+chmod 0444 listserv.h ||
+echo 'restore of listserv.h failed'
+Wc_c="`wc -c < 'listserv.h'`"
+test 303 -eq "$Wc_c" ||
+	echo 'listserv.h: original size 303, current size' "$Wc_c"
+fi
+# ============= commands.c ==============
+if test -f 'commands.c' -a X"$1" != X"-c"; then
+	echo 'x - skipping commands.c (File already exists)'
+else
+echo 'x - extracting commands.c (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'commands.c' &&
+#include "listserv.h"
+X
+extern FILE *msg;
+extern FILE *mailer;
+X
+sendhelp(from,request)
+char *from, *request;
+X	{
+X	printf("called sendhelp with %s %s\n", from, request);
+X	callmailer("", from, request);
+X	mailcat(HELPFILE,"");
+X	pclose(mailer);
+X	return;
+X	}
+X
+listhelp(from,grp,request)
+char *from,*grp,*request;
+X	{
+X	char tmp[128];
+X	printf("called listhelp with %s %s %s\n", from,grp,request);
+X
+X	sprintf(tmp,"%s/%s.info", SERVDIR, grp);
+X	if (access(tmp,R_OK) != 0)
+X		{
+X		callmailer("", from, request);
+X		fprintf(mailer,"The mailing list \"%s\" could not be found.\n",
+X			grp);
+X		fprintf(mailer,"You may use the INDEX command to get a listing\n");
+X		fprintf(mailer,"of available mailing lists.\n");
+X		fflush(mailer);
+X		pclose(mailer);
+X		return;
+X		}
+X
+X	callmailer("", from, request);
+X	fprintf(mailer,"Mailing list \"%s\":\n", grp);
+X	mailcat(tmp,"\t");
+X	pclose(mailer);
+X	return;
+X	}
+X
+sendindex(from,request,l)
+char *from,*request;
+int l;
+X	{
+X	FILE *ls;
+X	char tmp[128];
+X	char buf[128];
+X	int i;
+X	printf("called sendindex with %s %s %d\n", from,request,l);
+X
+X	sprintf(tmp,"cd %s; ls *.info | sed -e 's/.info//", SERVDIR);
+X	ls = popen(tmp,"r");
+X	if (ls == NULL)
+X		{
+X		perror(tmp);
+X		exit(1);
+X		}
+X	callmailer("", from, request);
+X	fprintf(mailer,"Index of mailing lists\n");
+X
+X	/* read the result of the ls */
+X	while (fgets(tmp, sizeof(tmp), ls))
+X		{
+X		while (tmp[(i=strlen(tmp)-1)] == '\n')
+X			tmp[i] = '\0';
+X		fprintf(mailer, "%s\n", tmp);
+X
+X		/* if he wanted the long listing, cat the .info file */
+X		if (l)
+X			{
+X			sprintf(buf, "%s/%s.info", SERVDIR, tmp);
+X			mailcat(buf,"\t");
+X			fprintf(mailer, "\n");
+X			}
+X		}
+X	pclose(ls);
+X	pclose(mailer);
+X	return;
+X	}
+X
+SHAR_EOF
+chmod 0440 commands.c ||
+echo 'restore of commands.c failed'
+Wc_c="`wc -c < 'commands.c'`"
+test 1638 -eq "$Wc_c" ||
+	echo 'commands.c: original size 1638, current size' "$Wc_c"
+fi
+# ============= main.c ==============
+if test -f 'main.c' -a X"$1" != X"-c"; then
+	echo 'x - skipping main.c (File already exists)'
+else
+echo 'x - extracting main.c (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'main.c' &&
+#include "listserv.h"
+static char rcsid[] = "$Header: /tempf/aem/listserv/RCS/main.c,v 1.2 91/06/17 16:45:39 aem Exp $";
+X
+FILE *mailer;
+FILE *logfile;
+X
+main(argc,argv)
+int argc;
+char **argv;
+X	{
+X	char from[256];
+X	char buf[BUFSIZ];
+X	char grp[64];
+X	char dat[64];
+X	char *p;
+X	int i;
+X	int gotcommand = 0;
+X	int inheader;
+X
+X	/* gotta have some default if the From: line is missing */
+X	strcpy(from, "Postmaster");
+X
+X	inheader = 1;
+X	while (fgets(buf,BUFSIZ,stdin) != NULL)
+X		{
+X		/* drop trailing newline */
+X		while (buf[(i=strlen(buf)-1)] == '\n')
+X			buf[i] = '\0';
+X
+X		/* drop trailing blanks */
+X		p = buf + (strlen(buf) - 1);
+X		while (p && *p && p >= buf && isspace(*p))
+X			*p-- = '\0';
+X
+X		/* deblank beginning of line */
+X		p = buf;
+X		while (p && *p && isspace(*p))
+X			p++;
+X		if (p != buf)
+X			strcpy(buf, p);
+X
+X		if (strlen(buf) == 0)	/* blank line ends header */
+X			{
+X			inheader = 0;
+X			continue;
+X			}
+X		
+X		/*
+X		get the From: line so we can return the answer
+X
+X		Note that we DON'T check that we're in the header when
+X		picking up the From: line; that's so that we'll take the
+X		last from line we encounter which makes it handle
+X		forwarded messages correctly.
+X		*/
+X		if (strncasecmp(buf,"From: ",6) == 0)
+X			{
+X			strcpy(from, &buf[6]);
+X			cleanup(from);
+X			continue;
+X			}
+X		
+X		/* 
+X		don't look for commands in the header 
+X		*/
+X		if (inheader)
+X			continue;
+X		
+X		/* avoid mail loops - ignore requests from ourself! */
+X		if (!strncasecmp(from, "listserv", 8))
+X			{
+X			printf("I refuse to talk to myself.\n");
+X			exit(0);
+X			}
+X
+X		/* force to lower case and scan for commands */
+X		p = buf;
+X		while (p && *p)
+X			{
+X			if (isupper(*p))
+X				*p = tolower(*p);
+X			p++;
+X			}
+X		
+X		/* log the request */
+X		logfile = fopen(LOGFILE,"a");
+X		if (logfile != NULL)
+X			{
+X			long clock = time(0);
+X			strcpy(dat,ctime(&clock));
+X			/* drop trailing newline */
+X			while (dat[(i=strlen(dat)-1)] == '\n')
+X				dat[i] = '\0';
+X			printf("logfile: %s|%s|%s\n", dat, from, buf);
+X			fprintf(logfile,"%s|%s|%s\n", dat, from, buf);
+X			fflush(logfile);
+X			fclose(logfile);
+X			}
+X		else
+X			perror(LOGFILE);
+X		
+X		if (!strncasecmp(buf,"add ", 4)
+X		|| !strncasecmp(buf,"subscribe ", 10))
+X			{
+X			gotcommand++;
+X			subscription(from,buf,1);
+X			continue;
+X			}
+X		
+X		if (!strncasecmp(buf,"delete ", 7)
+X		|| !strncasecmp(buf,"unsubscribe ", 12))
+X			{
+X			gotcommand++;
+X			subscription(from,buf,0);
+X			continue;
+X			}
+X		
+X		if (!strcasecmp(buf,"index")
+X		|| !strcasecmp(buf,"longindex"))
+X			{
+X			gotcommand++;
+X			sendindex(from,buf,!strcasecmp(buf,"longindex"));
+X			continue;
+X			}
+X		
+X		if (!strcasecmp(buf,"help"))
+X			{
+X			gotcommand++;
+X			sendhelp(from,buf);
+X			continue;
+X			}
+X		
+X		if (!strncasecmp(buf,"help ",5))
+X			{
+X			gotcommand++;
+X			sscanf(buf,"%*s%s", grp);
+X			listhelp(from,grp,buf);
+X			continue;
+X			}
+X		}
+X	if (gotcommand == 0)
+X		sendhelp(from, "indecipherable");
+X	}
+X
+callmailer(redirect, toaddr, request)
+char *redirect, *toaddr, *request;
+X	{
+X	char cbuf[BUFSIZ];
+X
+X	printf("callmailer \"%s\",\"%s\",\"%s\"\n", redirect, toaddr, request);
+X
+X	strcpy(cbuf, MAILER);
+X	strcat(cbuf, " -f");
+X	strcat(cbuf, POSTMASTER);
+X	strcat(cbuf, " -F\"Mailing List Processor\"");
+X	strcat(cbuf, " -t -oi"); 
+X	strcat(cbuf, " "); strcat(cbuf, redirect);
+X	mailer = popen(cbuf,"w");
+X	printf("mailer popen '%s'\n", cbuf);
+X	if (mailer == NULL)
+X		{
+X		perror(cbuf);
+X		exit(1);
+X		}
+X	fprintf(mailer,"From: %s (Mailing List Processor)\n",POSTMASTER);
+X	fprintf(mailer,"To: %s\n", toaddr);
+X	fprintf(mailer,"Subject: Re: your LISTSERVE request \"%s\"\n", request);
+X	fprintf(mailer,"\n");
+X	}
+X
+mailcat(mfname,prefix)
+char *mfname, *prefix;
+X	{
+X	FILE *mf;
+X	char buf[BUFSIZ];
+X
+X	printf("mailcat \"%s\", \"%s\"\n", mfname, prefix);
+X
+X	mf = fopen(mfname,"r");
+X	if (mf == NULL)
+X		{
+X		perror(mfname);
+X		fprintf(mailer,"This should have been the contents of\n");
+X		fprintf(mailer,"file '%s' but it's missing!\n",mfname);
+X		return;
+X		}
+X
+X	/* copy the message file into the mailer */
+X	while (fgets(buf,BUFSIZ,mf) != NULL)
+X		{
+X		fputs(prefix,mailer);
+X		fputs(buf,mailer);
+X		}
+X	fclose(mf);
+X	return;
+X	}
+X
+cleanup(from)
+char *from;
+X	{
+X	char *p, *q;
+X
+X	printf("cleanup \"%s\"\n", from);
+X
+X	while (p = index(from,'~'))
+X		*p = 'X';
+X
+X	while (p = index(from,'/'))
+X		*p = 'X';
+X
+X	while (p = index(from,'|'))
+X		*p = 'X';
+X
+X	/* elide stuff in parenthesis */
+X	if (p = index(from,'('))
+X		{
+X		if ( (q=index(from,')')) == NULL)
+X			{
+X			/* zap the from line; it's invalid */
+X			*p = '\0';
+X			return;
+X			}
+X		strcpy(p, q+1);
+X		}
+X
+X	if (p = index(from,'<'))
+X		{
+X		if ( (q=index(from,'>')) == NULL)
+X			{
+X			/* zap the from line; it's invalid */
+X			*p = '\0';
+X			return;
+X			}
+X		*q = '\0';
+X		strcpy(from, p+1);
+X		}
+X
+X	/* drop trailing blanks */
+X	p = from + (strlen(from) - 1);
+X	while (p && *p && p >= from && isspace(*p))
+X		*p-- = '\0';
+X	}
+SHAR_EOF
+chmod 0440 main.c ||
+echo 'restore of main.c failed'
+Wc_c="`wc -c < 'main.c'`"
+test 4708 -eq "$Wc_c" ||
+	echo 'main.c: original size 4708, current size' "$Wc_c"
+fi
+# ============= str.c ==============
+if test -f 'str.c' -a X"$1" != X"-c"; then
+	echo 'x - skipping str.c (File already exists)'
+else
+echo 'x - extracting str.c (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'str.c' &&
+#include <ctype.h>
+X
+strcasecmp(a,b)
+char *a, *b;
+X	{
+X	char *p;
+X	p = a;
+X	while (p && *p)
+X		{
+X		if (isupper(*p))
+X			*p = tolower(*p);
+X		p++;
+X		}
+X	p = b;
+X	while (p && *p)
+X		{
+X		if (isupper(*p))
+X			*p = tolower(*p);
+X		p++;
+X		}
+X	return(strcmp(a,b));
+X	}
+strncasecmp(a,b,n)
+char *a, *b;
+int n;
+X	{
+X	char *p;
+X	p = a;
+X	while (p && *p)
+X		{
+X		if (isupper(*p))
+X			*p = tolower(*p);
+X		p++;
+X		}
+X	p = b;
+X	while (p && *p)
+X		{
+X		if (isupper(*p))
+X			*p = tolower(*p);
+X		p++;
+X		}
+X	return(strncmp(a,b,n));
+X	}
+SHAR_EOF
+chmod 0444 str.c ||
+echo 'restore of str.c failed'
+Wc_c="`wc -c < 'str.c'`"
+test 487 -eq "$Wc_c" ||
+	echo 'str.c: original size 487, current size' "$Wc_c"
+fi
+# ============= subscribe.c ==============
+if test -f 'subscribe.c' -a X"$1" != X"-c"; then
+	echo 'x - skipping subscribe.c (File already exists)'
+else
+echo 'x - extracting subscribe.c (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'subscribe.c' &&
+#include "listserv.h"
+static char rcsid[] = "$Header: /tempf/aem/system/listserv/RCS/subscribe.c,v 1.2 91/06/18 14:08:02 aem Exp $";
+X
+extern FILE *msg;
+extern FILE *mailer;
+X
+subscription(from,command,add)
+char *from,*command;
+int add;
+X	{
+X	FILE *list;
+X	FILE *listtmp;
+X	char grp[256];
+X	char adr[256];
+X	char tmp[256];
+X	char buf[BUFSIZ];
+X	int del = 0;
+X	int i;
+X
+X	printf("subscription %s %s %d\n", from, command, add);
+X
+X	i = sscanf(command,"%s%s%s", tmp, adr, grp);
+X	if (i < 2 || i > 3)
+X		{
+X		callmailer("", from, command);
+X		fprintf(mailer,"Your command\n");
+X		fprintf(mailer,"\t%s\n", command);
+X		fprintf(mailer,"could not be understood.  Correct syntax is\n");
+X		fprintf(mailer,"\tADD listname\n");
+X		fprintf(mailer,"\tADD mailbox listname\n");
+X		fprintf(mailer,"\tDELETE listname\n");
+X		fprintf(mailer,"\tDELETE mailbox listname\n");
+X		fflush(mailer);
+X		pclose(mailer);
+X		return(-1);
+X		}
+X
+X	if (i == 2)
+X		{
+X		strcpy(grp, adr);
+X		strcpy(adr, from);
+X		}
+X	
+X	cleanup(grp);
+X	cleanup(adr);
+X
+X	sprintf(tmp,"%s/%s.info", SERVDIR, grp);
+X	if (access(tmp,R_OK) != 0)
+X		{
+X		callmailer("", from, "");
+X		fprintf(mailer,"The mailing list \"%s\" could not be found.\n",
+X			grp);
+X		fprintf(mailer,"You may use the INDEX command to get a listing\n");
+X		fprintf(mailer,"of available mailing lists.\n");
+X		fflush(mailer);
+X		pclose(mailer);
+X		return(-1);
+X		}
+X
+X	strcpy(tmp, SERVDIR);
+X	strcat(tmp, "/");
+X	strcat(tmp, grp);
+X	if (add)
+X		{
+X		list = fopen(tmp, "a");
+X		if (list == NULL)
+X			{
+X			callmailer("Postmaster", from, "");
+X			fprintf(mailer,"Couldn't add per request. (Error[1]) Please try later.\n");
+X			fprintf(mailer,">%s\n", command);
+X			fflush(mailer);
+X			pclose(mailer);
+X			return(-1);
+X			}
+X		flock(fileno(list), LOCK_EX);
+X		fprintf(list, "%s\n", adr);
+X		fflush(list);
+X		flock(fileno(list), LOCK_UN);
+X		fclose(list);
+X		}
+X	else
+X		{
+X		del = 0;
+X		list = fopen(tmp, "r");
+X		if (list == NULL)
+X			{
+X			callmailer("Postmaster", from, "");
+X			fprintf(mailer,"Couldn't read subscription list.  (Error[2]). Please try later.\n");
+X			fprintf(mailer,">%s\n", command);
+X			fflush(mailer);
+X			pclose(mailer);
+X			return(-1);
+X			}
+X		flock(fileno(list), LOCK_EX);
+X		fprintf(list, "%s\n", adr);
+X
+X		strcpy(tmp, SERVDIR);
+X		strcat(tmp, "/");
+X		strcat(tmp, grp);
+X		strcat(tmp, ".tmp");
+X		listtmp = fopen(tmp, "w");
+X		if (listtmp == NULL)
+X			{
+X			callmailer("Postmaster", from, "");
+X			fprintf(mailer,"Couldn't write subscription list (Error[3]). Please try later.\n");
+X			fprintf(mailer,">%s\n", command);
+X			fflush(mailer);
+X			pclose(mailer);
+X			return(-1);
+X			}
+X		/* copy the list, omitting the one address */
+X		while (fgets(buf, sizeof(buf), list))
+X			{
+X			buf[strlen(buf)-1] = '\0';
+X			if (strcasecmp(buf, adr))
+X				{
+X				fputs(buf, listtmp);
+X				fputs("\n", listtmp);
+X				}
+X			else
+X				del++;
+X			}
+X		fflush(listtmp);
+X		fclose(listtmp);
+X
+X		/* replace the old list with the shortened one */
+X		strcpy(buf, SERVDIR);
+X		strcat(buf, "/");
+X		strcat(buf, grp);
+X		unlink(buf);	/* delete original file */
+X		rename(tmp, buf);	/* put updated one in place */
+X		flock(fileno(list), LOCK_UN);	/* release lock */
+X		}
+X
+X	if (strcmp(from, adr))
+X		{
+X		callmailer(adr, from, command);
+X		fprintf(mailer,"Per request by %s\n", from);
+X		}
+X	else
+X		{
+X		callmailer("", from, command);
+X		fprintf(mailer,"Per your request\n");
+X		}
+X	fprintf(mailer,"\t\"%s\"\n", command);
+X	if (add)
+X		fprintf(mailer,"'%s' was ADDED to the '%s' mailing list.\n",
+X			adr, grp);
+X	else
+X		if (del)
+X			fprintf(mailer,
+X			"'%s' was DELETED from the '%s' mailing list.\n",
+X				adr, grp);
+X		else
+X			fprintf(mailer,
+X			"'%s' was NOT FOUND on the '%s' mailing list.\n",
+X				adr, grp);
+X	fflush(mailer);
+X	pclose(mailer);
+X	}
+SHAR_EOF
+chmod 0440 subscribe.c ||
+echo 'restore of subscribe.c failed'
+Wc_c="`wc -c < 'subscribe.c'`"
+test 3631 -eq "$Wc_c" ||
+	echo 'subscribe.c: original size 3631, current size' "$Wc_c"
+fi
+# ============= example-files/HELP ==============
+if test ! -d 'example-files'; then
+    echo 'x - creating directory example-files'
+    mkdir 'example-files'
+fi
+if test -f 'example-files/HELP' -a X"$1" != X"-c"; then
+	echo 'x - skipping example-files/HELP (File already exists)'
+else
+echo 'x - extracting example-files/HELP (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'example-files/HELP' &&
+X
+You can subscribe or unsubscribe to any of the various campus mailing
+lists and the local redistributions of global mailing lists by sending
+email to "listserv@mthvax.cs.miami.edu".  The commands understood by 
+the listserv program are:
+X
+HELP
+X	lists this file.  This is also sent whenever a message to
+X	listserv is received from which no valid command could be
+X	parsed.
+X
+HELP groupname
+X	lists a brief description of the group requested.
+X
+INDEX
+X	lists all the groups available for subscription.
+X
+LONGINDEX
+X	lists all the groups and their descriptions.
+X
+ADD listname	 
+DELETE listname	
+X
+ADD address listname	 
+DELETE address listname	
+X	adds or deletes the given address to or from the list
+X	specified.  Mail is sent to the address given to confirm
+X	the add or delete operation.  We strongly recommend that
+X	you use your campus registered mailname when subscribing
+X	(i.e., use the second form of the command which includes
+X	a specification of the address).  If you omit the 'address'
+X	the command will assume the mailbox that is in the From:
+X	line of the message.  Note that SUBSCRIBE is a synonym for
+X	ADD; UNSUBSCRIBE for DELETE.
+X
+A command must be the first word on each line in the message.  Lines
+which do not start with a command word are ignored.  If no commands were
+found in the entire message, this help file will be returned to the
+user.  A single message may contain multiple commands; a separate
+response will be sent for each.
+X
+Please note that is IS possible to add or delete someone else's
+subscription to a mailing list.  This facility is provided so that
+subscribers may alter their own subscriptions from a new or different
+computer account.  There is therefore some potential for abuse; we
+have chosen to limit this by mailing a confirmation notification
+of any addition or deletion to the address added or deleted including
+a copy of the message which requested the operation.  At least you
+can find out who's doing it to you.
+X
+Examples:
+X
+X	add sunusers
+X
+X	add ewombat foodlovers
+X
+X	delete wombat@miami.miami.edu connectionists
+X
+X	help eggbeaters
+X
+Note that although you would mail submissions to a campus mailing list by
+addressing mail to e.g., sunflash@mthvax.cs.miami.edu, in a
+subscription request you specify the name of the list simply (without
+the @hostname part) as in the first example above.
+X
+SHAR_EOF
+chmod 0600 example-files/HELP ||
+echo 'restore of example-files/HELP failed'
+Wc_c="`wc -c < 'example-files/HELP'`"
+test 2319 -eq "$Wc_c" ||
+	echo 'example-files/HELP: original size 2319, current size' "$Wc_c"
+fi
+# ============= example-files/info-hams.info ==============
+if test -f 'example-files/info-hams.info' -a X"$1" != X"-c"; then
+	echo 'x - skipping example-files/info-hams.info (File already exists)'
+else
+echo 'x - extracting example-files/info-hams.info (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'example-files/info-hams.info' &&
+info-hams
+X			Welcome to Info-Hams!
+X	You are invited to send comments and queries regarding Ham Radio
+X	operation and related subjects to Info-Hams@UCSD.EDU
+X	
+X	To subscribe or unsubscribe, send mail to "listserv@ucsd.edu".
+X	
+X	If you wish to discuss matters dealing solely with the operation of the
+X	Info-Hams mailing list (mail delivery problems, policy questions,
+X	etc.), please address such correspondence to Info-Hams-Relay@UCSD.EDU.
+X	
+X	The mail archives on UCSD.EDU (available by anonymous ftp) for this
+X	list are:
+X		mailarchives/info-hams/Vyy.nn for the current messages
+X		mailarchives/info-nams/yymm.n-TXT for the older messages
+X	
+X	You will note most files have a .Z at the end of the filetype.  These
+X	are compressed with a Unix-compatible compress program.  They should
+X	FTP'd in binary mode.
+X	
+X	The mailing list is in the form of a digest.  It is not edited, just a
+X	convenient envelope for multiple messages to reduce netmail load.
+X	------------
+X	Attention BITNET PEOPLE:
+X	You may delete yourself from the list by sending the command:
+X	      SIGNOFF DIST-HAM
+X	to LISTSERV@RPIECS.
+X	You may add yourself to the list by sending the following command:
+X	      SUBSCRIBE DIST-HAM your full name
+X	to LISTSERV@RPIECS.  You can send these interactively if your system
+X	supports that (e.g. the CMS TELL command), or in the body of a mail message
+X	(*not* the subject line).
+X	
+X	Although you'll be receiving Info-Hams mailing from the network address
+X	DIST-HAM@RPIECS, Info-Hams@UCSD.EDU is the source.  Any contributions
+X	from you should be sent to UCSD.
+X
+SHAR_EOF
+chmod 0644 example-files/info-hams.info ||
+echo 'restore of example-files/info-hams.info failed'
+Wc_c="`wc -c < 'example-files/info-hams.info'`"
+test 1552 -eq "$Wc_c" ||
+	echo 'example-files/info-hams.info: original size 1552, current size' "$Wc_c"
+fi
+# ============= example-files/packet-radio.info ==============
+if test -f 'example-files/packet-radio.info' -a X"$1" != X"-c"; then
+	echo 'x - skipping example-files/packet-radio.info (File already exists)'
+else
+echo 'x - extracting example-files/packet-radio.info (Text)'
+sed 's/^X//' << 'SHAR_EOF' > 'example-files/packet-radio.info' &&
+packet-radio
+X	The packet-radio mailing list; gatewayed to/from the USENET newsgroup
+X	rec.ham-radio.packet.
+X	
+X	SPECIAL NOTE FOR BITNET PEOPLE: UCSD.EDU is an internet site.  The
+X	Internet-to-BITNET mail gateway systems would prefer that you instead
+X	add yourself to a BITNET redistribution of this list; you may add
+X	yourself to the list by sending the following command:
+X	
+X	      SUBSCRIBE I-PACRAD your full name
+X	
+X	to LISTSERV@UIUCVMD.  You can send that interactively if your system
+X	supports that (e.g. the CMS TELL command), or in the body of a mail
+X	message (*not* the subject line).
+X	
+X	Please note:  Although you'll be receiving the Packet-Radio mailing
+X	from the network address I-PACRAD@UIUCVMD, Packet-Radio@UCSD.Edu is the
+X	source.  Any contributions from you should be sent to UCSD.
+X	
+X	Problems, comments, complaints can be sent to me at the address below.
+X	
+X	The mailing list is in the form of a digest.  It is not edited, just
+X	a convenient envelope for multiple messages to reduce netmail load.
+X
+SHAR_EOF
+chmod 0644 example-files/packet-radio.info ||
+echo 'restore of example-files/packet-radio.info failed'
+Wc_c="`wc -c < 'example-files/packet-radio.info'`"
+test 1011 -eq "$Wc_c" ||
+	echo 'example-files/packet-radio.info: original size 1011, current size' "$Wc_c"
+fi
+exit 0

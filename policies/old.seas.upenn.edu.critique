@@ -1,0 +1,373 @@
+!!!Article: 3485 of alt.comp.acad-freedom.talk
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Policy of School of Engineering at the U. of Pennsylvania
+Originator: kadie@eff.org
+Sender: kadie
+Nntp-Posting-Host: eff.org
+Organization: EFF mail-news gateway
+Date: Mon, 2 Mar 1992 09:46:47 GMT
+Approved: usenet@eff.org
+Lines: 358
+
+This is a critique of the current policy for the main timesharing
+system for the School of Engineering and Applied Science at the
+University of Pennsylvania. The policy is being revised. The revision
+is expected this summer. Eniac is the hostname of the system. The
+University of Pennsylvania is a private university.
+
+> CETS  staff
+> will only  view users' files  under exceptional  circumstances, such as  the
+> appearance  of abuse.
+
+I suggest providing more detail here. One approach is to find the
+University's general privacy/search policy and apply it the computer
+system. This will 1) help you outline the procedure for breaching
+user's privacy with a search 2) keep you consistent with general
+university policy 3) keep you consistent with the law.
+
+> Since our university connection
+> can be terminated  by Internet authorities if  there is evidence of  abusive
+> use of  the connection,  CETS is very  strict about  even the appearance  of
+> abuse.
+
+I suggest removing the words "even the appearance of". To leave it in
+suggests that users can be punished for nonabuse.
+
+[...]
+> Shared Resources:
+> Eniac and its  network connections are shared resources.   Using eniac  is a
+> privilege which gives us computational abilities,  world-wide communication,
+> and  much more.    However, it  is a  fragile  system which  depends on  the
+> honesty of its users.   Every user is involved in preserving  and protecting
+> the system.
+[...]
+
+I suggest changing the "Using eniac is a privilege" sentence to read
+"Eniac gives us computational abilities, ...". Saying that it is a
+privilege suggests that a user can be expelled from the computer
+without due process.
+
+
+>	d) violates the intellectual property of computer programs or
+>	   electronic information, including plagiarism and unauthorized use
+>	   or reproduction.
+
+This wording is awkward. It makes it sound as though computers
+programs own intellectual property.
+
+>   The University of Pennsylvania defines as unethical any activity which
+>purposefully or through negligence:
+[...]
+>	e) wastes resources (human or electronic) through such actions.
+
+The phrase "through such actions" is redundant.
+
+Here are some misc. comments:
+
+Suggested Additions (based on the Draft Statement
+on Computers and Academic Freedom, which I am enclosing):
+
+What happens if a student or faculty member violates the policy? This
+should be spelled out. The easiest method of offering due process may
+be to tie into the University's disciplinary system.
+
+How do the University's general policies on privacy and freedom of
+expression apply to your computer system? You may want to make this
+explicit.
+
+- Carl
+
+===============excerpt from ftp.eff.org:pub/academic/caf-statement===========
+
+This is an attempt to codify the application of academic freedom to
+academic computers. It reflects our seven months of on-line discussion
+about computers and academic freedom. It is made up of two kinds of
+statements. The first, labeled as principles, are premises. The
+second, labeled as interpretations, are conclusions drawn from the
+principles.
+
+The two kinds of statements can be thought of as axioms and theorems.
+An axiom (principle) is most likely to be criticized for being
+unreasonable. A theorem (interpretation) is mostly likely to be
+criticized for not following from the principles.
+
+Comments and suggestions are very welcome (especially when posted to
+CAF-talk). On the documents referenced are available on-line. Access
+information is at the end of this note.
+
+- Carl
+
+-------------------------------------------
+I. General
+
+Principle: The principles of academic freedom apply to academic
+computer systems. Computer polices should be consistent with general
+university codes and widely accepted statements on academic freedom
+such as the Joint Statement on Rights and Freedoms of Students.
+
+II. Policy Formulation
+
+Interpretation: "The institution has an obligation to clarify those
+standards of behavior which it considers essential to its educational
+mission and its community life. These general behavioral expectations
+and the resultant specific regulations should represent a reasonable
+regulation of [user] conduct, but the [user] should be as free as
+possible from imposed limitations that have no direct relevance to his
+education. Offenses should be as clearly defined as possible and
+interpreted in a manner consistent with the aforementioned principles
+of relevance and reasonableness. Disciplinary proceedings should be
+instituted only for violations of standards of conduct formulated with
+significant [user] participation and published in advance through such
+means as a [user] handbook or a generally available body of
+institutional regulations." [Joint Statement]
+
+II. Student and Faculty Discipline
+
+Principle: Suspension or expulsion from a computer is a serious
+penalty. Users facing these penalties should be given due process
+protection similar to that given to those facing other serious
+penalties such as a formal disciplinary warning, a failing grade for
+cheating, or suspension from class.
+
+Interpretation: "Pending action on the charges, the status of a [user]
+should not be altered, or his [or her] right to be present on the
+campus and to attend classes [and use computers] suspended, except for
+reasons relating to his physical or emotional safety and well being,
+or for reasons relating to the safety and well-being of students,
+faculty, or university property." [Joint Statement]
+
+III. Privacy
+
+Principle: Personal files on university's computers (for example,
+files in a user's home directory) should have the same privacy
+protection as personal files in university-assigned space in an
+office, lab, or dormitory (for example, files in a graduate student's
+desk). Private communications via computer should have the same
+protections as private communications via telephone.
+
+IV. Computer Expression
+
+Interpretation: "Academic institutions exist for the transmission of
+knowledge, the pursuit of truth, the development of students, and the
+general well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals its members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth." [Joint Statement]
+
+Principle: The principles of intellectual freedom developed by
+libraries should be applied to the administration of information
+material on computers. These principles are explained in such American
+Library Association documents as the Library Bill of Rights, the
+Freedom to Read Statement, and the Intellectual Freedom Statement.
+
+Interpretation: Computer sites that offer newsgroups should select
+newsgroups the way that traditional libraries select magazines and
+books.
+
+Interpretation: "Every [academic computer] system should have a
+comprehensive policy on the selection of [information] materials."
+[ALA Workbook for Selection Policy Writing]
+
+Interpretation: "Materials should not be proscribed or removed because
+of partisan or doctrinal disapproval" [Article 2, Library Bill of
+Rights].
+
+Principle: The principles of academic freedom applicable to student
+and faculty publication in traditional media, apply to student and
+faculty publication in computer media.
+
+Interpretation: An article or note posted by a student to a newsgroup
+is a student publication.
+
+Interpretation: "Student publications [and the publications of other
+users] are a valuable aid in establishing and maintaining an
+atmosphere of free and responsible discussion and of intellectual
+exploration on the campus.  They are a means of bringing [...]
+concerns to the attention of the faculty and the institutional
+authorities and of formulating [...] opinion on various issues on the
+campus and in the world at large." [Joint Statement]
+
+Interpretation: "The institutional control of campus facilities should
+not be used as a device of censorship." "[User publications] should be
+free of censorship and advance approval of copy ..." [Joint Statement]
+
+Interpretation: "All university published and financed [user]
+publications should explicitly state [...] that the opinions there
+expressed are not necessarily those of the college, university, or
+student body. [Joint Statement]
+
+-----------------------
+References
+
+Documents may be accessed via ftp (see the first line after the
+document title). They may also be accessed via email.  Send email to
+archive-server@eff.org. In the body of your note include the second
+line after the document title.
+
+Joint Statement on Rights and Freedom of Students
+  ftp.eff.org:pub/academic/student.rights
+  send acad-freedom student.rights
+
+Library Bill of Rights
+  ftp.eff.org:pub/academic/library/bill-of-rights.ala
+  send library-policies bill-of-rights.ala
+
+Freedom to Read Statement
+  ftp.eff.org:pub/academic/library/freedom-to-read.ala
+  send library-policies freedom-to-read.ala
+
+Intellectual Freedom Statement
+  ftp.eff.org:pub/academic/library/int-freedom.ala
+  send library-policies int-freedom.ala
+
+CAF Archive's README file
+  ftp.eff.org:pub/academic/README
+  send acad-freedom README
+
+=============== ftp.eff.org:pub/academic/faq/policy ===============
+q: What guidance is there for creating or evaluating a computer policy?
+
+a: The first thing to do is to get a copy of your university's Student
+Code. It often protects student and staff freedom of expression,
+privacy, and due process rights. It is not just a piece of paper; it
+is part of the legal contract between student and university. Any new
+policy must be consistent with this policy.
+
+You may also find the unofficial, draft Statement on Computers and
+Academic Freedom (CAF) useful. Also the CAF Archive contains the
+policies of many schools, some with critiques.
+
+Finally, you may wish to look at the CAF Law archive. Speech
+restrictions at public universities have been struck down consistently
+by recent federal courts. Also, the courts require due process before
+serious punishments can be applied to students.
+
+- Carl Kadie
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+caf-statement
+=================
+This is an attempt to codify the application of academic freedom to
+academic computers. It reflects our seven months of on-line discussion
+about computers and academic freedom.
+
+Comments and suggestions are very welcome (especially when posted to
+CAF-talk). All the documents referenced are available on-line.
+
+=================
+policies/README
+=================
+Computer Policy and Critiques Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is a collection of the computer policies of many schools and
+networks. The collection also includes critiques of some of the
+policies.
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/policies".
+For email access, send email to archive-server@eff.org. Include the
+line:
+  send other-comp-policies <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact Carl Kadie (kadie@eff.org). Directory "widener" contains
+additional policies (but not critiques).
+
+=================
+widener/README
+=================
+This directory is a mirror of ftp.cs.widener.edu:pub/cud/schools/*.
+It is a collection of the computer polices of many schools. For a
+description of the file see file "widener/Index". Also see directory
+"policies".
+
+=================
+law/README
+=================
+CAF Law Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of law related to computers and academic
+freedom. It includes both case law and legislation.
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/law".
+For email access, send email to archive-server@eff.org. Include the
+line:
+      send caf-law <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information or to make contributions, contact Carl Kadie
+(kadie@eff.org).
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+
+=================
+law/goss-v-lopez.fischer
+=================
+Comments from _Teacher's and the Law_, 3rd edition, by Louis Fischer,
+et al. Published in 1991 by Longman. It reports that the Supreme Court
+says that some modicum of due process is necessary unless the matter
+is trivial or there is an emergency.
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send acad-freeedom caf-statement
+  send other-comp-policies README
+  send widener-collected-comp-policies README
+  send caf-law README
+  send caf-law uwm-post-v-u-of-wisconsin
+  send caf-law goss-v-lopez.fischer
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.88.144.3) as file(s):
+  pub/academic/caf-statement
+  pub/academic/policies/README
+  pub/academic/widener/README
+  pub/academic/law/README
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/goss-v-lopez.fischer
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+

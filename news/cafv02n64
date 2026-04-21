@@ -1,0 +1,1351 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.64 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 64
+
+
+----------------------------------------------------------------------
+
+From: elee9sf@Menudo.UH.EDU (Karl Barrus)
+Subject: Article 0 -- Abstract of CAF-News 02.64
+
+Topics:
+
+   1      about a Secret Service Raid
+   2-4    on legal aspects of bulletin boards
+   5-6    on property rights
+   7-8    on chain letters
+   9      on pornography
+   10-11  on network policy
+   12     on censorship
+
+
+Abstract:
+
+[For the two weeks ending January 3, 1993
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+Note 1 is about a Secret Service Raid.
+
+1. The Secret Service seized computers from a dorm room at Texas Tech
+University, alleging the equipment was used to steal software over the
+Internet.  The three men involved were not arrested, but they are
+expected to be charged with computer crime, interstate transport of
+stolen property, and copyright infringement.  Texas Tech computer
+operators contacted the Secret Service after noting credit information
+in the software that was filling their data storage devices.  Although
+the USSS normally doesn't pursue software piracy, they do pursue using
+"using electronic access devices such as passwords in the commission
+of a crime".  The current investigation falls under a revision of
+copyright laws which allow felony charges to be brought against anyone
+who pirates more than 10 copies of copyrighted software.
+    <fwd.BzMzto.HC5@cs.uiuc.edu>
+
+Notes 2-4 are on legal aspects of bulletin boards.
+
+2. The legal aspects, rights, and responsibilities of computer users
+and system operators are addressed in SYSLAW, a book which attempts
+"to explore the gap between statutes and case law on the one side, and
+technological reality on the other."  The courts have yet to rule on
+many of these topics, so the authors approach answers with fundamental
+principles of constitutional and communications law, avoiding
+inventing the law where it doesn't exist.
+    <fwd.BzMzwC.HG5@cs.uiuc.edu>
+
+3. SYSLAW contains a comprehensive summary of legal liabilities and
+obligations of bulleting board operators, as well as a compendium of
+laws and practices relevant to all users.  Topics covered in the book
+include contracts, intellectual property, speech and the First
+Amendment, privacy, sysop liabilities, and sysop/user relations.
+Included are several federal statues on pornography, computer crime
+laws, and federal fraud and abuse acts.
+    <fwd.BzMzwK.HHB@cs.uiuc.edu>
+
+4. A sample BBS contract is provided, which includes: describing
+access and services available, price and payment accepted, system
+rules, privacy, editorial control, ownership of materials, limitation
+of liability and indemnity, choice of law (for out of state and
+foreign users), and general information.  In addition to stating do's
+and don'ts, the contract tries to explain or give justification for
+certain policies.
+    <fwd.BzMzwn.HI8@cs.uiuc.edu>
+
+Notes 5-6 are on property rights.
+
+5. Property rights apply to things government-owned or considered
+public property.  Thus, much like a private citizen or company, the
+administering agency of "public property" has the appropriate property
+rights over their system.  This is in relation to the CERT advisory on
+keystroke monitoring and whether it applies to private computer
+systems, public ones, or all systems.
+    <1992Dec22.150816.13247@qiclab.scn.rain.com>
+
+6. However, the government derives its rights from the people, who
+should have a say in what the policy concerning public property should
+be.  "If it's publicly funded the general public has a right to have a
+say on the policy."
+    <1992Dec22.235726.23374@nntp.hut.fi>
+
+Notes 7-8 are on chain letters.
+
+7. Deciding what is and what is not a chain letter is difficult to
+describe, but easy for a person to determine empirically.  Two workable
+definitions of a chain letter are: something equivalent to what the
+Post Office considers a chain letter; letter distribution solely for
+the sake of distributing the letter.
+    <1992Dec21.173054.18939@eff.org>
+
+8. It's pointless to use an absolute definition for chain letters
+since the definition will ultimately describe a particular chain
+letter, and not be broad enough to describe all chain letters.
+    <1992Dec23.030644.26358@pegasus.com>
+
+Note 9 is on pornography.
+
+9. Photography of child pornography itself should not be a crime,
+since it is merely the evidence of the crime.  Also, punishing the
+purchasers of such material doesn't punish the criminals themselves.
+Finally, FoxVog Douglas contends that there is little or not child
+pornography; rather, most distribution attempts are made by government
+agents for the purpose of entrapment.
+    <1992Dec23.123731.9243@ousrvr.oulu.fi>
+
+Notes 10-11 are on network policy.
+
+10. The NSF considered Dialog (a commercial user of ANS) as an
+acceptable research and education user, although Dialog would not
+guarantee that all their traffic would adhere to NSFNet Acceptable Use
+policies.  Also, Dialog's customers were never given the chance to
+pledge their user of Dialog would be research and education oriented.
+    <9212121748.AA06273@tmn.com>
+
+11. The NSF allows use of its NSFNet backbone to any information
+provider that states it expects the only use made of its resources
+will be in support of research and education.  However, the NSF asks
+the information provider to cooperate in tracking down violations when
+reported. 
+    <9212302019.AA06836@ncri>
+
+Note 12 is on censorship.
+
+12. A user at the University of Miami threatens to forward posts he
+considers offensive, racist, or intolerable to the poster's system
+administrator, for further action.
+    <1993Jan3.135950.14274@umiami.ir.miami.edu>
+
+- Karl]
+
+
+Contents:
+
+Joe Abernathy    86  File 2--Secret Service Raids Dorm
+Mike Riddle      78  File 4--SYSLAW (Review #1)
+Jim Thomas      126  File 5--SYSLAW (Review #2)
+Lance Rose      288  File 6--Model BBS/User Contract (from SYSLAW)
+Leonard Erickson 41  >CERT and the Dept. of Justice on keystroke monitoring
+Jyrki Kuoppala   48  >
+J S Greenfield   56  >Chain letters?
+Tom Leylan       39  >
+Foxvog Douglas  201  >[UPI] "FBI probes computer child porn at Cornell"
+Gordon Cook      38  What *IS* Current AUP Policy for Information Providers?
+Stephen Wolff    19  -
+                 35  DEADLINE TO STOP OBSCENE POSTINGS!
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: John F. Nixon (fnixon@sol.utc.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Dec 21 20:35:53 1992
+From: Joe.Abernathy@HOUSTON.CHRON.COM(Joe Abernathy)
+Subject: Article 1--File 2--Secret Service Raids Dorm
+Message-Id: <fwd.BzMzto.HC5@cs.uiuc.edu>
+
+Federal Agents Raid Dorm, Seize Computer Equipment
+By JOE ABERNATHY Copyright 1992, Houston Chronicle
+
+The Secret Service has raided a dorm room at Texas Tech University,
+seizing the computers of two Houston-area students who allegedly used
+an international computer network to steal computer software.
+
+Agents refused to release the names of the two area men and a third
+from Austin, who were not arrested in the late-morning raid Monday at
+the university in Lubbock. Their cases will be presented to a grand
+jury in January.
+
+They are expected to be charged with computer crime, interstate
+transport of stolen property and copyright infringement.
+
+"The university detected it," said Resident Agent R. David Freriks of
+the Secret Service office in Dallas, which handled the case. He said
+that Texas Tech computer system operators contacted the Secret Service
+when personal credit information was found mixed with the software
+mysteriously filling up their fixed-disk data storage devices.
+
+The raid is the first to fall under a much broader felony definition
+of computer software piracy that could affect many Americans. This
+October revision to the copyright law was hotly debated by computer
+experts, who contended that it sets the felony threshold far too low.
+
+Agents allege that the three used a chat system hosted on the Internet
+computer network, which connects up to 15 million people in more than
+40 nations, to make contacts with whom they could trade pirated
+software. The software was transferred over the network, into Texas
+Tech's computers, and eventually into their personal computers. The
+Secret Service seized those three personal computers and associated
+peripherals which an agent valued at roughly $5,000.
+
+The software Publishers Association, a software industry group
+chartered to fight piracy, contends that the industry lost $1.2
+billion in sales in 1991 to pirates.
+
+Although these figures are widely questioned for their accuracy,
+piracy is widespread among Houston's 450-plus computer bulletin
+boards, and even more so on the global Internet.
+
+"There are a lot of underground sites on the Internet run by
+university system administrators, and they have tons of pirated
+software available to download -- gigabytes of software," said Scott
+Chasin, a former computer hacker who is now a computer security
+consultant. "There's no way that one agency or authority can go
+through and try to sweep all the bad software off the Internet,
+because the Internet's too big."
+
+The mission of the Secret Service does not normally include the
+pursuit of software piracy, but rather the use of "electronic access
+devices" such as passwords in the commission of a crime. This gives
+the service purview over many computer and telecommunications crimes,
+which often go hand-in-hand, with occasional bleedover into other
+areas.
+
+Freriks said that the investigation falls under a revision of the
+copyright laws that allows felony charges to be brought against anyone
+who trades more than 10 pieces of copyrighted software -- a threshold
+that would cover many millions of Americans who may trade copies of
+computer programs with their friends.
+
+"The ink is barely dry on the amendment, and you've already got law
+enforcement in there, guns blazing, because somebody's got a dozen
+copies of stolen software," said Marc Rotenberg, director of Computer
+Professionals for Social Responsibility, in Washington, D.C. "That was
+a bad provision when it was passed, and was considered bad for
+precisely this reason, giving a justification for over-reaching by law
+enforcement."
+
+Freriks noted that the raid also involved one of the first uses of an
+expanded right to use forfeiture against computer crime, although he
+was unable to state from where this authority evolved after a civil
+rights lawyer questioned his assertion that it was contained in the
+copyright law revision.
+
+"One of our complaints has always been that you catch 'em, slap 'em on
+the wrist, and then hand back the smoking gun," he said. "Now all that
+equipment belongs to the government."
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec 21 20:35:54 1992
+From: Mike.Riddle@IVGATE.OMAHUG.ORG(Mike Riddle)
+Subject: Article 2--File 4--SYSLAW (Review #1)
+Message-Id: <fwd.BzMzwC.HG5@cs.uiuc.edu>
+
+SYSLAW (Second Edition). By Lance Rose and Jonathan Wallace.  Winona
+(Minn.): PC Information Group, Inc.  306 pp. $34.95 (paper).
+
+The old truism that law follows technology comes as no surprise to
+readers of the Computer Underground Digest.  Many, if not most, of the
+(horror) stories we hear about "evil hackers", or the (sometimes)
+excesses of various law enforcement agencies, can be understood much
+better when we realize the lack of computer knowledge within society
+at large.  System operators, be they sysadmins at a large university
+or commercial site, or sysops of a PC-based bulletin board in a
+basement or closet, increasingly have questions about their legal
+rights and responsibilities.  Can I delete that user?  Should (or can
+I legally) censor or delete that message or file?  How can I protect
+myself from civil or criminal liability?  Can my equipment be seized
+because of something a user does?
+
+SYSLAW is an attempt to explore the gap between statutes and case law
+on the one side, and technological reality on the other.  Since the
+law works slowly, many of the questions about the intersection of law
+and technology do not have textbook answers.  But "the smallest
+journey begins with a step."  Messrs. Rose and Wallace have made a
+substantial step down that path.
+
+While the courts have yet to rule on many of the questions posed by
+sysops, sysadmins, and others, we still have fundamental principles of
+constitutional and communications law to rely upon.  Rose and Wallace
+begin by exploring Sysop rights within the traditional framework of
+Constitutional law, particularly the First Amendment.
+
+After discussing the Constitutional principles that apply to Sysops,
+they then go on to explore the contractual nature of computer
+communications.  Contracts are legally enforceable agreements, and we
+find them everywhere in daily life.  Sometimes we even realize that a
+contract is involved, and a small fraction of those contracts are
+important enough to be written down.
+
+Bulletin boards are the same way.  Explicit or implied contracts are
+established when a user logs on to a bulletin board.  Rose and Wallace
+suggest the wise sysop recognize this reality, and explicitly lay out
+a contract for use.  They also include a sample as an appendix.
+
+Another area of concern is the law of intellectual property.  Who owns
+the posts?  Does a moderator (either usenet or Fido style) have any
+ownership in the overall newsgroup or echo?  When can messages legally
+be copied?  What about files and executable code?  While the context
+may be new, many of the questions are old and have relatively
+well-established answers.
+
+What about "injurious materials" on a bulletin board?  Is the sysop
+liable?  What did _Cubby v. Compuserve_ really decide?  What are the
+rules on search and seizure, and what has actually happened in the few
+cases we know about?  Does the sysop have an obligation to search for
+and/or warn about viruses?  What about sexually explicit material?
+
+Many of these areas do not have clear answers, and one of the
+strengths of SYSLAW is that the authors do not attempt to invent law
+where it doesn't exist.  But in the places where the law is unsettled,
+they do a good job explaining the legal, social and sometimes moral
+considerations that a court would consider if the question arose.
+They sometimes tell you what they think the result might be, or what
+they think it should be.  They caution at the start that until courts
+consider several cases, and/or until we get appellate decisions, the
+users and  operators incur some degree of risk in engaging in certain
+activities.  The reader is left with a better understanding of the
+issues involved, and reasonable actions sysops might take to insulate
+themselves from liability of one sort or another.
+
+SysLaw is available from PC Information Group, 800-321-8285 or
+507-452-2824, and located at 1126 East Broadway, Winona, MN 55987.
+You may order by credit card or by mail.  Price is $34.95 plus $3.00
+shipping and (if applicable) sales tax.  Price is subject to change
+after January 1, 1993.  For additional information, please
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec 21 20:35:55 1992
+From:  Jim Thomas <tk0jut2@mvs.cso.niu.edu>
+Subject: Article 3--File 5--SYSLAW (Review #2)
+Message-Id: <fwd.BzMzwK.HHB@cs.uiuc.edu>
+
+The U.S. Secret Service's "crackdown" on hackers in the past two years
+has included seizures of computer hardware running BBSes.  This raises
+significant questions for the legal obligations of both users and
+sysops.  The "Phrack trial," Operation Sun Devil, and--more
+recently--the alleged USSS involvement in disrupting law-abiding 2600
+meetings underscore the importance of establishing unequivocal
+Constitutional protections of BBSes.  SYSLAW, a comprehensive summary
+of the legal liabilities and obligations of BBS sysops, is mistitled:
+It's not simply a legal handbook for sysops, but a helpful compendium
+of laws and practices relevant to BBS users as well.  Although both
+Lance Rose and Jonathan Wallace (R&W) are attorneys, the volume is
+written clearly and without overwhelming legal jargon, and even the
+casual BBS user should derive sufficient information from the volume
+to understand the problems sysops confront in running a board.
+
+Rose and Wallace accomplish their stated goals (p. xxii) of
+familiarizing readers with the kinds of legal questions arising in a
+BBS context, providing sysops with a legal overview of laws bearing on
+BBS operations, and identifying the legal ambiguities in which the law
+appears to provide no clear guidelines for operation, yet may place a
+sysop at legal risk.  Syslaw is divided into nine chapters and 10
+hefty appendices.  The core issues in the book are 1) First Amendment
+and speech, 2) privacy, 3) sysop liabilities to users, and 4)
+sysop/user relations.
+
+In the first chapter, the authors emphasize that the question of the
+relationship of a BBS to the First Amendment remains unsettled, and
+this relationship generates considerable discussion in BBS forums and
+on Usenet (eg, comp.org.eff.talk). While noting that BBSs create new
+challenges or Constitutional interpretation, R&W identify two reasons
+why BBSs deserve "the full protection from legal interference granted
+by the First Amendment under its express protections of "speech,"
+"press," "peaceable assembly," and "petitioning the government" (p.
+2).  First, BBSs are focal points for creating, collecting and
+disseminating information, and as such, electronic speech is
+"perfectly analogous to printed materials which are universally
+acknowledge as protected under the First Amendment." Second, R&W argue
+that BBSs are analogous to physical printing presses and promote the
+growth of alternative publishers with diverse points of view.  Just as
+technology has expanded rights from print media other media, such
+broadcast radio and television, BBSs also reflect an emergent
+technology that functions in much the same way as the older media:
+
+          BBS's ((sic)) powerfully fulfill the goal of the First
+     Amendment by enabling effective publishing and distribution of
+     diverse points of view, many of which never before had a voice.
+     Protecting BBS's should be one of the primary functions of the
+     First Amendment today (p. 3).
+
+R&W argue that there are three main ways that the First Amendment
+protects BBSs:
+
+     (1) it sharply limits the  kinds of speech that can be considered
+     illegal on BBS', (2) it assures that the overall legal burdens on
+     sysops will be kept light enough that they can keep their BBS'
+     running to distribute their own speech and others', and (3) it
+     limits the government's ability to search or seize BBS' where it
+     would interfere with BBS' ability to distribute speech.
+
+The authors identify three kinds of BBS operations that, for First
+Amendment purposes, qualify for various types and amounts of
+protection (p. 8-17): They are simultaneously publishers, distributors,
+and shared message networks.
+
+The authors emphasize that speech protections are an issue between the
+government and the citizens, not the sysops and their users. Sysops,
+they remind us, can--within the law--run their boards and censor as
+they wish. The danger, R&W suggest, is that over-cautious sysops may
+engage in unnecessary self-censorship in fear of government
+intervention. Their goal is to provide the BBS community with
+guidelines that help distinguish legal from illegal speech (and
+files).
+
+The remaining chapters address topics such as sysop liability when
+injurious activities or materials occur on a BBS, the sysops
+obligations when obviously illegal behavior is discovered, the
+"problem" of sexual explicit materials, and searches and seizures.  Of
+special interest is the chapter on contractual obligations between
+sysop and users (chapter 2) in which they suggest that one way around
+many of the potential legal liabilities a sysop might face with users
+is to require a binding "caller contract" that explicitly delineates
+the rights and obligations of each party. They provide a sample
+contract (Appendix A) that, if implemented at the first-call in screen
+progression format (any unwillingness to agree to the terms of the
+contract prevents the caller from progressing into the system) that
+they judge to be legally binding if the caller completes the contract
+by agreeing to its terms.
+
+The Appendixes also include a number of federal statutes that provide a
+handy reference for readers. These include statues on child
+pornography, state computer crime laws, and federal computer fraud and
+abuse acts.
+
+My one, in fact my only, objection to the book was to a rather
+hyperbolic swipe at "pirate boards:"
+
+          Only a tiny minority of BBS's operate as "pirate
+     boards" for swapping stolen software, computer access codes,
+     viruses etc. When these criminal boards are seized and shut
+     down by the authorities everyone benefits (p. 6).
+
+This rather excessive and simplistic view of "piracy" seems to
+contradict both their intent to improve understanding of new
+technology and corresponding behaviors by avoiding such extreme words
+as "stolen software" and to clarify the nuances in various forms of
+behavior in ways that distinguish between, for example, casual
+swapping of copyright files and profiteering.
+This, however, is a minor quibble (and will be taken up in future
+issues of CuD focusing on piracy and the Software Publishers'
+Association).
+
+Syslaw should be required reading for all BBSers. Unfortunately, it is
+available *only* from PC Information group, Inc. Those wishing to
+obtain a copy can write the publisher at:
+1125 East Broadway
+Winona, MN  55987
+Voice: (800-321-8285 / 507-452-2824
+Fax: 507-452-0037
+
+If ordering directly, add $3.00 (US) to the $34.95 price for shipping.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec 21 20:35:56 1992
+From: Lance Rose <72230.2044@COMPUSERVE.COM>
+Subject: Article 4--File 6--Model BBS/User Contract (from SYSLAW)
+Message-Id: <fwd.BzMzwn.HI8@cs.uiuc.edu>
+
+
+Appendix A
+
+Sample Caller Contract (from SysLaw)
+
+The following sample contract provides some guidelines for a sysop's
+contract with his or her callers. Everyone's BBS and services are a
+little different, so it is not recommended that readers use this
+sample in "plain vanilla" form as their own contract. If possible, ask
+a lawyer comfortable with online activities to review the form and
+recommend any changes necessary for your particular BBS.
+
+BULLETIN BOARD SERVICES AGREEMENT
+
+
+A.  Introduction
+
+We start every new caller relationship with a contract.  It spells out
+what you can expect from us, and what we expect from you.  We do not
+know each caller personally, so it is important to set out the ground
+rules clearly in advance.
+
+If you agree to what you read below, welcome to our system!  An
+instruction screen at the end of the contract will show you how to
+sign up.
+
+If you have any questions about any part of the contract, please send
+ us an e-mail about it!  We will be glad to explain why these contract
+ provisions are important for our system. We are willing to work with
+ you on making changes if you can show us you have a better approach.
+
+Please remember - until you and we have an agreement in place, you
+will not receive full access to our system.
+
+B.  Access and Services.
+
+(1)  Access - We will give you full access to all file and message
+areas on our system. Currently, these include:
+
+Public message areas - reading and posting messages.  We are also a
+member of Fidonet, which means you can join in public discussions with
+callers of other bulletin boards around the world.
+
+File transfer areas - uploading, downloading files and browsing files
+
+E-mail - sending and receiving messages (please see the section on
+privacy, below)
+
+Chat areas - real-time discussions with other callers who are online
+at the same time as you
+
+Gateways - permitting you to send e-mail to systems on other computer
+networks. Currently, we have an Internet gateway in place, and we
+operate as a Fidonet node.
+
+(2)  Services - We offer a variety of services to our callers, and are
+adding more all the time. Our current services include:
+
+Daily electronic news from nationally syndicated news services. Free
+classified advertising for our callers, in an area subdivided into
+different product categories.
+
+Virus hotline - an area with frequently updated news on computer virus
+outbreaks, new forms of virus detected, new ways to protect your
+computer, and other matters of interest.
+
+QMail (TM) services, allowing you to upload and download all messages
+you are interested in batch form.
+
+If you would like to set up a private discussion area on our system
+for a group, we will be glad to do so for fees and terms to be
+discussed.
+
+(3)  We may change or discontinue certain access or services on our
+system for time to time. We will try to let you know about such
+changes a month or more in advance.
+
+C. Price and Payment
+
+(1)  We will charge you a monthly fee for using our system.  For $15
+per month, you can use our system each month for up to 40 hours of
+connect time, and you can send up to 200 electronic mail messages. For
+additional use, you will be required to pay additional charges of 50
+cents an hour, and 10 cents per electronic mail message.
+
+(2)  Certain services on our system require additional fees.  Please
+review the complete price list in the Caller Information area before
+signing up for any such services. The price list will tell you which
+services are included in the standard monthly fee, and which are
+extra.
+
+(3)  You may pay by check or by credit card.  You will be given the
+opportunity to choose the payment method when you sign up.
+
+If you choose to pay by credit card, we will automatically bill the
+amount due to your credit card account at the end of every month.
+
+If you choose to pay by check, we will send you an invoice at the end
+of every month. Payment is due within twenty days after we send your
+invoice.
+
+(4)  We can change the prices and fees at any time, except that our
+existing customers will receive two months notice of any change.  All
+price changes will be announced in opening screen bulletins.
+
+D.     System Rules
+
+Besides payment, the only thing we ask from you is that you follow the
+rules we set for use of the system.  You will find our rules in two
+places:  in the following list here in the contract, and in the
+bulletins posted at various points in the system.
+
+Here are some of the basic rules for our system:
+
+Respect other callers of the system.  Feel free to express yourself,
+but do not do anything to injure or harm others. In particular, if you
+dislike someone else's ideas, you can attack the ideas, but not the
+person.
+
+We want people to speak freely on our system.  But if you misuse that
+freedom to abuse others, we will take the liberty of cutting that
+discussion short.
+
+Do not use our system for anything that might be illegal.  This system
+may not be used to encourage anything to do with illegal drugs,
+gambling, pornography, prostitution, child pornography, robbery,
+spreading computer viruses, cracking into private computer systems,
+software infringement, trafficking in credit card codes, or other
+crimes.
+
+People sometimes have trouble figuring out whether certain activities
+are illegal. It's usually not that hard. If it's illegal out there,
+it's illegal in here! Using a bulletin board system to commit a crime
+does not make it less of a crime. In fact, if you use a bulletin board
+system to commit a crime, you're exposing the operators of the system,
+and its other callers, to legal risks that should be yours alone.
+
+If you genuinely do not know whether something you'd like to do is
+legal or illegal, please discuss it with us before you proceed.  And
+if we tell you we do not want you to pursue your plans on our system,
+please respect our decision.
+
+Respect the security of our system.  Do not try to gain access to
+system areas private to ourselves, or to other callers. Some callers
+try to crack system security just to show it can be done. Don't try to
+demonstrate this on our system.
+
+E. Privacy
+
+We offer private electronic mail on our system as a service to our
+callers.  We will endeavor to keep all of your e-mail private,
+viewable only by you and the person to whom you address it, except:
+
+We, as system operators, may need to look at your electronic mail if
+we believe it is necessary to protect ourselves or other callers from
+injury or damage.  For example, if we have reason to believe a caller
+is involved in illegal activities, which creates a risk that our
+system could be seized by the authorities, we will review his or her
+electronic mail for our own protection.  We will not, however, monitor
+electronic mail unless we believe it is being misused.
+
+We will not deliberately disclose electronic mail to other callers.
+If we believe certain electronic mail is connected with illegal
+activities, we may disclose it to the authorities to protect our
+system, ourselves and other callers.
+
+Remember that the person to whom you send electronic mail does not
+need to keep it secret. The sender or receiver of electronic mail has
+the right to make it public.
+
+If the authorities ever search or seize our system, they may gain
+access to your private electronic mail. In that case, we cannot assure
+they will not review it. Remember that you have personal rights of
+privacy that even the government cannot legally violate, though you
+may have to go to court to enforce those rights.
+
+F. Editorial Control
+
+We want our system to be a worthwhile place for all of our callers.
+This does not mean everyone can do whatever they choose on this
+system, regardless of its effect on others. It is our job to
+accommodate the common needs of all callers while striving to meet our
+own goals for the system.
+
+We will not monitor all messages and file transfers.  We want to keep
+the message and file traffic moving quickly and smoothly - this goal
+would be defeated if we monitored everything on the system. However,
+if we see (or hear about) messages or other activities that violate
+the rules, threaten the order or security of the system, or use the
+system in ways we do not agree with, we will take appropriate action.
+
+Our editorial control includes normal housekeeping activities like
+changing subject headers and deleting profanities in public messages
+and selecting among uploaded files for those we wish to make available
+for download. It also goes beyond that.
+
+If a caller persists in posting messages or transferring files that we
+previously warned him should not be on the system, those messages will
+be deleted, and he or she may be locked out. If we discover any caller
+violating the rules, especially the prohibition against illegal
+activities, we will act firmly and swiftly. Depending on the
+circumstances, the caller involved will be warned, or simply locked
+out. If the caller has done anything to put us or other callers in
+jeopardy, we may contact the authorities.
+
+We do not plan on doing any of these things.  If all callers act with
+respect and regard for us and for other callers, there will never be
+any problems.  But if problems arise, we will assert control over our
+system against any caller who threatens it. And in this Agreement, you
+acknowledge that control.
+
+G. Ownership of Materials
+
+You shall retain all rights to all original messages you post and all
+original files you upload. Likewise, you must respect the ownership
+rights of others in their own messages and files. You may not post or
+upload any messages or files unless you own them, or you have full
+authority to transmit them to this system.
+
+We own certain things you will find on this system, including the
+"look and feel" of the system, the name of our system, and the
+collective work copyright in sequences of public messages on our
+system. You cannot reproduce any message thread from our system,
+either electronically or in print, without our permission and the
+permission of all participants in the thread.  This is not a complete
+list - other things on the system are also our property.  Before you
+copy anything from our system with plans of reproducing it or
+distributing it, contact us about it.
+
+H. Limitation of Liability and Indemnity.
+
+The great danger for us, and for all operators of bulletin board
+systems, is that we might be held accountable for the wrongful actions
+of our callers.  If one caller libels another caller, the injured
+caller might blame us, even though the first caller was really at
+fault. If a caller uploads a program with a computer virus, and other
+callers' computers are damaged, we might be blamed even though the
+virus was left on our board by a caller.  If a caller transfers
+illegal credit card information to another caller through private
+electronic mail, we might be blamed even though we did nothing more
+than unknowingly carry the message from one caller to another.
+
+We did not start this system to take the blame for others' actions,
+and we cannot afford to operate it if we must take that blame.
+Accordingly, we need all callers to accept responsibility for their
+own acts, and to accept that an act by another caller that damages
+them must not be blamed on us, but on the other caller.  These needs
+are accomplished by the following paragraph:
+
+You agree that we will not be responsible to you for any indirect,
+consequential, special or punitive damages or losses you may incur in
+connection with our system or any of the data or other materials
+transmitted through or residing on our system, even if we have been
+advised of the possibility of such damage or loss. In addition, you
+agree to defend and indemnify us and hold us harmless from and against
+any and all claims, proceedings, damages, injuries, liabilities,
+losses, costs and expenses (including reasonable attorneys fees)
+relating to any acts by you or materials or information transmitted by
+you in connection with our system leading wholly or partially to
+claims against us or our system by other callers or third parties.
+
+I.  Choice of Law
+
+Our bulletin board system can be reached by callers from all fifty
+states, and around the world. Each of these places has a different set
+of laws.  Since we cannot keep track of all these laws and their
+requirements, you agree that the law of our own state, ________, will
+apply to all matters relating to this Agreement and to our bulletin
+board system. In addition, you agree and consent that if you ever take
+legal action against us, the courts of our own state, _______, will
+have exclusive jurisdiction over any such legal actions.
+
+J.  General
+
+This agreement is the entire understanding between you and us
+regarding your relationship to our bulletin board system.  If either
+you or we fail to notify the other of any violations of this
+agreement, this will not mean that you or we cannot notify the other
+of future violations of any part of this agreement.
+
+
+[Contract sign-up process]
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec 22 11:22:11 1992
+From: leonard@qiclab.scn.rain.com (Leonard Erickson)
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty
+Subject: Article 5--Re: CERT and the Dept. of Justice on keystroke monitoring
+Message-ID: <1992Dec22.150816.13247@qiclab.scn.rain.com>
+Date: 22 Dec 92 15:08:16 GMT
+
+jkp@cs.HUT.FI (Jyrki Kuoppala) writes:
+
+>Earlier I said that property rights are not an issue wrt the CERT
+>advisory, and that it was not related to companies.  This was based on
+>my mistaken reading of the advisory - as it was based on the U.S. Dept
+>of justice advice (order?) to all federal agencies, I though that the
+>"all systems" on the advisory referred to "all federal systems".
+>However, it appears I was mistaken - when I asked CERT about this the
+>answer was that CERT expanded the scope of the advisory and thus it
+>seems that CERT really means _all_ systems, no matter whether private,
+>public, government-owned, etc.
+
+But "goverment-owned" or even "public property" *still* involves property
+rights. City Hall is public property, right down to the supplies in the
+storeroom. That does *not* mean that the public can walk in and use the 
+supplies.
+
+"Public property" generally has some purpose or reason for existence. And
+the administering agency has property rights, not all that different from
+those a private person or company would have.
+
+>A part of my argumentation was based on this misunderstanding of the
+>advisory (for example the claim where I said that property rights are
+>not involved).  I apologize for the resulting failure of
+>communication.  However, my argumentation still applies for systems of
+>federal agencies and many education sites.
+
+Nope. At the federal agencies, you do *not* have a right to access on
+their system anymore than you have a right to access any *phsyical*
+property they have. And at educational sites, the *students* may
+have access rights but not the general public. Just like with the
+classrooms and labs. 
+
+-- 
+Leonard Erickson		      leonard@qiclab.scn.rain.com
+CIS: [70465,203]			 70465.203@compuserve.com
+FIDO:   1:105/51	 Leonard.Erickson@f51.n105.z1.fidonet.org
+(The CIS & Fido addresses are preferred)
+
+
+------------------------------
+
+From caf-talk Caf Dec 22 20:21:44 1992
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty
+From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Subject: Article 6--Re: CERT and the Dept. of Justice on keystroke monitoring
+Message-ID: <1992Dec22.235726.23374@nntp.hut.fi>
+Date: Tue, 22 Dec 1992 23:57:26 GMT
+
+In article <1992Dec22.150816.13247@qiclab.scn.rain.com>, leonard@qiclab (Leonard Erickson) writes:
+>But "goverment-owned" or even "public property" *still* involves property
+>rights. City Hall is public property, right down to the supplies in the
+>storeroom. That does *not* mean that the public can walk in and use the 
+>supplies.
+
+Actually, it doesn't involve property rights, ie. government doesn't
+have rights.  What is involved is a policy of what the public property
+should be used for and the issue of how the policy is made.  If the
+policy decided by the public on City Hall is that it is for use by
+hired workers only, the public doesn't have a right to walk in and use
+them.  If the policy is that everything is for public use, then they
+have a right to do so.
+
+>"Public property" generally has some purpose or reason for existence. And
+>the administering agency has property rights, not all that different from
+>those a private person or company would have.
+
+I think they're very different.  When a private person owns something,
+she need not give any reason for anybody else on why she decides to do
+something with the thing.  But as you say, public property has a
+purpose - and the duty of the administering agency is to use the
+property for that purpose.  The agency has no right to use the public
+property in a way the heads of the agency like - the policy should
+come from the public.
+
+>At the federal agencies, you do *not* have a right to access on
+>their system anymore than you have a right to access any *phsyical*
+>property they have.
+
+You are right, if the policy is that it's not for public use.  But the
+citizens do have a right to have a say in the policy.
+
+>And at educational sites, the *students* may
+>have access rights but not the general public. Just like with the
+>classrooms and labs. 
+
+Again, if it's publicly funded the general public has a right to have
+a say on the policy.  Also, via academic freedom I'd say there are
+some privacy (and other) rights involved.
+
+(by the way, where I live the lectures at universities are public, the
+law says they must be)
+
+//Jyrki
+
+
+------------------------------
+
+From caf-talk Caf Dec 21 12:31:03 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: greeny@eff.org (J S Greenfield)
+Subject: Article 7--Re: Chain letters?
+Message-ID: <1992Dec21.173054.18939@eff.org>
+Date: Mon, 21 Dec 1992 17:30:54 GMT
+
+In article <1992Dec21.020050.24688@pegasus.com> tleylan@pegasus.com (Tom Leylan) writes:
+>greeny@top.cis.syr.edu (J. S. Greenfield) writes:
+>
+>>Carl's making a serious point.  I think you're just being silly...
+>>
+>>How about if I email my resume to a friend saying, "Feel free to
+>>send a copy of my resume to anyone you know who may be interested."
+>
+>>Is this a chain letter?
+>
+>>How about one sayin, "Here's a good joke I just heard..."
+>
+>>I believe this demonstrates the point that Carl was trying to make.
+>
+>J.S., I was being silly in response to silliness I believe that is
+>covered under the "fair response clause" of Law 21-FW-5.
+>
+>Now you want me to believe that you can't determine the differences
+>between a resume, a joke and a chain letter.
+
+*I* can.  But the *definition* in question clearly could not.  That is what
+Carl said in his post.
+
+To my eyes (and apparently to others, including Carl's) what you and others
+have termed a "chain letter" was clearly a joke.
+
+I'd say it's you and those others who are having trouble with your definitions.
+Otherwise, one of you would have long ago produced an alternate definition for
+a "chain letter" that *doesn't* include lots of stuff that we all seem to
+agree are *not* "chain letters."
+
+
+>Thanks for playing todays exciting episode of "why not spend forever
+>trying to legally define the entire world before we act".
+
+Clearly, you use silliness to make up for your lack of any reasoned
+response.
+
+I've seen at least two workable definitions of a "chain letter" posted.
+(One equivalent to the US Postal regulation, and one including all letters
+distributed solely for the sake of distribution, itself.)
+
+It is *your* side, which insists that those definitions are insufficient,
+but which has failed to produce a definition that is not overly-broad
+(including things like resumes and jokes) that is responsible for the
+extended length of this discussion.
+
+
+-- 
+J. S. Greenfield                                         greeny@top.cis.syr.edu
+(I like to put 'greeny' here,                            greeny@eff.org 
+but my d*mn system wants a 
+*real* name!)                        "What's the difference between an orange?"
+
+
+------------------------------
+
+From caf-talk Caf Dec 22 23:38:42 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: tleylan@pegasus.com (Tom Leylan)
+Subject: Article 8--Re: Chain letters?
+Message-ID: <1992Dec23.030644.26358@pegasus.com>
+Date: Wed, 23 Dec 92 03:06:44 GMT
+
+greeny@eff.org (J S Greenfield) writes:
+
+>I've seen at least two workable definitions of a "chain letter" posted.
+>(One equivalent to the US Postal regulation, and one including all letters
+>distributed solely for the sake of distribution, itself.)
+
+>It is *your* side, which insists that those definitions are insufficient,
+>but which has failed to produce a definition that is not overly-broad
+>(including things like resumes and jokes) that is responsible for the
+>extended length of this discussion.
+
+J.S.,  It's probably best if I drop out of the thread because I don't
+honestly know what you want.  I thought this was about chain letters
+and someone's insistence that without a legal definition we wouldn't
+recognize one if it poked us in the eye.
+
+You clarified it right up by introducing "resumes" and "jokes" and
+suggesting (I think) that any definition of a chain letter that let
+jokes and resumes slip through isn't worth the paper it's printed on.
+
+In a nutshell, I believe that my position is that the only way you
+can arrive at "absolute definitions" is to pare it down to a point
+where you have described _a_ chain letter but not all chain-like
+letters.
+
+If somebody's definition includes "a solicitation to send money" then
+clearly a letter which suggests you should send an article of clothing
+and explains how a 4th century monk didn't and died is NOT a chain
+letter.  Great then we can invent new terms for all the chain-like
+variants, a great use of time and resources....
+
+You're probably correct in whatever point you're trying to make I just
+don't see the point behind it all.
+
+tom
+
+
+
+------------------------------
+
+From caf-talk Caf Dec 23 07:55:57 1992
+Newsgroups: alt.comp.acad-freedom.talk,news.admin.policy,comp.admin.policy,alt.binaries.pictures.erotica.d,alt.society.civil-liberty
+From: dfo@tko.vtt.fi (Foxvog Douglas)
+Subject: Article 9--Re: [UPI] "FBI probes computer child porn at Cornell"
+Message-ID: <1992Dec23.123731.9243@ousrvr.oulu.fi>
+Date: Wed, 23 Dec 1992 12:37:31 GMT
+
+In article <1992Dec07.145438.36263@wap.oau.org> bdixon@wap.oau.org (Bill Dixon) writes:
+>In article <1992Dec3.100123.17431@ousrvr.oulu.fi> dfo@tko.vtt.fi (Foxvog Douglas) writes:
+
+>>The problem is right here.  Having the child engage in sexual acts
+>>should be the crime, not the taking of photos.  The photos are EVIDENCE
+>>of a crime and taking of them is just creation of that evidence.  
+
+>Should we then issue the message that it is perfectly all right to take
+>the pictures?  Does this then extend to the procurement of someone to
+>sexually abuse a child so that we can then take pictures of them?
+
+Obviously not.  Straw man.  The taking of the pictures should not in 
+itself be a crime.  It is evidence of what happened: of the crime and of
+the photographer witnessing, failing to deter, and failing to report a
+crime.
+
+>>This way we stay away from slippery words like "pornography" which can
+>>mean many different things to different people and just ban ACTS of
+>>child abuse.
+
+>For the sake of this discussion, I am going to use as a working definition
+>of pornography "the taking of pictures, or the pictures themselves, of
+>children engaging in sexual acts".  Note that this wording is based on you
+>statement above.
+
+Unfortunately, people's definitions vary greatly.  This thread started 
+with complaints about child pornography on the net, which turned out to
+be a photo of a single (almost) naked child, with an inset blow up of
+the genitals.  Someone reported that the kid looked unhappy.
+
+>>But it should be the abuse that should be punished not the picture.
+
+>I would like to put in my two cents worth. 
+
+>You state that you consider child sexual abuse (having a child engage in
+>sexual acts) should be (and is) a crime.  I would like to explain why I
+>believe that taking and distributing photos should also be considered a
+>crime.
+
+>The person that causes the child to perform the sexual acts directly
+>abuses the child.  Even you admit that.
+                    ^^^^
+I take exception to this slur.
+
+>The person taking the pictures is just as guilty.  In many cases, they are
+>the same one.  If different people, however, the photographer either
+>requests or condones the abuse.  If they request the action, they are just
+>as guilty as the one abusing the child.  At best, they passively watch and
+>photograph.  But even then, there is an implicit agreement to the abuse,
+>or they would have reported the crime.  Therefore, they are also guilty of
+>child sexual abuse.  
+
+Thus they have committed a crime without any additional law about taking
+pictures.  Get them on that.  Let the case lie upon whether there has
+been child abuse.  
+
+>(Note that I exclude two classes of people from this:
+>undercover detectives obtaining information for prosecution; 
+
+Do you wish to allow undercover detectives to engage in child abuse?  I
+would oppose that.
+
+>and people
+>taking the pictures unawares [such as the ridiculous example given by
+>someone else about parents taking pictures of their teenage kids while
+>they are away for the weekend] PROVIDED they destroy the pictures as soon
+>as they realize what is on them.)
+
+What is the need for destroying the photos?  
+
+>The person distributing the pictures is also guilty, in that they are
+>paying someone to take the pictures, which IMO is the same as paying
+>someone to abuse the child.
+
+If they are not paying for the pictures (as in the case on the net) this
+is not applicable.  If they buy pictures showing evidence of a crime and
+do not report that evidence, they may be guilty of covering up that
+crime, unless they are doing it as part of a journalistic investigation
+in which they would have the right to protect sources of information.
+
+If they are previously published photos, there is no problem.
+
+>The person buying the pictures is also guilty, because they are helping to
+>fund the entire process that caused the child to be abused.
+
+So is that person's employer for providing money to that person to spend
+on the process.  So are the customer's of that employer's business since
+they provide funds to the business to pay the purchaser which ends up
+funding the business, so are their employers....
+
+>I will agree that the punishment should be lessened as the distance from
+>the actual abuse increases, but there should be punishment nonetheless.
+
+Actually, if you wished to stop this kind of child abuse and a picture
+showed evidence of it, a purchaser of a publication could report the
+matter to police if they would not themselves be liable for charges.
+
+>If you punish the people purchasing the pictures, and thereby reduce the
+>number of purchases, this reduces the revenue of the distributors.
+
+But you are not punishing criminals.  You are giving a strong punishment
+against someone for buying a piece of paper (or magnetic tape) in order
+to hurt someone else.  If you find such people, request from them
+evidence that you believe that they have indicating the commision of a
+crime and leads to the criminal(s).  Thank the people for being good
+citizens and follow the case towards the child abusers.
+
+>If you punish the distributors, this will reduce their purchases, and
+>reduce the revenue of the photographers.
+
+Same comment as above.  If they are hiring people to abuse children in
+order to get the pictures, they are guilty of conspiracy to commit child
+abuse.  You have a handle on them to get cooperation.
+
+>If you punish the photographers, in many instances you will also be
+>punishing the abusers.  If not, you will reduce the number of requests for
+>abuse.
+
+Photographers of child abuse are most likely conspirators in the abuse
+(unless, for example, they take their shots from hidden locations).  
+
+>I would also like to make a couple of points.  The above description of
+>the effects of punishment will only hold true if the punishment is severe
+>enough.  If you, for instance, fine the distributors a couple hundred
+>dollars, they will not be inclined to limit their activities.  On the
+>other hand, if you fine them a significant portion of their income, it
+>will become a financial liability for them to deal in child pornography.
+>Keep in mind that they are in it for the money.  Take away the money, and
+>they will stop.
+
+If you use them to go after the abusers you will be able to stop the abuse.
+
+>Also, the above description will only hold true if child pornographers are
+>consistently investigated and prosecuted.  It will not work to only
+>prosecute if enough people complain about a particular distributor.  Law
+>enforcement must aggressively pursue these people, for the sake of our
+>children.
+
+Let me make a few points.  From what i understand, there is little or no
+child pornography (defined as above) being produced in the US.  Most of
+the attempts at distribution are made by government agencies, solely for
+the purpose of entrapment.  It has been many years since anyone was
+arrested for suborning children to engage in sex in order to be
+photographed.  The whole thing is a manufactured issue in order to give
+the police (local through national) more powers.
+
+The major distributer of child pornography in the US is the US govt.  I
+challenge anyone to provide documentation stating otherwise.
+
+This witch hunt against "child ponographers" casts it's net wide.  It
+has caught nudists for taking home photos and others who accept young 
+children's wishes to be devoid of clothing.  
+
+"Child pornography" is defined by the government to include photographs
+which depict a child's genitals.  It does not use the definition you
+provided above.  From previous discussions on the net, it appears that
+a non-pornographic picture can be changed to a pornographic one in the
+photo lab.  Thus, if you equate "pornography" with abuse you end up 
+with the position that a child can be abused in a photo lab by actions 
+taken against his/her picture.  This is absurd.
+
+>Finally, I would like to stress that each time a person is prosecuted for
+>child pornography, at whatever level, their prosecution should then serve
+>as the basis for going after the person/organization higher up the chain.
+
+If there is evidence of child abuse, they certainly should follow the
+chain of evidence towards the abuser.  There need not be proscecution of
+someone who hasn't abused any children or caused them to be abused.
+For most prosecutions, from my understanding, the "next
+person/organization higher up in the chain" is the government.  I.e. the
+proscecution does NOTHING against child abuse, just against someone 
+entrapped to buy something from government agents.
+
+>As with all other posts, the above views do not necessarily reflect those
+>of my employer, although I sincerely hope so.
+
+>Bill
+
+>P.S.  I hope and pray that none of my five children ever come in contact
+>with you and/or those other posters that are arguing for the protection of
+>people dealing with child pornography at levels other than the actual
+>abuse.  I am not sure you would have any reservations in causing them to
+>be abused as long as you were not the one inflicting the abuse.
+
+You are very nasty.  You have read me write strongly against child
+abuse.  You seem to be merely interested in appearances, i.e. photos.
+I am not sure that you would have any reservations in causing your own
+children to be abused as long as noone saw photos of the abuse.
+[My feelings about this statement parallel what i expect yours to have
+ been when you wrote your similar statement above.]
+
+>Bill Dixon
+>bdixon@wap.oau.org
+
+
+-- 
+doug foxvog     
+dfo@tko.vtt.fi   
+
+
+------------------------------
+
+From caf-talk Caf Dec 30 22:47:21 1993
+From: cook@tmn.com (Gordon Cook)
+Subject: Article 10--What *IS* Current AUP Policy for Information Providers?
+Message-ID: <9212121748.AA06273@tmn.com>
+Date: Sat, 12 Dec 1992 17:48:04 GMT
+
+
+
+I have been rereading com-priv and other files relating to the flap over 
+Dialog as a commercial user of ANS in December of last year.
+
+On December 10th 1991 Steve Wolff wrote:
+
+"For whatever reason(s), Dialog would not commit to guaranteeing that all 
+their traffic would adhere to NSFnet Aceeptable Use; as an ANS customer 
+apparently their alternative was to declare themselves "commercial."
+
+A bit later in the discussion someone pointed out that Dialog's customers 
+had never been given the opportunty to pledge that they would make only 
+research and education use of Dialog.
+
+Eventually the NSF blessed Dialog as an acceptable research and education 
+user and in January ANS switched their status from commercial to R&E.
+
+QUESTION:  what is current NSF policy for information providers lie dialog 
+that wish to attach to the NSFnet?
+
+I surmise that if an information provider tells the world that it expects 
+that the only use that will be made of its resources by its intenet 
+connected customers is use in support of research and education, it is 
+free to attach and send its bits accross the NSFnet bbone as AUP 
+conformant?
+
+Do I surmise correctly?
+
+And to name 3 info providers:  Orbit, Dow Jones, and BRS.  Are librarians 
+reading this list able to telnet successfully to all three? On second 
+thought maybe I should not restrict the last question to librarians.
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec 30 22:47:27 1993
+From: steve@cise.cise.nsf.gov (Stephen Wolff)
+Subject: Article 11--What *IS* Current AUP Policy for Information Providers?
+Message-ID: <9212302019.AA06836@ncri>
+Date: Wed, 30 Dec 1992 20:18:51 GMT
+
+->QUESTION:  what is current NSF policy for information providers lie dialog 
+->that wish to attach to the NSFnet?
+->
+->I surmise that if an information provider tells the world that it expects 
+->that the only use that will be made of its resources by its intenet 
+->connected customers is use in support of research and education, it is 
+->free to attach and send its bits accross the NSFnet bbone as AUP 
+->conformant?
+->
+->Do I surmise correctly?
+
+Yes.  We also ask the information provider to cooperate in tracking down and
+trying to halt violations if/when they are reported.  -s
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Jan  3 17:26:52 1993
+Newsgroups: soc.culture.indian
+Subject: Article 12--DEADLINE TO STOP OBSCENE POSTINGS!
+Message-ID: <1993Jan3.135950.14274@umiami.ir.miami.edu>
+Date: 3 Jan 93 13:59:50 EST
+
+				MEMO
+				----
+
+
+TO:	Deepak Bose, Deb Chatterjee, Mustafa Ibrahim, anonymous obscene posters,
+	others who post *really* obscene and offensive material
+
+FROM:	D. Pereira and others,
+	Indignant and frustrated readers
+
+REF:	DEADLINE TO STOP POSTING OFFENSIVE OR RACIST MATERIAL ON 
+	SOC.CULTURE.INDIAN
+
+
+After Tuesday, January 5, 1992 at midnight, if I see *any* postings or replies
+to postings that are offensive, racist or intolerable to me, I will forward 
+copies to your respective system administrators, who will then decide what 
+action, if any, to take against you.  In effect, it will be your sys ads who 
+will then determine if the material is unsuitable for public medium, not me.
+He/she may then decide whether you should be denied write access to USENET or
+be further penalized. (Some of the postings seen recently may even be used as
+evidence for civil/criminal litigation.)
+
+If any other sci readers out there decide to support this action, then please
+express your opinion.  A suggestion: extract this memo and post it again under
+your own name.  Do please take the effort to type the SUBJECT heading over,
+rather then doing a REPLY.  This way you will convey to the offenders that you
+feel as strongly about this.
+
+A final note to the persons mentioned above - please take this very seriously.
+It is NOT a joke.
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

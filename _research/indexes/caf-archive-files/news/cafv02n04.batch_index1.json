@@ -1,0 +1,464 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Jan 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Network security is more effectively viewed through the lens of responsibility and liability than trust.",
+        "The shift from institutional to individual machine ownership does not inherently break the chain of accountability if legal recourse exists."
+      ],
+      "organizations": [
+        "NYU",
+        "UC Berkeley"
+      ],
+      "people": [
+        "Dan Bernstein",
+        "Wayne A. Christopher"
+      ],
+      "summary": "Dan Bernstein argues that network security should be framed in terms of liability and responsibility rather than abstract trust. He contrasts traditional institutional machine ownership with individual ownership, suggesting that accountability is maintained as long as a person can be identified for an action. He uses the hypothetical 'TERMINUS' open terminal server to illustrate a failure in this model of traceability.",
+      "title": "Re: Announcing AntiTERM: The Anti-TERMINUS Alliance!",
+      "topics": [
+        "network security",
+        "accountability",
+        "liability",
+        "internet history"
+      ]
+    },
+    "identity": {
+      "date": "19 Jan 92 04:08:26 GMT",
+      "from": "brnstnd@nyu.edu (Dan Bernstein)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "<25353.Jan1904.08.2692@virtualnews.nyu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Re: Announcing AntiTERM: The Anti-TERMINUS Alliance!",
+      "to_or_newsgroups": "alt.security",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "20 Jan 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "TERMINUS provides more complete anonymity than other sites and allows crackers to operate with impunity.",
+        "Users at .edu sites can be traced and arrested, unlike those using anonymous access services."
+      ],
+      "organizations": [],
+      "people": [
+        "Dan Bernstein"
+      ],
+      "summary": "Dan Bernstein argues against the TERMINUS system, claiming its provision of default anonymity enables hackers to operate with impunity. He contrasts this with .edu sites, where users can be traced and held accountable for their actions. Bernstein asserts that anonymous access services create a lack of responsibility for network security breaches.",
+      "title": "Re: Announcing AntiTERM: The Anti-TERMINUS Alliance!",
+      "topics": [
+        "anonymity",
+        "network security",
+        "hacking",
+        "accountability"
+      ]
+    },
+    "identity": {
+      "date": "20 Jan 92 10:33:33 GMT",
+      "from": "brnstnd@nyu.edu (Dan Bernstein)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<4342.Jan2010.33.3392@virtualnews.nyu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Re: Announcing AntiTERM: The Anti-TERMINUS Alliance!",
+      "to_or_newsgroups": "alt.security",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Jan 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Anonymity in communications should not be the default.",
+        "RFC 931 was designed to allow hosts to identify which user owns a specific connection."
+      ],
+      "organizations": [
+        "KSU"
+      ],
+      "people": [
+        "Dan Bernstein",
+        "Brick Verser"
+      ],
+      "summary": "Dan Bernstein argues against default anonymity in network communications, contrasting it with specific needs like crisis centers. He criticizes system administrators who fail to implement tracing mechanisms and advocates for the adoption of RFC 931 (the Authentication/Identity Server) to identify users on shared Unix systems.",
+      "title": "Re: Announcing AntiTERM: The Anti-TERMINUS Alliance!",
+      "topics": [
+        "network anonymity",
+        "RFC 931",
+        "system administration",
+        "authentication"
+      ]
+    },
+    "identity": {
+      "date": "19 Jan 92 07:36:03 GMT",
+      "from": "brnstnd@nyu.edu (Dan Bernstein)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<26789.Jan1907.36.0392@virtualnews.nyu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Re: Announcing AntiTERM: The Anti-TERMINUS Alliance!",
+      "to_or_newsgroups": "alt.security",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "21 Jan 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Internet access is a privilege, not a right.",
+        "Civil liberties do not apply to the base issue of network access, though they may apply to specific services like netnews.",
+        "Anonymous access should be restricted as a safeguard for technical security."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "NSFNET",
+        "SURAnet",
+        "Portal",
+        "the WELL",
+        "UUNET"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Brian Harvey"
+      ],
+      "summary": "Wes Morgan responds to Brian Harvey regarding the restriction of anonymous network access, specifically in the context of services like Terminus. Morgan argues that internet access is a privilege rather than a right and that civil liberties do not apply to the base infrastructure of the network. He contends that restricting anonymous access is a necessary security measure to protect academic and research networks.",
+      "title": "Re: [alt.security] Re: Announcing AntiTERM: The Anti-TERMINUS",
+      "topics": [
+        "anonymous access",
+        "network security",
+        "civil liberties",
+        "academic network policy"
+      ]
+    },
+    "identity": {
+      "date": "21 Jan 92 16:05:34 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<1992Jan21.110534.11426@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Re: [alt.security]  Re: Announcing AntiTERM: The Anti-TERMINUS",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.security",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "20 Jan 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Hosting files containing copyrighted code from Sierra is a violation of copyright laws.",
+        "Providing a publicly writeable upload area does not grant users the right to place any content there."
+      ],
+      "organizations": [
+        "University of Lowell",
+        "Sierra"
+      ],
+      "people": [
+        "Brian 'Doc' O'Neill"
+      ],
+      "summary": "Brian 'Doc' O'Neill discusses the legal implications of hosting copyrighted game code and 'cracks' on a university-affiliated FTP server. He clarifies that the content was uploaded to an anonymous area rather than submitted through official channels. O'Neill expresses concern over potential liability and the possibility of closing the service if legal issues persist.",
+      "title": "Copyrights and program cracks....",
+      "topics": [
+        "copyright",
+        "FTP servers",
+        "software cracking",
+        "academic liability"
+      ]
+    },
+    "identity": {
+      "date": "20 Jan 92 22:53:30 GMT",
+      "from": "oneill@cs.ulowell.edu (Brian 'Doc' O'Neill)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<1992Jan20.225330.1164@ulowell.ulowell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Copyrights and program cracks....",
+      "to_or_newsgroups": "comp.binaries.ibm.pc.archives,rec.games.misc",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "23 Jan 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Users who read README files on FTP sites are in the minority.",
+        "Reporting a user for uploading cracks to a system administrator may unfairly insinuate illegal activity."
+      ],
+      "organizations": [
+        "UC San Diego",
+        "Muskingum University",
+        "UC Berkeley"
+      ],
+      "people": [
+        "Dennis Lou"
+      ],
+      "summary": "A discussion regarding the ethics and consequences of distributing software 'cracks' on academic FTP sites. The author expresses concern that notifying system administrators about such uploads may lead to unfair disciplinary action by implying illegal activity rather than a simple violation of site policy.",
+      "title": "Re: Distributing program cracks #10000000000000",
+      "topics": [
+        "software cracking",
+        "academic network policy",
+        "system administration",
+        "digital ethics"
+      ]
+    },
+    "identity": {
+      "date": "23 Jan 92 20:54:45 GMT",
+      "from": "cs163wfj@sdcc8.ucsd.edu (Dennis Lou)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<27624@sdcc12.ucsd.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Re: Distributing program cracks #10000000000000",
+      "to_or_newsgroups": "rec.games.misc",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 24, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "ISU's original newsgroup policy was open access.",
+        "Student machines are restricted by default while faculty/staff machines may have full feeds based on department head requests.",
+        "Staff and students formed a group to propose a 'personal responsibility' model for content access."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "John Hascall",
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "John Hascall describes the Usenet newsgroup filtering policies at Iowa State University (ISU). He notes that while original policy was open access, current defaults restrict erotic and drug-related groups on student machines, while allowing department heads to opt-in for full feeds. A group of students and staff is currently lobbying the Computation Center director to remove textual groups from the restricted list and implement a personal choice mechanism.",
+      "title": "Duties of state universities regarding 1st amendment",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "First Amendment",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 24 Jan 1992 16:00:39 GMT",
+      "from": "john@iastate.edu (John Hascall)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<1992Jan24.160039.20161@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Re: Duties of state universities regarding 1st amendment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 25, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The First Amendment prevents the state from passing laws that infringe on speech but does not require government entities to provide uncensored newsfeeds.",
+        "Access to university-provided computer resources is viewed as a 'perk' rather than a constitutional right.",
+        "Restricting specific newsgroups (e.g., ALT.SEX) on university systems is not a violation of free speech if users can access that content via other means."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "UUNET"
+      ],
+      "people": [
+        "Michael P. Deignan",
+        "Kevin Andrew Buhr"
+      ],
+      "summary": "A discussion between Michael P. Deignan and Kevin Andrew Buhr regarding whether state universities are constitutionally required to provide uncensored newsfeeds. Deignan argues that the First Amendment prevents the state from restricting speech but does not mandate that government entities provide unrestricted access to their own hardware or services.",
+      "title": "Duties of state universities regarding 1st amendment",
+      "topics": [
+        "First Amendment",
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "state universities"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 25 Jan 1992 19:36:40 GMT",
+      "from": "mpd@anomaly.sbs.com (Michael P. Deignan)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<1992Jan25.193640.25341@anomaly.sbs.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Re: Duties of state universities regarding 1st amendment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 26, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Universities have no legal responsibility to provide Netnews.",
+        "University computer centers have a moral responsibility to select newsgroups based on principles of academic freedom.",
+        "Universities have a moral and likely legal responsibility not to censor individual articles within a newsgroup."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Library Association",
+        "Iowa State University"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Michael P. Deignan"
+      ],
+      "summary": "Carl Kadie discusses the legal and moral obligations of state universities regarding Usenet newsfeeds. He argues that while universities are not required to provide Netnews, any provided service should be managed according to principles of academic freedom, specifically opposing the screening or deletion of individual articles.",
+      "title": "Duties of state universities regarding 1st amendment",
+      "topics": [
+        "Netnews",
+        "censorship",
+        "academic freedom",
+        "First Amendment",
+        "Usenet"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 26 Jan 1992 17:04:29 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<1992Jan26.170429.27078@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Re: Duties of state universities regarding 1st amendment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "26 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Usenet has evolved from a research tool into a form of mass communication and an electronic library of ideas.",
+        "Selective censorship of newsgroups by state universities is arbitrary and capricious if other non-academic groups are permitted.",
+        "The availability of material via commercial providers does not justify the censorship of materials on public university systems."
+      ],
+      "organizations": [
+        "University of Michigan"
+      ],
+      "people": [
+        "Brad Baillod",
+        "Michael P. Deignan"
+      ],
+      "summary": "Brad Baillod argues that Usenet access on university computers should be treated like library materials rather than discretionary 'perks.' He contends that because universities allow a wide range of non-academic newsgroups, selectively censoring groups (such as alt.sex) is arbitrary and violates the principles of academic freedom.",
+      "title": "Duties of state universities regarding 1st amendment",
+      "topics": [
+        "First Amendment",
+        "Usenet censorship",
+        "Academic Freedom",
+        "Digital Libraries"
+      ]
+    },
+    "identity": {
+      "date": "26 Jan 92 04:58:44 GMT",
+      "from": "baillod@sparky.eecs.umich.edu (Brad Baillod)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<1992Jan26.045844.10853@zip.eecs.umich.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Re: Duties of state universities regarding 1st amendment",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,misc.legal,alt.censorship",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "23 Jan 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The NADF established a 'User Bill of Rights' to regulate entries in a public electronic directory.",
+        "The X.500 standard was used as the basis for the proposed global and North American directory services."
+      ],
+      "organizations": [
+        "North American Directory Forum",
+        "AT&T",
+        "Bell Atlantic",
+        "BellSouth Advanced Networks",
+        "Bellcore",
+        "BT North America",
+        "GE Information Services",
+        "IBM",
+        "Infonet",
+        "MCI Communications Corp.",
+        "Pacific Bell",
+        "Performance Systems International",
+        "US Postal Service",
+        "Ziff Communications Co.",
+        "Canada Post Corporation",
+        "DirectoryNet, Inc."
+      ],
+      "people": [
+        "Martin Lee Schoffstall",
+        "Paul R. Joslin"
+      ],
+      "summary": "The North American Directory Forum (NADF), a consortium of messaging providers, introduced a 'User Bill of Rights' to address privacy and security concerns regarding its proposed X.500-based public directory service. The document outlines user rights including the right not to be listed, the right to correct information, and the right to be informed when an entry is created. This occurred alongside the launch of a large-scale, multi-vendor pilot program to validate technical agreements for a unified North American directory.",
+      "title": "North American Directory Forum Introduces \"User Bill of Rights\"",
+      "topics": [
+        "privacy",
+        "X.500",
+        "directory services",
+        "user rights",
+        "data protection"
+      ]
+    },
+    "identity": {
+      "date": "23 Jan 92 12:52:55 GMT",
+      "from": "schoff@psi.com (Martin Lee Schoffstall)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<9201232252.AA04537@psi.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n04",
+      "subject": "Norther American Directory Forum Introduces \"User Bill of Rights\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,919 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 03.09 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 03, No. 09
+
+
+----------------------------------------------------------------------
+
+From: shade@ice.cc.mcgill.ca (Leslie Regan Shade)
+Subject: Article 0 -- Abstract of CAF-News 03.09
+
+Topics:
+
+   1-4    about whether or not restrictions should be placed on using Gopher
+               for computer gaming
+   5-7    about how systems administrators should handle users who
+               continually crosspost lengthy, irrelevant and potentially
+               inflammatory material on the net
+   8-10   refer to the legal implications of minors accessing sexual
+               material on newsgroups via university computing facilities
+   11     continues the discussion on  CERT and the Dept. of Justice on
+               Keystroke Monitoring
+
+
+Abstract:
+
+[Week ending Febuary 28, 1993
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+=============================================================
+
+  [We need new guest (or regular) editors, for information send
+   email to kadie@eff.org.  - Carl]
+
+Notes 1-4 are about whether or not restrictions should be placed on using
+Gopher for computer gaming.
+
+1.  "Unless MUDing is causing some serious resource drain...  getting
+an account pulled is a bit harsh."  [If students are MUDing] "and refuse
+to leave when someone else needs to work, I'd have no problem with
+changing their password & killing all their processes then & there." 
+	<1993Feb23.001141.1981@uoft02.utoledo.edu>
+
+2.  "'Gaming via Gopher' is still game playing.  It's a question of locality;
+you can't enforce your local policies on some remote site.  If you don't
+want your gopher clients to spawn telnet sessions... you can always modify
+the client code."
+	<C30CDG.B2t@ms.uky.edu>
+
+3. "I do not see this as a 'free society' issue.... [but rather] the
+responsible consumption of resources that are anything *but* free...Do you
+mean to advocate that your organization should not hold every  member of
+its community accountable for the responsible consumption of its 
+resources, that your organization should have no policy on the acceptable 
+uses of its resources?"
+	<C34JtH.Lq3@watserv1.uwaterloo.ca>
+
+4.   Responding to the above comment: "My use of 'free' referred to
+liberty and to basic rights that confer and allow the preservation of
+liberty... users should be held accountable for their use of public
+resources,though what they do with their own resources is, of course,
+nobody's concern but their own... An 'acceptable use' policy is a very
+good thing to have.  Dissemination of information doesn't violate any
+policy on acceptable use that I ever heard of, except when such
+dissemination would violate some contract associated with the data, e.g.
+proprietary software."
+	<1993Feb28.040208.17730@mp.cs.niu.edu>
+
+Notes 5-7 are about how systems administrators should handle users who
+continually crosspost lengthy, irrelevant and potentially inflammatory
+material on the net.
+
+5.    "... [taking] a little personal interest in the human that's
+responsible always helps...Sending them mail from a local mail-box doesn't
+always help.  They sometimes think they're faceless, untouchable and
+anonymous.  Going up to them and dropping a big printout of complaints on
+their lap and asking them which part of Emily Postnews they didn't
+understand is another."
+	<1m7dugINNqfr@charnel.ecst.csuchico.edu>
+
+6.  "...being an academic institution in a divided society, the question of
+ censorship raises its ugly head.  Are we advocates of free speech (no
+matter how unpleasant) or of some sort of political correctness?  Once you
+stamp on a particular user for posting stuff that certain individuals find
+objectionable, where do you draw the line?  Can you ever again defend your
+site against the accusation that you're restricting what your users can say?"
+	<1993Feb21.204625.23784@hippo.ru.ac.za>
+
+7.  (Carl Kadie): You can't just deny users network access: "...for how
+long?  What if the user wants a hearing...and  wants to appeal?  Who holds
+the hearing or appeal? Who judges if the material is 'inflammatory' and
+'irrelevant' and if inflamatoriness and irrelevantness is grounds for a
+network expulsion? Who makes the final decision to expel from the network?
+Based on a written policy or just personal opinion?". Annotated references
+follow.  
+	<C2x14o.1MA@cs.uiuc.edu>
+
+Notes 8-10 refer to the legal implications of minors accessing sexual
+material on newsgroups via university computing facilities.
+
+8.  "But the nightmare I see is 16 year old Johnnie Jones logging into
+Healthline, using Veronica to search for appropriate materials, and
+downloading files to his hearts content.  Then mom comes along and says
+'Where did you get those!!!????' And the University ends up with a nice
+costly lawsuit."
+	<1993Feb24.004803.13686@selway.umt.edu>
+
+9.  (Carl Kadie): "Sued on what grounds? Most sexual material is
+constitutionally protected. 'Harmful to minor laws' only apply to legally
+obscene material. Moreover, most such laws explicitly exempt libraries and
+universities. Finally, since the university was acting like a bookstore or
+library and not a publisher, it seems unlikely that it would be held
+liable for access even to obscene material." Annotated references follow. 
+	<C2yKGu.5B5@cs.uiuc.edu>
+
+10. "If you carry pictures groups, you are in legal danger, not from Moral
+Majority types but from the magazines this material has been ripped off
+from...real BBS operators are being sued and are losing...Why should a BBS
+be able to sell access to GIFs of, say, Cindy Crawford without Cindy
+getting any money for it?"
+	<1mgaqa$lua@agate.berkeley.edu>
+
+Note 11 continues the discussion on  CERT and the Dept. of Justice on
+Keystroke Monitoring.
+
+11.  (Mike Godwin): "Users who have seen the warning would have no
+'reasonable expectation of privacy' at all--ergo, capturing their
+communications or reading their files would not violate either ECPA or the
+Fourth Amendment."
+	<1993Feb26.211034.26616@eff.org>
+
+- Leslie Regan Shade]
+
+
+
+Contents:
+
+jason steiner    43  >Survey of Game Restrictions
+Wes Morgan       40  >[comp.infosystems.gopher]<>ccess to Games through Gopher
+Roger Watt       26  >Access to Games through Gopher
+Scott Bennett    82  >
+                 41  >What would you do?
+                 78  >
+Carl M Kadie     72  >
+J-D Childs       38  >alt.binaries.pictures.erotica
+Carl M Kadie    108  >
+Joe Buck         49  >
+Mike Godwin      52  The CERT advisory revisit<>Re: Company Abrogates Privacy)
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Associate Editor: Leslie Regan Shade (shade@ice.cc.mcgill.ca)
+Associate Editor: Henry E. Hardy (seraphim@ais.org)
+Associate Editor: Karl Barrus (elee9sf@Menudo.UH.EDU)
+Associate Editor: Bruce Umbaugh (BDU100F@oduvm.cc.odu.edu)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Feb 23 00:23:06 1993
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+Subject: Article 1--Re: Survey of Game Restrictions
+Message-ID: <1993Feb23.001141.1981@uoft02.utoledo.edu>
+From: jsteiner@anwsun.phya.utoledo.edu (jason 'Think!' steiner)
+Date: 23 Feb 93 00:11:40 EST
+
+tedwards@eng.umd.edu (Thomas Grant Edwards) writes:
+> 
+>    Excessive playing of MUD games in the WAM labs continues to be a
+>    problem.  Numerous complaints have been received from users who 
+>    could not find a free workstation while others were playing MUD. 
+>    The WAM remote access centers are also being overwhelmed by the 
+>    number of users playing MUD.  The WAM unix system software will 
+>    now actively disallow users from connecting to MUD games.
+
+the general policy around here is, if someone needs a terminal for work
+& i'm playing games, they have the right to kick me off. i had thought
+this would be a simple and effective solution to the problem. at least,
+it works well here & it's become the "unwritten law" even my friend's own
+personal computers. ('course, if the owner wants to play Tetris, there's
+still no way you'll get that lab report done. :^)
+
+> It is becomming clear that many of the University of Maryland
+> peer instituions allow such gaming, and others don't.  Some make
+> specific distinctions between "network games" and "standalone 
+> games," with only the network games being restricted.
+> 
+> I have a feeling that trying to target telnet in this way is not
+> going to keep MUDers from MUDing, and that it is going to take 
+> several well publicized people getting there account pulled before
+> the problem is solved.
+
+unless MUDing is causing some serious resource drain, even after hours
+when the terminals themselves aren't used for anything else, getting
+an account pulled is a bit harsh. on the other hand, if they're on a 
+terminal & refuse to leave when someone else needs to work, i'd have 
+no problem with changing their password & killing all their processes 
+then & there.
+
+jason
+
+--
+`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`
+`,`               "Y'all ain't from around here are ya?"                `,`
+`,`  - The best compliment I ever got, from a local in Defiance, Ohio   `,`
+`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,`,` jsteiner@anwsun.phya.utoledo.edu ,`,`,`
+
+
+------------------------------
+
+From caf-talk Caf Feb 25 09:12:57 1993
+Newsgroups: alt.comp.acad-freedom.talk,comp.infosystems.gopher
+From: morgan@engr.uky.edu (Wes Morgan)
+Subject: Article 2--Re: [comp.infosystems.gopher]  Re: Access to Games through Gopher
+Message-ID: <C30CDG.B2t@ms.uky.edu>
+Date: Thu, 25 Feb 1993 14:03:15 GMT
+
+Roger Watt <rwwatt@watserv1.uwaterloo.ca> writes:
+>from aronsson@lysator.liu.se (Lars Aronsson) :
+>>I'd like to hear from other Gopher admins, what similar experience
+>>they have had, and from all, what you think about games and gophers.
+>
+>At the institution for which I work, there is a corporate policy
+>statement that the computing resources and the internal and external
+>mechanisms by which they are interconnected are to be used only in
+>support of the research, instructional, and administrative tasks of
+>the institution.
+>
+>Since you asked ... in my opinion, what you are doing is irresponsible
+>unless it is confined entirely within your own organization.
+
+I don't buy into this rationale.
+
+If your site doesn't allow game playing, you just make it clear that
+"gaming via Gopher" is still game playing.  It's a question of locality;
+you can't enforce your local policies on some remote site.  If you don't
+want your gopher clients to spawn telnet sessions (such sessions are spawned 
+on the *local* host, not the gopher server), you can always modify the 
+client code.
+
+If gopher was a commercial product without source availability, I might
+agree with you.  Since the source is both free and widely available, there's
+no reason not to modify it to fit your local policy.  
+
+[ NOTE TO GOPHER DEVELOPMENT TEAM: After a quick glance at the code, this  ]
+[ type of modification may not be trivial.  Why not make it a compile-time ]
+[ option in the next release?  Something like -DNOTELNET would be nice.    ]
+
+--Wes
+-- 
+MORGAN@UKCC         |       Wes Morgan       |        ...!ukma!ukecc!morgan 
+morgan@ms.uky.edu   | University of Kentucky |   morgan@wuarchive.wustl.edu
+morgan@engr.uky.edu | Lexington,Kentucky USA | JWMorgan@dockmaster.ncsc.mil
+  Mailing list for AT&T StarServer S/E  - starserver-request@engr.uky.edu
+
+
+------------------------------
+
+From caf-talk Caf Feb 28 09:39:14 1993
+From: Roger Watt <rwwatt@watserv1.uwaterloo.ca>
+Subject: Article 3--Re: Access to Games through Gopher
+Message-ID: <C34JtH.Lq3@watserv1.uwaterloo.ca>
+Date: Sat, 27 Feb 1993 20:34:28 GMT
+
+> There is no justification in a free society for the sort of censor-                                   
+> ship of publicly available information that rwwatt@watserv1.uwaterloo.ca                               
+> implies should be practiced. 
+
+I'm sorry, but I do not see this as a "free society" issue. The issue 
+is the responsible consumption of resources that are anything *but* free.
+(And other commentors since my posting have correctly pointed out that it 
+is not an issue unique to the use of Gopher.)
+ 
+The computing facilities within your organization exist at significant 
+cost to your organization. The networking facilities within your organization 
+exist at significant cost to your organization. The networking facilities by 
+which organization-internal networks are interconnected exist at 
+significant cost to all of the organizations involved.
+
+Do you mean to advocate that your organization should not hold every 
+member of its community accountable for the responsible consumption of its 
+resources, that your organization should have no policy on the acceptable 
+uses of its resources? Does the governing body of your organization have that 
+same view?
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 28 09:39:21 1993
+From: bennett@mp.cs.niu.edu (Scott Bennett)
+Subject: Article 4--Re: Access to Games through Gopher
+Message-ID: <1993Feb28.040208.17730@mp.cs.niu.edu>
+Date: Sun, 28 Feb 1993 04:02:08 GMT
+
+In article <C34JtH.Lq3@watserv1.uwaterloo.ca> Roger Watt <rwwatt@watserv1.uwaterloo.ca> writes:
+>> There is no justification in a free society for the sort of censor-
+>> ship of publicly available information that rwwatt@watserv1.uwaterloo.ca
+>> implies should be practiced. 
+>
+>I'm sorry, but I do not see this as a "free society" issue. The issue 
+>is the responsible consumption of resources that are anything *but* free.
+>(And other commentors since my posting have correctly pointed out that it 
+>is not an issue unique to the use of Gopher.)
+> 
+>The computing facilities within your organization exist at significant 
+>cost to your organization. The networking facilities within your organization 
+>exist at significant cost to your organization. The networking facilities by 
+>which organization-internal networks are interconnected exist at 
+>significant cost to all of the organizations involved.
+>
+>Do you mean to advocate that your organization should not hold every 
+>member of its community accountable for the responsible consumption of its 
+>resources, that your organization should have no policy on the acceptable 
+>uses of its resources? Does the governing body of your organization have that 
+>same view?
+
+     If you still have it available, please reread the rest of my article.
+Now, perhaps my wording was not clear, so I'll attempt to be more direct
+here.
+     A gopher server simply provides information to whoever requests it.
+The requestor could be a typical gopher client program, but it certainly
+does not need to be.  For example, a telnet client can be used, but is
+quite inconvenient and the information returned from the server queried
+is not very pretty to read.  What the recipient human does with the
+information is not known to the server.
+     A gopher server does nothing else.  It does not provide login
+sessions, gaming sessions, IRC conversations, phone directory connections,
+etc.  
+     A system administrator stated that he had refused to suppress the
+dissemination of certain information (N.B. *not* provision of gaming or
+other interactive sessions) by his server.  You called that irresponsible.
+I called your calling his refusal irresponsible an appalling statement
+to be issuing from an academic institution.
+     If that system administrator had agreed to suppress the information 
+in response to the complaint from someone at another organization, that
+system administrator would indeed have been practicing censorship.  And
+*that* is what I claim would be inappropriate in a free society.
+     You appear to have muddled the use of "free".  My use of "free"
+refered to liberty and to basic rights that confer and allow the
+preservation of liberty.  Your use of "free" refers to prices for goods
+and/or services.
+     Now, to answer your questions:  1) Yes, I happen mostly to agree
+that users should be held accountable for their use of public resources,
+though what they do with their own resources is, of course, nobody's
+concern but their own.  In fact, however, many institutions have an
+explicit policy that does not encourage such accountability, e.g. our
+university charges users for certain resources associated with use of
+the campus mainframe, but not for other resources.  Further, because
+the computer center is allocated a more-or-less fixed budget, once
+that budget amount has been recovered through chargebacks, the computer
+center is not allowed to charge users for using those resources for
+the remainder of the fiscal year.  2) An "acceptable use" policy is
+a very good thing to have.  Dissemination of information doesn't violate
+any policy on acceptable use that I ever heard of, except when such
+dissemination would violate some contract associated with the data, e.g.
+proprietary software.
+
+
+                                  Scott Bennett, Comm. ASMELG, CFIAG
+                                  Systems Programming
+                                  Computer Center
+                                  Northern Illinois University
+                                  DeKalb, Illinois 60115
+**********************************************************************
+* Internet:       bennett@cs.niu.edu    bennett@netmgr.cso.niu.edu   *
+* BITNET:         A01SJB1@NIU                                        *
+*--------------------------------------------------------------------*
+* "There is hopeful symbolism in the fact that flags don't wave in   *
+* a vacuum."  --Arthur C. Clark                                      *
+**********************************************************************
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 22 13:56:47 1993
+Newsgroups: comp.admin.policy
+Subject: Article 5--Re: What would you do?
+Message-ID: <1m7dugINNqfr@charnel.ecst.csuchico.edu>
+Date: 21 Feb 93 08:19:28 GMT
+
+In article <1993Feb21.051627.3876@selway.umt.edu> Russell J. Pagenkopf writes:
+
+-->  Here's the situation for you.  One of your users who has netnews access
+-->  starts to post, or rather crosspost long, irrelevant, and possibly
+-->  inflamatory material on the net.  ...
+
+  Not policy at all, but I've had multiple similar situations.
+
+  If it's just posting and it's the appropriate group for the topic (as
+defined by the guidelines, etc) I don't think you have much of a leg to
+stand on.  If they crosspost, however, it greatly increases their chance
+of posting something somewhere where it doesn't belong.  At this point
+you might consider offering them "help" on how to post "properly."  (:
+
+  IMHO, irrelevant is far worse than inflamatory on the net.  At least
+you can do something about it...  telling someone that political postings
+have no bearing on, say, recreational bike riding is something clear-cut.
+
+  Having an excuse to take a little personal interest in the human that's
+responsible always helps in my book.  Sending them mail from a local mail-
+box doesn't always help.  They sometimes think they're faceless, untouchable
+and anonymous.  Going up to them and dropping a big printout of complaints
+on their lap and asking them which part of Emily Postnews they didn't
+understand is another.  (:  <it certainly didn't hurt in my case>
+
+  Be sure you try to see things from the local user's perspective, too.
+I had one case where it was the guy on the other side that was really
+the rude/crude type, although he wrote real sweet messages to me complaining
+about the local user.  If you can, try to decide for yourself if the
+user is within their rights to be behaving like they are before you
+approach them.
+
+-- 
+p'ch'zarni'chiwkov:  the nasty little sound of a sword being unsheathed right
+behind one at just the point when one thought one had disposed of one's enemies.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 22 13:56:50 1993
+Newsgroups: comp.admin.policy
+Subject: Article 6--Re: What would you do?
+Message-ID: <1993Feb21.204625.23784@hippo.ru.ac.za>
+Date: 21 Feb 93 20:46:25 GMT
+
+In <1993Feb21.182458.16108@netcom.com> nagle@netcom.com (John Nagle) writes:
+
+>cs000rjp@selway.umt.edu (Russell J. Pagenkopf) writes:
+>>Got one of those theoretical questions for you ;-).
+>>Here's the situation for you.  One of your users who has netnews access
+>>starts to post, or rather crosspost long, irrelevant, and possibly
+>>inflamatory material on the net.  The users recieves mail from readers of
+>>the news who politely ask him to quit, but he replies with "rude and
+>>crude" mail.  Now, you don't know this is happening until one day you find
+>>in your mailbox a compilation of the original posts and the mail messages
+>>to and from your user from a reader who is, to put it politely, extremely
+>>pissed.
+
+>>What do you do?
+
+Having gone through an identical scenario recently, I'm proud to say that
+we (in the form of the Computing Centre, that is) did nothing.  For
+several reasons:
+
+a - being an academic institution in a divided society, the question of
+    censorship raises its ugly head.  Are we advocates of free speech
+    (no matter how unpleasant) or of some sort of political
+    correctness?  Once you stamp on a particular user for posting stuff
+    that certain individuals find objectionable, where do you draw the
+    line?  Can you ever again defend your site against the accusation
+    that you're restricting what your users can say?  This works both
+    ways, with a vengeance...
+
+b - it turned out that the offending user was undergoing some sort of
+    unsuccessful treatment for a personality disorder.  His somewhat
+    incoherent but highly libellous and widely cross posted gems were
+    eventually drawn to the attention of the psychiatrist treating him
+    (by members of his class who were in a position to know something
+    about his background), resulting in renewed therapy.  There's no
+    way that I, as a sysadmin, can check on, or make judgments about,
+    the sanity or otherwise of anyone posting to Usenet from our site.
+    I can suspect it, sure, but I'm very unclear on the ethics of
+    actually acting on my suspicions, for the same reasons I have no
+    desire to dabble with censorship.
+
+>You might send complainers a tutorial on how to use killfiles.  
+
+This was done in our case...  together with the suggestion that
+it isn't mandatory to read everything on Usenet, let alone take it
+seriously.
+
+The point was also made that there is an implicit disclaimer with every
+posting to Usenet - there's no way that users at a particular site can
+claim to be propagating some sort of official point of view of the
+organisation running the site.  The nature of the medium is such that
+forgeries can be made, and experienced users are well aware of this.
+
+Unfortunately, complainants in such cases are usually newcomers to
+Usenet and its little ways :-(
+
+>      State-supported academic institutions are bound by their laws and
+>regulations, so there legal advice may be appropriate.
+
+In our case, action can only be taken against staff or students if a
+formal complaint is made to the Dean of Students and or the
+disciplinary committee.  No formal complaints were forthcoming.
+
+>      It's worth reminding users who send out dumb postings that all
+>postings are archived, indexed, and sold on CD-ROMs, and some employers
+>do check up on prospective employees that way.
+
+This was also tried, to no visible effect.  Understandably, in
+retrospect.
+-- 
+  F.F. Jacot Guillarmod     PO  Box 94     \        |     ccfj@hippo.ru.ac.za
+  Computing Centre       Grahamstown 6140   \      /     +27 461 22023 xt 284
+  Rhodes University        South Africa      ;___*/   33 18 30 S | 26 31 45 E
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 23 14:21:28 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Article 7--Re: What would you do?
+Message-ID: <C2x14o.1MA@cs.uiuc.edu>
+Date: Tue, 23 Feb 1993 19:07:36 GMT
+
+In article <1993Feb21.051627.3876@selway.umt.edu>
+cs000rjp@selway.umt.edu (Russell J. Pagenkopf) writes:
+
+>Here's the situation for you.  One of your users who has netnews access
+>starts to post, or rather crosspost long, irrelevant, and possibly
+>inflamatory material on the net.
+[...]
+>What do you do?
+
+jkerr@austin.onu.edu (James Kerr) writes:
+
+>One warning, then loss of network access.  Simple.
+
+Loss of network access for how long? What if the user wants a hearing?
+What if the user wants to appeal. Who holds the hearing or appeal?
+Who judges if the material is "inflamatory" and "irrelevent" and if
+inflamatoriness and irrelevantness is grounds for a network explusion?
+Who makes the final decision to expel from the network? Based on a
+written policy or just personal opinion?
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+faq/netnews.writing
+=================
+* Netnews -- Policies on What Users Write
+ 
+q: Should my university allow students to post to Netnews?
+ 
+a: Yes. Free inquiry and free expression are an important part of a
+...
+
+=================
+faq/due-process
+=================
+* Due Process
+ 
+q: Should users be suspended from the computer pending formal discipline?
+ 
+a: No, with one exception. Just as students should not be expelled
+...
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/faq/netnews.writing
+  pub/academic/faq/due-process
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/faq netnews.writing
+send acad-freedom/faq due-process
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 24 09:54:55 1993
+From: jdc@selway.umt.edu (John-David Childs)
+Subject: Article 8--Re: alt.binaries.pictures.erotica
+Message-ID: <1993Feb24.004803.13686@selway.umt.edu>
+Date: Wed, 24 Feb 1993 00:48:03 GMT
+
+Jeez, I'm just replying to a message and this thing is cross-posted to so
+many groups...I don't know which cross-posts to dump.  Apologies in advance.
+
+As I see the discussion, educational institutions can get away with having
+abpe et. al. because of a loose definition of research and free speech,
+whereas corporations can cut access based upon goals/needs of the business.
+I have set up a Gopher service called Healthline which includes a Link
+to Veronica (a program that searches known Gopher menu items for keywords
+given by the user).  Presently, access to Healthline is public to those
+who know how to get in (i.e. via dial-up lines), but that is subject to
+change at any moment (especially after "they" see this posting ;-)! 
+Healthline is run on a University of Montana DECStation 5500, and users who
+know Veronica well enough can use it to search for abpe materials even
+though they are screened out from the local news feed.
+
+The intended purpose of Healthline is to disseminate health-related local
+and internet-wide information, and the purpose of Veronica is to allow
+users to search for *health-related* topics which aren't covered in
+Healthline.  But the nightmare I see is 16 year old Johnnie Jones
+logging into Healthline, using veronica to search for appropriate
+materials, and downloading files to his hearts content.  Then mom
+comes along and says "Where did you get those!!!????" And the University
+ends up with a nice costly lawsuit.
+
+The University could argue that the user has to go to great lengths to
+uudecode/piece together/view apbe postings and thus "knowingly" abused
+the intended resources of Healthline, but I don't know if that would be 
+enough.  Comments?
+-- 
+				John-David Childs
+				Consultant, University of Montana CIS
+				jdc@selway.umt.edu
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 24 10:13:46 1993
+Newsgroups: comp.bbs.misc,misc.legal,news.admin.misc,news.admin.policy,tb.general,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Article 9--Re: alt.binaries.pictures.erotica
+Message-ID: <C2yKGu.5B5@cs.uiuc.edu>
+Date: Wed, 24 Feb 1993 15:02:53 GMT
+
+jdc@selway.umt.edu (John-David Childs) writes:
+
+[...]
+>The intended purpose of Healthline is to disseminate health-related local
+>and internet-wide information, and the purpose of Veronica is to allow
+>users to search for *health-related* topics which aren't covered in
+>Healthline.  But the nightmare I see is 16 year old Johnnie Jones
+>logging into Healthline, using veronica to search for appropriate
+>materials, and downloading files to his hearts content.  Then mom
+>comes along and says "Where did you get those!!!????" And the University
+>ends up with a nice costly lawsuit.
+[...]
+
+Sued on what grounds? Most sexual material is constitutionally
+protected. "Harmful to minor laws" only apply to legally obscene
+material. Moreover, most such laws explicitly exempt libraries and
+universities. Finally, since the university was acting like a
+bookstore or library and not a publisher, it seems unlikely that it
+would be held liable for access even to obscene material.
+
+By comparision, chances are that your university library subscribes to
+_Playboy_ or holds other sexually explicit material. Chances are it
+does nothing to verify the age of people who access that material.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+faq/netnews.liability
+=================
+* Netnews -- On University Liability for Netnews
+ 
+q: Does a University reduce its likely liability by screening Netnews
+for offensive articles and newsgroups?
+ 
+a: Not necessarily. By screening articles and newsgroups the
+...
+
+=================
+faq/netnews.reading
+=================
+* Netnews -- Policies on What Users Read
+ 
+q: Should my university remove (or restrict) Netnews newsgroups
+because some people find them offensive? If it doesn't have the
+resources to carry all newsgroups, how should newsgroups be selected?
+ 
+a: Material should not be restricted just because it is offensive to
+...
+
+=================
+faq/censorship-and-harassment
+=================
+* Censorship And Harassment
+ 
+q: Must/should universities ban material that some find offensive
+(from Netnews facilities, email, libraries, and student publications,
+etc) in order to comply with antiharassment laws?
+ 
+a: No. The federal courts have said that harassing speech is different
+...
+
+=================
+caf
+=================
+* About the CAF mailing lists (and newsgroups)
+
+A description of the comp-academic-freedom-talk mailing list. It is a
+free-forum for the discussion of questions such as: How should general
+principles of academic freedom (such as freedom of expression, freedom
+to read, due process, and privacy) be applied to university computers
+and networks? How are these principles actually being applied? How can
+the principles of academic freedom as applied to computers and
+networks be defended?
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/faq/netnews.liability
+  pub/academic/faq/netnews.reading
+  pub/academic/faq/censorship-and-harassment
+  pub/academic/caf
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/faq netnews.liability
+send acad-freedom/faq netnews.reading
+send acad-freedom/faq censorship-and-harassment
+send acad-freedom caf
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 24 12:22:25 1993
+From: jbuck@forney.berkeley.edu (Joe Buck)
+Newsgroups: comp.bbs.misc,misc.legal,news.admin.misc,news.admin.policy,tb.general,alt.comp.acad-freedom.talk
+Subject: Article 10--Re: alt.binaries.pictures.erotica
+Date: 24 Feb 1993 17:21:14 GMT
+Message-ID: <1mgaqa$lua@agate.berkeley.edu>
+
+
+>...But the nightmare I see is 16 year old Johnnie Jones
+>logging into Healthline, using veronica to search for appropriate
+>materials, and downloading files to his hearts content.  Then mom
+>comes along and says "Where did you get those!!!????" And the University
+>ends up with a nice costly lawsuit.
+
+In article <C2yKGu.5B5@cs.uiuc.edu> kadie@cs.uiuc.edu (Carl M Kadie)
+writes:
+>Sued on what grounds? Most sexual material is constitutionally protected.
+
+Sued on the grounds of copyright violation.  Playboy magazine is currently
+on an active campaign of suing BBSes and shutting them down.  And they
+already have a string of court victories and hefty damage awards (see the
+recent issue of WIRED magazine for more on this).  There is no free speech
+right to violate copyright, and the vast majority of postings on
+alt.binaries.pictures.erotica are copyright violations.  Evidently Playboy
+and Penthouse want to create their own BBSes, charge big money, and have
+people get their GIFs only from them (with suitable are-you-over-18 checks and
+VISA accounts billed up front).
+
+If you carry pictures groups, you are in legal danger, not from Moral
+Majority types but from the magazines this material has been ripped off
+from.  And this danger is no longer theoretical; real BBS operators are
+being sued and are losing.
+
+I suppose it's only a matter of time before Sports Illustrated sues the
+Washington University at St. Louis (better known as wuarchive.wustl.edu)
+for all those scanned-in swimsuit babes.  See, the magazine publishers are
+starting to realize that there could be big money in GIFs, and soon, so
+will models and their agents.  Why should a BBS be able to sell access to
+GIFs of, say, Cindy Crawford without Cindy getting any money for it?
+
+Of course, enforcing strict copyright compliance on GIFs will work about
+as well as the music industry's efforts to stop home taping, but it will
+become increasingly dangerous to be blatant about passing around pictures
+that are not yours.
+
+>ANNOTATED REFERENCES
+
+Boring, Carl, boring.  Please just give your references once a month in a
+FAQ posting -- you don't need to append every vaguely relevant reference
+to every posting.
+
+--
+Joe Buck	jbuck@ohm.berkeley.edu
+
+
+------------------------------
+
+From caf-talk Caf Feb 26 17:27:55 1993
+From: mnemonic@eff.org (Mike Godwin)
+Subject: Article 11--The CERT advisory revisited (Was Re: Company Abrogates Privacy)
+Message-ID: <1993Feb26.211034.26616@eff.org>
+Date: Fri, 26 Feb 1993 21:10:34 GMT
+
+In article <1993Feb25.204011.5379@craycos.com> jrbd@craycos.com (James Davies) writes:
+
+>Another thought: isn't this also in the spirit of the CERT advisory
+>on monitoring remote logins that caused such a stink a few months ago?
+>(It was noised about as "DOD authorizes keystroke monitoring", but it
+>was really advising computer managers to make advance notice of the
+>possibility of monitoring to avoid legal problems if an intruder was detected.)
+
+The more I reflect on that CERT advisory, the more I have trouble with
+it. 
+
+Apparently, the folks at CERT got their information about the relevant
+law (the Electronic Communications Privacy Act) from the Department of
+Justice. They were told that ECPA is "ambiguous" as to whether the
+provider of an information service (such providers range from 
+RBOCs to Usenet sites to local BBSs) could capture the keystrokes
+of a computer intruder.
+
+But when I look at ECPA, I find no ambiguity at all. 18 USC 2702(b)(5)
+and 18 USC 2702(b)(6) allow a provider to divulge stored communications
+when doing so is incident to protection of the system, or when the
+provider comes across crime-related communications inadvertently. And
+18 USC 2511(2)(a)(i) has similar provisions for interceptions of
+communications.
+
+In trying to figure out why the government might advise
+government-computer operators to post public notices informing users about
+monitoring, I realized that such warnings have an important secondary
+effect--they eliminate any claim *any* user (authorized or unauthorized)
+might have regarding an expectation of privacy on the system. Users
+who have seen the warning would have no "reasonable expectation of
+privacy" at all--ergo, capturing their communications or reading their
+files would not violate either ECPA or the Fourth Amendment.
+
+Not having to seek a warrant certainly does make law-enforcement's job
+easier.
+
+
+
+--Mike
+
+
+
+
+-- 
+Mike Godwin,    |"I'm waiting for the one-man revolution
+mnemonic@eff.org| The only one that's coming."
+(617) 576-4510  |                           
+EFF, Cambridge  |                   --Robert Frost 
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

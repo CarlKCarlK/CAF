@@ -1,0 +1,541 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 9, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The OSU ACS policy lacks due process protections for users facing denial of access.",
+        "University computer policies should be developed with the participation of the academic community.",
+        "Requiring users to sign agreements that potentially waive constitutional rights (1st, 5th, and 14th Amendments) may be legally untenable."
+      ],
+      "organizations": [
+        "The Ohio State University",
+        "Office of Academic Computing",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie provides a detailed critique of the Office of Academic Computing (ACS) policy at The Ohio State University. He argues that the policy is overly vague and lacks essential due process protections for students and faculty facing expulsion from computer systems. Kadie contrasts the ACS policy with the 'Joint Statement on Rights and Freedoms of Students' to highlight deficiencies in procedural fairness.",
+      "title": "Re: Ohio State ACS policy",
+      "topics": [
+        "due process",
+        "acceptable use policy",
+        "academic freedom",
+        "student rights",
+        "computer access"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 9 Nov 1991 15:23:36 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "<1991Nov9.152336.10203@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Re: Ohio State ACS policy (was Re: Re; XXXXX Expulsion. What Happened?)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 5, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "User acknowledgment forms do not make unreasonable searches of computer files legal.",
+        "University restrictions on 'offensive' or 'demeaning' electronic speech likely violate the US Constitution and academic freedom.",
+        "Computer expulsion procedures require detailed due process, including appeal mechanisms and formal hearings."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Texas Department of Computer Science",
+        "ACLU"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie provides a legal critique of the University of Texas Department of Computer Science's computer use policy. He argues that the policy is overly broad regarding account expulsion procedures, file searches, and restrictions on 'offensive' speech. The post includes an extensive bibliography of case law and legal guides relevant to academic freedom and digital privacy.",
+      "title": "Re: Computer Use Policy of U. Texas Dept. of CS",
+      "topics": [
+        "academic freedom",
+        "computer use policy",
+        "digital privacy",
+        "free speech",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 5 Nov 1991 02:34:09 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<1991Nov5.023409.6759@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Re: Computer Use Policy of U. Texas Dept. of CS",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "15 Nov 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Some university computer services (ACS) had reputations for 'reaming' users, leading to a hostile environment.",
+        "The use of MUDs on campus networks could cause network instability due to misaligned packets.",
+        "Providing isolated hardware (e.g., 3B2/310s) with root access allows users to experiment without risking the main system."
+      ],
+      "organizations": [
+        "University of Toledo",
+        "Ohio State University",
+        "ACS"
+      ],
+      "people": [
+        "Steven S. Brack",
+        "Wes Morgan"
+      ],
+      "summary": "A discussion between two system administrators regarding the balance of power and communication between admins and users. They contrast a restrictive environment at the University of Toledo with a more open, educational approach at another institution (likely University of Kentucky). The conversation covers the handling of resource-hogging activities like MUDs and the necessity of 'emergency authority' for sysadmins to protect network stability.",
+      "title": "Re: [comp.admin.policy] Re: Re; Brack Expulsion. What Happened?",
+      "topics": [
+        "sysadmin policy",
+        "user relations",
+        "resource management",
+        "network administration",
+        "MUDs"
+      ]
+    },
+    "identity": {
+      "date": "15 Nov 91 22:23:05 GMT",
+      "from": "brack@uoftcse.cse.utoledo.edu (Brack)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<9111152223.AA19536@uoftcse.cse.utoledo.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Re: [comp.admin.policy]  Re: Re; Brack Expulsion. What Happened?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "13 Nov 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Over-regulation of computing could hinder US software competitiveness similarly to how government control killed other industries.",
+        "Most resource abuse is caused by user ignorance rather than malice and can be solved through education.",
+        "Policies used as 'cover' for administrators do not solve technical or behavioral problems."
+      ],
+      "organizations": [
+        "Georgia Tech"
+      ],
+      "people": [
+        "Vincent Fox"
+      ],
+      "summary": "Vincent Fox critiques the rise of 'Acceptable Use' policies at universities, arguing that they stifle computing freedom by requiring permission for any activity not explicitly listed as acceptable. He proposes a shift toward 'Unacceptable Use' lists and direct system management through user education rather than restrictive legislation. Fox suggests that resource consumption issues should be handled via monitoring and communication with individual users.",
+      "title": "\"Acceptable Use\" Policies. Why does everyone want one?",
+      "topics": [
+        "Acceptable Use Policies",
+        "Academic Freedom",
+        "System Administration",
+        "Computing Resources"
+      ]
+    },
+    "identity": {
+      "date": "13 Nov 91 00:40:25 GMT",
+      "from": "gt1111a@prism.gatech.EDU (Vincent Fox)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<9111162029.AA27328@herodotus.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "[comp.org.eff.talk]  \"Acceptable Use\" Policies. Why does everyone want one?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 19, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "OSU's disciplinary action against Steven Brack lacked specific findings of fact.",
+        "The dismissal was based on the unauthorized use of Academic Computing Services facilities, equipment, and programs."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Steven Brack"
+      ],
+      "summary": "Carl Kadie critiques Ohio State University's dismissal of Steven Brack, arguing that the university failed to provide necessary findings of fact in its disciplinary decision. The case involves charges related to the unauthorized use of Academic Computing Services facilities and equipment. Kadie cites legal precedents to argue that such omissions make judicial review and appeals nearly impossible.",
+      "title": "Re: Steve Brack's Letter of Dismissal",
+      "topics": [
+        "academic freedom",
+        "due process",
+        "computing services",
+        "student discipline"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 19 Nov 1991 19:28:31 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1991Nov19.192831.1996@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Re: Steve Brack's Letter of Dismissal",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Nov 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The user argues that system permissions define what a user is allowed to do.",
+        "Claims the university administration operated in 'full fascist mode' by logging all commands and overreacting to minor incidents.",
+        "Contends that dismissal was unjustified because rules were not made public prior to the infraction."
+      ],
+      "organizations": [
+        "University of Toledo",
+        "ACS"
+      ],
+      "people": [
+        "Steven S. Brack",
+        "Dan Lester",
+        "Bill Miller",
+        "Cliff Collins"
+      ],
+      "summary": "Steven Brack defends himself against expulsion from the University of Toledo (OSU/ACS) following a dispute over system usage. He argues that his use of the 'fixman' command was permitted by system permissions and lacked clear warnings, while criticizing the university's administrative surveillance and disciplinary overreach.",
+      "title": "Re: Re; Brack Expulsion. What Happened?",
+      "topics": [
+        "academic freedom",
+        "system administration",
+        "user permissions",
+        "student discipline",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "19 Nov 91 03:35:06 GMT",
+      "from": "brack@uoftcse.cse.utoledo.edu (Brack)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<9111190335.AA14297@uoftcse.cse.utoledo.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Re: Re; Brack Expulsion. What Happened?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The author was denied access to system manuals and PC labs for modifying system time and sharing scripts.",
+        "Administrative staff equated copying files into directories with unauthorized account access.",
+        "Lack of computer access contributed to the author failing an English course."
+      ],
+      "organizations": [
+        "Mohawk Valley Community College",
+        "ACS"
+      ],
+      "people": [
+        "Jesse Buckley"
+      ],
+      "summary": "Jesse Buckley describes his experiences at Mohawk Valley Community College, where he faced disciplinary action and account lockouts for sharing utility scripts with other students. He details a conflict with the System Administrator over access to manuals and PC labs, eventually leading to academic failure in an English course due to denied computer access. The account highlights early tensions between student-led technical assistance and rigid institutional administrative control.",
+      "title": "The Buckley Case",
+      "topics": [
+        "student rights",
+        "system administration",
+        "academic freedom",
+        "computer access"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 15 Nov 1991 15:28:56 GMT",
+      "from": "buck@pool.info.sunyit.edu (Jesse Buckley)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1991Nov15.152856.25079@pool.info.sunyit.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "The Buckley Case.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Nov 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "A single administrator can manage approximately 2000 users if student assistants are utilized and the majority of users are low-intensity.",
+        "The primary failure in computing center communication is the use of bureaucracy to deflect user questions rather than educating the user base."
+      ],
+      "organizations": [
+        "University of Kentucky"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Sanjay Kapur"
+      ],
+      "summary": "Wes Morgan responds to proposals regarding the relationship between system administrators and users in an academic setting. He discusses the challenges of maintaining manageable user-to-admin ratios, noting that a small percentage of users typically require the most support. Morgan emphasizes the importance of direct communication and educational transparency over bureaucratic redirection or vague 'fixed it' responses.",
+      "title": "Re: User/admin communication",
+      "topics": [
+        "system administration",
+        "user support",
+        "academic computing",
+        "communication"
+      ]
+    },
+    "identity": {
+      "date": "18 Nov 91 15:02:15 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1991Nov18.150215.11121@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Re: User/admin communication.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Nov 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Daily Iowan reported that UI computers contained over 70,000 pages of pornography.",
+        "The reported figure likely represented total Usenet postings rather than actual stored pornographic content.",
+        "Local legal disputes over the movie Taxi Zum Klo were increasing pressure on the university to censor materials.",
+        "Iowa state legislature may review and remove educational exemptions for laws regarding sexual exploitation of minors."
+      ],
+      "organizations": [
+        "University of Iowa",
+        "Daily Iowan"
+      ],
+      "people": [
+        "Douglas W. Jones"
+      ],
+      "summary": "Douglas W. Jones reports on a Daily Iowan article claiming University of Iowa computers contained 'over 70,000 pages' of pornography via Usenet. Jones argues the figure is an inaccurate count of total postings and warns that this media coverage, combined with local controversies over the film Taxi Zum Klo, could lead to increased campus censorship. He specifically notes potential legislative changes to state laws regarding educational exemptions for sexually explicit materials.",
+      "title": "Alt.sex flap at U of Iowa",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "pornography",
+        "campus computing"
+      ]
+    },
+    "identity": {
+      "date": "25 Nov 91 18:27:40 GMT",
+      "from": "jones@pyrite.cs.uiowa.edu (Douglas W. Jones,201H MLH,3193350740,3193382879)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<9300@ns-mx.uiowa.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Alt.sex flap at U of Iowa",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Nov 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Broad prohibitions on noncommercial personal use (NPU) can create chilling effects on benign noncurricular uses of campus systems.",
+        "Policies prohibiting 'personal correspondence' or 'frivolous use' are often vague and overbroad.",
+        "Participating in academic freedom discussions via Usenet may technically violate strict university computing policies."
+      ],
+      "organizations": [
+        "UCLA",
+        "Loyola University of Chicago",
+        "University of Illinois at Chicago"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Mitch Pravatiner"
+      ],
+      "summary": "Mitch Pravatiner critiques university computing policies that prohibit 'personal use' of network resources. He argues that blanket restrictions on noncommercial personal use (NPU) are overly broad and could technically criminalize academic discourse, such as participating in the comp-academic-freedom-talk newsgroup. The author distinguishes between purely recreational activities like gaming and those involving the communication of ideas.",
+      "title": "On \"Personal Use\" restrictions",
+      "topics": [
+        "Acceptable Use Policy",
+        "Academic Freedom",
+        "Noncommercial Personal Use",
+        "Computing Resources"
+      ]
+    },
+    "identity": {
+      "date": "25 Nov 91 20:06:41 GMT",
+      "from": "U15289@UICVM.uic.edu",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<199111252159.AA14818@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "On \"Personal Use\" restrictions",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 21, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Broad prohibitions on 'offensive' material in university computer policies can prevent students from accessing legitimate bibliographic data via online library catalogs.",
+        "Rules against offensiveness in a university setting are incompatible with free inquiry."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Boston University",
+        "Ohio State University",
+        "University of Texas at Austin",
+        "University of Newcastle",
+        "James Madison University"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie argues that university policies prohibiting 'offensive' material on computer networks inadvertently restrict academic freedom by blocking access to legitimate library catalog searches. He provides examples of bibliographic entries containing profanity to demonstrate how broad speech restrictions hinder free inquiry. The post cites specific restrictive policies at several universities.",
+      "title": "Schools that outlaw on-line searches of library catalogs",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "acceptable use policies",
+        "library catalogs",
+        "online speech"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 21 Nov 1991 18:23:40 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1991Nov21.182340.11577@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Schools that outlaw on-line searches of library catalogs",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 25, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Transparency of per-user system load is necessary for user cooperation in shared computing environments.",
+        "Restricting process visibility protects individual user privacy from other non-privileged users."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Brack"
+      ],
+      "summary": "A debate between Carl Kadie and a user named Brack regarding the visibility of system processes via commands like 'ps -aux'. Kadie argues that allowing users to see who is consuming CPU resources encourages peer-to-peer cooperation and efficiency. Conversely, Brack argues that such transparency violates user privacy and that resource management should be the sole domain of the system administrator.",
+      "title": "System Accounting: Fascist Tool?",
+      "topics": [
+        "system administration",
+        "user privacy",
+        "resource allocation",
+        "Unix commands"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 25 Nov 1991 21:34:47 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1991Nov25.213447.14114@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Re: System Accounting: Fascist Tool?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "26 Nov 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Academic system usage is a public matter because it utilizes university resources.",
+        "Standard Unix commands like 'ps' and 'finger' are necessary for system optimization and user communication rather than being tools of surveillance.",
+        "Pseudonyms on university systems hinder effective administration and academic contact."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "EFF"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie",
+        "Jim Thompson"
+      ],
+      "summary": "Wes Morgan responds to a debate regarding whether standard Unix utilities (who, finger, ps, lpq, acctcom) are privacy-invading tools. He argues that in an academic model, system usage is a public matter and these tools are essential for resource management and user coordination. The post specifically critiques proposed confidentiality policies for the 'Statement on Computers and Academic Freedom'.",
+      "title": "Re: System Accounting: Fascist Tool?",
+      "topics": [
+        "user privacy",
+        "system administration",
+        "Unix utilities",
+        "academic freedom",
+        "resource monitoring"
+      ]
+    },
+    "identity": {
+      "date": "26 Nov 91 23:20:12 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1991Nov26.232012.2924@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n42",
+      "subject": "Re: System Accounting: Fascist Tool?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

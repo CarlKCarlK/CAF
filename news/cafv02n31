@@ -1,0 +1,676 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.31 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 31
+
+
+----------------------------------------------------------------------
+
+From: lorracks@wucs1.wustl.edu (Lorrie Ackerman)
+Subject: Article 0 -- Abstract of CAF-News 02.31
+
+[Week ending June 28, 1992 
+
+  [This issues guest editor is Lorrie Ackerman, lorracks@wucs1.wustl.edu
+     - Carl]
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+1. It is nearly impossible to keep students from posting to news, and there
+is no good reason to do this.  "It would seem to me that a little user
+education, and instilling a sense of responsibility in students....would
+be a lot more effective, and probably a lot less work." 
+    <pschleck.709318357@odin>
+
+2. Speculations on "why the First Amendment uses the language 'Congress
+shall make no law....' while the remainder of the Bill of Rights uses
+language like 'the right to [something] shall not be violated.'" 
+    <BqD4B4.2Lx@unx.sas.com>
+
+3. The news system for the Cleveland Free-Net "has been patched to support
+anonymous newsgroups as a class of moderated newsgroups, and all identifying
+information is removed from the header of an article before it is mailed
+to the moderator....The system seems to be quite effective...." 
+    <9206250251.AA04855@nextsun.INS.CWRU.Edu>
+
+4. Information overload on the net could be eased by the addition of meta
+discussion groups in which self-selected commentators make short comments
+on posts.  People could write kill files to select articles to read
+based on these comments. 
+    <1992Jun25.092338.8704@cadlab.sublink.org>
+
+5. "I have extensively revised and expanded many of the computing policies
+that apply to the largest educational network at Rice, Owlnet."  Includes
+notes on Rice's University Computing Policy, Owlnet Policies, Owlnet Policies
+Enforcement Guidelines, Owlnet Student Advisory Committee Charter, System
+Administrator Statement of Ethics, and Owlnet Application Agreement.  Also
+includes access information for these documents. 
+    <1992Jun27.181753.21585@eff.org>
+
+- Lorrie]
+
+
+
+
+In this issue:
+
+Paul W S KD3FU   63  >Posting priviledges in educational establishments
+Fred Welden     109  >[UPI] Supreme Court strikes down 'hate crime' statutes
+Stephen Trier    41  >Anonymous postings (was: [] More S/H)
+Alex Martelli   100  >would this be censorship?
+Carl M. Kadie   200  Rice U. - Overview
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Jun 23 13:36:30 1992
+From: pschleck@odin.unomaha.edu (Paul W Schleck KD3FU)
+Newsgroups: news.admin,alt.comp.acad-freedom.talk
+Subject: Article 1--Re: Posting priviledges in educational establishments
+Message-ID: <pschleck.709318357@odin>
+Date: 23 Jun 92 16:52:37 GMT
+Status: RO
+
+sd345@city.ac.uk (COLLIER M P) writes:
+
+>I have just installed News here at City (no small feet [sic]).
+
+>Before it goes live, I would like some ideas for ways of
+>preventing young, hot-headed, undergraduates from flooding the
+>Net.  I realise that I can prevent selected machines from posting,
+>what about selected users?
+
+(I've cross-posted this to alt.comp.acad-freedom.talk and directed
+followups there, as I have an hunch about where this is going).
+
+Well, your impression of students as "hot-headed" who need to be kept
+>from "flooding the net" certainly deserves further comment, but I will
+address the technical questions first.
+
+>Have people in other establishments bothered to do this.  For
+>example is it worth it if users can just telnet into the NNTP port
+>anyway?  I'd be interested in any comments/suggestions.
+
+Usenet is a sieve.  There are several ways in, including running your 
+own copy of inews, telnetting directly to the 119 port, and E-mailing
+to a news/mail gateways (ucbvax.berkeley.edu is the most well-known).
+To keep students from posting to news, you would have to deny them
+E-mail, compilers, and telnet connects to most sockets.
+
+Of course, the overriding question is, "Why?"  Most academic
+institutions in the U.S. have very open access policies for students.
+Sure, there are some net-vandals running around, but they get dealt with
+sooner-or-later.  Just because some punks are ripping pages out of
+library books, for example, doesn't mean all students should be shut out
+of the campus library.  It would seem to me that a little user
+education, and instilling a sense of responsibility in students (who have
+at least shown enough responsibility to get into and stay in college)
+would be a lot more effective, and probably a lot less work. 
+
+Why shouldn't students have access to such a valuable research tools as
+Usenet?  You have indicated in your signature that you are a programmer
+at a city college in the UK, obviously a fairly skillful one to have set
+up a news feed.  Perhaps that you have forgotten that one of the primary
+purposes of existence for a college is to serve students and their
+academic needs (in addition to faculty and their research).  Having put
+so much work into getting news running, you are understandable concerned
+about having your "baby" misused, but that's the risk you take.  A
+campus computing center exists to serve faculty and students, the latter
+of whom have paid tuition and contracted with the insitution to have
+those services provided to them.  Your elitism and prejudice do not make
+for good customer service.  An individual whose salary is paid, in part,
+by those customers should be a little more concerned about such things.
+
+I would assume that your college has a good Code of Conduct and related
+Use/Misuse Polices for campus computing resources?  If not, maybe now is
+the time to develop some.  I would recommend the Academic Freedom Archive
+at ftp.eff.org.  Carl Kadie, kadie@cs.uiuc.edu, will probably be posting
+more information about the archives, as well as more good counter-
+arguments for an open access policy to news.
+
+Paul W. Schleck
+
+pschleck@unomaha.edu
+
+
+------------------------------
+
+From caf-talk Caf Jun 24 15:50:56 1992
+Newsgroups: alt.censorship,misc.legal,alt.activism,alt.comp.acad-freedom.talk,alt.society.civil-liberty,alt.politics.correct,alt.discrimination
+From: sasafw@dobo.unx.sas.com (Fred Welden)
+Subject: Article 2--Re: [UPI] Supreme Court strikes down 'hate crime' statutes
+Message-ID: <BqD4B4.2Lx@unx.sas.com>
+Date: Wed, 24 Jun 1992 18:21:04 GMT
+Status: RO
+
+
+I asked why the First Amendment uses the language "Congress shall
+make no law. . . ." while the remainder of the Bill of Rights uses
+language like "the right to [something] shall not be violated."
+
+It seemed to me that this language implied that the States were 
+permitted to pass laws regarding the establishment of religion,
+abridging freedom of speech and the press, and so on.
+
+Thanks to all who replied via e-mail to give me their interpretations.
+These fell into two large groups:
+
+1) Explanations that the guarantees of the Bill of Rights were extended 
+to apply to the States by the Fourteenth Amendment.
+
+2) Various (some indignant) explanations of how the Supreme Court
+came to have the power to interpret the Constitutionality of
+State laws.
+
+I don't think either of these addresses the question I posed, so I
+sat down to draft the First Amendment in terms like the following
+nine, to see what might be wrong with it.
+
+The original text:
+
+"Congress shall make no law respecting an establishment of religion, or
+prohibiting the free exercise thereof; or abridging the freedom of speech,
+or of the press; or the right of the people peaceably to assemble, and to
+petition the Government for a redress of grievances."
+
+The 'corrected' text:
+
+"The right of the people to establish or freely exercise religion; to
+freely speak or publish their opinions; peaceably to assemble, and to 
+petition the Government for a redress of grievances, shall not be 
+abridged."
+
+How do they differ? 
+
+The original version:
+1) allows that someone else (such as States and municipalities) may pass 
+such laws all they want to.
+
+2) allows that these freedoms may be abridged by other means than the 
+passage of laws, without violating the Constitution.
+
+3) Fails to guarantee these freedoms to entities other than the people.
+(For example, if the State of North Carolina tried to establish a
+religion.)
+
+4) Does not call the establishment and practice of religion, and the
+speaking and publishing of opinions, rights.  It calls them freedoms
+instead.  Peacable assembly and petition ARE called rights in the
+latter portion of the amendment.
+
+Being of a suspicious bent, I wonder if one of these differences
+represents a reason that actually obtained at the time the amendment 
+was written.
+
+Likely candidates:
+
+1) A State already had an existing law respecting the establishment of
+religion or the free exercise thereof.  Had there been such a law, the
+authors of this amendment might well have specified that *Congress*
+could make no such law in this one amendment only, so as to gain that
+State's support for ratification.  If this is the case, then I think
+the authors bowed to expedience, and their intent was something like
+the 'corrected' text, which would make me happy.
+
+2) The authors wanted courts to be able to issue injunctions forbidding
+specific religious practices, or specific speeches or publications.
+This would not involve Congress making a law.
+
+3) I don't think 3 above has much to offer to speculation.
+
+4) This is, I think, the most interesting area for speculation.  Perhaps
+the intent of the authors was deliberately NOT to recognize a right to
+every religious practice, or every form or content of speech or press.
+Rather, these things are identified as freedoms--things that people 
+are generally free to do, but not guaranteed.  They are further such
+important freedoms that Congress is forbidden to curtail them by law,
+but further than this the authors were unwilling to go.
+
+Certainly the authors would have been able to imagine religious 
+practices, and speeches and publications, which they felt could be 
+legitimately suppressed by law.  For example, human sacrifice, slander,
+libel, and fraud.  Reading over the remainder of the Bill of Rights, 
+I find no other thing specifically identified as a "right" which the 
+authors would have identified as subject to such abuse.  I think 
+history has shown that it is these supposed rights to religious
+practice, free speech, and free press, that have caused the greatest
+controversy, and the greatest care in balancing the conflict of
+one individual's rights against another's.
+
+If this is the case, I'm a bit unhappier.  Frankly, I think a right
+to every religious practice is a pretty dangerous thing to promise
+people, but I think speech and press ought to be truly free.
+
+Does anyone else care to speculate, or am I just talking to myself
+out here?
+
+
+
+-- 
+--Fred, or another blind 8th-century BC  |  sasafw@dobo.unx.sas.com
+        Hellenic poet of the same name.  |
+
+
+------------------------------
+
+From caf-talk Caf Jun 24 22:51:57 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: sct@po.cwru.edu (Stephen Trier)
+Subject: Article 3--Re: Anonymous postings (was: []  More S/H)
+Message-ID: <9206250251.AA04855@nextsun.INS.CWRU.Edu>
+Date: Thu, 25 Jun 1992 02:51:44 GMT
+Status: RO
+
+
+Douglas Jones, jones@pyrite.cs.uiowa.edu, writes:
+> A better scheme might be to allow anonymous postings to moderated
+> newsgroups.  Then, I could establish a local newsgroup for my class and
+> act as moderator.  I would want to guarantee to my students that their
+> postings were actually anonymous, that is, that no personal identifying
+> information was available to me, the newsgroup moderator (keep in mind
+> that I have access to lots of log files on the machines in question!).
+
+A mechanism like this was implemented for the Cleveland Free-Net (CFN).
+The news system (C News) has been patched to support anonymous newsgroups
+as a class of moderated groups, and all identifying information is removed
+>from the header of an article before it is mailed to the moderator.
+
+An anonymous newsgroup, like any other newsgroup on the system, is installed
+at SIGop request.  The Law, Medical, Gay and Lesbian, and Environmental
+SIGs of CFN come to mind as users of anonymous newsgroups.
+
+Log files of identities aren't an issue, because they are not kept.  In
+addition, all system log files can be read only by the system administrators.
+They cannot be read by the moderators or users, providing a strong guarantee
+of anonymity.
+
+The system seems to be quite effective, especially in the medical areas.
+As far as I know, anonymous newsgroups have not been used in educational
+areas of CFN.  It is a fascinating idea, though.
+
+       Stephen
+
+
+Disclaimer of opinion: These are MY opinions, not CWRU's.  Don't blame them.
+
+
+--
+Stephen Trier                      I never think of the future.
+sct@po.cwru.edu                    It comes soon enough.
+				       - Albert Einstein, 1930
+
+
+
+------------------------------
+
+From caf-talk Caf Jun 27 00:05:48 1992
+From: martelli@cadlab.sublink.org (Alex Martelli)
+Newsgroups: news.admin,alt.censorship,alt.comp.acad-freedom.talk,news.future,news.groups
+Subject: Article 4--Re: would this be censorship?
+Message-ID: <1992Jun25.092338.8704@cadlab.sublink.org>
+Date: 25 Jun 92 09:23:38 GMT
+Status: RO
+
+tt@tarzan.jyu.fi (Tapani Tarvainen) writes:
+	...
+:Censorship is not the only problem -- the sheer volume of information
+:is a big problem also.  Important information can be lost not only
+:because it's suppressed but also because it's buried under irrelevant
+:stuff one has no time to scan through.
+
+Agree 100% - information overload is getting to be as big a problem as
+censorship itself.
+
+:I believe the mechanism outlined above would be useful for some groups
+:-- not all, it would be just another alternative between normal
+:moderation and none at all, and of course it'd have to be voted on
+:just like normal moderation or name change or whatever.
+
+Disagree.  No need to vote or make it official in any way.  We could have
+MULTIPLE "selectors/critics/commentors/digestors" for a group, all self
+selected, each of whom, if he or she feels like it, could post a particular
+type of followup to any article, suggesting others to read, or not to
+read, it, or better still commenting on it with appropriate keywords so
+as to cathegorize the article and let potential readers select or kill
+it more easily.  It would help if there were some easy way to distinguish
+such comment-posts from "normal" posts even for users of old software, or
+the "comment-post" traffic could become annoying to such users.  An
+experiment I believe would be REALLY worthwhile would be to take a group,
+make another group for such comments on it (so those not interested can
+easily avoid receiving the comment-posts) and other metadiscussion, and
+hack a few newsreaders appropriately [Distribution:, or suitable other
+headers, might also work instead of the comment-post group, but selecting
+out the comment-posts would then be harder for people not interested if
+their, or their feeder's, sw is not up to it].
+
+Let's see how this might work, with an example scenario.  Suppose group
+alt.lang.basic is selected for this experiment; alt.lang.basic.metadisc
+is then formed.  Angela A, who wants to read all of alt.lang.basic anyway
+for her own reasons, decides to start metaposting as a public service.
+She follows up to all articles she reads, with a special key in her
+suitably hacked newsreader (say Control-F rather than just F), so that
+the followup will go to .metadisc, will only refer to the article
+being followed up, and will carry some suitable header identifiying
+it as a comment-post.  In the body of the metapost, she only puts a few
+keywords per article - maybe "C64" would mean the article will only make
+sense for C64 Basic, ditto "GW" for GWbasic, etc; "drivel" or "gem" would
+express her evaluation of the article; "humor", "flame", "beginner",
+"technical", "interpreter-writers-only", or whatever, might categorize
+it further.  Buster B, a sometime reader of alt.lang.basic, decides to
+tak advantage of the new service, and in HIS hacked newsreader is a way
+to autoselect, or autokill, articles based not only on the article
+itself, but optionally on the comments in .metadisc by one or more
+commentors he, personally, respects the opinions of.
+
+Nothing says Angela A is the ONLY commentor on alt.lang.basic!  Indeed
+Charlie C often disagrees with her (he knows because in HIS newsreader he
+reads all of alt.lang.basic anyway, PLUS for each article he sees the
+commentors' opinions of it), so much that he decides to become a
+commentor too, countering some of her "drivel" comments with a "don't-miss"
+of his own, and viceversa.  Now Buster gets to make a choice - he may
+autokill articles panned by BOTH Angela and Charlie, autoselect those
+praised by both, and get presented on the menu for non-automatic selection
+those where they disagree, with info on what both thought of the article.
+After a while he finds he actually agrees with Charlie much more often
+than with Angela, and may set his newsreader to let Charlie's opinion
+override Angela's, using Angela's metaposts only if nothing has been heard
+by Charlie on a give article.  And so on, and on.
+
+This will of course only help readers who are in no hurry to see posts, as
+it will take some time for metacommentors' feedback on various articles to
+propagate.  No worry!  I believe most of us news fen are in the "no hurry"
+cathegory for SOME groups - maybe we now avoid all of said groups, if they
+are high-volume, rather than try searching for that 15-20% of articles
+which WOULD actually interest us; with such mechanisms, that 15-20% would
+instead get read.  Many of us are in the read-all-of-it-anyway for SOME
+groups which are to us of consuming interest; if the mechanism for
+metacommenting is well built, we'll then be able to give a service to
+others with little extra effort.
+
+Things work like that in many others walks of life.  I can't possibly go
+see EVERY movie that gets screened, nor buy EVERY book; I rely on several
+sources to help me select - a critic I appreciate pans or praises the
+book or movie, a friend gives me a tip, some authors/directors I like so
+much I'll fall for anything by them anyway, and so on.  Posts are,
+individually, less weighty than books or movies, but there are so many
+more of them, that such selection help would be invaluable anyway.
+
+I have studiously avoided the term "moderator".  No need for ONE individual
+to assume such selection-help responsibility, much less to vote on him or
+her as "moderator"; multiple inputs to the individuals' selection process
+will only help.  If some person is SO widely agreed with, that his or her
+metacomments acquire the practical status of a "soft moderator" as you
+suggest, so be it; vice versa, SOME metacommentors will not be listened
+to by essentially anybody, and, again, so be it.  In most cases I believe
+one will want to weigh *several* metacommentos' opinions (automatically in
+one's newsreader selector/killer), if the idea takes roots and many people
+begin to metacomment.
+-- 
+Email: martelli@cadlab.sublink.org                   Phone: ++39 (51) 6130360
+CAD.LAB s.p.a., v. Ronzani 7/29, Casalecchio, Italia   Fax: ++39 (51) 6130294 
+
+
+------------------------------
+
+From caf-talk Caf Jun 27 14:18:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,comp.policy.admin
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 5--Rice U. - Overview
+Message-ID: <1992Jun27.181753.21585@eff.org>
+Date: Sat, 27 Jun 1992 18:17:53 GMT
+Status: RO
+
+Joseph A. Watters, the Deputy Director of Owlnet at Rice University,
+has sent me updated versions of Owlnet's computer policies.
+Interesting features include a Sys Admin Statement of Ethics and
+student committee that advises on policy and handles some of the
+discipline.
+
+I'm enclosing Mr. Watters overview letter (with his permission) and
+access information for this and related. To faciliate discussion, I'll
+post the documents as separate articles.
+
+================================
+>From jaw@rice.edu Sat Jun 27 12:47:27 1992
+>From: Joseph A. Watters <jaw@rice.edu>
+>Subject: Updated Rice University computing policies
+>To: kadie@cs.uiuc.edu
+>Date: Thu, 18 Jun 92 16:56:37 CDT
+>Cc: jaw@owlnet.rice.edu (Joseph A. Watters)
+>X-Mailer: ELM [version 2.3 PL11]
+
+Mr. Kadie,
+
+As you maintain and critique University computing policies, I thought
+it appropriate to send you updated editions of many of Rice
+University's computing polices.  I have extensively revised and
+expanded many of the computing policies that apply to the largest
+educational network at Rice, Owlnet.  The new policies and other
+documents are included in 6 messages that follow this one.  Please feel
+free to critique these, and post them to an appropriate newsgroup
+(comp.admin.policy?) for further public comment.  You may also archive
+and post all or parts of this message as explanatory comment to the
+archive material. The mail messages contain:
+
+Rice's University Computing Policy - You should already have this in
+the archive.  It hasn't changed, but I'm sending it along as part of
+the set.  Of significant note is the section requiring permission of
+the Vice President for Information Systems for a student to send
+communications off-campus and to access external computing facilities.
+Last semester, Owlnet obtained blanket permission for student users to
+access external computing facilities for educational purposes.  All
+Owlnet student users (1500 students) automatically receive permission
+as part of their account acquisition.  Existing users were given
+permission also.  Owlnet essentially found a way to give the students
+what they wanted, access to off-campus facilities, including e-mail and
+news posting, without requiring the University to go through the
+relatively arduous process of changing a University wide policy.
+
+
+Owlnet Policies - These are the policies that I have the most direct
+control and influence over.  They have been extensively revised based
+upon comments from students at Rice and comments from people such as
+yourself.
+
+Owlnet Policy Enforcement Guidelines - This document has been
+extensively rewritten since the last one in the archives.  The major
+change is a rewriting to incorporate the disciplinary function of the
+Owlnet Student Advisory Committee, a new student body whose charter is
+included in one of the messages.
+
+Owlnet Student Advisory Committee Charter - This charter establishes a
+student computer user committee with two main functions:  proposing
+and reviewing Owlnet computing policies with the purpose of having a
+formal mechanism for including student input into policy formulation;
+and acting as a disciplinary body for users accused of violating
+Owlnet computing policies.  The charter was originally written by a
+student.  I then formed a working group of myself, a system
+administrator and four students (the proposal author was one of them)
+to work out some specific issues with the charter.  The result of that
+working group is what you see.  The charter has essentially been
+adopted by the faculty committee that sets policy direction for
+Owlnet, and we anticipate forming the first committee this fall.
+
+System Administrator Statement of Ethics -  This statement was
+recently adopted by the system administrators in Rice's Information
+Systems division (these sys admins provide services to Owlnet).  It
+is a statement of how they will approach user privacy and
+confidentiality.
+
+Owlnet Application Agreement - This is the agreement that all new
+users sign.  I believe this one is a later version than the one in
+your archives.
+
+-- 
+Joseph A. Watters, Jr.		jaw@owlnet.rice.edu
+Deputy Director, Owlnet		director@owlnet.rice.edu
+Rice University
+Houston, Texas
+
+========================================
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+policies/rice.edu
+=================
+Computer policies for Rice University, especially Owlnet. (Rice is a
+private University in Houston, Texas.) The charter for the Owlnet
+Student Advisory Committe Charter is included. The two main functions
+of the committee are "proposing and reviewing Owlnet computing
+policies with the purpose of having a formal mechanism for including
+student input into policy formulation; and acting as a disciplinary
+body for users accused of violating Owlnet computing policies."
+
+=================
+policies/old.rice.edu
+=================
+Old computer policies ("User Agreement","Disciplinary Procedures",
+"Appropriate Use") for Rice University (especially Owlnet). Rice is a
+private University in Houston, Texas. These policies are under
+development and subject to change. The "Disciplinary Procedures" is
+interesting because it establishes a due process procedure just for
+computer infractions.
+(Critiqued, replaced by newer policies)
+
+
+
+=================
+policies/old.rice.edu.critique
+=================
+Critiques of the old computer policies at Rice University (especially
+Owlnet). Updated policies are now in force.
+
+Summaries: One critic calls the policy "uptight and authoritarian",
+saying: "Requir[ing] permission ahead of time to send email or use ftp
+offsite? Lock accounts with no warning? My God, why not just shoot
+them in the head? It'd be kinder." The Director replies that
+permission is readily given.
+
+Another critic says that parts are too vague and that privacy
+provisions may be inconsistent with general University policy,
+
+Yet another critic says "This is the most dangerous sort of policy, if
+what you say is true-- a policy which is routinely violated, but which
+is enforcible against 'troublemakers'-- whereas an oppressive policy
+strictly enforced will be challenged and revoked, this policy can stay
+on the books forever, becoming a weapon for administrators to use on
+any students who annoy them."
+
+=================
+policies/README
+=================
+Computer Policy and Critiques Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is a collection of the computer policies of many schools and
+networks. The collection also includes critiques of some of the
+policies.
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.4). It is in directory "pub/academic/policies".
+For email access, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom/policies <filenames>
+
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact Carl Kadie (kadie@eff.org). Directory "widener" contains
+additional policies (but not critiques).
+
+=================
+caf
+=================
+A description to the comp-academic-freedom-talk mailing list. It is a
+free-forum for the discussion of questions such as: How should general
+principles of academic freedom (such as freedom of expression, freedom
+to read, due process, and privacy) be applied to university computers
+and networks? How are these principles actually being applied? How can
+the principles of academic freedom as applied to computers and
+networks be defended?
+
+=================
+=================
+
+These document(s) are available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/policies/rice.edu
+  pub/academic/policies/old.rice.edu
+  pub/academic/policies/old.rice.edu.critique
+  pub/academic/policies/README
+  pub/academic/caf
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/policies rice.edu
+send acad-freedom/policies old.rice.edu
+send acad-freedom/policies old.rice.edu.critique
+send acad-freedom/policies README
+send acad-freedom caf
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

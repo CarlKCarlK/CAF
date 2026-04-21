@@ -1,0 +1,741 @@
+Computers and Academic Freedom (news version)
+Sun May 5, 1991
+Vol. 1, No. 4
+Editor: Carl M. Kadie (kadie@eff.org)
+
+[This issue includes three proposed user policies. One of the policies
+says that "personal development" use is OK, but "personal use" is not.
+Several notes address the practicality and wisdom of such a
+distinction.  Other notes discuss the policy of checking that user's
+newsgroup postings are proper according to the (sys admin's
+understanding) of a newsgroup's charter. Finally, more news about the
+NCSA e-mail policy: The old policy stands until (and unless) a new
+policy is created.
+
+        - Carl
+p.s. I sent Issue #3, covering the week ending April
+28, on Wednesday, May 1st. If you did not receive that issue, please
+send e-mail to kadie@eff.org]
+
+In this issue:
+
+louisg           57  >exploring new ways of thinking
+Tom Limoncelli   90  Written Policies
+ahlevy@ux1.cso    9  >New NCSA e-mail policy in<>sistent with Academic Freedom
+Sanjay Kapur    134  Policy requirements to prevent chaos.
+John McCarthy    30  Computers and Academic Fr<>m mailing list (batch edition)
+Rich Kulawiec   114  Replies to "Well, was I a censor?"
+U15289@UICVM     19  Why Kapur may be wrong on at least one count
+Sanjay Kapur     89  >
+Craig Partridge  45  >New NCSA e-mail policy in<>sistent with Academic Freedom
+Carl M. Kadie    48  >
+    Summary: NCSA asks a committee to review the policy (but doesn't
+    detail the complaints)
+Carl M. Kadie    33  >
+    Summary: More evidence that the NCSA forgot that they are a
+    University department
+Carl M. Kadie    11  >
+
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+
+Message-Id: <m0jXSiT-00001PC@vpnet.chi.il.us>
+Subject: Re: exploring new ways of thinking
+Date: Mon, 29 Apr 91 2:32:11 CDT
+From: louisg <louisg@vpnet.chi.il.us>
+X-Mailer: ELM [version 2.3 PL4]
+
+Kevin Smith writes: 
+
+[part of message deleted]
+
+> resources without the consent of those other people.  The specific case that
+> your response came from was a news administrator who returned articles that
+> were improperly posted to news groups -- each of which is a distinct forum
+> with a well defined and readily available charter.  (the other case, examining
+> file names seems a breach of privacy but nothing to do with academic freedom).
+
+Yes, but the administrator determined that the articles were improper based on
+*his* understanding of the charter.  He did not consult the people involved in
+the newsgroup.  If it were his newsgroup and he were moderator, then it is not
+only his right to monitor, but his responsibility.  These messages did not even
+make it out the door!  As for the charter, how can one person determine what
+is appropriate for 800+ newsgroups?  If I were to post a message to rec.guitar.
+classical about Yngwie Malmsteen and Marshall amps, how would someone that
+has no knowledge about classically influenced heavy metal know that it *is*
+an appropriate topic?  Hmm...electric guitars....doesn't seem to have anything
+to do with classical music...I'll chop it.
+
+The fact of the matter is that the sysadmin at any site should not be allowed
+to reject news postings unless there is a damn good reason for it (such as
+1001 complaints every day of the week about one user on his system).  I don't
+see how in any way he should be able to single-handedly determine the 
+appropriateness of *any* posting, nor do I think it is his responsibility.
+If a user on his system is causing wide-spread problems for the Net, then
+maybe he should do something, but that was not the case here.
+
+> 
+> Upshot of my perspective:  You are free to think however you want (even as a
+> lowly student !-).  However, if you want to participate in usage of shared
+> resources, it is completely your responsibility to learn how to effectively
+> use those resources.  You can not write off irresponsibility under the heading
+> of academic freedom.
+> 
+
+Thank you!  "it is completely *YOUR* responsibility"  !!!!!!  Not the sysadmins!Why is he even involved unless, like I said, there is a continual problem from
+one user?  And to paraphrase you, you can not write off censorship under the
+heading of effective resource usage.  How does the sysadmin of one site 
+determine if others feel that their resources are not being used properly?
+
+I agree that there are problems, but I don't think what was done was proper
+in *any* way.
+Louis
+
+
+-- 
+---------------------------------------------------------------------------
+!       "As above, so below; as below, so above" -- The Kybalion          !
+!       "I don't trust him; he has dark hair" -- My girlfriend's mother   !
+!       "So I'm stupid; what's your point?" -- Me                         !
++-------------------------------------------------------------------------+
+! Louis J. Giliberto, Jr.   ! The above is NOT to be reproduced in part   !
+! louisg@vpnet.chi.il.us    ! or in whole without PRIOR consent of me     !
+!                           ! (except to flame me in USENET or E-Mail).   !
+
+Message-Id: <9104292203.AA18193@pilot.njin.net>
+Date: Mon, 29 Apr 91 16:30:03 EST
+From: Tom Limoncelli @ Drew University <tlimonce@drunivac.drew.edu>
+Subject: Written Policies
+
+I would be interested in reading the written policies of other
+schools for comparison.  Could anyone post their policy? (I'd be
+particularly interested in the policy that Rutgers has.) 
+
+Could some FTP site administrator collect these and put them all into
+a directory.  It would be useful for other schools that are just
+looking to write their own.  Even if it was only 90% up-to-date it
+would still be of service to the community. 
+
+-Tom
+
+To start the ball rolling, here is what Drew publishes in their 
+Technology Handbook: (not in this order)
+
+1.  A policy statement that says, "don't make prank
+    phone calls or use other people's phone authorization codes".
+2.  we re-print from EduCom "A Guide To The Ethical And
+    Legal Use of Software For Members of the Academic Community". 
+3.  The policy statement below (reprinted from the Drew University
+    Handbook 1989-1990 Section III: "Administrative Regulations:
+    Misuse of Computer Facilities")  It's short, quite "from the
+    70's", and vague.  I'm not looking for critiques, I'm graduating
+    in 3 weeks (anyone want to hire a very technical CS major with good
+    interpersonal skills?) and no body here that could change the
+    policy is on this mailing list.  By the way, to put this in 
+    context, Drew University is a small (1400 students) liberal arts
+    college with a tiny graduate school and a microscopic theology
+    school.  It's in Madison, New Jersey.
+
+------------------------------ cut here ------------------------------ 
+
+(Typos are mine.  -Tom)
+
+Computing resources, like other resources of the University, are
+provided for the use of Drew faculty, students, and staff.  The
+privilege of use by a student is not transferable to another student,
+to an outside individual, or to an outside organization. 
+
+The theft or other abuse of computer time or facilities is not
+different from the theft or abuse of other University property, and
+violators of the computing privilege will be subject to disciplinary
+action under the usual procedures for dealing with non-academic
+discipline. 
+
+Abuses include but are not limited to:
+
+1.  Unauthorized entry into a file, either to read, execute or change.
+2.  Unauthorized transfer of files (copying).
+3.  Unauthorized entry into a network.
+4.  Unauthorized use of another individual's computer account.
+5.  Use of computing facilties to interfere with the work of another 
+    student.
+6.  Unauthorized divulgence of code words or other means of entry.
+7.  Any intentional action to alter or destroy a diskette, other 
+    recording media, or its content.
+
+Use of the computing privilege to interfere with normal operation of 
+University computing systems or any other systems accessible throught 
+the University is prohibited and is subjected to severe disciplinary 
+action.
+
+Users of computing facilities should be sensitive to the possible 
+abuses of those facilities and should not act in ways to encouarge 
+misuse by others.
+
+
+Date: Tue, 30 Apr 91 11:15:08 -0500
+Message-Id: <9104301615.AA18715@ux1.cso.uiuc.edu>
+From: ahlevy@ux1.cso.uiuc.edu
+Subject: Re: New NCSA e-mail policy inconsistent with Academic Freedom
+
+It is important to note that NCSA has  not suspended its policy by which
+its grants to its director the right to monitor email.  It has only
+requested suggestions from a University committee concerned with computers
+and networking as to how it could establish procedures for revising its
+policy.  This committee has not yet met to consider the issue.
+
+I do not consider that warning one that one's mail may be opened is 
+sufficient to permit the carrier of that mail to open it.  
+
+Date: Tue, 30 Apr 1991 16:37 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Subject: Policy requirements to prevent chaos.
+Message-Id: <922ADE512800A959@ccmail.sunysb.edu>
+X-Organization: State University of New York, Stony Brook
+X-Vms-Cc: SKAPUR
+
+
+    I am one of those beings most disliked in this mailing list, yes, I 
+    am The System Administrator of a Campuswide Multiuser System.  
+    Yes, I am a human being and yes, I do believe very strongly in 
+    the freedom of the press.  I also believe that academic freedom 
+    has limits which exist to prevent chaos and anarchy.
+
+    Recently, there has been a lot of discussion in the media about what a 
+    University's policy on Privacy and Academic Freedom should be in 
+    so far as Multi-user Computing and Computer networks are concerned.
+    In fact discussing this issue is the purpose of this mailing list.
+
+    I believe the points stated below should be part of any such 
+    policy.  Otherewise it just will not work.
+
+    I will welcome comments and even flames.  I would very much like to
+    know "Why I Am Wrong" if you disagree with me on the following.  I just 
+    have one request: If you do flame me, please read the whole message twice
+    before flaming me.
+
+    I suspect that everyone on this list will be interested in the comments 
+    you make to the following, so please reply to the list.
+
+
+Sanjay Kapur                           |Internet:    Sanjay.Kapur@sunysb.edu
+VAX Systems Staff, Computing Services, |Bitnet:      SKAPUR@SBCCMAIL
+State University of New York,          |SPAN/HEPnet: 44132::SKAPUR
+Stony Brook, NY 11794-2400             |Phone:(516)632-8029, FAX:(516)632-8046
+
+-------------------------------------------------   
+    
+    1) In any policy, the following should be explicitly stated:
+    
+          "Computing Services staff, especially the Systems support 
+          office will not be liable for the contents of any message 
+          on the system or any message sent or received on the 
+          system under ANY circumstance."
+          
+     Rationale:  If the Systems staff is to be held liable for the 
+     contents, then they have the obligation to censor.
+     
+     Also it should be made clear that anyone who gives their password 
+     knowingly and willingly to someone else is effectively giving them 
+     the power of attorney in that the user is responsible for any action 
+     taken by the person to whom the password is given.
+     
+     2) The policy should very clearly state that:
+     
+     	The sole purpose of the user's account is for University 
+        purposes which includes academic discussion and personal 
+        development.  It is not meant for personal use just like 
+        University Stationary is not meant to be taken home and used to 
+        write grocery lists or the office phone to make personal calls 
+        without reimbursing the university.
+     
+     3) The academic freedom on computing services computers should be 
+        discussed in the much wider context of the campus and other 
+        services and facilities provided by the campus.  If a message 
+        can be posted electronically, the University policy should 
+        somehow state that the exact same message can be posted on any 
+        public Bulletin board on campus without fear of it being removed 
+        by "offended" parties.
+     
+     	Academic freedom on Computers should be the same as on other 
+        places. Computer resources cost money.  Disk space, CPU, and I/O 
+        are all "scarce" resources which cost money just as real as 
+        paper duplication charges.  If the university will pay for 
+        duplicating the message on paper, there should be no problem 
+        with also duplicating a similar or same message on the computer.  
+        If the University is willing to pay mailing charges for the 
+        message to be mailed through U.S. Mail in paper envelopes to the 
+        far corners of the globe, the university should have no problems 
+        with doing the same for electronic mail. 
+     
+     	Electronic mail should not be treated as a "free" resource.
+     
+     4) Systems staff have to intervene for the following reasons and 
+        also refer the matter to  an appropriate Disciplinary Body:
+     
+        a) there is obvious abuse of resources, e.g. a user (say Joe's 
+           brother) prints a thousand copies of the menu or 
+           advertisements for Joe's Restaurant.
+        b) there is imminent danger: A user discovers an operating 
+           system bug and exploits it to either crash the system or 
+           otherwise damage or examine another user's files without 
+           permission.
+        c) The user releases a worm/virus knowingly on the system.
+        d) A destructive program which either damages a resource or 
+           denies other users the use of the resource: an example is 
+           printing certain patterns on a line printer to deliberately 
+           wear out a printer ribbon.
+        e) A user guesses or otherwise discovers another user's password 
+           and breaks into the account and starts abusing it.  The 
+           account may have to be disabled without the true owner 
+           knowing anything about it.
+        e) A user knowingly and illegally breaks in or attempts to break 
+           into another computer system.  May be covered by the next 
+           clause.
+        f) any other action which may be in gross contravention of 
+           University policy or in gross violation of local, state or
+           federal law or International treaty.
+        
+     5) Other Problems that require the systems staff to intervene but 
+        do not require any disciplinary action:
+     
+        a) Misdirected mail has to be forwarded to the correct 
+           addressee.
+        b) The system runs out of a resource (e.g. disk space) and some 
+           users have to be arbitrarily locked out till the problem can 
+           be corrected.
+        c) A user releases a worm/virus unwittingly.
+        d) A runaway program. For example a program fills up the spool 
+           or a program sends a very large number of the same message to 
+           the same address thus blocking  the network and denying 
+           access to other users for a long period of time.
+        e) A user signs on to a large number of active mailing lists and 
+           goes right away on vacation for (say) more than three months.
+        f) Other "denial of service" security violations.  An example is 
+           a user who submits hundreds of batch jobs at the same time on 
+           all the batch queues.  This can result in other users having 
+           to wait a long time (maybe days) before their job can run.
+
+
+Comments:
+
+    Scholars of the "Freedom of the Press" know that freedom of the press is
+    the freedom of the Owner of the press to publish what the Owner wants, not
+    the freedom of the Op-Ed page writers, not the freedom of the letter 
+    writers or the freedom of the correspondents or reporters.  It is also
+    the freedom of the distributor (e.g. newspaper seller) to not distribute or
+    sell a particular issue.  Freedom of the press does not mean that the use
+    of the press is free, only that if you own a press or can find someone
+    willing to rent you the use of one, you can publish what you want.
+
+From: John McCarthy <jmc@dec-lite.stanford.edu>
+Message-Id: <9105011453.AA22372@DEC-Lite.Stanford.EDU>
+Subject: Computers and Academic Freedom mailing list (batch edition)
+
+What university (and other organization) policies should be.
+
+1. Personal non-commercial use should be tolerated to the extent
+that it doesn't increase costs substantially.  The cost of having
+segregated facilities is too high.  We allow people to write
+personal letters on university desks, and we don't monitor internal
+calls to see if they are business related.  As computing gets
+cheaper, this tolerance should increase.
+
+2. Whether universities have legal obligations or not, they should
+grant the right to privacy of email.  Indeed Congress should eventually
+establish a legal right to privacy of email corresponding to the
+privacy laws for telephone conversations.  It may take a while to
+formulate such a law precisely.
+
+3. Universities shouldn't worry about whether they will be held responsible
+for what someone says on email or usenet postings.  There have been
+no suits so far, and the use of company desks to right letters hasn't
+led to suits either.  Whatever hypothetical risk there might be should
+be tolerated.
+
+4. Computers offer the opportunity to extend freedom of the press far
+beyond what exists with print media, and this opportunity should be
+taken.  In fact, it has been taken with usenet and with mailing lists.
+The reason is that the cost of providing universal access to
+electronic publication is one that society can readily afford.  The
+limitation is and will remain the ability of readers to select what
+they will pay attention to with the aid of moderators (who should
+really be called editors by analogy with print media).
+
+Date: Wed, 1 May 91 10:56:25 EDT
+From: rsk@gynko.circ.upenn.edu (Rich Kulawiec)
+Posted-Date: Wed, 1 May 91 10:56:25 EDT
+Message-Id: <9105011456.AA24798@gynko.circ.upenn.edu>
+Subject: Replies to "Well, was I a censor?"
+Cc: rsk@juniper.circ.upenn.edu
+
+
+Louis J. Giliberto, Jr.  writes:
+
+>Yes, but the administrator determined that the articles were improper based on
+>*his* understanding of the charter.  [...] As for the charter, how can one
+>person determine what is appropriate for 800+ newsgroups?  [ Example deleted]
+
+I never tried to cut with so fine a blade - your example article would have
+gone out without comment from me.  You're quite right -- one person can't
+keep track of all the newsgroups, and couldn't back then even were there 
+were half as many as today.  But since I was not trying to make judgements
+that required intimate knowledge of the workings of all the groups, this
+wasn't a problem.  Let me give you two examples that might clarify the
+sort of things that I did look for and act on:
+
+	1. An article which contains 300+ lines of a previous article (i.e.
+	quoted in its entirety) and then contains the single additional line
+	"Right on, dude.".  This is clearly inappropriate for *any* Usenet
+	group - see the netiquette articles in news.announce.newusers.
+
+	2. A resume posted to misc.jobs.offered, comp.unix-wizards, and,
+	say, comp.os.mach.  Clearly, resumes belong in misc.jobs.resumes,
+	and only there -- again, this is a pretty easy call, given the
+	netiquette articles in news.announce.newusers.
+
+Incidentally, these are both real examples.  As a rough guess, I'd say that
+over about a five-year period, I probably bounced about 50 articles, most of
+which went right back out within a day or so with the problems fixed.
+
+Louis continues:
+>The fact of the matter is that the sysadmin at any site should not be allowed
+>to reject news postings unless there is a damn good reason for it (such as
+>1001 complaints every day of the week about one user on his system).
+
+Would "a damn good reason" include "news will go away, completely, unless
+something is done"?  That very solution to the problem was recommended
+by some people and considered seriously for quite a long time.
+
+Carl Kadies writes:
+
+>q: Is it OK to inspect all notes and to censor out notes that are not
+>of a moderate tone?
+
+I would like to refer you back to my original article: please note carefully
+that none of what I did had any relation to the "tone" or "phrasing"
+of any article.  At no time did I ever cancel an article, or request
+that a user revise an article, because of what it said or how it said it.
+I limited my intervention to dealing with the *form* of articles only.
+In other words, I really didn't care what people wanted to say, as long
+as they said it in the right place (newsgroup) and did so with the
+appropriate form (i.e. observing basic netiquette by not including hundreds
+of lines of a previous article, etc.).
+
+>q: Is it OK to inspect all notes and to censor out notes that may
+>be libelous?
+>
+>a: Inspecting all notes before they go out is inconsistent with
+>academic freedom. It is prior restraint.
+
+Again, please read my original article carefully -- I did not inspect notes
+before they went out.  I inspected them *after* they had already been posted
+and were on their way out onto Usenet; those which I removed were deleted
+by means of a news "cancel" message, which more-or-less chases down
+articles and removes them.  I also did not inspect notes for libelous content.
+
+Joe Wells writes:
+
+>Even if you didn't abuse the mechanism, and we have only your word on
+>this, the mechanism you set up is very easy to abuse.
+
+I was going to rebutt your comments point-by-point, but frankly, I don't
+see that it would do any good at this point -- if you're going to question
+my word, how can I persuade you of anything?  How can you and I (and
+everyone else) hold a dialogue that has meaning if we do not believe each
+other, and, at a minimum, credit each other with good intentions, regardless
+of our disagreements?
+
+I don't see what I would have to gain by lying about what I said or did;
+if it was my intent to do so, I might have been better served by simply
+remaining out of the discussion.  If you check back, you'll note that
+Stan didn't actually name me -- I named myself, explained what I did and
+why, and indicated that I had an open mind and was ready to be persuaded
+to change my viewpoint.  But I won't be persuaded by having my integrity
+questioned.
+
+George Rickerson writes:
+
+>I suppose technically you were a censor, but only in the least offensive (to
+>me) sense of the above-quoted definition.  The rules are reasonable, and it
+>sounds like you enforced the rules in a reasonable manner.  Academic freedom
+>is not a synonym for anarchy, in my opinion.  However, the basis of my
+>opinion gets somewhat wobbly after thinking about the following definition
+>from the same dictionary:
+
+George, I think you've hit on something here.  Yes, it sure does appear
+that according to the Random House definition that I was technically
+acting as a censor.  I'm not very comfortable with that idea; and I must
+admit that if I were in the same situation again, I'm not sure that I
+could come with a better solution to the problem.   I'm also not sure how
+to square this with the definition of academic freedom that you cited...
+which, of course, is why we're having this discussion.  I'm going to mull
+this over for a while and see if there is a way to reconcile the use of
+shared computer resources (news, mail, disk space, etc.) with the traditional
+concept of academic freedom.
+
+I'd like to note something in passing -- according to the Random House
+definition that George cited, everyone moderates a Usenet newsgroup is
+a censor.  So is everyone who moderates a Usenet, Internet or Bitnet
+mailing list...including the person who produces the "moderated/edited"
+version of *this*, the computers-and-academic-freedom discussion list.
+
+Cheers,
+Rich
+
+From: U15289@UICVM.uic.edu
+Message-Id: <9105011927.AA13111@eff.org>
+Date: 1 May 1991 14:17:12 CDT
+Subject: Why Kapur may be wrong on at least one count
+
+     In his posting on a suggested e-mail policy, Sanjay Kapur writes that
+accounts should be specified as being exclusively for "university" as opposed
+to "personal" purposes, the former including "academic discussion and personal
+development."  How can personal "development" be effectively segregated from
+personal "purposes?"  Most of the newsgroups on NETNEWS, as it is called at
+this installation, appear to be replete with items which are not, in the
+narrow sense, "academic discussion."  A number of the other postings to
+comp-academic-freedom-talk the last couple of days have, I think, responded
+quite cogently to this issue; the consensus among them is that a strict lim-
+itation to "academic" purposes is unworkable, unnecessary, and undesirable,
+while recognizing that abuses could occur, and should be dealt with when and
+only when they do.  I applaud their defense of the maximum feasible latitude
+for the individual in these matters.
+
+
+                                    Mitchell A. Pravatiner
+                                    University of Illinois
+                                    Chicago
+
+Date: Wed, 1 May 1991 22:43 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Subject: Re: Why Kapur may be wrong on at least one count
+Message-Id: <8E75F7AFA400C18A@ccmail.sunysb.edu>
+X-Organization: State University of New York, Stony Brook
+X-Vms-Cc: SKAPUR
+
+Mitchell,
+
+Thank you for your comments.  One of the better parts of this mailing list is 
+that nearly all articles have been well thought out and present points of view 
+which some may disagree with but can not dismiss as nonsense.
+
+
+>
+>     In his posting on a suggested e-mail policy, Sanjay Kapur writes that
+>accounts should be specified as being exclusively for "university" as opposed
+>to "personal" purposes, the former including "academic discussion and personal
+>development."  How can personal "development" be effectively segregated from
+>personal "purposes?"  
+
+I agree that development may sometimes be difficult to separate from personal 
+purpose.  But, I am more concerned with theft of resources rather than 
+simple misuse.
+
+A simple example:  printing out a 10000 copies of an advertisement on a 
+University's high speed laser printer for your brother's restaurant 
+is personal "purpose" and not personal "development".
+
+Personal development should have a very broad definition but there should be 
+some reasonable limits.
+
+>Most of the newsgroups on NETNEWS, as it is called at
+>this installation, appear to be replete with items which are not, in the
+>narrow sense, "academic discussion."  A number of the other postings to
+>comp-academic-freedom-talk the last couple of days have, I think, responded
+>quite cogently to this issue; the consensus among them is that a strict lim-
+>itation to "academic" purposes is unworkable, unnecessary, and undesirable,
+>while recognizing that abuses could occur, and should be dealt with when and
+>only when they do.  I applaud their defense of the maximum feasible latitude
+>for the individual in these matters.
+
+The distinction between academic discussion and Usenet can be made and 
+should be made.  I propose that just as there are public libraries which 
+carry a different sort of collection than University libraries, it is 
+the responsibility of the local community and not the University to carry 
+and make accesible Usenet news.
+
+Usenet news grew out of a mix of commercial organizations and Universities.  
+It was never a purely academic network.  Giving it the protection of academic 
+freedom is unjustified both by its history and its contents.
+
+Please, let us keep the "freedom of the press" and "academic freedom" separate 
+issues.
+
+>
+>
+>                                    Mitchell A. Pravatiner
+>                                    University of Illinois
+>                                    Chicago
+
+Sanjay Kapur                           |Internet:    Sanjay.Kapur@sunysb.edu
+VAX Systems Staff, Computing Services, |Bitnet:      SKAPUR@SBCCMAIL
+State University of New York,          |SPAN/HEPnet: 44132::SKAPUR
+Stony Brook, NY 11794-2400             |Phone:(516)632-8029, FAX:(516)632-8046
+
+
+Message-Id: <9105021115.AA05692@garuda.sics.se>
+Subject: re: New NCSA e-mail policy inconsistent with Academic Freedom
+From: Craig Partridge <craig@sics.se>
+Date: Thu, 02 May 91 13:14:58 +0200
+
+
+I'd just like to add my two cents to this discussion, having spent a few
+years as one of the staff of CSNET, which runs a large network much of
+which was e-mail only when I was on the staff.
+
+Much of the NCSA policy statement was reasonable (though I would have liked
+a less difficult tone).  It is true that network admins cannot assure that
+mail is confidential due to the need to monitor lines, and yep, every so
+often, mail gets misdelivered (but so does postal mail).
+
+Careful effort by postmasters can minimize privacy risks.  Programs exist
+to allow postmasters to read mailboxes of "dead" letters (letters that
+were undeliverable) in such a way that the postmaster only sees the
+headers not the contents of the messages, and can makes disposition 
+decisions (such as who to forward the mail to) just by reading the header
+(much as the post office returns mail based on what's on the outside of
+the envelope whenever possible). [Don't ask me for this software -- I
+don't have it -- I just recall that some sites used it].  Packet printers
+that only print protocol headers also exist.
+
+The point here is that yes there is a privacy risk, but a good administrative
+system can minimize them, at least within an organization (obviously, once
+the mail gets out on the network, you're at the mercy of the network operators
+of the systems your mail goes through).
+
+The final issue is about the director's ability to read other's mail.  I
+personally view that as unreasonable.  NCSA may have an interest in identifying
+abuse of mail systems, but that doesn't require reading mail.  For example, just
+tracking sizes and number messages and where messages are going (outside/within
+NCSA -- no need to keep actual user addresses) is sufficient to identify most
+abuses -- there's no good reason to be reading the messages.  (I confess that
+tracking people's mailing habits probably feels like a modest privacy invasion
+too -- it turns out to be a level I personally can deal with -- I know of
+corporate and organization mail rooms that called to ask why someone was
+sending so much mail or making so many long phone calls -- I've felt that
+was a not intolerable exercise of a corporation's right to control its
+spending).
+
+Craig Partridge (craig@sics.se)
+(on sabbatical at)
+Swedish Institute of Computer Science
+Box 1263
+S-164 28 Kista
+SWEDEN
+
+Date: Thu, 2 May 91 15:07:13 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9105022007.AA28870@herodotus.cs.uiuc.edu>
+Subject: Re: New NCSA e-mail policy inconsistent with Academic Freedom
+
+Summary: NCSA asks a committee to review the policy (but doesn't detail the complaints)
+
+[I received a "cc" of this letter - Carl]
+
+University of Illinois at Urbana Champaign
+
+National Center for Supercomputer Applications
+152 Computing Applications Building
+605 East Springfield Avenue
+Champaign, IL 61820
+217 244-0072
+
+~Date: April 29, 1991
+
+Dr. Leigh S. Estabrook
+Chairman, Campus-wide Committee
+  on Computing and Networking
+410 DKH, MC-707
+
+Dear Dr. Leigh Estabrook:
+
+Enclosed is a copy of NCSA's current "Policy on the Use and Security of E-mail
+Facilites," which has generated a complaint from a member of the UIUC faculty.
+At Vice Chancellor Liebman's suggestion, I ask that your committee either review
+the document or suggest an appropriate review mechanism.
+
+Please feel free to contact me if you need further information. Thank you for your
+assistance. I shall look forward to receiving the committee's input.
+
+Sincerely yours,
+
+James R. Bottum
+Deputy Director
+
+JRB/bp
+Enclosure
+cc:	G. Badger
+	C. Kadie
+	J. Liebman
+	M. Smith
+	L. Smarr
+
+[The enclosure is a copy of the policy (available via anonymous ftp
+from eff.org in file academic/ncsa.email). My critique is not
+included. I have, however, contacted Dr. Estabrook on my own and given
+her a copy of the critique.  (Also, I'm a mere student; but there are
+faculty members (like Dr. Levy) who object to the policy. - Carl.]
+
+Date: Thu, 2 May 91 15:50:49 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9105022050.AA29260@herodotus.cs.uiuc.edu>
+Subject: Re: New NCSA e-mail policy inconsistent with Academic Freedom
+
+Summary: More evidence that the NCSA forgot that they are a University department
+
+Recall that when I asked Michael Smith if the NCSA had considered
+general University privacy policies, he referred me to an article in
+IEEE Software and asserted that the NCSA email policy is consistent
+with the trend among Fortune 500 companies. (Notes from this
+conversation are available via anonymous ftp from eff.org in file
+academic/ncsa.email.)
+
+Today I read the article I think he was referring to. It is in the
+March 1991 issue of IEEE Software. It is a new column called "Law
+Review" written by George B. Trubow of the John Marshell Law School in
+Chicago. The column contains useful information about the email
+privacy and the law.
+
+The column tells private corporations how they can eliminate their
+employee's privacy without violating the law. In my opinion, the
+column has no relevance to a University.
+
+Here is some of the interesting info:
+The Epson e-mail case is not based on the ECPA, but rather on the California
+Constitution and a California law.
+
+In Trubow's opinion, the case of a Colorado city major who read the email
+of city council members violates the ECPA and tort law (whatever that is).
+
+Trubow suggests that private corporations:
+1) make their email policy explicit
+2) allow personal email (because it is inevitable)
+3) monitor email
+
+- Carl
+
+Date: Fri, 3 May 91 12:46:00 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9105031746.AA04308@herodotus.cs.uiuc.edu>
+Subject: Re: New NCSA e-mail policy inconsistent with Academic Freedom
+
+G. David Frye of the the U. of I.'s Computer and Networking Committee
+has sent me a note correcting the information given to me by
+NCSA's security officer.
+
+According to Mr. Frye, NCSA is *not* a department of the Graduate College.
+It is an independent unit (i.e. not part of any college) which reports
+to the Vice Chancellor for Research. It just so happens that Vice Chancellor
+of Research, Dr. Judith Liebman, is also the Dean of the Graduate College.
+
+Other independent units include the Computer Services Office (CSO) and
+the Computer-Based Educational Research Lab (CERL).
+
+

@@ -1,0 +1,820 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 03.17 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 03, No. 17
+
+
+----------------------------------------------------------------------
+
+From: rnovak@nyx.cs.du.edu (Robert Novak)
+Subject: Article 0 -- Abstract of CAF-News 03.17
+
+Topics:
+
+   1-6    about IRC and issues of public forums and free speech
+   6-9    about Internet institutions handling offending Usenet posts and
+               their posters
+   10-12  about anonymous connections to Internet and forged anon posts from
+               such connections
+
+
+Abstract:
+
+[Week ending April 11, 1993
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+  [This week's guest editor is Robert Novak, rnovak@nyx.cs.du.edu.  We
+  need new guest (or regular) editors, for information send email to
+  kadie@eff.org.  - Carl]
+
+Notes 1-6 are about IRC and issues of public forums and free speech
+
+1. "Is an IRC channel a public forum or a private meeting? A fictional
+example: A channel named the pro-choice channel is created and an
+anti-abortionist makes it unusable by generating so much traffic and hate
+talk that all the participants leave. Did the anti-abortionist disrupt a
+private meeting or exercise free speech? Since a channel can be
+controlled, you could make the case that this intrudee was not an invited
+guest."
+    <C527A8.40t@ux1.cso.uiuc.edu>
+
+2.  "The IRC is a public medium, and most admins will argue that there is
+no such thing as 'channel ownership' on the IRC network.... Channels are
+pretty well protected against the average bozo trying to disrupt things.
+But even with all these safeguards against casual abuse, IRC is still not
+considered a private medium."
+    <1psutjINN732@matt.ksu.ksu.edu>
+
+3.  "An IRC channel can be designed as a private forum [by setting it
+invite-only]. If some other joins without being invited, he explots a
+software bug or abuses IRC operator status and can therefore be judged as
+disrupting. I think that [non-invite-only, etc...] channels (who haven't
+chosen to run private) are public places."
+    <1prtdm$qbo@nz12.rz.uni-karlsruhe.de>
+
+4.  "I guess the real problem arose because the people who were trying to
+hold the meeting were prevented from doing it by a person (actually two)
+who were irc bombing the channel. Then the operator kicked the people out
+of the channel and they tried to mailbomb him personally."
+    <C53CIB.GEw@ux1.cso.uiuc.edu>
+
+5.  "The U. of Illinois has rules against disruptive and coercive action.
+The standard is substantial interference with the rights of others.
+University agents may act in the performance of their duties to end
+'disorder'. Penalties can be imposed after a disciplinary process."
+[includes relevant parts of the U of Illinois Code on Campus Affairs]
+    <C53I8M.K5M@cs.uiuc.edu>
+
+Notes 6-9 are about Internet institutions handling offending Usenet posts
+and their posters.
+
+6.  "The freedom of speech of a person is ONLY violated if he/sh is
+prevented from expressing his/her opinion BY THE GOVERNMENT. Therefore
+one's freedom of speech is NOT violated even if his/her account is
+disabled because of the unfavourable opinion he/she expresses through the
+account. I think it is inappropriate for the Director of the University
+Computing Services to cite 'freedom of speech' as the reason of not taking
+any action unless it is the University's own policy to let anyone use its
+facilities to express any opinion."
+    <C56L7H.As0@undergrad.math.uwaterloo.ca>
+
+7.  "It is not a good idea to terminate a student's access to university
+facilities merely because he/she has said something unpopular. Personally
+I think Jammer's posting was childish and offensive. While he is free to
+speak, I am free not to listen."
+    <C571D9.Dr7@cs.psu.edu>
+
+8.  "What I was saying is that the concept of 'freedom of speech' is not
+applicable in here, since no one's freedom of speech is violated whether
+Jammer's account is disabled or not. And that the U of Washington has
+every right to EITHER continue to give access OR disable it."
+    <C58IE9.HAs@undergrad.math.uwaterloo.ca>
+
+9.  "The University of Washington is a state university. In the U.S. that
+means that it *is* the government, bound by the 14th Amendment not to
+violate its students 1st Amendment rights. Most universities in the U.S.
+promise that students will be free of institutional censorship. It *is*
+the policy of most universities to allow students to use facilities to
+express any opinion they want." [includes brief excerpts from "Joint
+Statement on Rights and Freedoms of Students"]
+    <C58yMA.EKu@cs.uiuc.edu>
+
+Notes 10-12 are about anonymous connections to Internet and forged anon
+posts from such connections.
+
+10.  "On the Net level, there is no such thing as a User ID. Every user
+can define hir own From: lines. The only means to stop this would be to
+cut off IP access from those machines." 
+    <1ppamd$9oh@nz12.rz.uni-karlsruhe.de>
+
+11.  "Machines which don't perform any for of user authorization should
+not be permitted to post news articles. Forcing users to login to a Unix
+machine to post a message won't eliminate the opportunity to forge
+messages, but it would make it more difficult..."
+    <jstewart.734017933@cunews>
+
+12.  "A simple solution: Disable news posting from those systems that do
+not require user ID's, and put up a mail-to-news gateway at your site."
+    <bobmacdC589Ir.F5t@netcom.com>
+
+- Robert Novak]
+
+
+Contents:
+
+Ed Krol          27  Is IRC channel a 'public forum'?
+                 68  >
+                 39  >
+Ed Krol          10  >
+Carl M Kadie     69  >
+Bernard Lam      36  Freedom of Speech (Was: Offending Post)
+Nicol C So       39  >
+Bernard Lam      42  >
+Carl M Kadie     64  >
+Olaf Titz        80  Fake anon posting, Macs in dorms etc
+John Stewart     23  >
+Robert MacDowell 14  >
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Associate Editor: Leslie Regan Shade (shade@ice.cc.mcgill.ca)
+Associate Editor: Henry E. Hardy (seraphim@ais.org)
+Associate Editor: Karl Barrus (elee9sf@Menudo.UH.EDU)
+Associate Editor: Bruce Umbaugh (BDU100F@oduvm.cc.odu.edu)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Apr  6 19:19:30 1993
+From: krol@ux1.cso.uiuc.edu (Ed Krol)
+Subject: Article 1--Is IRC channel a 'public forum'?
+Message-ID: <C527A8.40t@ux1.cso.uiuc.edu>
+Date: Tue, 6 Apr 1993 11:15:29 GMT
+
+Our campus policy on free speech vs harassment revolves around
+whether the speaking was done in a public forum (where it would
+be declared free speech and most anything goes) vs a private forum
+where preventing people from holding a meeting could be viewed
+as harassment.
+
+Now here is the question is an IRC channel a public forum or
+a private meeting?  I can give a fictional example to illustrate: 
+
+A channel named the pro-choice channel is created and an anti-abortionist
+essentially comes in and makes it unusable by generating so much
+traffic and hate talk that all the particpants leave.
+
+Did the anti-abortionist disrupt a private meeting or exercise his
+right of free speech?
+
+If this happened on usenet in an unmoderated list we would say tough
+luck free speech.  It couldn't happen on a moderated list (except to the
+moderator which is another issue).  But since a channel can be controlled
+somewhat and you could make the case that this intrudee was not an
+invited guest.
+
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr  7 00:14:17 1993
+Newsgroups: comp.admin.policy
+Subject: Article 2--Re: Is IRC channel a 'public forum'?
+Date: 6 Apr 1993 17:06:43 -0500
+Message-ID: <1psutjINN732@matt.ksu.ksu.edu>
+
+krol@ux1.cso.uiuc.edu (Ed Krol) writes:
+
+>A channel named the pro-choice channel is created and an anti-abortionist
+>essentially comes in and makes it unusable by generating so much
+>traffic and hate talk that all the particpants leave.
+
+>Did the anti-abortionist disrupt a private meeting or exercise his
+>right of free speech?
+
+The IRC medium is a public medium, and most administers will argue
+that there is no such thing as 'channel ownership' on the IRC network.
+For the most part, I agree with this philosophy, and believe anything
+that one says on IRC *is* protected under the same guidelines as, say,
+standing in front of an auditorium or shouting out in a crowd.
+However, even in the 'Real World' there are limitations to these
+freedoms.  
+
+>If this happened on usenet in an unmoderated list we would say tough
+>luck free speech.  It couldn't happen on a moderated list (except to the
+>moderator which is another issue).  But since a channel can be controlled
+           ^^^^^^^^^^^^^^^^^^^^^^
+>somewhat and you could make the case that this intrudee was not an
+>invited guest.
+
+Actually, the question of a moderator being the *cause* of an IRC
+channel's problem *is* a frequent issue when these questions come up.
+To become a 'channel operator', either 1) you must be the one that
+created the channel, or 2) another channel operator must have passed
+this status to you.  If someone gets the channel op status and then
+abuses it, it's generally considered that the fault is with the people
+that gave her the opportunity.
+
+All this aside, channels are pretty well protected against the
+'average' bozo trying to disrupt things.  Anyone can use the 'ignore'
+command if the intruder is being offensive.  Anyone with channel op
+status can use the 'kick' command to boot the offender off the
+channel.  And if she keeps comeing back, anyone with channel op status
+can add her to the ban list, keeping her off the channel until someone
+removes her.  What's more, post channels have the 't' and 'n' flags
+set which keep people from disrupting a channel from outside, and from
+setting the topic without channel op.  There are even more flags that
+can be set for invite only, put a limit on the number of participants,
+channel op moderation, and others.
+
+But even with all these safeguards against casual abuse, IRC is still
+not considered a private medium.  Any determined individual can tap
+into the words being typed, or even break past the electronic barriors
+that protect IRC channels.  It is possible to communicate directly
+from client to client, but this is (as of yet) not implemented very
+well and is still pretty easy to crack.
+
+What all this blils down to is that if the Nth order of Zog wanted to
+hold a meeting using the IRC medium and established servers, they'd
+have about as much privacy as a Nudist Nuns convention in the
+middle of Times Square.
+
+Stratocaster
+
+
+-- 
+	   Steve Davis (I'm a student, not a spokesperson!)
+      strat@cis.ksu.edu - Kansas State University - Manhattan KS
+
+If voting could change anything, they would have made it illegal by now.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr  6 19:19:32 1993
+Newsgroups: comp.admin.policy
+Subject: Article 3--Re: Is IRC channel a 'public forum'?
+Date: 6 Apr 1993 12:35:02 GMT
+Message-ID: <1prtdm$qbo@nz12.rz.uni-karlsruhe.de>
+
+In article <C527A8.40t@ux1.cso.uiuc.edu> krol@ux1.cso.uiuc.edu (Ed Krol) writes:
+> Our campus policy on free speech vs harassment revolves around
+> whether the speaking was done in a public forum (where it would
+>... 
+> Now here is the question is an IRC channel a public forum or
+> a private meeting?  I can give a fictional example to illustrate: 
+>...
+
+An IRC channel can be designed as a private forum with 
+/mode #channel +i (perhaps +ptsi).
+This would clearly declare it as a private forum, since it requires an
+explicit invitation from the channel op (i.e. the channel creator(s))
+to join. If some other joins without being invited, he exploits a
+software bug or abuses IRC operator status and therefore can be judged
+as disrupting. The channel creators can also ban and boot off any
+person from that channel, thus qualifying the channel for status as
+private place even more.
+
+Since *every* IRC channel can be made private with this commands upon
+cration, I think that other IRC channels (who haven't chosen to run
+private) are public places.
+
+(Besides this obvious technical solution, I am amazed how people try to
+solve every potential conflict with legal means. Perhaps I'm just on
+the wrong side of the Atlantic, but I really don't understand these
+heated debates over the meaning of single words in some laws and
+regulations - I have really good experience with solving most problems
+on an informal level...)
+
+Olaf
+-- 
+        olaf titz     o       olaf@bigred.ka.sub.org      voice@49-721-60439
+  comp.sc.student    _>\ _         s_titz@ira.uka.de          praetorius@irc
+karlsruhe germany   (_)<(_)      uknf@dkauni2.bitnet        happy linux user
+what good is a photograph of you? everytime i look at it it makes me feel blue
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr  7 00:14:19 1993
+From: krol@ux1.cso.uiuc.edu (Ed Krol)
+Subject: Article 4--Re: Is IRC channel a 'public forum'?
+Message-ID: <C53CIB.GEw@ux1.cso.uiuc.edu>
+Date: Wed, 7 Apr 1993 02:05:56 GMT
+
+I guess the real problem arose because the people who were trying
+to hold the meeting were prevented from doing it by a person (actually
+two) who were irc bombing the channel.  (Using a script to send about
+1000 lines to the channel).  Then the operator kicked the people out
+of the channel and they tryed to mailbomb him personally.
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr  7 00:27:01 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Article 5--Re: Is IRC channel a 'public forum'?
+Message-ID: <C53I8M.K5M@cs.uiuc.edu>
+Date: Wed, 7 Apr 1993 04:09:58 GMT
+
+krol@ux1.cso.uiuc.edu (Ed Krol) writes:
+
+>I guess the real problem arose because the people who were trying
+>to hold the meeting were prevented from doing it by a person (actually
+>two) who were irc bombing the channel.  (Using a script to send about
+>1000 lines to the channel).  Then the operator kicked the people out
+>of the channel and they tryed to mailbomb him personally.
+
+The U. of Illinois has rules against disruptive and coercive action.
+The standard is substantial interference with the rights of others.
+University agents may act in the performance of their duties to end
+"disorder". Penalties can be imposed after (and only after) a
+disciplinary process.
+
+Here are the potentially relevant parts of the rules (from the Code
+on Campus Affairs):
+
+---start quote---
+
+Conduct for which students are subject to discipline or expulsion
+include, without limitation, knowingly engaging in disruptive or
+coercive action. Disruptive or coercive action include the following:
+
+(1) Participation in a disruptive or coercive demonstration. A
+demonstration is disruptive or coercive if it substantially impedes
+University operations, or substantially interferes with the rights of
+others, or takes place on premises or at times where students are not
+authorized to be. There is no requirement that University authorities
+order students to cease participation in a disruptive or coercive
+demonstration.
+
+[... (2) use of force or violence ...]
+
+(3) Unauthorized entry to or use of property or facilities owned or
+controlled by the University.
+
+[... (4) physical abuse ...]
+
+[... (5) endangering the safety or health of others ...]
+
+[... (6) Theft and vandalism ...]
+
+(7) Failure to comply with direction of a member or agent of the
+University acting in the performance of her or his duty in connection
+with a potential or actual disorder.
+
+(8) Any conduct which substantially threatens or interferes with the
+maintainence of appropriate order and discipline in the operation of
+the University, or any conduct on University property or in connection
+with a University activity which invades the rights of others. Without
+excluding other situation, examples include shouting, noisemaking,
+obstruction and other disruptive actions designed or intended to
+interfere with or prevent meetings, assemblies, classes or other
+scheduled or routine University operations or activities.
+
+(9) Inciting, aiding, or encouraging others to engage in a disruptive
+or coercive action.
+
+When, through the disciplinary process, a student is found to have
+knowingly engage in a disruptive or coercive action, as above defined,
+the penalty will be dismissal or, upon a finding that substantial
+mitigating circumstances exist, suspended dismissal or other sanctions
+or coercive actions.
+[....]
+-----end quote---
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr  9 22:45:34 1993
+From: blblam@cantor.math.uwaterloo.ca (Bernard Lam)
+Subject: Article 6--Freedom of Speech (Was: Offending Post)
+Message-ID: <C56L7H.As0@undergrad.math.uwaterloo.ca>
+Date: Thu, 8 Apr 1993 20:06:53 GMT
+
+In article <C565sA.3wD@watcgl.uwaterloo.ca>, lhclin@watcgl.uwaterloo.ca (Louis Lin) writes:
+
+> In article <C54yyJ.E12@newsflash.concordia.ca> davec@ECE.Concordia.CA (Dave Chu) writes:
+> >In article <1pvgetINN3ur@SALMON.ZOO2.CS.YALE.EDU> yan-dicky@cs.yale.edu (Dicky Yan) writes:
+> >>
+> >>Yes, I have done the same too. I got a mail from the Director of the 
+> >>University Computing Services citing the "freedom of speech" as the
+>...
+> 
+> I have also filed a complaint but yet to receive anything.  I like to point
+> out people should not be put off by the 'freedom of speech' thing.  True,
+> 'Jammer' has every right to say whatever he/she wishes, including racist
+> comments, but U of Washington(or any other institute) has no obligation to
+> provide the facility for his speech.  As Dave mentioned, someone up in
+> the food chain should have the power to do it.
+> 
+
+	I agree.  The freedom of speech of a person is ONLY violated if he/she
+is prevented from expressing his/her opinion BY THE GOVERNMENT.  Every private institution has the right to give access to its own property (e.g. computer account) to any individual.  On the other hand, it also has the right to withdraw those access any time if it so wishes.
+
+	Therefore, one's freedom of speech is NOT violated even if his/her account is disabled because of the unfavourable opinion he/she expresses through the account. (unfavourable as determined by the private institution, who actually OWNS the account).
+
+	On the other hand, the University of Washington has every right to continue to give anyone (even 'Jammer') access to the account if it so desires.  Again, the computer accounts (i.e. the computing facilities) are the properties of the University and it has the right (property right) to give access to them to whoever it chooses to.
+
+	So I think it is inappropriate for the Director of the University Computing Services to cite "freedom of speech" as the reason of not taking any action towards 'Jammer', unless it is the University's own policy to let anyone to use it facilities to express any opinion he/she wants.  If that happens to be the case, what we should do is to condemn the person who express those opinions, as what many people here has done so far.
+
+
+
+
+Bernard Lam
+
+blblam@descartes.uwaterloo.ca
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr  9 22:45:35 1993
+From: so@eiffel.cs.psu.edu (Nicol C So)
+Subject: Article 7--Re: Freedom of Speech (Was: Offending Post)
+Message-ID: <C571D9.Dr7@cs.psu.edu>
+Date: Fri, 9 Apr 1993 01:55:57 GMT
+
+In article <C56L7H.As0@undergrad.math.uwaterloo.ca> blblam@cantor.math.uwaterloo.ca (Bernard Lam) writes:
+>...
+>[Argument for the University of Washington's right to terminate "Jammer's"
+> access to computer facilities if it so chooses.  Deleted.]
+>
+>        So I think it is inappropriate for the Director of the
+>University Computing Services to cite "freedom of speech" as the reason
+>of not taking any action towards 'Jammer', unless it is the University's
+>own policy to let anyone to use it facilities to express any opinion
+>he/she wants.  If that happens to be the case, what we should do is to
+>condemn the person who express those opinions, as what many people here
+>has done so far.
+
+The University of Washington can set its own policy regarding the use of
+their facilities.  It's not inapprpropriate of them to refuse to take action
+against "Jammer".  They are not under any obligation to.  
+
+It is not a good idea to terminate a students access to university facilities
+merely because he/she has said something unpopular.  Rascist remarks do not
+cause any physical harm, they just make some people angry.  Punishing a
+student for expressing unpopular views is implicitly requiring the student
+to please the majority by refraining from saying what other people may
+find offensive.  I, for one, don't want to be _required_ to please anybody
+that way.
+
+The readers of soc.cultuer.hongkong are free to ignore the posting of "Jammer"
+if they think it is bogotry, is offensive, childish or whatever.  Actually
+that's what I would advise my fellow readers of s.c.hk to do.  There is no
+need to make a fuss of it.  Also, please remember, "Jammer" speaks for
+nobody but him/herself.
+
+Personally I think "Jammer"'s posting was childish and offensive.  While he
+is free to speak, I am free not to listen.  If I see more similar postings
+from this guy, I will insert an entry into my KILL file and rid my infospace
+of this guy's postings.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr  9 22:45:36 1993
+From: blblam@cantor.math.uwaterloo.ca (Bernard Lam)
+Subject: Article 8--Re: Freedom of Speech (Was: Offending Post)
+Message-ID: <C58IE9.HAs@undergrad.math.uwaterloo.ca>
+Date: Fri, 9 Apr 1993 21:01:21 GMT
+
+In article <C571D9.Dr7@cs.psu.edu>, so@eiffel.cs.psu.edu (Nicol C So) writes:
+> In article <C56L7H.As0@undergrad.math.uwaterloo.ca> blblam@cantor.math.uwaterloo.ca (Bernard Lam) writes:
+> >...
+> >[Argument for the University of Washington's right to terminate "Jammer's"
+> > access to computer facilities if it so chooses.  Deleted.]
+> >
+> >        So I think it is inappropriate for the Director of the
+> >University Computing Services to cite "freedom of speech" as the reason
+> >of not taking any action towards 'Jammer', unless it is the University's
+> >own policy to let anyone to use it facilities to express any opinion
+> >he/she wants.  If that happens to be the case, what we should do is to
+> >condemn the person who express those opinions, as what many people here
+> >has done so far.
+> 
+> The University of Washington can set its own policy regarding the use of
+> their facilities.  It's not inapprpropriate of them to refuse to take action
+> against "Jammer".  They are not under any obligation to.  
+> 
+
+
+	Exactly.  That's what I said in my first post.  I think you've misunderstood me. I said it is inappropriate to **cite "freedom of speech" as a reason** for not taking action.  I didn't say it is inappropriate of them to refuse to take action.
+
+	What I was saying is that the concept of "freedom of speech" is not applicable in here, since no one's freedom of speech is voilated whether "Jammer's" account is disabled or not.  And that the U of Washington has every right to EITHER continue to give "Jammer" access to his account OR disable it.
+
+>
+> ...
+>
+
+	I agree with you that it is not a good idea to disable a student's account if he/she says something rascist/unpopular/etc.
+
+
+
+
+Bernard Lam
+
+
+blblam@descartes.uwaterloo.ca
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr  9 23:05:14 1993
+Newsgroups: soc.culture.canada,soc.culture.hongkong,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject: Article 9--Re: Freedom of Speech (Was: Offending Post)
+Message-ID: <C58yMA.EKu@cs.uiuc.edu>
+Date: Sat, 10 Apr 1993 02:51:45 GMT
+
+blblam@cantor.math.uwaterloo.ca (Bernard Lam) writes:
+
+[...]
+>	I agree.  The freedom of speech of a person is ONLY violated
+>if he/she is prevented from expressing his/her opinion BY THE
+>GOVERNMENT.  Every private institution has the right to give access
+>to its own property (e.g. computer account) to any individual.  On
+>the other hand, it also has the right to withdraw those access any
+>time if it so wishes.
+[...]
+
+The University of Washington is a state university. In the U.S. that
+means that it *is* the government, bound by the 14th Amendment not to
+violate its students 1st Amendment rights.
+
+Also, most universities, both public and private, in the U.S.  (and
+Canada?) promise in their student code that students will be free of
+institutional censorship. This is a legally-binding, contractual
+obligation.
+
+[...]
+>	So I think it is inappropriate for the Director of the
+>University Computing Services to cite "freedom of speech" as the
+>reason of not taking any action towards 'Jammer', unless it is the
+>University's own policy to let anyone to use it facilities to express
+>any opinion he/she wants.  If that happens to be the case, what we
+>should do is to condemn the person who express those opinions, as
+>what many people here has done so far.
+
+It *is* the policy of most university's to allow students to use
+facilities to express any opinion they want. This policy is part of
+academic freedom. As the "Joint Statement on Rights and Freedoms of
+Students" (the main statement of student academic freedom in the U.S.):
+
+"Academic institutions exist for the transmission of knowledge, the
+pursuit of truth, the development of students, and the general
+well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals its members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth."
+
+and (in the context of inviting speakers to campus):
+
+"The institutional control of campus facilities should not be used as
+a device of censorship. It should be made clear to the academic and
+larger community that sponsorship of guest speakers does not
+necessarily imply approval or endorsement of the views expressed,
+either by the sponsoring group or the institution."
+
+and
+
+"Student publications and the student press are a valuable aid in
+establishing and maintaining an atmosphere of free and responsible
+discussion and of intellectual exploration on the campus. They are a
+means of bringing student concerns to the attention of the faculty and
+the institutional authorities and of formulating student opinion on
+various issues on the campus and in the world at large."
+
+- Carl
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr  5 09:04:47 1993
+From: s_titz@ira.uka.de (Olaf Titz)
+Newsgroups: alt.sex,news.admin.policy,comp.admin.policy,alt.comp.acad-freedom.talk,comp.security.misc
+Subject: Article 10--Fake anon posting, Macs in dorms etc
+Date: 5 Apr 1993 13:03:09 GMT
+Message-ID: <1ppamd$9oh@nz12.rz.uni-karlsruhe.de>
+
+Note redirected followups. Sorry for the big quoting, but it is
+necessary to get the context.
+
+In article <C4tn8G.GGD@andy.bgsu.edu> hreutte@andy.bgsu.edu (Jean-Luc for you counselor just Jean-Luc) writes:
+> julf@penet.fi (Ze Julf) writes:
+> >This faked posting was brought to my attention. As you can see from the
+> >headers, this message did *not* orginate from anon.penet.fi, but is a (rather
+> >clumsy) forgery posted from either andy.bgsu.edu or m64-135.bgsu.edu. It just
+> >illustrates how easy it is just as easy to abuse the network without any
+> >anonymous servers.
+
+> >> Newsgroups: alt.sex
+> >> Path: ...!magnus.acs.ohio-state.edu!bgsuvax!m64-135.bgsu.edu!user
+> >> From: AN18656@ANON.PENET.FI. (Mo-dog )
+> >>[Stupid trash, the sort you want to hide your identity for]
+
+> Julf is right!
+> This is a fake anon message, posted from Bowling Green State University,
+> Bowling Green, Ohio, USA.
+> Unfortunately there are many MacIntoshs in the undergraduate dormitories that
+> are connected directly to andy.bgsu.edu, the BGSU usenet connection and
+> require NO user authorization or user ID. Among many of these undergraduate
+> residents and their friends it is common 'cool thing to do', to post all kinds
+> of offending articles on the net. Usually these articles are about football and
+> college basketball ("Your team sucks, mine is the greatest") but recently there
+> have been more and more posts like the one above.
+
+> Why they allow access to the net without an user ID remains a mystery to me!
+
+It's simple: On the Net level, there is no such thing as a User ID.
+Since a Macintosh, unlike Unix or VMS, doesn't provide for User IDs by
+itself, you can enter just anything into the appropriate field on all
+Mac newsreaders - i.e. every user can define hir own From: lines.
+
+The only means to stop this would be to cut off IP access from those
+machines, but that is most probably disruptive to normal operation.
+
+> What to do about it?
+> I don't know. I think it is best to ignore these posts, even if they are
+> obviously written by rather racistic students like the one above...
+> By the way: these posts from the dormitories can be easily identified by the
+> Mxx-xxx MacIntosh terminal number.
+
+Of course you can, but how does the world know how to?
+(Here we have a similar numbering scheme for the office Macs:
+NBI-UG-MAC12 is Mac #12 in the basement (UG) of the new CS building
+(NBI) and while such numbers at least look suspicious, it's generally
+not possible to tell single-user boxes from multi-user boxes [wrt. OS]
+just by their IP numbers or DNS names...)
+
+Julf has shown how to identify such postings as forgeries - by
+analyzing the Path header (but this requires knowledge about RFC 1036
+and those things, a skill not to be expected from the occasional
+simple user who probably feels most annoyed by such postings.)
+
+My question is now: as I am in great favor of equipping dorms with
+network connections and providing public access terminals (or Macs,
+PCs or other things which don't have user ID) I'd like to know how
+this obvious problem - abuse by news forgeries, or other potential
+abuses based on the absence of user IDs - is handled in other
+places. 
+
+A potential solution would be to firewall the "dangerous" network
+sections, i.e. require every Internet access to run via telnet over a
+trusted (with user IDs) host - but this could, depending on the
+precise situation, be infeasible or undesirable. Furthermore, this can
+probably be circumvented with not much more effort than required for
+the original forgery (with most NNTP servers, providing an arbitrary
+From: line is trivial, and to get aroung the automatic Sender:
+insertion isn't too hard...)
+
+Can anyone suggest better solutions?
+
+Olaf
+-- 
+        olaf titz     o       olaf@bigred.ka.sub.org      voice@49-721-60439
+  comp.sc.student    _>\ _         s_titz@ira.uka.de          praetorius@irc
+karlsruhe germany   (_)<(_)      uknf@dkauni2.bitnet        happy linux user
+what good is a photograph of you? everytime i look at it it makes me feel blue
+
+
+------------------------------
+
+From caf-talk Caf Apr  5 10:08:59 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: jstewart@alfred.carleton.ca (John Stewart)
+Subject: Article 11--Re: Fake anon posting, Macs in dorms etc
+Message-ID: <jstewart.734017933@cunews>
+Date: Mon, 5 Apr 1993 13:52:13 GMT
+
+In <1ppamd$9oh@nz12.rz.uni-karlsruhe.de> s_titz@ira.uka.de (Olaf Titz) writes:
+>My question is now: as I am in great favor of equipping dorms with
+>network connections and providing public access terminals (or Macs,
+>PCs or other things which don't have user ID) I'd like to know how
+>this obvious problem - abuse by news forgeries, or other potential
+>abuses based on the absence of user IDs - is handled in other
+>places. 
+
+Machines which don't perform any form of user authorization should not
+be permitted to post news articles.  In the NNTP access control file, it is
+possible to specify that a machine can read news articles but not post
+articles.
+
+Forcing users to login to a Unix machine to post a message won't eliminate
+the opportunity to forge messages, but it would make it more difficult which
+would likely cut down on the number of forgeries.
+
+-- 
+John Stewart -- Computing and Communications Services, Carleton University
+Internet: jstewart@ccs.carleton.ca or Mr.Canoehead@algonquin.carleton.ca  
+"This ad was paid for by the Liberal party of Canada, desperate to get back
+into power!" -- CBC radio comedy "Double Exposure"
+
+
+------------------------------
+
+From caf-talk Caf Apr  9 14:03:31 1993
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: bobmacd@netcom.com (Robert MacDowell)
+Subject: Article 12--Re: Fake anon posting, Macs in dorms etc
+Message-ID: <bobmacdC589Ir.F5t@netcom.com>
+Date: Fri, 9 Apr 1993 17:49:39 GMT
+
+A simple (simplistic?) solution:
+
+1. Disable news posting from those systems that do not require user ID's.
+2. Put up a mail-->news gateway at your site. 
+
+Thus, people could freely use these always-logged-in terminals to *read*
+news, but to post they would have to log in under their account and send
+(traceable) mail to the gateway, bearing their name. 
+
+I do not like the idea of public machines being logged in permanently, 
+for anyone to use. That represents true 'anonymity' in the sense that it's
+untraceable *and* impossible to respond to. 
+
+-Bob
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

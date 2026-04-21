@@ -1,0 +1,83 @@
+From EFFector Online 07.02            Jan. 25, 1993
+--------------------------------------------------------------------------
+
+Subject: Senate FTP Site Online
+-------------------------------
+
+A new FTP site has been put online to hold the publicly available documents
+and press releases of our Senators.
+
+Chris Casey <chris_casey@kennedy.senate.gov> of the office of Sen. Edward
+Kennedy says "Some progress is being made here on the Hill. The Senate now
+has an anonymous ftp server running.  It's sparsly populated, only Kennedy
+and Stevens have posted anything so far, but I imagine the rest will
+find their way shortly. At least it's a start. The fact that the Senate
+has an anonymous ftp server is not a secret, but I don't think it's widely
+known either."
+
+You can access the server by FTPing to ftp.senate.gov, logging in as
+"anonymous" (without the quotes) and giving your email address as password.
+
+The site's general information bulletin is as follows:
+
+  Welcome to the United States Senate's Anonymous FTP Server
+  (ftp.senate.gov).  This service is provided by the Office of the
+  U.S. Senate Sergeant at Arms and the Senate Committee on Rules
+  and Administration.
+
+  This server contains general information files about the United States
+  Senate in the directory "general".  Directories are also provided for
+  specific Senators' offices, in alphabetical order by two-letter state
+  abbreviations, and for Senate committees and other Senate offices.  If
+  an office is not included in the directory, this indicates no files
+  have been posted by that office.
+
+  No files can be uploaded to this system.  Please direct questions about
+  a specific Senate office's use of this service to the Senate office in
+  question.  General inquiries not involving a specific Senate office can
+  be directed via Internet e-mail to: ftpadmin@scc.senate.gov
+
+Subdirectories for Senator's offices are structured as follows:
+
+/member/state_abbrev./senator's_name/releases/filename
+   or
+/member/state_abbrev./senator's_name/general/filename
+
+The "releases" subdirectories contain press releases and related materials,
+and "general" subdirectories contain information of long-term interest such
+as office contacts.
+
+As of Jan. 24, 1994, the site was not being used very extensively, but 
+individual Senators' directories contained various informational files,
+such as the following:
+
+Ted Stevens (AK):
+
+member/ak/stevens/releases
+ -rw-r--r--   1 1           1321 Jan 21 16:16 Childhood_Immunizations
+ -rw-r--r--   1 1            828 Jan 21 16:16 Inman_Statement
+ -rw-r--r--   1 1           3152 Jan 05 11:45 Ketchikan_Subcontractors
+ -rw-r--r--   1 1           3488 Jan 21 16:16 Seafood_Inspection
+ -rw-r--r--   1 1           1910 Jan 21 16:17 new_staff
+ -rw-r--r--   1 1           1661 Jan 21 16:17 tongass_timber
+
+Edward Kennedy (MA):
+
+member/ma/kennedy/general
+ -rw-r--r--   1 1         138842 Jan 13 13:49 S1150_Goals_2000
+ -rw-r--r--   1 1           1011 Dec 13 15:04 on-line_access
+ -rw-r--r--   1 1         133477 Dec 27 10:08 s1040.txt
+
+member/ma/kennedy/releases
+ -rw-r--r--   1 1           3591 Jan 14 15:23 Human_Radiation_Experimentation
+ -rw-r--r--   1 1           1664 Jan 05 11:11 Statement_on_Firearms_Proposal
+ -rw-r--r--   1 1          16188 Dec 15 14:19 major_accomplishment_93
+ -rw-r--r--   1 1          14523 Jan 13 11:58 national_health_reform_debate
+ -rw-r--r--   1 1           1298 Dec 15 14:18 worker_retraining_grant
+
+Please express your interest in this first small step, and encourage your
+Senators to utilize this new Congressional Internet resource.  Ask your
+Representatives to look into the possibility of a similar system for the
+House.
+
+

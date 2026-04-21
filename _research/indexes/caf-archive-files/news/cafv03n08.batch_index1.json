@@ -1,0 +1,404 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 21, 1993",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "A student's retrieval of a dummy passwd file was interpreted by some as malicious and by others as an innocent mistake due to unfamiliarity with Unix conventions.",
+        "The AI.SRI.COM manager claimed that public pressure from the newsgroup pushed the site toward imposing more restrictions on network access."
+      ],
+      "organizations": [
+        "Memphis State University",
+        "AI.SRI.COM",
+        "American University",
+        "EFF"
+      ],
+      "people": [
+        "Bruce Umbaugh",
+        "Carl Kadie"
+      ],
+      "summary": "This digest summarizes several incidents regarding computer access and policy, including a dispute over a Memphis State University student's use of anonymous FTP at AI.SRI.COM and alleged computer tampering at American University. It also touches upon the administration of computing resources in academia versus commercial sectors and censorship attempts at a public library. The items highlight early tensions between system administrators, students, and the definition of 'innocent intent' during network exploration.",
+      "title": "Abstract of CAF-News 03.08",
+      "topics": [
+        "anonymous FTP",
+        "computer policy",
+        "academic freedom",
+        "system administration",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "BDU100F@oduvm.cc.odu.edu (Bruce Umbaugh)",
+      "item_count": 10,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 0 -- Abstract of CAF-News 03.08",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "16 Feb 93",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Contacting a student's system administrator regarding suspicious network activity is a reasonable administrative action.",
+        "Involving university deans or the public internet in minor technical misunderstandings constitutes an over-reaction."
+      ],
+      "organizations": [
+        "SRI",
+        "UMass/Boston"
+      ],
+      "people": [
+        "Elizabeth Schwartz"
+      ],
+      "summary": "Elizabeth Schwartz discusses a dispute involving a student who accidentally downloaded a password file from SRI via FTP. She argues that while the university's involvement of the dean was overkill, it was reasonable for system administrators to communicate through official channels to investigate potential hacking activity.",
+      "title": "Article 1--Re: Legal Tangles During FTP at SRI",
+      "topics": [
+        "FTP",
+        "hacking",
+        "academic discipline",
+        "system administration",
+        "network security"
+      ]
+    },
+    "identity": {
+      "date": "16 Feb 93 16:10:04 GMT",
+      "from": "betsys@cs.umb.edu (Elizabeth Schwartz)",
+      "item_count": 10,
+      "item_index": 1,
+      "message_id": "<BETSYS.93Feb16111004@terminus.cs.umb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 1--Re: Legal Tangles During FTP at SRI",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The pressure from newsgroup criticism led SRI to install restrictive software like tcp_wrapper and UW FTPD.",
+        "The site's original policy relied on an honor system that was undermined by public ridicule and abuse.",
+        "SRI administrators argued that the student in question specifically targeted a dummy passwd file, contradicting claims of innocent browsing."
+      ],
+      "organizations": [
+        "SRI International",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Douglas B. Moran"
+      ],
+      "summary": "A dispute erupted after a student accessed an anonymous FTP server at SRI, leading to accusations of overreaction by SRI administrators and subsequent debate on the comp.org.eff.talk newsgroup. Douglas Moran of SRI defended the site's policies against claims of entrapment and incompetence, arguing that public harassment forced the site to abandon an 'honor system' for network access. The incident highlights early tensions between open academic resource sharing and the need for security/access control.",
+      "title": "Legal Tangles During FTP at SRI",
+      "topics": [
+        "anonymous FTP",
+        "network security",
+        "academic freedom",
+        "internet ethics",
+        "access control"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 15 Feb 1993 16:27:57 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 2,
+      "message_id": "<1993Feb15.162757.27742@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 2--Re: SRI form letter contest (was Re: Legal Tangles During FTP at SRI)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.9,
+      "date_or_period": "1993-02-17",
+      "historical_relevance": "low",
+      "item_type": "post",
+      "notable_claims": [],
+      "organizations": [],
+      "people": [
+        "Barry Shein"
+      ],
+      "summary": "This item is a header for a response regarding legal issues associated with the File Transfer Protocol (FTP). The provided text contains only metadata and no substantive content.",
+      "title": "Re: Legal Tangles During FTP",
+      "topics": [
+        "FTP",
+        "legal issues"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 17 Feb 1993 03:50:03 GMT",
+      "from": "bzs@world.std.com (Barry Shein)",
+      "item_count": 10,
+      "item_index": 3,
+      "message_id": "<BZS.93Feb16225003@world.std.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 4--Re: Legal Tangles During FTP",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 15, 1993",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "University administrators used cross-referencing of LAN lists and student databases to identify a user's room number via their social security number.",
+        "The university administration characterized the broadcast as 'computer hacking' and compared it to illegal phone tapping.",
+        "The activity was not explicitly prohibited by the University's Code of Conduct or Computer Services Code of Ethics at the time."
+      ],
+      "organizations": [
+        "American University",
+        "The Eagle",
+        "EFF"
+      ],
+      "people": [
+        "David Umlas",
+        "Victoria Eisele",
+        "Ben Lewis",
+        "Jeff Kite",
+        "Lori Bush",
+        "Michelle Robinson",
+        "Thomas Southall",
+        "A. Charles Gross"
+      ],
+      "summary": "A student at American University was targeted for disciplinary action after using a network broadcast utility to send profane messages to computer lab terminals. The university administration used system logs and social security numbers to track the user to his residence hall room. A. Charles Gross criticized the university's reaction as an overreach, noting that the activity did not violate existing written codes of conduct.",
+      "title": "Fear and loathing at American University",
+      "topics": [
+        "student discipline",
+        "network monitoring",
+        "computer ethics",
+        "academic freedom",
+        "hacking"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 16 Feb 1993 20:05:22 GMT",
+      "from": "A. Charles Gross <acg@eff.org>",
+      "item_count": 10,
+      "item_index": 4,
+      "message_id": "<1993Feb16.200522.26409@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 5--Fear and loathing at American University",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 18, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The university attempted to use mainframe account policies to prosecute a non-mainframe network incident.",
+        "The suspect was identified by tracing LAN card addresses to a specific dorm room."
+      ],
+      "organizations": [
+        "American University",
+        "Confederation Media Commission",
+        "American Television (A-TV)"
+      ],
+      "people": [
+        "John Sonderman"
+      ],
+      "summary": "A student at American University provides details regarding a disciplinary case involving another student accused of unauthorized access to a passworded lab assistant account on a Novell network. The post discusses the university's attempt to apply mainframe computer policies to non-mainframe incidents and notes that the suspect was identified via LAN card address tracing in a dormitory. It also mentions potential conflicts between the student and campus media over the publication of his name.",
+      "title": "Re: Fear and loathing at American University",
+      "topics": [
+        "student discipline",
+        "computer policy",
+        "unauthorized access",
+        "network tracing",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "<JSONDER@auvm.american.edu>",
+      "item_count": 10,
+      "item_index": 5,
+      "message_id": "<93049.000815JSONDER@auvm.american.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 6--Re: Fear and loathing at American University",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 18, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Access to TAU's computers and networks is a privilege, not a right.",
+        "The UCC reserves the right to view or scan any file or software stored on the computer or passing through our network.",
+        "Software is defined as a 'literary work' under TAU's policy on Reproduction of Copyrighted Works (#6-80)."
+      ],
+      "organizations": [
+        "The American University",
+        "University Computing Center",
+        "EDUCOM"
+      ],
+      "people": [],
+      "summary": "This post shares the official computer use policy of The American University (TAU). It explicitly defines computer and network access as a privilege rather than a right and outlines prohibitions against unauthorized access and commercial activity. The policy also details the university's reservation of the right to monitor files and networks for auditing and security purposes.",
+      "title": "American University Computer Policy",
+      "topics": [
+        "acceptable use policy",
+        "digital privacy",
+        "academic freedom",
+        "network monitoring"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "<JSONDER@auvm.american.edu>",
+      "item_count": 10,
+      "item_index": 6,
+      "message_id": "<93049.003329JSONDER@auvm.american.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 7--American University Computer Policy",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The student used a Novell LAN Administrator account to send messages.",
+        "Use of privileged administrator functions without permission violates university regulations."
+      ],
+      "organizations": [
+        "American University",
+        "EFF"
+      ],
+      "people": [
+        "Jim McIntosh",
+        "A. Charles Gross"
+      ],
+      "summary": "Jim McIntosh of American University responds to claims regarding a student facing charges for using messaging software. McIntosh argues that the issue is not the software itself, but whether the student used an unauthorized LAN Administrator account to send messages. He distinguishes between acceptable use of communication tools from personal accounts and the unauthorized use of privileged administrative access.",
+      "title": "Re: Fear and loathing at American University",
+      "topics": [
+        "unauthorized access",
+        "administrative privilege",
+        "student conduct",
+        "network policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Jim McIntosh <jim@american.edu>",
+      "item_count": 10,
+      "item_index": 7,
+      "message_id": "<93049.124231JIM@auvm.american.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 8--Re: Fear and loathing at American University",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 20, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Academic computing administrators are often more obsessed with control than commercial administrators.",
+        "University political structures marginalize libraries, preventing them from managing campus computing resources.",
+        "Commercial sites tend to be more liberal with access (e.g., root passwords) because productivity is tied to profit."
+      ],
+      "organizations": [],
+      "people": [
+        "Barry Shein"
+      ],
+      "summary": "Barry Shein argues that university computing administration is often overly focused on control and restrictive policies compared to commercial environments. He suggests that campus libraries would be better suited to manage non-technical computing policies due to their experience with public access and documentation. He contrasts the 'mandarin' style of academic administrators with the more rational, needs-based approach found in industry.",
+      "title": "Re: A Toy Shouldn't Break Just Because a Child Play With It!",
+      "topics": [
+        "academic computing",
+        "system administration",
+        "university policy",
+        "library management"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 20 Feb 1993 23:28:00 GMT",
+      "from": "bzs@world.std.com (Barry Shein)",
+      "item_count": 10,
+      "item_index": 8,
+      "message_id": "<BZS.93Feb20182800@world.std.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 9--Re: A Toy Shouldn't Break Just Because a Child Play With It!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1993-02-15",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The Illinois Harmful Material Act makes distributing harmful material to minors a Class A misdemeanor.",
+        "Legal uncertainty regarding obscenity laws encourages institutions to restrict constitutionally protected materials to avoid risk."
+      ],
+      "organizations": [
+        "Downers Grover public library",
+        "Du Page County state's attorney's office",
+        "Chicago Tribune"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "A deputy chief of the Du Page County state's attorney warned a public library that providing access to the material '_Sex_' to minors could violate the Illinois Harmful Material Act. In response, the library board voted to restrict access to adults. A Chicago Tribune editorial argued that such warnings lead to over-censorship of constitutionally protected material due to legal uncertainty.",
+      "title": "County official warns library against access to _Sex_",
+      "topics": [
+        "censorship",
+        "library access",
+        "Illinois Harmful Material Act",
+        "legal intimidation"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 15 Feb 1993 21:22:52 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 9,
+      "message_id": "<C2IE25.7v5@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n08",
+      "subject": "Article 10--County official warns library against access to _Sex_",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

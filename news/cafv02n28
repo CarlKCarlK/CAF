@@ -1,0 +1,1014 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.28 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 28
+
+
+----------------------------------------------------------------------
+
+From: joslin@tso.uc.edu (Paul Joslin)
+Subject: Article 0 -- Abstract of CAF-News 02.28
+
+[Week ending June 14, 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+
+Note 1 is a repost of a long discussion of the use of "handles" to
+provide anonymity online.
+
+1. This article is [a pointer to ftp.eff.org:pub/academic/anonymity,]
+   an excerpt from an issue of FIDONEWS
+   on individual privacy and the use of handles.  It accepts the need of a
+   system operator to know the name of a user; but suggests that the use of a
+   handle is analogous to a request to withhold the name in a letter
+   to the editor. The article concludes with a set of guidelines for
+   preserving the right to be anonymous.
+     <92083.072152SOCICOM@auvm.american.edu>
+
+
+Note 2 is a reprint of a UPI news article from ClariNet in which a US
+Judge found artistic expression to be protected speech.  
+
+2.  "A federal judge declared unconstitutional Tuesday the decency
+    clause the National Endowment for the Arts used in determining who
+    receives grant money, saying it was too vague and overbroad in
+    restricting artists' freedom of speech."
+    <1992Jun10.040756.10831@m.cs.uiuc.edu>
+
+Note 3 is a list of news groups not carried in the UK because of content.
+
+3.  (A system administrator:) The list of newgroups we cannot carry
+    includes alt.sex*, alt.drugs, alt.evil, alt.tasteless and
+    rec.arts.erotica.
+    <1992Jun08.165434.4998@bas-a.bcc.ac.uk>
+
+Note 4 is a comment on a request by Canadian police for information on
+sexually explicit postings from an American anonymous posting service.
+
+4. (A system administrator:)  The police are more concerned with
+   stopping it than with charging someone.  It handled correctly, the
+   police will gain a better understanding of USENET, and not
+   overreact.  A greater concern is that the University administration
+   will overreact in response to public pressure.
+    <3530@ecicrl.ocunix.on.ca>
+
+Note 5 concerns a Canadian writer who was denied entry into the US
+because US officials did not approve of some of his writings.
+
+5.  The writings are freely available in the US. "So you could argue
+    that his "right" to freely express his ideas has not been denied
+    by the US.  Only his choice of method has been restricted."
+    <194@ceylon.gte.com>
+
+Note 6 concerns a speech on the basic elements of a legal system.  The
+speech was given by US Supreme Court justice Anthony Kennedy in
+Australia.
+
+6. According to Justice Kennedy, the fundamental elements that the law
+   and legal system rest are:
+   ". that government rested on the consent of the people
+    . that government protected a core of personal rights - today
+	called human rights 
+    . that there must be an enduring structure which guaranteed
+	the first two elements 
+    . that there be an obligation on each citizen to obey the law
+	and to transmit  the rule of law to a subsequent generation."
+    <920614170756.20204464@DARWIN.NTU.EDU.AU>
+
+
+Notes 7-9 concern the legality of searching files owned by users if
+violations of system policies are suspected.
+
+7. In the US, the  Electronic Communications Privacy Act may limit
+   what a system administrator can and cannot do.  A signed legal
+   opinion can prevent a lot of heartache.
+    <a6_l62b.nagle@netcom.com>
+
+8. (A system administrator:) 3 times in 5 years I have found a
+   "suspicious" executable.  The command "strings" usually gives me
+   enough information to confirm or refute that suspicion.
+    <1992Jun12.102023.26109@ms.uky.edu>
+
+9. (A professor of computer science:) If in doubt, consult legal
+   counsel.  It is my understanding that any search I perform on my
+   system at my own initiation is legal.  The results of that search
+   can be given to law enforcement agencies, and used in trial. "Note
+   that this does not cover evidence that may conflict with the ECPA
+   (but if you are the owner/operator of the system doing the search
+   to maintain system integrity, you are probably okay), the
+   Educational Records Privacy Act (the "Buckley Amendment"), state
+   and Federal wiretap laws, and a few other such laws. ...  It is the
+   *civil* parts of these acts that may cause the most difficulty."
+    <SPAF.92Jun8145034@uther.cs.purdue.EDU>
+
+Note 10 concerns restrictions designed to reduce network traffic by
+banning certain types of packets.
+
+10.   When a restriction is leveled against everyone equally and is
+      based on resource concerns, it is not a censorship issue.
+      According to the backbone statistics, IRC and netnews generate
+      almost 11% of the traffic.
+      <1992Jun8.95807.8525@ms.uky.edu>
+
+Note 11 concerns an section of the Criminal Code of Canada which bans
+"a magazine, periodical or book that exclusively or substantially"
+pictorially depicts the commission of a crime.
+
+11. "Under this definition, about 90% of the comic books that exist in
+    the world are going to run afoul of this definition.  Even the
+    Disney comics are going to get into trouble since one of the main
+    themes in any tale concerning Scrooge McDuck is the attempt of
+    others to obtain parts of his wealth (theft is a crime!)."
+    <1992Jun9.004550.9542@wolves.uucp>
+
+
+Note 12 discusses how to deal with harassing computer communications.
+
+12. Harassment is intentional, unwanted person-to-person
+    communication by any channel.  Explicitly tell the harasser to
+    stop communicating with you.  Save copies of all communications.
+    If the harassment continues, contact a system administrator,
+    university official or the courts.
+    <1992Jun11.180712.21660@m.cs.uiuc.edu>
+
+- Paul]
+
+
+
+
+In this issue:
+
+                 36  Anonymity and privacy on the network
+Carl M. Kadie    66  [UPI] Federal judge rules NEA decency clause unconstitutional
+                 36  >Anonymous Contact Service @ wizvax
+Chris Lewis      54  >
+Curtis Fennell   43  >Farlay Mowat and Free Speech (was: Congratulations...)
+Mark P Neely     69  Fundamentals of a Legal System
+                 26  >Legalities and policies for searching user accounts
+Wes Morgan       85  >
+                 42  >
+Wes Morgan      128  >Newsgroup and packet bans at Duke?
+                 60  Superman and Batman Illegal in Canada?
+Carl M. Kadie    67  >vax harrassment
+
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Jun  8 19:52:43 1992
+Newsgroups: comp.society
+Subject: Article 1--Anonymity and privacy on the network
+Message-ID: <92083.072152SOCICOM@auvm.american.edu>
+Date: 23 Mar 92 12:21:52 GMT
+Organization: The American University - University Computing Center
+Lines: 759
+Approved: SOCICOM@AUVM
+
+[ARTICLE DELETED
+
+For reasons of space, the article has been put in the CAF archive
+rather than sent out in the CAF-News. Here is access information:
+
+=================
+anonymity
+=================
+This article is an excerpt from an issue of FIDONEWS on individual
+privacy and the use of handles.  It accepts the need of a system
+operator to know the name of a user; but suggests that the use of a
+handle is analogous to a request to withhold the name in a letter to
+the editor. The article concludes with a set of guidelines for
+preserving the right to be anonymous.
+
+=================
+=================
+
+These document(s) are available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/anonymity
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom anonymity
+
+
+- Carl
+]
+
+
+------------------------------
+
+From caf-talk Caf Jun 10 00:17:10 1992
+Newsgroups: alt.censorship,alt.comp.acad-freedom.talk,misc.legal
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 2--[UPI] Federal judge rules NEA decency clause unconstitutional
+Message-ID: <1992Jun10.040756.10831@m.cs.uiuc.edu>
+Date: Wed, 10 Jun 1992 04:07:56 GMT
+
+Copyright 1992 by UPI.  Reposted with permission from the ClariNet
+Electronic Newspaper newsgroup clari.news.law.crime,
+clari.news.gov.usa, & clari.news.issues.  For more info on ClariNet,
+write to info@clarinet.com or phone 1-800-USE-NETS.
+
+	LOS ANGELES (UPI) -- A federal judge declared unconstitutional Tuesday
+the decency clause the National Endowment for the Arts used in
+determining who receives grant money, saying it was too vague and
+overbroad in restricting artists' freedom of speech.
+	In a 44-page ruling, U.S. District Judge A. Wallace Tashima found
+that ``artistic expression, no less than academic speech or journalism
+is at the core of a democratic society's cultural and political
+vitality.''
+	The court also ruled that four artists will be entitled to grants
+denied by ex-NEA Chairman John Frohnmayer if they can prove at trial
+that the NEA denied the grants for political rather than aesthetic
+reasons.
+	Congress adopted the decency provision in November 1990. The Bush
+administration argued it should be upheld because the NEA had limited
+funds and should be able to have a procedure by which the money is
+distributed.
+	The provision required the NEA chairperson to ensure that ``artistic
+excellence and artistic merit are the criteria by which applications are
+judged, taking into consideration general standards of decency and
+respect for the diverse beliefs and values of the American public.''
+	The artists, Karen Finley, John Fleck, Holly Hughes and Tim Miller,
+who became known as the ``NEA Four'' challenged the provision by filing
+a lawsuit in September 1990 in Los Angeles federal court seeking an
+order overruling their grant rejections.
+	Fleck and Miller are Los Angeles area performing artists, and Finley
+and Hughes are performing artists from New York.
+	Hughes said she was very happy about Tashima's decision.
+	``I'm very happy that the court has decided that people who receive
+money from the government don't have to forfeit rights guaranteed to
+them in that government's Constitution,'' she said.``
+	The artists' work is highly political. All but Finley is homosexual
+and the artists include homosexual and lesbian themes prominently in
+their work, which has received broad critical acclaim.
+	Finley's performances are stridently feminist in tone. She has
+appeared on stage partially clothed, her body smeared with melted
+chocolate and alfalfa sprouts to symbolize denigration of women by
+forcing them to wallow in excrement and sperm.
+	Finley and Miller previously received numerous NEA grants.
+	The plight of the four attracted national attention when Frohnmayer
+overruled the unanimous vote of grant-review panel and rejected the
+fellowships.
+	The decision was made after Frohnmayer reportedly told a meeting of
+arts activists that the NEA's precarious political situation
+necessitated denial of the grants.
+	According to the lawsuit, Frohnmayer sacrificed the artists ``because
+of the controversial political content of their work. He did so with the
+aim of suppressing the expression of the plaintiff's ideas.''
+	The suit asked for an additional $50,000 in damages to Finley, whose
+privacy rights were violated, the complaint charged, by an alleged NEA
+leak to conservative columnists of her confidential NEA grant
+application.
+	The NEA gives grants to artists and arts institutions nationwide. Its
+political turmoil began in April 1989 with the NEA-funded work of
+photographer Robert Mapplethorpe. A show of his work, which included
+homo-erotic art, was the subject of a state court obscenity prosecution
+in Cincinnati.
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Jun  8 14:30:23 1992
+Newsgroups: news.admin
+Subject: Article 3--Re: Anonymous Contact Service @ wizvax
+Message-ID: <1992Jun08.165434.4998@bas-a.bcc.ac.uk>
+Date: 8 Jun 92 16:54:34 GMT
+
+This is a *little* old now, but you get the idea ...
+
+-------------------From ukc --------------------------------------
+ 
+ Here is an up to date list of the newsgroups that we cannot carry:
+ 
+        alt.binaries.pictures.erotica
+        alt.binaries.pictures.tasteless
+        alt.drugs
+        alt.evil
+        alt.personals
+        alt.personals.bondage
+        alt.personals.misc
+        alt.psychoactives
+        alt.sex
+        alt.sex.bestiality
+        alt.sex.bondage
+        alt.sex.masturbation
+        alt.sex.motss
+        alt.sex.movies
+        alt.sex.pictures.female
+        alt.sex.pictures.male
+        alt.tasteless
+        rec.arts.erotica
+ 
+ Ian.
+ --
+ Ian Harding
+ UKnet Backbone
++++
+
+
+Simple.    J.
+
+
+------------------------------
+
+From caf-talk Caf Jun 10 04:59:23 1992
+From: clewis@ferret.ocunix.on.ca (Chris Lewis)
+Newsgroups: news.admin,alt.comp.acad-freedom.talk,soc.culture.canada,alt.censorship
+Subject: Article 4--Re: Anonymous Contact Service @ wizvax
+Message-ID: <3530@ecicrl.ocunix.on.ca>
+Date: 10 Jun 92 07:32:20 GMT
+
+In article <1992Jun8.213007.5262@rice.edu> cathyf@is.rice.edu (Catherine Anne Foulston) writes:
+>In article <1992Jun8.160443.25212@tssi.com> nolan@tssi.com writes:
+
+>>If A and B have agreed to exchange news, I think it is less important who
+>>initiates the call than who decides what information is sent/received.
+
+>Yeah -- *decides.*  Although the upstream site has physical control
+>over what's sent, it's usually configured according to the request of
+>the downstream end.  If the downstream end has asked for group x.y to
+>be removed and upstream either has refused or not gotten around to it
+>yet, then perhaps you could blame them.  If they haven't been asked,
+>then I'd think the people receiving the news would be at fault.
+
+>Not that I think anything's going on that ought to be anybody's
+>"fault," whatever the Canadian police think.
+
+I don't imagine that the police think that anybody's at fault.  Yet.
+
+They're probably simply trying to stop it rather than charge anybody.
+
+They do have computer experts to draw upon, but USENET is a big jump from
+the stuff they've worked with before.  The reportage you're seeing in the media
+(and here for that matter) is the police talking for public consumption.
+Because, given the way the media has blown it out of proportion, the
+general public will want it stopped.  Immediately.
+
+Provided that the people that the police contact in USENET don't freak
+out, the police will end up understanding the situation, and not overreact.
+University administration is far more likely to panic and pull the plug
+because they're being seen as implicitly approving the expenditure
+of public money to transport such crap.
+
+I've had some exposure to police investigation of somewhat higher profile
+computer "problems".  Mostly personal medical information leakage (ie:
+VD registry "leaks").  The police handled it quite well.  That was
+partly my fault ;-), but it's a *looong* story.
+
+>I wonder how the law applies to printed pornography?  If some magazine
+>is printed in the US, but illegal in Canada, and some guy subscribes,
+>who gets in trouble?  The publisher, the subscriber, or both?
+
+The law is very simple.  Canadian courts have *no* jurisdiction in the
+US.  Even if the material is illegal in the US, Canadian courts cannot
+prosecute a US publisher.  Otherwise, Hefner and Guccione would have
+been in Canadian jails when the rules were a lot stricter.  The courts
+can charge a Canadian distributor or (very rarely in practise) a
+"subscriber" (for possession).
+-- 
+Chris Lewis; clewis@ferret.ocunix.on.ca; Phone: Canada 613 832-0541
+Psroff 3.0 info: psroff-request@ferret.ocunix.on.ca
+Ferret list: ferret-request@ferret.ocunix.on.ca
+
+
+------------------------------
+
+From caf-talk Caf Jun 11 18:35:46 1992
+From: chf0@newshost.gte.com (Curtis Fennell)
+Newsgroups: alt.censorship,alt.sex,alt.config,alt.comp.acad-freedom.talk
+Subject: Article 5--Re: Farlay Mowat and Free Speech (was: Congratulations...)
+Message-ID: <194@ceylon.gte.com>
+Date: 11 Jun 92 21:50:01 GMT
+
+In article <2A358004.61D@telly.on.ca>, evan@telly.on.ca (Evan Leibovitch) writes:
+|> In article <1992Jun5.124334.24073@murdoch.acc.Virginia.EDU>
+|> 	jsm4u@sonja.math.Virginia.EDU (Joe McDonnell) writes:
+|> 
+|> >In article <1992Jun4.225125.19301@dragon.acadiau.ca>  
+|> >alan@dragon.acadiau.ca (Alan McKay) writes:
+|> 
+|> >> Sorry guy.  If you want to talk about censorship, how about talking
+|> >> about the renouned Canadian write Farlay Mowat being refused entry into
+|> >> the "good-ol'" US of A because of a book he wrote entitled "Sea of
+|> >> Slaughter".
+|> 
+|> >What, then, is your criticism?
+|> 
+|> The criticism is that the U.S. Government, while claiming to serve the
+|> ethical ideals of freedom of speech, denies such freedoms to a foreigner
+|> only because his views were seen to be incorrect.
+|> 
+|> Certainly there is no cry that the US does not have the right to refuse
+|> entry to a foreigner for any reason it sees fit. It's just that in this
+|> specific case, these actions are ethically inconsistent with a proclaimed
+|> desire to absolutely protect people's freedom of speech.
+|> 
+|> [the US] Yet its government apparently would deny an outsider the
+|> opportunity to express an unpopular viewpoint within the US, when given
+|> the power to do so.
+
+There is a problem with the interpretation put on this incident (which
+I would like to know more about, by the way - email would be fine),
+namely that Farley Mowatt may have been denied entry into the US, but
+his books are certainly available here in the average bookstore,
+including "Sea of Slaughter".  So you could argue that his "right" to
+freely express his ideas has not been denied by the US.  Only his
+choice of method has been restricted.
+
+-- 
+============================================================
+Curt Fennell    [   "Get DOWN off that cross, honey!       ]
+chf0@gte.com	[    Somebody needs the wood!"             ]
+============================================================
+
+
+------------------------------
+
+From caf-talk Caf Jun 14 03:42:25 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)
+Subject: Article 6--Fundamentals of a Legal System
+Message-ID: <920614170756.20204464@DARWIN.NTU.EDU.AU>
+Date: Sun, 14 Jun 1992 17:07:56 GMT
+
+I came across an article which I thought Usenet readers (especially those in
+the US) might find of interest!
+
+It is extracted from the August 1989 edition of _Australian Law News_, with the
+quotes taken from an article printed on pp13-15. The article is based on a 
+speech given by US Supreme Court Justice Anthony M. Kennedy:
+
+Title: Lawyers must Understand Fundamentals of the Law, Judge Says.
+
+
+The essense of the speech was Justice Kennedy urging lawyers to look beyong the
+more immediate aspects of delivering legal services to understand and protect
+the philosophical and ethical precepts on which the law rests.
+
+To quote:
+
+"Justice Kennedy said the four elements on which the law and a legal system
+rested were:
+
+. that government rested on the consent of the people
+. that government protected a core of personal rights - today called human
+  rights
+. that there must be an enduring structure which guaranteed the first two
+  elements
+. that there be an obligation on each citizen to obey the law and to transmit
+  the rule of law to a subsequent generation.
+
+"Justice Kennedy outlined the historical background to the concept of rule by
+consent and said: 'The consent of which we speak is a very ancient one. It is a
+consent to a system, it is a consent to a social order.'
+
+He continued: "It does not derive from any contract that was created at some
+particular historic time; it does not involve a contract at all, because in
+American constitutional theory and in constitutional theories of most western
+democracies, government does not exist as a party to make a contract with the
+people; it is created by the people".
+
+"So this consent is fundamental and it may not be withdrawn unless the
+Government is not preserving the other elements of the rule of law...All of us
+can identify laws that we dislike. This does not give us the right to withdraw
+consent". 
+
+Kennedy discussed several truisms as he saw them surrounding the upholding of
+the rule of law, one of which was that personal rights must be guaranteed 
+by the Government
+
+He notes that it is dangerous for any one person or generation to compile an
+exhaustive list of human rights. But nevertheless, the basics are as follows:
+
+(a) There must be, at a minimum, protection for the rights of expression, of
+conscience, of speech and belief, in all their forms.
+
+(b) There must be freedom from arbitrary and evasive physical restraint by the
+Government
+
+(c) There must be freedom from classification based on race, creed,
+colour, sex, national origin and religion
+
+(d) There must be the right to own and acquire property.
+
+He then goes on to comment that the Constitution of the United States was
+written in the same style - it talks about life liberty and property.
+
+
+Any comments?
+
+
+
+------------------------------
+
+From caf-talk Caf Jun 10 22:50:32 1992
+Newsgroups: alt.security
+Subject: Article 7--Re: Legalities and policies for searching user accounts
+Message-ID: <a6_l62b.nagle@netcom.com>
+Date: 6 Jun 92 17:08:48 GMT
+
+
+        Check out the Electronic Communications Privacy Act before 
+doing any searches.  Sysops have legal responsibilities in the US.
+Amateur attempts at "law enforcement" may result in the "enforcers"
+committing real crimes and real torts for which they can be held
+accountable in court.
+
+        I would suggest to sysops of educational systems that before 
+looking in any student's account, they obtain legal advice, including
+a signed legal opinion that what they are doing is lawful and a statement
+by the institution that the institution will indemify them against 
+any legal claim against them growing out of the search.
+
+        I know of a recent case where a university professor had to 
+defend his actions while indulging in amateur sleuthing.  Hearings
+went on for weeks, the process cost an amount in six figures, and
+eventually the parties settled out of court.  The professor is
+generally considered to have suffered a major career setback.
+
+					John Nagle
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Jun 12 10:31:23 1992
+Newsgroups: alt.security,alt.comp.acad-freedom.talk
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Article 8--Re: Legalities and policies for searching user accounts
+Message-ID: <1992Jun12.102023.26109@ms.uky.edu>
+Date: Fri, 12 Jun 1992 14:20:23 GMT
+
+joslin@c0223.ae.ge.com writes:
+>If a system administrator believes he has the right to execute an
+>arbitrary executable, it would be prudent to publish that fact in the
+>rules for your system.  This way, the users cannot claim an expectation
+>of privacy. 
+>
+>If a system administrator believes it is wise to execute
+>an arbitrary executable, he is probably mistaken.  Even this solution
+>has flaws:
+>
+
+On those extremely rare (thrice in 5 years) occasions when I have found
+a "suspicious" executable, I have run "strings" on the binary.  That
+usually gives me enough information to confirm/refute my suspicions.
+
+Oh, I also do that with the user present.  When I find something sus-
+picious, the first thing I do is archive it to a tape *without* exami-
+nation; if I think it's *really* serious, I'll have a witness present.  
+That prevents the user from "denastyfying" the program (or substituting 
+an innocent program under that name, which one fellow tried to do). 
+
+You should have been there for this conversation:
+
+	User: You wanted to see me?
+
+	  Me: Yes, I'm a bit concerned about a program you're running,
+	      named "breaker".
+
+	User: Oh, that's nothing; it just prints out a VT100 graphic
+	      of some waves; I'm playing with character sets.
+
+	  Me: Would you mind if I take a look at it? 
+
+	User: Oh, sure!  There's nothing to it; kind of trivial, really.....
+
+	  Me: OK, let me pull the copy from the backup tape I made a
+	      few days ago.....
+
+	User: Huh? <face falling>
+
+	  Me: Oh, yeah, I copied it to a tape when I first noticed it.
+
+	  Me: ...cpio -icdvm </dev/rmt/0m...
+
+	User: <looks toward the door>
+
+	  Me: ...strings breaker...
+
+      System: plaintext of %s is %s
+	      attacking password %s
+              password broken
+	      password for %s is %s
+	      <etc.>
+
+	User: Um, er, uh.....I was just fooling around!
+
+	  Me: <remove riot act from desk>
+	      <read user the riot act>
+	      <point out University punishments for violations>
+
+	User: <swears on mother's grave that he'll never do it again>
+	      <expresses amazement at skills used>
+
+[I let him off with a stern warning]
+[5 minutes pass]
+
+	   Me: ...ps -eaf...
+
+	     UID  COMMAND
+	    user  -sh 
+	    user  man strings
+	    user  lp
+
+*sigh*
+
+--Wes
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|                MORGAN@UKCC 
+ morgan@engr.uky.edu  |the University of Kentucky's|     ....!ukma!ukecc!morgan
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+     Mailing list for AT&T StarServer S/E - starserver-request@engr.uky.edu
+
+
+------------------------------
+
+From caf-talk Caf Jun 10 22:52:03 1992
+Newsgroups: alt.security
+Subject: Article 9--Re: Legalities and policies for searching user accounts
+Message-ID: <SPAF.92Jun8145034@uther.cs.purdue.EDU>
+Date: 8 Jun 92 19:50:34 GMT
+
+Before too many people go on and on about what constitutes a "search",
+they might want to consult REAL legal counsel.  In most cases, any
+search you do of your own systems at your own initiation is "legal"
+and the results of those searches can be presented as wrong-doing to
+law enforcement.
+
+According to people involved with both state and federal law
+enforcement and prosecution (I'm talking prosecutors and police),
+anything I find on my own system, using whatever means at my disposal,
+is not per se "illegal search" --- I don't need a warrant.  If I am
+asked by a law enforcement officer to do the search, or if they want
+to do it themselves -- it then requires a warrant (under US law) to
+allow the results to be admitted as evidence in a trial.  Evidence
+that I discover on my own may be admissable as evidence without a
+warrant.  (The nature of the evidence and the safeguarding of same may
+have an effect on admissability.)  As the legal owner or operator of
+my own system, I can search it as I see fit; neither do I need a
+warrant to search my own house or garage for contraband or
+trespassers.  The evidence I discover can be turned over to the police
+for invesitgation, too.
+
+Note that this does not cover evidence that may conflict with the ECPA
+(but if you are the owner/operator of the system doing the search to
+maintain system integrity, you are probably okay), the Educational
+Records Privacy Act (the "Buckley Amendment"), state and Federal
+wiretap laws, and a few other such laws.  In those cases, however,
+prosecutors are unlikely to press charges if you act within reasonable
+bounds and find something indicating a problem.  It is the *civil*
+parts of these acts that may cause the most difficulty.  Bystanders
+and users may feel the urge to sue if the law gives them that option
+and you do not take due care in your actions.
+
+This is not intended as legal advice.  This is just repeating what I
+have been told by dozens of lawyers, prosecutors, state police, FBI,
+Secret Service agents, and others.  This may be different in other
+countries.  As always, consult a real lawyer before proceeding.
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Jun  8 10:28:41 1992
+From: morgan@ms.uky.edu (Wes Morgan)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 10--Re: Newsgroup and packet bans at Duke?
+Message-ID: <1992Jun8.95807.8525@ms.uky.edu>
+Date: 8 Jun 92 13:58:07 GMT
+
+In article <1992Jun6.152045.9977@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>	To further add fire to the situation, I heard that the network
+>services folk have active plans to squelch other network traffic that is
+>deemed "less valuable" as well.  For example, they have plans to squelch
+>"xtrek" packets, and  telnet connections to IRC servers!  With options
+>to squelch telnet connections to other "frivolous" types of activities
+>as well.   For this activity, they don't plan to make exceptions,
+>aparently - all that traffic would be squelched.
+
+Well, you can't fault them if they're applying the same restrictions to
+all users.  Your description of the netnews situation is arguably a prob-
+lem, but the network restriction, *when levied against everyone equally*,
+is not a censorship issue.
+
+It's easily conceivable that these "frivolous" connections/services are
+placing a significant load on your network.  Have you asked the network
+folks at Duke what their packet counts look like?  If IRC/Xtrek/Netrek
+and the like are flooding the network, they may very well be justified
+in restricting their use.  I'd ask for justification, though......
+
+While we're at it, it might be a good idea to mention that "frivolous"
+services such as IRC and Netnews can take a pretty large chunk out of 
+one's network resources.  After reading this posting, I pulled down the
+latest backbone statistics from nic.merit.edu (anonymous ftp, 35.1.1.48,
+in directory /statistics/nsfnet).
+
+Here are the "Top 10" services which traversed the NSFNet backbone in April 92:
+
+   Service Name           Port   Packet Count  % Pkts    Byte Count     % Byts
+   ============           ====   ============  ======  ===============  ======
+1) ftp-data                 20  1,777,942,050  27.267  629,501,781,250  51.324
+2) (other ports)          ----  1,360,689,950  20.868  128,494,133,550  10.476
+3) telnet                   23    764,610,050  11.726   51,502,555,850   4.199
+4) nntp                    119    604,296,900   9.268  118,870,235,800   9.692
+5) smtp                     25    517,377,650   7.935   79,041,573,550   6.444
+6) nameserver               53    460,741,850   7.066   43,511,326,900   3.547
+7) ftp                      21    159,225,750   2.442   12,604,876,150   1.028
+8) irc                    6667    123,975,050   1.901   11,595,136,400   0.945
+9) (other protocols)      ----    121,799,250   1.868    9,302,792,750   0.758
+10) vmnet                  175    111,123,500   1.704   39,249,040,700   3.200
+
+NSFNet does not track all ports; according to the header of this file, they
+only track ports 0-1023, 2049, 6000-6003, and 6667.  According to the server
+lists on rec.games.netrek, most servers run on port 2592; therefore, their
+traffic is included in item #2, "(other ports)".
+
+{ ++off_subject_flag; }
+However, we can see that NNTP (Network News Transfer Protocol) comes in at
+#4 on our list.  We could make the assumption that a certain portion of
+SMTP (email) and FTP traffic is generated by netnews, so the "Usenet portion"
+of the backbone traffic is actually greater than the 9.2% given for nntp alone.
+{ --off_subject_flag; }
+
+We can also see that IRC shows up in the "Top 10", but its 1.9% contribution
+appears negligible.
+
+I also pulled down the list of networks generating traffic over the NSFNet
+backbone during the same period.
+
+Here are the "Top 20" networks, in terms of traffic sent across the NSFNet
+backbone in April 1992:
+
+                                             Packets      Packets    Percentages
+                                             In To        Out From   In      Out
+    AS   IP Number    Network Name           Backbone     Backbone
+    ==== ============ ====================  ===========  =========== ===== =====
+1)  93   128.252      WASHINGTON-U          363,398,850  166,088,700  5.57  2.55
+2)  73   128.95       WASHINGTON            204,290,400  204,560,450  3.13  3.14
+3)  702  137.39       UUNET-WAN             130,540,050   84,524,350  2.00  1.30
+4)  194  128.117      UCAR                  120,650,300  116,736,500  1.85  1.79
+5)  209  128.138      COLORADO              108,226,150   89,392,900  1.66  1.37
+6)  209  129.24       UNM-CDCN               97,897,800   70,796,500  1.50  1.09
+7)  267  129.79       INDIANA-NET            95,326,850   65,549,650  1.46  1.01
+8)  38   128.174      UIUC-CAMPUS-B          87,522,950   79,819,350  1.34  1.22
+9)  200  36           SU-NET-TEMP            86,676,850   56,509,450  1.33  0.87
+10) 204  128.2        CMU-NET                86,274,400   78,488,000  1.32  1.20
+11) 280  128.83       UTAUSTIN               84,499,000   66,616,300  1.30  1.02
+12) 200  128.32       UCB-ETHER              84,269,900   75,667,700  1.29  1.16
+13) 291  128.55       NERSC                  73,103,750   35,656,650  1.12  0.55
+14) 601  128.100      TORONTO                59,789,850   44,765,250  0.92  0.69
+15) 267  128.255      UIOWA                  57,848,350   44,890,900  0.89  0.69
+16) 209  132.194      CUDENVER               49,269,100   43,465,100  0.76  0.67
+17) 685  128.193      ORST                   46,179,450   41,766,500  0.71  0.64
+18) 1225 128.104      WISC-HERD              43,350,400   40,819,350  0.66  0.63
+19) 195  132.249      SDSCLAN                43,349,550   21,833,250  0.66  0.33
+20) 685  134.129      NODAK                  41,711,300   33,752,050  0.64  0.52
+
+Now, let's find Duke.  Duke routes a large portion of its traffic through
+CONCERT, so we'll include their entries....
+
+99)   81 128.109      CONCERT                14,397,800   29,718,400  0.22  0.46
+492)  81 192.101.21   CONCERT-B               1,817,200    3,139,850  0.03  0.05
+2200) 81 152.3        DUKE-NET                   34,900      145,150  0.00  0.00
+4054) 81 192.101.24   CONCERT-E                       0           50  0.00  0.00
+
+
+Since Duke/CONCERT are responsible for less than 1% of the total traffic over
+the NSFNet backbone (during April 1992, at least), I think we can rule out
+any "outside pressure", such as the infamous-yet-nonexistent NSF net.police.
+
+>	I thought Duke was doing pretty good, and then I took a look
+>beyond the end of my nose.
+
+Well, I've given you a bit of ammunition; it would appear that the traffic
+generated by IRC has actually declined somewhat in recent months (I'd have
+to pull down the statistics for the last 12 months or so to be sure).  If
+their argument is based on "backbone load", NSF's own statistics refute that
+point.  If their argument is based on LOCAL network load, you should ask for
+their statistics.
+
+As I said earlier, you may not be able to argue against the restriction on
+xtrek/netrek/IRC, IF THE RESTRICTION IS APPLIED TO EVERYONE EQUALLY.
+
+I'm sure that Carl (and other readers) will provide numerous citiations to
+help you with your netnews problem.
+
+--Wes
+
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|                MORGAN@UKCC 
+ morgan@engr.uky.edu  |the University of Kentucky's|     ....!ukma!ukecc!morgan
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+     Mailing list for AT&T StarServer S/E - starserver-request@engr.uky.edu
+
+
+------------------------------
+
+From caf-talk Caf Jun  9 14:56:10 1992
+Newsgroups: alt.sex.bondage,alt.censorship
+Subject: Article 11--Superman and Batman Illegal in Canada?
+Message-ID: <1992Jun9.004550.9542@wolves.uucp>
+Date: 9 Jun 92 00:45:50 GMT
+
+On the face of the law in Canada, quoted by....
+
+In <1992Jun6.223237.12837@wizvax.methuen.ma.us> wi.4789@wizvax... writes:
+>Some facts, for a change.
+>
+>Fundamental Freedoms
+>2.  Everyone has the following fundamental freedoms:
+>    (a) freedom of conscience and religion;
+>    (b) freedom of thought, belief, opinion and expression, including
+>    freedom of the press and other media of communication;
+>    (c) freedom of peaceful assembly; and
+>    (d) freedom of association.
+>
+>[ Excerpt from the Criminal Code of Canada, R.S.C. 1985, c. C-46]
+>
+>Part V - Sexual offences, public morals and disorderly conduct
+>
+>Offences tending to corrupt morals.
+>
+>163. (1) Every one commits an offence who
+>    (a) makes, prints, publishes, distributes, circulates, or who has in
+>        his possession for the purpose of publication, distribution or
+>        circulation any obscene written matter, picture, model, phonograph
+>        record or other thing whatever; or
+>    (b) makes, prints, publishes, distributes, circulates, or who has in
+>        his possession for the purpose of publication, distribution or
+>        circulation a crime comic.
+>
+>(7) In this section, ``crime comic'' means a magazine, periodical or book
+>    that exclusively or substantially comprises matter depicting pictorially
+>    (a) the commission of crimes, real or fictitious; or
+>    (b) events connected with the commission of crimes, real or fictitious,
+>        whether occurring before or after the commission of the crime.
+
+
+Under this definition, about 90% of the comic books that exist in the
+world are going to run afoul of this definition.  Even the Disney comics
+are going to get into trouble since one of the main themes in any tale
+concerning Scrooge McDuck is the attempt of others to obtain parts of
+his wealth (theft is a crime!).
+
+Even poor little Ritchie Rich is going to be a "crime comic".
+
+I don't see any way that the usual D.C. Comics stable of characters is
+going to escape this law.
+
+Even such comics as the reprint of Vaughn Bode's Cobalt 60 is going the
+be an "obscene" publication under this particular rule.  Murder is a
+crime!   And the intent is irrelevant :-)
+
+O Canada, we stand on guard (against) thee!
+NOTE Well: the US of A has laws that are just as, or more, stupid!
+-- 
+G. Wolfe Woodbury @ The Wolves Den UNIX, Durham NC         [use the maps!]
+UUCP: ...dukcds!wolves!wolfe   ...duke!wolves!wolfe    <Standard disclaimers>
+Domain: wolfe%wolves@cs.duke.edu    wolfe@cds.duke.edu
+    Above all, we celebrate.   Celebrate the Circle Statement of Purpose
+
+
+------------------------------
+
+From caf-talk Caf Jun 11 14:18:58 1992
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Newsgroups: misc.legal,alt.comp.acad-freedom.talk
+Subject: Article 12--Re: vax harrassment
+Message-ID: <1992Jun11.180712.21660@m.cs.uiuc.edu>
+Date: 11 Jun 92 18:07:12 GMT
+
+>Is it illegal to harass me over the vax, and how do I deal with someone 
+>who is? Please respond before June 12.
+
+Verbal harassment is (roughly) intentional, unwanted, person-to-person
+communications. So, repeated unwanted email can be harassment.
+Articles that offend you in a newspaper or public newsgroup likely
+aren't.
+
+Harassment by computer is still harassment.
+
+First, be sure you have explicitly told the harasser to stop
+communicating with you. Save copies of unwanted communications.
+
+Then, if the harassment continues, ask for help from the computer
+administrators (yours or the harasser's), the university, or the
+courts to stop the communications. On some systems, you can filter out
+email from the harasser yourself.
+
+What not to do: Don't harass back; *you* might end up in more trouble
+your harasser.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+law/gates-v-brewer
+=================
+An excerpt from a newspaper article about email harassment. A judge
+agreed that Bill Gates of Mircosoft had been the victim of harassment.
+
+=================
+faq/censorship-and-harassment
+=================
+q: Must/should universities ban material that some find offensive
+(from Netnews facilities, email, libraries, and student publications,
+etc) in order to comply with antiharassment laws?
+
+=================
+news/cafv02n11
+=================
+Includes two articles about filter email on a unix system.
+
+=================
+=================
+
+These documents are available by anonymous ftp (the preferred method)
+and by email. To get the files via ftp, do an anonymous ftp to
+ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/law/gates-v-brewer
+  pub/academic/faq/censorship-and-harassment
+  pub/academic/news/cafv02n11
+
+To get the files by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/law gates-v-brewer
+send acad-freedom/faq censorship-and-harassment
+send acad-freedom/news cafv02n11
+
+
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

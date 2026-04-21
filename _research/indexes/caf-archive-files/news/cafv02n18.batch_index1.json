@@ -1,0 +1,525 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 19, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Monitoring the creation of mailing lists may be viewed as exercising prior review or taking responsibility for content.",
+        "Severe punishments for computing policy violations should be handled by a university Judicial Committee rather than computer center staff.",
+        "Logging all telnet sessions to prevent break-ins is considered an invasion of privacy and creates a chilling effect on users."
+      ],
+      "organizations": [
+        "University of Kentucky Engineering Computer Center",
+        "Equal Employment Opportunity Commission",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Elizabeth M. Reid",
+        "Carl Kadie",
+        "Wes Morgan"
+      ],
+      "summary": "This digest summarizes debates regarding a draft Student Access/Use Policy for the University of Kentucky's Engineering Computer Center, focusing on sysadmin monitoring and disciplinary procedures. It also covers discussions on the EEOC's sexual harassment definitions and the ethics of logging outgoing telnet sessions for security purposes. The items highlight tensions between administrative oversight, user privacy, and academic freedom.",
+      "title": "Abstract of CAF-News 02.18",
+      "topics": [
+        "acceptable use policy",
+        "sysadmin ethics",
+        "privacy",
+        "telnet logging",
+        "sexual harassment",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "emr@ariel.ucs.unimelb.edu.au (Elizabeth M. Reid)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 0 -- Abstract of CAF-News 02.18",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 13, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Prior review or approval of student publications/communications may increase an institution's legal liability for the content.",
+        "Pre-approving mailing lists is an ineffective way to prevent illegal content and creates unnecessary administrative responsibility."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Student Press Law Center"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Wes Morgan"
+      ],
+      "summary": "Carl Kadie critiques a proposed university policy requiring the registration of mailing lists with more than 10 members. He argues against prior approval and pre-registration, suggesting that 'substantial disruption' is a better standard for intervention. Kadie cites student press law to argue that institutional oversight of content can actually increase the institution's legal liability.",
+      "title": "Re: DRAFT Student Access/Use Policy",
+      "topics": [
+        "acceptable use policy",
+        "mailing lists",
+        "prior restraint",
+        "institutional liability",
+        "student speech"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 13 Apr 1992 15:43:30 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<1992Apr13.154330.19059@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 1--Re: DRAFT Student Access/Use Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 13, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Proposed that computing access restrictions must be approved by the Director of Engineering Computing prior to initiation.",
+        "Argued that temporary suspensions should only occur for reasons relating to physical/emotional safety or university property."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "Engineering Computing Center",
+        "EFF"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "Wes Morgan and Carl M. Kadie discuss revisions to a draft student computing access policy at the University of Kentucky's Engineering Computing Center (ECC). The discussion focuses on preventing premature restrictions of computer access before a violation is proven and ensuring due process for students. Proposed changes include requiring director approval for restrictions and clarifying that access limits must be directly related to the charges.",
+      "title": "Re: DRAFT Student Access/Use Policy",
+      "topics": [
+        "student computing rights",
+        "due process",
+        "acceptable use policy",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 13 Apr 1992 18:43:06 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1992Apr13.144306.3022@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 2--Re: DRAFT Student Access/Use Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 13, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Administrators exercising prior review may be held liable for the contents of student publications.",
+        "Technical delegation of mailing list ownership via alias files can potentially decouple institutional administration from content responsibility."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "Engineering Computing Center",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "Wes Morgan and Carl M. Kadie discuss the legal implications of a draft student access policy requiring the registration of mailing lists with more than 10 members. The debate focuses on whether university registration constitutes 'prior review,' which could make the institution legally liable for the content of those lists. Morgan proposes a technical solution using sendmail aliases to delegate ownership and maintenance to students to avoid institutional liability.",
+      "title": "Article 3--Re: DRAFT Student Access/Use Policy",
+      "topics": [
+        "mailing list policy",
+        "prior review",
+        "institutional liability",
+        "student access",
+        "sendmail"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 13 Apr 1992 19:05:07 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1992Apr13.150507.8230@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 3--Re: DRAFT Student Access/Use Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 14, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Administrative restrictions on computing services can be viewed as punishment if they are not necessary for system protection.",
+        "Minor punishments regarding computer use are acceptable if the user has a chance to speak, appeals are possible, and classwork is not affected."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Christopher Davis"
+      ],
+      "summary": "Carl Kadie discusses the ethics of restricting student access to computing resources (specifically printers) during disciplinary proceedings. He argues against punishment before establishing guilt and suggests criteria for fair administrative sanctions that do not violate academic freedom.",
+      "title": "Re: DRAFT Student Access/Use Policy",
+      "topics": [
+        "student access policy",
+        "computing resources",
+        "due process",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 14 Apr 1992 15:16:55 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1992Apr14.151655.19264@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 4--Re: DRAFT Student Access/Use Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 14, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "A sanitized record of past violations helps prevent 'off the cuff' or inconsistent disciplinary decisions by system administrators."
+      ],
+      "organizations": [
+        "University of Kentucky Engineering Computing Center"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "Wes Morgan discusses the creation of a 'policy history' or sanitized notebook to document past computer use violations and their resolutions. He argues that such a record would ensure consistency in disciplinary actions and prevent arbitrary restrictions on user access. The proposal emphasizes balancing public transparency regarding policy enforcement with student privacy laws.",
+      "title": "Article 5--Re: DRAFT Student Access/Use Policy",
+      "topics": [
+        "acceptable use policy",
+        "student discipline",
+        "administrative transparency",
+        "user access control"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 14 Apr 1992 16:00:17 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1992Apr14.120017.15683@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 5--Re: DRAFT Student Access/Use Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 13, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Comments construed as sexual or sexist can be grounds for sexual harassment charges even if the speaker never directly addressed the accuser."
+      ],
+      "organizations": [
+        "University of Michigan Computing Club"
+      ],
+      "people": [
+        "Shawn FitzGerald"
+      ],
+      "summary": "Shawn FitzGerald, a computer lab consultant at a Michigan community college, describes a potential sexual harassment charge resulting from conversations about sex and feminism in the lab. He questions whether comments overheard by an unidentified third party can legally constitute harassment. He seeks an FTP archive of institutional sexual harassment policies for comparison.",
+      "title": "Article 6--A neat story, and a question.",
+      "topics": [
+        "sexual harassment",
+        "professional conduct",
+        "computer lab environment",
+        "institutional policy"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 13 Apr 92 17:21:58 GMT",
+      "from": "chungkuo@ais.org (Shawn FitzGerald)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<FXBL_3C@ais.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 6--A neat story, and a question.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 14, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The term 'sexual harassment' has expanded from requiring sexual acts to including any display of sexuality",
+        "Men are victims of harassment that goes unnoticed because it is not sexual in nature"
+      ],
+      "organizations": [],
+      "people": [
+        "Mike Powell"
+      ],
+      "summary": "Mike Powell responds to a post in the soc.men newsgroup regarding an allegation of sexual harassment. He argues that the definition of sexual harassment has expanded too broadly and claims that men are often overlooked victims of non-sexual harassment.",
+      "title": "Article 7--Re: A neat story, and a question.",
+      "topics": [
+        "sexual harassment",
+        "gender dynamics",
+        "workplace conduct",
+        "soc.men"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 14 Apr 1992 03:55:19 GMT",
+      "from": "mikep@hpmwtd.HP.COM (Mike Powell)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<32660026@hpmwmat.HP.COM>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 7--Re: A neat story, and a question.",
+      "to_or_newsgroups": "soc.men",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 16 Apr 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Sexual harassment policies often rely on vague 'hostile, intimidating, or offensive working environment' keywords.",
+        "The Civil Rights Act of 1964 did not explicitly mention 'hostile environments'.",
+        "The ACLU challenged the broad interpretation of sexual harassment laws as a violation of the First Amendment."
+      ],
+      "organizations": [
+        "EEOC",
+        "ACLU"
+      ],
+      "people": [
+        "Bronis Vidugiris",
+        "Shawn FitzGerald",
+        "McKinnon",
+        "Clarance Thomas"
+      ],
+      "summary": "A discussion regarding the definition of sexual harassment policies in the workplace and their impact on speech. The author argues that 'hostile environment' standards are vague and may violate First Amendment rights. The post traces the evolution of these policies from the Civil Rights Act of 1964 through EEOC interpretations.",
+      "title": "Article 8--Re: A neat story, and a question.",
+      "topics": [
+        "sexual harassment policies",
+        "freedom of speech",
+        "employment law",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 16 Apr 1992 15:48:42 GMT",
+      "from": "bhv@areaplg2.corp.mot.com (Bronis Vidugiris)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<1992Apr16.154842.29800@lmpsbbs.mot.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 8--Re: A neat story, and a question.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "14 Apr 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Logging outgoing connections is used to identify local accounts used in external security breaches.",
+        "System administrators with root access rely on professional ethics and site policy to avoid invading user privacy."
+      ],
+      "organizations": [
+        "University of Pennsylvania"
+      ],
+      "people": [
+        "Charles H. Buchholtz",
+        "Steven P. Miale",
+        "Swift"
+      ],
+      "summary": "A discussion regarding the ethics and utility of logging outgoing network connections (telnet, rlogin, sendmail) to identify hackers. Charles H. Buchholtz argues that such logs are necessary for security coordination between institutions while maintaining user privacy through professional restraint.",
+      "title": "Re: logging outgoing telnet sessions to catch 'hackers'",
+      "topics": [
+        "network logging",
+        "privacy",
+        "system administration",
+        "security",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "14 Apr 92 14:13:21 GMT",
+      "from": "chip@eniac.seas.upenn.edu (Charles H. Buchholtz)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<73966@netnews.upenn.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 9--Re: logging outgoing telnet sessions to catch 'hackers' (summary)",
+      "to_or_newsgroups": "comp.unix.programmer,comp.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 14, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Constant monitoring via logs is an invasion of privacy compared to intermittent monitoring.",
+        "Order and freedom are largely mutually exclusive in the context of system monitoring.",
+        "Security measures based on total user monitoring can be circumvented."
+      ],
+      "organizations": [
+        "University of Virginia"
+      ],
+      "people": [
+        "Steven P. Miale",
+        "Vijay Gurbani"
+      ],
+      "summary": "Steven Miale responds to a debate regarding the ethics of logging outgoing telnet sessions to identify hackers. He argues that constant monitoring via logs and history files constitutes an invasion of privacy and differs fundamentally from intermittent monitoring. Miale asserts that such surveillance is akin to 'Big Brother' and prioritizes order over individual freedom.",
+      "title": "Article 10--Re: logging outgoing telnet sessions to catch 'hackers'",
+      "topics": [
+        "privacy",
+        "surveillance",
+        "network logging",
+        "academic freedom",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 14 Apr 1992 19:11:46 GMT",
+      "from": "spm2d@uvacs.cs.Virginia.EDU (Steven P. Miale)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1992Apr14.191146.29321@murdoch.acc.Virginia.EDU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 10--Re: logging outgoing telnet sessions to catch 'hackers' (summary)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 15 Apr 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Surveillance without motive is distinct from investigating a crime after it has occurred.",
+        "Routine telnet logging should not occur until a break-in is suspected."
+      ],
+      "organizations": [
+        "University of Virginia"
+      ],
+      "people": [
+        "Steven P. Miale",
+        "Timothy Daniel Kolar"
+      ],
+      "summary": "Steven Miale argues against the routine logging of telnet destinations without a specific motive or suspected crime. He distinguishes between retrospective investigation and proactive surveillance, asserting that monitoring all users is unethical regardless of whether logs are reviewed immediately. The discussion touches upon the tension between system security and user privacy.",
+      "title": "Article 11--Re: ethics of logging telnet destinations",
+      "topics": [
+        "privacy",
+        "surveillance",
+        "telnet logging",
+        "system administration ethics"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 15 Apr 1992 20:57:02 GMT",
+      "from": "spm2d@uvacs.cs.Virginia.EDU (Steven P. Miale)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1992Apr15.205702.29713@murdoch.acc.Virginia.EDU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 11--Re: ethics of logging telnet destinations (was Re: logging outgoing...)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 16 Apr 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Monitoring network destinations can create a chilling effect on the user base and the institution.",
+        "The psychological impact of surveillance on non-criminals should be weighed against security benefits."
+      ],
+      "organizations": [
+        "University of Kentucky"
+      ],
+      "people": [
+        "Sean Casey"
+      ],
+      "summary": "Sean Casey discusses the ethical implications of monitoring network traffic, specifically logging telnet destinations. He argues that institutions should consider the 'chilling effect' such surveillance has on users regardless of whether the monitoring is deemed technically 'right'. He suggests weighing the security gains against the psychological impact on non-criminal users.",
+      "title": "Article 12--Re: ethics of logging telnet destinations",
+      "topics": [
+        "network monitoring",
+        "surveillance",
+        "ethics",
+        "chilling effect",
+        "telnet"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 16 Apr 1992 03:54:56 GMT",
+      "from": "sean@ms.uky.edu (Sean Casey)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1992Apr16.035456.6200@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n18",
+      "subject": "Article 12--Re: ethics of logging telnet destinations (was Re: logging outgoing...)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,1051 @@
+Computers and Academic Freedom (news version)
+Sun Apr 28 1991
+Vol. 1, No. 3
+Editor: Carl M. Kadie (kadie@eff.org)
+
+[This issue covers notes posted in the caf-talk mailing list from
+April 21th to April 28th. Starting this coming Sunday, caf-news will
+be published on Sunday and will cover notes posted the previous week.
+
+In this issue, system administrators from Case Western and Purdue tell
+why they censored outgoing newsgroup messages. The necessity of their
+censorship is discussed (with comments by some of the people who were
+censored.)
+
+I critique a new e-mail policy by a department of the University of
+Illinois. According to the security officer of department, the policy
+permits disk-space searches of people who attack the University or the
+department in email. As of today (May 1st), the policy stands;
+according to the department, the policy will not be rescinded until
+(unless) a new policy is created.
+
+Other notes discuss the nature of academic freedom and the use of
+University facilities.
+    - Carl]
+
+In this issue:
+
+Dan Brown        71  Speculation as to why AF suffers when computers are around
+junger@cwru     108  -
+Carl M. Kadie   215  New NCSA e-mail policy inconsistent with Academic Freedom
+Carl Kadie       13  >
+                      --  NCSA will change its policy
+Carl M. Kadie    18  >
+junger@cwru      60  "We can do anything we want with our network"
+davecb@nexus     64  >Academic Freedom, Reasonable Use, and Due Process
+Joe Wells        18  disclaimers automatically added to outgoing messages
+                      --  Censorship sucks.
+Rick Kulawiec   142  Well, was I a censor?
+Joe Wells       119  >
+                      --  Yes, but even worse you left a mechanism in place.
+Carl Kadie       52  -
+                      --  Hide behind principle, not censorship
+Sam Hill Cabal   42  >Dan Brown's Question
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Message-Id: <9104212213.AA25432@usenet.INS.CWRU.Edu>
+Date: Sun, 21 Apr 91 18:13:56 -0400
+From: Dan Brown <brown@usenet.INS.CWRU.Edu>
+Subject: Re:  Speculation as to why academic freedom suffers when computers are around
+Cc: brown@usenet.INS.CWRU.Edu
+
+In reply to Peter Jungers last message, about the greed and incompetence,
+I as a "hired hand" have a few objections.
+
+First: Yes, most administrators are overworked, and probably shouldn't
+	have the task of being netcops or censors placed on their shoulders.
+	this doesn't mean that they are incompetant of completing the task,
+	just that they are too busy trying to deal with (often irate and 
+	unreasonable) users, and complicated machines that are imperfect.
+
+Second: To my knowledge, most administrators will try to offer the best
+	service they can to all of the users of the systems. They do not want
+	to control the machines for their own evil dictatorish purposes, as
+	was implied. They do want to maintain accessability, and usability
+	of the systems for all of the users.
+
+Third: If the information is so publicly available, then how in the world
+	can an administrator be accused of censorship for removing it from his
+	system, especially if he or she, in his opinion, is doing so for
+	the betterment (IE, keeping it available for people to use to 
+	communicate ideas, study, and do research) of the system. Is it 
+	censorship to delete expired usenet messages? Technically that would
+	be removing information from the public view, but no one *1* screams
+	when this happens.
+
+fourth: I and others have touched on this previously, I will restate here...
+	Does preserving academic freedom mean trying make sure EVERYONE is
+	ALWAYS able to do what he or she wants to do, or should it be taking
+	what resources (time, money, computers, anything) and dividing what
+	is available so that everyone has as much as possible? For example,
+	if one user crashes the system because he or she is doing research
+	on Unix Kernel programming, how fair is it to the user who is trying
+	to learn C (and probably dumping core here and there... taking up
+	disk space for...), or the user who is reading Comp-academic-Freedom
+	??? 
+
+
+Some how it seems to me that people who are crying for freedom, and 
+delivereance from opression and mistreatment, are actually making a more
+restrictive and opressive, law inflicted society. If for example, a 
+hypothetical individual sued a corporation because they removed a note,
+that the corporation found innapropriate, for whatever reason, from a public
+place. That individual wins the suit on the grounds that his right to
+free speech has been violated (please don't ask for specifics, or argue that
+mr/s Hy Pothetical wouldn't have won... stranger things have happened in the
+courts of the United States). The corporation is probably going to make some
+limitations about what can and can't be posted in places that they have
+control over. There will also be a precedent (sp??) for other similar cases. 
+Perhaps some insurance company will even start offering censorship policies,
+just in case you get sued for censoring something.... 
+
+Does ANYONE out there see what I am saying??? It would seem to me that if
+people had the sence not to walk in front of large moving public transporta-
+tion vehicles, there wouldn't be less reason to cry for the right of way for 
+the pedestians. Much less for the bus company to charge $3.50 a block just
+to cover insurance. 
+
+I guess that what I am trying to say is that there is a time and place for
+everything, a forum for every discussion. A KKK member isn't probably going
+to get alot said dressed in his robe, standing on a corner in East Cleveland,
+though he probably has the right to. Students and faculty alike should use
+some common sence about picking when where and how they are going to be 
+academic. They should consider the rights, and have some respect of the
+rest of their community. So you say that there is no law that says that they
+have to, well... there shouldn't have to be.
+
+'Nuff Said.
+
+
+Dan Brown
+brown@usenet.ins.cwru.edu
+
+From: junger@cwru.cwru.edu
+Message-Id: <9104212100.AA12841@eff.org>
+Date: 21 Apr 91 16:48:00 EST
+Subject: Speculation as to why academic freedom suffers when computers are around
+Cc: junger@cwru.cwru.edu
+
+        I am happy that Dudley Irish <dirish@math.utah.edu> has come to
+a new position and that he now recognizes a student's right to academic
+freedom in the context of the removal of a posting from a campus wide
+unmoderated bulletin board.  I am a little concerned, however, at the
+reliance that he places on a statement of the American Association of
+University Professors ("AAUP"), an organization that does a worthwhile
+job of protecting academic freedom, but is not authorized to--and would
+not claim authority to--legislate a definition of that freedom.
+
+        As a law teacher I am made very uncomfortable by the bald
+statement of Tim Simpson (Department of Communication, Barry University,
+Bitnet: SIMPSON@BARRYU) that "the term [academic freedom] is a legal
+one."  Whatever `Academic Freedom' may mean--and I do not think that it
+is profitable to try to cabin it by an exact definition--it is not a
+legal term.  The existence of this list is, I think, evidence of that.
+Since many--probably most--universities are private institutions,
+efforts to protect academic freedom in such institutions by appeals to
+the Constitutional right of free speech under the 1st and 14th
+Amendments to the Federal Constitution will generally fail (or at least
+be made very difficult) by the absence of state action.  In rare cases,
+it may be possible for a faculty member or a student to claim a
+contractual right to academic freedom, but such an claim will inevitably
+assert that the pre-existing right of academic freedom has been
+impliedly incorporated into the faculty member or the student's contract
+with the educational institution.  (In most such cases the claimant will
+be able to cite published institutional policies in favor of academic
+freedom and try to incorporate that into the contract.)  In general,
+however, academic freedom is protected from the attack of academic (and
+other) yahoos by the threat of negative publicity (and, in extreme
+cases, boycotts by the AAUP), not by legal remedies.
+
+        Academic Freedom is an ideal inherent in the very idea of a
+University, a community of scholars, an academic community.  The
+tradition of academic freedom can thus be traced back at least to the
+medieval universities.  The state and the bishop may try to suppress
+that freedom; the faculty and students will--if they have any concept of
+their roles in society and their own self-interest-- ardently defend it.
+
+        To anyone with a minimum awareness of the goals and values of
+the academy, Jon C. Slenk's claims quoted below represent a vicious
+misunderstanding of the nature of the academic enterprise: "Basically, a
+private [educational] institution is a business venture: if they don't
+make money they will go under. So, if they are a business venture, they
+should be looking out for themselves. If they put a lot of money into
+computing systems and let their students get onto the nets, then I
+believe it is okay morally for them to say, `Hey, that letter can't go
+out!' and yank it."  [There may be trade schools that are run on that
+basis, but their purpose is to produce fodder for the nations factories,
+not educated men and women.  And even that sort of dismal sausage
+factory, if it is wise, will realize that its trainees are its
+customers--and thus not to be offended--not just sausages being ground
+out for consumption by the owners of the dark, satanic mills.]  No
+university or college with any academic pretensions, however slight, can
+afford to advertise, or even admit, that it denies academic freedom
+(unless, of course, there is some powerful countervailing concern, like
+the religious dogma espoused by the institution or those values that are
+often parodied under the label of "political correctness").
+
+        So the question that justifies the existence of this list is:
+Why do universities and colleges seem so eager to deny academic freedom
+to those who use computers, when they would defend it valiantly in other
+contexts?
+
+        Here at Case Western Reserve University it seems pretty clear
+that the answer lies in the fact that almost all of the faculty, most
+of the students, the central administration, and the deans, have no idea
+of how computers work or what they can be used for.  At the same time,
+the powers that be have decided that a computer network is a good thing
+and have spent millions of dollars installing optical cables, and
+hundreds of dollars buying software for the machines that are connected
+to those cables.  In these circumstances the entire University--faculty,
+students, and administrators--find themselves at the mercy of the hands
+who were hired to run that network.  And those hired hands--who are
+terribly overworked--have as little understanding of the needs of the
+academic community as the powers that be had of the potentials and
+pitfalls of computers.  The hired hands see nothing wrong in trying to
+keep publicly available information out of the hands of students and
+faculty members by censoring postings on a public (electronic) bulletin
+board; the powers that be, knowing that they know nothing of computers,
+would not dream of overruling the hired hands; the scientists and
+engineers who actually use computers in their work do not read
+electronic bulletin boards and do not depend on hired hands--or, at
+least, won't be hornswoggled by them; while the rest of the faculty and
+students, who would never for a moment permit the removal of the same
+information from the University libraries or bookstores, are, if
+anything, secretly delighted that some computer nerd has gotten his
+comeuppance.
+
+        Now I happen to be convinced that computers are useful tools to
+aid in all sorts of academic undertakings, useful tools to aid in
+thought.  But the trouble is that the hired hands have tried to grab
+control of the computers.  And if computers have the potential that I
+think they have, then those who control the computers are going to
+control the production of our thoughts.  Thus the computer, instead of
+being liberating, becomes an instrument for dumbing-down our
+institutions of learning--and the rest of society as well.
+
+        If I am right in this understanding--and I assure you that I
+am--not only those soft-headed types who value freedom, but also the
+hard-headed economic warriors locked in battle with Japan, Inc., should
+be vitally concerned with the issue of computers and academic freedom.
+
+Peter D. Junger
+Professor of Law
+Case Western Reserve University
+
+------
+
+Date: Tue, 23 Apr 91 04:42:14 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9104230942.AA06697@m.cs.uiuc.edu>
+Subject: New NCSA e-mail policy inconsistent with Academic Freedom
+
+[Enclosed is a copy of a note I posted in "uiuc.general," a campus-wide
+newsgroup at the University of Illinois. I also sent e-mail copies
+to the administrators who approved the policy and to several
+Professors interested in these issues (including the president of
+the local chapter of the AAUP). Following this note, expect copies
+of the policy in question and my notes from a conversation with
+Michael Smith of the NCSA.
+
+I will, of course, keep the list informed as to what happens.
+ - Carl Kadie]
+
+----------------------------------------------------------------------
+The new NCSA e-mail policy permits searches and punishment of
+faculty, students, and researcher who "attack" the University, or the
+NCSA in e-mail.
+----------------------------------------------------------------------
+
+The National Center for Supercomputer Applications (NCSA) is a department
+in the University of Illinois' Graduate College. On April 1 [no kidding],
+the NCSA set down a new e-mail policy. The policy was cleared by the
+University's legal counsel and the Graduate College. Faculty, students,
+and researchers, however, were not consulted.
+
+Although the policy offers much good advice and addresses legitimate
+security concerns, it is overly broad and vague.  Moreover, it is
+inconsistent with the principles of Academic Freedom, Constitutional
+rights, and University policies with respect to freedom of expression
+and privacy.
+
+The policy should concern all users of NCSA's e-mail facilities. It should
+also concern anyone who sends e-mail to a NCSA user or through a NCSA
+managed network. Finally, it should concern anyone who believes that
+the principles of academic freedom (including freedom of expression and
+privacy) apply to computers.
+
+In a sense, this note is not constructive. I will not suggest an
+alternate e-mail policy. Instead, I will criticize the current policy.
+It is my hope that criticism will lead to the retraction of the
+current policy and creation of a more balanced policy that respects
+the rights of computer users.
+
+Specifically, here are nine criticisms (in no particular order):
+
+1) The policy was created without user representation.
+
+The faculty, students, and researchers who use NCSA e-mail should have
+helped form any policy. Also, any University committees
+concerned with Academic Freedom should have been consulted.
+
+2) NCSA contracts with industry are not an excuse to override academic
+freedom and individual rights.
+
+One attempted justification of the policy is that the NCSA is
+contractually obligated to provide security and confidentiality to
+industry. This is no justification at all. Contracts with industry
+must be made within the boundaries of Academic Freedom.
+
+3) E-mail to users at the NCSA from outside the NCSA deserves more protection.
+
+Under this policy, searches of a user's e-mail will be typically
+conducted by inspecting that user's mbox file. If you send e-mail to a
+NCSA user, your note might end up in his or her mbox. If the mbox file is
+searched, your note might be read (without any suspicion about
+you and without the permission of the addressee).
+
+4) The policy gives the Director extraordinary power with no check and
+balances.
+
+No search can be done without explicit authorization from the Director
+of the NCSA. The Director, however, reports to no one.
+
+5) Due process is not guaranteed in the policy.
+
+If a user (faculty or student) is found to have committed an offense,
+he or she should have the right to a formal hearing and the right of
+appeal. 
+
+Also, some of the due process that is provided is not guaranteed in
+writing. For example, there is an unwritten policy that the Director
+cannot delegate the authority to authorize a search. This protection
+should be make explicit.
+
+6) The policy fails to respect e-mail.
+
+The policy allows disk space to be searched, but there is no similar
+policy allowing telephones or campus mail to be monitored or offices
+to be searched. Privacy should be respected in all its forms.
+
+7) The policy is vague.
+
+It prohibits e-mail that "attempts to disadvantage NCSA." What does
+this mean? It prohibits "inappropriate information disclosures," but
+does not define "inappropriate".
+
+8) The policy may prohibit constitutionally protected speech.
+
+According to Michael Smith, the Associate Director of the NCSA,
+the phrase "attempts to disadvantage NCSA" prohibits attacks in
+e-mail on the NCSA and the University. This interpretation (of
+a vague phrase) is inconsistent with the First Amendment, Academic
+Freedom, and University policy.
+
+The First Amendment to the U.S. Constitution says: "Congress shall
+make no law [...] abridging the freedom of speech, or of the press;"
+This amendment also applies to the States and to State institutions
+such as this University. It protects your right to forcefully
+criticize institutions such as the NCSA and the University.
+
+The Joint Statement on Rights and Freedoms of Students it the main
+statement on the academic freedom of students. It has been endorsed by
+the American Association of University Professors, the U. S. National
+Student Association, and the Association of American Colleges.  It
+says:
+
+"Academic institutions exist for the transmission of knowledge, the
+pursuit of truth, the development of students, and the general
+well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals its members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth."
+
+Faculty's freedom of expression is, of course, also protected by
+Academic Freedom.
+
+The University of Illinois Code on Campus Affairs says:
+
+"STATEMENT ON INDIVIDUAL RIGHTS
+ I. Preamble
+ A student at the University of Illinois at the Urbana-Champaign campus
+ is a member of the University community of which all members have at
+ least the rights and responsibilities common to all citizens, free from
+ institutional censorship; affiliation with the University as a
+ student does not diminish the rights or responsibilities held by a
+ student or any other community member as a citizen of larger
+ communities of the state, the nation, and the world."
+ ...
+
+"III. Campus Expression
+ A. Discussion and expression of all views is permitted within the
+ University subject only to requirements for the maintenance of order.
+  [...]
+ C. The campus press and media are to be free of censorship. The editors
+ and managers shall not be arbitrarily suspended because of student,
+ faculty, administration, alumni, or community disapproval of editorial
+ policy or content."
+ ...
+"VI. Student Affairs 
+ [...]
+ B. Freedom of Inquiry and Expression
+ 1. Students and student organizations should be free to examine and to
+ discuss all questions of interest to them, and to express opinions
+ publicly and privately. [...]
+ 2. Students should be allowed to invite and hear any person of their
+ own choosing. [...] The University's control of campus facilities should
+ not be used as a device of censorship. It should be made clear to the
+ academic and larger community that sponsorship of guest speakers
+ does not necessarily imply approval or endorsement of the views expressed
+ either by the sponsoring group or the institution."
+
+9) The policy may allow constitutionally prohibited search.
+
+The Fourth Amendment says: "The right of the people to be secure in
+their persons, houses, papers, and effects, against unreasonable
+searches and seizures, shall not be violated, and no Warrants shall
+issue, but upon probable cause, supported by Oath or affirmation, and
+particularly describing the place to be searched, and the persons
+or things to be seized."
+
+A government institution, such as this University can not ignore these
+protections just because it owns the facilities [Mancusi v. DeForte
+392 U.S. 364, 368 (1967); Gillard v. Schmidt 579 F.2d 825, 829 (3d
+Cir. 1978)]
+
+University privacy policy is described in the Code on Campus Affairs.
+I think University rules concerning assigned office space provide
+the best model of how disk space and e-mail should be treated.
+
+"IV. Privacy
+
+A. Members of the University community have the same rights of
+privacy as other citizens and surrender none of those rights by
+becoming members of the academic community. These rights of privacy
+extend to residence hall living. Nothing in University regulations or
+contracts shall give University officials authority to consent to a
+search by police or other government officials of offices assigned or
+living quarters leased to individuals except in response to a properly
+executed search warrant or search incident to an arrest.
+
+B. When the University seeks access to an office assigned or living
+quarters leased to an individual to determine compliance with
+provisions of applicable multiple-dwelling unit laws, ordinances, and
+regulations, or for improvement or repairs, the occupant shall be
+notified of such action not less that twenty-four hours in advance.
+There may be entry without notice in emergencies where imminent
+danger to life, safety, health, or property is reasonably feared and
+for custodial service.
+
+C. The University may not conduct or permit a search of an office
+assigned or living quarters leased to an individual except in
+response to a properly executed search warrant or search incident to
+an arrest."
+
+
+
+In conclusion, the new NCSA e-mail policy is inconsistent with the
+constitutional rights and the academic freedom of faculty, students,
+and researchers. It says that freedom of expression and the right to
+privacy to not extend to computers. I urge the NCSA to rescind the
+policy.
+
+
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+Date: Wed, 24 Apr 91 10:04:47 EDT
+From: kadie (Carl Kadie)
+Message-Id: <9104241404.AA16675@eff.org>
+Subject: Re: New NCSA e-mail policy inconsistent with Academic Freedom 
+
+Summary: NCSA will change its policy
+
+[I originally sent this last night, but I don't think it got sent out,
+ so I'm resending - Carl]
+
+I'm happy to report that the NCSA has decided to revise its e-mail
+policy.  According to James Bottum, Deputy Director of the NCSA, the
+new policy will be created with the help of the NCSA's users and in
+consultation with campus committees concerned with academic freedom.
+
+- Carl Kadie
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+Date: Wed, 24 Apr 91 14:37:24 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9104241937.AA28098@herodotus.cs.uiuc.edu>
+Subject: Re: New NCSA e-mail policy inconsistent with Academic Freedom
+
+Thanks to a discussion on "uiuc.general", a newsgroup at U. of Illinois,
+more details are coming out.
+
+1) It appears that some time in March (?), an NCSA student (?)
+employee(s?) anonymously sent e-mail to someone?/everyone? at the
+NCSA. The recipent(s) found the mail to be "rude, crude, and very
+immature". The e-mail was make to look like it came from
+"saddam@iraq.bunker.gov".
+
+2) The sender was somehow identified (by a search of his or her mbox?)
+and fired.
+
+3) On April 1st, an e-mail policy was handed down that, among other
+things, permits searches of mboxes is someone uses e-mail to "attempt
+to disadvantage NCSA".
+
+(I don't know the order of #2 and #3.)
+
+From: junger@cwru.cwru.edu
+Message-Id: <9104242207.AA20760@eff.org>
+Date: 24 Apr 91 17:58:00 EST
+Subject: "We can do anything we want with our network"
+Cc: junger@cwru.cwru.edu
+
+        I am glad to see from Carl M. Kadie's most recent message that
+NCSA has decided to revise its e-mail policy.
+
+        I wish that the powers that be here at Case Western Reserve
+University were as reasonable.  This morning I attended a meeting of our
+Faculty Senate's Computer Committee where I raised the issue of
+censorship of electronic messages and suggested that the Faculty Senate
+should adopt a firm position that the use of electronic media is fully
+protected by the principle of academic freedom.  The Vice-President in
+charge of out network was there and, though it was not really relevant
+to my point, we got in a dispute as to whether the CWRU case that has been
+mentioned here actually involved a violation of academic freedom and free
+speach--that was the case involving the removal from a public electronic
+bulletin board of the _source code_ of a chat program that demonstrated
+how to get a packet driver to send a packet over an ethernet.  I
+insisted that the censorship of source code could not be justified as
+necessary to prevent a clear and pressing danger; the vice-president--to
+my astonishment--then claimed that he had obtained an opinion from our
+University Counsel's office to the effect that the posting of the
+message (including the source code) could amount to a fourth degree
+felony (or misdemeanor or whatever, my ears were too startled to listen
+well) under Ohio law.
+
+        So this afternoon I called the Counsel's office and spoke with
+an assistant counsel.  He said that he had never given such an opinion,
+but that he had said that if the program was _used_ by a student to
+improperly obtain information from a computer network (or something like
+that) then it might constitute a violation of Ohio law.
+
+        Now that's OK.  The assistant counsel was giving perfectly
+proper advice; lawyers are not generally held liable for the misuse, or
+the misconstruals, that their clients make of their opinions.  But then 
+the assistant counsel went on and told me--I don't know if he gave this
+opinion to the Vice President or not--"it's our network and we can do
+whatever we want with it."
+
+        Now the assistant counsel is probably right as a matter of law,
+so long as the university doesn't try to increase its endowment by wire
+fraud or something like that, but that hardly addresses the question of
+academic freedom.  I have every confidence that the Faculty Senate will
+in its testudinarian fashion eventually make clear that academic
+freedom is not abandoned when one uses a computer; but I am afraid that
+that resolution is going to take a long time.
+
+        In the meantime, I hope that some of you will post messages that
+I can in turn show to the University administration in order to shame it
+into behaving properly.
+
+        I can't help but think of the subtitle that Thorsten Veblen
+wanted to use for his book on The Governance of Universities:  "A Study
+in Utter Depravity."
+
+Peter D. Junger
+Case Western Reserve University
+Law School
+Cleveland, Ohio
+
+Internet:  JUNGER@CWRU.CWRU.EDU  ----  Bitnet:  JUNGER@CWRU
+------
+
+Subject: Re: Academic Freedom, Reasonable Use, and Due Process
+Date: 	Thu, 25 Apr 91 08:31:35 EDT
+From: davecb@nexus.yorku.ca
+Message-Id: <91Apr25.083240edt.6275@nexus.yorku.ca>
+
+   Thank you Mr. Irish, this was a usefull and worthwhile exercise.
+However, I wish to disagree most strongly with your underlying assumptions...
+
+In <9104242204.AA01711@math.utah.edu>, Dudley Irish <dirish@math.utah.edu> says:
+|       Now, what makes this all work is that all institutions
+| that care about academic freedom for their students have a way for
+| those students to get a room for a meeting. 
+[...]								Frankly,
+| in my opinion (he said slipping into the asbestos suit), unless we are
+| talking about a system that is the computer equivalent of a student
+| union then a students use of that computer for non-class related
+| speech is not protected by academic freedom.  Clearly at a well
+| managed and open minded institution there will be a great deal of
+| latitude granted on the computer systems which do exist.  Also, I
+| think that we will see more and more computerized student unions.
+| Until then, I think that the administrators of limited computer
+| resources are entitled to ask people to take their activism offline
+| and into the student union.
+
+  My home university had and has a differnt approach: it has no student
+union building and for may years had no strong student organizations. Instead
+it was sensitive, almost oversensitive, to student concerns.
+  As a student faced with a ``situation'' in a lab, I had considerable
+latitude for action against the department which caused the problem: I had
+help from my own department, broad moral support from my classmates, pointed
+advice from the legal aid department of the law faculty and, if necessary,
+members of the senate elected from the student body prepared to make a
+motion of public censure (!)
+
+  This is a very different situation from an organization which thinks in
+terms of places and property: this is an institution which has a tradition
+of propriety.
+  In part that is due to the fact that the university was created from three
+religious colleges who had had to learn to get along with each other:
+Assumption (Roman Catholic), Iona (United Church) and Canterbury (Anglican).
+In part it is due to the different history of Canadian/British versus
+American universities.
+
+  In our tradition, student iniatives are part of the university process,
+just as students are part of the university community.  Students have rights
+and duties as members of the community and these are supported by the whole
+community.  One does not have to purchase a building to exercise one's
+rights, any more than one has to purchase a printing press to exercise one's
+talents at the student newspaper.
+
+  I do not believe this tradition is all that unfamiliar in the United
+States:  I have visited places where it seems to have grown much as it did
+at Windsor.
+  Nor do I believe the tradition of baseing personal rights on property
+rights is peculiar to the 'States.  I have seen it here, and have fallen
+into the trap myself, as Peter Danielson can testify.
+
+  I have come to belive that property-based arguements are an
+oversimplification: they lead to conclusions that are actively distructive
+to the purposes and tratitions of the university.
+  I claim that it is the tradition, including the tradition of granting
+extraordinary academic freedoms, that informs the process.  It is the
+tradition of fairness that causes a university to make space and resources
+available, even though they belong to the administration of the university.
+
+  Indeed, the university that has a student union probebly needs one...
+
+--dave (at a university that just built a ``stuent centre'') c-b
+
+Date: Fri, 26 Apr 91 20:42:49 -0400
+From: jbw@cs.bu.edu (Joe Wells)
+Message-Id: <9104270042.AA21070@bucsd.bu.edu>
+Subject: disclaimers automatically added to outgoing messages
+Summary: Censorship sucks.
+Warning: This message was not approved by a censor.
+References: <9104262052.AA03695@math.uchicago.edu>
+Sent-Via: comp-academic-freedom-talk@eff.org
+
+>>>>> "Francis" == Francis Stracke <francis@zaphod.uchicago.edu> writes:
+
+>    1) "[T]hat sponsorship of" a news/e-mail systems "does not necessarily
+>    imply approval or endorsement of the views expressed, either by the
+>    sponsoring group or the institution."
+
+Francis> Somebody said a while back that they patched their NNTP server to
+Francis> add a disclaimer line to each header.  Maybe this should become a
+Francis> standard feature.
+
+Or in the case of a site that engages in censorship, a disclaimer should
+be added that says "This article approved by censor".
+
+-- 
+Enjoy,
+
+Joe Wells <jbw@cs.bu.edu>
+
+Date: Fri, 26 Apr 91 10:29:29 -0400
+From: rsk@juniper.circ.upenn.edu (Rick Kulawiec)
+Posted-Date: Fri, 26 Apr 91 10:29:29 -0400
+Message-Id: <9104261429.AA17887@juniper.circ.upenn.edu>
+Subject: Well, was I a censor?
+Cc: rsk@juniper.circ.upenn.edu
+
+First, I'm going to respond to this:
+
+> From: stan kulikowski ii <STANKULI%UWF.BITNET@CUNYVM.CUNY.EDU>
+> 
+> i did such a sidestep once when the purdue censor
+> yanked one of my postings (without any notification, by the way).
+
+That's simply not true -- you may disagree strongly with what I did,
+but you have no reason to think that I ever did anything behind your back.
+There are lots of reasons your article may not have made it out: full disk
+partitions, dropped network connections, NNTP botch, etc....it happens
+every day.
+
+
+I don't think I'll ever convince Stan that I was not acting as
+a censor when I was the news administrator for the computing center
+at Purdue.  His mind seems to have been made up long ago, and he now
+insists on the label "censor", which I feel is undeserved.  Let me
+tell the rest of you why, and then you, if you want, can try to convince
+me otherwise.  I'd like to think I have an open mind about this; but
+responses like "How does it feel to be part of the problem?", which
+came my way the other day, are probably not going to very persuasive. ;-)
+
+First, a word about how Usenet news works for those of you on Bitnet
+and other places.  Usenet news is essentially a distributed bulletin
+board, compartmentalized into several hundred sections dealing
+with numerous topics.  (E.g. comp.ai.vision deals with AI techniques
+in computer vision; rec.backcountry deals with hiking, etc.)
+Individual messages posted to these "newsgroups", as they are
+called, propagate from site to site via a flooding algorithm that
+tries to send every article to every site.  Estimates of the size
+of Usenet vary wildly, but 10,000 sites and 500,000 users are probably
+ballpark numbers.  Every site that runs news has, in theory, a
+mail address "news" to which comments, complaints, and miscellany
+may be sent; the local news administrator is supposed to be on
+the receiving end of that address.
+
+Newsgroups fall into two broad categories: moderated and unmoderated.
+Unmoderated newsgroups may be posted to directly by anyone; an article
+sent to one of these newsgroups will show up locally (first), and then
+will work its way outward from there.  Moderated newsgroups may only
+be posted to by the moderator: the proper etiquette is to mail the
+article to the moderator, who screens it and then posts it.  What
+"screens" means varies from moderator to moderator.  Some just check
+to see if the topic of the article is appropriate to the newsgroup
+and pass it on; others lightly edit to fix grammar and spelling errors;
+still others try to winnow a large volume of articles in order to
+present a small number that strike a balance between multiple points
+of view.  In the ten years that I've been on Usenet, I've been
+completely impressed with how hard moderators try to do their task
+with equanimity; I can count the number of times (that I'm aware of)
+that a moderator did something dubious on one hand.
+
+Usenet etiquette is defined by a set of continually evolving consensus
+guidelines which are periodically posted to the newsgroup
+news.announce.newusers, and are available at most sites in a publicly-readable
+directory.  These guidelines are mostly refined common sense, e.g.
+"Don't post an article to 83 newsgroups", "When following up, don't
+quote a 300-line article in its entirety", and so on.
+Many sites supplement this with a set of guidelines for the use of
+their local newsgroups; I provided the users at Purdue's computing center
+with a 4-page document that (1) summarized the Usenet etiquette and
+(2) explained the local etiquette.
+
+Now a word about Purdue.  Purdue's administration is extremely sensitive
+to adverse publicity of any kind -- believe me, I know from firsthand
+experience.  They were, and are, concerned about the contents of any
+articles emanating from a Purdue site.  This is why, for a very long
+time, only faculty and the staff (full-time and student) of the
+computing center were allowed to post articles to non-local newsgroups.
+(This was *not* my choice.  I argued for changing it about once a semester.)
+This is also why, at one point, computing center staff were advised that
+posting articles to non-work-related groups could be construed to
+constititute a misuse of center resources.  (This also was *not* my
+choice.  I argued against it strongly on the grounds that it was
+a content-sensitive restriction as opposed to a context-based restriction.)
+
+Now here's the real problem: users were posting articles that generated
+complaints.  Now, a few squawks here and there are no big deal.  But when
+one article from one user generates dozens of letters to "news" from
+people all over the world, there's a problem.   For a time, I tried to
+ignore it, because dealing with news was one small part of my job, and
+I had other fish to fry.  But when the complaints began to reach people
+other than me, I began to worry.  There were rumblings that news could
+possibly go away.  So here's what I did: I set up the outbound news
+spooler so that it would send me a copy of any outbound article.
+Once a day, I glanced through these (usually there were less than 10)
+to see if any of them had anything grossly wrong with them.  "Grossly
+wrong" means "things that don't follow Usenet etiquette", for example,
+an article which quoted a preceding (lengthy) article in its entirety.
+("Grossly wrong" does *not* mean "expressed an unpopular point of view".)
+If I found such an article, I'd send out a cancel message (which causes
+the article to disappear from Usenet), and mail the article back
+to the originator with a note telling them what was wrong with it.
+
+The idea of this was to sidestep the process that would start when
+the complaints coming in reached the ears of those people higher up.
+Did I like doing it?  No.  It was a pain in the ass.  But it beat having
+news yanked in its entirety, which seemed to me to be a very real
+possibility if something wasn't done.
+
+Was it censorship?  I don't think so, and let me tell you why not.
+
+First, I consider what I was doing no more obstrusive that what someone
+might do with a physical bulletin board in a campus hallway: if the
+person in charge of the bulletin boards finds a "Couch for sale"
+note on the bulletin board reserved for student jobs, is it
+censorship for them to unpin that note and carry it back to the
+person who posted it and ask them to put it on the for-sale board?
+
+Second, I never returned anyone's article to them because of what
+they had to say -- I allowed articles to pass (lots of them) that were
+critical of the computing center, critical of Purdue, critical of my
+favorite football team, whatever.
+
+Third, I made sure everyone had a chance to know the rules up front:
+they were posted to local newsgroups, available in a public directory
+on every machine, referred to by the news-posting program itself, and
+so on.  I didn't want anyone to be surprised -- but I know some people
+were.  (Which brings up a separate issue: if you need to tell 7000 users
+of your systems something, *how* do you tell them?)  I don't think the
+rules were terribly restrictive -- to use the physical bulletin board
+analogy again, many campuses have rules that specify no postings
+larger than 8.5x11 inches, or require an approval stamp for certain
+bulletin boards, or reserve some departmental bulletin boards for
+things like grades, class announcements, etc.
+
+Fourth, if I really wanted to censor someone, I had far more effective
+means at my disposal.  With a few keystrokes, I could have disabled
+them from posting news to any or all newsgroups.  I could have rigged
+a program to cancel all of their articles every night.  I could have
+caused our outbound news link to drop all their articles on the floor.
+(Or, best of all, I could have done nothing and waited for the one
+article that would cause Purdue to yank Usenet news entirely.)  But
+I certainly wouldn't have told them about it.
+
+There's more to it, but this is long enough, I think, to get the
+idea across.  I welcome reasoned arguments to the contrary position,
+especially those which refute points 1-4 above.
+
+---Rsk
+
+Date: Fri, 26 Apr 91 20:42:42 -0400
+From: jbw@cs.bu.edu (Joe Wells)
+Message-Id: <9104270042.AA21067@bucsd.bu.edu>
+Subject: Re: Well, was I a censor?
+Summary: Yes, but even worse you left a mechanism in place.
+Warning: This message was not approved by a censor.
+References: <9104261429.AA17887@juniper.circ.upenn.edu>
+Sent-Via: comp-academic-freedom-talk@eff.org
+
+>>>>> "Rick" == Rick Kulawiec <rsk@juniper.circ.upenn.edu> writes:
+
+Rick> That's simply not true -- you may disagree strongly with what I did,
+Rick> but you have no reason to think that I ever did anything behind your
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Rick> back.
+
+No matter how loudly you deny that Stan's reasons are true, it does not
+mean that he has no reasons to think you censored his article.  The mere
+fact that you are known to monitor outgoing USENET articles because of
+prior complaints about other articles is a very strong reason for him to
+believe you were responsible for an act of censorship.
+
+If you wanted people to think you were an honest upstanding citizen, you
+should have refused to ever become involved in any USENET monitoring, no
+matter what the circumstance were.
+
+Rick> Purdue's administration is extremely sensitive to adverse publicity
+Rick> of any kind -- believe me, I know from firsthand experience.  They
+Rick> were, and are, concerned about the contents of any articles
+Rick> emanating from a Purdue site.  This is why, for a very long time,
+Rick> only faculty and the staff (full-time and student) of the computing
+Rick> center were allowed to post articles to non-local newsgroups.
+
+Translation: They do not wish to allow freedom of expression to their
+students on USENET.  They wish to prevent articles with certain contents
+from being posted.  (In the outside world, this is known as CENSORSHIP.)
+
+(Yes, Purdue has the legal right to do this.  Having the right to censor
+is a separate issue from whether the censorship is moral.)
+
+Rick> Now here's the real problem: users were posting articles that generated
+                 ^^^^^^^^^^^^^^^^
+Rick> complaints.
+
+"The real problem" is that you (and presumably many others) at Purdue
+didn't stand up to defend the right to free expression (which was not
+legally guaranteed in these circumstances, thus requiring someone to stand
+up for it, or it would be lost).
+
+Rick> But when the complaints began to reach people other than me, I began
+Rick> to worry.  There were rumblings that news could possibly go away.
+
+And you (and others) weren't willing to fight for it.  Or rather, you
+*were* willing to censor for it.
+
+Rick> So here's what I did: I set up the outbound news
+Rick> spooler so that it would send me a copy of any outbound article.
+Rick> Once a day, I glanced through these (usually there were less than 10)
+Rick> to see if any of them had anything grossly wrong with them.
+
+And you got to decide.  And of course, you're perfect and would never make
+a mistake and "accidentally" censor based on informational content.  But
+what about your successor?  Is he/she as unbiased as you claim to be?
+
+Rick> "Grossly wrong" means "things that don't follow Usenet etiquette",
+Rick> for example, an article which quoted a preceding (lengthy) article
+Rick> in its entirety.
+
+Can you name one grossly wrong thing that could not be detectable with a
+program?  Until you thoroughly prove why a program could not do the job,
+your explanation is just an excuse.  A program is preferable because
+artificial intelligence does not yet exist and thus a program could not
+censor an article based on its message.
+
+Rick> First, I consider what I was doing no more obstrusive that what someone
+Rick> might do with a physical bulletin board in a campus hallway: if the
+Rick> person in charge of the bulletin boards finds a "Couch for sale"
+Rick> note on the bulletin board reserved for student jobs, is it
+Rick> censorship for them to unpin that note and carry it back to the
+Rick> person who posted it and ask them to put it on the for-sale board?
+
+Yes, this is censorship, as per definition 1 of censorship and definition
+1.2 of censor listed here (from Webster's, unknown edition):
+
+cen.sor.ship \'sen(t)-s*r-.ship\ n 1: the institution, system, or practice
+   of censoring or censors 2: the office, power, or term of a Roman censor 3:
+   exclusion from consciousness by the psychic censor
+
+1. cen.sor \'sen(t)-s*r\ \sen-'so-r-e--*l, -'so.r-\ n [L, fr. cense-re to
+   assess, tax; akin to Skt s'am.sati herecites] 1: one of two magistrates of
+   early Rome acting as census takers, assessors, and inspectors of morals and
+   conduct 2a: an official who examines publications for objectionable matter
+   2b: an official who reads communications and deletes forbidden material
+   archaic  3: a faultfinding critic 4: the psychic agency that represses
+   unacceptable notions before they reach consciousness - cen.so.ri.al aj
+2. censor \'sen(t)s-(*-)rin\ vt or cen.sor.ing : to subject to censorship
+
+Currently, the owner of the communications medium has the right to censor
+any communication that uses it.  I do not argue that this is wrong in the
+case of a hallway bulletin board.  I do argue that this is wrong in the
+case of USENET.  Thus, in addition to the fact that your example does not
+exhibit something that is not censorship, it is irrelevant to the current
+debate.
+
+Rick> Second, I never returned anyone's article to them because of what
+Rick> they had to say -- I allowed articles to pass (lots of them) that were
+Rick> critical of the computing center, critical of Purdue, critical of my
+Rick> favorite football team, whatever.
+
+But why should we believe you?  You've already admitted you were involved
+in censorship (you did not use this word), therefore destroying much of
+your credibility.  The only statement we have that says you showed
+restraint is from you.
+
+Even if you didn't abuse the mechanism, and we have only your word on
+this, the mechanism you set up is very easy to abuse.  It makes it very
+easy for someone in charge to tell the current censor that articles with
+certain contents are not to go out.  It also relies on the integrity of
+the censor, which is historically an unwise thing to do.
+
+Fortunately, there are still easy ways to get around instances of network
+fascism like this, eg. mail to news.group.name@tut.cis.ohio-state.edu.
+
+-- 
+Enjoy,
+
+Joe Wells <jbw@cs.bu.edu>
+
+
+Date: Sat, 27 Apr 91 17:32:25 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9104272132.AA22328@eff.org>
+Subject: Well, was I a censor?
+
+Summary: Hide behind principle, not censorship
+
+q: Suppose my boss at the University says "I just got a complaint letter,
+either tone down netnews or I will order it shut down. Now if I monitor
+outgoing mail/notes to be sure it is "nice", I'm a a censor?
+
+a: Yes. You may not be an evil censor (merely a between-a-rock-and-a-hard-place
+censor), but you are a censor.
+
+q: What can I do?
+
+a: (These suggestions are pure in the sense that I've never tried
+them) 
+
+1. Tell others at your University of the situation and of your
+dilemma; tell us. If your boss hates criticism, he or she may
+discover that there is more protection behind the principle of
+academic freedom and freedom of expression than behind censorship.
+
+2. (I think I saw this in an army movie.) Tell your boss that because
+you are not sure that his or her orders are consistent with University
+policy, that you would like those orders in writing. Say that you
+are carrying out the orders under protest.
+
+q: Is it OK to inspect all notes and to censor out notes that are not
+of a moderate tone?
+
+a: (I'm paraphrasing from an ACLU handbook on teacher's legal rights)
+Generally, speech, if otherwise shielded from punishment by the First
+Amendment [or Academic Freedom -cmk], does not lose that protection
+because its tone is sharp.  Discussions will not always be models of
+decorum. A court observed that "often those with the power to appoint
+will be on one side of a controversial issue and find it convenient to
+use their opponent's momentary stridency as a pretext to squelch
+them.
+
+q: Is it OK to inspect all notes and to censor out notes that may
+be libelous?
+
+a: Inspecting all notes before they go out is inconsistent with
+academic freedom. It is prior restraint.
+
+Legally, as far as I've heard, there as never been a libel suit
+because of something written on the net. (Thus, no such libel suit has
+ever been won, and no electronic distributor, e.g. a University, has
+ever been found liable for libel.)
+
+By inspecting the notes you may be *increasing* your liability. The
+law on this is not settled, but it is reasonable to suppose that
+by inspecting notes you are accepting responsibility for them. Before
+you were just a distributor, now you are an editor.
+
+Message-Id: <9104261734.AA19414@rodan.acs.syr.edu>
+Cc: brown@usenet.ins.cwru.edu
+Subject: Re: Dan Brown's Question
+Date: Fri, 26 Apr 91 13:34:38 -0400
+From: "Sam Hill Cabal, DS" <bwdavies@rodan.acs.syr.edu>
+
+Dan Brown <brown@usenet.INS.CWRU.edu> writes:
+
+Also, since the system administrator is likely to be held responsible for
+the information that is stored on the systems that he/she manages, why 
+shouldn't s/he be allowed to censor it, if s/he feel it neccessary to do so?
+
+IMHO if someone isn't allowed to protect themselves from being associated,
+then that person shouldn't be held resonsible. From what I have seen, in our
+society, it doesn't work that way. Anyone can be held liable for anything 
+that they are vaguely associated with. Why should they not be allowed to 
+protect themselves?
+
+I reply:
+
+Dan, a system administrator _should_not_ be held responsible for
+information stored on a system that they _manage_.  The job of 
+a sys-admin is to keep the system running, and to fix it when it
+crashes.
+
+I don't understand people who get upset and send nasty messages to
+sys-admins when they read something that offends them on Usenet,
+on a BBS, or in e-mail.  The person responsible is the person who
+composed the message, and not the people running the computer it
+was sent from.  What I tend to do is read everything that looks 
+interesting -- if I start to see a pattern where one person (or
+username, anyway) is posting stuff I think is stupid or offensive,
+I stop reading stuff from that username -- via a kill file or just
+by deleting messages from that username from my mail.
+
+People need to start taking responsibility for their _own_ actions
+and opinions, rather than laying that responsibility on others.
+If sys-admins take it upon themselves to censor outgoing news/mail,
+they are saying that all news/mail that is allowed to pass is 
+approved by the institution and that they are taking responsibility
+for its contents.
+
+TSD
+
+-------------------------------------------------------------------------------
+Sam Hill Cabal             "Them people'll do anything for money.  You'd be
+bwdavies@sunrise.bitnet     suprised.  They ain't like us, Doc.  They're
+bwdavies@rodan.acs.syr.edu  Christians."  -Seldom Seen Smith
+
+
+

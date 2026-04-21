@@ -1,0 +1,77 @@
+[
+  {
+    "classification": {
+      "confidence": 0.9,
+      "date_or_period": "28 Oct 1994",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Waterloo was relaxing a previous ban on newsgroups."
+      ],
+      "organizations": [
+        "University of Waterloo"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This item is a repost by Carl regarding the relaxation of a newsgroup ban at the University of Waterloo. The content focuses on institutional access to Usenet and network communication policies.",
+      "title": "Re: Waterloo relaxing newsgroup ban ...",
+      "topics": [
+        "network access",
+        "newsgroup bans",
+        "institutional policy"
+      ]
+    },
+    "identity": {
+      "date": "28 Oct 1994 06:07:27 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 2,
+      "item_index": 0,
+      "message_id": "<38q4ev$gdb@vixen.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/oct_30_1994",
+      "subject": "Re: Waterloo relaxing newsgroup ban ...",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "26 Oct 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Broad newsgroup bans are easily bypassed using Gopher services.",
+        "Censorship based on keywords (e.g., alt.binar*) inadvertently blocks legitimate discussion groups like fine art."
+      ],
+      "organizations": [
+        "University of Waterloo",
+        "Trident Technical College"
+      ],
+      "people": [
+        "Thomas C. Mobley"
+      ],
+      "summary": "Thomas C. Mobley criticizes the censorship of Usenet newsgroups at the University of Waterloo. He argues that broad blocks on categories like alt.sex* and alt.binar* are counterproductive, as users bypass these bans via Gopher, potentially increasing network congestion.",
+      "title": "Re: Waterloo relaxing newsgroup ban ...",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "26 Oct 1994 12:26:32 GMT",
+      "from": "zpmobley@TRIDENT.TEC.SC.US (CHAMP)",
+      "item_count": 2,
+      "item_index": 1,
+      "message_id": "<38lhto$c85@ns.sunbelt.net>",
+      "source_kind": "news",
+      "source_path": "news/oct_30_1994",
+      "subject": "Re: Waterloo relaxing newsgroup ban ...",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,can.general,uw.general,ont.general,news.sysadmin,can.infohighway",
+      "truncated_for_model": false
+    }
+  }
+]

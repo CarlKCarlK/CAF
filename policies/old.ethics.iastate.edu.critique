@@ -1,0 +1,190 @@
+Newsgroups: alt.comp.acad-freedom.talk,comp.admin.policy,alt.politics.correct
+Subject: Re: [info.labmgr] Ethics statement
+References: <9204021631.AA16405@herodotus.cs.uiuc.edu>
+
+This is a critique of Computer Ethics Statement for Iowa State
+University. The due process protection of the policy is good. The
+privacy protection is unclear. Free expression protection is poor.
+(The policy imposes speech restrictions on email and other computer
+media. Specifically, it prohibits rude expression and any expression
+of a political nature. In my opinion, these speech restrictions
+violate academic freedom and the law.)
+
+>From: GA.LJH@isumvs.BITNET (Linda Hutchison)
+>Subject:  Ethics statement
+>Message-ID: <199204012113.AA20676@ux1.cso.uiuc.edu>
+>Date: Wed, 1 Apr 1992 20:55:25 GMT
+
+>----------------------------Original message----------------------------
+>ISU has had a computer ethics statement in place for over a year.  Originally
+>the statement was a statement of ethics from the Computation Center, but we
+>worked through the Dean of Students Office, the university lawyer(s) and the
+>Administrative Data Processing Center (the Computation Ctr is the academic
+>center on campus) to make this a campus-wide policy.
+
+I think the policy could be improved with wider participation.
+Specifically, computer users should formally participate. Also,
+because the policy involves important issues of academic freedom, the
+faculty senate and academic freedom committee should be involved.
+
+The Joint Statement on Rights and Freedoms of Students, the main
+statement of academic freedom for students in the U.S., says: "The
+student body should have clearly defined means to participate in the
+formulation and application of institutional policy affecting academic
+and student affairs."
+
+[...]
+>*************************%cut here%*******************************************
+
+[...]
+>    Viewing or using another person's computer files, programs or data
+>  without authorized permission is unethical behavior and an invasion of
+>  that person's privacy.
+
+Does this apply to sys admins? What is the procedure for sys admins to
+acquire authorization to search user files? Is it compatible with the
+University's general privacy policy (which usually prohibit
+unreasonable searches in assigned office space and dorm rooms)?
+
+[...]
+>    The following guidelines govern ethical computer use at Iowa State
+>  University:
+
+>    #  Unauthorized access to restricted data bases is unethical.
+
+I dislike this use of the word "unethical". Thousands of things in
+life are unethical and yet allowable. I think the policy could be
+clearer by replacing "unethical" with "prohibited".
+
+[...]
+>       Copyrighted software must only be used in accordance
+>       with its license or purchase agreement.
+
+Some copyrighted software has no license or purchase agreement. I
+suggest the following wording:
+
+        Copyrighted software must be used in accordance with
+        terms of the copyright. Licensed software must be used
+        in accordance with its license.
+
+[...]
+>    #  Sending rude, obscene or harassing material via any electronic mail
+>       or bulletin board facility is strictly forbidden.
+
+In my opinion, it is unethical and illegal to strictly forbid rude
+expression. It is the general policy of most universities (especially
+state universities) to encourage free expression. For example, at my
+school, the U. of Illinois, the student code says:
+
+"A student at the University of Illinois at the Urbana-Champaign campus
+ is a member of the University community of which all members have at
+ least the rights and responsibilities common to all citizens, free from
+ institutional censorship;"
+
+ ...
+
+"III. Campus Expression
+ A. Discussion and expression of all views is permitted within the
+ University subject only to requirements for the maintenance of order."
+
+Vague speech restrictions have no place on campus and have been
+consistently overturned by the courts. For example, _UWM Post v. U. of
+Wisconsin_ decision, the explicitly mentions email.
+
+Restrictions based on the tone material are especially inappropriate.
+(I'm paraphrasing from an ACLU handbook on teacher's legal rights
+here.)  Generally, speech, if otherwise shielded from punishment by
+the First Amendment [or Academic Freedom -cmk], does not lose that
+protection because its tone is sharp.  Discussions will not always be
+models of decorum. A court observed that "often those with the power
+to appoint will be on one side of a controversial issue and find it
+convenient to use their opponent's momentary stridency as a pretext to
+squelch them."
+
+>  Also disallowed
+>       are random mailings and any message of [...] political
+>       nature.
+
+This prohibition is much too broad. Many messages have a political
+nature. For example, I would think that most messages by a political
+science professor would have a political nature. If this clause was
+added in response to a specific law (perhaps prohibiting *some* types
+of *partisan* political activity), the computer policy should be
+revised to include the exact wording of the law. If there is no law,
+this clause should be removed.
+
+[...]
+>                         #########################
+>                Copyright (c) 1989 by Iowa State University
+
+>  Permission to reproduce all or part of this document for noncommercial
+>  purposes is granted, provided the author and Iowa State University are
+>  given credit.  To copy otherwise requires specific permission.
+
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+student.freedoms
+=================
+Joint Statement on Rights and Freedoms of Students -- This is the main
+statement on student academic freedom.
+
+=================
+uiuc.code.excerpts
+=================
+Excerpts from the University of Illinois at Urbana-Champaign's Code on
+Campus Affairs and Regulations Applying to All Students (Aug. 1985)
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+
+=================
+law/doe-v-u-of-michigan
+=================
+This is Doe v. University of Michigan. In this widely referenced
+decision, the district judge down struck the University's rules
+against discriminatory harassment because the rules were found to be too
+broad and too vague.
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send acad-freedom student.freedoms
+  send acad-freedom uiuc.code.excerpts
+  send caf-law uwm-post-v-u-of-wisconsin
+  send caf-law doe-v-u-of-michigan
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.77.172.4) as file(s):
+  pub/academic/student.freedoms
+  pub/academic/uiuc.code.excerpts
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/doe-v-u-of-michigan
+
+

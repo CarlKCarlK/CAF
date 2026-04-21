@@ -1,0 +1,265 @@
+Subject: Article 5--Re: [eff.mail.ethics-l] Status of UDel's Responsible Computing Policy
+Message-ID: <1992Mar26.220927.5131@eff.org>
+Date: Thu, 26 Mar 1992 22:09:27 GMT
+
+This is a critique/review of the U. of Delaware computer policy proposal.
+
+I. Participation
+
+The proposed policy was created in the open. Users and other have been
+able to look at drafts of the policy and make comment. Drafts have
+also been presented at conferences and via electronic mailing lists.
+Before being finalized, the proposal will be presented to the faculty
+senate. The result is all this openness and participation is the most
+refined and detailed policy I have seen.
+
+II. Due process
+
+Due process is provided by processing alleged rule violations via
+regular university channels.
+
+I do have some concern about punishment before "conviction". The
+"Joint Statement on Rights and Freedoms of Students" says:
+
+"Pending action on the charges, the status of a student should not be
+altered, or his right to be present on the campus and to attend
+classes suspended, except for reasons relating to his physical or
+emotional safety and well being, or for reasons relating to the safety
+and well-being of students, faculty, or university property."
+
+In contrast, the U. of Delaware policy says:
+
+"A system administrator may find it necessary to suspend or restrict a
+user's computing privileges during the investigation of a problem.  The
+system administrator should confer with his or her administrative
+officer or other person designated by that administrative officer
+before taking this step.  A user may appeal such a suspension or
+restriction and petition for reinstatement of computing privileges
+through the University's judicial system, through the grievance
+procedures outlined in University collective bargaining agreements, or
+by petition to the Dean of Students."
+
+And:
+
+"If staff in the Department of Public Safety or system administrators
+have a preponderance of evidence that intentional or malicious misuse
+of computing resources has occurred, and if that evidence points to the
+computing activities or the computer files of an individual, they have
+the obligation to pursue any or all of the following steps to protect
+the user community:
+...
+        Suspend or restrict the alleged abuser's computing privileges
+	during the investigation and judicial processing.  A user may
+	appeal such a suspension or restriction and petition for
+	reinstatement of computing privileges through the University's
+	judicial system, through the grievance procedures outlined in
+	University collective bargaining agreements, or by petition to
+	the Dean of Students."
+
+The two quotes from the proposed policy don't seem to agree on when a
+user should be suspended from the computer. The first quote doesn't
+provide guidance as to when a sys admin may find suspension
+"necessary". The second quote seems to authorize punishment for an
+offense before it has been established that an offense as occurred.
+
+I think the policy could be improved by reconciling these two quotes
+and by making it clear that suspension before "conviction" is only
+allowed when it is necessary to protect university property; it should
+not be used to punish.
+
+III. Privacy
+
+The policy acknowledges that a user, not the University, is the owner
+of his or her own data:
+
+"Data Owner: the individual or department that can authorize access to
+information, data, or software and that is responsible for the
+integrity and accuracy of that information, data, or software.
+Specifically, the data owner can be the author of the information,
+data, or software or can be the individual or department that has
+negotiated a license for the University's use of the information,
+data, or software."
+
+The policy says "Under certain unusual circumstances, a system
+administrator is authorized to access your computer files." And: "A
+system administrator must treat information about and information
+stored by the system's users as confidential."
+
+The circumstances when a inspection/search of user files is permitted
+is detailed later in the policy:
+
+"While investigating a suspected abuse of computing; a suspected
+hardware failure; a disruption of service; or a suspected bug in an
+application program, compiler, network, operating system, or system
+utility, a system administrator should ordinarily ask a user's
+permission before inspecting that user's files, diskettes, or tapes.
+The next two paragraphs outline exceptions to this rule.
+
+If, in the best judgment of the system administrator, the action of
+one user threatens other users or if a system or network for which the
+system administrator is responsible is in grave, imminent danger of
+crashing, sustaining damage to its hardware or software, or sustaining
+damage to user jobs, the system administrator should act quickly to
+protect the system and its users.  In the event that he or she has had
+to inspect user files in the pursuit of this important responsibility,
+he or she must notify, as soon as possible, his or her own
+administrative officer or other individual designated by that
+administrative officer of his or her action and the reasons for taking
+that action.  The administrative officer needs to be certain that one
+of the following are also notified:  the user or users whose files were
+inspected; the user's supervisor, project director, administrative
+officer, or academic advisor.  It is a departmental responsibility that
+this notification occur, not a personal responsibility of the system
+administrator.
+
+In cases in which the user is not available in a timely fashion, in
+which the user is suspected of malicious intent to damage a computer
+system, or in which notifying the user would impede a sensitive
+investigation of serious computer abuse, the system administrator may
+inspect the information in question so long as he notifies his or her
+own administrative officer or other individual designated by the
+administrative officer of his or her actions and the reasons for taking
+those actions.  The administrative officer needs to be certain that the
+user's supervisor, project director, administrative officer, or
+academic advisor is notified of the situation.  In the case of
+suspected malicious intent, the administrative officer may also need to
+refer the matter to the appropriate University judicial body or to the
+Department of Public Safety."
+
+And:
+
+"If staff in the Department of Public Safety or system administrators
+have a preponderance of evidence that intentional or malicious misuse
+of computing resources has occurred, and if that evidence points to the
+computing activities or the computer files of an individual, they have
+the obligation to pursue any or all of the following steps to protect
+the user community:
+[...]
+-       Inspect the alleged abuser's files, diskettes, and/or tapes.
+	System administrators must be certain that the trail of
+	evidence leads to the user's computing activities or computing
+	files before inspecting any user's files.  (See "User
+	Confidentiality and System Integrity" on page 6 of these
+	Guidelines for more information.)"
+
+This is consistent with the Joint Statement, I wonder, however, how it
+compares to University policy for office space. Personally, I think a
+University should be required to get a search warrant before searching
+user email.
+
+III. Free expression
+
+The policy says:
+
+"Misuse of computing and information resources and privileges
+includes, but is not restricted to, the following:
+[...]
+-       using the University's computing resources to harass or
+	threaten other users"
+
+This is good. I assume that "harass and threaten" are defined and
+prohibited by other University policies. This policy could be improved
+by just referring to established University policy rather than creating
+a new and distinct "harass and threaten" on-the-computer policy.
+
+(If they are not defined elsewhere, then the policy is too vague.)
+
+IV. Tone of policy and policy on "personal use"
+
+The tone of the policy is that anything that is not acceptable is
+prohibited. This can be seen most clearly in rules such as
+
+"Misuse of computing and information resources and privileges
+includes, but is not restricted to, the following:
+[...]
+        using computing facilities, computer accounts, or computer data
+        for purposes other than those for which they were intended or
+        authorized"
+
+And:
+
+"University computing facilities and accounts are to be used for the
+University-related activities for which they are assigned.  University
+computing resources are not to be used for commercial purposes or
+non-University-related activities without written authorization from
+the University.  In these cases, the University will require payment
+of appropriate fees.  This policy applies equally to all University-
+owned or University-leased computers."
+
+The meaning of these prohibitions is unclear. Does this mean that I
+can't use email to ask a friend to meet me at the student union for
+lunch? Does it mean that as a computer science major I can't read
+"alt.fishing"? Does it mean that a English professor can't try to
+teach him or herself to program in "C" by writing programs on a
+University computer? Does it mean that recreational programs are
+prohibited?
+
+To the last question the policy offers a clue. It explicitly prohibits
+"encroaching on others' use of the University's computers (e.g.,
+disrupting others' computer use by excessive game playing; ...)"
+Presumably then, some recreational use is permitted on some computers
+at some times.
+
+The policy could be improved by saying that nondisruptive,
+noncommercial "personal use" of the computer and permitted and
+encouraged subject to whatever limitations local sites may impose.
+
+
+- Carl
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+From alt.comp.acad-freedom.talk Wed May 20 23:16:08 1992
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!iWarp.intel.com|uunet!cs.utexas.edu!usc!sol.ctr.columbia.edu!destroyer!news.iastate.edu!john
+From: john@iastate.edu (John Hascall)
+Subject: Re: [eff.mail.ethics-l]  Re:  Status of UDel's Responsible Computing Policy
+Message-ID: <1992May21.024811.13506@news.iastate.edu>
+Sender: news@news.iastate.edu (USENET News System)
+Organization: Iowa State University, Ames, IA
+References: <199205201831.AA21705@eff.org>
+Date: Thu, 21 May 1992 02:48:11 GMT
+Lines: 39
+
+}Newsgroups: eff.mail.ethics-l
+}From: richard@RAVEL.UDEL.EDU (Richard Gordon)
+}Subject:  Re:  Status of UDel's Responsible Computing Policy
+
+}On May 11, 1992, after nearly 61 months of work, our Policy for
+}Responsible Computing was approved by the full faculty senate.
+
+FIVE YEARS!   And, does it really say anything?
+
+}Policy for Responsible Computing at the University of Delaware
+}Preamble ...
+}Policy
+}All ... must act responsibly.
+}All ... must respect ... rights ... integrity ... agreements.
+
+}Access ... is a privilege ...
+}based on owner's judgement [of factors]
+
+}... reserves the right to limit, restrict, or extend ... privileges and access
+}[Commercial use requires authorization and payment]
+
+}... all [must] guard against abuses 
+}Access ... without ... authorization ... violation of ... policy
+}may also be considered civil or criminal offenses.
+
+}Implementation
+}Appropriate University administrators should adopt guidelines ...
+
+}Enforcement
+}[according to various other policies & handbooks]
+
+Even though I picked some nits with it, I think the policy Wes Morgan
+(from U KY) put up for pot-shots was a lot more useful (better than ours,
+for that matter).  Other than the part which says enforcement is carried
+out under existing university policy, this one doesn't see to say anything
+not completely obvious (I guess you need to say the obvious, but I think
+more specifics are needed.)
+
+John

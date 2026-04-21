@@ -1,0 +1,504 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 4, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Regulation of expression based on content in .plan files is argued to be censorship under American Constitutional jurisprudence.",
+        "Computer program source code is characterized as published material rather than a physical weapon or tool for crime.",
+        "The NSF endorsed unrestricted scientific and educational collaboration with the former Soviet Union (xSU)."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "National Science Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "This digest summarizes various discussions regarding the censorship of computer materials in academia during 1992. Key debates include whether restricting 'offensive' .plan files constitutes censorship and whether possessing program source code should be treated as possessing illegal tools. It also notes a list of institutions that banned or challenged computer materials in 1992.",
+      "title": "Abstract of CAF-News 02.49",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "source code",
+        ".plan files",
+        "banned software"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 0 -- Abstract of CAF-News 02.49",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "Iowa State University was the most frequent site of bans or challenges in 1992.",
+        "Possession of password-cracking code led to disciplinary action at Ball State University even if not executed.",
+        "Many universities banned 'alt.*' newsgroups due to concerns over offensive content or legal liability.",
+        "Some institutions used 'generally accepted social standards' as a basis for banning network use."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Ball State University",
+        "Boston University",
+        "Carnegie Mellon University",
+        "Iowa State University",
+        "North Dakota State University",
+        "Princeton",
+        "University of California at Berkeley",
+        "University of Massachusetts at Boston",
+        "University of Nebraska at Lincoln",
+        "University of Wyoming",
+        "Virginia Public Education Network",
+        "Virginia Tech",
+        "Williams College",
+        "Simon Fraser University",
+        "University of British Columbia",
+        "University of Manitoba",
+        "University of Toronto",
+        "University of Ottawa",
+        "Wilfrid Laurier University",
+        "Middle East Technical University",
+        "UKNet"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "A comprehensive list of computer materials, newsgroups, and code banned or challenged at academic institutions globally in 1992. The document catalogs specific incidents involving password-cracking code, political speech, and sexually explicit content across universities in the USA, Canada, and Europe. It serves as a record of early institutional censorship on campus networks and Usenet.",
+      "title": "Banned Computer Material 1992",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "Usenet",
+        "acceptable use policy",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 30 Sep 1992 06:55:37 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<1992Sep30.065537.23479@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 1--Banned Computer Material 1992",
+      "to_or_newsgroups": "",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Sep 30, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Restricting access to materials based on whether they are 'obscene, sexual, or violent' constitutes censorship.",
+        "Restrictions on speech in university-owned digital spaces should not be based on content if the space is designated for speech."
+      ],
+      "organizations": [
+        "University of Massachusetts Boston (implied by cs.umb.edu)"
+      ],
+      "people": [
+        "Phil Howard",
+        "Elizabeth Schwartz"
+      ],
+      "summary": "Phil Howard responds to Elizabeth Schwartz regarding the classification of certain university computer materials as 'banned.' The exchange debates whether requiring obscene or violent content to be available only upon request constitutes censorship based on content. Howard argues that if a forum is open for speech, restrictions cannot be applied based on the nature of the content.",
+      "title": "Article 2--Re: Banned Computer Material 1992",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "content filtering",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 30 Sep 1992 19:24:05 GMT",
+      "from": "pdh@netcom.com (Phil Howard )",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<1992Sep30.192405.1619@netcom.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 2--Re: Banned Computer Material 1992",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Fri, 2 Oct 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Regulation of expression based on content can be considered censorship under American Constitutional jurisprudence.",
+        "Restricting offensive or sexual material from system utilities like finger may conflict with principles of open access."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Elizabeth Schwartz"
+      ],
+      "summary": "Mike Godwin responds to Elizabeth Schwartz regarding the definition of 'banning' in the context of system administration. The debate centers on whether restricting specific content from appearing in .plan files via the finger utility constitutes censorship. Godwin argues that regulating expression based on content is a form of censorship, regardless of whether the material is banned globally.",
+      "title": "Article 3--Re: What is \"banning\" anyway?",
+      "topics": [
+        "censorship",
+        "free speech",
+        "system administration",
+        "finger utility",
+        "content moderation"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 2 Oct 1992 01:12:44 GMT",
+      "from": "mnemonic@eff.org (Mike Godwin)",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<1992Oct2.011244.13372@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 3--Re: What is \"banning\" anyway?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Oct 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "No accounts were revoked for refusing to change .plan files",
+        "The department lab is earmarked for research and teaching only",
+        "Usenet services provided by the MACS Dept are unfunded extras"
+      ],
+      "organizations": [
+        "UMass Boston",
+        "MACS Dept"
+      ],
+      "people": [
+        "Elizabeth Schwartz"
+      ],
+      "summary": "Elizabeth Schwartz, a system administrator at UMass Boston, defends the department's approach to managing offensive content in .plan files. She argues that requests for students to change disruptive material are based on community standards and mutual respect rather than formal disciplinary authority. She emphasizes that no accounts have been revoked as a result of these requests.",
+      "title": "Article 4--Re: Banned Computer Material 1992",
+      "topics": [
+        "community standards",
+        "student conduct",
+        "system administration",
+        "censorship",
+        ".plan files"
+      ]
+    },
+    "identity": {
+      "date": "3 Oct 92 18:03:25 GMT",
+      "from": "betsys@cs.umb.edu (Elizabeth Schwartz)",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<BETSYS.92Oct3130325@ra.cs.umb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 4--Re: Banned Computer Material 1992",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,comp.org.eff.talk,comp.admin.policy,alt.censorship,soc.college",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 1 Oct 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Some institutions restrict process names containing profanity because they are visible to all users via system commands.",
+        "There is a distinction made between 'accidental' visibility of process names and the intentional reading of news or .plan files."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "Amherst College"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Tim Pierce"
+      ],
+      "summary": "A discussion between system administrators regarding the censorship of 'objectionable' or profane process names on shared Unix systems. The participants contrast the visibility of process lists (via ps commands) with more intentional reading of .plan files or news postings. They debate whether informing users of this visibility is preferable to formal disciplinary action.",
+      "title": "Article 5--Re: Banned Computer Material 1992",
+      "topics": [
+        "censorship",
+        "acceptable use policy",
+        "Unix administration",
+        "freedom of expression"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 1 Oct 1992 19:42:33 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<1992Oct1.154233.21781@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 5--Re: Banned Computer Material 1992",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 1 Oct 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Cites Cohen v. California to argue that government cannot shut off discourse solely to protect others from hearing it unless substantial privacy interests are invaded."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Mike Godwin"
+      ],
+      "summary": "Carl Kadie responds to a discussion regarding the censorship of .plan files on computer systems. He argues that the ability of an institution to shut off discourse is limited by the Constitution and cites legal precedent against silencing dissidents based on personal predilections.",
+      "title": "Re: Banned Computer Material 1992",
+      "topics": [
+        "censorship",
+        ".plan files",
+        "academic freedom",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 1 Oct 1992 13:28:36 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<1992Oct1.132836.25405@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 6--Re: Banned Computer Material 1992",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 2, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Cohen v. California established that wearing a jacket with offensive language in a courthouse is protected speech.",
+        "There is no universal right to be free from hearing offensive expression."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie provides legal citations and quotes from Supreme Court cases to discuss the boundaries of protected speech versus disruptive conduct. The post references Cohen v. California and other precedents regarding offensive expression in public spaces. It includes pointers to EFF-hosted documents on 'fighting words' and free speech.",
+      "title": "Article 7--Re: What is \"banning\" anyway?",
+      "topics": [
+        "free speech",
+        "legal precedents",
+        "censorship",
+        "offensive expression"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 2 Oct 1992 20:03:48 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<1992Oct2.200348.2320@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 7--Re: What is \"banning\" anyway?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 2, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Computer programs in source code form are published material under US law.",
+        "Possession of information (e.g., password decryptors) is distinct from the act of using it to interfere with resources."
+      ],
+      "organizations": [
+        "Mount Holyoke College"
+      ],
+      "people": [
+        "Jurgen Botz",
+        "Hank Nussbacher"
+      ],
+      "summary": "Jurgen Botz argues against the comparison of computer programs to weapons, asserting that source code is published material protected by free speech laws. He contends that university administrations should not decide what constitutes 'dangerous information,' specifically citing password decryption tools and cryptography as examples of academic or curious study. The post frames the banning of such materials as a form of authoritarian censorship.",
+      "title": "Re: Banned Computer Material 1992",
+      "topics": [
+        "censorship",
+        "free speech",
+        "source code",
+        "cryptography",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 2 Oct 1992 16:55:11 GMT",
+      "from": "jbotz@mtholyoke.edu (Jurgen Botz)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<BvI6zz.7w7@mtholyoke.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 9--Re: Banned Computer Material 1992",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-10-01",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Possessing tools for system intrusion is compared to possessing a book on how to steal.",
+        "Academic libraries contain materials that describe how to break rules and laws."
+      ],
+      "organizations": [
+        "EFF",
+        "University Computing Services"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Herbert Stahlke",
+        "Abbie Hoffman"
+      ],
+      "summary": "Carl Kadie responds to Herbert Stahlke regarding the legality and ethics of possessing software that could be used for unauthorized system access. Kadie argues that possessing such tools is akin to owning a book on theft rather than committing a crime, framing restrictions as censorship. He cites the presence of controversial materials in academic libraries to support his position.",
+      "title": "System security versus censorship",
+      "topics": [
+        "censorship",
+        "system security",
+        "academic freedom",
+        "software possession"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 1 Oct 1992 20:38:56 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<1992Oct1.203856.7190@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 10--Re: System security versus censorship",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-09-29",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Department of Commerce clarified that export control concerns applied to hardware/software, not the act of network connectivity itself.",
+        "The Federal Networking Council (FNC) requested that NSFNET avoid carrying traffic to the former Soviet Union.",
+        "Commercial Internet eXchange (CIX) was already announcing networks in the xSU, allowing non-federal US nets to exchange traffic."
+      ],
+      "organizations": [
+        "National Science Foundation",
+        "Department of Commerce",
+        "Federal Networking Council",
+        "CIX"
+      ],
+      "people": [
+        "Stephen Wolff"
+      ],
+      "summary": "Stephen Wolff reports on the National Science Foundation's (NSF) efforts to enable IP connectivity between the US research and education community and the former Soviet Union (xSU). While the Department of Commerce authorized such connectivity, the Federal Networking Council (FNC) requested that NSFNET not carry this traffic. The NSF is urging the FNC to reconsider this restriction to avoid disenfranchising scientists seeking international collaboration.",
+      "title": "Status of connectivity to xSU by US Federal nets",
+      "topics": [
+        "network connectivity",
+        "export control",
+        "international scientific collaboration",
+        "NSFNET"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 29 Sep 1992 14:50:01 GMT",
+      "from": "steve@cise.cise.nsf.gov (Stephen Wolff)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<9209291450.AA22215@ncri>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 11--Status of connectivity to xSU by US Federal nets",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Government must remain viewpoint-neutral in the marketplace of ideas.",
+        "Speech should only be penalized if there is a close causal nexus with harm.",
+        "Indecent or obscene material on new technologies should not be regulated for adults, only to protect children and captive audiences."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Rodney A. Smolla",
+        "Carl M. Kadie"
+      ],
+      "summary": "A minireview of Rodney A. Smolla's book on free speech, which proposes six rules for the marketplace of ideas including neutrality and precision. The review highlights Smolla's views on hate speech, public funding, and new technologies like cable TV. It emphasizes that government regulation is most justifiable for physical harm and least for reactive harm.",
+      "title": "Minireview: Free speech in an open society by Rodney A. Smolla",
+      "topics": [
+        "free speech",
+        "First Amendment",
+        "censorship",
+        "new technologies"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 29 Sep 1992 18:48:10 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<1992Sep29.184810.10473@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n49",
+      "subject": "Article 12--Minireview: _Free speech in an open society_ by Rodney A. Smolla",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

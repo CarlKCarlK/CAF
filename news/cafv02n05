@@ -1,0 +1,1862 @@
+Computers and Academic Freedom News
+Vol. 02, No. 05
+
+[Week ending February 2nd, 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+
+Notes 1 to 3 regard the duties of a system administrator who becomes
+aware, by examining bounced mail, that a user may be being sexually
+harassed. 
+
+1. A sysadmin has a moral responsibility to discourage sexual
+harassment. Although the discovery was made accidentally, it was a
+legitimate discovery, and once the sysadmin is formally aware of the
+situation, he has a duty to act.
+    <9201271901.AA26229@dsacg2.dsac.dla.mil>
+
+2. Unless the sysadmin has been explicitly asked by the user to help
+end the harassment, he is unable to take any action - he is, indeed,
+jumping to conclusions in deciding that the situation is one of
+harassment. By reading more than the headers of bounced mail, and by
+taking action without a request having been made, he would be
+violating the privacy of both users.
+    <jim.696555511@ferkel>
+
+3. The legal situation in Finland suggests that mail that is file
+protected can only be read by those from whom it is not protected.
+This might mean that Postmaster can legitimately read all mail that is
+bounced to him or her.
+    <1992Jan31.101449.13991@nntp.hut.fi>
+
+
+Notes 4 and 5 discuss a hypothetical 'Netnews Bill of Rights' based on
+the Library Bill of Rights.
+
+4. Carl Kadie: "All computers offering Netnews are forums for
+information and ideas, and that the following basic policies should
+guide their services: ... "
+    <1992Jan27.201548.22829@m.cs.uiuc.edu>
+
+5. This is an in-depth critique of Carl Kadie's 'Netnews Bill of
+Rights.'
+    <1992Jan27.165137.14992@ms.uky.edu>
+
+
+Notes 6 to 11 regard a recent controversy at Carnegie Mellon
+University involving issues of sexual harassment and freedom of
+speech. 
+
+6. As described in the Carnegie Mellon student newspaper 'The Tartan',
+student Eric Jefferson has had sexual harassment charges filed
+against him because of his postings to a CMU bulletin board for
+the Women's Center.
+    <1992Jan28.223429.20426@eff.org>
+
+7. "Here are the collected works of Eric Scott Jefferson: ..." 
+    <1992Jan31.211130.19359@eff.org>
+
+8. From 'The Tartan' - "Bboards provide a unique opportunity for
+communication and opinion exchange, often with people you would never
+otherwise meet. Every Andrew user has a responsibility, however, to
+police him- or herself and keep posts appropriate."
+    <1992Jan28.223916.20536@eff.org>
+
+9. Although offensive, Jefferson's posts do not constitute
+harassment since they were posted to a public forum and not to an
+individual. Suppression would amount to a violation of Jefferson's
+right to free speech.
+    <1992Jan28.234454.22561@eff.org>
+
+10. Here is a ruling on sexual harassment from the university of
+Wisconsin which quite clearly indicates that Jefferson's postings did
+not and cannot constitute harassment.
+    <1992Jan29.221441.18673@m.cs.uiuc.edu>
+
+11. Jefferson's chastisement does not constitute a threat to freedom
+of speech - indeed, constitutional protections are irrelevant in a
+privately owned university. However, the more important issue is
+whether the university is more committed to the ideal of freedom of
+speech or to the ideal of the free exchange of ideas. The two are not
+the same, and the free expression of hatred can create an atmosphere
+in which ideas cannot be freely shared.
+    <8dX8mdS00WBwAAGCdi@andrew.cmu.edu>
+
+- Elizabeth]
+
+
+In this issue:
+
+Robert F Solon   59  >[comp.admin.policy] harrassing mail
+Jim Lick         69  >harrassing mail
+Jyrki Kuoppala   31  email privacy
+Carl M. Kadie    77  >Duties of state universities regarding 1st amendment
+Wes Morgan      148  >
+The Tartan       94  Speech restrictions on CMU computer bboards
+Carl M. Kadie   854  >
+The Tartan       48  -
+Carl M. Kadie    88  >
+Carl M. Kadie   118  >
+John G Myers     73  Fwd: I comment once.
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, or Carl M. Kadie). It
+is not an EFF publication. The views an editor expresses and editorial
+decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From caf-talk Caf Feb  2 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: Re: [comp.admin.policy]  harrassing mail
+Message-ID: <9201271901.AA26229@dsacg2.dsac.dla.mil>
+Date: 27 Jan 92 18:01:53 GMT
+
+> 
+> 
+> From: brendan@cs.widener.edu (Brendan Kehoe)
+> Newsgroups: comp.admin.policy
+> Subject:  harrassing mail
+> Message-ID: <ko892vINN3cv@lisa.cs.widener.edu>
+> Date: 27 Jan 92 15:25:19 GMT
+> 
+> Say someone (a guy) is sending someone else (a girl) some pretty rude
+> mail (stuff from r.a.erotica & such), but she just blows it off &
+> doesn't say anything---she doesn't want to make a fuss.
+> 
+> But then one day he mis-mails it (to her first name, rather than her
+> last), and it bounces its way into my (the Postmaster's) mailbox.
+> Forgetting I've known about his behavior for a while now, do I have
+> any real right as sysadmin to ask him to stop?
+> 
+> -- 
+> Brendan Kehoe, Sun Network Manager                      brendan@cs.widener.edu
+> Widener University                                                 Chester, PA
+> 
+>                        ``Ya know Quaker Oats make you feel good twice?''  Hmm.
+> 
+
+I believe that you do, based on several criteria.  First, sexual
+harassment is undesirable; you might consider you have a moral
+responsibility to intervene.  Failing that, perhaps a legal approach
+would be valid here (disclaimer: I'm not a lawyer, please consult
+one as required).  If I'm pulled over for a traffic offense and a
+stash or crack falls out of my open car door, I can be arrested.
+Similarly, although the circumstances of getting your attention
+are accidental, you may still take action, now that you "formally"
+know about the situation.  
+
+If you decide to take action, there are several options available to
+you.  You may decide to simply ask the user to refrain.  You may
+suspend his account pending a formal inquiry.  You may refer the
+matter to other University authorities.  You may approach the
+recipient of the mail and request permission to proceed with an
+inquiry or other action.  You may ask the recipient to take action
+on her own. You may take some combination of the above actions.
+There may other channels available that I'm not aware of.
+
+Or, of course, you may do nothing.  
+
+IMHO, however, I believe that you should not overlook this matter.
+To do so would be to do a disservice not only to the recipient of
+the mail, but also the sender, as well as the University and your
+computer network.
+
+Of course, the above is my own opinion only.
+-- 
+Bob Solon, rsolon@dsac.dla.mil
+Administrative Information Branch --  "We Code, You Explode!!"
+Directorate of Resource Management Systems (APCAPS)
+DLA Systems Automation Center, DSAC-BCC     (614) 238-8256   AV: 850-8256
+
+From caf-talk Caf Jan 27 00:00:00 1992
+Newsgroups: comp.admin.policy
+From: jim@ferkel.ucsb.edu (Jim Lick)
+Subject:  Re: harrassing mail
+Message-ID: <jim.696555511@ferkel>
+Date: Mon, 27 Jan 1992 23:38:31 GMT
+
+I find it surprising that this thread has turned the way it has to
+assuming that the article in question was sexually harassing.  All
+we we told is a hypothetical situation in which a postmaster receives
+something which is 'rude' which was misaddressed.  The specific
+material given as an example is an article from rec.arts.erotica.
+
+The description of the article as being 'rude' and the following
+speculation that the recipient did not want the material has no
+basis.  Unless there was a prior statement made by the user to
+the postmaster, the postmaster has absolutely no way to know
+whether or not the intended recipient wanted it.
+
+If there was a prior request by the user that she did not want to
+receive mail from that user, or that she did not want any explicit
+mail, then the postmaster would have a responsibility to do
+something about it.  If the user has made no such request, the
+postmaster has no business whatsoever doing anything beyond
+redirecting the mail or dropping it on the floor, depending on
+the normal procedure for processing bounced mail.
+
+So many of you are assuming from the way the original question
+was phrased that it is indeed harassment.  Since there is no
+evidence in the original question that the postmaster knew there
+was harrassment, then we can only assume that those statements
+were simply his opinion.  As someone else pointed out, for all
+we know she wanted to receive that material, and may even have
+asked the other user to mail it to her.
+
+In my opinion, bounced mail should be handled as following:
+
+1) Bounces always are returned to the sender.
+
+2) Bounces may either be ignored locally (that's what we do), or
+   brought to the attention of the postmaster.
+
+3) Privacy concerns dictate that the postmaster either configure
+   the software to display only headers, or ignore the message
+   contents.
+
+4) If the postmaster can determine the correct recipient, he may
+   forward the article to the right address.  If not, he should
+   drop the message and forget about it.
+
+A responsible postmaster would configure his software to only
+display headers.  Not all of them do, but it is the only way to
+insure privacy.  I'd be much more concerned about protecting
+the recipient's privacy than I would worry about something which
+may or may not be harrassment.
+
+Imagine what would happen if you treated the case as harrassment
+without consulting the recipient and it wasn't.  She'd probably
+be pissed off as all hell that you violated her privacy.  I know
+that many people who would be very embarrassed if it got out that
+they read erotic stories or looked at dirty pictures.
+
+So just remember, don't assume things you don't know.  And privacy
+is a right just as much as being free of harrassment is.
+
+                            Jim Lick		       
+Work: University of California	| Play: 6657 El Colegio #24
+      Santa Barbara		|       Isla Vista, CA 93117-4280
+      Dept. of Mechanical Engr. |	(805) 968-0189 voice/msg
+      2311 Engr II Building     |     "Don't be naive,
+      (805) 893-4113            |      Don't deny what you see"
+      jim@ferkel.ucsb.edu	|                -Erasure
+
+
+From caf-talk Caf Jan 28 00:00:00 1992
+From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Newsgroups: alt.comp.acad-freedom.talk,alt.privacy,alt.society.civil-liberty
+Subject: email privacy
+Message-ID: <1992Jan31.101449.13991@nntp.hut.fi>
+Date: 31 Jan 92 10:14:49 GMT
+
+In article <1992Jan30.144947.18720@m.cs.uiuc.edu>, kadie@m.cs (Carl M. Kadie) writes:
+>Ethically (and perhaps legally) email communications should have the
+>same privacy protection as telephone calls. Email archives should have
+>the same privacy protection as desk file cabinets. It would be unwise
+>for any university employee to tap email communications or search an
+>email archive without authorization from the university president,
+>university legal counsel, and univeristy's academic freedom committee.
+
+In Finland email currently has the same protection as paper mail while
+in transit.  There's a problem with what 'in transit' means, but the
+law is supposed to be changed so that all email will be protected.
+
+It's not legal for the government to listen to people's phones for any
+reason and paper mail secrecy is held to a greater value so I don't
+think the government (or anyone else, for that matter) has any legal
+power to read email either.
+
+In the law-to-be there's some wording that 'protected' (as for example
+by Unix file protections) form of traffic is private.  So, there are
+some problems with bounces to postmaster - according to one
+interpretation the postmaster can read the mail if it is legitimately
+forwarded to the postmaster's mailbox because then there is no
+protection from the postmaster.  We get into shady areas here - if the
+postmaster is also responsible for the mail system handling all mail
+could be directed to also go to the postmaster's mailbox and according
+to this interpretation there would be no problem with this.
+
+//Jyrki
+
+From caf-talk Caf Jan 31 00:00:00 1992
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Newsgroups: alt.comp.acad-freedom.talk,misc.legal,alt.censorship
+Subject: Re: Duties of state universities regarding 1st amendment
+Message-ID: <1992Jan27.201548.22829@m.cs.uiuc.edu>
+Date: 27 Jan 92 20:15:48 GMT
+
+
+In article <1992Jan27.150734.23638@eff.org> kadie@eff.org (Carl M.
+Kadie) writes:
+
+|Here, for example, is the definition of library from Indiana state
+|law. It could cover some a Usenet facilities:
+|
+|"'Library' means a collection of a variety of books or other printed
+|matter, audiovisual materials or other items in which knowledge is
+|recorded; kept in a centralized place; for which a person who as
+|knowledge of the materials, their arrangement, their use and of
+|library skills is responsible; and which are for the use of
+|individuals or groups in meeting their recreational, informational,
+|educational, research or cultural needs." See _American Library Laws_
+|(5th edition).
+
+tse@poohbah.pa.dec.com (Gary Tse) writes:
+
+>By this definition, my local VCR tape rental place is a library.
+
+I agree. Indeed, many traditional libraries have video tapes. Many are
+privately owned. Some have per-use fees. I don't know if any are
+for-profit.
+
+>My bank and the local train station, with their pamphlet stands, would also be
+>considered libraries.
+>  Heck, my cable TV is a library, my favorite 
+>restaurant a library...
+
+These facilities seem to lack a "librarian."
+
+>Wait till I show my banker the Library Bill of Rights.
+
+I don't know how well the Library Bill of Rights fits banking
+information racks. Here, however, is an attempt to fit it
+to netnews.
+
+               Hypothetical Netnews Bill of Rights
+
+All computers offering Netnews are forums for information and ideas,
+and that the following basic policies should guide their services.
+
+      1.  Newsgroups and other Netnews resources should be provided
+for the interest, information, and enlightenment of all people of the
+community the Netnews provider serves.  Materials should not be
+excluded because of the origin, background, or views of those
+contributing to their creation.
+
+      2.  Computers offering Netnews should provide materials and
+information presenting all points of view on current and historical
+issues.  Materials should not be proscribed or removed because of
+partisan or doctrinal disapproval.
+
+      3.  Netnews providers should challenge censorship in the
+fulfillment of their responsibility to provide information and
+enlightenment.
+
+      4.  Netnews providers should cooperate with all persons and
+groups concerned with resisting abridgment of free expression and free
+access to ideas.
+
+      5.  A person's right to use a Netnews service should not be
+denied or abridged because of origin, age, background, or views.
+
+      6.  Netnews providers which provides resources for user
+expression or assembly should make such resources available on an
+equitable basis, regardless of the beliefs or affiliations of
+individuals or groups requesting their use.
+
+[reposted from ftp.eff.org:pub/academic/news/cafv01n30]
+
+- Carl
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+From caf-talk Caf Jan 27 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,misc.legal,alt.censorship
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Duties of state universities regarding 1st amendment
+Message-ID: <1992Jan27.165137.14992@ms.uky.edu>
+Date: Mon, 27 Jan 1992 21:51:37 GMT
+
+kadie@m.cs.uiuc.edu (Carl M. Kadie) writes:
+>
+>>  Heck, my cable TV is a library, my favorite 
+>>restaurant a library...
+>
+>These facilities seem to lack a "librarian."
+
+Does the cable TV company have a director of programming?  Don't they
+decide which services to offer?  After all, it's my cable company that
+decides whether or not I can receive the Playboy Channel on their
+equipment......I have nothing to say in the matter.  Their decisions
+have a definite impact on the information provided to me.  What's the 
+difference?  Keep in mind that I cannot erect a satellite dish, and 
+that there are no other cable companies servicing my city.
+
+
+>               Hypothetical Netnews Bill of Rights
+>
+>All computers offering Netnews are forums for information and ideas,
+>and that the following basic policies should guide their services.
+
+Comment: Netnews itself is a forum.  The computer, in and of itself,
+         is not such a forum.  There may be policies and procedures
+         controlling an individual computer system that affect the
+         provision of netnews services.
+         
+Comment: Netnews spans every section of society.  A multinational cor-
+         poration's Cray supercomputer is, in Usenet, at the same relative 
+         level as one person's personal computer at home; both are merely 
+         "sites".  Would you apply the same obligations to both?  
+
+Comment: Netnews participants include Federal, State, and local 
+         governmental entities, as well as the corporate and private sectors.
+         Both public and private educational institutions are represented.
+         A "Netnews Bill of Rights" encompassing these diverse
+         sites must respect their rights as public or private entities.
+         
+>      1.  Newsgroups and other Netnews resources should be provided
+>for the interest, information, and enlightenment of all people of the
+>community the Netnews provider serves.  Materials should not be
+>excluded because of the origin, background, or views of those
+>contributing to their creation.
+
+Addendum: Materials may be excluded because of their irrelevance to
+          the mission or purpose of the provider.  A private firm
+          specializing in computer software, for example, can exclude
+          recreational or social materials from their service.  Conversely,
+          a university's sociology department is free to carry only those
+          materials which relate to its mission.
+
+Comment:  If we accept the notion of Usenet as a limited public forum,
+          then we must accept the rights of the providers/maintainers
+          of that forum.  One of those rights is the selection of topics
+          for discussion.  The owners/maintainers of a Usenet site do
+          have the right to determine which newsgroups will (or will not)
+          be supported.  This is the very basis of the Usenet mechanism.
+          We may argue that a formal selection process is needed, but the
+          final decision belongs to the maintainers/owners of the forum.
+
+>      2.  Computers offering Netnews should provide materials and
+>information presenting all points of view on current and historical
+>issues.  Materials should not be proscribed or removed because of
+>partisan or doctrinal disapproval.
+
+Addendum: If materials concerning a given topic are provided, materials
+          relevant to that discussion should not be proscribed because of
+          partisan or doctrinal disapproval.  If one point of view is pre-
+          sented, the other must be presented as well.  The provider may
+          choose not to present either side, through the materials selec-
+          tion process.
+
+Comment:  If I accept a controversial newsgroup, I cannot ethically censor
+          individual postings to that newsgroup; I have accepted the dis-
+          cussion as part of my forum (my site).  If, however, I choose not
+          to accept that discussion/newsgroup, I am simply exercising my
+          rights as an individual site.
+
+>      3.  Netnews providers should challenge censorship in the
+>fulfillment of their responsibility to provide information and
+>enlightenment.
+
+Amendment: Preface this sentence with "Within the scope of those materials 
+           they have chosen to provide".
+
+Comment:   This statement seems dangerously close to "you have to provide
+           everything your users request".  This is not feasible on a 
+           Usenet-wide scale.
+
+>      4.  Netnews providers should cooperate with all persons and
+>groups concerned with resisting abridgment of free expression and free
+>access to ideas.
+
+Amendment: Append the following: "within the scope of the service itself,
+           and respecting the scope and/or mission of the facility."
+
+Comment:   One of the responsibilities of the maintainer of a limited
+           public forum is to keep the discussion "on the topic".  If
+           someone at my site argues vehemently against gun control in
+           talk.politics.guns, that's fine.  If, however, a user posts
+           anti-abortion materials to talk.politics.guns, I am not abridging
+           that user's rights in my insistence that he keep the discussion
+           "on the topic".  That is one of my obligations as the maintainer
+           of the forum.
+
+Comment:   "shall cooperate with all persons and groups"??  Does that mean
+           that I have to give the local chapter of the ACLU a login on
+           my system?  Does that mean that every student group on this cam-
+           pus should automatically get access to computers offering net-
+           news?
+
+>      5.  A person's right to use a Netnews service should not be
+>denied or abridged because of origin, age, background, or views.
+
+Addendum: Certain materials may be made available on a "by request"
+          basis.  This is in keeping with common library policies.
+          Access should not be withheld; however, the "by request"
+          mechanism is a legitimate management tool.
+
+Comment:  According to recent net discussions, there are many libraries
+          which make "adult" materials available on a "by request" basis.
+          They do not withhold access; they just make the user ask for it.
+          I can certainly see a parallel in netnews; perhaps the more con-
+          troversial groups could be "by request only".  No criteria should
+          be used to determine access; just require that they ask for it.
+
+>      6.  Netnews providers which provides resources for user
+>expression or assembly should make such resources available on an
+>equitable basis, regardless of the beliefs or affiliations of
+>individuals or groups requesting their use.
+
+Addendum: It should be recognized that a given site is not required
+          to provide services upon request; many sites have policies
+          and requirements which affect the granting of access.  These
+          policies should be respected.
+
+Comment: No site is obligated to give access to anyone who requests it.  Many
+         sites are restricted in their use; some might only be open to comp 
+         sci students, while a corporate system might be restricted to company 
+         employees.  Within these requirements, access should not be 
+         restricted; we should realize, however, that such requirements exist.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+From caf-talk Caf Jan 27 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,cmu.general,alt.censorship,alt.politics.correct
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Speech restrictions on CMU computer bboards
+Message-ID: <1992Jan28.223429.20426@eff.org>
+Date: Tue, 28 Jan 1992 22:34:29 GMT
+
+[Reprinted with permission - The Tartan vol 86 issue 14]
+
+By Matt Bushey
+Tartan News Co-editor
+
+Biology junior Eric Jefferson was accused of violating the University's
+sexual harassment policy this month after posting a number of
+questionable messages on the women's center Andrew bulletin board.
+
+A letter of complaint was given to Dean of student affairs Micheal
+Murphy concerning Eric Jefferson, who had posted messages which readers
+claimed were offensive and harassing towards women. The formal complaint
+was written by Todd Masco and signed by co-worker Chris Newman and
+student senator Josh Knauer.
+
+Alleged acts of harassment have occurred often over the past few years
+and have traditionally been handled by the office of student affairs.
+
+The first message posted by Jefferson was in response to a lecture by
+feminist Ann Simonton sponsored by the political speaker forum board.
+Jefferson posted his message to assocs.womens-center concerning his
+opinion towards feminism and the role of women in society. In his
+message, Jefferson writes, "I think that the biggest Nazis in the
+country today and the biggest threats to freedom of speech are
+feminists."
+Jefferson posted over ten more messages to the board expressing his
+opinions, including his liberal opinions about lesbians.                
+                  
+
+According to Knauer, the comments made by Jefferson on the bboard were
+"personal attacks". Jefferson said, "I don't think they were offensive."
+and believes he didn't break the sexual harassment policy. "The way [the
+sexual harassment policy] is defined in the student handbook is really
+vague," said Jefferson.
+
+However, Knauer believes that Jefferson crossed the line of free speech.
+Knauer said, "The administration should say, 'Look, what you wrote is
+breaking the rules, whether they are right or not, and don't do it
+again.'"
+
+This happened on January 22 when the assistant dean of student affairs
+told Jefferson that if he continued to post his questionable messages a
+full disciplinary committee would make a ruling on his actions which
+could ultimately result in the expulsion of Jefferson from Carnegie
+Mellon. "I told her that I couldn't promise not to post any more
+messages," said Jefferson. 
+
+Masco believes Jefferson's messages are a "clear case of harassment."
+and believes Jefferson's intent was to start an argument among the
+members of the women's center. "I don't see how it can be possible for
+any of his comments not to be taken as harassment," said Masco
+
+The sexual harassment policy states, "Carnegie Mellon University seeks
+to maintain a learning and work environment free from sexual harassment.
+Carnegie Mellon is dedicated to the free exchange of ideas and the
+intellectual development of all members of the community. For this
+exchange and development to take place, the environment must promote the
+confidence to work, to study, to innovate, and to perform without fear
+of harassment."
+
+The policy continues, "Carnegie Mellon University adopts the basic
+definition of the Equal Employment Opportunity Commission (EEOC)
+regarding sexual harassment as any unwelcome sexual advance, requests
+for sexual favors, or other verbal or physical conduct of a sexual
+nature when...such conduct has the purpose or effect of unreasonable
+interfering with an individual's work performance, or creating an
+intimidating, hostile, or offensive work environment."
+
+Masco agrees with Jefferson that that policy is weakly worded, but he
+doesn't see that as grounds for altering the policy. "It gives [the
+administration] the ability to act reasonably rather than tying
+themselves down to a specific course of action," said Masco.
+
+According to Murphy, 
+
+The free speech and assembly policy states, "Carnegie Mellon
+University...encourages freedom of speech, assembly, and exchange of
+ideas. This includes the distribution of leaflets and petitions, as well
+as demonstrations or protests involving speaking, discussion, or the
+distribution of information."
+
+"All persons are permitted to distribute printed material, offer
+petitions for signature, make speeches and conduct other similar
+activities outside university buildings...The only limits on these
+activities are the rights of the members of the university community and
+the maintenance of the normal functioning of the university. No
+activities which harm individuals, damage or deface property, block
+access to university buildings, or disrupt classes will be permitted."
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+From caf-talk Caf Jan 28 00:00:00 1992
+Newsgroups: cmu.opinion,alt.censorship,alt.comp.acad-freedom.talk,alt.politics.correct
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Speech restrictions on CMU computer bboards
+Message-ID: <1992Jan31.211130.19359@eff.org>
+Date: Fri, 31 Jan 1992 21:11:30 GMT
+
+Here are the collected works of Eric Scott Jefferson.
+
+- Carl
+
+======================================================================
+>Date: & Sat, 16 Nov 1991 17:56:41 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject: Ann Simonton
+ 
+ Well, I've never written to the women's center before this (not wanting to
+deal with all you fugly sexually frustrated women before. Yes fugly, no typo.
+This word was invented by Stephanie Zikos last year (maybe by accident)
+and is a contraction of fucking ugly Usage: "Man that girl is fugly") but this
+has me so pissed off that I can't restrain myself.
+ I went to this so-called talk of the bitch who's name is in my title. All she
+did was rant and rave for two hours about how everything in our society is
+sexist/racist/homphobic/classist/and capitalist piggish. After her two hour
+talk she did not answer any questions (except for one or two, ignoring me
+of course even though I had my hand up first, maybe it was the Guns N'
+Roses T-shirt I was wearing). Thus her basic point was "You listen to me
+but I don't want to listen to you", maybe because she was ripped in half a
+few years ago by Gloria Leonard (editor of High Society magazine). Next
+time you get a political speaker, don't pay them if they won't answer
+questions.
+ The other thing about this talk that got me pissed off was the way the bitch
+came off looking more prudish than Jerry Fallwell. A message to all the
+women out there: I subscribe to Hustler, I watch porno flicks regularly (in
+fact I just saw Oriental Lesbian Fantasies a few days ago -- weak flick the
+womens bodies were pretty disgusting), I favor legalization of prostitution. I
+make no apologies for doing these things because men have a definite
+sexuality. I think that the biggest Nazis in the country today and the biggest
+threats to freedom of speech are feminists. You women always act like you
+want to cut my balls off. Well fuck you. First you are restricting
+speech in the
+workplace because a few frustrated cunts who masturbate every night since
+no man would have them think that they are being sexually harassed. I
+have talked about porn, the size of my dick and other things regularly with
+women in the course of summer jobs and you know what, not one of them
+fucking minded at all. Not one. A girl I know went to see Guns N' Roses
+with me in concert this summer. Did she mind their songs. FUCK NO!!!!. My
+sister is a model whose looks put all the women on this campus to shame.
+Does she feel she is being exploited. FUCK NO!!!! As Camille Paglia says,
+feminists have the most screwed up view of the world. They don't realize
+that women are the dominant sex (which they are), they don't realize that
+sex is a dark force between man and women, the sexes will always be in
+conflict and other things that every other human being has realized in the
+world since we evolved from apes. (As Ms. Paglia also says, the only place
+where feminists have gained a hold have been on college campuses
+where men are basically sit or their ass guys who have no balls anyway
+such as those motherfucking pussy-wimps that came to that Simonton
+debate). I like good-looking women. Why!!!! Because that's the way we
+evolved. Beauty is a sign of health and good genes. Men's high sex drive
+always means they are attracted to beauty. My favorite show on TV is
+Married...With Children since Christina Applegate is so hot. If you feminist
+women don't like the male sex drive then set up your own country. You'll all
+die within one generation and then we'll be rid of you. (As a side note I
+don't feel bad when hunky men appear in commercials or magazines and
+their sex is userd to sell products. Oh Sniff, Sniff I feel so exploited. Boo
+hoo hoo mommy, daddy why don't you make them stop. Wahhhhhh!!!!)
+ 
+The venom in this post is intentional since you bitches have always tried
+to cut my balls off and I don't appreciate it.
+ 
+"Bitch, Bitch, Bitch , Bitch, Fucking Bitch!!!!!"
+Guns N' Roses "Back Off Bitch"
+ 
+ 
+******************************************************************************
+***
+****
+"Walked into the party I was drunk as hell
+   3 bitches already said 'Eric your breath smells'"--N.W.A "8 Ball" from
+Straight Outta Compton
+ 
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song
+   10-0!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+******************************************************************************
+***
+****
+>Date: & Mon, 18 Nov 1991 07:57:20 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  Re: Ann Simonton
+ 
+ Thanks for the free publicity. Whoever put up those posters showed real
+guts instead of confronting me directly. I should have expected a full
+character assassination simply because I refused to bow down to the god
+(or is that goddess?) of political correctness and kiss his ass. Go ahead,
+smear me all you like. I don't care. I hate everyone on campus anyway. If
+that is all your puny minds can think up instead of confronting me about my
+post then everything I said was justified. Because of this smear tactic I have
+no regrets. This is what traditionally happens to those bold enough on
+college campuses (such as the editors of The Dartmouth Review) who
+speak the truth. Childish people try to intimidate them into silence. Well I
+won't be silenced. If you want a fight --- you've come to the right place. 
+ Let's rumble!
+ 
+"They break down the doors and rape my rights but,
+ They won't  touch me.
+  They screech and yell and fight all night
+  But they can't tell me...
+    They're out ta get me.
+  They won't catch me..
+    I'm fucking innocennt.
+   They won't break me!!!!!!!!!!!"
+Guns N' Roses Out Ta Get Me.
+
+You won't break me women's center. No matter how hard you try.
+  
+
+ 
+
+*******************************************************************************
+**
+****
+*"Walked into the party I was drunk as hell
+  3 bitches already said 'Eric your breath smells'"--N.W.A "8 Ball" from
+Straight Outta Compton
+
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song
+ 10-0!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*******************************************************************************
+**
+****
+>Date: & Mon, 18 Nov 1991 15:02:01 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  Re: Ann Simonton
+ 
+>I think it's pretty clear that Eric wanted to publicly attack Ann
+>Simonton.  If he wanted to state an opinion, then he can do so in a
+>rational manner.  This is a University, not a beer hall.
+ 
+Todd you moron. I would think even you would give me more credit than
+this.When I went to this talk on David Lynch last year and what a sexist pig
+he is I was very restrained in my questions. In fact I was cut off during one
+of my questions so that the talk could be moved somewhere else (and to
+shut me up). I certainly was not looking for a fight as you say. Though of
+course since I disagree with you you won't listen to me anyway.
+ 
+ 
+*******************************************************************************
+**
+****
+"Walked into the party I was drunk as hell
+   3 bitches already said 'Eric your breath smells'"--N.W.A "8 Ball" from
+Straight Outta Compton
+ 
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song
+  10-0!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*******************************************************************************
+**
+****
+>Date: & Tue, 19 Nov 1991 15:44:53 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  Re: Another planet
+ 
+>But with this Eric Jefferson kid? I read his post and I found myself
+wondering what planet he came >from. What a moron.
+ 
+Since you show interest in where I'm from I'll try to describe it for you
+(apologies to Eazy-E and the N.W.A posse)
+
+Eric is his name and the boyz call me....
+Straight outta virginia,
+is a honky that'll smother you mother
+and make your sister think I love her
+Dangerous mother fucker raisin' hell
+and if I ever get caught I'll make bail
+see I don't give a fuck, that's the problem
+I see a mother fuckin' [security] guard I don't dodge him
+but I'm smart, lay low, creep awhile
+and I see the punk pass I smile
+to me it's kinda funny the attitudes to a honky hackin'
+but don't know where the fuck he goin
+just roamin lookin' for the one they call E.
+but here's a flash, they'll never see me
+ruthless, never seen, like a shadow in the dark
+except when I unload
+you see its fronted over and over
+and hesitation
+and hear the scream of the one who caught the last penetration
+feel a little gust of wind and I'm jettin
+but leave a memory no one will be forgettin'
+So what about the bitch who got shot? Fuck her.
+You think I give a damn about a bitch I ain't a sucker
+This is the autobiography of the E,
+and if you ever fuck with me
+you'll get taken
+by a stupid dope honky who'll smother
+word to the mother fucker
+straight outta virginia
+ 
+(Damn that shit was wack!)
+
+ 
+*******************************************************************************
+**
+****
+*"Walked into the party I was drunk as hell
+  3 bitches already said 'Eric your breath smells'"--N.W.A "8 Ball" from
+Straight Outta Compton
+ 
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song
+:   11-0!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*******************************************************************************
+**
+****
+>Date: & Tue, 19 Nov 1991 16:17:47 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject: & Re: this sounds soooo familiar.......
+
+ Yipes! Sorry about that last letter. I sent it accidently before editing it
+finally. Disreagrd what it says. This is the final version.
+People say oooo what an asshole where does his anger come from.
+What a jerk.
+When I arrived on campus more than four years ago (Yeah, I arrived in
+1987. I'm 22 years old and have been here longer than any of you punks
+except for Todd Masco) I considered myself a liberal. I used to be proud to
+call myself one since liberal is synonymous with open-minded. After
+attending a debate freshman year during which a contra gave a talk and
+the liberals beat up  all the conservatives for supporting these killers I
+started to change my mind. My mind was changed more when I saw that
+white males were blamed for every single problem in the world since the
+big bang and that authors such as Alice Walker were taken seriously just
+because she whined about everything. I also saw the Magaret Morrisson
+lounge become a public grievance factory for the women on campus and
+now I am watching whining pieces of shit trying to change the Redskins
+name in my hometown of D.C. since they find it offensive. I saw that
+anything  black man or a woman does is automatically taken seriously
+while a white man better shut the fuck up unless he totally agrees with
+what they have to say. I saw a Spirit press conference my first sophomore
+year during which they compared CMU to South Africa. I have seen my
+ancestors (such as Thomas Jefferson, one of the greatest people who ever
+lived and a direct ancestor of mine) being called every sort of evil that ever
+was and I am the one who is expected to make it up to the world. I could go
+on and on for hours of all the incidents that have irritated me. Every time I
+speak out I am called racist and sexist any way so I don't give a fuck
+anymore. If all you people on this bbooard hate me fine. I don't really like
+anyone here outside of a few people anyway
+ No matter how offensive my opinions are, at least I have carefully thought
+them through.  The opinions of most people on this campus are on the
+level of "Like wow, racial and sexual equality, like I fer that dude". I bet no
+one on this bboard has actually thought carefully about any issues
+whatsoever and just mindlessly follow whatever is the correct idea. Does
+anyone out there question anything? Obviously not since such statements
+were made at the Ann Simonton debate as (2/3 of all women will
+remember that they were incest victims, 50% of all men beat women in
+response to which there was much solemn head nodding since everyone
+in the lecture was so obviously patting themselves on the back about how
+much they were doing to fighting sexism and how important their mission
+was. Ain't we just the Savior's right hand now!)
+ Oh yeah another thing. How come when Fallwell wants to censor things
+he is attacked but when feminists want to they are taken seriously. To all
+feminists who are offended by pornography, my post, other things you
+don't have to buy, read , look at , these things that offend you. They do no
+harm whatsoever to you so why do you complain so much? If you are so
+offended I recommend driving down to D.C. buying a 12" vibrating dildo at
+this place they call the pleasure chest, sticking it up your ass and turning it
+on. Maybe it will loosen the stick up your butt.There has never been one
+study done that conclusively links pornography with harm.Why don't you
+poster this? Putting up posters of my messages was an obvious attempt to
+get me to be quiet since I'd be to scared to send any more messages if I
+knew my quotes were going to read by the whole campus.
+One last thing. People have been coming up to me after that poster stunt
+congratulating me. My friends don't care and people who don't know me
+are glad that someone has said what they were too scared to.Thanks to
+whoever for the good publicity
+
+
+
+ 
+
+>Date: & Wed,  4 Dec 1991 09:10:47 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject: After a brief hiatus
+ 
+ Well after spending Thanksgiving break and Dec. 2 and 3. in London
+(well Dec. 3 flying from London) I come back to this bboard. (Hee, hee yes
+London, for all you poor scum spending Thanksgiving break here or with
+your parents eat your heart out!!!! I got to visit the Raymond's Revue Bar
+(excellent strip-tease show, famous throughout Europe), the London
+hookers and such high-class stores as Harrods where I could indulge my
+capitalist pig tastes along with all the other greedy swine and got to see all
+the Limey babes). As much as everyone might like to hope, even the IRA
+could not get rid of me (there were several bombings by these disgusting
+micks close to where I was, and I'm part Irish so I'll insult them all I want).
+ But seriously, I have a question to ask. Scientists now say that the small
+size of the hypothalamus in males causes homosexuality in males. My
+question is this, does ugliness in females cause lesbianism. I saw a bunch
+of lesbians in Britain and they were pretty fugly. All the lesbians I have seen
+in this country make me want to lose my lunch. Is there a correlation?
+Might be an interesting research project (my last project was on how
+females are not as good in science and math in general as males because
+of differential brain development by the way)
+
+
+*******************************************************************************
+**
+****
+"I used to love her but I had to kill her
+  I used to love her but I had to kill her
+  I had to put her 6 feet under
+ And I can still hear her complain"
+Guns N' Roses "Used to Love Her"
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song 
+*******************************************************************************
+**
+****
+>Date: & Thu,  5 Dec 1991 08:26:56 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  Re: After a brief hiatus
+>CC: ' "Todd L. Masco" <tm2b+@andrew.cmu.edu>
+ 
+>Judging from your plan file and your stated opinions, I'd guess that
+>you judge "beauty" (this from the person who was called 'The Fly' by
+>most people in his dorm's floor, freshman year?) by... let me see...
+
+ Yup.You were Mr. Popular himself also. I remember freshman year how
+much all the guys on the floor thought you were the biggest geek in the
+universe (my roommate often said how much he hated your guts and how
+much he'd like to beat you up, a very easy proposition for a fat blob of shit
+such as yourself). Well you'll soon be graduating and out on the street
+selling pencils which is all you are qualified to do so if I see you on the
+street corner I'll be sure not to give you any change.
+
+
+
+
+Q~~****
+"I used to love her but I had to kill her
+  I used to love her but I had to kill her
+ I had to put her 6 feet under
+ And I can still hear her complain"
+ Guns N' Roses "Used to Love Her"
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song 
+*******************************************************************************
+**
+****
+
+>Date: & Fri,  6 Dec 1991 14:33:47 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  Re: After a brief hiatus
+
+>This bboard is not in existence for you to use to call each other names. 
+Nobody really cares what you >look like or have to say anymore anyway so
+take it somewhere else.  And by the way, this is not my >account so don't
+respond to me here please.  Thank you.
+>-Rose 
+
+To me, Todd's post insulting me was 1,000,000 times less offensive than
+some person (too scared to even use their own account yet!) telling me
+what I can and can't post and where I can and can't post this stuff. (actually
+my friends an I were laughing as we read it)Todd and I may not like each
+other much but at least he hasn't peremptorarily ordered me off a bboard. I
+post anywhere I like as long as I like so fuck you.He can say whatever
+insulting thing he likes about me and I about him (you're probably too
+young to remember this bboard called andrew.pictures.nudes.disc.robin on
+which people continually said much more vicious things about each other
+than Mr. Masco's post and my post)
+ 
+Anyway, to those wondering to whom my posts have been referring ....
+you have mirrors don't you?
+
+
+*******************************************************************************
+**
+****
+"I used to love her but I had to kill her
+ I used to love her but I had to kill her
+ I had to put her 6 feet under
+ And I can still hear her complain"
+ Guns N' Roses "Used to Love Her"
+"Hail to the Redskins. Hail Victory!!!
+*******************************************************************************
+**
+****
+>Date: & Tue, 10 Dec 1991 12:30:45 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  Fwd: After a brief hiatus
+ 
+Boy, here's someone who has heard of the 1st ammendment. And some
+people think that feminists and their sympathizers are anti-censorship.
+Yeah right.
+---------- Forwarded message begins here ----------
+ 
+#Return-path: <jk71+@andrew.cmu.edu>
+BX-Andrew-Authenticated-as: 18654;andrew.cmu.edu;Joshua Alan Knauer
+.Received: from pcs4.andrew.cmu.edu via trymail
+I          ID </afs/andrew.cmu.edu/usr17/ej0i/Mailbox/4dEeeDu00Uh:431E59>;
+/          Sun,  8 Dec 1991 18:28:16 -0500 (EST)
+,Received: from pcs4.andrew.cmu.edu via qmail
+M          ID </afs/andrew.cmu.edu/usr3/jk71/.Outgoing/QF.8dEee=600Uh:E2pKpG>;
+/          Sun,  8 Dec 1991 18:28:11 -0500 (EST)
+_Received: from
+mms.0.1.873.MacMail.0.9.CUILIB.3.45.SNAP.NOT.LINKED.pcs4.andrew.cmu.edu.p
+max.ul4
+2          via MS.5.6.pcs4.andrew.cmu.edu.pmax_ul4;
+/          Sun,  8 Dec 1991 18:28:10 -0500 (EST)
+/Message-ID: <wdEee_y00Uh_E2pKg5@andrew.cmu.edu>
++Date: Sun,  8 Dec 1991 18:28:10 -0500 (EST)
+/From: Joshua Alan Knauer <jk71+@andrew.cmu.edu>
+ X-Andrew-Message-Size:     976+0
+Content-Type: X-BE2; 12
+If-Type-Unsupported: alter
+/To: Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+!Subject: Re: After a brief hiatus
+Cc: 
+0In-Reply-To: <cdDx2PO00awFF8uEZH@andrew.cmu.edu>
+/References: <YdDC7bC00awWQEiUV6@andrew.cmu.edu>
+$ <wdDFp8y00WAbAK2oce@andrew.cmu.edu>
+$ <EdDWYUa00awV8cqkgo@andrew.cmu.edu>
+$ <AdDuB0O00Uh782F4Jy@andrew.cmu.edu>
+$ <cdDx2PO00awFF8uEZH@andrew.cmu.edu>
+ 
+ 
+Mr. Jefferson,
+    I am writing to inform you that the next time that I see you using
+profanity, insulting another person using your disgusting language, or
+posting to the Women's Center's b-board, I am going to make sure you will
+lose your Andrew account, and quite possibly get arrested for harrasment,
+verbal abuse, and violating the policies governing the use of Internet, and
+the Andrew system.  If you think this is an idol threat, you try me-- I dare
+you.  Your views, and the way that you express them are disgusting.  Your
+obvious sexual problems indicate that you are not sure about your
+sexuality.  I would seriously consider getting psychiatric help.  You are
+truly mentally sick.
+
+    Heed my warning, I assure you that I can make life quite difficult for you
+on this campus.  Please do not cause any more problems by using
+threatening, profane, or otherwise abusive language.  You are being
+watched, remember that.
+
+Sincerely,
+
+Joshua Knauer
+Student Senator, H&SS 
+ 
+ 
+*******************************************************************************
+**
+****
+"I used to love her but I had to kill her
+  I used to love her but I had to kill her
+  I had to put her 6 feet under
+ And I can still hear her complain"
+ Guns N' Roses "Used to Love Her"
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song 
+*******************************************************************************
+**
+****
+\~~Date: & Wed, 11 Dec 1991 13:22:05 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To: )Joshua Alan Knauer <jk71+@andrew.cmu.edu>
+>Subject:  Re: Eric Jefferson
+>CC:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+ 
+>I can assure you that Mr. Jefferson only posted a small portion of the
+letter.  He edited out parts that >he didn't want everyone to see.  I
+explained that if he posted to the Women's Center Board, AND used >his
+threatening manner that was profane, etc., THEN I would report him.
+
+You fucking liar. I simply forwarded your whole message to the bboard.
+Do you enough about Andrew to understand forwarding? Huh? It means
+that your whole message is sent. I assure you that I did not change a damn
+thing in my forwarding of your post.I have no respect for someone who
+makes obnoxious little threats and then claims that I twisted his words
+around. So shut up you twerpy little freshman. You haven't even been here
+one semester and you think you can boss me around. Don't make me
+laugh. Go back to picking maggots out of your mother's cunt and leave the
+thinking to your betters.
+
+ 
+
+
+*******************************************************************************
+**
+****
+"I used to love her but I had to kill her
+  I used to love her but I had to kill her
+  I had to put her 6 feet under
+ And I can still hear her complain"
+Guns N' Roses "Used to Love Her"
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song 
+*******************************************************************************
+**
+****
+>Date: & Wed, 11 Dec 1991 14:21:41 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  New Profane Post
+>CC: * Joshua Alan Knauer <jk71+@andrew.cmu.edu>
+
+
+
+ Hey Josh (don't mind if I call you Josh do you?) as you can now see I am
+posting a new message to the womens center bboard filled with profane
+language, attacks on feminists et ceetera. Oh no will I lose my account and
+go to jail because of the thought police.Oooohh I am so scared. Some
+freshaman who has been here all of one semester wants to rumble. Maybe
+you didn't hear of Kevin Wolfe's love -slave post last year for which he
+recieved no punishment.Maybe I'll just have to get a free lawyer provided
+by the ACLU to defend my rights as an American. (Oh by the way, where
+are the mysterious private posts I've sent to women that you claim to have
+seen. Forward them to the womens'center bboard if you want I certainly
+don't recall any threatening private posts)
+
+Actual post begins here:
+
+ Gautham Kamath posted a message saying that women should be called
+vaginal americans. I would prefer the term Dick Receptacles.Because see,
+we don't really need women except for one thing. That one thing should be
+their whole function in the world. This is why feminists want to ban
+pornography and keep prostitution illegal. If these things ever become
+widespread we men will break out of female bondage since we can just
+visit the neighborhood whore and find our sexual release that way. If we
+want to talk with someone, we can just talk to the guys, if we want to go out
+we go out with the guys. Sex is thus female's only useful function as far as I
+am concerned. So make prostituion legal so I don't have to live under the
+yoke of these bitches at CMU (prostituion is legal in Thailand and you can
+fuck a woman all night for two dollars. If only it was that way here!) whose
+only interest in males is to cut their testicles off and make them all wimps
+(which has happened to most of the guys here already. No one at this
+university has any balls)
+ Here's some amusing advice for guys on how to treat women from N.W.A
+(and remeber, these guys are black so they cannot be criticized by
+upper-middle class white liberals)
+"Findum Fuckum and Flee"
+Eazy-E       Easily I'm approaching
+            There aint no joking
+           When the pussy holes are open
+             Ready to fuck until my dick is raw
+         Yo
+            The motherfuckin' devil son in law
+            <Peter Peter the pussy eater>
+             No it's the E
+             The motherfuckin' pussy beater
+            And I'm the quicker bigger to pick up the bitch
+      So come here bitch
+            And lick up the lick up the
+            lick up the dick
+ Now how many nuts will it take for me
+            To let the bitch graduate to lesson three
+            As you can see I straight waxed that ass
+             Back up bitch
+           Unless you want nut in your eye
+             I've never never ever ever seen a bitch cry
+             Not one not two not four five six
+             I lost the third nut in the mix
+             Fuck it
+             Six five four now three is up
+             Give me that
+             Give me that
+             Give me that nut
+  You wanna feel the dick baby
+             try your luck
+             Because the E likes to
+             Fuck fuck fuck
+   Yo
+              I get them stuck on
+              And get the fuck on
+             Give them a tootsie roll
+            And tell them thanks for the pussy hole
+            I findum fuckem and flee you know
+  But before I d-o
+             Yo
+             I take a hoe to the hotel
+             to the motel
+             to the holiday inn
+   Yo
+             If that bitch start fucking up
+             I'll just fuck her friend
+             Dr Dre <word up> my mellow <yo>
+             It's on you
+     So what you gonna do
+ 
+Dr Dre       Well it's on and on and on and on
+             Yo
+              The beat don't stop
+             Until the break of dawn
+    Yo
+             Every bitch I know
+             they wanna get with me
+             The motherfucking notorius D-r-e
+            Spit game at a bitch
+             While a nigger's around
+    And you know most hoe's
+             No not the clown
+             Coz if a bitch try to dis me
+             While I'm fulla liquor
+            I smack the bitch up
+             And shoot the nigger
+   That's with her
+             That's the kind of nigger
+              You're listening to
+             Talk to you for a minute
+             Then my dick's in you
+             Yo
+    Now every single bitch
+             Got a price to pay
+             Up on the dicks of NWA
+             I findum fuckem and flee you know
+             But before I d-o
+             Yo
+             I take a hoe to the hotel
+             To the motel
+             To the holiday inn
+             If that bitch starts fucking up
+             I'll just fuck her friend
+             Now Mc Ren <word up> my mellow <check it out>
+            It's on you
+ So whattafuck you're gonna do
+ 
+MC Ren       Now gatha 'round ya'll
+             And check it out ya'll
+              And all the bitches
+            Come and suck up on my balls ya'll
+             And take the dick
+    to play it like a slinkie
+             So put your lips
+				On my big chocolate twinkie
+             And you swallowed all the nut
+             If you bitches are smart
+             To make my dick pop up
+             Like a pop tart
+ But after I nut
+             I'ma leave you
+						But first I must decieve you
+             'Cause bitch I don't need you
+             And don't say that you love me to
+             'Cause if I turn my back
+             You will fuck the whole crew
+    You're nothing but a steak ho
+             Trying to take my bake hoe
+             So I'll have to let you know
+             At a hotel
+             At a motel
+            At a holiday inn
+             Because if that bitch sttart fucking up
+             Yo
+             I'll just fuck her friend
+
+
+   
+
+
+*******************************************************************************
+**
+****
+"I used to love her but I had to kill her
+  I used to love her but I had to kill her
+  I had to put her 6 feet under
+ And I can still hear her complain"
+ Guns N' Roses "Used to Love Her"
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song 
+*******************************************************************************
+**
+****
+>Date: & Wed, 11 Dec 1991 14:22:17 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  Fwd: After a brief hiatus
+
+---------- Forwarded message begins here ----------
+ 
+#Return-path: <jk71+@andrew.cmu.edu>
+BX-Andrew-Authenticated-as: 18654;andrew.cmu.edu;Joshua Alan Knauer
+.Received: from pcs6.andrew.cmu.edu via trymail
+I          ID </afs/andrew.cmu.edu/usr17/ej0i/Mailbox/cdFFUOa00WBKI43k5Z>;
+/          Tue, 10 Dec 1991 14:40:10 -0500 (EST)
+,Received: from pcs6.andrew.cmu.edu via qmail
+M          ID </afs/andrew.cmu.edu/usr3/jk71/.Outgoing/QF.8dFFUM:00WBK03toUz>;
+/          Tue, 10 Dec 1991 14:40:08 -0500 (EST)
+_Received: from
+mms.0.1.873.MacMail.0.9.CUILIB.3.45.SNAP.NOT.LINKED.pcs6.andrew.cmu.edu.p
+max.ul4
+2          via MS.5.6.pcs6.andrew.cmu.edu.pmax_ul4;
+/          Tue, 10 Dec 1991 14:40:07 -0500 (EST)
+/Message-ID: <sdFFULy00WBKE3toNu@andrew.cmu.edu>
++Date: Tue, 10 Dec 1991 14:40:07 -0500 (EST)
+/From: Joshua Alan Knauer <jk71+@andrew.cmu.edu>
+ X-Andrew-Message-Size:    1033+0
+Content-Type: X-BE2; 12
+If-Type-Unsupported: alter
+/To: Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+!Subject: Re: After a brief hiatus
+Cc: 
+0In-Reply-To: <4dFDb5K00awP01i1Ak@andrew.cmu.edu>
+/References: <YdDC7bC00awWQEiUV6@andrew.cmu.edu>
+$ <wdDFp8y00WAbAK2oce@andrew.cmu.edu>
+$ <EdDWYUa00awV8cqkgo@andrew.cmu.edu>
+$ <AdDuB0O00Uh782F4Jy@andrew.cmu.edu>
+$ <cdDx2PO00awFF8uEZH@andrew.cmu.edu>
+$ <wdEee_y00Uh_E2pKg5@andrew.cmu.edu>
+$ <4dFDb5K00awP01i1Ak@andrew.cmu.edu>
+ 
+ 
+Eric,
+ 
+I am not going to make a personal attack against you, because it would be
+too easy.  Censorship is taking away one's right to the guaranteed (1st
+Ammendment) freedom of speech.  If you read the first ammendment, it
+also suggests that these freedoms have limits.  One of these limits is when
+one person verbally assaults another.  This is a crime in the United States,
+Pennsylvania, and Pittsburgh.  Your posts, both personal (which I have
+received from the women you sent them to) and public assaults and
+threats on women qualify under this part of the 1st Ammendment.  You
+have overstepped your freedoms, now it is time for you to be punished.  I
+plan on making an official complaint to Academic Computing, the next time
+I hear of you threatening people or using profanity as a personal attack
+against others.  
+ 
+The term Big Brother refers to a government, which I am not.  But if you
+would like to think of me as your Big Brother, then you do have your own,
+personal Big Brother.  Be careful!
+
+Loves and kisses,
+Josh Knauer 
+ 
+ 
+******************************************************************************
+***
+****
+"I used to love her but I had to kill her
+  I used to love her but I had to kill her
+  I had to put her 6 feet under
+ And I can still hear her complain"
+ Guns N' Roses "Used to Love Her"
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song 
+******************************************************************************
+***
+****
+>Date: & Mon, 16 Dec 1991 09:06:43 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  Re: Harassment policy
+>CC: / "Christian M. Restifo" <cr2r+@andrew.cmu.edu>,
+U   
++dist+/afs/andrew.cmu.edu/usr0/postman/CampusLists/cmu/opinion.dl@andrew.c
+mu.edu,
+!    Bulletin Board Administration
+7    <bb+assocs.womens-center.discussion@andrew.cmu.edu>
+
+ It seems that due to the fine efforts of upstanding citizens such as Mr.
+Masco and Mr. Knauer who consider themselves public watchdogs as to
+what people should and should not be allowed to say, I will probably have
+to face a disciplinary hearing next semester. It seems like the Thought
+Police mentioned by Newsweek have nailed another victim (very ironic
+considering that this month is the 200th anniversary of the Bill of Rights
+which was taken from my ancestor Thomas Jefferson's Virginia Bill of
+Rights. He is probably rolling in his grave at the prospect of one of his
+descendants and most fervent admirers being skewered by the people who
+ignore his vision, especially as that vision is now being hailed across the
+world). Well, I have been advised by my parents and my parents' lawyer to
+seek the help of the ACLU if this should turn serious. I'm sure that they will
+defend my side of the affair. Perhaps that Student Handbook will have to
+be revised very soon. Especially as it seems no one objects to any point of
+view on the left, no matter how extreme. Any other point of view is
+characterized as harassment or racism or whatever and is dealt with
+seriously by the administration because certain groups are protected and
+thus have more rights than certain other groups. (What I find especially
+hilarious was that it was not even women who complained of harssment
+but some straight white males who figure it is their mission in life to defend
+these poor oppressed people who are too dumb to defend themselves)
+ 
+"I was a student at the height of the McCarthy period and it is worse now
+than it was then"
+Donald Kagan faculty member at Harvard University
+ 
+ 
+*******************************************************************************
+**
+****
+"Freedom of Speech -- Just Watch What You Say" Ice-T
+"Feminism is an adolescent whine" Camille Paglia
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song 
+*******************************************************************************
+**
+****
+>Date: & Mon, 13 Jan 1992 14:15:47 -0500 (EST)
+>From: , Eric Scott Jefferson <ej0i+@andrew.cmu.edu>
+>To:  Bulletin Board Administration
+,    <bb+assocs.womens-center@andrew.cmu.edu>
+>Subject:  Re: Cold-Blooded Exploitation
+>CC: 0 Christopher John Newman <cn0h+@andrew.cmu.edu>,
+@    Bulletin Board Administration <bb+assocs.out@andrew.cmu.edu>
+
+ I know about Basic Instinct and the Jesse Helms like tactics used to try
+and censor it. I plan to see it the first day it comes out to protest this
+censorship. Free Speech activist Nat Hentoff wrote an article in the
+Washington Post over Christmas break that should be required reading for
+all people on this bboard. He wrote how liberals today are just as big a
+threat to freedom of speech as are conservatives and compared
+censorship in the name of sexual harassment and sensitivity with Jesse
+Helms. To him, GLAAD and Jesse Helms are no different. This is certainly
+the case. I don't see heterosexuals complaining about movies in which
+they are killers so it is extremely hypocritical and anal retentive for
+homosexuals to complain about movies in which they are potrayed as
+killers (remember that Jeffrey Dahmer is homosexual)
+ 
+ 
+******************************************************************************
+***
+****
+"Freedom of Speech -- Just Watch What You Say" Ice-T
+"Feminism is an adolescent whine" Camille Paglia
+"Hail to the Redskins. Hail Victory!!!
+  Braves on the Warpath. Fight for old D.C.!!!" ---Redskins fight song 
+******************************************************************************
+***
+****
+
+
+
+
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+From caf-talk Caf Jan 31 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,cmu.general,alt.censorship,alt.politics.correct
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Speech restrictions on CMU computer bboards
+Message-ID: <1992Jan28.223916.20536@eff.org>
+Date: Tue, 28 Jan 1992 22:39:16 GMT
+
+[An editoral from the CMU student newspaper.  Reprinted with
+permission - The Tartan vol 86 issue 14]
+
+----start editorial
+When we arrive at this university, we gain immediate access to Andrew
+accounts which, among other things, allow us to send electronic mail to
+friends, faculty, group organizations, and people at other colleges, and
+allow us to post messages on electronic bulletin boards. Bboards are
+quite popular and have served as an excellent means for sharing common
+ideas and expressing new ones.
+>From time to time, individuals abuse the privilege of using the networks
+by posting racist, prejudicial, or sexually harassing messages on
+bboards. Bboards allow us to communicate quickly and efficiently. They
+also provide a forum for expressing our opinions. However, there is no
+place on the bboards for so-called hate speech, which is nothing but
+counter-productive. Expressing opinions is one thing - harassment and
+deliberately offensive language is something else.
+At this point we should mention 'flaming.' Flames are insults and
+inflammatory language specifically designed to make others angry. Avid
+bboard users tend to find them amusing. Flaming has its place - the
+bboard cmu.opinion, for example, which exists so people can express
+opinions and discuss them or, as the case may be, have flame wars over
+them. Bboards such as cmu.market or assocs.women's-center, on the other
+hand, are not the place for flames, as they were created only for
+announcements, not discussion of any kind. 
+And even when flaming, every bboard user should set limits for him- or
+herself. Harassment is harassment, no matter what the forum.
+If you feel that you have been harassed by email or a bboard post, you
+can take official action. A complaint sent to advisor+@andrew is enough
+to launch an investigation of the incident, potentially resulting in
+punitive action against the offender. 
+Taking matters into your own hands often causes more problems than it
+solves. It can give the offender more attention than he or she deserves,
+and cause further problems for you. Go directly to the authorities -
+that's what they're there for.
+Bboards provide a unique opportunity for communication and opinion
+exchange, often with people you would never otherwise meet. Every Andrew
+user has a responsibility, however, to police him- or herself and keep
+posts appropriate.
+
+----end editorial
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+From caf-talk Caf Jan 28 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,cmu.general,alt.censorship,alt.politics.correct
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Speech restrictions on CMU computer bboards
+Message-ID: <1992Jan28.234454.22561@eff.org>
+Date: Tue, 28 Jan 1992 23:44:54 GMT
+
+The articles in question are sexist and, to most, offensive. However,
+because they were posted in an open university forum they are not
+sexually harassing. Regardless of what CMU claims, it is not
+suppressing sexual harassment; it is suppressing student speech.
+
+The rational CMU is using to suppress speech in this instance could
+easily be applied to other student publications and speech. Based on
+this precedent, it could, for example, punish students for offensive
+pamphlets handed out on campus, offensive statements made at a
+demonstrations, or offensive articles in the student newspaper. The
+precedent might also be used to remove offensive books form the
+library and bookstore.
+
+If CMU was a public university the university could not punish a
+student for sexist articles because the it would be bound to respect
+the Bill of Rights. As a private university, CMU is not bound by the
+Bill of Rights. It is, however, bound by its student code. The student
+codes at most universities guarantee free expression. Also, as a
+university, CMU has a moral obligation to keep the student media
+(including computer media) free of censorship.
+
+As the Joint Statement on Rights and Freedoms of Students says:
+
+------------start----------------------
+  Academic institutions exist for the transmission of knowledge, the
+pursuit of truth, the development of students, and the general
+well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals. As members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth.
+[...]
+  Academic institutions exist for the transmission of knowledge, the
+pursuit of truth, the development of students, and the general
+well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals. As members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth.
+[...]
+  Student publications and the student press are a valuable aid in
+establishing and maintaining an atmosphere of free and responsible
+discussion and of intellectual exploration on the campus. They are a
+means of bringing student concerns to the attention of the faculty and
+the institutional authorities and of formulating student opinion on
+various issues on the campus and in the world at large.
+[...]
+The student press should be free of censorship ...
+------------------end-----------------------
+                 [ftp.eff.org:pub/academic/student.freedoms]
+
+
+_UWM POST v. U. of Wisconsin_ is a recent district court ruling goes
+into detail about the difference between protected offensive
+expression and illegal harassment. It even mentions computer media.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+      [The full text of the decision is available via anonymous ftp from
+      ftp.eff.org as file pub/academic/law/uwm-post-v-u-Wisconsin.]
+
+
+A cornerstone of academic freedom is that "bad speech" should be
+out competed, not outlawed. For this to happen, university forums
+should be protected from university retaliation. This protection
+should include traditional media like the newspaper and new media
+like computer bboards.
+
+- Carl
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+From caf-talk Caf Jan 28 00:00:00 1992
+Newsgroups: alt.politics.correct
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject:  Re: Speech restrictions on CMU computer bboards
+Message-ID: <1992Jan29.221441.18673@m.cs.uiuc.edu>
+Date: Wed, 29 Jan 1992 22:14:41 GMT
+
+cdt@sw.stratus.com (C. D. Tavares) writes:
+
+>To be clearer, what if the issue here is HARRASSMENT, and not "politically
+>incorrect speech?"
+[...]
+>It's one thing to post, "All women are bitches," and another to post
+>"You ugly bitches."
+
+I don't see much difference. I do, however, see a difference between
+sending unwanted email to a person and posting an offensive-to-some
+article in a univeristy forum.
+
+Here is the U. of Wisconsin's old rule. This is rule was found to be
+to vague and broad by a federal judge, yet, it is clearer and narrower
+than the CMU rule. Notice that by definition harassment must be directed
+at an individual.
+
+========== ftp.eff.org:pub/academic/law/uwm-post-v-u-of-wisconsin ==========
+  (2)(a) For racist or discriminatory comments, epithets or other expressive
+behavior directed at an individual or on separate occasions at different
+individuals, or for physical conduct, if such comments, epithets or other
+expressive behavior or physical conduct intentionally:
+  1. Demean the race, sex, religion, color, creed, disability, sexual
+orientation, national origin, ancestry or age of the individual or
+individuals;  and
+  2. Create an intimidating, hostile or demeaning environment for education,
+university-related work, or other university-authorized activity.
+ (b) Whether the intent required under par. (a) is present shall be determined
+by consideration of all relevant circumstances.
+ (c) In order to illustrate the types of conduct which this subsection is
+designed to cover, the following examples are set forth.  These examples are
+not meant to illustrate the only situations or types of conduct intended to be
+covered.
+ 1. A student would be in violation if:
+  a. He or she intentionally made demeaning remarks to an individual based on
+that person's ethnicity, such as name calling, racial slurs, or "jokes";  and
+  b. His or her purpose in uttering the remarks was to make the educational
+environment hostile for the person to whom the demeaning remark was addressed.
+  2. A student would be in violation if:
+  a. He or she intentionally placed visual or written material demeaning the
+race or sex of an individual in that person's university living quarters or
+work area;  and
+  b. His or her purpose was to make the educational environment hostile for the
+person in whose quarters or work area the material was placed.
+  3. A student would be in violation if he or she seriously damaged or
+destroyed private property of any member of the university community or guest
+because of that person's race, sex, religion, color, creed, disability, sexual
+orientation, national origin, ancestry or age.
+  4. A student would not be in violation if, during a class discussion, he or
+she expressed a derogatory opinion concerning a racial or ethnic group.  There
+is no violation, since the student's remark was addressed to the class as a
+whole, not to a specific individual.  Moreover, on the facts as stated, there
+seems no evidence that the student's purpose was to create a hostile
+environment.
+ *3 Wis. Admin.  Code s UWS 17.06(2).
+[Judge's comments:]
+ Thus, in order to be regulated under the UW Rule, a comment, epithet or other
+expressive behavior must:
+  (1) Be racist or discriminatory;
+  (2) Be directed at an individual;
+  (3) Demean the race, sex, religion, color, creed, disability, sexual
+orientation, national origin, ancestry or age of the individual addressed;  and
+  (4) Create an intimidating, hostile or demeaning environment for education,
+university-related work, or other university-authorized activity.
+ In addition to the rule, the UW System issued and circulated to its students
+and faculty a brochure which explains the rule and provides guidance as to its
+scope and application.  See Discriminatory Harassment:  Prohibited Conduct
+Under Chapter UWS 17 Revisions.  This guide provides some illustrations of
+situations where the UW Rule applies and does not apply:
+  Question 1. In a class discussion concerning women in the workplace, a male
+student states his belief that women are by nature better equipped to be
+mothers than executives, and thus should not be employed in upper level
+management positions.  Is this statement actionable under proposed UWS
+17.06(2)?
+  Answer:  No. The statement is an expression of opinion, contains no epithets,
+is not directed to a particular individual, and does not, standing alone,
+evince the requisite intent to demean or create a hostile environment.
+  Question 2. A student living in the University dormitory continually calls a
+black student living on his floor "nigger" whenever they pass in the hallway.
+May the university take action against the name-caller?
+  Answer:  Yes. The word "nigger" is an epithet, and is directed specifically
+at an individual.  Its use and continuous repetition demonstrate the required
+intent on the part of the speaker to demean the individual and create a hostile
+living environment for him.
+  Question 3. Two university students become involved in an altercation at an
+off-campus bar.  During the fight one student used a racial epithet to prolong
+the dispute.  May the university invoke a disciplinary action?
+  Answer:  Perhaps.  Use of the epithet, and its direction to an individual
+suggests a potential violation of proposed s. UWS 17.06(2);  however, because
+the episode occurred off campus, the intent to create a hostile environment for
+university-authorized activities would be difficult to demonstrate.  Additional
+facts would have to be developed if disciplinary action were to be pursued.
+  Question 4. A group of students disrupts a university class shouting
+discriminating epithets.  Are they subject to disciplinary action under the
+provisions related to regulation of expressive behavior?
+  Answer:  Perhaps.  It is clear that the students are subject to disciplinary
+action for disrupting a class under existing s. UWS 17.06(1)(c)3. The question
+is whether they also violated the newly created provision concerning expressive
+behavior, because they shouted epithets while in the course of other
+misconduct.  If the epithets were directed to individuals within class, and
+were intending to demean them and create an intimidating environment, then the
+behavior might also be in violation of the provision concerning expressive
+misconduct.
+  *4 Question 5. A faculty member, in a genetics class discussion, suggests
+that certain racial groups seem to be genetically pre-disposed to alcoholism.
+Is this statement subject to discipline under Chapter UWS 17?
+  Answer:  No. faculty member is in no case subject to discipline under Chapter
+UWS 17, since that chapter applies only to students.  This situation would not
+warrant disciplinary action under any other policy, either, since it is
+protected expression of an idea.
+============================ end =======================
+
+- Carl
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+From caf-talk Caf Jan 30 00:00:00 1992
+From: jm36+@andrew.cmu.edu (John Gardiner Myers)
+Newsgroups: alt.politics.correct,alt.comp.acad-freedom.talk,alt.censorship
+Subject: Fwd: I comment once.
+Message-ID: <8dX8mdS00WBwAAGCdi@andrew.cmu.edu>
+Date: 3 Feb 92 00:28:25 GMT
+
+Here is one the complainant's final word on the subject, as posted on
+the Women's Center's discussion bboard.
+
+---------- Forwarded message begins here ----------
+
+I'm going to say this once.  I have no interest in becoming embroiled
+in a lengthy argument.
+
+	Eric's chastisement is hardly a threat to free speech.
+Firstly, bboards are privately owned.  Constitutional protections
+don't count for anything on private property.  The university is NOT
+the government, and there actions with their property have nothing to
+do with governmental restrictions, as in "Congress shall make no law...
+abridging the freedom of speech."
+
+	A more important question is:  what is more important to the
+university community, the intellectual commitment to free speech or
+the commitment to the free exchange of ideas?  They are not identical.
+
+	Attempts to reduce discussions into heated exchanges of emotionally
+charged rhetoric block the free exchange of ideas.  Participants lose
+perspective and what might have become an exchange where individuals walked
+away with a better understanding of their opposites' opinion instead walk
+away with
+
+	In many cases, extreme emotional reaction to opinions can be 
+considered unreasonable, a mark of immaturity.  However, there are certain
+areas which are particularly sensitive due to our culture's history.  Old
+biases that are the direct cause of past oppression leave scars even when
+the explicit oppression is past.  Carnegie Mellon recognizes such areas
+through its harassment policies, singling out harassment on the basis of
+gender, sexual orientation, race, religion, etc.
+
+	The need for the existence of the Women's Center is largely
+due to the biases our culture introduces, placing the male in the role
+of protector and provider and the female in the role of nurturing 
+house-maker.  Such roles also include the implicit retaliation, whether
+physical or social, against those who refuse to live those roles.  
+
+	These self-propagating roles are largely artificial (see research by
+Masters and Johnson, particularly the "Gender Roles" chapter of _Masters and
+Johnson on Sex and Human Loving_).  These roles are also obsolete.
+
+	As a society, we have consciously decided that differences in
+gender are not relevant to the possession of rights and protection
+under the law, but society lags behind, leaving sensitive scars.  Women
+resist, often cautiously, their old submissive roles, but frequently distrust
+men on the basis of the old gender roles.  
+
+	This same change leaves men who have never accepted either set of
+gender roles in a sensitive position as well.  It isn't a matter of the "Alan
+Alva sensitivity" that is so often sneered at.  It's a matter of implicitly
+being accused for crimes of oppression that one has not committed, of living with
+the mistrust of half the human race because of progenitor's crimes.
+
+	As far as I'm concerned, Eric's posts were an attempt at harassment
+(he has stated that he was trying to start a flame war) that had the effect
+casting me and other males in a supporting role, a role that I bitterly
+reject.  His harassment was directly opposed to University policy, and I called
+him on it.  Pure and simple.
+
+	There is a tendency for people to cry "free speech" whenever anybody
+is held accountable for the action of posting.  This cry is inappropriate when
+said speech was directly aimed for particularly sensitive spots left by our
+culture with the clear intention to hurt, whether the harm was for its own sake
+or whether that harm is intended to elicit a spirited response.
+
+	Why are people objecting to the gentle enforcement (how can the
+university's handling be characterized as anything but gentle?  No punitive
+actions were taken) of the harassment policy, but not to the harassment policy
+itself? 
+
+[[signature elided --jgm]]
+
+
+
+
+
+
+

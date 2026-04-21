@@ -1,0 +1,1043 @@
+Computers and Academic Freedom News
+Vol. 02, No. 02
+
+[Week ending 12 Jan 1992
+
+   [The guest editor this issue is Paul Joslin (joslin@tso.uc.edu).
+    - Carl Kadie]
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Note 1 discusses whether an information provider is responsible
+for an information requestor's use of NSFNET.
+
+1.  Is it proper for a site to cut off access to my site if I refuse
+to remove material they find offensive?
+    A site may sever contact. "Your freedom to talk doesn't require
+them to listen." An information provider is not required to remove
+materials, but might find access blocked by other sites. The NSFNET
+Project Office may determine whether a use is appropriate or not.
+    <1992Jan6.070807.109@sdg.dra.com>
+
+Notes 2-4 are about the Cubby, Inc. vs CompuServe libel case.
+
+2. Mike Godwin (mnemonic@eff.org): By granting CompuServe's request
+for a summary judgment (finding CompuServe not liable), the court has
+strengthened first amendment protection for online services.  The
+judge's decision holds that CompuServe was a distributor, not a
+publisher. Like a bookstore owner, CompuServe is not required to
+review everything it carries prior to providing it to its customers.
+    <1992Jan6.204341.5096@eff.org>
+
+3. (A moderator:) Why hasn't Smith v. California affected record store
+owners prosecuted for selling obscene albums?  If it is because the
+stores were informed that they had obscene albums and declined to
+purge them, how will this effect an information provider who is asked
+to remove questionable material?  Can they be held liable for its
+content?
+    <1992Jan07.061636.26835@clarinet.com>
+
+4. Although CompuServe received a summary judgement, the case against
+the person posting the alleged defamatory material, and the third
+party contracted to operate the forum continues.  A 'moderator' who
+prescreens material may increase their liability, since they are more
+like publishers than bookstore owners.
+    <1992Jan8.183626.24959@eff.org>
+
+Note 5 provides a reference to a discussion of libraries and
+minor-access laws.
+
+5. kadie@m.cs.uiuc.edu (Carl M. Kadie): "American Library Association
+policy forbids libraries from limiting access because of a patron's
+age." However, "Only a few states have legal definitions of a
+library."  Whether a BBS or Usenet site is considered a library might
+depend on how it is run.
+    <1992Jan8.215233.24855@m.cs.uiuc.edu>
+
+Notes 6-9 discuss the recent removal of IRC software from users'
+accounts at the University of Wyoming.
+
+6. (A student:) I compiled an IRC client and master on a computer at U
+Wyoming.  I provided access to this software to other users.  Upon
+receiving complaints, the system administrators removed access for all
+users who had used IRC.  In order to get their accounts back, the
+users had to remove all IRC software from their accounts and agree not
+to use IRC on the computer.  "After I agreed to do this, my (Cluster)
+account was reinabled and I was told 2 hours later it would be
+searched for IRC files. If any were ever found again, I would be
+disusered without hope for reinstatement."
+    <3803321809011992_A11466_POSSE_11614C9F3200*@mrgate.uwyo.edu>
+
+7. Even if the university was within its legal rights, did it have the
+moral right to take this action?  Specifically, should the
+administrator have suspended the accounts before establishing that the
+user had done something wrong?  And should he have searched user files
+without authorization?
+    <199201101800.AA13167@eff.org>
+
+8. "If the University has contractual or legal requirements for due
+process in the revocation of computer accounts, then he and the others
+who lost their accounts may very well have a case."  A university may
+have legal or contractual obligations to the users of its facilities.
+    <199201101912.AA15236@eff.org>
+
+Note 9 gives an overview of a recent discussion on hackers, computer
+privacy, and the government's role in computer security.
+
+9. Guests on KQED's Forum program, including Cliff Stoll, Steve Sawyer
+and Jay Ward, discussed computers and security.  Topics included the
+difference between crackers and hackers, corporate policies on
+privacy, and the Buckley Amendment (student access to university
+records).
+    <1992Jan11.083311.25336@odin.corp.sgi.com>
+
+Note 10 discusses a case at UC Berkeley which points to an apparent
+conflict between the Buckley Amendment and the Electronic
+Communications Privacy Act.
+
+10. The family of a student disciplined for allegedly breaking into
+university computers is suing the university.  They have requested all
+records stored on two mainframes concerning the student. The
+university has searched all files on these mainframes for the
+student's login id.  The university will seek to stop execution of the
+order on the grounds that examining each file would be an undue burden
+(and not on privacy grounds).
+    <kmtd4bINN8tc@agate.berkeley.edu>
+
+Note 11 is a reminder that "ALT" news groups are created and managed
+differently.
+
+11. Carl Kadie: You cannot create a news group and expect Usenet sites
+to enforce your charter.  Matthew Russotto: "Most importantly, don't
+create an ALT group and expect ANYTHING to be enforced."
+    <1992Jan12.025341.4239@eng.umd.edu>
+
+- Paul]
+
+
+In this issue:
+
+sean@sdg.dra.com 59  >The USENET pornographic network
+Mike Godwin     115  >Effect of the Compuserve decision
+Brad Templeton   44  >
+Mike Godwin      56  >The CI$ Case
+Carl M. Kadie    74  >[URGENT]: ACCESS LAWS TO <>ALLY-EXPLICIT ONLINE MATERIAL
+Robert Wedlock   37  IRC outlawed at U Wyoming...
+Carl M. Kadie    54  -
+C Davis          57  >
+Eliot Lear       91  hackers, crackers, privacy on KQED
+Dean Pentcheff  157  UC computer searches (was<>rs, crackers, privacy on KQED)
+M T Russotto     19  >ALT.womyn.ONLY
+
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the line:
+  send acad-freedom README
+
+Disclaimer: This CAF-news was compiled by a guest editor or by me,
+Carl M. Kadie. It is not an EFF publication. The views I express and
+editorial decisions I make are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From caf-news Fri Jan 24 08:48:19 1992
+From: sean@sdg.dra.com
+Subject: Re: The USENET pornographic network
+Message-ID: <1992Jan6.070807.109@sdg.dra.com>
+Date: 6 Jan 92 13:08:07 GMT
+References: <FISCHER.91Dec10154555@loke.iesd.auc.dk>  <1992Jan5.023936.10850@eff.org> <1992Jan5.003533.107@sdg.dra.com> <1992Jan5.161331.29246@eff.org>
+
+In article <1992Jan5.161331.29246@eff.org>, kadie@eff.org (Carl M. Kadie) writes:
+> Are you suggesting that it would be proper for Boston University to
+> call me on the phone and tell me to either remove everything
+> "offensive" from the CAF archive or else they will cut off *all*
+> contact between our two sites (e.g. email, ftps to inoffensive
+> material, etc)? I concede that such an ultimatum would likely be
+> legal, but would it be proper in terms of academic freedom?
+
+I don't think that BU (or anybody) has to give any reason for not
+communicating with another site.  If they were polite, I think it would
+be phrased more along the lines "Please don't make such material available
+to connections originating at <wherever>."  If they don't receive cooperation
+>from your end (which you don't have to give), then they can severe their
+links to preserve what ever they are trying to preserve.  Your freedom to
+talk doesn't require them to listen.
+
+> Why should the information provider be required to stop an information
+> requester from (maybe) violating the rules of NSFNet?
+
+Stephen Wolff has stated that there's no attractive nuisance statute on
+the NSFNET.  So in general the IP isn't required to do so.  But such an IP
+may find the number of sites with which he can communicate dwindling.  Much
+like "900" numbers are blocked from many school phones, network administrators
+will find it easier to block all attempts to communicate with such a site
+rather than trying to control their users.  An IP that wants the widest
+accessibility for its information will need to meet the largest set of network
+policies possible.
+
+However some IP's may be more valuable to the network than the network to
+the IP.  For example the Library of Congress and the Vatican Library have
+some of the largest collections of erotic literature in the world.   I would
+imagine a network administrator would suffer severe bodily damage from angry
+clients if they attempted to block access to those places just because they had
+erotic material in an FTP area.
+
+> The NSFNet rules (ftp.eff.org:pub/academic/polices/nsf) apply only to
+> the use of the net (for example, doing an anonymous ftp). Making
+> information available to NSFNet (and dozens of other nets and
+> thousands of sites) is not a use of NSFNet (or the other nets or
+> sites).
+
+There is an escape clause in the AUP.  NSF may rule anything to be
+incompatible with the purposes of the NSFNET.  "Uses" means whatever
+they want it to mean.
+
+  From the NSFNET AUP:
+  >      (3) The NSF NSFNET Project Office may at any time make
+  >          determinations that particular uses are or are not
+  >          consistent with the purposes of NSFNET. Such determinations
+  >          will be reported to the NSFNET Policy Advisory Committee
+  >          and to the user community.
+
+However I know of no such determinations ever being reported to the user
+community.  So far all the actions have been taken "voluntarily" by the
+individual sites.
+--
+Sean Donelan, Data Research Associates, Inc, St. Louis, MO
+Domain: sean@sdg.dra.com, Voice: (Work) +1 314-432-1100
+-------------------
+
+
+
+From caf-news Fri Jan 24 08:49:01 1992
+From: mnemonic@eff.org (Mike Godwin)
+Subject:  Re: Effect of the Compuserve decision
+Message-ID: <1992Jan6.204341.5096@eff.org>
+Date: Mon, 6 Jan 1992 20:43:41 GMT
+
+In article <1992Jan5.144430.23171@usenet.ins.cwru.edu> an104@cleveland.Freenet.Edu (Ric Helton) writes:
+
+>What, if any, effect did the decision have that held Compuserve
+>not liable for the contents of the newsletter defaming some other
+>individual have on the rest of the industry?  Is this a signal from
+>the court that they are ready to treat online systems as common
+>carriers, or grant some other protections such as a library or
+>bookstore or whatever might have?  What is the state of sysop
+>liability?  
+
+The following is an editorial that will appear in the next issue of
+EFFector Online:
+
+                         THE COMPUSERVE CASE:
+    A STEP FORWARD IN FIRST AMENDMENT PROTECTION FOR ONLINE SERVICES.
+                   By Mike Godwin (mnemonic@eff.org)
+
+
+
+
+By now you may have heard about the summary-judgment decision in Cubby,
+Inc. v. CompuServe, a libel case. What you may not know is why the
+decision is such an important one. By holding that only if CompuServe
+had "actual knowledge" of the defamation would it be liable, the court
+in this case correctly analyzed the First Amendment needs of most online
+services. And because it's the first decision to deal directly with
+these issues, this case may turn out to be a model for future decisions
+in other courts.
+
+
+The full name of the case, which was decided in the Southern District
+of New York, is Cubby Inc. v. CompuServe. Basically, CompuServe
+contracted with a third party for that user to conduct a special-interest
+forum on CompuServe. The plaintiff claimed that defamatory material
+about its business was posted a user in that forum, and sued both the
+forum host and CompuServe. CompuServe moved for, and received, summary
+judgment in its favor.
+
+
+Judge Leisure held in his opinion that CompuServe is less like a
+publisher than like a bookstore owner or book distributor. First
+Amendment law allows publishers to be liable for defamation, but
+not bookstore owners, because holding the latter liable would create
+a burden on bookstore owners to review every book they carry for
+ defamatory material. This burden would "chill" the distribution of
+books (not to mention causing some people to get out of the bookstore
+business) and thus would come into serious conflict with the First
+Amendment.
+
+
+So, although we often talk about BBSs as having the rights of
+publishers and publications, this case hits on an important
+distinction. How are publishers different from bookstore owners?
+Because we expect a publisher (or its agents) to review everything
+prior to publication. But we *don't* expect bookstore owners to
+review everything prior to sale. Similarly, in the CompuServe case,
+as in any case involving an online service in which users freely post
+messages for the public (this excludes Prodigy), we wouldn't expect
+the online-communications service provider to read everything posted
+*before* allowing it to appear.
+
+
+It is worth noting that the Supreme Court case on which Judge Leisure
+relies is Smith v. California--an obscenity case, not a defamation case.
+Smith is the Supreme Court case in which the notion first appears that
+it is generally unconstitutional to hold bookstore owners liable for
+content. So, if Smith v. California applies in a online-service or BBS
+defamation case, it certainly ought to apply in an obscenity case as well.
+
+
+Thus, Cubby, Inc. v. CompuServe sheds light not only on defamation law
+as applied in this new medium but on obscenity law as well. This
+decision should do much to clarify to concerned sysops what their
+obligations and liabilities are under the law.
+
+
+----------
+Highlights of the CompuServe decision (selected by Danny Weitzner):
+
+
+"CompuServe's CIS [CS Information Service] product is in essence an
+electronic, for-profit library that carries a vast number of
+publications and collects usage and membership fees from its
+subscribers in return for access to the publications. CompuServe
+and companies like it are at the forefront of the information
+industry revolution. High technology has markedly increased the
+speed with which information is gathered and processed; it is now
+possible for an individual with a personal computer, modem, and
+telephone line to have instantaneous access to thousands of news
+publications from across the United States and around the world.
+While CompuServe may decline to carry a given publication altogether,
+in reality, once it does decide to carry a given publication, it will
+have little or no editorial control over that publication's contents.
+This is especially so when CompuServe carries the publication as part
+of a forum that is managed by a company unrelated to CompuServe.
+"... CompuServe has no more editorial control over ... [the publication
+in question] ... than does a public library, book store, or newsstand,
+and it would be no more feasible for CompuServe to examine every
+publication it carries for potentially defamatory statements than it
+would for any other distributor to do so."
+"...Given the relevant First Amendment considerations, the appropriate
+standard of liability to be applied to CompuServe is whether it knew or
+had reason to know of the allegedly defamatory Rumorville statements."
+
+
+Cubby, Inc. v. CompuServe, Inc. (90 Civ. 6571, SDNY)
+
+
+
+-- 
+Mike Godwin,     |      Rear Admiral Grace Murray Hopper (USNR Ret.) 
+mnemonic@eff.org |                1906-1992 
+(617) 864-0665   |            Requiescat in pace.
+EFF, Cambridge   |
+-------------------
+
+
+
+From caf-news Fri Jan 24 08:49:19 1992
+From: brad@clarinet.com (Brad Templeton)
+Subject:  Re: Effect of the Compuserve decision
+Message-ID: <1992Jan07.061636.26835@clarinet.com>
+Date: 7 Jan 92 06:16:36 GMT
+
+I wonder why Smith v. California has had not effect on the matter of
+record store owners who have been prosecuted and fined for carrying
+2 live Crew albums?
+
+Is it because:
+	a) Their cases haven't made it up to a court that favours this
+		argument.
+
+	b) The record stores were informed that they had obscene records
+		in stock and declined to purge them?
+
+If the latter, this still can mean trouble when it comes to defamation.
+If you have a BBS and there is material on it that somebody claims is
+defamatory (or obscene for that matter) are you required to then make
+an examination of it, followed by a decision to keep or remove it, and
+are you then going to be liable for its content?
+
+I guess that's not too bad, but what standards of care are they going to
+apply in such cases?  How do you know if something is libel or obscenity?
+Are you to be forced to remove anything that is "risky" to be on the safe
+side?   This can have a chilling effect, too.
+
+I guess video stores that try to carry porn in non-porn states have run into
+this problem a lot.   I wonder how it will apply to electronic forums.
+
+I, of course have a strong interest here.  I do read everything posted to
+rec.humor.funny in advance, and filter based on value judgements of the comedy.
+I also pledged not to make value judgements on the politics or obscenity,
+though I do not feel so bound when it comes to defamation of non-public
+figures (such stuff rarely has widespread comedy appeal anyway.)
+
+Will one be allowed, I wonder, to have a policy such as I have?  After
+all, a bookstore, like me, is selective of what it stocks.  Bookstores
+don't stock everything and chose what is on the shelves through some sort
+of value judgement -- be it quality or (more likely) propensity for sales.
+As such, a good bookstore, in many people's opinion, would not refuse to
+stock a controversial or offensive book if it's a good book by other standards.
+Are bookstores in trouble for stocking defamatory books they have heard to
+be defamatory?  That they know to be defamatory?
+
+And how will this apply to online editors such as myself?
+-- 
+Brad Templeton, ClariNet Communications Corp. -- Sunnyvale, CA 408/296-0366
+-------------------
+
+
+
+From caf-news Fri Jan 24 08:51:03 1992
+From: mnemonic@eff.org (Mike Godwin)
+Subject:  Re: The CI$ Case
+Message-ID: <1992Jan8.183626.24959@eff.org>
+Date: Wed, 8 Jan 1992 18:36:26 GMT
+
+In article <447.296A4E34@puddle.fidonet.org> Harry.Lee@p1.f202.n321.z1.fidonet.org (Harry Lee) writes:
+
+> Can you tell us how the decision related to the third party contracted?
+
+The case was not dismissed as to the operators of the forum or the poster
+of the allegedly defamatory messages.
+
+> I.E., if CI$ was the "bookstore", was the third party the "publisher?"
+
+Possibly. Whether the "bookstore" or "publisher" analogy is appropriate
+will vary depending on the facts of particular cases, it seems to me.
+Some "moderators" do no pre-screening of messages at all. Others
+prescreen all messages before allowing them to be available publicly.
+Moderators of the first sort are more like bookstore owners, it seems
+to me, while those of the second sort are more like (but not entirely
+like) publishers.
+
+In the CompuServe decision, the only party to win a summary judgment
+dismissal (so far) has been CompuServe.
+
+> While encouraging, it's not clear to me this is 100% protection.
+
+What ever is?
+
+> I have
+> no third parties contracted to post stuff on my system, unless you
+> consider the implicit contracts between myself and my users, and myself
+> and the networks whose conferences I make available.
+
+The reasoning of the decision does not depend on a contractual
+relationship. If you run your system by allowing users to post stuff
+without your pre-screening, that's the relevant consideration.
+
+> Are CI$ posts screened before making them available to the public, or are
+> they simply removed as quickly as possible if they are out of line?
+
+The latter.
+
+It should be noted that *post-hoc* removal of material shouldn't
+affect the "bookstore" analogy, since actual bookstores often make
+decisions to quit carrying a book or periodical, and these decisions
+would not be seen as transforming the bookstore owner into a publisher.
+
+
+
+--Mike
+
+
+
+
+-- 
+Mike Godwin,     |"In broadcasting, freedom of the speech and of the
+mnemonic@eff.org | press has been compromised.... Full, robust citizen
+(617) 864-0665   | participation in a democratic forum casts only a 
+EFF, Cambridge   | shadow on the tube."   --Ithiel de Sola Pool
+-------------------
+
+
+
+From caf-news Fri Jan 24 08:51:29 1992
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject: Re: [URGENT]: ACCESS LAWS TO SEXUALLY-EXPLICIT ONLINE MATERIAL
+Message-ID: <1992Jan8.215233.24855@m.cs.uiuc.edu>
+References: <7JAN199223555756@cc.utah.edu> <1992Jan8.184500.25535@eff.org>
+Date: Wed, 8 Jan 1992 21:52:33 GMT
+
+An aside:
+
+Libraries in some states (like Michigan [1]) are explicitly
+exempt from minor-access laws. The American Library Association works
+for such exceptions.
+
+American Library Association policy forbids libraries from limiting
+access because of a patron's age. They say that access restrictions
+(if any) should come only from a minor's parents
+[see ftp.eff.org:pub/academic/library/README]
+
+Only a few states have legal definitions of a library. Some of those
+definitions might cover a BBS (and/or a Usenet site) depending on how
+the BBS is run [2] [also see ftp.eff.org:pub/academic/books/ladenson,_alex].
+Also, in the CompuServ decision the judge said "CompuServe's CIS [CS
+Information Service] product is in essence an electronic, for-profit
+library that carries a vast number of publications and collects usage
+and membership fees from its subscribers in return for access to the
+publications." [see ftp.eff.org:pub/academic/law/cubby-v-compuserv]
+
+Referenced Books:
+
+1. marc:
+     am   ocm17-358690  db   01/25/89  01/25/89  --/--/--  Lincoln   Lincoln 
+        TILN0   $ab    $Before and after the censor :$a resource manual on 
+                       intellectual freedom.
+        IMP     $abc   $:Michigan: :$Michigan Association for Media in 
+                       Education and Michigan Library Association, 
+                       Intellectual Freedom Committees,$1987.
+        COL     $abc   $ 160 p. :$forms ;$28 cm.
+        NOG     $a     $Bibliography: p. 149-153.
+        SUT L   $axx   $Libraries$Censorship$Handbooks, manuals, etc.
+        SUT L   $ax    $Censorship$Handbooks, manuals, etc.
+        SUT L   $ax    $Freedom of information$Handbooks, manuals, etc.
+        AECNA   $ab    $Michigan Association for Media in Education.$
+                       Intellectual Freedom Committee.
+        AECNA   $ab    $Michigan Library Association.$Intellectual Freedom 
+                       Committee.
+        CAS     $acd   $EZF$EZF$IEH
+        LON     $a     $ocm17358690 
+        FFD      CONF=       FEST=      INDEX=    ME IN B= 
+             INTEL LV=        FIC=       BIOG=        LAN=eng  DAT KY=s
+                DATE1=1987  DATE2=       CNTY=miu   ILLUS=k     REPRO= 
+             CONTENTS=bf    MODRC=      CAT S=d   GOV PUB=   CAT FORM=a
+
+     am   ocm10-185522  db   10/04/85  10/04/85  09/15/90      4096  Lincoln 
+        LCDN    $abcde $2$3$3$3$3
+        TILN0   $ac    $American library laws /$Alex Ladenson, editor.
+        EDN     $a     $5th ed.
+        IMP     $abc   $Chicago :$American Library Association,$1983.
+        COL     $ac    $x, 2009 p. ;$27 cm.
+        NOG     $a     $Includes index.
+        SUT L   $az    $Library legislation$United States.
+        AEPSA   $ad    $Ladenson, Alex,$1907-
+        AECNA   $a     $American Library Association.
+        GAC     $a     $n-us---
+        SBN     $ac    $0838904009 (alk. paper) :$$$65.0
+        CAL     $ab    $KF4315$.A4 1983
+        DDCF    $aa2   $344.73/092$347.30492$19
+        CAS     $acd   $DLC$DLC$UIU
+        LON     $a     $ocm10185522 
+        FFD      CONF=       FEST=      INDEX=x   ME IN B= 
+             INTEL LV=        FIC=       BIOG=        LAN=eng  DAT KY=s
+                DATE1=1983  DATE2=       CNTY=ilu   ILLUS=      REPRO= 
+             CONTENTS=      MODRC=      CAT S=    GOV PUB=   CAT FORM=a
+
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+--------------------
+--
+Helen C. O'Boyle            | Co-moderator, Computers and Academic Freedom list
+helen@eff.org               | << insert usual disclaimer here...  my opinions
+isy5hob@cabell.vcu.edu      | are mine alone, not EFF's or VCU's, etc. >>
+
+
+From caf-news Fri Jan 24 08:55:53 1992
+From: RWED@corral.uwyo.edu (Robert Wedlock)
+Subject:  IRC outlawed at U Wyoming...
+Message-ID: <3803321809011992_A11466_POSSE_11614C9F3200*@mrgate.uwyo.edu>
+Date: 10 Jan 92 01:38:00 GMT
+
+Hello... this is Surfdog/Zonker
+
+  I wanted to tell all the operators about what happened to IRC here
+  at the University of Wyoming, to show what a can of worms it might
+  potentially be. You probably want to make real sure that the admins
+  of the computers it will be used on know exactly what it is. 
+
+  Anyway... Wyoming has 1 university here in Laramie. However the 7
+  community colleges located about the state have direct access to
+  our network (129.72). And hence they get accounts on our main 
+  computer.. a cluster of 2 VAX 8800's running VMS5.4-2. By virtue
+  of being a student at a college in Wyoming you are granted a VMS
+  account. It was on this cluster (outlaw/posse) that I compiled a
+  client for VMS and gave people easy access to. Then, on another
+  ultrix system (master) I installed a server. Master is a computer
+  on which grad students & students with projects may use. Anyway
+  root@master got a few complaints about IRC. Over 20 people at
+  the University of Wyoming were dis-usered. (people who "system" knew
+  used IRC. (system is like root for a VMS machine) In order to get thier
+  accounts back, they must remove all traces of IRC from thier directories
+  and agree to refrain from IRC-related activities while on the cluster.
+  After I agreed to do this, my (Cluster) account was reinabled
+  and I was told 2 hours later it would be searched for IRC files. If
+  any were ever found again, I would be disusered without hope for
+  reinstatement. I dont know whats going to happen to the ultrix account.
+  I have to attend a meeting to discuss things about it. MAster has been
+  down all day, so I dont know... anyway.. The consultant I talked to about
+  it said that "IRC was like a disease, you'd get someone an account and
+  minutes later she'd see the files in their directory". I feel really bad
+  about having a hand in so many people losing their accounts :(
+
+  I send a CC of the letter I wrote to my admin about removing IRC to
+  operlist so you can see...
+
+  Learn from my experience... be very careful what you do with your 
+  access to computers.. that can really get you in trouble..
+
+  
+
+
+
+
+
+
+
+
+
+-------------------
+
+
+
+From caf-news Fri Jan 24 08:56:33 1992
+From: kadie@eff.org (Carl M. Kadie)
+Subject: IRC outlawed at U Wyoming...
+Message-ID: <199201101800.AA13167@eff.org>
+Sender: kadie
+References: <9201101641.AA05345@vangogh.CS.Berkeley.EDU>
+Date: 10 Jan 92 08:00:56 GMT
+
+In open email chelsea@vangogh.CS.Berkeley.EDU writes
+
+>  As long at the university is paying for the network services, paying 
+>  for the equipment, paying for the people to maintain and operate the
+>  equipment, etc, then they can do WHATEVER they like. The equipment is 
+>  private owned.
+
+Like any organization, a public university must work within its
+charter and rules. For state university, this includes the U.S.
+Constitution, the state constitution, and the rules set down in the
+university's Student Code. These documents constrain the university
+and its agents. Specifically, they prohibit unreasonable searches and
+they require some due process.
+
+[see ftp.eff.org:pub/academic/law/constraints.constitutional and
+     ftp.eff.org:pub/academic/law/constraints.contractual and
+     ftp.eff.org:pub/academic/law/README]
+
+Beyond legal responsibilities, a university and its agents also have a
+moral responsibility to respect the academic freedom of its users.
+
+>  By dragging in lawyers,
+
+My original note made no mention of law or lawyers. The statement that
+I quoted, the Joint Statement on Rights and Freedom of Students, does
+not have the force of law. It does, however, have great moral force,
+having been endorsed by, for example, the American Association of
+University Professors, the U.S. National Student Association, and the
+Association of American Colleges.
+
+The thesis of my original note was that two actions by the University
+of Wyoming's were *morally* wrong. Specially, it was wrong for the
+University to suspend users from the computer system before
+establishing that they had done something wrong. Also, it was wrong
+for the university to search user computer files without the same kind
+of authorization that would be needed to search a professor's file
+cabinet in University-assigned office space.
+
+> and trying to fight this ruling,
+>  is feeding the growing fire of animosity towards irc. Give it up. The
+>  site is gone. Push your luck, and then only organizations like eff.org
+>  and std.com will have irc. I am sad that we lost a site as important
+>  as that, however, its a good example for the rest of us.
+[...]
+
+My note did not address the wisdom or propriety of prohibiting IRC.
+
+My note did not address the wisdom or propriety of challenging
+the prohibition.
+
+--
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+
+
+From caf-news Fri Jan 24 08:57:26 1992
+From: ckd@eff.org (Christopher Davis)
+Subject:  Re: IRC outlawed at U Wyoming...
+Message-ID: <199201101912.AA15236@eff.org>
+Date: 10 Jan 92 09:12:11 GMT
+
+ CD>  == Chelsea Dyerman <chelsea@vangogh.CS.Berkeley.EDU> 
+
+ CD> 	As long at the university is paying for the network services,
+ CD> paying for the equipment, paying for the people to maintain and
+ CD> operate the equipment, etc, then they can do WHATEVER they like.
+ CD> The equipment is private owned.
+
+No, in many cases the equipment is owned by an agency of the state
+government, as I believe UWyo is a state school.
+
+ CD> By dragging in lawyers, and trying to fight this ruling, is feeding
+ CD> the growing fire of anomosity towards irc. Give it up. The site is
+ CD> gone. Push your luck, and then only organizations like eff.org and
+ CD> std.com will have irc.
+
+They came for the Jews, and I did not speak up, for I was not a Jew.
+They came for the Catholics, and I did not speak up, for I was not a Catholic.
+
+Those who do not remember history are doomed to repeat it, and I don't
+think that knuckling under to heavy-handedness is the answer.
+
+Nor is hiding and hoping they don't find out about IRC.
+
+(I might also point out that, if "only organizations like eff.org and
+std.com will have irc", it's still no tragedy; accounts on world.std.com
+don't cost *that* much, and if people really want IRC, they'll be
+willing to pay for it.  Also, if there's money in it, it might get more
+people developing for it; you might note that C News is currently being
+worked on at ST&D on a contract for UUNET.)
+
+ CD> I am sad that we lost a site as important as that, however, its a
+ CD> good example for the rest of us. Let me try this logic: If I ran a
+ CD> BBS on a personal computer, and it was accessed through a public
+ CD> telephone system, and I paid for the bills, I would have the say so
+ CD> of who could and couldnt use that system. If I had a user that was
+ CD> problematic, I could and most certainly removbe that user.  There
+ CD> is little difference here.
+
+If the University has contractual or legal requirements for due process
+in the revocation of computer accounts, then he and the others who lost
+their accounts may very well have a case.  I would be very interested in
+seeing UWyo's computer use policy.
+
+Please remember that a state university, or even a private university
+that has specific contractual agreements with users of its computer
+facilities, cannot be whimsical in the same way that a private person or
+organization can be.
+
+A public library can't kick people out for violating an unannounced or
+unwritten rule.  A bookstore can (barring violations of the civil rights
+laws, not that those have too many teeth left these days).
+
+I do not assert that the UWyoming students have a "right" to IRC, nor
+that they have a "right" to computer accounts.  However, if the policy
+says that accounts may only be removed for certain offenses, and/or that
+there is an appeals procedure, they may very well have a case.
+-------------------
+
+
+
+From caf-news Fri Jan 24 08:59:57 1992
+From: lear@oni.sgi.com (Eliot Lear)
+Subject:  hackers, crackers, privacy on KQED
+Message-ID: <1992Jan11.083311.25336@odin.corp.sgi.com>
+Date: Sat, 11 Jan 1992 08:33:11 GMT
+
+[Followups to comp.org.eff.talk.]
+
+Friday morning KQED's Forum program hosted a wide ranging discussion
+of hackers, crackers, computer privacy, the government's role, and
+corporate America's role in balancing computer security and privacy.
+Guests included Cliff Stoll, author of _The Cuckoo's Egg_; Steve
+Sawyer, cohost of The Hackers' Conference on The Well; Jay Ward(?),
+founder of InfoWorld; and a member of The Legion of Doom (Chris ???,
+apologies if you're reading this).  Credit must be given to all
+participants, who conducted a thoughtful and provocative one hour
+discussion.  I've mixed in some of my own comments in the summary
+below.  Apologies for any errors or omissions (like Chris' last
+name!).
+
+Notably Steve Sawyer and Jay Ward went to great pains to stress the
+difference between hacker and cracker.  Though there are differences
+of opinion on just how bad crackers are, most participants seemed to
+agree that crackers are not the major threat to society.  More often
+it is the case that the white collar worker uses authorized access to
+some resource for unauthorized use.  I particularly liked Cliff
+Stoll's characterization of a hacker, someone who just simply must
+dance on the keyboard.
+
+Cliff Stoll talked about the balance between individual privacy and
+the community's interests in snooping in order to learn.  Chris from
+LOD also stated that members were primarily interested in the pursuit
+of knowledge.
+
+A discussion on corporate policies towards privacy revealed at least
+some sort of agreement among the participants that no matter what
+policy a company uses, it should publicize it to its employees and
+stick to it.  I believe it was Mr. Ward who mentioned that Sun
+Microsystems has a very strict privacy policy against indiscriminate
+snooping in others' mail files, while other institutions declare that
+all employee files are property of the employer, and that there should
+be no expectation of privacy.
+
+A breaking story involving litigation between U.C. Berkeley and a
+student who is undergoing disciplinary review was also briefly
+mentioned.  For those who are not yet aware of the case, the pertinent
+information for the discussion was a court order requiring Berkeley to
+search all their computers for any files containing the student's user
+or login name.  I am told that in this particular case, U.C. is the
+defendant.  According to a Berkeley student's posting, the search is
+occurring pursuant to The Buckeley Amendment to the California Family
+Education Rights and Privacy Act, which apparently takes precedence
+over the Electronic Communications Privacy Act of 1986 (ECPA), as it
+is believed that ECPA allows such orders.
+
+According to a panelist, wide searches (fishing expeditions) are the
+latest tactic being used by litigation firms to prove damages in cases
+ranging from stock holder suits to harassment.  Note that the
+examples involve civil remedies.  Another panelist couldn't help but
+note some level of irony when those employers who claim ownership of
+all files get attacked by one of these court orders.  On the other
+side, such searches are particularly scary in a distributed
+environment, where quite literally hundreds of machines may be
+involved.
+
+To prevent such overly broad searches, a number of panelists argued
+for a higher level of technical competence among law enforcement
+officials and judges.  Of course, a line like that could only lead to
+Steve Jackson Games, in which Steve Jackson (with the help of EFF?)
+is suing the government for improper use of a search warrant.
+
+The S.266 fiasco involving ``It is the sense of Congress...'' was
+discussed to some extent.  This was the piece of text that would
+required back doors for encryption.
+
+Towards the end off the program, one person on the panel made the
+claim that there isn't any legislation to guide law enforcement and
+corporate management in setting policies.  This same person then went
+on to say that ``...even bad legislation would be better than none at
+all, because at least we would know where we stand.''  I must
+disagree, and shamelessly steal one of Erik Fair's favorite sayings
+(or at least paraphrase it): ``There are two ways to kill USENET - a
+nuclear war and an act of Congress.''  S.266 was a perfect example of
+legislation that would have made life worse and not better.  One need
+not have a vivid imagination to envision the government doing more
+harm than good - it happens all the time.
+
+It was claimed that the federal government is undertaking a war on
+hackers, including a disinformation campaign through the use of laws
+meant to fight the war on drugs.  I'd like to get more information on
+what the person knows, and what evidence exists to support such a
+claim.  Perhaps the participants in the discussion could comment
+further?
+--
+Eliot Lear
+[lear@sgi.com]
+-------------------
+
+
+
+From caf-news Fri Jan 24 09:01:38 1992
+From: dean2@garnet.berkeley.edu (Dean Pentcheff)
+Subject:  UC computer searches (was Re: hackers, crackers, privacy on KQED)
+Date: 11 Jan 1992 09:10:35 GMT
+Message-ID: <kmtd4bINN8tc@agate.berkeley.edu>
+
+lear@oni.sgi.com (Eliot Lear) writes:
+>Friday morning KQED's Forum program hosted a wide ranging discussion
+>of hackers, crackers, computer privacy, the government's role, and
+>corporate America's role in balancing computer security and privacy.
+>...
+>A breaking story involving litigation between U.C. Berkeley and a
+>student who is undergoing disciplinary review was also briefly
+>mentioned.  For those who are not yet aware of the case, the pertinent
+>information for the discussion was a court order requiring Berkeley to
+>search all their computers for any files containing the student's user
+>or login name.  I am told that in this particular case, U.C. is the
+>defendant...
+
+Attached are the summaries I've posted thus far on what's going on
+in this case.  As I mention in the summaries - if you're interested in 
+receiving any other summaries, send me email and I'll add you to the
+mailing list.
+
+-Dean
+--
+Dean Pentcheff  (Internet: dean2@garnet.berkeley.edu)
+Department of Integrative Biology, University of California, Berkeley CA 94720
+Work Phone: (510) 643-9048   Home Phone: (510) 839-1790    Fax: (510) 643-6264
+
+==================================
+
+Jan 6, 1991
+
+To those interested in the search of files on UC Berkeley's computers:
+
+Now that I've returned from the holiday, I've made a few inquiries 
+regarding this incident.  To recap, the following "news" item appeared
+on our mainframes:
+
+   We were recently required by order of the Alameda County Superior Court
+   to search files on Garnet and Violet that may contain a particular
+   individual's name within the file.  We are complying with that court
+   order.
+
+   We think it is important to alert you that files on the shared systems,
+   or even on personal workstations or microcomputers, are subject to
+   search, and even seizure, by court order.
+
+   Curtis Hardyck, Vice Provost
+
+A number of mail messages arrived in my mailbox suggesting that this
+search may not be legal within the bounds of the Electronic
+Communications Privacy Act.  Basically, it appears that if there are
+"electronic communications" stored on those mainframes (which there
+certainly are), a court order to search them in bulk is not
+specific enough.  The analogy is that it would not be legal to search
+all paper files in a building to find an incriminating document: the
+warrant has to specify the specific people whose files are to be
+searched, which files to be searched, and show probable cause of a
+crime.
+
+The current status of the case appears to be as follows:
+1. The family of a student who is undergoing disciplinary action for
+   allegedly breaking into some computers is suing the university.
+2. The family has requested that all "student records" concerning the
+   student which exist on two of our mainframes be turned over to the
+   court.  These records have been defined as any record that names him
+   (based on his four- or five-letter login ID).
+3. The university has complied with the court order to search all
+   files on the mainframes.  They have located (surprise, surprise)
+   numerous files that include the login's letter sequence.
+4. Tomorrow (Tuesday, Jan. 7) the university lawyers are going to go
+   to court to try to fight further execution of the order, on the
+   grounds that doing so would require printing out all of those files
+   (about 11 million lines) and examining them by eye.  Thus they are
+   contesting on the grounds of undue burden, not privacy violation.
+
+I have contacted the Vice Provost involved in the case and apprised
+him of the interest we have.  He has promised to keep me up to date on
+developments.  
+
+Interested though I am in the case (and since I keep files on these
+computers, I do suspect that I may have been illegally searched), I'm
+not in a position to pursue legal action now.  I'm in the last couple
+of months of my Ph.D. here - if I were to get legally involved in
+this, my professor would ensure that they were my last couple of
+months, period.  
+
+If you're interested in being kept up to date on this "affair", let me
+know with some return email (so I don't pester all of you with
+updates).
+
+-Dean
+
+P.S. Just got a call from a San Jose paper (seems that they have a
+reporter who reads comp.risks!).  They're pursuing the story at the
+university.  Remind me to check my appointment calendar for the next
+month before I post to comp.risks again...
+
+===========================================
+
+Wed Jan  8 15:17:03 PST 1992
+
+To those concerned with the court-ordered search of files on University
+	of California computers:
+
+Yesterday (Tuesday, Jan 7) there was a court hearing at which UC's
+lawyers tried to convince the judge that UC should not have to do any
+further search since that would impose an undue burden on the
+university.  The judge ruled that the university does indeed have to
+search all files on two mainframes for all university records relevant
+to a particular student (the plaintiff in the lawsuit).
+
+At this stage, a grep/awk search of all files has been done.  Computer
+Services now has a list of the names of all files which contain the
+target string (which is either the login ID or actual name of the
+student in question, I'm not sure which [or both?]).  It's unclear what
+will happen next.  Computer Services is well aware that they may have
+located files which contain the string(s) accidentally, are otherwise
+irrelevant to the case, or which contain lots of other irrelevant
+information (e.g. mailbox files with dozens of letters, only one of
+which may be relevant).  They are waiting for the court to tell them
+what to do next.  Presumably this could range anywhere from turning
+over copies of all the files to the court, through hand searching the
+files for relevance, or further filtering the search on the basis of
+file ownership, etc.
+
+The University lawyers took a brief look at the Electronic
+Communications Privacy Act, but decided that it wasn't applicable.
+[WARNING * WARNING: the following remarks are my non-lawyer's
+interpretation of the non-lawer's interpretation in Computing Services
+of the lawyer's interpretation.  Don't take what I say here too
+seriously!]  Evidently there is a clause in the ECPA which states that
+if there are other statutes which could require searching of files,
+those statutes take precedence.  In this case, there is the Buckley
+amendment to the California Family Education Rights and Privacy Act
+which states that any student has the right to access all university
+maintained records regarding that student.  The court's interpretation
+is that the two mainframes are maintained by the university, hence any
+and all files on them constitute "university maintained records" and
+are subject to search.
+
+Most of the above information comes from a chat I had with George
+Lavender in Computing Services.  Clearly, he is in the position of
+having to comply with the court order.  He is, however, aware of what
+he's doing and is trying his best to minimize intrusion into files.
+resolution of this conflict.  This sort of competition between the
+right of students/anyone to records on them vs. the right of privacy
+of file owners is quite likely to arise again.  Quite apart from legal
+qualms, the folks at Compting Services have better things to do with
+their time than bulk searches of files, so they'd be quite happy to
+see some resolution.
+
+Stay tuned for the next exciting installment of Searchout at the UC
+Corral.
+
+-Dean
+-- 
+Dean Pentcheff  (Internet: dean2@garnet.berkeley.edu)
+Department of Integrative Biology, University of California, Berkeley CA 94720
+Work Phone: (510) 643-9048   Home Phone: (510) 839-1790    Fax: (510) 643-6264
+-------------------
+
+
+
+From caf-news Fri Jan 24 08:52:11 1992
+From: russotto@eng.umd.edu (Matthew T. Russotto)
+Subject: Re: ALT.womyn.ONLY
+Message-ID: <1992Jan12.025341.4239@eng.umd.edu>
+Date: 12 Jan 92 02:53:41 GMT
+Article-I.D.: eng.1992Jan12.025341.4239
+References: <1991Dec27.161028.1776@risky.ecs.umass.edu> <klufs0INNosc@exodus.Eng.Sun.COM> <1992Jan8.223749.20800@m.cs.uiuc.edu>
+
+In article <1992Jan8.223749.20800@m.cs.uiuc.edu> kadie@m.cs.uiuc.edu (Carl M. Kadie) writes:
+>If you want to associate only with folks of like sex, race, or
+>religion, that is your right. Please do not, however, ask others to
+>help you enforce your criteria.
+>
+>Specially, please do not create an unmoderated newsgroup and then ask
+>Usenet sites to enforce a no-men-in-this-forum charter. It might very
+>well be illegal for public institution like a state university to
+>enforce such a rule. Likewise, if you create a moderated newsgroup,
+>please don't ask Usenet sites to restrict readership or to punish
+>posters who pose as females.
+
+Most importantly, don't create an ALT group and expect ANYTHING to be enforced.
+
+-- 
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+Your superior intellect is no match for our puny weapons! -- The Simpsons
+Just say NO to police searches and seizures.  Make them use force.
+(not responsible for bodily harm resulting from following above advice)
+-------------------
+
+
+

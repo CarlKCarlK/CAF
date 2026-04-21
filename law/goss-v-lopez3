@@ -1,0 +1,187 @@
+Newsgroups: alt.comp.acad-freedom.talk
+From: greeny@top.cis.syr.edu (J. S. Greenfield)
+Subject:  Re: How to annoy Rush!
+Message-ID: <1993Apr1.014728.10395@newstand.syr.edu>
+Date: Thu, 1 Apr 93 01:47:27 EST
+
+In article <C4rq10.5sF@news.cso.uiuc.edu> resnick@cogsci.uiuc.edu (Pete Resnick) writes:
+>
+>>I believe that some "privileges" are subject to due process
+>>requirements because I believe that is what the Supreme Court said in
+>>_Goss v. Lopez_ (see refs).
+>
+>At least according to the references you cite below which I downloaded,
+>no such thing is said. Goss v. Lopez said that the state could not
+>suspend children from school without due process *specifically because
+>education was guaranteed by state law*. Is there something in the
+>original text of the decision that sheds more light on this? As far as
+>I can tell, privileges are not subject to due process requirements
+>according to this case.
+
+Well, I have now had a chance to read the files in the archive, and to look
+up the case.
+
+I think you have misinterpreted what you read (though, there isn't a whole
+lot there).
+
+The majority opinion states:
+
+"At the outset, appellants contend that because there is no constitutional right
+to an education at public expense, the Due Process Clause does not protect
+against expulsions from the public school system.  This position misconceives
+the nature of the issue and is refuted by prior decisions.  The Fourteenth
+Amendment forbids the State to deprive any person of life, liberty, or
+property without due process of law.  Protected interests in property are
+normally 'not created by the Constitution.  Rather, they are created and
+their dimensions are defined' by an independent source such as state statutes
+or rules entitling the citizen to certain benefits."
+
+and
+
+"Here, on the basis of state law, appellees plainly had legitimate claims of
+entitlement to a public education."
+
+
+In other words, a state law *happened* to be what established the property
+interest in this case.  It is clear from the holding, however, that
+many other things (for example, a state university's rules and regulations)
+could also establish property interests.
+
+
+The majority opinion continues [I'm going to use "$" as the section symbol]:
+
+"Ohio Rev. Code Ann. $$ 3313.48 and 3313.64 (1972 and Supp. 1973) direct
+local authorities to provide a free education to all residents between five
+and 21 years of age, and a compulsory-attendance law requires attendance for
+a school year of not less than 32 weeks.  It is true that $ 3313.66 of the
+Code permits school principals to suspend students for up to 10 days; but
+suspensions may not be imposed without any grounds whatsoever.  All of the
+schools had their own rules specifying the grounds for expulsion or suspension.
+Having chosen to extend the right to an education to people of appellees'
+class generally, Ohio may not withdraw that right on the grounds of
+misconduct absent fundamentally fair procedures to determine whether the
+misconduct has occurred."
+
+
+In other words, when a property interest is created, the state can *not*
+also create a loophole by which it can arbitrarily revoke that interest.
+(The court doesn't speak in terms of "rights" versus "privileges" here.
+They speak only of property "interests."  It is clear to me however, that
+the meaning of this is to say, in essence, that the state can't simply
+declare a property interest to be a "privilege," and then use that
+declaration to revoke the "privilege" without due process.)
+
+
+My conclusion is that Goss v. Lopez is definitely applicable to computer
+access issues (at a public institution).  Clearly, making computer
+accounts available to students (via university policies, rules, etc.)
+establishes a property interest on the part of the student.  According to
+Goss, even if the university had a regulation stating that sysadmins have
+absolute power to immediately revoke access in response to (alleged)
+misconduct, that regulation would be invalid, and a student would still
+have due process rights.
+
+
+
+As for the question as to what constitutes a "modicum" of due process,
+I can't say for sure.  The court did state, however (and recall that
+this is all in reference to short-term suspensions):
+
+"Students facing temporary suspension have interests qualifying for protection
+of the Due Process Clause, and due process requires, in connection with a
+suspension of 10 days or less, that the student be given oral or written
+notice of the charges against him and, if he denies them, an explanation of
+the evidence that authorities have and an opportunity tp present his side
+of the story.  The Clause requires at least these rudimentary precautions
+against unfair or mistaken findings of misconduct and arbitrary exclusion
+from school."
+
+
+For the case at hand (which as I stated in an earlier post, I presume does not
+qualify as either an emergency or a trivial sanction--I'm also assuming that
+we're talking about a public school, though I don't recall), I take this to
+mean that the school cannot suspend the accused student's access without
+*first* having a hearing, if the student denies the allegations against him.
+
+(If the student does not deny the allegations, then presumably, no hearing
+is required.)
+
+
+-- 
+J. S. Greenfield                                         greeny@top.cis.syr.edu
+(I like to put 'greeny' here, 
+but my d*mn system wants a 
+*real* name!)                        "What's the difference between an orange?"
+
+
+-------------------------------------------
+
+Newsgroups: alt.comp.acad-freedom.talk
+From: greeny@top.cis.syr.edu (J. S. Greenfield)
+Subject:  Re: How to annoy Rush!
+Message-ID: <1993Apr1.142431.452@newstand.syr.edu>
+Date: Thu, 1 Apr 93 14:24:31 EST
+
+In article <C4spFu.7wK@ux1.cso.uiuc.edu> lemson@uiuc.edu writes:
+>
+>>It is a matter under debate whether the suspension of an account counts
+>>as student discipline, and it is CERTAINLY suspect to mention it
+>>in the same breath as suspension from school.
+>
+>No doubt.  Suspending a student's free e-mail account is FAR from
+>suspending them from classes.  I doubt anyone would agree with that,
+>and yet Carl continues to base his entire argument on the fact that
+>a student should not be suspended from classes without such and
+>such.
+>I repeat.. if it was a class account, required to complete homework
+>in a certain class, I would object to such suspension.  Assuming it
+>has the relative status of a uxa/ux4 account, I would say that such
+>suspension probably is OK. (But, of course, who among us knows 100%
+>of the details...)
+>
+>(my opinions, not CCSO's...)
+
+Your opinions are apparently based upon some false assumptions.  First of
+all, for many of us, there is no clear distinction between a "class account"
+and other accounts.
+
+I have never used a "class account" to do any work.  (Years ago, I once had
+a "class account" automatically assigned to me, though I didn't need it,
+and didn't use it.  Otherwise, I have not had "class accounts.")
+
+I use my "regular" accounts to do all of my work, as well as handle email,
+read news, etc.  Cutting off my access to a "regular" account would be
+as serious an infringement to me as suspension from a class would be to others.
+(Actually, I don't take classes anymore.)
+
+
+More importantly, you have a basic misunderstanding of the law regarding
+such matters.  You seem to think that, if the interest infringed is
+relatively "small," then not as much protection is due, as compared to
+when the interest infringed is relative "large."  (i.e., you think that
+suspendion of non-class accounts is not comparable to suspension from
+classes.)
+
+In fact, the only way that this could be the case would be if the interest
+infringed were *trivial* in the first place.  In Goss v. Lopez, the school
+tried to use a similar argument.  The court's response was:
+
+"The Court's view has been that as long as a property deprivation is not
+de minimus, its gravity is irrelevant to the question whether account must
+be taken of the Due Process Clause."
+
+
+I do not believe that, in general, access to computing facilities is a trivial
+interest.  As such, your argument that suspension of a computer account is
+less severe than suspension from a class is totally irrelevant.
+
+Clearly, there is justification for Carl's analogy to suspension from a
+class.
+
+
+-- 
+J. S. Greenfield                                         greeny@top.cis.syr.edu
+(I like to put 'greeny' here, 
+but my d*mn system wants a 
+*real* name!)                        "What's the difference between an orange?"
+

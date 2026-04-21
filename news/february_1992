@@ -1,0 +1,1312 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.11 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 11
+
+
+----------------------------------------------------------------------
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 0 -- Abstract of CAF-News 02.11
+
+[Best of February 1992
+
+[Help! The backlog for CAF-News is now a month and 1/2. If you might
+be willing to help clear the backlog by guest editing one issue,
+please send me email (kadie@eff.org) and I'll send you additional
+information.
+
+For information on accessing the CAF-archive, send email to
+archive-server@eff.org. Include the line:
+  send acad-freedom README
+
+- Carl]
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+Many of the paraphrases are based on earlier paraphrases by Paul,
+Elizabeth, and Adam.
+===============================================================
+
+Notes 1-4 discuss newsgroup removals rationalized by creative
+interpretations of law. Sites around the world have found this an
+effective way to ban almost any topic, for example, war, drugs, gay
+rights, crime, rape, abortion, and sex (including recovery from sexual
+abuse and United Press International stories mentioning sex).
+
+1. SWITCH, the federal institution which provides the network
+connections between Swiss universities, has decided to refuse to carry
+certain Usenet newsgroups on the grounds that they *might* be illegal
+under Swiss law. Newsgroups banned include alt.drugs,
+alt.politics.homosexuality, clari.news.terrorism.
+    <1992Feb20.180752@sic.epfl.ch>
+
+2. (A person in Ireland:) "The computer/censorship issue related to
+the fact that only crosspostings to the group _talk.abortion_ appear
+here."  If a posting to such a group had information on how to procure
+an abortion, are we any more liable than a library with an English
+telephone directory which has the phone number of an abortion clinic?
+    <1992Feb24.222848.12187@maths.tcd.ie>
+
+3. This is a parody of the Iowa State University policy that bans
+discussions of sex (and previously drugs). It shows what the policy
+might say if it were honest. It starts "We, a handful of individuals
+in the Iowa State University Computation Center, have imposed a policy
+on the distribution of Usenet newsgroups. ...  The purpose of this
+statement is to provide an after-the-fact justification of a decision
+that we made without looking at the academic freedom issues."
+    <1992Feb23.201324.12799@m.cs.uiuc.edu>
+
+4. Carnegie Mellon University promotes self-censorship by its threats
+to investigate of Eric Jefferson on charges of sexual harassment
+unless he stops writing public articles that some find offensive.
+    <46750.298C2BB3@psycho.fidonet.org>
+
+Notes 5-7 are about privacy.
+
+5. A user on this system was apparently running a password cracking
+program.  An administer searched my files and found I had a copy of
+the newest version of Crack.  I have legitimate reasons for having
+this program.  I have received mail from the Chairman of the
+Department "inviting" me to discuss my account privileges. "It really
+bothers me that I'm going to get in a lot of trouble (probably anyway)
+just for the mere possession of a program."
+    <9202161945.AA24863@bsu-cs.bsu.edu>
+
+6. [From Brewster Kahle, the operator of the directory of servers in
+the WAIS system:] The new breed of "digital librarians" must consider
+the ethical obligations which follow from their privileged position
+with regard to the users whom they serve.
+    <fyi.199202191413.AA07128@eff.org>
+
+7. Under what circumstances can the university disclose personal
+information about a student computer user, say, through 'finger'?
+Enclosed excerpts from the Family Education and Privacy Rights of Act
+provide a partial answer.
+    <1992Feb6.233159.24859@m.cs.uiuc.edu>
+
+Note 8 concerns a system administrator's policy of acting quickly in
+case of rules violations. Often a student's account is restricted for
+days.
+
+8. (A student:)  On a Friday afternoon I discovered all my accounts at
+the University Of Aston in Birmingham, England had been disabled.  I
+was told that something I was running was congesting the network.  To
+sort things out I needed to meet with the head of the department, by
+appointment, on the following Tuesday.
+    <1992Feb26.192151.6435@mnemosyne.cs.du.edu>
+
+Note 9 discusses the issue of TERMINUS, a terminal server at MIT
+which allows users to connect to any port of any Internet connected
+machine and which has been seen as a security threat by the NSFnet.
+
+9. The NSF cannot be expected to cut off MIT or TERMINUS any more than
+the phone company could be expected to disconnect MIT's phones just
+because someone used their phone lines to break into a system. If
+anything will shut down TERMINUS it will be the privatization of the
+network which will no longer allow them to put the onus of security
+onto other sites.
+    <1992Feb18.215827.4@sdg.dra.com>
+
+Note 10 discusses the history of altnet, the set of "alt" groups.
+
+10. Contrary to the 'history' given in the Iowa State University
+policy, the alt groups were not created by a 'collective group of
+Usenet "news administrators"' as a place for dangerous topics. In
+fact, the alt groups were created to fight the suppression of the
+collective group.
+    <3198@ecicrl.ocunix.on.ca>
+
+- Carl]
+
+
+In this issue:
+
+A EPFL-SIC/SII  182  Censorship and bigotism come up strong in Switzerland
+Paul Moloney     62  REPOST: The Irish Abortion Controversy
+Carl M. Kadie   124  What if the Iowa State U. Usenet policy was honest?
+Howard Goldstein 48  Speech Restrictions On Cm
+Bryan Strawser  145  (none)
+Brewster Kahle  171  Ethics of Digital Librarianship
+Carl M. Kadie   136  Requiring students to release directory information
+Mark Evans       20  Sys-admins shooting first
+sean@sdg.dra.com 75  >NSFnet rules of use and terminus
+Chris Lewis      84  >History of "alt" groups
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Feb 20 00:00:00 1992
+From: brossard@sic.epfl.ch (Alain Brossard EPFL-SIC/SII)
+Newsgroups: ch.general,ch.network,epfl.general,news.admin,eunet.news
+Subject: Article 1--Censorship and bigotism come up strong in Switzerland
+Message-ID: <1992Feb20.180752@sic.epfl.ch>
+Date: 20 Feb 92 17:07:52 GMT
+
+
+  For those who thought that Switzerland is a democratic and open
+country, read on to see the subversive groups we are not allowed
+to read (like talk.politics.guns for example).  I used the
+adjective bigot because of the obvious anti-homosexual feelings
+of Switch (see the list of banned newsgroups for yourself).
+
+  I'm posting this widely in the hope of getting feedback and
+usefull suggestions.  Some of the contents is only of local interest.
+  For those who are joining us in mid-stream,  the Swiss universities
+are linked together by Switch a federal institution (?) set up
+just for that purpose.  Following newspapers articles at the beginning
+of the year, Switch decided to cut all alt.sex newsgroups.  This created
+a small furore which hadn't resolved itself yet.  The latest is the following:
+
+---> From: Peter Gilli <gilli@verw.switch.ch>
+---> To:  switch-coord@verw.switch.ch
+---> Message-Id: <2236*gilli@verw.switch.ch>
+---> Subject: News Groups Classification
+---> Autoforwarded: TRUE
+---> 
+---> Dear members of the CC
+---> 
+---> I asked you to comment the proposed methode of making categories
+---> within four weeks from the last meeting.
+---> 
+---> REQUIRED NEWSGROUPS will remain longer on our disk than OPTIONAL  
+---> NEWSGROUPS. PROHIBITED NEWSGROUPS are considered to be not in accordance
+---> with Swiss law. NOT AVAILABLE NEWSGROUPS can eventually be procured with 
+---> extra effort.
+---> 
+---> Changes of individual News groups from one category to another will
+---> be performed at your request and according with Swiss law.
+  (By the way the only Swiss law that MIGHT come into play
+is the one related to Pornography, so they let yourself be
+intimidated by the reference to Swiss law.)
+
+---> This will be an ongoing activity.
+
+ (I can't wait to see what they will come up with next, maybe official
+censorship of all mail bearing a suspicious subject line?)
+
+---> What follows is the _initial_ categories of News groups:
+
+  (Yep, after all why stop at banning only 30 newsgroups when there
+is a 1000 more out there waiting to be cut!)
+
+---> REVISED CLASSIFICATION OF NEWSFEED
+
+   (I guess revised added a neat touch, there never was a classification
+    of news in Switzerland prior to this year)
+---> 
+---> Version Febr. 3, 1992/Sn
+---> 
+---> 
+---> CATEGORY 1: REQUIRED NEWSGROUPS
+---> 
+---> (exceptions: see category 3)
+---> bionet.* bit.* biz.* ch :* comp.* gnu.* ieee.* mail* news.* sci.*
+---> sco.* u3b.* ucb.* unix-pc.* vmsnet.*
+---> 
+---> 
+---> CATEGORY 2: OPTIONAL NEWSGROUPS
+---> 
+---> (exceptions: see category 3)
+---> alt.*
+---> clari.*
+---> de.*
+---> k12.*
+---> misc.*
+---> rec.*
+---> soc.*
+---> srg.*
+---> sub.*
+---> talk.*
+---> 
+---> 
+---> 
+---> 
+---> CATEGORY 3: PROHIBITED NEWSGROUPS
+---> 
+---> alt.binaries.pictures.erotica
+---> alt.drugs
+---> alt.fax.bondage
+---> alt.personals.bondage
+---> alt.politics.homosexuality
+---> alt.psychoactives
+---> alt.satanism
+---> alt.sex.* (6 groups)
+---> alt.sexual.abuse.recovery
+---> alt.tasteless
+---> bit.listserv.gaynet
+---> de.talk.sex
+---> clari.news.group.gays
+---> clari.news.law.crime.sex
+---> clari.news.law.crime.violent
+---> clari.news.law.drugs
+---> clari.news.sex
+---> clari.news.terrorism
+---> rec.arts.erotica
+---> soc.bi
+---> soc.motss
+---> sub.sex
+---> talk.abortion
+---> talk.bizarre
+---> talk.politics.drugs
+---> talk.politics.guns
+---> talk.rape
+---> 
+---> CATEGORY 4: NOT AVAILABLE NEWSGROUPS
+---> 
+---> eunet.*
+      (I guess we are not supposed to compare notes with the
+      rest of Europe)
+
+   As the news administrator at the EPFL, I have to deal with this.  
+Though I'm not overly anxious to take the job of official censor of 
+the EPFL (as my title is becoming to be known!).
+My boss is of the opinion that some of the images in 
+alt.binaries.pictures.erotica are illegal in Switzerland.  The 
+lawyer of the University is supposed
+to come back to me with the legal texts on the matter. Though I'm
+not overly anxious to take the job of official censor of the EPFL
+(as my title is becoming to be known!).  However nothing
+else seems illegal in the above list and we want to keep those newsgroups.
+
+   The situation is such that I have users who use news servers in the
+US (Hawai!) and Germany (over slow and saturated links!) and who
+knows where else to read the
+newsgroups they want.  So a local decision is costing everybody more
+money since the articles are now transiting multiple times and even
+on a per user basis with xrn: once to read and once to get it to save it!
+
+  Allright so what are we going to do about it?  I already have a user
+here who suggested getting a newsfeed from CHUUG and dropping SWITCH
+forever!  It seems like the price for a connection isn't that high
+for Universities with CHUUG.
+  We could just ask for a feed for those newsgroups from CHUUG.   And 
+then we could
+distribute them between us (Swiss Universities) without going 
+through the news server at Switch.
+  Could Switch be facist enough to prevent the Universities from
+talking to each other?  That would be a neat feat since Switch was established
+for just that purpose in mind: enabling communications between Universities!
+
+   Another solution would be to get a nntp feed from outside Switzerland
+directly.  Of course we would be using the Switch network, but I assume
+they wouldn't go as far outside their charter as to cut all IP traffic
+between us and the rest of the world.
+   Even if they block the nntp port, hell I could just pick another one until
+I find one which isn't blocked.  Since I don't use the port for telnetd
+on my machine, I could just put the nntpd on that slot!
+   And if they succeed in cutting all nntp traffic, we could always go
+back to getting news via mail from a friendly site.
+
+   My point is that Switch CAN'T block those newsgroups!  The only
+thing they can do is put the world on notice that they are taking
+responsibility for what goes over the wire...  Talk about asking
+for work and for putting your head in the noose!
+   In case nobody at Switch knew this, Switch is asked to provide
+network connections between the Universities in the same way the
+PTT is asked to carry letters and packages and phone conversations.
+Nobody expects the PTT to take responsability for the pornographic
+magazines or mail-bomb letters!  The same can be said of Switch.
+   However since they had the stupid idea of taking responsability
+for what goes on on the wire, anything goes include censorship as
+we can see.  The only solution I can see is either to fire the
+management of Switch, or abolish it and hope that the next carrier
+(CHUUG?) will act in a more intelligent manner.
+
+   Of course I could be wrong and Switch might wake up and start
+listening to the users, I would love to be proven wrong on this
+point!
+
+-- 
+
+Alain Brossard, Ecole Polytechnique Federale de Lausanne,
+	SIC/SII, EL-Ecublens, CH-1015 Lausanne, Suisse, +41 21 693-2211
+brossard@sic.epfl.ch
+
+
+------------------------------
+
+From caf-talk Caf Feb 24 00:00:00 1992
+From: pmoloney@maths.tcd.ie (Paul Moloney)
+Newsgroups: tcd.talk,soc.culture.celtic,talk.abortion,soc.women,alt.comp.acad-freedom.talk
+Subject: Article 2--REPOST: The Irish Abortion Controversy
+Message-ID: <1992Feb24.222848.12187@maths.tcd.ie>
+Date: 24 Feb 92 22:28:48 GMT
+
+[Apologies if you've seen this already. It was cancelled at my site over the
+weekend, before most people would have had a chance to read it.]
+
+Hmm. Interesting times are here in Ireland at the moment, and an issue has
+come up which may well pose a question for those interested in the issues
+of censorship, and especially where in concerns the Net.
+
+As you may know, abortion is illegal in Ireland. The Eighth Amendment to
+the constitution in 1983 made it even more so, and also led the way to 
+making the distribution of abortion information illegal. The Student Union
+of this college, Trinity, was brought to court by the Society for the 
+Protection of the Unborn Child and was prevented from distributing such
+information from its welfare section to women. 
+
+Recently, a 14 year old girl has become pregnant as the result of an alleged 
+rape. Unwittingly her parents told the police that they intended to bring her 
+to England for an abortion. Said police felt they had no option but to follow
+up on this information, and as a result the Attorney General got an injunction 
+preventing the girl from leaving country.
+
+The case hasn't left the headlines in the past week, and has become a rallying
+call for pro-choice campaigners and those concerned at the fact that this
+strident interpretation of the Eighth Amendment sees Ireland on the path to
+a totalitarian state. (A pointed cartoon in the _Irish Times_ depicted an
+Ireland surrounded by barbed wire, in the middle of which a little girl sits.
+The caption - "February 1992. Internment - for women".)
+
+Of course, people who called for and supported the amendment in '83 are now
+saying the whole thing is a set-up by liberals, that they didn't forsee this 
+happening (despite repeated warnings at the time) and that "sure the mother 
+should have known she shouldn't have told the police". In effect, most of 
+them are now suggesting that people should break the law that they passed, 
+which seems to me the worst kind of hypocrisy.
+
+That's the abortion issue. I'd love to hear comments on any aspect.
+
+The computer/censorship issue related to the fact that only crosspostings
+to the group _talk.abortion_ (which I hope this posting is getting through
+to) appear here. The relevant people are concerned that we could be breaking
+the law by allowing such postings to be read here, as they may have information
+in them on how to procure an abortion, e.g. a telephone number for an abortion
+clinic in England.
+
+My question is - are they leaving themselves open to prosecution? It seems to
+me that they cannot be seen to be "distributing" such information _per_ _se_;
+any more than libraries are by having English telephone directories, containing
+the numbers of clinics.
+
+Anyway, I'll leave the floor open. 
+
+P.
+-- 
+moorcockheathersiainbankshamandcornpizzapjorourkebluesbrothersspikeleepratchett
+clive P a u l  M o l o n e y "Lines of light ranged in the nonspace of the  rem
+james Trinity College,Dublin PMOLONEY%MATHS.TCD.IE@PUCC.PRINCETON.EDU mind." vr
+brownbladerunnerorsonscottcardprincewatchmenkatebushbatmanthekillingjoketolkien
+
+
+------------------------------
+
+
+------------------------------
+
+From caf-talk Caf Feb 23 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 3--What if the Iowa State U. Usenet policy was honest?
+Message-ID: <1992Feb23.201324.12799@m.cs.uiuc.edu>
+Date: Sun, 23 Feb 1992 20:13:24 GMT
+
+[This is a parody of the ISU policy. - Carl]
+
+=================================
+Draft Honest Usenet News Policy
+
+Iowa State University Computation Center
+February 23, 1992
+
+Introduction
+
+We, a handful of individuals in the Iowa State University Computation
+Center, have imposed a policy on the distribution of Usenet
+newsgroups. The policy was created without user participation and
+imposed over the objections of the Computer Advisor Committee. This
+policy, included later in this document, addresses our fear of outside
+criticism. While many Usenet newsgroups provide a wealth of technical,
+research-based, and collateral material, a few groups may contain
+material that someone, somewhere might object to if they learned that
+someone else, somewhere else was reading it.
+
+The purpose of this statement is to provide an after-the-fact
+justification of a decision that we made without looking at the
+academic freedom issues.
+
+Overview of Usenet News
+
+[...]
+
+Most newsgroups are unmoderated, meaning that contributors post
+anything they want without any review.  In general, the only form of
+judgment on content is by peer pressure from other group participants.
+Newsgroups are, thus, an embodiment of the free marketplace of ideas
+that is central to a university and a democracy. We are very
+frightened by this, and so, seek to shut it down.
+
+[...]
+
+Fun Trivia: Like the University library, a significant share of the
+support structure for distributing Usenet News is derived from public
+funding.
+
+
+Challenges Which Accompany This Technology
+
+[...]
+
+"Some university sites in other locations have already come under
+internal and external criticism for the use of state and federal funds
+to store and distribute items which are alleged either to be illegal
+or objectionable." [quote from the real policy -cmk]
+
+[...]
+
+Development of the Usenet News Policy
+
+Many aspects of Usenet News were considered in creating this
+after-the-fact policy justification. Several of them are discussed
+here to lend insight into the policy itself.
+
+In a perfect world, we would censor articles individually; but "the
+volume of material that arrives at campus every day precludes
+individual review of articles or even of selected newsgroups." [quoted
+part from real policy]
+
+We don't like "academic freedom" as currently defined, so we redefined
+it. By our definition, a "Hallmark" of academic freedom is "the use of
+material in manners which respect other in the campus community." [the
+quote is from the real policy]. In other words, to us, academic
+freedom means that you shouldn't read something that might offend
+someone else. To promote this kind of academic freedom, we are banning
+some newsgroups. This saves you the effort of determining if someone
+else might be offended by what you read.
+
+Although we are not trained in the law, have not looked at the case
+law, have not received competent legal advise, we are confident that
+there should be a law that justifies our actions. For example,
+although two recent federal district court decisions (_Doe v. U. of
+Michigan_ and _UWM Post v. U. of Wisconsin_) have said that sexual
+harassment rules cannot justify censorship at state university, we
+think that sexual haarssment rules can justify censorship at this
+state university. Also, although the courts have said that discussions
+of sex in grade and high school are not generally obscene and may, in
+fact, be constitutionally protected, we think that discussions of sex
+in a university are obscene and illegal.
+
+Usenet News Policy
+
+The Computation Center maintains a news server offering Usenet
+newsgroups for the Iowa State University community.  This offering of
+service must comply with our interpretations of federal, state, and
+local laws (except the Constitution) and of the policies of the Iowa
+Board of Regents and Iowa State University (except for the
+prohibitions against censorship).
+
+Three variations of Usenet newsgroups are offered.  These are called
+the Way Censored List, the Censored List, and the Pervert List.
+
+The purpose of the Way Censored List is to provide an alternative to
+those who want their computer to only access newsgroups which appear
+to be focused on academic information. Although the University is full
+of academics, we, as computer administrators, feel that we are the
+best qualified to decide what is, and is not, academic information.
+
+"The purpose of the [Censored List] is to provide access to the
+newsgroups which are less likely to evoke questions regarding access,
+use, or distribution of the material.  Hence, the [Censored List]
+offering will explicitly exclude some newsgroups." [quote from real
+policy.] The Censored List offering will be the default for most
+students on campus. The excluded groups are those which we fear might
+offend. A list of the excluded newsgroups will be posted monthly to
+the newsgroup isu.newsgroups with the subject heading Monthly
+Posting--Banned Newsgroup List.
+
+The purpose of the Pervert List is to offer full access to all
+newsgroups to those in the Iowa State community who own a networked
+computer and who will file a piece of paper with the University and
+the FBI in which they confess they are depraved perverts but they we
+are not responsible. We hope that this will appease the faculty (we
+think we can ignore the students).
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Feb  3 00:00:00 1992
+From: Howard.Goldstein@f20.n3603.z1.FIDONET.ORG (Howard Goldstein)
+Newsgroups: alt.censorship
+Subject: Article 4--Speech Restrictions On Cm
+Message-ID: <46750.298C2BB3@psycho.fidonet.org>
+Date: Sat, 01 Feb 92 17:40:00 EDT
+
+In Message-ID <gdWPOTW00XQC5MLnR0@andrew.cmu.edu> dl2p+@andrew.cmu.edu
+(Douglas Allen Luce) writes:
+
+
+DAL>greeny@top.cis.syr.edu (Jonathan Greenfield) writes:
+DAL>> Sorry.  The Dean has the power to examine the situation himself and make
+DAL>> a categorical determination that this type of behavior is not harassment.
+DAL>> (This is a policy decision, not a fact-bound decision based on the
+DAL>individual
+DAL>> case.)  A disciplinary committee is not an policy-making body.  It is a
+DAL>> fact-finding, and policy-enforcing body.
+
+DAL>There was no attempt to determine whether this action was considered
+DAL>to be harrassment.  What the university did was a brush off; it tried
+DAL>to avoid taking any action by telling Eric that the matter would be
+DAL>pursued further if his actions continued (that of bringing in
+DAL>complaints).  This is a very standard police action.
+
+[...much omitted]
+
+It seems to me that the university's conditional forebearance puts
+student in a rather awkward predicament.  Student speaks? Student
+suffers investigation.  Student censors himself?  No investigation.
+With such a patent cause-effect relationship, I believe a clearer
+example of the "chilling effect" that Jonathan Greenfield mentioned
+could not be easily imagined. (but fact being stranger than fiction...)
+
+It further seems the only one to suffer actual harrassment is the fellow
+who was threatened with a process potentially leading to expulsion. (The
+school was the harrassor)  Expulsion results in a form of blacklisting,
+in that the occurrence must be noted on many applications requiring
+background checks.  I believe the events surrounding the Un-American
+Activities Committee is a valid historical analogy, and demonstrates how
+the mere charge of impropriety is capable of irreparably harming (much
+more than harrassing) those wrongly accused.
+
+Legally, it may be CMU's business.  But ethically, it instills its
+students with the false expectation that the real world shields adults
+ears from brutish, offensive speech.  In an academic setting, this is,
+perhaps, irresponsible.
+--  
+Internet: Howard.Goldstein@f20.n3603.z1.FIDONET.ORG
+UUCP: ...!uunet!ndcc!tct!psycho!20!Howard.Goldstein
+Note:psycho is a free gateway between Usenet & Fidonet. For info write to
+     root@psycho.fidonet.org.
+
+
+------------------------------
+
+From caf-talk Caf Feb 16 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: feanor@bsu-cs.bsu.edu (Bryan Strawser)
+Subject: Article 5--(none)
+Message-ID: <9202161945.AA24863@bsu-cs.bsu.edu>
+Date: Sun, 16 Feb 1992 09:45:36 GMT
+
+I logged onto our system yesterday, to find this /etc/motd (message of
+the day) waiting for all users to see and read.
+
+---------------------------------------------------------------------------
+
+ULTRIX V4.1 (Rev. 55) System #13: Thu Jan 16 16:05:05 EST 1992
+UWS V4.1 (Rev. 197)
+
+	Games are restricted to the time period midnight to 8am.
+	Violators will lose their telnet privileges.
+
+NOTE:	ftp from remote sites during non-prime hours (that
+	is, 8 pm to 6 am).
+
+NOTE:	Do not put any subdirectories on the /tmp area.
+
+NOTE:	Backups are scheduled for 5pm on Sundays.
+
+	*********************************************************
+
+	Password hacking is unethical and will not be tolerated
+	on this system. Any potential and/or real violators will
+	lose their account on this system and perhaps others.
+	The system will be monitored for this and any other
+	potentially unethical problems.
+
+	*********************************************************
+-----------------------------------------------------------------------------
+
+How did all of this come about?  That has to be one of the first questions on
+your mind.  Here's the story...  or as close as I think i've got it figured
+out so far...
+
+
+Apparently some user I am not even familiar with was running a password
+cracking program, more than likely Crack, or something of that sort.  It
+placed a drain on the system, so one of the users (who had root's password)
+went looking, probably with a 'ps -aux | grep something'.  S/he found
+a process that was consuming time, noticed it was called Crack, or something 
+of the sort.  Su'ed root, killed the process, changed the password of the
+account, and went looking around.  Could have been a find / -name Crack* or
+something else, I'm not really sure.  They found copies of the program in 
+a number of accounts, in different forms.  Some tarred, some compressed, and 
+some untarred and compiled.  One of the accounts in which it was in was mine.
+
+In my archive directory, where I store programs for download at a later point,
+I had the newest version of Crack in a tar file, called crack.tar.  I had
+downloaded it a few weeks ago, and placed it on my 3b1 - awaiting the arrival
+of my Sun 3/140 Workstation I bought a month ago.  
+
+Why did I have this?
+	In my research agenda in the field of Computer Science, I have many
+	varied interests.  I'm involved in such things as Cognitive Science,
+	Computer Human Interaction (CHI), User interface design, Psychology,
+	and - of course - Computer Security, especially when considering
+	the people behind the breakins, what drives them, what are they 
+	looking for, what are they trying to do...
+
+What was I going to do with this?
+	On my 3b1, and my Sun (whenever it gets here :) I would be testing
+	the ability of these programs to crack passwords.  If enough evidence
+	could be gathered to show that nearly any password could be  broken,
+	given enough time - my future research paper could give a strong case
+	for the shadow password system, and othe ways of increasing security.
+
+Where did I get it?
+	I ftp'ed Crack from a FTP site out there somewhere, off hand I just
+	don't remember which one it was.
+
+
+Now, I have never EVER ran this program on any machine that I do not own
+myself.  There are multiple users on my 3b1, and there will be multiple users
+on my Sun 3/140 as well, but since I have the root password , there is no
+need for anyone to worry about myself running Crack on my machine.
+
+Since this was discovered in my account, nothing has happened, yet anyway.
+I did however, receive this mail message to my account on our VaxCluster
+from the Chairman of the Department that owns and operates our Unix system.
+
+==============================================================================
+
+Please see me about your UNIX privileges.  Since you will
+be a computer science major, I want to see that you get on
+the right track.  Running password cracking program is not
+wise,
+
+==============================================================================
+
+As I had already stated, I have never ran a password cracking program on
+their unix machine.  In actuality, I've never ran it on my machine, it 
+doesn't seem to like my 3b1 too well.  I suppose a case could be made that
+I could have downloaded the /etc/passwd file onto my machine, and 
+cracked it there.  But, I will testify to the fact that I have not done
+anything of the sort.
+
+It really bothers me that I'm going to get in a lot of trouble (probably
+anyway) just for the mere possession of a program.  In a way, I guess it's
+kind of like being a locksmith..  should we kill all locksmiths because
+they possess the knowledge to crack through any lock - just because that
+mere possession of knowledge could lead him to break into your home, and 
+steal your wife's favorite doll?
+
+While I know that I only possess the program, and I have never ran it, where
+do they get the idea that I have ran it?  Are they so paranoid now that
+they will accuse me of running it even though I just possess it?
+
+I've never been accused in a crime.  I've only been in court once, to testify
+concerning an assault and battery case that I witnessed a few years back.
+Now, I could be accused of breaking into literally hundreds of accounts on
+this system, just because I possess the program to do that.  
+
+What will happen now?
+	I'm not sure.  Eventually, after I have calmed down, talked to 
+some people, and called different places.. I'll go in and see the people that
+I need to see, and make my point.  If they decide to take my account, I'll 
+fight it for as long as I can.
+
+The Others
+	I only personally know one other person involved in this impropriety.
+His account has been revoked pending "further investigation", who knows 
+if he will ever get it back.  To the best of my knowledge, of all of the people
+involved, I am the only one that still has access to their account.
+
+Finished in a fit of frustration,
+
+Bryan Strawser
+The Indiana Academy for Science, Mathematics, and the Humanities
+Jeep Hall
+Ball State University
+Muncie, IN 47306-0655
+(317) 285-7417
+
+
+Please do not send mail to any other users here (like root) about this matter,
+I would prefer to keep this discussion away from them until absolutely
+necessary.  Feel free to e-mail myself if you have any questions, or call
+if you're really that interested :-)
+
+
+Bryan Strawser						feanor@bsu-cs.bsu.edu
+ -=-=-=-=- Ball State University - Computer Science Department Unix -=-=-=-=-
+    "Unix: It's a nice place to live, but you don't want to visit there."
+
+
+------------------------------
+
+From caf-talk Caf Feb 19 00:00:00 1992
+Date: Tue, 18 Feb 92 12:51:23 PST
+From: Brewster Kahle <brewster@Think.COM>
+Subject: Article 6--Ethics of Digital Librarianship
+Message-ID: <fyi.199202191413.AA07128@eff.org>
+
+
+
+
+		      Ethics of Digital Librarianship
+
+			      Brewster Kahle
+			     Thinking Machines
+			       February 1992
+
+
+	    "As digital librarian, you should serve and protect
+             each patron as if she is your only employer."
+
+As more of us become involved in serving information electronically
+to other users, we so-called "digital librarians" must become
+conscious of our ethical responsibilities to protect the privacy of
+our the users being served.  Since computers are being used by many
+more people to find answers from diverse information sources, we
+librarians that operate these servers are coming exposed to the exact
+questions and interests of people we do not know.  This information
+has power, a power that can be abused and thereby thwart the
+usefulness of the tools we promote.  In this essay, I will use the
+Wide Area Information Server system as an example of a system of
+digital librarians to show what information is collected and used.
+With this example, I hope to illustrate some of the dangers and help
+list some of the rules of etiquette for this emerging class of
+information providers.
+
+The Wide Area Information Server (WAIS) system is an electronic
+publishing system that allows end-users to ask questions of remote
+information sources.  The system encourages people to ask questions in
+natural language so that the server system can try its best to find
+appropriate documents.  Therefore the operator of the server can
+collect the questions, and importantly, collect what documents the
+users thought were worth looking at.  This combines to portray exact
+interests of the users.  While the identity of the user is not trivial
+to determine since only the machine that the query came from is
+accessible from the server logs, as personal computers become
+networked, the identity of the machine will approximate the identity
+of the user.
+
+On the positive side, this means that the server operator (the
+"digital librarian") can use that data to refine the database and the
+search techniques used in the system.  On the negative side, this is
+exposing many remote operators to private information that may not be
+consciously given by the users.
+
+This surrender of information is not new to librarians; and the
+responsibility is taken very seriously by the professionals in the
+field.  Through training in library schools and by an intuitive sense
+of ethics, reference librarians do not betray their patron's interests
+to others that are curious or devious.  This ethical code is not coded
+in law as it is with psychiatrists, so these records can be extracted
+through subpoena, but this level of demand is usually required to pry the
+information from librarians.  From the patron's point of view, having
+a librarian know what she is interested in can be a great value
+because the librarian can help select and route useful information in
+the future.
+
+The same type of information is available to the digital librarians of
+the WAIS system.  I operate the directory of servers in the WAIS
+system, and as such, I know what users are requesting access to what
+what type of servers.  I know, for instance, every time Mitch Kapor
+uses the system, and what he asks for (he specifically allowed me to
+include his name here).  At this point this is not a problem since
+few servers are of a personal nature yet, but as the system
+grows to include entertainment, employment, health and other servers,
+it is easy to imagine the types of information that will be accessible
+through operating such a server.  Furthermore, I know when particular
+users are at their machines, and therefore know where they are and
+when.
+
+The abuses possible with this information are often not as direct as
+other offenses, but should not be discounted.  People will act
+differently if they think they are being watched.  Most people will
+try not to look silly or ignorant in public, and therefore might be
+less willing to try something new, to learn about a subject that they
+know nothing about.  If using a WAIS server feels like raising one's
+hand in school, then people will craft their questions more carefully
+than if it felt more like browsing through a new book.  Often people
+say "I have nothing to hide," which may be true, but if a stranger
+approaches on the street and knows quite a bit of personal
+information, then the innocent will likely take that person more
+seriously than if a cold stranger approached.  Even with nothing to
+hide, most people feel they should who knows what about them.  The
+personal nature of information access makes distributing collected
+questions a bit unnerving.
+
+The information collected by the digital librarians have some different
+characteristics from physical librarians which can make abuse easier
+and more widespread: more people can be served, these people are often
+in other organizations, and the digital librarians rarely have personal
+contact with these users.  Therefore, the patrons seem further away
+and therefore less real as human beings.  Since the computer networks
+that are being used with WAIS span the globe and span company
+boundaries, the information collected can be useful in knowing what is
+important to a distant, and possibly competitive group.  The lack of
+human contact can lead to the decay in social relations as has been
+documented in studies of electronic mail where the language and nature
+of relations tend to be stripped of grace, etiquette, and often respect
+[cite Sherry Terkle].  This detached nature of electronic
+interaction might lead librarians to not respect their patrons
+interests where they would if they knew them personally.
+
+On the other hand, the information collected from patrons can be very
+useful to the digital librarian to refine and enhance the server.  An
+example of this is a reporter at a financial newspaper.  She is in the
+business of collecting information from corporate contacts, finding
+the trends in that information, throwing out the proprietary details,
+and selling it back to that same population.  If the reporter
+published too many details, then her contacts would not be forthcoming
+the next time, and if she sanitized the information to the point of
+uselessness, similarly, her contacts would not invest the time.
+Therefore, it is precisely the interaction with the users that builds
+the information that is sold.  This example shows another facet, and
+that is value of the contacts invest in the reporter for their own
+benefit.  The digital librarian is a less extreme case, but still she
+is being invested and entrusted with what the users want, and if this
+information is misused or not used, then the users will not be as well
+served as could be.  Thus, the users will want to be able to be
+served better by the librarian through feedback on services rendered.
+
+While there are some technological mechanisms to obscure the identity
+of the patron, such as encryption and redirection, hopefully these
+will only be used in extreme cases.  Encryption can be used to protect
+packets in transmission and also be used to sign packets so that they
+can not be forged [cite Whitfield Diffie].  This can be useful in a
+system where the transport media is insecure, such as radio
+transmission.  Redirection is a server forwarding technique that would
+concentrate all the requests from one trusted host so that the
+individual requesters are more difficult to determine.  Combinations
+of these techniques have been contemplated to provably obscure
+requesters while still providing accountability for charges, but
+hopefully these techniques will not be the norm if most server
+operators will act in good faith towards their patrons.
+
+To try to list a code of ethics for this field is difficult since the
+technology keeps changing, but I will offer a principle that can be used to
+test a code.  As digital librarian, you should serve and protect each
+patron as if she is your only employer.  Therefore each patron should be
+served and protected individually.  In terms of WAIS, I feel it is safe to
+suggest:
+   *  Dont give away user logs except for scholarly use.  Consider
+sanitizing the records before any transfer is undertaken.
+   *  Take the job of information serving seriously.  This means to
+provide a consistent, reliable service and represent the service
+provided accurately.
+   *  Count on wide use of the information served, for good
+uses and bad, so be proud of the information and the collection.
+   *  Completeness is important.  Users learn as much from a question
+that has no answer as from the ones with answers.  This requires a
+complete and up-to-date collection.
+   *  Assume that the patron will not know the your affiliations, and
+therefore do not tempt patrons to use a service they would regret if
+they new more about you.
+   *  Respect your patrons.  The opinion that users are "rocks with
+arms", as said by a colleague years ago, will not lead you to become a
+very helpful digital librarian.
+
+In conclusion, the rewards from being a digital librarian are numerous
+and can be evident from notes from users from remote countries and
+companies.  This electronic publishing revolution allows anyone with a
+personal computer and a modem to be a publisher will have far reaching
+effects on the structure of our society.  Being a good digital
+librarian is a concrete way to create a future we all want to live in.
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Feb  7 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,uiuc.general
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 7--Requiring students to release directory information
+Message-ID: <1992Feb6.233159.24859@m.cs.uiuc.edu>
+Date: Thu, 6 Feb 1992 23:31:59 GMT
+
+Here is one interesting question to come out of the current
+discussions at UIUC:
+
+If a student decides to surpass directory information, can the
+university *legally* refuse to offer some services based on that
+refusal? [The moral question is interesting, but distinct.]
+
+For example,
+
+Can the university require student athletes to disclose their name
+to the outside world as a condition for being on the team?
+
+Can the university require students to disclose their name to the
+outside world as a condition for getting a free student computer
+account?
+
+Can the university require students to disclose their name and phone
+number to the outside world as a condition for getting a free student
+computer account?
+
+Can the university require students to disclose their name and phone
+number to the outside world as a condition for getting a class
+computer account?
+
+Can the university require students to disclose their name and phone
+number to the outside world as a condition for sending email?
+
+Can the university require students to release their name and phone
+number as a condition for early registration?
+
+Can the university require students to release their name and phone
+number as a condition for continued enrollment.
+
+I would guess the answer to the first question is "yes" and that the
+answer to the last is "no". I don't know the answer to the middle
+questions, but can provide some additional information:
+
+[From _College and University Student Records: A Legal Compendium_,
+Edited by Joan E. Van Tol, 1989]
+
+================== p. 119 ===============
+The regulations ... were significantly modified in 1988. ... The
+new regulations amend the definition of directory information
+and establish a standard for the designation of directory information.
+The new definition is:
+
+' ... information contained in an education record of a student which
+would not be considered harmful or an invasion of privacy if
+disclosed.  It includes, but is not limited to, the student's name,
+address, telephone list, date and place of birth, major field of
+study, participation in officially-recognized activities and sports,
+weight and height of members of athletic teams, date of attendance,
+degrees and awards received, and the most recent previous educational
+agency or institution attended.'
+
+The new standard -- that which would not be considered harmful or an
+invasion of privacy if disclosed -- permits the educational
+institution to exercise its discretion in the designation and and
+release of directory information provided that the eligible student
+does not object to the disclosure.
+
+======================== p. 106 ============
+[From the regulations: 34 C.F.R., 99.37 (1988)]
+
+99.37 What conditions apply to disclosing directory information?
+
+(a) An educational agency or institution may disclose directory information
+if it has given public notice to parents of students in attendance and
+eligible student is attendance at the agency or institutional of --
+
+(1) The types of personally identifiable information that the
+agency or institution has designed as directory information;
+
+(2) A parent's or eligible student's right to refuse to let the agency
+or institution any or all of those types of information about the
+student as directory information; and
+
+(3) The period of time within which a parent or eligible student has
+to notify the agency or institution in writing that he or she does
+not want any or all of those types of information about the student
+designed as directory information.
+
+================== p. 155 ================ 
+[from a reprint of an article printed in 1982 in _Computer/Law
+Journal_ by a Ms. Hyman.]
+
+ ... A waiver of FERPA rights made pursuant to section 99.7 must be
+exercised by the student {109} and can apply to all FERPA rights
+{110}.  Wavers must be signed {111}, and are most commonly given
+regarding letters of recommendation for admission {112}. Institutions
+may request students to waive their right of access to these letters,
+but they may not require a waiver as a condition for admission or
+services.{113}.
+
+[References]
+{110} 34 C.F.R. 99.7(a) (1980)
+{113} 34 C.F.R, 99.7(b) (1980) [Which I think cooresponds to this section of the 1988
+regulations - cmk]
+
+====================== p. 104 =================
+[34 C.F.R. 99.12 (1988)]
+
+99.12 What limitations exist on the right to inspect and review
+records?  ...
+
+(b) A postsecondary institution does not have to permit a student to
+inspect and review educational records that are -- ...
+
+(3) Confidential letters and confidential statement of recommendation
+places in the student's records ..., if
+
+(i) The student has waived his or her right to inspect and review
+those letters and statements;
+...
+
+(c) A waiver under paragraph (b)(3)(i) of this section is valid only
+if --
+
+(i) The educational agency or institution does not require the waiver
+as a condition for admission to or receipt of a service or benefit
+form the agency or institution;
+
+...
+============================================
+
+
+
+
+
+
+
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Feb 26 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: mpevans@isis.cs.du.edu (Mark Evans)
+Subject: Article 8--Sys-admins shooting first
+Message-ID: <1992Feb26.192151.6435@mnemosyne.cs.du.edu>
+Date: Wed, 26 Feb 92 19:21:51 GMT
+
+On Friday (21 Feb 92) afternoon I discovered that all my accounts on the
+computer system of University Of Aston in Birmingham, England (aston.ac.uk
+domain in internet).
+Had been  disabled, on inquiring to mu departmental computer officer I was told
+that someting I had been running was congesting the network.
+In order to even begin sorting things out I need to see the head of dept (
+appointment next tuesday, 3 March 1992)
+Prior to this I received no complaints in any form, e-mail, memo, phone call,
+personal complaint, fax or whatever. Despite the fact that anyone (on the 
+Internet in fact) could find out these details by running  finger.
+Looks like a case of paranoid people in charge! (who can't or won't talk to
+their users, maybe it's quicker to login and run passwd as root than to 
+pick up the phone and dial a 4 digit number)
+
+
+
+------------------------------
+
+
+------------------------------
+
+From caf-talk Caf Feb 18 00:00:00 1992
+From: sean@sdg.dra.com
+Newsgroups: alt.comp.acad-freedom.talk,alt.security
+Subject: Article 9--Re: NSFnet rules of use and terminus
+Message-ID: <1992Feb18.215827.4@sdg.dra.com>
+Date: 18 Feb 92 21:58:24 CST
+
+In article <9202182357.AA16953@wendy-fate.UU.NET>, kyle@WENDY-FATE.UU.NET writes:
+> If, on the other hand, no one empowered to kill TERMINUS reads USENET,
+> then there is no reason to continue the discussion here, neh?
+
+They may read it (or more likely someone else passed the messages on), but
+the lack of action doesn't mean approval or disapproval.  In the past until
+a formal complaint was been received by the NSF (i.e. a real, paper letter
+directed to the NSFNET program director listing specific allegations would
+do it), they seemed to prefer wait and see how things developed.  Perhaps
+the user community will even figure out the answer themselves, which would
+be the best for all concerned.  Besides that way they don't have to admit
+to USENET's existence, and then have to decide whether USENET is an acceptable
+use of the network.  Acting god-like takes a lot out of you, so most gods
+like to conserve their energy (resting on the seventh day, etc...)
+
+This actually makes a lot of sense.  Even during this debate about TERMINUS,
+exactly what the problem is (if there is one), and the best way of solving
+it has evolved.  By waiting you allow the issue to more fully develop, and
+perhaps get clearer.
+
+My personal opinion is the NSF has no obligation to prevent people from
+using TERMINUS to break into your site (which seems to be the original
+complaint).  I wouldn't expect NSF to cut off MIT or TERMINUS any more
+than I would expect the phone company to disconnect MIT's phones just
+because someone used their phone lines to break into my system.  I especially
+hate the concept that TERMINUS is a nuisance to the Internet, arrest the
+person who broke into your system not the person whose backyard they crawled
+through.
+
+Or I might try to argue that MIT is assuming that TERMINUS users are using
+the Internet for "approved" purposes because the remote system provides the
+authentication when they access the remote service.  It is actually the remote
+system's failure to provide adequate authentication that is allowing the
+unapproved use of the network, not MIT.  If all services (i.e. destination
+ports) on the Internet provided adequate authentication, then nobody could
+use TERMINUS for unapproved use of the NSFNET.  So it is really your fault
+for have an insecure system which is allowing this unapproved use of the
+network.
+
+That seems farfetched?  Look what happened last time that someone from the
+NSF is publicly known to have inquired about some use of the network being
+acceptable.  It seemed to be claimed the site providing the service (for
+example, access to certain GIF files (well, this was cross-posted :-)) is 
+responsible for blocking use of certain networks.
+
+I agree it is damn annoying trying to trace connections hopping through
+multiple hosts that don't provide even minimal authentication.  And the
+Internet likes making it harder just by its distributed nature.  I also
+have problem with systems that are providing "menued" access to various
+systems, in addition to the "wide-open" access that TERMINUS allows.  Often
+one of the items on the menu is yet another system with anonymous login
+to yet another menu.  Even with authd, you just end up with the name of
+the other machine's anonymous login account.
+
+What does the future hold?
+
+I think they'll get shutdown not by the NSF, but by the privatization
+of the network.  This type of access also wrecks havoc with anyone trying
+to do any type of traffic control or  monitoring based on source or destination
+addresses.  Why pay com-bits when you can just TELNET to someplace like
+services at wugate.wustl.edu and pick dra.com on their menu so the traffic
+that hits the ANS/NSF gateway has that "good/free" non-profit educational IP
+net address rather than whatever the original IP address was.
+
+If you still want to make a formal complaint, give NSF a call first to at
+least warn them.  A formal letter has the effect equivalent to a small nuclear
+device on a bureaucracy.  In addition, if they decide to turn it over to the
+Justice Department be prepared to testify.
+-- 
+Sean Donelan, Data Research Associates, Inc, St. Louis, MO
+Domain: sean@sdg.dra.com, Voice: (Work) +1 314-432-1100
+
+
+
+------------------------------
+
+From caf-talk Caf Feb 27 00:00:00 1992
+From: clewis@ferret.ocunix.on.ca (Chris Lewis)
+Newsgroups: alt.comp.acad-freedom.talk,news.misc
+Subject: Article 10--Re: History of "alt" groups
+Message-ID: <3198@ecicrl.ocunix.on.ca>
+Date: 27 Feb 92 04:32:24 GMT
+
+In article <1992Feb24.004705.10339@mtholyoke.edu> jbotz@mtholyoke.edu (Jurgen Botz) writes:
+|In article <1992Feb22.214243.14848@m.cs.uiuc.edu> kadie@m.cs.uiuc.edu (Carl M. Kadie) writes:
+|>The Iowa State University Netnews policy asserts this bit of history:
+
+|>'The use of Usenet to discuss a wide variety of issues has grown over
+|>the years.  While the "purely technical" newsgroups still exist,
+|>Usenet also includes general discussion on almost anything, including
+|>such topics as aspects of sexual lifestyles, illegal drugs, and racist
+|>humor.  The collective group of Usenet "news administrators" early on
+|>decided to address this area by creating an "alt" group division for
+|>"alternate" selections.  This group can be handled as each site
+|>chooses.'
+
+|>Was this really the original motivation of the "alt" groups? If so, is
+|>this history relevent to today's use of "alt" groups (alt.censorship,
+|>alt.civil-liberty, etc.)?
+
+|Not exactly as I understand it.  The alt hierarchy was created by a couple
+|of users in response to 'censorship' by the now forgotten 'backbone cabal'.
+
+|I'm new to USENET myself, but there are some histories around... you might
+|want to browse through news.answers for them.  Apparently there was a time
+|where practically all news passed through a few large academic sites, which
+|were considered the 'backbone'.  The administrators of these backbone sites
+|thus had the power to control news flow almost entirely, and legend goes
+|that it came to a show-down where they (or some of them) refused to 
+|propagate certain groups (I forget which) despite the fact that they had
+|passed accepted USENET group creation guidelines.  At that point some 
+|people took the matter in their own hands and created the alt hierarchy,
+|which then was not only an alternate hierarchy, but was also propagated
+|via alternate uucp links, bypassing the backbone sites.  Later the wide
+|use of NNTP and the increasing influence of UUNET caused the 'backbone'
+|to fade into history, and while today UUNET _could_ be considered a kind
+|of backbone all by itself, if it suddenly went away they USENET would very
+|quickly be able to reconfigure and carry on without it (excepting those
+|sites for whom a feed from UUNET is the only option for whatever reason).
+
+The showdown you're referring to I think is really the thing that broke
+the "backbone cabal" (more accurately, the "backbone" mailing list
+subscribers, where "backbone" were those 30 or so sites with very large
+impact on connectivity - not just academic).  "comp.women" passed a
+vote inspite of the fact that many major SA's believed the name to be
+a blatant attempt to carry a non-technical and political group in comp
+simply because of increased distribution and flatly refused to carry
+it.  Apparently the arguments got quite violent even within the mailing
+list, and the backbone group broke up.
+
+Though, at about that time increased connectivity was making "backbone"
+more and more irrelevant.
+
+Earlier, back in the days of the "Great Renaming", the people trying to come up
+with the repartitioning of the "mod." and "net." groups into the
+"big seven" hierarchies of today had a problem figuring out how to
+place "news.flame" and "net.bizarre" and probably a few others.  They
+were considered to be just plain garbage, and many hoped that they would
+simply disappear.  Lots of grumbling and some screaming, with the
+group designing the partition refusing to place these groups.  Then a few
+people started complaining about how onerous the new newsgroup voting
+procedures were going to be, and they decided to create their own playpen
+to mess up as they please.
+
+A mess it certainly is.
+
+The drugs group is a special case.  Too many SA's stood up and said
+that they wouldn't carry it under any name, no matter what a vote
+said.  Though I think it predates the current voting procedure.
+
+Ditto, more or less, alt.sex.
+
+Other major kafuffles, eg: comp.protocols.tcp.pc.eniac (or whatever
+it was) or sci.aquaria generated much heat, but had relatively
+little long-term effect.  (Other than you don't see their proponents
+around that much anymore.)
+
+It was a long time ago.  I've blissfully forgotten most of the details.
+
+The prevalence of such groups as "censorship", "civil-liberty",
+"acad-freedom" and the like in alt is because the people who tend to
+want to create such groups think that having to vote for a news
+group is fascist.
+-- 
+Chris Lewis; clewis@ferret.ocunix.on.ca; Phone: Canada 613 832-0541
+Psroff 3.0 info: psroff-request@ferret.ocunix.on.ca
+Ferret list: ferret-request@ferret.ocunix.on.ca
+
+
+------------------------------
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

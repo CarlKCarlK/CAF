@@ -1,0 +1,113 @@
+From: dave@elxr.jpl.nasa.gov (Dave Hayes)
+Newsgroups: alt.activism,alt.comp.acad-freedom.talk,alt.politics.libertarian,alt.society.civil-liberties,comp.admin.policy,comp.org.eff.talk
+Subject:  Re: Student suspended :: User Guidelines
+Date: 25 May 1993 15:57:19 -0700
+Message-ID: <1tu88f$kpr@elxr.jpl.nasa.gov>
+
+st10t@Rosie.UH.EDU writes:
+>	(1) The user shall not seek or reveal information on, obtain copies of,
+>	or modify files, tapes or passwords belonging to other users, nor may
+>	the user misrepresent others.  The user may only use his/her legal name
+>	or actual title at the University.  Only one person may use a computer
+>	account, and that is the person to whom the account was granted.
+
+So "ls" is illegal to do outside of one own's home directory. Further, if 
+the "path" variable contains "/bin", then you have also violated this statute...
+given that a hash table is made in your shell by the act of logging in that
+contains information on files belonging to other users.
+
+>	(6) The user shall not engage in behavior that creates an unpleasant
+>	environment for other users.
+
+Like failing to wear underarm deodorant? Or talking too loud? Hmmm...
+
+>   violations of these conditions are unethical and may be violations of 
+>University policy and/or criminal offenses.  
+
+So, it's against policy to forget to wear underarm deodorant. Interesting.
+
+These policies suck. If I were a thinking about being a student there, if I
+saw these policies I wouldn't be. 
+-- 
+Dave Hayes - Institutional Network & Communications - JPL/NASA - Pasadena CA
+dave@elxr.jpl.nasa.gov       dave@jato.jpl.nasa.gov         ...usc!elroy!dxh
+
+                      A poor man shames us all.
+
+
+-----------------------------------------------------------------------------
+
+
+Newsgroups: alt.comp.acad-freedom.comp.admin.policy,comp.org.eff.talk
+From: rick@trystro.uucp (Richard E. Nickle)
+Subject:  Re: Student suspended :: User Guidelines
+Message-ID: <C7n5LK.721@trystro.uucp>
+Date: Wed, 26 May 1993 15:56:07 GMT
+
+In article <1tto15$nub@menudo.uh.edu> st10t@Rosie.UH.EDU writes:
+>===============================================================================
+>
+>                        Security Guidelines for Users
+>            Adapted from Computing Facilities User Guidelines (1/91)
+>
+>
+>   The University of Houston Information Technology Division exists to
+>serve faculty, staff and students of the University in support of instructional
+>and research activities.  University computing facilities are a public resource
+>and may not be used for personal or corporate profit.  The following conditions
+>apply to all users of the computing facilities:
+>
+> [ relatively reasonable rules deleted to save bandwidth ]
+>	(5) The user shall not engage in deliberately wasteful practices such
+>	as printing large amounts of unnecessary output, performing unnecessary
+>	computations, simultaneously queuing multiple batch jobs and holding 
+>	unused tape drives and telephone lines.>
+Performing unnecessary computations?  That's pretty all-inclusive.  This implies
+that I could be expelled from school for particularly bad programming practices.
+
+main(int argc, char **argv)
+{
+	int	c = 0;  	/* does this unnecessary assignment of zero, 
+				   followed by a second assignment in the loop
+				   code constitute 'unnecessary computation'?
+				   or is my ass saved by a good optimizer?  */
+
+	for (c = 0; c < 100; c++) {
+		printf("%d\n",c);
+	}
+}
+
+Just to clue you in, but the whole process of programming involves quite
+a *BIT* of 'unnecessary computation'.  It's difficult to learn anything
+about the art of programming without squandering a lot of CPU cycles
+running tests of algorithms, sample programs, and making a lot of errors
+(yes, even the 'error' of attempting to find out more about the system
+by poking around in the different directories finding out what all the
+little parts do).  
+
+I say your student, by looking at the /etc/passwd file was at worst
+attempting to gain access to information that would make no threat
+to your site's security, at best accessing information which he
+may have needed for some legitimate purpose, and at *least* engaging
+in a human characteristic which is fundamental to the learning
+process:  curiosity.  If I was interviewing a student from your
+school for a Unix related job who *didn't* know what the /etc/passwd
+file did, where it was, and what it's characteristics were, I 
+certainly wouldn't hire him.
+
+>	(6) The user shall not engage in behavior that creates an unpleasant
+>	environment for other users.
+And the University's responsibilty is to create an environment conducive
+to learning.  You also have responsibilities.  It seems to me, barring
+some evidence of misconduct that the University has not presented, that
+the charges are based on ignorance on the part of the school, not facts. 
+
+I understand that the University is more at risk for litigation than the
+student, and that you may be witholding some piece of information, but
+unless this kid is an axe-murderer or something, I'd reinstate him and
+let this whole thing drop right now.  It's definitely hurting your image.
+
+-- 
+richard nickle		rick@trystro.uucp	617-625-7155 v.32/v.42bis
+			think!trystro!rick	somerville massachusetts
+

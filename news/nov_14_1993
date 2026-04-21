@@ -1,0 +1,1167 @@
+<HEAD>
+<TITLE> Computers and Academic Freedom News</TITLE>
+<BODY>
+<h1>
+<img src="http://www.eff.org/CAF/cafnews.gif">
+</A> <b>Computers and Academic Freedom News</b></h1> <p>
+
+<A NAME="2blkss$fqf@s.ms.uky.edu">  Re: [comp.org.eff.talk]  More on Florida e-mail privacy</a>
+
+<pre>
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+Subject:  Re: [comp.org.eff.talk]  More on Florida e-mail privacy
+Date: 8 Nov 1993 14:25:32 GMT
+Message-ID: <2blkss$fqf@s.ms.uky.edu>
+>Newsgroups: comp.org.eff.talk
+>From: gtoal@pizzabox.demon.co.uk ("gtoal)
+>
+>> The Florida Public Records Law has been construed to cover electronic mail
+>> messages. The University may maintain a copy of your e-mail messages on
+>> magnetic tape for up to one year in compliance with law. 
+
+Note the use of the words "may maintain."  Nothing says that the University
+*must* maintain these archives.
+
+>This looks to me not like they *could* make your email public if for some
+>reason it was necessary, but that they're actively archiving all posts.
+>All sounds very dubious to me.
+
+Indeed.
+
+Some years ago, this university made a similar finding.  When we received
+notice that email could fall under Open Meetings law (the Kentucky version
+of the "sunshine" law), I (with my supervisor's concurrence) made the sim-
+ple decision; we simply stopped archiving electronic mail.  Email is the
+sole item not included in our backup schemes.  Our users know about this
+policy, and we haven't received any complaints.  If a user does want a
+piece of email archived, they merely save it as a file in their diskspace;
+it is then a "user file," which is automatically included in backups.
+
+It has not been tested, but I believe that "user files" enjoy a level of
+protection above that of electronic mailboxes.  One can make the argument
+that mailboxes are "system space," but user files are maintained in pri-
+vate space.  I do not believe that a request under the Open Meetings law
+would empower me (as an admin) to go rooting through user files; in any
+case, I fervently hope that it does not.
+
+>Btw the university is CFRVM.BITNET - don't know what that is in real life.
+
+According to my copy of BITEARN NODES (the master list of BITNET/EARN
+sites), CFRVM is the "Florida Central Regional Data Center."  This
+sounds like some sort of cooperative venture; it may involve several
+universities.
+
+--Wes
+
+-- 
+      Wes Morgan ----- University of Kentucky ----- morgan@engr.uky.edu
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+           GCS/E/MU  d---  -p+  c++  l+  m*  s++/++  !g  w+  t+   r
+                     gharshana-neti -- mental floss?
+</pre>
+<A NAME="2bmrt2$j3f@eff.org">  Re: Policy from the Stevens Institute of Technology login</a><pre>
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject:  Re: Policy from the Stevens Institute of Technology login
+Date: 8 Nov 1993 20:31:14 -0500
+Message-ID: <2bmrt2$j3f@eff.org>
+A critique.
+
+Summary: Due process is poor with punishment proceeding "conviction"
+by special computer judicial committee. Privacy protection is vague
+without details of how keystroke monitoring of users is authorized.
+Free expression protection is poor with some programs and (apparently)
+pseudonymous expression banned.
+
+>	Unauthorized use is not allowed; keystroke monitoring by 
+>	authorized personnel may be in effect when system security or 
+>	integrity is in question.  By using this system, you expressly 
+>	consent to such monitoring and any resultant legal actions.
+
+This is actually better than the CERT original. At least the criteria
+for monitoring authorized users is "when system security or integrity
+is in question" rather than when a authorized user is suspected of
+exceeding his or her authority. Also it says "keystroke monitoring"
+rather than just "monitoring".
+
+What it doesn't do is detail how Institute personnel get authorization
+to monitor the keystrokes of authorized users. Is every Institute
+employee preauthorized to start monitoring on his or her own? Or does
+authorization come from some higher official on a case-by-case basis?
+The _Joint Statement on Rights and Freedoms of Students_ recommends:
+
+  Except under extreme emergency circumstances, premises occupied by
+  students and the personal possessions of students should not be
+  searched unless appropriate authorization has been obtained. For
+  premises such as residence halls controlled by the institution, an
+  appropriate and responsible authority should be designated to whom
+  application should be made before a search is conducted. The
+  application should specify the reasons for he search and the objects
+  or information sought. The student should be present, if possible,
+  during the search. For premises not controlled by the institution,
+  the ordinary requirements for lawful search should be followed.
+
+If you believe that academic freedom principles should apply to
+computers, this could easily be extended to computer monitoring.
+
+>        ANTI-WATCHDOG programs are prohibited on the VAXcluster.
+[...]
+>Sending electronic mail or messages to other users at Stevens (or elsewhere)
+>UNDER A PHONEY USERNAME is not permitted.  Having mail-sending programs which 
+>falsify the sender's identity is also not allowed since this type of program 
+>is only "useful" for sending phoney mail.  
+[...]
+
+Mere possession of programs should not be banned. Programs are
+expressive material and should be protected by the Institute's
+commitment to free expression. At most the Institute should require
+that banned-from-running programs be disabled so they can't be
+executed accidently.
+
+As to prohibiting "phoney" usernames. "Phoney" was an interesting word
+choice. I believe it comes from the early days of the telephone when
+people wuold make fraudulant phone calls pretending to be someone
+else. If the Institute only means to prohibit fraudulent
+impersonation, then I wish them all the best. If, on the other hand,
+they also mean to prohibit all pseudonymous and anonymous expression
+than I think they go to far. As the Supreme Court said in _Tally v.
+California_: "{a}nonymously pamphlets, leaflets, brochures and even
+books have played an important role in the progress of mankind.
+Persecuted groups and sects from time to time throughout history have
+been able to criticize oppressive practices and laws either
+anonymously or not at all."
+
+>	Sending "chain" letters is not permitted on Stevens campus
+>	network or externally out across Internet, BITNET, etc.
+>	This is considered a serious offense by the guidelines of
+>	the Network Review Board.  Violators are subject to loss
+>	of access to the academic VAXcluster pending deliberation/decision
+>	by the Network Review Board (student policy-enforcing group.)
+[...]
+
+This reminds me a line from Lewis Carroll's _Alice in Wonderland_:
+
+   "No, no," said the Queen: "The sentence first -- the verdict
+    afterwards."
+
+In contrast, the Joint Statement on Rights and Freedoms of Students
+says:
+
+   Pending action on the charges, the status of a student should not
+   be altered, or his right to be present on the campus and to attend
+   classes suspended, except for reasons relating to his physical or
+   emotional safety and well being, or for reasons relating to the
+   safety and well-being of students, faculty, or university property.
+
+Also, how does the Network Review Board fit in the the Institute's
+larger due process procedures? What training does the Board get?
+Respecting due process is a difficult and important task that should
+only be given to committees with extensive training. Most academic
+institutions would do better to treat computer infractions like other
+school infractions, rather than trying to set up a computer center
+specific judicial system.
+
+- Carl
+
+academic/student.freedoms.aaup
+statements/caf-statement
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>
+<A NAME="2brkcq$kts@eff.org">  "Sysop Liability for Enroute (and/or Encrypted) Mail"</a><pre>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.privacy,comp.admin.policy,misc.legal
+Subject:  "Sysop Liability for Enroute (and/or Encrypted) Mail"
+Date: 10 Nov 1993 15:53:46 -0500
+Message-ID: <2brkcq$kts@eff.org>
+[This article, posted with the author's permission, covers both
+liability for mail and the CERT recommended policy.  It appeared in
+FIDONews and is written from the BBS perspective. The author is:
+
+mike.riddle@rlaw.omahug.org        |  Riddle Law Office
+bc335@cleveland.freenet.edu        |  +1 402 331-6249 (Data/Fax) 
+Sysop of 1:285/28@Fidonet          |  V.32bis/V.42bis/Gp III V.17
+
+-Carl]
+
+======================================
+Sysop Liability for Enroute (and/or Encrypted) Mail
+Mike Riddle
+1:285/27
+
+[The following article is under submission.  Reproduction on computer
+bulletin boards is permitted for informational purposes only, provid-
+ing that it remains intact with copy right notice and disclaimer.
+Copyright (c) 1993 by Michael H. Riddle All other rights reserved.]
+
+          SYSOP LIABILITY FOR ENROUTE (AND/OR ENCRYPTED) MAIL
+
+Recently email systems in general, and Fidonet in particular, have
+seen a great deal of debate about the potential liability of sysops
+for material entered on or passing through their systems.  This
+article attempts to discuss the laws, legal issues, and court deci-
+sions known to bear on the subject.
+
+While the law is unsettled on the liability of sysops for netmail on
+their systems, enroute or otherwise, any liability attaches regardless
+of enroute or encrypted status.  Since liability, if any, increases
+with actual sysop knowledge of the contents, encryption will not
+increase any sysop liability and may, in fact, diminish it.
+
+                                 FACTS
+
+Many individuals operate computer bulletin boards as a hobby.  Many of
+those bulletin boards (BBSes) are members of one or more networks,
+passing messages in a store-and-forward manner using the public
+switched telecommunications network.  Many of those sysops have their
+BBSes configured to allow private electronic mail to be routed through
+their systems, either as a service to their users or as a requirement
+of their membership and status in the network.  Traditionally, such
+"private" mail was stored on the system in a form that is readable by
+the persons or entities operating the system.  Depending on the
+configuration and software involved, such private mail might be easily
+read, or might be read only if a deliberate attempt to do so was made,
+but in any event was available in ASCII format at some point, and/or
+was stored using one of many compression schemes that could be read by
+anyone with the proper software.
+
+As a result of relatively recent technological developments, individu-
+als now have the capability to encrypt data using their personal
+computers, without using extraordinary amounts of time.  Public key
+cryptography systems, such as PEM or PGP, have been publicly released
+and are seeing increasing use.  The obvious result has been the use of
+encryption for the contents of routed mail packets.  For perhaps the
+first time, sysops who route mail have started inquiring about their
+liability for such mail, since the perception of safety that came from
+a technical ability to read the mail is not present with encrypted
+mail.
+
+FidoNews 10-45                 Page:  4                    07 Nov 1993
+
+                             CRIMINAL LAW
+
+Sysops providing "private" mail service operate under the terms and
+limitations of the Electronic Communications Privacy Act of 1986
+(ECPA) (18 U.S.C. ss 2510 et seq.).  This section will, of necessity,
+be somewhat "legalese."  I've tried to make it as readable as possible
+and still discuss the technical (in a legal sense) points that ought
+to matter to sysops investigating their legal status.
+
+Whether or not the ECPA appears to allow providers of "electronic" (as
+opposed to "wire") communications the legal ability to monitor the
+messages on their systems is a matter of some dispute.  The best
+answer is that the law on the subject is unclear.  From the act:
+"'wire communication' means any aural transfer ...."  18 USC 2510 (1).
+On the other hand,  "'electronic communication' means any transfer of
+signs, signals, writing, images, sounds, data, or intelligence of any
+nature...."  18 USC 2510 (12).  "It shall not be unlawful under this
+chapter for an operator of a switchboard, or an officer, employee, or
+agent of a provider of wire *or electronic* [Note 1: see discussion
+below] communication service, whose facilities are used in the trans-
+mission of a wire [Note 2: see discussion below] communication, to
+intercept, disclose, or use that communication in the normal course of
+his employment while engaged in any activity which is a necessary
+incident to the rendition of his service or to the protection of the
+rights or property of the provider of that service, except that a
+provider of wire communication service to the public shall not utilize
+service observing or random monitoring except for mechanical or
+service quality control checks."  18 USC section  2510(2)(a)(i)
+(emphasis added).  One of the drafters of the act has indicated that
+the exception limiting "wire," but not "electronic," communication
+stems from the drafters' knowledge of the state of the art at that
+time; however, the distinction is present in the law.
+
+>From this two arguments can be (and have been) made.  First, that by
+prohibiting only providers of "wire" communications from service
+observing or random monitoring, the drafters did not intend "elec-
+tronic" communications to be subject to the same restrictions and that
+service observing or random monitoring of electronic communications
+are not prohibited.  But the counter-argument is that while the law
+exempts "providers of wire or electronic communication service, whose
+facilities are used in the transmission of a ... communication, the
+exemption does not specifically allow for "electronic" communications,
+only wire.  There is an internal inconsistency caused by the failure
+either to omit the two words *or electronic* [Note 1]  or to include
+them [Note 2] in section 2511(2)(a) at the points indicated by my
+insertion of [see discussion below].
+
+One of the drafters of the ECPA recently commented that the legisla-
+tive history supports the position that electronic communications were
+exempted from the act's general prohibitions; that is, the drafters
+intended to place special protections on voice, normally telephone,
+communications while allowing real-time monitoring of electronic
+communications as defined by the act.
+
+     It now seems clear to me that there is a glitch in ECPA with
+FidoNews 10-45                 Page:  5                    07 Nov 1993
+
+     regard to real time access for security purposes to elec-
+     tronic messages.  2511(2)(a) was supposed to allow monitor-
+     ing of electronic communications for security purposes by
+     the sysop -- the legislative history makes that clear and
+     distinguishes monitoring of voice which is more limited.
+     But the amendments failed, for technical reasons, to add
+     "and electronic communications" after the single reference
+     to "wire" -- so that the literal text now appears to read to
+     allow this type of security- based monitoring only with
+     regard to wire communications.  There are some other argu-
+     ments [that would allow it]--but none is as bullet proof as
+     the section would have been if it had been written as I
+     think all intended.
+
+This ambiguity is what led to the Department of Justice recommendation
+that system administrators at government computer sites place explicit
+disclaimers at logon, warning that keystroke monitoring or service
+observation might be used, if they thought they would ever want to use
+this technique.
+
+The above discussion applies primarily to real-time monitoring.  In
+the only known decision construing the ECPA, the distinction between
+"interception" (i.e., real-time monitoring) and "access to stored
+communications" was essential to the holding that no "interception"
+had taken place.  Steve Jackson Games, Inc., v. U.S. Secret Service,
+816 F. Supp. 432 (W.D. Tex. 1993).  However, due to the nature of
+store-and-forward mail, the mail remains in storage for some period,
+and it is clear that the sysops legally have access to the material in
+storage.  However, sysops are limited in what they can do with their
+knowledge, if any, of the mail in storage.  With some limited excep-
+tions, they may only disclose it to the sender or to the intended
+recipient.  They are required to disclose it pursuant to court orders
+and subpoenas, but the ECPA gives particular instructions on how such
+are to be obtained.  And the sysops *may*, with respect to stored
+communications, disclose the contents to a law enforcement agency if
+the contents were *inadvertently* obtained *and* appear to involve the
+commission of a crime.  18 USC 2702 (b)(6).  The sysop also may
+disclose the contents of a communication "as may be necessarily
+incident to the rendition of the service or to the  protection of the
+rights or property of the provider of that service."  18 USC
+2702(b)(5).  Deleting any mail that does not comply with the sysop's
+ideas of propriety or appropriateness is *not* specifically autho-
+rized.
+
+                               CIVIL LAW
+
+The ECPA also provides for civil remedies by the person aggrieved by
+an illegal disclosure of the contents of a private message.
+18 U.S.C. 2707 et seq.
+
+Over and above those limitations, the civil laws of forfeiture gener-
+ally allow the government (state or federal) to seize property for
+which probable cause exists to believe is the instrumentality of a
+crime, and the lawful owner may attempt to recover in a civil action.
+The burden of proof is upon the person claiming the interest in the
+FidoNews 10-45                 Page:  6                    07 Nov 1993
+
+property to prove the property was *not* the instrumentality of a
+crime.
+
+                               ANALYSIS
+
+Many sysops post some kind of disclaimer, either as a bulletin or as
+part of a service contract, formal or implied, that no "private" mail
+exists on their system.  A threshold question is "what is 'private
+mail' for the purpose of the ECPA or any other law or civil action?"
+Notwithstanding any bulletin or disclaimer, almost all mail software
+asks or treats some messages as "private."  In the Fidonet protocols,
+there is a defined bit in the message which gives the privacy status,
+thus giving rise to an expectation of privacy.  Also, netmail is
+generally readable only by the sender, intended recipient, and the
+sysops involved.
+
+Interestingly, the law does not protect "private" messages.  It
+protects *any* message that is "not public," in the words of the law,
+any message not "readily accessible to the general public."  "'Readily
+accessible to the general public' means...that such communication is
+not (A) scrambled or encrypted; [or] (B) transmitted using modulation
+techniques whose essential parameters have been withheld from the
+public with the intention of preserving the privacy of such communica-
+tion...."  18 U.S.C. 2510(16).
+
+This protection would, in my opinion, include all "netmail" or
+"email," notwithstanding any disclaimers that "we don't have private
+mail."  The existence of areas for public discussion, using most of
+the "bandwidth" of hobby BBSes, obscures the fact that the basis of
+the system, be it Fidonet or Internet, is electronic mail.  To refer
+again to the ECPA:  "A person or entity providing electronic communi-
+cation service to the  public may divulge the contents of any such
+communication... (i) as otherwise authorized in section 2511(2)(a)
+[readily accessible to the general public], (ii) with the lawful
+consent of the originator or any addressee or intended recipient of
+such communication; [or] (iii) to a person employed or authorized, or
+whose facilities are used, to forward such communication to its
+destination....  18 U.S.C. 2511(3)(b).
+
+Thus, except for messages in public discussion areas, all communi-
+cations stored on a BBS (that is, netmail or email) are protected, the
+nature of the software raising an expectation of privacy and that
+privacy being protected by law.  Note that exception (iii) covers
+forwarding routed mail to the next link in the process.
+
+A thorough reading of the ECPA reveals no requirement for a sysop to
+voluntarily disclose the contents of a message to anybody.  The law
+does, as noted above, allow such disclosures under limited circum-
+stances.  What then are the sources of liability for sysops for
+messages stored on their systems?
+
+In the area of criminal law, liability might attach as a conspirator,
+co-conspirator, accessory or accomplice.  Note, however, that a "mens
+rea," a criminal intent, is generally required for criminal liability.
+
+FidoNews 10-45                 Page:  7                    07 Nov 1993
+
+In the area of civil forfeitures, the mere fact that probable cause
+existed to believe the system was an instrumentality of a crime is all
+that is required for the seizure; however, as a practical matter,
+seizures seem almost always to occur when there is probable cause (as
+seen by the judicial system) to believe the owner is guilty of some-
+thing.
+
+How might a sysop protect themselves?  First, note that disclosure to
+law enforcement requires that the contents be inadvertently obtained.
+An argument might exist that disclosure to law enforcement is also
+allowed by the language that the sysop may disclose the contents of a
+communication "as may be necessarily incident to the rendition of the
+service or to the  protection of the rights or property of the provid-
+er of that service," 18 USC 2702(b)(5).  The fact exists, however,
+that the statute in other places specifically says the contents must
+be inadvertently obtained to allow disclosure to law enforcement.  As
+a practical matter it might not matter, but one argument might be that
+the sysop should *not* routinely monitor the contents, since disclo-
+sure to law enforcement is only specifically authorized when knowledge
+is inadvertent.
+
+The argument can be made that, with respect to netmail, routed, direct
+or crash, BBSes look most like common carriers, and therefore are, or
+should be, exempt from liability for their contents.  This argument is
+strengthened when the BBS routinely gives access to routed netmail to
+all users, or to any user who asks for it.  This is because a true
+common carrier has an obligation to handle traffic for anyone who
+meets the requirements of the tariffs.  Conversely, the BBS looks less
+like a common carrier if relatively few users can access netmail.  If
+routed mail is added into the equation, the BBS begins to look more
+like a relay point in a common carrier scheme when it grants relay
+privileges to more and more other systems.
+
+Note that in Cubby v. Compuserve, 776 F. Supp. 135 (S.D.N.Y. 1991),
+the court held Compuserve not liable for material on their system
+unless they were shown to have actual knowledge and did not take
+appropriate action.  The court found them to be like booksellers, who
+are similarly immune unless actual knowledge is shown.  If sysops make
+a practice, or state as their practice, the routine viewing of all
+material on their system, the qualified immunity they arguably have is
+destroyed.
+
+                         ENCRYPTION (finally)
+
+Note that whether or not the message was encrypted did not figure in
+any of the above analysis, except that there is a reasonable presump-
+tion that if it were encrypted it was not "readily accessible to the
+general public."  As applied to PEM and PGP, this would, it seems,
+exclude "signed" mail as long as it was not "encrypted" as well.  When
+considering the impact of encryption, we must note that normally for
+criminal law to attach, knowledge (intent) is a prerequisite.  For
+seizure, there must at least be probable cause that the system was
+used in the planning or commission of a crime.  In either of those
+cases, with respect to the sysop, encrypted messages tend to disprove
+the elements:  you can't show knowledge if the sysop can't read the
+FidoNews 10-45                 Page:  8                    07 Nov 1993
+
+traffic, and you can't prove the system was used in a crime if you
+can't read the traffic.
+
+Law enforcement might be able to show the encrypted contents were
+illegal if they could obtain the decrypted messages and trace back the
+route; however, if a system ran in "pass-through" mode there would at
+least be a question of proving the system was actually used.  If the
+system ran in toss and rescan, and if the message hadn't deleted due
+to age or number of messages, then you could show the message was on
+the system.  But you still couldn't show the sysops had knowledge,
+making it less likely they would be perceived as somehow "guilty" of
+something.  This last point is enhanced if it can be shown that the
+system routinely routed mail for any and all parties.
+
+                              CONCLUSION
+
+The question of sysop liability for messages stored on or passing
+through their system is unsettled.  Sysop liability might attach as
+part of a criminal act, but knowledge is required and the fact of
+encryption would, when the sysop could not read the message, tend to
+disprove knowledge.  Liability might attach in the form of civil
+forfeiture, but again lack of knowledge makes the sysop appear less
+"blameworthy."  While guilt is not an element of civil forfeiture, the
+conventional wisdom is that forfeiture is only used when guilt of some
+kind has attached, at least in the mind of law enforcement, to the
+owner of the property.  The more a sysop and system look like a common
+carrier, handling traffic without knowledge of the contents, the less
+likely they are to be subject to some sort of liability for their
+actions.  Finally, the use of public key encryption does not appear
+increase their liability, and might in some circumstances decrease it.
+
+For the reasons stated above, it is my conclusion that systems routing
+mail should use pass-through where available, and should specifically
+allow, and even encourage, the use of public key encryption as a
+measure to limit their liability in case they are used in some ques-
+tionable manner.
+
+[The author is an attorney licensed to practice in the state and
+federal courts of Nebraska.  While he has studied the issues fairly
+extensively, the comments apply generally to persons within the United
+States and he is not giving legal advice to any particular person.
+Finally, this memorandum does not address International Traffic in
+Arms Regulations (ITAR) (22 CFR 120 ff) applicable to the export
+and/or import of cryptographic software.  No one should rely upon the
+following without consulting their own attorney for advice on their
+particular question or problem.]
+
+----------------------------------------------------------------------
+
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>
+<A NAME="1993Nov12.094634.15831@newstand.syr.edu">  Re: Supreme Court speaks on sexual harassment and hostile environment</a><pre>
+Newsgroups: misc.legal,alt.censorship,alt.comp.acad-freedom.talk
+From: greeny@top.cis.syr.edu (J. S. Greenfield)
+Subject:  Re: Supreme Court speaks on sexual harassment and hostile environment
+Message-ID: <1993Nov12.094634.15831@newstand.syr.edu>
+Date: Fri, 12 Nov 93 09:46:34 EST
+Note changes to newgroup line...
+
+
+In article <2bv1uh$ef4@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>
+>>Summary: In light of _Harris v. Forklift Systems_, the U. of Illinois
+>>sexual harassment is clearly unconsititutional. It should be revised.
+>
+>As several people have pointed out, _Harris_ does not clearly show the
+>U. of Illinois SH policy is unconsititutional. It doesn't show that
+>the Illinois policy is constitutional either. Rather _Harris_ avoids
+>all constitutional issues, confining itself to interrupting the law
+>and the EEOC regulations.
+>
+>At most _Harris_ says that universities cannot justify banning
+>offensive speech by claiming a parallel to Title VII (employment law),
+>since, according to _Harris_, Title VI doesn't ban merely offensive
+>expresion.
+
+
+Yesterday, I made public some of my criticisms of a recently adopted
+sexual harassment policy at Syracuse University.  I'm reprinting it
+here for commentary and criticism, and also to provide others with some
+basic information and arguments that can be used to oppose discriminatory
+harassment policies that overstep the bounds of harassment to regulate
+"protected" speech.
+
+Disclaimers:  I am neither a lawyer nor a law student.  The critique is
+short, in the hopes that semi-interested people will not lose interest
+before reaching the end.  Naturally then, it does not go into much detail.
+It's just a basic outline for the arguments.  The critique may also strike
+some people as a bit inflammatory in places.  This was intentional, as an
+important goal of the critique is to spark some debate on campus.  (The SU
+policy was poorly publicized on campus, and consequently, there has been
+very little public debate and critical evaluation of the policy.)
+
+Finally, since Syracuse University is a private institution, the critique
+is written for that context.
+
+
+---------------------
+
+A Critique of the Syracuse University Sexual Harassment 
+Policy* 
+
+Jonathan Greenfield
+Department of Computer and Information Science
+Syracuse University
+
+November 11, 1993
+
+
+	On October 20, 1993, the University Senate at 
+Syracuse University adopted a policy prohibiting sexual 
+harassment and establishing procedures for responding to 
+complaints of sexual harassment [1].  While the policy 
+addresses several aspects of sexual harassment, this 
+critique examines only the policy's definition of the so-
+called "hostile environment" form of harassment.  This 
+critique specifically does not address the policy's 
+definition of the so-called "quid pro quo" form of sexual 
+harassment or the enforcement procedures established by 
+the policy.  For the remainder of this critique, we shall 
+use the phrase "sexual harassment" to refer to the 
+"hostile environment" form of such harassment.
+
+	The sexual harassment policy suffers from two basic 
+flaws.  First, the policy's definition of sexual 
+harassment is so vague that individuals "of common 
+intelligence must necessarily guess at its meaning."  By 
+law, this means the policy is unconstitutionally vague 
+[2].  Consequently, the contractual obligations that the 
+policy intends to create are almost certainly not legally 
+enforceable.
+
+	Secondly, the sexual harassment policy is 
+"susceptible of regular application to protected 
+expression" and is, therefore, overbroad on its face [3].  
+If this policy were adopted by a public institution, it 
+would eventually be struck down because of its 
+overbreadth (and vagueness).  This is precisely what 
+occurred after similar policies on discriminatory 
+harassment were adopted by the University of Michigan [4] 
+and the University of Wisconsin System [5].
+
+	As a private educational institution, Syracuse 
+University is not legally prohibited from adopting a 
+constitutionally overbroad regulation, such as the 
+current policy on sexual harassment.  However, such a 
+policy violates fundamental principles of academic 
+freedom, as well as many specific policies previously 
+adopted by the university, including the Statement of 
+Student Rights and Responsibilities [6], the Code of 
+Student Conduct [7], University Policies [8] and Academic 
+Rules and Regulations [9].  The policy also violates 
+professionally-accepted standards of academic freedom, 
+such as those embodied in the American Association of 
+University Professors (AAUP) policy on speech codes [10].
+
+	Unfortunately, the Syracuse policy goes well beyond 
+a simple speech code.  The policy's mention of "leering" 
+and "ogling" as definitive examples of potentially 
+harassing behavior is plainly shocking.  The idea that 
+looking at someone in the wrong way could constitute 
+actionable "harassment" violates all principles of bodily 
+integrity.  The idea is reminiscent of the old South, 
+where a Negro who failed to avert his eyes from a white 
+(and, particularly, from a white woman) could suffer most 
+severe consequences as a result.  Furthermore, the 
+policy's inclusion of such outrageous provisions is 
+likely to undermine the university's efforts to combat 
+bonafide harassment.
+
+	All of these problems stem primarily from the 
+policy's failure to draw any distinction between 
+expression which is merely "offensive" and that which 
+constitutes actionable harassment.  This distinction is, 
+of course, essential to protecting freedom of expression, 
+and is well-recognized by judicial precedent on sexual 
+harassment.  As the Supreme Court held in Meritor v. 
+Vinson [11],
+
+    ...not all workplace conduct that may be described as
+    "harassment" affects a "term, condition, or 
+    privilege" of employment within the meaning of Title
+    VII....  For sexual harassment to be actionable, it
+    must be sufficiently severe or pervasive "to alter
+    the conditions of [the victim's] employment and
+    create an abusive working environment."
+
+Just this week, the Supreme Court reaffirmed this 
+distinction in Harris v. Forklift Systems [12],
+
+    ..."mere utterance of an...epithet which engenders
+    offensive feelings in an employee," ...does not
+    sufficiently affect the conditions of employment to
+    implicate Title VII. Conduct that is not severe or
+    pervasive enough to create an objectively hostile or
+    abusive work environment--an environment that a
+    reasonable person would find hostile or abusive--is
+    beyond Title VII's purview.
+
+This distinction is also recognized by the AAUP model 
+policy on sexual harassment [13], with which the Syracuse 
+policy purports to be consistent.
+
+	The necessity that grievous behavior be "severe or 
+pervasive" to be actionable is wholly ignored by the 
+Syracuse policy.  At a minimum, the absence of this 
+distinction will leave many individuals wondering whether 
+any such distinction exists.  An inevitable consequence 
+of this confusion will be a serious chilling effect on 
+expression at this university.
+
+	Though the policy suggests that such troublesome 
+provisions are required by federal and state law, this is 
+simply not the case.  The Syracuse policy goes far beyond 
+the requirements of the law with respect to sexual 
+harassment, to the point of violating basic First 
+Amendment principles.
+
+	At the same time, the policy fails to address 
+harassment predicated on bases other than sex.  Since 
+Title VI and Title VII of the Civil Rights Act of 1964 
+prohibit discrimination on other bases, including race, 
+color, national origin and religion, Syracuse University 
+is equally responsible for discriminatory harassment 
+predicated upon those bases as for sexual harassment.  
+The policy's failure to address other forms of 
+discriminatory harassment leaves the university in a 
+tenuous position.  If an agent of the university were to 
+perpetrate some other form of prohibited discriminatory 
+harassment, the absence of a policy addressing such 
+harassment would expose the university to substantial 
+civil liability [11].
+
+	For these reasons, one can only conclude that 
+Syracuse University's newly-adopted policy on sexual 
+harassment is fundamentally flawed.  The policy fails to 
+provide any protection for freedom of expression.  The 
+policy is so vague as to be unenforceable if challenged.  
+Finally, the policy completely fails to address several 
+important classes of discriminatory harassment prohibited 
+by federal law, leaving the university with considerable 
+liability exposure.
+
+
+References
+
+1.  "Responding to sexual harassment at Syracuse
+    University," The Syracuse Record, 9/18/93, pps. 6-7.
+2.  Broadrick v. Oklahoma, 413 U.S. 603 (1973).
+3.  Houston v. Hill, 107 S.Ct. 2502 (1987).
+4.  Doe v. University of Michigan, 721 F.Supp. 852
+    (E.D. Mich. 1989).
+5.  UWM Post v. University of Wisconsin, 1991 WL 206819
+    (E.D. Wis. 1991).
+6.  "Speech/Expression/Press," Statement of Student
+    Rights and Responsibilities, in S.U. Student Handbook
+    1993-94, pp. 172.
+7.  Harassment clause, Code of Student Conduct,  in S.U.
+    Student Handbook 1993-94, pp. 174.
+8.  "Protests and Demonstrations," University Policies,
+    in S.U. Student Handbook 1993-94, pp. 186.
+9.  "Academic Freedom," Academic Rules and Regulations
+    1993-94, pp. 27.
+10. "On Freedom of Expression and Campus Speech Codes,"
+    Academe, July-August 1992, pps. 30-31.
+11. Meritor Savings Bank v. Vinson, 477 U.S. 57 (1986).
+12. Harris v. Forklift Systems, No. 92-1168 [citation not
+    available] (1993).
+13. "Sexual Harassment: Suggested Policy and Procedures
+    for Handling Complaints," Academe, September-October
+    1990, pps. 42-43.
+
+* Copyright 1993, Jonathan Greenfield.  This essay may be 
+reprinted in whole for non-commercial use, provided that 
+this copyright notice is included in any reprint.  All 
+other rights reserved.
+
+-- 
+J. S. Greenfield                                         greeny@top.cis.syr.edu
+(I like to put 'greeny' here, 
+but my d*mn system wants a 
+*real* name!)                        "What's the difference between an orange?"
+</pre>
+<A NAME="2btrlc$ie6@s.ms.uky.edu">  Replacement for CERT banner, was Re: "Sysop Liability..."</a><pre>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.privacy,comp.admin.policy,misc.legal
+Subject:  Replacement for CERT banner, was Re: "Sysop Liability..."
+Date: 11 Nov 1993 17:10:04 GMT
+Message-ID: <2btrlc$ie6@s.ms.uky.edu>
+>CERT's example disclaimer is awful. 
+>
+>Please someone, suggest better language.
+
+I'll take a stab at it.  When reading this banner, please keep in
+mind the following caveats:
+
+	- I believe that detailed monitoring may be necessary during
+	  security incidents.
+
+	- I believe that evidence of criminal activity, even when
+	  discovered inadvertently, should be reported to the appro-
+	  priate authority.
+
+	- I believe that routine system accounting (as implemented on
+	  most Unix systems) is not an invasion of user privacy.
+
+	- I believe that routine email logs (as implemented on most
+	  Unix systems) are not an invasion of user privacy.  
+
+	- I've made great effort to fit the entire banner on one
+	  24-line screen.  8)
+
+	- I make no guarantees as to the suitability of this banner
+	  for US Government systems.  8) 8)
+
+=====================SAMPLE BANNER============================
+  This system is for use by authorized personnel only.  Access by un-
+  authorized personnel, by any means, is prohibited.
+
+  During system security incidents, the use of detailed monitoring may be 
+  authorized as an investigative tool.  While such monitoring will be di-
+  rected solely toward the allegedly unauthorized use, it is possible that 
+  authorized users may be monitored in the course of the investigation.  In 
+  such cases, any information discovered via monitoring will be considered
+  strictly confidential.  The sole exception to this policy is evidence of 
+  criminal activity; such information, even if discovered inadvertently, 
+  will be directed to the appropriate authority.
+
+  The content of electronic mail will not be included in monitoring proce-
+  dures without explicit legal permission.  However, some information about 
+  electronic mail is gathered as a routine measure; this information includes 
+  the source and destination addresses.
+
+  A more detailed description of this policy can be found in the file 
+  /usr/local/site.policy; a printed copy may also be obtained from Computing 
+  Services.  Questions or comments concerning this policy should be directed 
+  to Joe Schmo, schmo@site.name.domain, telephone XYZ-ABCD.
+=====================SAMPLE BANNER============================
+
+Give me a second to don my asbestos jammies...
+
+--Wes
+
+-- 
+      Wes Morgan ----- University of Kentucky ----- morgan@engr.uky.edu
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+           GCS/E/MU  d---  -p+  c++  l+  m*  s++/++  !g  w+  t+   r
+                     gharshana-neti -- mental floss?
+</pre>
+<A NAME="199311122107.AA12164@eff.org">  Better text?</a><pre>
+Newsgroups: alt.comp.acad-freedom.talk
+Subject:  Better text?
+Date: 12 Nov 1993 16:07:51 -0500
+Message-ID: <199311122107.AA12164@eff.org>
+WRT the search for alternatives to the CERT logon banner, the following would
+be terser than some others proposed here.  It would also reassure users that
+monitoring would be done only in cases of reasonable suspicion that unauthor-
+ized use was imperiling the system in some way, notwithstanding any nominal
+authority that sysadmins might have to conduct fishing expeditions.  (This,
+of course, presupposes that sysadmins are really inclined to observe such
+sensible limits on their actions :-). )
+
+;When, and only when, reasonable suspicion exists that unauthorized use is
+;compromising the security and integrity of this system, the computing
+;activities of particular users may be monitored.  Such monitoring will
+;normally be limited to suspected unauthorized use, but may sometimes extend
+;unavoidably to the activities of authorized users.
+
+
+                                                   Mitch Pravatiner
+                                                   U15289@uicvm.uic.edu
+</pre>
+<A NAME="2bronr$cvo@s.ms.uky.edu">  Re: Policy from the Stevens Institute of Technology login</a><pre>
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject:  Re: Policy from the Stevens Institute of Technology login
+Message-ID: <2bronr$cvo@s.ms.uky.edu>
+Date: 10 Nov 93 22:07:55 GMT
+In article <2bmrt2$j3f@eff.org>, Carl M. Kadie <kadie@eff.org> wrote:
+>A critique.
+>
+>>        ANTI-WATCHDOG programs are prohibited on the VAXcluster.
+>
+>Mere possession of programs should not be banned. Programs are
+>expressive material and should be protected by the Institute's
+>commitment to free expression. 
+
+
+We've never really reached a consensus on this particular issue.
+Consider this:
+
+	- My obligation to my users includes connectivity to their systems.
+	- Said connectivity is often limited (in our case, by the number
+	  of available lines)
+	- To increase availability of said lines, I run an "watchdog"
+	  which logs out any user who has been idle for more than 20 
+	  minutes.
+	- Programs which do nothing but defeat the "watchdog" are
+	  of no real value in their execution, once the technique has 
+	  been proven (I'll yield to the curiosity of a user who wants 
+	  to "see if they can cheat it" -- once.)
+	- I have no way of knowing if a "busy" user is actually doing
+	  something or merely running an "anti-watchdog" program.
+	- I have no means of finding such programs, once compiled, other 
+	  than a search of user files (which is NOT going to happen) or
+	  physical observation of the user's terminal.
+
+Doesn't my obligation to *all* the users outweigh the academic freedom
+issue of having the source code lying about?  With password cracking
+software, the argument could be made that the excessive CPU usage might
+set off some alarms, but that can't be said for a program that just in-
+jects a character down the line every few seconds.
+
+>At most the Institute should require
+>that banned-from-running programs be disabled so they can't be
+>executed accidently.
+
+How, pray tell, would this be accomplished?  Furthermore, how would
+such a requirement be enforced *without* violating user privacy?
+
+It's easy to sit back and say that "Possession of source code should
+not be restricted" and "Programs are a form of free expression."  It's
+quite another thing to balance such an attitude with one's obligations
+to *all* users.  
+
+If you've got a solution for this one, I'd *love* to hear it.  It was
+basically ignored when last I mentioned it here.
+
+--Wes
+
+-- 
+      Wes Morgan ----- University of Kentucky ----- morgan@engr.uky.edu
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+           GCS/E/MU  d---  -p+  c++  l+  m*  s++/++  !g  w+  t+   r
+                     gharshana-neti -- mental floss?
+</pre>
+<A NAME="CGFqqt.Mw5@cs.uiuc.edu">  [uvic.general, et al.]  UVic alt.* ban, comp. policies, etc. - request comments</a><pre>
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M Kadie)
+Subject:  [uvic.general, et al.]  UVic alt.* ban, comp. policies, etc. - request comments
+Message-ID: <CGFqqt.Mw5@cs.uiuc.edu>
+Date: Sat, 13 Nov 1993 14:54:28 GMT
+[A repost - Carl]
+
+Newsgroups: uvic.general,comp.org.eff.talk
+From: tangrign@sol.uvic.ca (Troy Angrignon)
+Subject:  UVic alt.* ban, comp. policies, etc. - request comments
+Message-ID: <1993Nov13.010427.813@sol.UVic.CA>
+Date: Sat, 13 Nov 93 01:04:27 GMT
+
+This is an open Request For Comments on the alt.* ban, computer privacy
+and other issues in the "electronic frontier" addressed to the
+community of UVic students, staff, faculty, and system administrators,
+as well as those USENET readers in comp.org.eff.talk so that our
+dialogue might benefit from their experience.
+
+I would like to give a bit of background to this issue first. 
+
+NOTE: (as I am getting involved after the fact, I have only
+unsubstantiated rumour to go on and would GREATLY appreciate somebody
+responding to this forum with the correct turn of events. I have
+written to the VP Academic (Dr. Sam Scully) inquiring how all of this
+occurred and hope to hear back from him soon.)
+
+*Apparently*, some months ago a prof or administrators wife saw some
+rude GIF image from the USENET news displayed on one of the screens on
+a computer at the University and was offended by it. A series of
+knee-jerk reactions led to the entire alt.* hierarchy being made
+unavailable using the regular USENET reading software such as rn, nn,
+or Nuntius, with very few exceptions. The current policy is now that
+users may attain permission to read particular alt.newsgroups if they
+can get a letter from any senior administrator (preferably a Dean or
+higher) saying that access is required for academic purposes. This
+means that many users are unaware of and don't have access to many
+other useful groups (and yes, I do include the alt.sex group in the
+useful category) Some of the other groups like
+alt.comp.acad-freedom.news (computers and academic freedom) and
+alt.censorship are of course not accessible by UVic users. 
+
+In article <1993Nov11.033251.4283@sol.uvic.ca> I wrote in uvic.general:
+
++As you probably know, access to the alt.newsgroups has for the most
++part been banned by the higher ups. I am currently discussing this
+with
++the Electronic Frontier Foundation in Washington (they write the
++Computers and Academic Freedoms newsletters) in order to research
++similar cases and relevant Canadian law. 
+
++If you are at all interested in helping me with this, or just want to
++let me know what you think of the ban, leave a note here, or feel free
++to e-mail me at the address below.
+
+
+In article <1993Nov12.012406.15297@sol.UVic.CA>
+klassen@sol.UVic.CA (Melvin Klassen) responded:
+
+>  - Your status as a "student" at UVic does NOT automatically grant
+>    you full access to the Internet.  You get LIMITED computer-access 
+>    in order to complete your computer-related assignments.
+
+I apologize for not making my original article
+<1993Nov11.033251.4283@sol.uvic.ca> very clear. I NEVER intended to
+suggest that users had the right to USENET News under the *current
+University computing policy*. I AM however interested in where people
+at UVic stand on certain issues such as e-mail privacy, current
+computer policies, ideal computer policies, and promotion of and access
+to the Internet within the student and faculty population at the
+University of Victoria.
+
+What I would like to see is some discussion amongst the students,
+system administrators, librarians, faculty, and staff on what we would
+like to see this University adopt as computing policy. Perhaps the best
+forum for that is a University Senate Committee (the membership of
+which should be made up of students, Senate members, library staff, and
+computing services staff). 
+
+How do we (the students, staff, etc.) of UVic wish to deal with:
+
+1) Electronic Freedom of speech and expression?
+2) E-mail and privacy issues?
+3) Due process?
+4) Right and responsibilities of the users?
+
+Q.1) Electronic Freedom of speech and expression
+
+I would propose that users at UVic be given free access to the Internet
+and all of its resources and newsgroups *directly* with no
+restrictions. This was the recent decision at the University of Toronto
+when somebody suggested that they censor portions of the newsgroups. At
+the University of Manitoba several years ago, the rec.humour.funny and
+the alt.sex groups were banned and were re-instated after a University
+committee was struck to examine the issues involved. UBC and SFU have
+both recently decided to ban portions of the newsgroups for various
+reasons as decided by their respective committees or adminstrators. I
+am not aware of any backlash or call for review by the students there,
+but expect to hear about it soon. At many universities across the US,
+various newsgroups were banned and then reinstated after deciding to
+treat Internet material in the same manner as library materials.
+
+Most universities already have an agreed policy, usually set up by
+their library.  The CLA (Canadian Library Association) policy includes
+the following:
+
+"All persons in Canada have the fundamental right, as embodied in the
+nation's Bill of Rights and the Canadian Charter of Rights and
+Freedoms, to
+have access to all expressions of knowledge, creativity and
+intellectual
+activity, and to express their thoughts publicly.  This right to
+intellectual freedom, under the law, is essential to the health and
+development of Canadian society [...] It is the responsibility of
+libraries to guarantee and facilitate access to all expressions of
+knowledge and intellectual activity, including those which some some
+elements of society may consider to be unconventional, unpopular or
+unacceptable.  To this end, libraries shall acquire and make available
+the widest variety of materials."
+
+[reference <1990Dec10.175530.23753@cs.wayne.edu> and
+<1990Dec10.193339.5349@zoo.toronto.edu>]
+
+Further,  in pub/academic/faq/policy.best located on ftp.eff.org (a
+computer at the office of EFF in Washington) they have quoted the
+policy of the University of Wisconsin at Milwaukee which is held up by
+the EFF (Electronic Frontier Foundation) as a model policy regarding
+USENET news:
+
+"That the same standards and principles of intellectual and academic
+freedom developed for university libraries be applied to material
+received from the news network... That the same standards of
+intellectual and academic freedom developed for faculty and student
+publication in traditional media be applied to publication in computer
+media."
+
+I would like to see UVic adopt similar policies especially in light of
+the nature of USENET news and the internet in general. The material
+which UVic is no longer providing to its users through their news
+reading software is still available on the internet but it requires
+more work to get at it.Banning a newsgroup (refusing to carry it on
+your server and allow it to be read directly on campus) does not of
+course mean that users have no access to the banned material at all.
+All of the materials in question such as the Alt.* newsgroups are still
+accessible of course via Gopher, FTP,  and remote login to other
+computers, but since the required knowledge is greater, most people
+will not bother. It could be termed "Censorship by making it more
+difficult than it usually is." A common approach to censoring something
+(not necessarily electronic, this of course also applies to library
+materials or other information outside of a University context) is to
+make it so difficult to access that most people will not bother. This
+is the route that UVic has chosen and to the best of my knowledge they
+did this without wide consultation involving the library, students, and
+other affected parties - consultation which in my opinion should occur
+now.
+
+2) E-mail and privacy issues?
+
+Should e-mail and files be private or should system administrators be
+allowed to read it or search it if they find it "necessary" for
+whatever reason?
+
+3) Due process?
+
+How does the University deal with infractions? Should the punitary
+measures be administered automatically by the System Administrators or
+should the student be given a hearing first? Should punishment be in
+the form of computer privileges being revoked or be based on the same
+system which is used for every other infraction on a campus be it
+harassment, vandalism, or whatever. 
+
+4) Right and responsibilities of the users?
+
+Some universities give their users rights, while others give them only
+a list of "What not to do" and "No, of course your e-mail isn't
+private, and Yes we can look in your files if we want to." Should UVic
+give all students the "right" to Internet access in general and the
+"right" to free expression and involvement with all of the global
+citizens of "cyberspace", unfettered by university control? (Do not get
+me wrong...I am not suggesting that UVic currently does the opposite, I
+am posing these questions for the reader to consider and reply to.  :-)
+ )
+
+
+I have posed these questions to the academic and administrative
+community of UVic, and have of course cross-posted it to the
+comp.org.eff.talk so that we might get some input from those folks as
+well. I would have posted this instead to alt.comp.acad-freedom.talk
+... but we don't have access to it :-).
+
+If you are interested in forming a group of people to discuss this
+issue, please let me know by e-mail. If you are interested in my source
+material or related information:
+anonymous ftp to ftp.eff.org
+or gopher to gopher.eff.org
+or e-mail me and I will give you copies.
+
+
+Troy Angrignon
+e-mail: tangrign@sol.UVic.CA
+"Wind, sun, sand, surf - the four elements necessary for life."
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+</pre>
+<A NAME="93.2ce5677d@axolotl">  Re: "Sysop Liability for Enroute (and/or Encrypted) Mail"</a><pre>
+Newsgroups: comp.org.eff.talk
+Subject:  Re: "Sysop Liability for Enroute (and/or Encrypted) Mail"
+Message-ID: <93.2ce5677d@axolotl>
+Date: 13 Nov 93 09:27:34 CST
+ CMK> Can someone suggest the minimum disclaimer needed to patch the bug in
+ CMK> the ECPA?
+
+ CMK> CERT's example disclaimer is awful. It says (essentially) that if you
+ CMK> think you might ever need to capture the keystrokes of an intruder,
+ CMK> then you should compel your users to give up their ECPA and (at state
+ CMK> universities) 4th Amendment rights.
+
+ CMK> The main problem is the wording of the "example of an appropriate
+ CMK> banner":
+
+ CMK>        This system is for the use of authorized users only.
+ CMK>        Individuals using this computer system without authority, or in
+ CMK>        excess of their authority, are subject to having all of their
+ CMK>        activities on this system monitored and recorded by system
+ CMK>        personnel.
+
+ CMK>        In the course of monitoring individuals improperly using this
+ CMK>        system, or in the course of system maintenance, the activities
+ CMK>        of authorized users may also be monitored.
+
+ CMK>        Anyone using this system expressly consents to such monitoring
+ CMK>        and is advised that if such monitoring reveals possible
+ CMK>        evidence of criminal activity, system personnel may provide the
+ CMK>        evidence of such monitoring to law enforcement officials.
+
+I think you don't pay enough attention to the middle paragraph:
+
+       In the course of monitoring individuals improperly using this
+       system, or in the course of system maintenance, the activities
+       of authorized users may also be monitored.
+
+In my mind this acts as a limitation on the entire notice.  Once monitoring
+activities showed the target to have authorized access, all monitoring
+activities should cease.
+
+Of course, other people can, as you have, note the broad language which
+followed and dismiss the center paragraph.  But generally, words have meaning
+and what else does this section mean?  As you know, there is a dearth of court
+decisions construing the law, and most of the ones that do turn on
+employer-employee law instead of the ECPA.
+
+"For educational purposes only. Not intended as specific legal advice to an 
+individual. State laws vary. Consultation, or representation by a local, 
+licensed attorney may be necessary."
+
+mike.riddle@rlaw.omahug.org        |  Riddle Law Office
+                                   |  +1 402 331-6249 (Data/Fax) 
+Sysop of 1:285/28@Fidonet          |  V.32bis/V.42bis/Gp III V.17
+
+</pre>

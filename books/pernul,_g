@@ -1,0 +1,1508 @@
+From caf-talk Caf Mar 30 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)
+Subject: Bibliography of database security
+Message-ID: <920330205302.20200165@DARWIN.NTU.EDU.AU>
+Date: Mon, 30 Mar 1992 20:53:02 GMT
+
+At the risk of getting off topic, I thought this might be of interest to some
+readers!
+
+Mark N.
+
+____
+
+
+From: guenther@univie.ac.at (Guenther Pernul)
+
+A lot of discussion about literature on Computer Security
+has been taken place recently in this news group. We have
+compiled a bibliography on the security aspect in databases.
+As we believe this might be of interest for this news group
+we are posting it even if the file is quite long. If you
+are aware of literature that is not included please let us
+know. A modified version of this file including an
+introduction to each subject appeared in ACM SIGMOD Record,
+Vol 21, No 1, March 1992.
+
+
+             A Bibliography on Database Security
+                               
+                      G. Pernul, G. Luef
+          Institute of Statistics & Computer Science
+                     University of Vienna
+                               
+                        Liebigg. 4/3-4
+                   A-1010  Vienna, Austria
+                               
+                  guenther@ifs.univie.ac.at
+
+   The main  sources  for  gathering  literature  on  database
+security are:
+
+-  Computers & Security, North Holland (Elsevier).
+-  Computer Security Journal, IOS Press, (forthcoming).
+-  Proc. Aerospace Computer Security Conference, IEEE Computer
+   Society Press.
+-  Proc. Annual  Computer  Security  Applications  Conference,
+   IEEE Computer Society Press.
+-  Proc. European Symposium on Research in Computer Security,.
+-  Proc. National  Computer Security Conference. IEEE Computer
+   Society Press.
+-  Proc. of  the Workshop  on Computer  Security  Foundations,
+   IEEE Computer Society Press.
+-  Proc. Symposium  on Research  in Security and Privacy, IEEE
+   Computer Society Press.
+-  Proc. Working  Conference of  the IFIP  WG 11.3 on Database
+   Security. (Database  Security: Status  and Prospects. North
+   Holland (Elsevier)).
+
+   In addition, papers appeared in:
+
+ACM SIGMOD Record, ACM Trans. on Database Systems, Advances in
+Computers, IBM  Systems Journal, IEEE Computer, IEEE Trans. on
+Computers, IEEE  Trans. on  Software Engineering,  Information
+Systems, Journal  on Syst.  Software, Proc.  ACM Annual Conf.,
+Proc.  ACM   SIGMOD  Conf.,   Proc.  Int'l.   Conf.  on   Data
+Engineering, Proc.  Int'l. Conf.  DEXA, Proc.  Int'l. Conf. on
+EDBT, Proc. Int'l. Conf. on VLDB, and others.
+
+
+
+Research Issues
+
+J.  Biskup.  Sicherheit:  Gewhrleistung  und  Begrenzung  des
+ Informationsflusses. In: Entwicklungstendenzen bei Datenbank-
+ Systemen. G.  Vossen, K.-U.  Witt (eds.), 363-388. Oldenbourg
+ Verlag 1991.
+
+D. E.  Denning. Secure  Databases and  Safety: Some Unexpected
+ Conflicts.  In:   Safe  and   Secure  Computing  Systems.  T.
+ Anderson, eds.  101-111.  Blackwell  Scientific  Publications
+ 1989.
+
+J. E.  Dobson. Security  and Databases:  A Personal  View. In: 
+Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 11-22. North Holland (Elsevier) 1988.
+
+J. Dobson.  Information and  Denial of  Service.  In  Database
+ Security: Status  and Prospects.  C.E. Landwehr,  S.  Jajodia
+ (eds), North Holland (Elsevier) 1992.
+
+J. Dobson.  Information and  Denial of  Service.  In  Database
+ Security: Status  and Prospects.  C.E. Landwehr,  S.  Jajodia
+ (eds), North Holland (Elsevier) 1992.
+
+S. Jajodia,  R. S.  Sandhu. Database  Security: Current Status
+ and Key  Issues. ACM  SIGMOD Record, Vol. 19, No. 4, 123-126,
+ December 1990.
+
+C. E.  Landwehr. Database Security: Where are we. In: Database
+ Security: Status  and Prospects.  C. E.  Landwehr, ed., 1-10.
+ North Holland. 1988.
+
+T. F. Lunt. Security in Database Systems: A Researcher's View.
+ 2nd German Confernce on Computer Security, June 1991.
+
+T. F.  Lunt, E.  B. Fernandez.  Database Security.  ACM SIGMOD
+ Record, Vol. 19, No. 4, 90-97, Dec. 1990.
+
+F. A.  Manola. A Personal View of DBMS Security. In:  Database
+ Security: Status  and Prospects.  C. E. Landwehr, ed., 23-34.
+ North Holland (Elsevier) 1988.
+
+R.  I.  Polis.  Information  security:  reality  and  fiction.
+ Computers & Security, Vol. 3, No. 3. North Holland (Elsevier)
+ 1984.
+
+S. R.  Wiseman. On  the Problem of Security in Data Bases. In:
+ Database Security: Status and Prospects. D. L. Spooner, C. E.
+ Landwehr, eds., 301-310. North Holland (Elsevier) 1990.
+
+
+
+Evaluation Criteria, Standards
+
+M. W.  Hale.  Status  of  Trusted  DBMS  Interpretations.  In: 
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 263-268. North Holland (Elsevier) 1988.
+
+R.  R.   Henning,  B.  S.  Hubbard,  S.  A.  Walker.  Computer
+ Architectures, Database  Security and  a  Evaluation  Metric.
+ Proc.  3rd  Int'l.  Conf.  on  Data  Engineering  (DE),  IEEE
+ Computer Society Press 1987.
+
+IT  Security   Criteria.  Criteria   for  the   Evaluation  of
+ Trustworthiness  of   Information  Technology  (IT)  Systems.
+ German Information Security Agency, 1989.
+
+M.  Schaefer.   On  the  Logical  Extension  of  the  Criteria
+ Principles to  the Design  of Multilevel  Database Management
+ Systems. Proc.  of the  5th National Computer Security Conf.,
+ 28-30. IEEE Computer Society Press, 1985.
+
+Trusted  Computer  System  Evaluation  Criteria.  US  National
+ Computer Security Center. 1985. DoD 5200.28-STD.
+
+Trusted Database  Management  Interpretation  of  the  Trusted
+ Computer System  Evaluation Criteria.  US  National  Computer
+ Security Center, August 1990, NCSC-TG-021, Version 1.
+
+Information  Technology Security  Evaluation Criteria (ITSEC).
+ Provisional  Harmonised Criteria. Commission of the European
+ Communities, June 1991.
+
+The  Canadian Trusted Computer  Product Evaluation  Criteria.
+ Version 2.1e. Canadian System Security Centre. July 1991.
+
+
+
+Privacy in Information Systems
+
+
+V. S.  Alagar. A  Human Approach to the Technological Chalenge
+ in Data Security. Computers & Security, Vol. 5, North Holland
+ (Elsevier) 1986.
+
+J. Biskup,  H. H.  Brggemann. The  Personal  Model  of  Data:
+ Towards a  Privacy-Oriented Information  System. Computers  &
+ Security, Vol. 7, North Holland (Elsevier) 1988.
+
+J. Biskup.  Privacy Respecting  Permissions  and  Rights.  In:
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 173-186. North Holland (Elsevier) 1988.
+
+J. Biskup,  H. H.  Brggemann. The  Personal  Model  of  Data:
+ Towards  a  Privacy  Oriented  Information  System  (extended
+ abstract). Proc.  of the 5th Int'l. Conf. on Data Engineering
+ (DE), 348-355, IEEE Computer Society Press 1989.
+
+J. Biskup,  H. Graf.  Analysis of  the Privacy  Model for  the
+ Information System  DORIS. In:  Database Security: Status and
+ Prospects.  C.  E.  Landwehr,  ed.,  123-140.  North  Holland
+ (Elsevier) 1989.
+
+J.  Biskup.  Protection  of  Privacy  and  Confidentiality  in
+ Medical Information  Systems: Problems  and  Guidelines,  In:
+ Database Security: Status and Prospects. D. L. Spooner, C. E.
+ Landwehr, eds., 13-24. North Holland (Elsevier) 1990.
+
+J.   Biskup.   Medical   Database   Security.   Proc.   GI-20,
+ Jahrestagung  II.   Informatik  Fachberichte   258,  212-221.
+ Springer Verlag 1990.
+
+J.  Biskup,   H.  H.  Bruggemann.  Das  datenschutzorientierte
+ Informationssystem DORIS: Stand der Entwicklung und Ausblick,
+ Proc. 2.  GI-Fachtagung "Verlaliche Informationssysteme (VIS
+ '91)", 146-158.  Informatik-Fachberichte 271, Springer Verlag
+ 1991. (In German).
+
+H.H. Bruggemann.  Interaction of Authorities and Acquaintances
+ in the  DORIS privacy  model of  data. Proc. 2nd Symposium on
+ Mathematical Fundamentals of Database Systems (MFDBS), 85-99.
+ Visegrd, Hungary,  Lecture Notes  in  Computer  Science  364,
+ Springer Verlag 1989.
+
+P. Leahy.  Privacy and  Progress. Computers & Security, Vol. 5
+ (1986), North Holland (Elsevier).
+
+F. H.  Lochovsky, C.  C. Woo.  Role-Based Security in Database
+ Management  Systems.   In:  Database   Security:  Status  and
+ Prospects.  C.  E.  Landwehr,  ed.,  209-222.  North  Holland
+ (Elsevier) 1988.
+
+R. Moulton, R. P. Bigelow. Protecting Ownership of Proprietary
+ Information. Computers  & Security,  Vol.  8,  North  Holland
+ (Elsevier) 1989.
+
+T. C.  Ting. A  User Role  Based Data  Security Approach.  In:
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 187-208. North Holland (Elsevier) 1988.
+
+T. C.  Ting, S.  A. Demurjian, M.-Y. Hu. On Information Hiding
+ for Supporting  User-Role  Based  Database  Security  in  the
+ Object-Oriented Paradigm.  In: Database  Securiy: Status  and
+ Prospects V.  S. Jajodia,  C. E.  Landwehr, eds. Noth Holland
+ (Elsevier) 1991.
+
+R.  Turn,  W.  H.  Fellow.  Privacy  and  Security  Issues  in
+ Information Systems. IEEE Trans. on Computers, Vol.25 (1976)
+
+W. H.  Ware. Emerging  Privacy Issues.  Computers &  Security,
+ Vol. 5, North Holland (Elsevier) 1986.
+
+W. H.  Ware. Information system security and privacy. Comm. of
+ the ACM (CACM), Vol. 27, No. 4, April 1984.
+
+
+
+Requirements on Secure DBMSs
+
+
+D. E.  Bell. Speculating  on Trusted DBMS. Proc. 4th Aerospace
+ Computer Security  Conference, 51-52.  IEEE Computer  Society
+ Press 1988.
+
+D. A. Bonyun. Using EXESS as a Framework for Secure DBMSs. In:
+ Database Security: Status and Prospects. D. L. Spooner, C. E.
+ Landwehr, eds., 237-256. North Holland (Elsevier) 1990.
+
+R. K.  Burns. Operational  Assurances for  a Trusted DBMS. In:
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 241-252 North Holland (Elsevier) 1988.
+
+R. K.  Burns. Secure  DBMS Requirements.  Proc. 4th  Aerospace
+ Computer Security  Conference, 53-55,  IEEE Computer  Society
+ Press 1988.
+
+J. Dobson.  Conversation Structures  as a  Means of Specifying
+ Security Policy. In: Database Security: Status and Prospects.
+ D. L.  Spooner, C.  E. Landwehr,  eds., 25-40.  North Holland
+ (Elsevier) 1990.
+
+C. Garvey,  N. Jensen,  J. Wilson.  The Advanced  Secure DBMS:
+ Making Secure DBMSs Usable. In: Database Security: Status and
+ Prospects.  C.  E.  Landwehr,  ed.,  187-196.  North  Holland
+ (Elsevier) 1989.
+
+J. Glasgow,  G. MacEwen, P. Panangaden. Security by Permission
+ in Databases. In: Database Security: Status and Prospects. C.
+ E. Landwehr, ed., 197-206. North Holland (Elsevier) 1989.
+
+R. Graubart.  Comparing DBMS  and  Operating  System  Security
+ Requirements: The Need for a Separate DBMS Security Criteria.
+ In Database Security: Status and Prospects. D. L. Spooner, C.
+ E. Landwehr, eds., 109-114. North Holland (Elsevier) 1990.
+
+J. T.  Haigh. Modeling  Database  Security  Requirements.  In:
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 45-56. North Holland (Elsevier) 1988.
+
+R. R.  Henning. The  Allocation of  Database Management System
+ Security Responsibilities.  In: Database Security: Status and
+ Prospects.  C.  E.  Landwehr,  ed.,  131-148.  North  Holland
+ (Elsevier) 1988.
+
+T.  H.  Hinke.  DBMS  Technology  vs.  Threats.  In:  Database
+ Security: Status  and Prospects.  C. E. Landwehr, ed., 57-88.
+ North Holland (Elsevier) 1988.
+
+T.  H.  Hinke.  DBMS  Trusted  Computing  Base  Taxonomy.  In:
+ Database Security: Status and Prospects. D. L. Spooner, C. E.
+ Landwehr, eds., 97-108. North Holland (Elsevier) 1990.
+
+N. R.  Jensen. System  Security Officer  Functions in  the  A1
+ Secure DBMS.  In: Database Security: Status and Prospects. C.
+ E. Landwehr, ed., 53-62. North Holland (Elsevier) 1989.
+
+T. Y.  Lin. A  Generalized Information Flow Model and the Role
+ of System Security Officer. In: Database Security: Status and
+ Prospects.  C.   E.  Landwehr,  ed.,  85-104.  North  Holland
+ (Elsevier) 1989.
+
+J.  A.   McDermid,  E.   S.  Hocking.  Security  Policies  for
+ Integrated  Project   Support  Environments.   In:   Database
+ Security:  Status   and  Prospects.  D.  L.  Spooner,  C.  E.
+ Landwehr, eds., 41-74. North Holland (Elsevier) 1990.
+
+G. W.  Smith. Solving  Multilevel Database  Security Problems;
+ Technology is  Not Enough. In: Database Security, III: Status
+ and Prospects.  D. L. Spooner, C. E. Landwehr, eds., 115-126.
+ North Holland (Elsevier) 1990.
+
+C. Wood,  E. B.  Fernandez, R.  C. Summers. Database Security:
+ Requirements, Policies and Models. IBM System Journal, Volume
+ 19 (1980).  Also published  in Advances  in Computer Security
+ (R. Turn, eds.), Artech House, 1981.
+
+
+
+
+Systems
+
+J. R. Campbell. An Interim Report on the Development of Secure
+ Database Prototypes at the National Computer Security Center.
+ In: Database  Security: Status  and Prospects. D. L. Spooner,
+ C. E. Landwehr, eds., 191-198. North Holland (Elsevier) 1990.
+
+D. E. Denning. Database System Lessons Learned from Modeling a
+ Secure Multilevel  Relational Database  System. In:  Database
+ Security: Status  and Prospects.  C. E. Landwehr, ed., 35-44.
+ North Holland (Elsevier) 1988.
+
+D. E.  Denning, T.  F. Lunt,  R. R. Schell, W. R. Shockley, M.
+ Heckaman.  The   SeaView  Security  Model.  Proc.  1988  IEEE
+ Symposium on Research in Security and Privacy, 218-233.
+
+P. A.  Dwyer, E.  Onuegbe, P.  Stachour, M.  B. Thuraisingham.
+ Query Processing in LDV: A Secure Database System. Proc. 1988
+ IEEE Symposium on Research in Security and Privacy, 118-124.
+
+C. Garvey,  A. Wu.  ASD_Views. Proc.  1988 IEEE  Symposium  on
+ Research in Security and Privacy, 85-95.
+
+R. D.  Graubart, K. J. Duffy. Design Overview for Retrofitting
+ Integrity-Lock Architecture  onto a  Commercial  DBMS.  Proc.
+ 1985 IEEE Symposium on Research in Security and Privacy, 147-
+ 159.
+
+J. T.  Haigh, R.  C. O'Brien, P. D. Stachour, D. L. Toups. The
+ LDV Approach  to Database  Security, In:  Database Security,:
+ Status and  Prospects. D.  L. Spooner,  C. E. Landwehr, eds.,
+ 323-340. North Holland (Elsevier) 1990.
+
+J. T.  Haigh, R.  C. O'Brian,  D. J.  Thomsen. The  LDV Secure
+ Relational Database  Model. In: Database Security: Status and
+ Prospects. S.  Jajodia, C.  E. Landwehr,  eds. North Holland.
+ (Elsevier) 1992.
+
+T. F.  Keefe and  W. T.  Tsai. Prototyping  the SODA  Security
+ Model. In:  Database Security:  Status and  Prospects. D.  L.
+ Spooner,  C.   E.  Landwehr,  eds.,  199-210.  North  Holland
+ (Elsevier) 1990.
+
+R. B.  Knode, R. A. Hunt. Making Databases Secure with Trudata
+ Technology. Proc. 4th Aerospace Computer Security Conference,
+ 82-90, IEEE Computer Society Press 1988.
+
+T. F.  Lunt, R.  R. Schell,  W. R.  Shockley, M.  Heckman,  D.
+ Warren. A  Near-Term  Design  for  the  Sea  View  Multilevel
+ Database System.  Proc. 1988  IEEE Symposium  on Research  in
+ Security and Privacy, 234-244.
+
+T. F. Lunt. Multilevel Database Systems: Meeting Class A1. In:
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 177-186. North Holland (Elsevier) 1989.
+
+T. F.  Lunt, D.  Denning, R.  R. Schell,  M.  Heckman,  W.  R.
+ Shockley. The SeaView Security Model. IEEE Trans. on Software
+ Engineering (TOSE), Vol. 16, No. 6 (1990), 593-607.
+
+S. R. Lewis. The Front End Approach to Database Security. Proc
+ 7th IFIP  TC11 Conf.  on Information  Security. (W. Price, D.
+ Lindsay, eds.). North Holland (Elsevier) 1991.
+
+J. McLean,  C. Landwehr,  and C. Heitmeyer. A Formal Statement
+ of the  MMS Security  Model. Proc.  1984  IEEE  Symposium  on
+ Research in Security and Privacy, 188-194.
+
+D. Nelson,  C. Paradise.  Using Polyinstantiation to Develop a
+ MLS  Application.   Proc.  7th   Annual   Computer   Security
+ Applications Conf., 12-22. IEEE Computer Society Press 1991.
+
+P. Rougeau,  E. Stearns.  The Sybase Secure Database Server: A
+ Solution to  the Multilevel  Secure DBMS  Problem. Proc. 10th
+ Nat. Computer  Security Conf.  IEEE  Computer  Society  Press
+ 1987.
+
+P.  D.  Stachour,  M.  B.  Thuraisingham.  Design  of  LDV:  A
+ multilevel secure relational database management system. IEEE
+ Trans. on  Knowledge and Data Engineering (TKDE), Vol. 2, No.
+ 2, (1990), 190-209.
+
+M. Stonebraker,  P. Rubinstein.  The Ingres Protection System.
+ Proc. 1976 ACM Annual Conference.
+
+The Sybase  Secure SQL  Server: The  First  Multilevel  Secure
+ RDBMS, Sybase 1988.
+
+R. A.  Whitehurst, T.  F. Lunt. SeaView verification. Proc. of
+ the 2nd  Workshop on  the Foundations  of Computer  Security,
+ 125-132. IEEE Computer Society Press 1989.
+
+
+
+Access Control Issues
+
+U.  Bussolati,  G.  Martella.  Access  control  management  in
+ multilevel database  models.  In:  Proc.  3rd  Conf.  of  the
+ European  Cooperation   in  Informatics,   Munich,   Germany,
+ Springer-Verlag 1981
+
+B. G.  Claybrook. Using  Views in a Multilevel Secure Database
+ Management Systems.  Proc. 1983 IEEE Symposium on Research in
+ Security and Privacy.
+
+D. Denning,  S. Ackl, M. Heckaman, T. Lunt, M. Morgenstern, P.
+ Neumann, R.  Schell. Views  for Multilevel Database Security.
+ In: Advances  in Computer  Security, Volume III, Artech House
+ Inc., 1988.  (reprinted from IEEE TOSE, SE-13, 2, 1987), 223-
+ 233.
+
+D. D.  Downs, J.  R. Rub,  K. C. Kung, C. S. Jordan. Issues in
+ Discretionary Access  Controls. Proc.  1985 IEEE Symposium on
+ Research in Security and Privacy, 158-168.
+
+E. B.  Fernandez, R.  C.  Summers,  T.  Lang.  Definition  and
+ Evaluation of  access rules in data management systems. Proc.
+ 1st Int'l. Conf. on Very Large Databases (VLDB), Boston 1975,
+ 268-285.
+
+M. G. Fugini, G. Martella. A Petri-net model of access control
+ mechanisms. Information  Systems, Vol. 13, No. 1 (1988),  53-
+ 64.
+
+D. A.  Goldberg, A.  Orooji. Independent  revocation of access
+ rights in  database management  systems. Information Systems,
+ Vol. 14, No. 5 (1989), 439-442.
+
+P. P.  Griffiths, B. W. Wade. An authorization mechanism for a
+ relational database  system. ACM  Trans. on  Database Systems
+ (TODS), Vol. 1, No. 3 (1976), 242-253.
+
+G. S.  Hoppenstand, D.  K. Hsiao.  Secure Access  Control with
+ High Access  Precision: An  Efficient Approach  to Multilevel
+ Security, In:  Database Security: Status and Prospects. C. E.
+ Landwehr, ed., 167-176. North Holland (Elsevier) 1989.
+
+D. K. Hsiao, D. S. Kerr, C.-J. Nee. Database Access Control in
+ the Presence  of Context  Dependent Protection  Requirements.
+ IEEE Trans. on Software Engineering (TOSE), Vol. 5 (1979).
+
+D. K.  Hsiao, M. J. Kohler, S. W. Stround. Query Modifications
+ as a  Means of  Controlling  Accesses  to  Multilevel  Secure
+ Databases. In:  Database Security:  Status and  Prospects, S.
+ Jajodia, C. E. Landwehr, eds. North Holland (Elsevier) 1991.
+
+J.  M.   Kerridge.  An  access  control  system  for  database
+ languages. Proc.  of the  4th British  National Conference on
+ Databases. British  Computer Security Workshop Series, 25-38,
+ July 1985.
+
+T.  F.   Lunt.  Access   Control  Policies:   Some  Unanswered
+ Questions. Computers  & Security,  Vol.  8  ,  North  Holland
+ (Elsevier) 1989.
+
+T. F.  Lunt. Access Control Policies for Database Systems. In:
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 41-52. North Holland (Elsevier) 1989.
+
+C.  Meadows  Policies  for  Dynamic  Upgrading.  In:  Database
+ Security: Status and Prospects. C. E. Landwehr, ed., 241-250.
+ North Holland (Elsevier) 1991.
+
+C. Meadows.  Extending the  Brewer-Nash Model  to a Multilevel
+ Context. Proc.  of the  1990 IEEE  Symposium on  Research  in
+ Security and Privacy.
+
+N. Minski.  Synergisitic Authorization  in  Database  Systems.
+ Proc. 7th  Int'l. Conf.  on Very Large Databases (VLDB), 543-
+ 552, 1981.
+
+A.  Motro.   An  Access  Authorization  Model  for  Relational
+ Databases   Based   on   Algebraic   Manipulation   of   View
+ Definitions.  Proc.   of  the   5th  Int'l.   Conf.  on  Data
+ Engineering (DE), 339-347. IEEE Computer Society Press 1989.
+
+S. Nilakanta.  Controlling user  authorization  in  relational
+ database  management   systems.  Information   and   Software
+ Technology, Vol. 31, No. 6 (1989), 290-294.
+
+N. Roussopoulos.  Dynamic access control for relational views.
+ Information Systems, Vol. 10, No. 3, 1985, 361-369.
+
+R. S.  Sandhu. Nested categories for access control. Computers
+ & Security,  Vol. 7, No. 6, 599-605. North Holland (Elsevier)
+ 1988.
+
+R. S. Sandhu. Transformation of Access Rights. Proc. 1989 IEEE
+ Symposium on Research in Security and Privacy, 259-268.
+
+R. Sandhu.  Mandatory Controls  for  Database  Integrity,  In:
+ Database Security: Status and Prospects. D. L. Spooner, C. E.
+ Landwehr, eds., 143-150. North Holland (Elsevier) 1990
+
+R. P.  Trueblood, A. Sengupta. Dynamic analysis of the effects
+ access  rule   modifications   have   upon   security.   IEEE
+ Transactions on Software Engineering, Vol. 12, No. 8, (1986),
+ 866-870.
+
+C. Wood,  E. B.  Fernandez. Authorization  in a  decentralized
+ database system.  Proc. of the 5th Int'l. Conf. on Very Large
+ Databases (VLDB), 352-359, 1979.
+
+C.  Wood,  R.  Summers,  E.  B.  Fernandez.  Authorization  in
+ Multilevel Database Models. Information Systems, Vol. 4, 155-
+ 161, 1979.
+
+S. Wiseman.  Audit Control  in Databases.  Proc 7th  IFIP TC11
+ Conf. on  Information Security.  (W. Price,  D. Lindsay eds.)
+ North Holland (Elsevier) 1991.
+
+
+
+Protection against Inferential Attacks
+
+L. J.  Buczkowski. Database Inference Controller. In: Database
+ Security:  Status   and  Prospects.  D.  L.  Spooner,  C.  E.
+ Landwehr, eds., 311-322. North Holland (Elsevier) 1990.
+
+L. H.  Cox.  Modeling  and  controlling  user  Inference.  In:
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 167-172. North Holland (Elsevier) 1988.
+
+F. Cuppens.  A Modal  Logic  Framework  to  Solve  Aggregation
+ Problems. In:  Database Security:  Status and Prospects. C.E.
+ Landwehr, S. Jajodia (eds), North Holland (Elsevier) 1992.
+
+D. E.  Denning. Commutative  Filters  for  reducing  Inference
+ Threats in  Multilevel  Database  Systems.  Proc.  1985  IEEE
+ Symposium on Research in Security and Privacy, 134-146.
+
+D. E.  Denning, C.  Meadows. A Dialog on Aggregation Problems.
+ Proc. of  the 3rd  RADC Workshop on Database Security, 83-95.
+ IEEE Computer Society Press 1991.
+
+T. D.  Garvey, T.  F. Lunt. Controlling Inference for Database
+ Security. In:  Database Securiy:  Status and  Prospects V. S.
+ Jajodia, C. E. Landwehr, eds. Noth Holland (Elsevier) 1992.
+
+T. D.  Garvey, T.  F.  Lunt,  M.  E.  Stickel.  Abductive  and
+ Approximate Reasoning  Models  for  Characterizing  Inference
+ Channels. Proc.  of the  4th Workshop  on the  Foundations of
+ Computer Security. IEEE Computer Society Press 1991.
+
+S. C.  Hansen, E.  Unger.  An  extended  memoryless  inference
+ control  model:  accounting  for  dependence  in  table-level
+ controls. Proc.  1991 ACM  Int'l. Conf. on Management of Data
+ (SIGMOD), 348-356.
+
+T. H.  Hinke.  Inference  Aggregation  Detection  In  Database
+ Management Systems.  Proc. 1988 IEEE Symposium on Research in
+ Security and Privacy, 96-106.
+
+T. H.  Hinke. Database  Inference Engine  Design Approach. In:
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 247-262, North Holland (Elsevier) 1989.
+
+T. F.  Lunt. Aggregation  and Inference:  Facts and Fallacies.
+ Proc.  1989  IEEE  Symposium  on  Research  in  Security  and
+ Privacy, 102-109.
+
+C. Meadows.  Aggregation Problems:  A Position Paper. Proc. of
+ the 3rd  RADC Workshop  on  Database  Security,  73-82.  IEEE
+ Computer Society Press 1991.
+
+N. S.  Matloff. Inference  Control via  Query Restriction  vs.
+ Data Modification:  A  Perspective.  In:  Database  Security:
+ Status and  Prospects. C.  E. Landwehr,  ed., 159-166.  North
+ Holland (Elsevier) 1988.
+
+J. McLean.  Proving Noninterference and Functional Correctness
+ Using Traces.  Journal of  Computer Security,  Vol.  1,  Jan.
+ 1992.
+
+M. Morgenstern.  Controlling Logical  Inference in  Multilevel
+ Database Systems.  Proc. 1988  IEEE Symposium  on Research in
+ Security and Privacy, 245-255.
+
+M. Morgenstern.  Security and Inference in Multilevel Database
+ and Knowledge  Based Systems.  Proc. 1987 ACM Int'l. Conf. on
+ Management of Data (SIGMOD), 357-374.
+
+N.  C.   Rowe.  Infernce-security  analysis  using  resolution
+ theorem-proving. Proc.  5th Int'l.  Conf. on Data Engineering
+ (DE), 410-416. IEEE Computer Society Press 1989.
+
+T.-A.  Su,  G.  Ozsoyoglu.  Data  Dependencies  and  Inference
+ Control in Multilevel Relational Database Systems. Proc. 1987
+ IEEE Symposium on Research in Security and Privacy.
+
+B.  Thuraisingham.   The  Use  of  Conceptual  Structures  for
+ Handling the  Inference Problem. In: Database Securiy: Status
+ and Prospects  V. S.  Jajodia,  C.  E.  Landwehr,  eds.  Noth
+ Holland (Elsevier) 1992.
+
+B. Thuraisingham.  The Inference Problem in Database Security.
+ Cipher, 51-60. Winter 1991.
+
+B. P. Weems, W. G. Shieh, M. Jaseemuddin. Complete Containment
+ Sets and  their Application  to the  Inference Problem. Proc.
+ 7th Annual  Computer Security  Applications  Conf.,  187-200.
+ IEEE Computer Society Press 1991.
+
+
+
+Physical Design and Transaction Processing
+
+P. Ammann,  S. Jajodia.   A  Timestamp Ordering  Algorithm for
+ Secure, Single-Version,  MLS Databases. In: Database Securiy:
+ Status and Prospects V. S. Jajodia, C. E. Landwehr, eds. Noth
+ Holland (Elsevier) 1992.
+
+M. Banatre,  G. Muller,  J.-P. Banatre. Ensuring Data Security
+ and Integrity  with a  Fast Stabel  Storage. Proc.  4th Int'l
+ Conf. on  Data Engineering  (DE), IEEE Computer Society Press
+ 1988.
+
+O.  Costich.   Transaction  Processing   Using  an   Untrusted
+ Scheduler  in   a   Multilevel   Database   with   Replicated
+ Architecture. In:  Database Securiy:  Status and Prospects V.
+ S. Jajodia,  C. E.  Landwehr, eds.  Noth  Holland  (Elsevier)
+ 1992.
+
+O. Costich, I. Moskowitz. Analysis of a Storage Channel in the
+ Two-Phase  Commit   Protocol.  Proc.  4th  Computer  Security
+ Foundation Workshop. IEEE Computer Society Press 1991.
+
+J. W.  Davison. Implementation Design for a Kernelized Trusted
+ DBMS. Proc.  4th Aerospace  Computer Security Conference, 91-
+ 98. IEEE Computer Society Press 1988.
+
+E. B.  Fernandez, R.  C. Summers,  T.  Lang,  C.  D.  Coleman.
+ Architectural Support  for  System  Protection  and  Database
+ Security. IEEE Trans. on Computers, Vol. 27 (1978).
+
+J. N.  Froscher, C.  Meadows.  Achieving  a  trusted  database
+ management  system   using  parallelism.  Database  Security:
+ Status and  Prospects. C.  E. Landwehr,  ed., 151-160,  North
+ Holland (Elsevier) 1989.
+
+C. Garvey,  T. Hinke,  N. Jensen, J. Solomon, A. Wu. A Layered
+ TCB Implementation  versus the  Hinke-Schaefer Approach.  In:
+ Database Security: Status and Prospects. D. L. Spooner, C. E.
+ Landwehr, eds., 151-166. North Holland (Elsevier) 1990.
+
+R. Graubart.  A Comparison of Three Secure DBMS Architectures.
+ In: Database  Security: Status  and Prospects. D. L. Spooner,
+ C. E. Landwehr, eds., 167-190, North Holland (Elsevier) 1990.
+
+H.   Hartson.    Database   security   system   architectures.
+ Information Systems, Vol. 6, No. 1, 1981.
+
+T. H.  Hinke. Trusted  server approach to multilevel security.
+ Proc. 5th  Annual Computer  Security Applications Conference,
+ 335-341. IEEE Computer Society Press 1989.
+
+S. Jajodia,  B. Kogan.  Transaction Processing  in  Multilevel
+ Secure Databases  Using Replicated  Architecture. Proc.  1990
+ IEEE Symposium on Research in Security and Privacy, 360-368.
+
+T. F.  Keefe, W.  T. Tsai,  J. Srivastava.  Multilevel  Secure
+ Database Concurrency  Control. Proc.  of the 6th Int'l. Conf.
+ on Data Engineering (DE), IEEE Computer Society Press 1990.
+
+T. F.  Keefe, W. T. Tsai. Multiversion Concurrency Control for
+ Multilevel Secure  Database Systems.  Proc. of  the 1990 IEEE
+ Symposium on Security and Privacy, 369-383.
+
+B. Kogan,  S. J.  Jajodia. Concurrency  Control in  Multilevel
+ Secure Databases Based on Replicated Architecture. Proc. 1990
+ ACM Int'l. Conf.on Management of Data (SIGMOD) 153-162.
+
+C. Laferrier.  A Discussion  of Implementation  Strategies for
+ Secure Database  Management Systems.  Computers  &  Security,
+ Vol. 9. North Holland (Elsevier) 1990.
+
+G. Luef,  G. Pernul.  Supporting Range Queries in Secure Index
+ Stuctures. In:  Database Securiy:  Status and Prospects V. S.
+ Jajodia, C. E. Landwehr, eds. Noth Holland (Elsevier) 1992.
+
+W. T.  Maimone, I.  B. Greenberg.  Single  level  Multiversion
+ Schedulers for  Multilevel Secure  Database Systems. Proc. of
+ the 6th Annual Computer Security Applications Conference, pp.
+ 137-147. IEEE Computer Society Press 1990.
+
+C.  D.  McCollum,  L.  Notargiacomo.  Distributed  Concurrency
+ Control with Optional Data Replication. In: Database Securiy:
+ Status and Prospects V. S. Jajodia, C. E. Landwehr, eds. Noth
+ Holland (Elsevier) 1992.
+
+J. P.  McDermott,  S.  Jajodia,  R.  Sandhu.  A  Single  Level
+ Schedular for  the Replicated  Architecture  for  Multilevel-
+ Secure  Databases.   Proc.  7th   Annual  Computer   Security
+ Applications Conf., 2-12. IEEE Computer Society Press 1991.
+
+R. S.  Sandhu. Transaction  Control Expressions for Separation
+ of Duties.  Proc. 4th Aerospace Computer Security Conference,
+ 282-286. IEEE Computer Society Press 1988.
+
+D. L.  Spooner, E. Gudes. A Unifying Approach to the Design of
+ a Secure  Database Operating  System. IEEE Trans. on Software
+ Engineering (TOSE), Vol. 10 (1984).
+
+D. L.  Spooner.  Relationships  between  database  system  and
+ operating system  security. In: Database Security: Status and
+ Prospects.  C.  E.  Landwehr,  ed.,  149-158.  North  Holland
+ (Elsevier) 1988.
+
+O. Saydjari, J. Beckman, J. Leaman. Locking Computers Securly.
+ Proc. 10th  National Computer  Security Conf.,  129-141. IEEE
+ Computer Society Press 1987.
+
+J. C.  Williams, G.  W. Dinolt. Formal Model of a Trusted File
+ Server. Proc. 1989 IEEE Symposium on Research in Security and
+ Privacy, 157-166.
+
+
+
+Design Issues of Secure Databases
+
+U. Bussolati,  G. Martella.  Towards a  new approach to secure
+ database design.  Computers & Security, Vol. 2, No. 1, 49-62.
+ North Holland (Elsevier) 1983.
+
+M. Fugini, G. Martella. ACTEN: a conceptual model for security
+ systems design.  Computers &  Security, Vol.  3, No. 3. North
+ Holland (Elsevier) 1984.
+
+M. Fugini.  Secure  Database  Development  Methodologies.  In:
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 103-130. North Holland (Elsevier) 1988.
+
+G.  E.  Gajnak.  Some  Results  from  the  Entity-Relationship
+ Multilevel Secure  DBMS Project. Proc. 4th Aerospace Computer
+ Security Conference, 66-71. IEEE Computer Society Press 1988.
+
+T. H.  Hinke. Secure  database design  panel. Proc. 5th Annual
+ Computer  Security  Applications  Conference,  p.  323.  IEEE
+ Computer Society Press 1989.
+
+R. R.  Henning, R.  P. Simonian. Security Analysis of Database
+ Schema  Information.   In:  Database   Security:  Status  and
+ Prospects.  C.  E.  Landwehr,  ed.,  233-246.  North  Holland
+ (Elsevier) 1989.
+
+H. H.  Hosmer, C. M. Merriman. Using CASE Tools to Improve the
+ Security of Application Systems. Proc. 1988 IEEE Symposium on
+ Research in Security and Privacy, 205-208.
+
+B.  Maimone.   RADC  Database   Security  Workshop   -  Oracle
+ Corporation  homework  problem  solution.  Proc.  5th  Annual
+ Computer  Security  Applications  Conference,  p.  324.  IEEE
+ Computer Society Press 1989.
+
+Panel Session.  Multilevel Secure  Database Design.  Proc. 5th
+ IEEE Annual Computer Security Applications Conference, 1989.
+
+G. Pernul,  A M.  Tjoa. A  View Integration  Approach for  the
+ Design of  Multilevel Secure  Databases.  Proc.  10th  Int'l.
+ Conf. on the Entity-Relationship Approach, Oct. 1991.
+
+G. W.  Smith. Modeling Security Relevant Data Semantics. Proc.
+ 1990 IEEE Symposium on Research in Security and Privacy, 384-
+ 391.
+
+G.  W.   Smith.  Identifying  and  Representing  the  Security
+ Semantics  of  Applications.  Proc.  4th  Aerospace  Computer
+ Security Conference,  125-130. IEEE  Computer  Society  Press
+ 1988.
+
+G.  W.   Smith.  The   Semantic  Data   Model  for   Security:
+ Representing the  Security Semantics of an Application. Proc.
+ of the  6th Int'l.  Conf. on  Data Engineering (DE), 322-329,
+ IEEE Computer Society Press 1990.
+
+G. W.  Smith. Multilevel  Secure Database  Design: A Practical
+ Application.  Proc.   5th  IEEE   Annual  Computer   Security
+ Application Conference,  314-321. IEEE Computer Society Press
+ 1989.
+
+P. Stachour,  D. Thomsen. A Summary of the LDV solution to the
+ homework  problem.   Proc.  5th   Annual  Computer   Security
+ Applications Conference,  p. 322. IEEE Computer Society Press
+ 1989.
+
+E. D.  Sturms. Secure database design: An implementation using
+ a  secure   DBMS.  Proc.   5th   Annual   Computer   Security
+ Applications Conference,  p. 325. IEEE Computer Society Press
+ 1989.
+
+D. J.  Thomsen, W.  T. Tsai, M. B.. Thuraisingham. Prototyping
+ to Explore  MLS/DBMS Design.  Computers &  Security, Vol.  8,
+ 229-245. North Holland (Elsevier) 1989.
+
+D J.  Thomsen, W. T. Tsai, M. B. Thuraisingham. Prototyping as
+ a Research  Tool for  MLS/DBMS, In: Database Security: Status
+ and Prospects.  C. E.  Landwehr, ed.,  63-84.  North  Holland
+ (Elsevier) 1989.
+
+B.  Thuraisingham.   Handling  Security   Constraints   During
+ Multilevel Database  Design. Proc. 4th RADC Database Security
+ Workshop. IEEE Computer Society Press 1991.
+
+T. C. Ting. Application Information Security Semantics: A Case
+ of Mental  Health Delivery. In: Database Security: Status and
+ Prospects. D.  L. Spooner,  C. E. Landwehr, eds., 1-12, North
+ Holland (Elsevier) 1990.
+
+
+
+Security Aspects in Relational Databases
+
+F. M.  Bancilhon, N.  Spyratos. Protection  of information  in
+ relational data  bases. Proc. of the 3rd Int'l. Conf. on Very
+ Large Databases (VLDB), 494-500, 1977.
+
+D. E.  Bell. Concerning  "Modeling" Computer  Security.  Proc.
+ 1988 IEEE  Symposium on  Research in Security and Privacy, 8-
+ 13.
+
+D. E.  Bell, L.  J. LaPadula.  Secure Computer System: Unified
+ Exposition and  Multics Interpretation. Technical Report MTR-
+ 2997. MITRE Corp. Bedford, Mass, 1976.
+
+J. M.  Carroll. Implementing  multilevel security by violating
+ privileges. Computers  &  Security,  Vol.  7,  No.  6.  North
+ Holland (Elsevier) 1988.
+
+M. Collins,  W. Ford,  B. Thuraisingham.  Security  Constraint
+ Processing during the Update Operation in a Multilevel Secure
+ DBMS. Proc.  7th Annual Computer Security Applications Conf.,
+ 23-32. IEEE Computer Society Press 1991.
+
+F.  Cuppens,  K.  Yazadanian.  Logic  Hints  and  Security  in
+ Relational  Databases.   In:  Database  Securiy:  Status  and
+ Prospects V.  S. Jajodia,  C. E.  Landwehr, eds. Noth Holland
+ (Elsevier) 1992.
+
+G. I.  Davida, D.  J. Linton,  C.  R.  Szelag,  D.  L.  Wells.
+ Database  Security.   IEEE  Trans.  on  Software  Engineering
+ (TOSE), Vol. 4 (1978).
+
+D. E.  Denning, T.  F. Lunt,  R. R.  Schell, M. Heckman, W. R.
+ Schockley. A  Multilevel Relational  Data Model.  Proc.  1987
+ IEEE Symposium on Research in Security and Privacy, 220-234.
+
+J. E.  Dobson, J.  A. McDermid. Security Models and Enterprise
+ Models. In:  Database Security:  Status and  Prospects. C. E.
+ Landwehr, ed., 1-39. North Holland (Elsevier) 1989.
+
+P. A. Dwyer, G. Jelatis, B, Thuraisingham. Multilevel Security
+ in database management systems. Computers & Security, Vol. 6,
+ No. 3, 252-260. North Holland (Elsevier) 1987.
+
+E.  B.   Fernandez,  R.   C.  Summers,   C.  B.   Coleman.  An
+ Authorization Model  for a Shared Data Base. Proc. ACM Int'l.
+ Conf.on Management of Data (SIGMOD), 23-31, 1975.
+
+H. H. Hosmer. Handling Security Violations within an Integrity
+ Lock DBMS. In: Database Security: Status and Prospects. D. L.
+ Spooner,  C.   E.  Landwehr,  eds.,  283-292.  North  Holland
+ (Elsevier) 1990.
+
+S. Jajodia,  S. K.  Gadia, G.  Bhargava, E.  H. Sibley.  Audit
+ Trail Organization  in  Relational  Databases.  In:  Database
+ Security:  Status   and  Prospects.  D.  L.  Spooner,  C.  E.
+ Landwehr, eds., 269-282. North Holland (Elsevier) 1990.
+
+S. Jajodia,  R. S.  Sandhu, E.  Sibley.  Update  Semantics  of
+ Multilevel  Relations.  Proc  6th  Annual  Computer  Security
+ Applications Conference, Dec. 1990.
+
+S.  Jajodia,   R.  S.   Sandhu.  Toward  a  Multilevel  Secure
+ Relational  Data  Model.  Proc.  1991  ACM  Int'l.  Conf.  on
+ Management of Data (SIGMOD), 50-59.
+
+N. R.  Jensen. Implication  of Multilevel Security on the Data
+ Dictionary of  a Secure  Relational DBMS. Proc. 4th Aerospace
+ Computer Security  Conference,  1988.  58-65.  IEEE  Computer
+ Society Press.
+
+R.  A.   Kemmerer.  Formal   Specification  and   Verification
+ Techniques  for   Secure  Database   Systems.  In:   Database
+ Security: Status and Prospects. C. E. Landwehr, ed., 229-240.
+ North Holland (Elsevier) 1988.
+
+T. Lang,  E. B.  Fernandez, R.  Summers. A System Architecture
+ for Compile-time  Actions  in  Databases.  Proc.  ACM  Int'l.
+ Conf.on Management of Data (SIGMOD), 453-462, 1977.
+
+C. E.  Landwehr. Formal  Models  for  Computer  Security.  ACM
+ Computing Surveys, Vol. 13, No. 2(1981).
+
+R. F.  Van der  Lans. Data  security in  a relational database
+ environment. Computers  & Security,  Vol. 5,  No. 2, 128-134.
+ North Holland (Elsevier) 1986.
+
+T. F.  Lunt, D.  E. Denning,  R. R.  Schell,  H.  Heckman,  W.
+ Shockley. Element-Level  Classification  with  A1  Assurance.
+ Computers & Security, Vol. 7, North Holland (Elsevier) 1988.
+
+N. S.  Matloff. Another  Look at  the Use of Noise Addition to
+ Database Security.  Proc. 1986  IEEE Symposium on Research in
+ Security and Privacy, 173-180.
+
+N. Matloff,  P. Tendick.  The  "Curse  of  Dimensionality"  in
+ Database  Security.   In:  Database   Security:  Status   and
+ Prospects.  C.  E.  Landwehr,  ed.,  225-232.  North  Holland
+ (Elsevier) 1989.
+
+J. McLean. The Specification of Modeling of Computer Security,
+ IEEE Computer, 9-16, Jan. 1990.
+
+C.  Meadows.   Constructing  Containers   Using  a  Multilevel
+ Relational Data  Model. In:  Database  Security:  Status  and
+ Prospects. C.  E. Landwehr,  D. Spooner,  eds., North Holland
+ (Elsevier) 1990.
+
+J. K.  Millen. Models  of Multilevel Security. In: Advances in
+ Computers, Vol. 29, M. C. Yovits, ed. Academic Press 1989.
+
+G. Pernul,  K. Karlapalem,  S. B. Navathe. Relational Database
+ Organization based  on Views  and Fragments. Proc. of the 2nd
+ Conf. on  Database and  Expert Systems  Applications  (DEXA),
+ 380-386. Springer Verlag 1991.
+
+G. Pernul,  G. Luef. A Multilevel Secure Relational Data Model
+ Based  on   Views.  Proc.   7th  Annual   Computer   Security
+ Application Conference,  166-177. IEEE Computer Society Press
+ 1991.
+
+M. Schaefer,  B. Hubbard,  D.  Sterne,  T.  K.  Haley,  J.  N.
+ McAuliffe, D.  Wolcott. Auditing:  A relevant contribution to
+ trusted  database  management  systems.  Proc.  5th  Computer
+ Security Applications Conference. IEEE Computer Society Press
+ 1989.
+
+T. Su,  G. Ozsoyoglu.  Multivalued  Dependency  Inferences  in
+ Multilevel  Relational   Database   Systems.   In:   Database
+ Security:  Status   and  Prospects.  D.  L.  Spooner,  C.  E.
+ Landwehr, eds., 293-300. North Holland (Elsevier) 1990.
+
+R. C.  Summers. An  overview of computer security. IBM Systems
+ Journal, Vol. 23, No. 4 (1984), 9-25.
+
+M. B.  Thuraisingham. Security Checking in Relational Database
+ Management  Systems   Augmented   with   Inference   Engines.
+ Computers & Security, Vol. 6, No. 6. North Holland (Elsevier)
+ 1987.
+
+J. Wilson.  Views as  the Security  Objects  in  a  Multilevel
+ Secure Relational Database Management System. Proc. 1988 IEEE
+ Symposium on Research in Security and Privacy, 116-125.
+
+J. Wilson.  A Security  Policy  for  an  A1  DBMS  (a  Trusted
+ Subject). Proc.  1989 IEEE  Symposium on Research in Security
+ and Privacy, 70-84.
+
+S. Wiseman. Control of Confidentiality in Databases. Computers
+ & Security, Vol. 9., Num. 6. North Holland (Elsevier) 1990.
+
+S. Wiseman.  Abstract and  Concrete Models for Secure Database
+ Applications. In:  Database Securiy:  Status and Prospects V.
+ S. Jajodia,  C. E.  Landwehr, eds.  Noth  Holland  (Elsevier)
+ 1992.
+
+C. C.  Wood. Information  Systems Security: Management Success
+ Factors. Computers & Security, Vol. 6, 314-320. North Holland
+ (Elsevier) 1987.
+
+C. C.  Wood. The  Human Immune System as an Information System
+ Security Reference Model. Computers & Security, Vol. 6, North
+ Holland (Elsevier) 1987.
+
+
+
+Integrity and Decomposition Approaches
+
+S. G.  Akl, D. E. Denning. Checking Classification Constraints
+ for Consistency  and Completeness.  Proc. 1987 IEEE Symposium
+ on Research in Security and Privacy.
+
+S. Jajodia,  R.  S.  Sandhu.  Polyinstantiation  Integrity  in
+ Multilevel Relations.  Proc. 1990  IEEE Symposium on Research
+ in Security and Privacy.
+
+S. Jajodia,  R. S. Sandhu. A formal framework for Single Level
+ Decomposition of  Multilevel Relations. Proc. 3rd Workshop on
+ the Foundations  of Computer Security, 152-158. IEEE Computer
+ Society Press, 1990.
+
+S. Jajodia,  R. S. Sandhu. A novel decomposition of Multilevel
+ Relations  into   Single-level  Fragments.  Proc.  1991  IEEE
+ Symposium on Research in Security and Privacy.
+
+S. Jajodia,  R. Mukkamala. Effects of SeaView Decomposition of
+ Multilevel  Relations   on  DBMS  Performance.  In:  Database
+ Securiy: Status  and Prospects V. S. Jajodia, C. E. Landwehr,
+ eds. Noth Holland (Elsevier) 1992.
+
+T. F.  Keefe, D.  J. Thomsen, W. T. Tsai, M. R. Hansch. Multi- 
+ party update  conflict: The  problem and  its solution. Proc.
+ 5th Computer Security Applications Conference,  222-231. IEEE
+ Computer Society Press 1989.
+
+T.  F.  Lunt.  Polyinstantiation:  an  Inevitable  Part  of  a
+ Multilevel  World.   Proc.  of   the  4th   Workshop  on  the
+ Foundations  of  Computer  Security,  IEEE  Computer  Society
+ Press, 1989.
+
+T. F.  Lunt, D.  Hsieh.  Update  semantics  for  a  multilevel
+ relational  database.   In:  Database  Security:  Status  and
+ Prospects. S.  Jajodia, C.  E. Landwehr,  eds., North Holland
+ (Elsevier) 1992.
+
+S. Mazumdar,  D. Stemple,  T. Sheard.  Resolving  the  tension
+ between integrity  and security using a theorem prover. Proc.
+ ACM Int'l.  Conf. on  Management of  Data (SIGMOD),  233-242,
+ 1988.
+
+C. Meadows, S. Jajodia. Maintaining correctness, availability,
+ and unambiguity in trusted database management systems. Proc.
+ 4th Aerospace  Computer Security  Conference,  106-111,  IEEE
+ Computer Society Press 1988.
+
+C.  Meadows,   S.  Jajodia.   Integrity  versus   security  in
+ multilevel secure  databases. In:   Database Security: Status
+ and Prospects.  C. E.  Landwehr, ed.,  89-102. North  Holland
+ (Elsevier) 1988.
+
+R. S.  Sandhu, S. Jajodia, T. F. Lunt. A new Polyinstantiation
+ Integrity constraint  for Multilevel  Relations. Proc. of the
+ 3rd Workshop  on Computer Security Foundations, 159-165. IEEE
+ Computer Society Press 1990.
+
+R. R. Schell. Integrity in Trusted Database Systems. Proc. 9th
+ National Computer  Security Confernce,  30-36. IEEE  Computer
+ Society Press 1986.
+
+
+
+Query Processing
+
+T. F.  Keefe, M.  B. Thuraisingham,  W. T. Tsai. Secure query-
+ processing strategies.  IEEE Computer, Vol. 22, No. 3, 63-70,
+ March 1989.
+
+T. F.  Lunt, R. R. Schell, W. R. Shockley, D. Warren. Toward a
+ Multilevel  Relational   Data  Language.   Proc.  1988   IEEE
+ Symposium on Research in Security and Privacy, 72-79.
+G. L.  Sicherman, W.  DeJonge, R.  P. Van  de Riet.  Answering
+ queries without  revealing secrets.  ACM Trans.  on  Database
+ Systems (TODS)  Vol. 8, No. 1, 41-59.
+
+M. B..  Thuraisingham, W.  T. Tsai,  T. F. Keefe. Secure Query
+ Processing using  AI Techniques.  Proc.  21st  Hawaii  Int'l.
+ Conf. on Systems Sciences. IEEE Computer Society Press 1988.
+
+M. B..  Thuraisingham. Secure  query processing in intelligent
+ database management  systems.  Proc.  5th  Computer  Security
+ Applications Conference, 204-214. IEEE Computer Society Press
+ 1989.
+
+
+
+Security Aspects in Distributed DBMSs
+
+U.  Bussolati,   G.  Martella.  Data  Security  Management  in
+ Distributed Databases.  Information Systems,  Vol. 7,  No.  3
+ (1982), 217-227.
+
+U. Bussolati,  G. Martella.  Security  design  in  distributed
+ database systems.  J. Syst.  Software, Vol.  3, No.  3, Sept.
+ 1983, 219-229.
+
+A. R.  Downing,  I.  B.  Greenberg,  T.  F.  Lunt.  Issues  in
+ distributed database  security.  Proc.  5th  Annual  Computer
+ Security  Applications  Conference,  196-203,  IEEE  Computer
+ Society Press 1989.
+
+H.  H.  Hosmer,  R.  K.  Burns.  Designing  Multilevel  Secure
+ Distributed Databases.  In:  Database  Security:  Status  and
+ Prospects.  C.  E.  Landwehr,  ed.,  160-166.  North  Holland
+ (Elsevier) 1989.
+
+Greenberg, I.  Distributed Database  Security. Final Report of
+ SRI Project 8772, SRI International, April 1991.
+
+C. D.  Jensen, R.  M. Kiel, R. D. Verjinski. SDDM: A Prototype
+ of a Distributed Architecture for Database Security, 356-364.
+ Proc. of  the 5th Int'l. Conf. on Data Engineering (DE). IEEE
+ Computer Society Press 1989.
+
+J. P.  Kruys. Security  of Open Systems. Computers & Security,
+ Vol. 8, North Holland (Elsevier) 1989.
+
+G. H.  MacEwen. Effects  of Distributed  System Technology  on
+ Database Security:  A Survey.  In: Database  Security: Status
+ and Prospects.  C. E.  Landwehr, ed.,  253-262. North Holland
+ (Elsevier) 1988.
+
+G. H.  MacEwen, B.  Burwell, Z.-J.  Lu.  Multi-Level  Security
+ Based on  Physical Distribution. Proc. 1984 IEEE Symposium on
+ Research in Security and Privacy, 167-177.
+
+J. McHugh,  M. B. Thuraisingham. Multilevel security issues in
+ distributed  database   management   systems.   Computers   &
+ Security,  Vol,   7,  No.   4,  August  1988.  North  Holland
+ (Elsevier).
+
+J. P.  O'Connor, J.  W. Gray.  A distributed  architecture for
+ multilevel database  security. Proc.  11th National  Computer
+ Security Conference,  179-187, IEEE  Computer  Society  Press
+ 1988.
+
+G. M.  Pluimakes. Some  notes on authorization and transaction
+ management  in  distributed  database  systems.  Computers  &
+ Security, Vol.  7, No.3,  287-298. North  Holland  (Elsevier)
+ 1988.
+
+J. M. Powers, S. R. Wilbur.  Authentication in a heterogeneous
+ environment. Computers  & Security,  Vol. 6,  No.  1,  41-48.
+ North Holland (Elsevier) 1987.
+
+R. P.  Trueblood, H.  R. Hartson,  J. J. Martin. Multisafe - a
+ modular   multiprocessing   approach   to   secure   database
+ management. ACM  Trans. on  Database Systems  (TODS)  (TODS),
+ Vol. 8, No. 3 (1983).
+
+V.  Varadharajan,   S.  Black.   Multilevel  Security   in   a
+ Distributed Object-Oriented System. Computers & Security Vol.
+ 10, 51-68. North Holland (Elsevier) 1991.
+
+
+
+Security Aspect in Non-relational DBMSs
+
+R. Ahad, P. Lyngbaek, E. Onuegbe. Supporting Access Control in
+ an Object-Oriented  Database Language. Proc. 3rd Int'l. Conf.
+ on Extended Database Technology (EDBT), Vienna, March 1992.
+
+T. A.  Berson, T.  F. Lunt. Multilevel Security for Knowledge-
+ Based Systems.  Proc. 1987  IEEE  Symposium  on  Research  in
+ Security and Privacy.
+
+H. H.  Bruggemann. Rights  in an  Object-Oriented Environment.
+ In: Database  Security: Status  and Prospects. C.E. Landwehr,
+ S. Jajodia (eds), North Holland (Elsevier) 1992.
+
+K. R.  Dittrich, M. Hartig, H. Pfefferle. Discretionary Access
+ Control in  Structurally  Object-Oriented  Database  Systems.
+ Database Security: Status and Prospects. C. E. Landwehr, ed.,
+ 105-121. North Holland (Elsevier) 1989.
+
+E. B.  Fernandez, E.  Gudes, H.  Song. A  Security  Model  for
+ Object Oriented  Databases.  Proc.  1989  IEEE  Symposium  on
+ Research in Security and Privacy, 110-115.
+
+E. Gudes, H. Song, E. B. Fernandez. Evaluation of negative and
+ predicate-based authorization  in object-oriented  databases.
+ Proc.  4th  IFIP  WG  11.3  Workshop  on  Database  Security,
+ Halifax, UK, 1990.
+
+S. Jajodia,  B. Kogan.  Integrating  an  object-oriented  Data
+ Model with  Multilevel Security. Proc. 1990 IEEE Symposium on
+ Research in Security and Privacy, 76-85.
+
+T. F.  Keefe, W. T. Tsai. Security model consistency in secure
+ object-oriented systems.  Proc. 5th  Annual Computer Security
+ Applications Conference, 290-298. IEEE Computer Society Press
+ 1989.
+
+T. F.  Keefe, W. T. Tsai, M. B. Thuraisingham. A Secure Object
+ Oriented Database  System. Computers & Security Vol. 8, North
+ Holland (Elsevier) 1989.
+
+T. P.  Keenan. Emerging  Vulnerabilities in  Office Automation
+ Security.  Computers   &  Security,  Vol.  8,  North  Holland
+ (Elsevier) 1989.
+
+U. Kelter.  Group paradigms  in discretionary  access controls
+ for object  management  systems.  Proc.  Ada  Europe  Intern.
+ Workshop on Environments, Sept. 1989.
+
+U. Kelter.  Group-oriented discretionary  access controls  for
+ distributed structurally  object-oriented  database  systems.
+ Proc. European Symp. on Research in Computer Security, 23-33,
+ 1990.
+
+U. Kelter. Discretionary access controls in a high-performance
+ object  management  system.  Proc.  1991  IEEE  Symposium  on
+ Research in Security and Privacy, 288-299.
+
+C.  Laferriere,   G.  O.   Higginson,  G.  G.  Bell.  Security
+ Architectures for  Textual Databases.  Computers &  Security,
+ Vol. 9, 235-244. North Holland (Elsevier) 1990.
+
+M. M.  Larrondo-Petrie, E.  Gudes, H.  Song, E.  B. Fernandez.
+ Security  Policies  in  Object-Oriented  Databases.  Database
+ Security:  Status   and  Prospects.  D.  L.  Spooner,  C.  E.
+ Landwehr, eds. 257-268. North Holland (Elsevier) 1990.
+
+T. F.  Lunt. Multilevel  Security for object-oriented database
+ systems. Database  Security:  Status  and  Prospects.  D.  L.
+ Spooner, C. E. Landwehr, eds. North Holland (Elsevier) 1990.
+
+B. H.  Patkau, D. L. Tennenhouse. The Implementation of Secure
+ Entity-Relationship Databases.  Proc. 1985  IEEE Symposium on
+ Research in Security and Privacy, 230-236.
+
+H.  Pfefferle,  M.  Hartig,  K.  Dittrich.  Autorisierung  und
+ Zugriffsberwachung   in    strukturell   objekt-orientierten
+ Datenbanksystemen,  119-134.   Informatik  Fachberichte  204,
+ Springer Verlag 1989. (In German).
+
+F. Rabitti,  D. Woelk,  W. Kim.  A model  of authorization for
+ object oriented  and semantic  databases. Proc.  1988  Int'l.
+ Conf. on Extending Database Technology (EDBT), 231-250.
+
+F. Rabitti,  D. Woelk,  W. Kim.  A model  of authorization for
+ Next Generation  Database Systems.  ACM  Trans.  on  Database
+ Systems (TODS), Vol 16, No. 1, March 1991.
+
+R. Sandhu,  R. Thomas,  S. Jajodia.  Supporting Timing Channel
+ Free  Computations   in  Multilevel   Secure  Object-Oriented
+ Databases. In:  Database Securiy:  Status and Prospects V. S.
+ Jajodia, C. E. Landwehr, eds. Noth Holland (Elsevier) 1992.
+
+D. L.  Spooner. The  Impact  of  Inheritance  on  Security  in
+ Object-Oriented  Database  Systems,  In:  Database  Security:
+ Status and  Prospects. C.  E. Landwehr,  ed., 141-150.  North
+ Holland (Elsevier) 1989.
+
+M. B..  Thuraisingham. Mandatory  Security in  object-oriented
+ Database  Systems.   Proc.  1989  Conf.  on  Object  Oriented
+ Programing: Systems,  Languages, and  Applications  (OOPSLA),
+ 203-210.
+
+M.  B..   Thuraisingham.  A   Functional  View  of  Multilevel
+ Databases. Computers  &  Security,  Vol.  8,  721-729.  North
+ Holland (Elsevier) 1989.
+
+M. B.  Thuraisingham. A Multilevel Secure Object Oriented Data
+ Model. Proc. 12th National Computer Security Conference, 579-
+ 590, IEEE Computer Society Press 1989.
+
+M.  B..   Thuraisingham.  Towards   the  design  of  a  secure
+ data/knowledge  base  management  system.  Data  &  Knowledge
+ Engineering, Vol.  5, No.  1, 59-72. North Holland (Elsevier)
+ 1990.
+
+G. K  Yeo.  Incorporating  access  control  in  form  systems.
+ Computers &  Security, Vol  4, No.  2, 109-122. North Holland
+ (Elsevier) 1985.
+
+
+
+Others
+
+N. Ahituv,  Y. Lapid, S. Neumann. Verifying the authentication
+ of an information. Computers & Security, Vol. 6, No. 2, April
+ 1987, 152-157. North Holland (Elsevier).
+
+R. W.  Baldwin. Naming  and grouping  priviliges  to  simplify
+ security management  in large  databases. Proc.  of the  1990
+ IEEE Symposium on Research in Security and Privacy.
+
+M. Bishop.  Model of  security monitoring.  Proc. 5th Computer
+ Security  Applications   Conference,  46-52.   IEEE  Computer
+ Society Press, 1989.
+
+J. Biskup.  A Genaral  Framework for  Database Security. Proc.
+ European Symposium  on Research  in Computer Security, 35-41.
+ Toulouse, France, Oct. 1990.
+
+D.  A.   Bonyun.  Logging   and  Accountability   in  Database
+ Management  Systems.   In:  Database   Security:  Status  and
+ Prospects.  C.  E.  Landwehr,  ed.,  223-228.  North  Holland
+ (Elsevier) 1988.
+
+J. M.  Carroll, O. L. Wu. Methodology for security analysis of
+ data-processing systems. Computers & Security, Vol. 2, No. 1.
+ North Holland (Elsevier) 1983.
+
+D. D.  Clark, D.  R. Wilson.  A Comparison  of Commercial  and
+ Military  Computer   Security  Policies.   Proc.  1987   IEEE
+ Symposium on Research in Security and Privacy.
+
+K. R.  Dittrich, et  al. Protection  in  the  OSKAR  Operating
+ System. Proc. 1982 IEEE Symposium on Research in Security and
+ Privacy.
+
+D. E. Denning. Cryptography and Data Security. Addison-Wesley,
+ Readings, 1983.
+
+E. B. Fernandez, R. C. Summers, C. Wood. Database Security and
+ Integrity. Addison-Wesley,  Reading,  MA,  System  Programing
+ Series, 1981.
+
+J. Gray. Toward a Mathematical Foundation for Information Flow
+ Security. Proc.  1991 IEEE  Symposium on Research in Security
+ and Privacy, 21-34.
+
+J. Gray.  On Information  Flow Security  Models. Proc.  of the
+ Computer Security  Foundations Workshop, 55-60. IEEE Computer
+ Society Press 1991.
+
+R. R.  Henning.  Industry  and  goverment  DBMS  security  and
+ privacy needs  - a  comparison. Proc.  4th Aerospace Computer
+ Security Conference,  99-105.  IEEE  Computer  Society  Press
+ 1988.
+
+D. K.  Hsiao. Database  Security Course  Module. In:  Database
+ Security: Status and Prospects. C. E. Landwehr, ed., 269-302.
+ North Holland (Elsevier) 1988.
+
+G. King,  W.  Smith.  An  Alternative  Implementation  of  the
+ Reference Monitor  Concept.  Proc.  1988  IEEE  Symposium  on
+ Research in Security and Privacy, 159-166.
+
+R. A.  Kemmerer.  Formal  Specification  of  a  Mental  Health
+ Delivery System. In: Database Security: Status and Prospects.
+ D. L.  Spooner, C.  E. Landwehr, eds., 323-340. North Holland
+ (Elsevier) 1990.
+
+B. Kogan,  S. Jajodia.  An Audit  Model  for  Object  Oriented
+ Databases. Proc.  7th Annual  Computer Security  Applications
+ Conf., 90-97. IEEE Computer Society Press 1991.
+
+T. Y.  Lin, L.  Kerschberg, R. P. Trueblood. Security Algebras
+ and Formal  Models: Using  Petri  Net  Theory.  In:  Database
+ Security:  Status   and  Prospects.  D.  L.  Spooner,  C.  E.
+ Landwehr, eds., 75-98. North Holland (Elsevier) 1990.
+
+T. F. Lunt. Research Directions in Database Security. Springer
+ Verlag, New York (forthcoming).
+
+C. Landwehr, C. Heitmeyer, and J. McLean. A Security Model for
+ Military  Message   Systems.  ACM  Transactions  on  Computer
+ Systems (TOCS), Vol. 2 (1984), 198-222.
+
+J. McLean. A Comment on the Basic Security Theorem of Bell and
+ LaPadula. Information Processing Letters, 20 (1985), 67-70.
+
+J. McLean.  Reasoning About  Security Models.  Proc. 1987 IEEE
+ Symposium on  Research  in  Security  and  Privacy,  123-131.
+ Reprinted in:  Advances in  Computer Security,  Vol. III,  R.
+ Turn (eds.), Artech House, Dedham, MA.
+
+J. McLean.  The Algebra of Security. Proc. 1988 IEEE Symposium
+ on Research in Security and Privacy, 2-7.
+
+J. McLean  and C.  Meadows,  Composable  Security  Properties.
+ Cipher, Fall 1989, 27-36.
+
+J. McLean.  Security Models  and Information  Flow. Proc. 1990
+ IEEE Symposium on Research in Security and Privacy, 180-187.
+
+P. Morris,   J.  McDermid. The  Structure of  Permissions:   A
+ Normative Framework for Access Rights. In: Database Security:
+ Status and  Prospects. C.E. Landwehr, S. Jajodia (eds), North
+ Holland (Elsevier) 1992.
+
+R. S.  Sandhu. The  NTree:   a two dimension partial order for
+ protection groups.  ACM Trans.  on Computer  Systems  (TOCS),
+ Vol. 6, No. 2, May 1988, 197-222.
+
+R. Sandhu,  S. Jajodia.  Integrity Priciples and Mechanisms in
+ Database Management  Systems. Computers  & Security,  Vol. 10
+ (1991), 413-427. North Holland (Elsevier).
+
+R. R.  Schell, T.  F. Tao,  M. Heckman.  Designing the  GEMSOS
+ Security Kernel  For  Security  and  Performance.  Proc.  8th
+ National Computer Security Conference, 108-119, IEEE Computer
+ Society Press 1985.
+
+E. H.  Sibley, J.  B. Michael,  R. L.  Wexelblat.  Use  of  an
+ Experimental Policy  Workbench: Description  and Results. In:
+ Database Security:  Status and  Prospects. C.E.  Landwehr, S.
+ Jajodia (eds), North Holland (Elsevier) 1992.
+
+D. Spooner,  A. M.  Keller,  G.  Wiederhold,  J.  Solasin,  D.
+ Heystek. Framework for the security component of an ADA DBMS.
+ Proc. 12th Int'l. Conf. on VLDB, 347-354, Kyoto 1986.
+
+P. Terry,  S. Wiseman. A 'New' Security Model. Proc. 1989 IEEE
+ Symposium on Research in Security and Privacy, 215-228.
+
+N. R.  Wagner, R.  C. Fountain,  R. J. Hazy. The Fingerprinted
+ Database. Proc.  6th Int'l.  Conf. on  Data Engineering (DE),
+ IEEE Computer Society Press 1990.
+
+S. Wiseman,  P. Terry,  A. Wood,  C. Harrold. The Trusted Path
+ between SMITE  and the  User. Proc.  1988 IEEE  Symposium  on
+ Research in Security and Privacy, 147-155.
+
+S.  Wiseman.   The  Conflict   between   Confidentiality   and
+ Integrity. Proc.  4th Workshop on the Foundations of Computer
+ Security, 241-242. IEEE Computer Society Press 1991.
+
+J. P.  L. Woodward.  Exploiting the dual nature of sensitivity
+ lables. Proc. 1987 IEEE Symposium on Research in Security and
+ Privacy, 23-30.
+
+-------------------------------
+Additional recent papers:
+
+S. Wiseman.  The Control of Integrity in Databases. Proc. IFIP
+ WG  11.3  Database  Security  Workshop,  Halifax,  Yorkshire,
+ England, Sept. 1990.
+
+M. Fugini,  E. Orlandi.  Census Data  and  Protection  Issues.
+ Informatik Forum, 3. Jahrgang, Heft 3, Sept. 1989, 112-116.
+
+H. Lu,  B.-C. Ooi,  H. H. Pang. Multilevel Security Control in
+ Multidatabase Systems. Proc. 1st Workshop on Interoperability
+ in Multidatabase Systems, Kyoto, Japan. IEEE Computer Society
+ Press 1991.
+
+M. L.  Goyal, G.  V.  Singh.  Access  Control  in  Distributed
+ Heterogeneous  Database   Management  Systems.   Computers  &
+ Security, Vol. 10. North Holland (Elsevier) 1991.
+
+B. Thuraisingham.  Multilevel Security  Issues in  Distributed
+ Database Management  Systems II.  Computers &  Security, Vol.
+ 10. North Holland (Elsevier) 1991.
+
+M. G.  Fugini, R.  Bellinzona, G.  Martella. An  Authorization
+ Mechanism   for    Unix-based    cooperative    Environments.
+ Information Systems, Vol. 16, No. 5, 1991.
+
+S. Sherizen.  European Unification  '92 Impacts on Information
+ Security.  Computers  &  Security,  Vol.  10.  North  Holland
+ (Elsevier) 1991.
+
+S. Eichinger,  G. Pernul.  Design Environment  for a  Hospital
+ Information System: Meeting the Data Security Challenge. Proc
+ 7th World Congress on Medical Informatics (MEDINFO-92), North
+ Holland (Elsevier).
+
+G. Steinke.  Design Aspects  of Access  Control in a Knowledge
+ Base System.  Computers &  Security, Vol.  10. North  Holland
+ (Elsevier) 1991.
+
+T.-A. Su,  G. Ozsoyoglu.  Controlling FD and MVD Inferences in
+ Multilevel Relational  Database Systems. IEEE Transactions on
+ Knowledge and Data Engineering, Vol. 3, No. 4, Dez. 1991.
+
+P. A.  Karger, M.  E. Zurko,  D. W.  Bonin, A. H. Mason, C. E.
+ Kahn. A  Retrospective on  the VAX  VMM Security Kernel. IEEE
+ Transactions on  Software Engineering,  Vol. 17, No. 11, Nov.
+ 1991.
+
+R. A.  Kemmerer, P.  A. Porras.  Covert Flow  Trees: A  Visual
+ Approach to  Analyzing Storage Channels. IEEE Transactions on
+ Software Engineering, Vol. 17, No. 11, Nov. 1991.
+
+J.  Jacob.   A   Uniform   Presentation   of   Confidentiality
+ Properties. IEEE  Transactions on  Software Engineering, Vol.
+ 17, No. 11, Nov. 1991.
+
+G. W.  Smith. Modeling  Security-Relevant Data Semantics. IEEE
+ Transactions on  Software Engineering,  Vol. 17, No. 11, Nov.
+ 1991.
+
+R. Sandhu,  S. Jajodia. Integrity Principles and Mechanisms in
+ Database Management  Systems. Computers  & Security, Vol. 10.
+ North Holland (Elsevier) 1991.
+
+S. Wiseman,  A.  Wood,  S.  Lewis.  The  Trouble  with  Secure
+ Databases. Proc. MILCOMP'89, London, Sept. 1989.
+
+T. D. Garvey, T. F. Lunt. Cover Stories for Database Seucrity.
+ Proc. of  the 5th IFIP WG 11.3 Workshop on Database Security,
+ Nov. 1991.
+
+E.  Bertino.  Data  Hiding  and  Security  in  Object-Oriented
+ Databases. Proc.  1992 Int'l. Conf. on Data Engineering, 338-
+ 347. IEEE Computer Society Press.
+
+G. Pernul,  A M.  Tjoa. Database  Security Policies  (Extended
+ Abstract). Proc. Safecomp-92, Zurich, Switzerland, Oct. 1992.
+ (Pergamon Press).
+
+G. Pernul,  S. Eichinger.  Design Environment  for a  Hospital
+ Information System: Meeting the Data Security Challenge. Proc
+ 7th  World   Congress  on  Medical  Informatics,  MEDINFO-92.
+ Geneve, Switzerland, Sept. 1992. North Holland (Elsevier).

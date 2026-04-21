@@ -1,0 +1,1264 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.14 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 14
+
+
+----------------------------------------------------------------------
+
+From: trooker@bombe.nswc.navy.mil (Terry Rooker)
+Subject: Article 0 -- Abstract of CAF-News 02.14
+
+[Week ending March 22, 1992
+
+[Issue #13 is still in production. This week's guest editor is Terry
+Rooker, trooker@bombe.nswc.navy.mil. - Carl.]
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Notes 1-2 are about the UNL restricting alt.* access.
+
+1. For anyone who has been following the alt.* controversy at UNL,
+the following article appeared on page one of _The Daily Nebraskan_,
+the student newspaper of the University of Nebraska - Lincoln, on
+Tuesday, March 17, 1992.  _UNL loses `alt' computer files_ by Mike  
+Lewis staff reporter.  Used with permission of the Daily Nebraskan
+    <9203212232.AA24018@cse.unl.edu>
+
+2. (Carl Kadie:)  The UNL policy is equivalent to book burning, and  
+could be applied to traditional libraries.  The university should  
+clarify its intellectual freedom policy and apply it equally to  
+electronic and traditional media. (includes references) 
+    <1992Mar21.225125.9543@m.cs.uiuc.edu>
+
+Note 3 is about the EFF Pioneer award winners.
+
+3. The Electronic Frontier Foundation (EFF) today announced the five
+winners of the first annual EFF Pioneer Awards for substantial
+contributions to the field of computer based communications.  The
+winners are: Douglas C. Engelbart of Fremont; Robert Kahn; Jim  
+Warren; Tom Jennings; and Andrzej Smereczynski.  The award is  
+described as are the achievements of the winners.
+    <telecom12.235.1@eecs.nwu.edu>
+
+Notes 4-5 are about a stringent penalty for computer misuse.
+
+4. Enclosed is the _Penalties for Misuse of UIC Computing Resources_.
+    <199203181655.AA03311@eff.org>
+
+5. (Carl Kadie:)  The _Penalties for Misuse of UIC Computing
+Resources_ is a detailed list of infractions and penalties. This
+article is a critique of this policy.  The infraction descriptions  
+are vague, and the penalties are severe.  In general, the stated  
+policy would allow system adminstration to enforce any arbitrary  
+policy and still be in accordance with this policy.
+    <1992Mar18.191830.5134@eff.org>
+
+Note 6 is about a regional networks solution to commercial use of  
+Internet.
+
+6. The growth of the Internet is staggering.  As the Internet  
+increases in size there is more demand for it to become the single  
+network used by all computer users.  NSF policy prevents commercial  
+use of the Internet.  There are several alternatives to this  
+restriction.  NEARnet is a regional network that already supports  
+commercial use which would preclude its connection to the Internet.   
+A solution is proposed to use a combination of the NSF backbone and  
+commercial services to support the existing NEARnet members.  
+    <9203190129.AA18713@psi.com>
+
+Note 7 is about one system's attempt to protect user privacy.
+
+7. (Wes Morgan:)  In response to concerns about email privacy I try  
+to protect my users by not archiving electronic mail during backups.    
+By using cpio(1) it is easy to exclude the mailboxes from the backup.   
+Only user mail in the user's system mailbox is liable to search.  The  
+analogy is to postal mail sevrvice; once a letter is delivered the  
+postal service no longer has jurisdiction.  Even this analogy is  
+incomplete as some systems keep mail in a comman mail directory.  
+    <1992Mar19.94600.15681@ms.uky.edu>
+
+Notes 8-9 are about bibliographies concerning libraries and  
+censorship.
+
+8. Enclosed is a short biblography of bibliographies on library
+intellectual freedom, pornography, censorship, privacy etc.
+    <9203191716.AA05219@herodotus.cs.uiuc.edu>
+
+9. Enclosed are selected excerpts from the bibliographies.  The focus  
+seems to be on high school libraries, so maybe the problem is more  
+common there than in universities.  
+    <9203191809.AA05485@herodotus.cs.uiuc.edu>
+
+Note 10 is about a service to provide back copies of USENET groups.
+
+10. Because of the volume of USENET traffic few site can maintain  
+more than a few weeks worth of articles.  Because of the volume there  
+is much information available from USENET.  NetNews/CD is a product  
+that will provide a copy of the USENET groups on a subscription  
+basis.  Also included in the subscription is NetGems which includes  
+the X11R5 sources, the GNU software, as well as the comp.sources.*  
+archives.  
+    <94605@mcdchg.chg.mcd.mot.com>
+
+Note 11 is about email privacy notification.
+
+11. Enclosed is a sample account request form.  It specifies under  
+what conditions the user can and cannot expect privacy for their  
+email.  
+    <bill.701078510@chaos.cs.umn.edu>
+
+Note 12 is about a legal decision concerning email privacy.
+
+12. Enclosed is an excerpt from a legal decision.  An analogy is  
+drawn that basically implies that simply because the opportunity  
+exists, access can still be considered a violation if the perpetrator  
+is unauthorized.  It is not clear what lasting affect this decision  
+will have.  [notice this is an australian posting]  
+    <920322151214.21203539@DARWIN.NTU.EDU.AU>
+
+- Terry]
+
+
+In this issue:
+
+David Burchell   81  Newspaper article at U. of Nebraska (alts)
+Carl M. Kadie   167  >news story on U. of Nebraska alt.* removal
+Gerard V d Leun  92  EFF Announces Pioneer Award Winners
+Carl M. Kadie    67  U of Illinois at Chicago Penalties Policy
+Carl M. Kadie    89  >
+jrugo@nic.near   58  One regional's proposal to keep the Internet whole
+Wes Morgan       61  Regarding electronic mail<>acy/searches/examinations.....
+Carl M. Kadie    79  bibliography of bibliographies on library censorship
+Carl M. Kadie    75  Exceprts from bibliographies on library censorship
+Sterling IMD     87  NetNews/CD - USENET News Available on CD-ROM
+bill@chaos.cs    66  >EMAIL PRIVACY
+Mark P Neely     57  Dismissal for hacking - further info.
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Mar 21 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: burchell@cse.unl.edu (David Burchell)
+Subject: Article 1--Newspaper article at U. of Nebraska (alts)
+Message-ID: <9203212232.AA24018@cse.unl.edu>
+Date: Sat, 21 Mar 1992 22:32:24 GMT
+
+
+For anyone who has been following the alt.* controversy at UNL,
+the following article appeared on page one of _The Daily Nebraskan_,
+the student newspaper of the University of Nebraska - Lincoln, on
+Tuesday, March 17, 1992.
+
+UNL loses `alt' computer files
+by Mike Lewis
+staff reporter
+
+	Many UNL computer-users got hot under their collars a few 
+weeks ago, but it wasn't because of radiation from their monitors.
+	They were angry because the Computing Resource Center at the
+University of Nebraska-Lincoln had stopped feeding an entire set
+of "bulletin board" news groups, called alternative or alt groups,
+into UNLINFO, a machine that provides information via computers to
+the UNL community.
+	Paul Kenyon, a UNL graduate student in computer science, said 
+he was angry that the alt groups were eliminated from UNLINFO.
+	"I would like to find a leginimate way to regain access to 
+the alt groups," he said.
+	The alt groups disappeared from UNLINFO without any warning
+from the Computing Resource Center, Kenyon said.
+	"We found out about it after the fact," he said.
+	Kenyon said the alt groups made up one category of news groups
+available on USENET, a worldwide computer "bulletin board" on which
+users can post information for the general public.  Kenyon called
+USENET a "forum for discussion."
+	The USENET service is available on about 200,000 computers
+worldwide, he said, and about 1 million people use the service for 
+research, entertainment and other reasons.
+	USENET holds a "big, big volume of data," Kenyon said, and 
+UNLINFO stors only a small fraction of all the USENET groups.
+	Most USENET news group categories deal with specific subjects,
+such as science, computers or recreation, he said.  The groups in
+these categories often have moderators or editors who decide what
+information will be posted.
+	But the alt groups never have editors, Kenyon said. Anyone can
+start an alt group, and anyone can add to one.
+	Kenyon said he thought the alt groups were taken out of UNLINFO
+because some of them were pornographic in nature, such as 
+"alt.sex.bondage" and "alt.sex.bestiality." Others dealt with trivial
+subjects, such as "alt.tv.simpsons."
+	But other alt groups are worthwhile, he said.
+	"I'll guarantee you that out of 400 (alt groups), there are 200 that
+are as legitimate as the rest of USENET," Kenyon said.
+	Douglas Gale, director of computing at UNL, said he was tired of
+hearing students complain about the removal of the alt groups from
+UNLINFO.
+	"They haven't been denied anything," he said.
+	People still can gain access to the alt groups by logging into
+systems elsewhere, Gale said. A list of alternative sites was posted on
+UNLINFO, he said.
+	Many students do not understand why those groups could no longer be
+stored on UNLINFO, Gale said.
+	"We're dealing very much with a resource issue," he said.
+	The amount of memory on UNLINFO was doubling every four months, he
+said, and the increase of data was making UNLINFO run more slowly.
+	Gale said he got the impression that some students would limit access
+to valuable educational resources, such as library catalogs and news
+wire services, just to look at "alt.tv.simpsons."
+	The content of the USENET groups also makes a difference, Gale said,
+when taxpayers' money is involved.
+	"Some of that stuff (in the alt groups) is pretty sick," he said.
+"There's stuff that would not be in the adult bookstore downtown."
+	CRC decided to stop storing the alt groups after a Feb. 27 meeting of
+the UNL Academic Senate Computational Services and Facilities Committee.
+	Leo Chouinard, the Academic Senate representative on the Computational
+Committee, said the committee discussed several considerations before 
+making a decision about the alt groups, including possible violations of
+state pornography laws and concerns about computer resources being used
+for non-educational purposes.
+
+-- 
+Dave Burchell         |                  Review your options.
+burchell@cse.unl.edu  |                         Amiga. 
+ianr056@unlvm.bitnet  |
+
+
+
+------------------------------
+
+From caf-talk Caf Mar 21 00:00:00 1992
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,unl.general
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 2--Re: news story on U. of Nebraska alt.* removal
+Message-ID: <1992Mar21.225125.9543@m.cs.uiuc.edu>
+Date: Sat, 21 Mar 1992 22:51:25 GMT
+
+Summary: I consider the U. of Nebraska's action the electronic
+equivalent of book burning. All of the University's rationalization
+could be used just as well to justify removal of traditional library
+material. If the U. of Nebraska does not have a policy on intellectual
+freedom, it should create one. If it does have one, it should apply it
+to both traditional media and computer media.
+
+[...]
+>the following article appeared on page one of _The Daily Nebraskan_,
+>the student newspaper of the University of Nebraska - Lincoln, on
+>Tuesday, March 17, 1992.
+>
+[...]
+>	The alt groups disappeared from UNLINFO without any warning
+>from the Computing Resource Center, Kenyon said.
+>	"We found out about it after the fact," he said.
+[...]
+
+Policy should not be made in secret.
+
+Joint Statement on Rights and Freedoms of Students, the main
+statement of student academic freedom in the U.S. says:
+
+"As constituents of the academic community, students should be free,
+individually and collectively, to express their views on issues of
+institutional policy and on matters of general interest to the student
+body. The student body should have clearly defined means to
+participate in the formulation and application of institutional policy
+affecting academic and student affairs. The role of the student
+government and both its general and specific responsibilities should
+be made explicit. and the actions of the student government within the
+areas of its jurisdiction should be reviewed only through orderly and
+prescribed procedures."
+
+
+[...]
+>	USENET holds a "big, big volume of data," Kenyon said, and 
+>UNLINFO stores only a small fraction of all the USENET groups.
+[...]
+
+This is likely not true. More likely UNLINFO was getting
+a large fraction of the newsgroups.
+
+>	Most USENET news group categories deal with specific subjects,
+>such as science, computers or recreation, he said.  The groups in
+>these categories often have moderators or editors who decide what
+>information will be posted.
+
+This is not true. Most Usenet group are unmoderated forums, e.g.
+free speech forums.
+
+>	But the alt groups never have editors, Kenyon said. Anyone can
+>start an alt group, and anyone can add to one.
+
+This is not true. Some alt groups do have editors. For example,
+alt.comp.acad-freedom.news, has an editor.
+
+[...]
+>	Douglas Gale, director of computing at UNL, said he was tired of
+>hearing students complain about the removal of the alt groups from
+>UNLINFO.
+>	"They haven't been denied anything," he said.
+>	People still can gain access to the alt groups by logging into
+>systems elsewhere, Gale said. A list of alternative sites was posted on
+>UNLINFO, he said.
+
+Just because you can get material elsewhere doesn't mean that it is not
+censored here.
+
+The American Library Association defines "censorship" as "the change
+in the access status of material, made by a governing authority or its
+representatives. Such changes include: exclusion, restriction,
+removal, or age/grade level changes."
+
+>	"We're dealing very much with a resource issue," he said.
+>	The amount of memory on UNLINFO was doubling every four months, he
+>said, and the increase of data was making UNLINFO run more slowly.
+
+If resources are an issue, the UNLINFO should do what libraries do:
+create an clear, open, written selection policy. Do do otherwise is do
+leave the strong impression of censorship. [Information about library
+selection policies is enclosed.]
+
+[..]
+>	The content of the USENET groups also makes a difference, Gale said,
+>when taxpayers' money is involved.
+
+Libraries deal with this problem every day. One of their principles
+is that :
+
+"Libraries should provide materials and information presenting all
+points of view on current and historical issues.  Materials should not be
+proscribed or removed because of partisan or doctrinal disapproval."
+[Library Bill of Rights]
+
+>	"Some of that stuff (in the alt groups) is pretty sick," he said.
+>"There's stuff that would not be in the adult bookstore downtown."
+[...]
+
+Virtually everything in the alt groups is Constitutionally protected.
+Most is very similar to what is found in an academic library.
+
+The Joint Statement says: "Academic institutions exist for the
+transmission of knowledge, the pursuit of truth, the development of
+students, and the general well-being of society. Free inquiry and free
+expression are indispensable to the attainment of these goals its
+members of the academic community, students should be encouraged to
+develop the capacity for critical judgment and to engage in a
+sustained and independent search for truth."
+
+Usenet (and the alt groups) fit these purposes perfectly.
+
+- Carl Kadie
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+student.freedoms
+=================
+Joint Statement on Rights and Freedoms of Students -- This is the main
+statement on student academic freedom.
+
+=================
+library/censorship.def.ala
+=================
+The American Library Association's definition of "censorship" and related
+terms.
+
+=================
+library/selection-workbook.ala
+=================
+The American Library Association's "Workbook on Selection Policy
+Writing". Although aimed at textbook and library book selection in
+grade and high schools, it also seems applicable to newsgroup
+selection. It includes information about how create a selection policy
+and how to handle complaints. It also includes a sample selection
+policy.
+
+=================
+library/bill-of-rights.ala
+=================
+The Library Bill of Rights from the American Library Association.
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send acad-freedom student.freedoms
+  send library-policies censorship.def.ala
+  send library-policies selection-workbook.ala
+  send library-policies bill-of-rights.ala
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.88.144.4) as file(s):
+  pub/academic/student.freedoms
+  pub/academic/library/censorship.def.ala
+  pub/academic/library/selection-workbook.ala
+  pub/academic/library/bill-of-rights.ala
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Mar 17 00:00:00 1992
+From: van@eff.org (Gerard Van der Leun)
+Newsgroups: comp.dcom.telecom
+Subject: Article 3--EFF Announces Pioneer Award Winners
+Message-ID: <telecom12.235.1@eecs.nwu.edu>
+Date: 16 Mar 92 23:19:58 GMT
+
+ENGELBART, KAHN, WARREN, JENNINGS AND SMERECZYNSKI
+NAMED AS FIRST WINNERS OF THE ELECTRONIC FRONTIER FOUNDATION'S PIONEER
+AWARDS
+
+Cambridge,  March 16,1992
+
+The Electronic Frontier Foundation (EFF) today announced the five
+winners of the first annual EFF Pioneer Awards for substantial
+contributions to the field of computer based communications.  The
+winners are: Douglas C. Engelbart of Fremont, California; Robert Kahn
+of Reston, Virginia; Jim Warren of Woodside, California; Tom Jennings
+of San Francisco, California; and Andrzej Smereczynski of Warsaw,
+Poland.
+
+The winners will be presented with their awards at a ceremony open to
+the public this Thursday, March 19, at L'Enfant Plaza Hotel in
+Washington, DC, beginning at 5:15 PM. Most winners are expected to be
+present to accept the awards in person.  The ceremony is part of this
+week's Second Conference on Computers, Freedom and Privacy that is
+taking place at L'Enfant Plaza Hotel in D.C.
+
+Mitchell Kapor, President of the EFF, said today that: "We've created
+the Pioneer Awards in order to recognize and honor individuals who
+have made ground-breaking contributions to the technology and culture
+of digital networks and communities."
+
+Nominations for the Pioneer Awards were carried out over national and
+international computer-communication systems from November, 1991 to
+February 1992.  Several hundred nominations were received by the
+Electronic Frontier Foundation, and the final winners were selected by
+a panel of six judges.
+
+The criteria for the Pioneer Awards was that the person or
+organization nominated had to have made a substantial contribution to
+the health, growth, accessibility, or freedom of computer-based
+communications.
+
+                   The Pioneer Winners    
+
+Douglas Engelbart is one of the original moving forces in the personal
+computer revolution who is responsible for many ubiquitous features of
+today's computers such as the mouse, the technique of windowing,
+display editing, hypermedia, groupware and many other inventions and
+innovations. He holds more than 20 patents and is widely-recognized in
+his field as one of our era's true visionaries.
+
+Robert Kahn was an early advocate and prime mover in the creation of
+ARPANET which was the precursor of today's Internet. Since the late
+60's and early 70's Mr. Kahn has constantly promoted and tirelessly
+pursued innovation and heightened connectivity in the world's computer
+networks.
+
+Tom Jennings started the Fidonet international network. Today it is a
+linked network of amateur electronic bulletin board systems (BBSs)
+with more than 10,000 nodes worldwide and it is still growing. He
+contributed to the technical backbone of this system by writing the
+FIDO BBS program as well as to the culture of the net by pushing for
+development and expansion since the early days of BBSing.  He is
+currently editor of FidoNews, the network's electronic newsletter.
+
+Jim Warren has been active in electronic networking for many years.
+Most recently he has organized the First Computers, Freedom and
+Privacy Conference, set-up the first online public dialogue link with
+the California legislature, and has been instrumental is assuring that
+rights common to older mediums and technologies are extended to
+computer networking.
+
+Andrzej Smereczynski is the Administrator of the PLEARN node of the
+Internet and responsible for the extension of the Internet into Poland
+and other east European countries.  He is the person directly
+responsible for setting up the first connection to the West in post-
+Communist Middle Europe.  A network "guru", Mr. Smereczynski has
+worked selflessly and tirelessly to extend the technology of
+networking as well as its implicit freedoms to Poland and neighboring
+countries.
+
+This year's judges for the Pioneer Awards were: Dave Farber of the
+University of Pennsylvania Computer Science Department; Howard
+Rheingold, editor of The Whole Earth Review; Vint Cerf, head of CNRI;
+Professor Dorothy Denning Chair of George Washington University's
+Computer Science Department; Esther Dyson, editor of Release 1.0,
+Steve Cisler of Apple Computer, and John Gilmore of Cygnus Support.
+
+For more information contact:
+Gerard Van der Leun
+Director of Communications
+Electronic Frontier Foundation
+155 Second Street   Cambridge, MA 02141
+(617) 864-0665      Internet: van@eff.org
+
+
+------------------------------
+
+From caf-talk Caf Mar 18 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 4--U of Illinois at Chicago Penalties Policy
+Message-ID: <199203181655.AA03311@eff.org>
+Date: Wed, 18 Mar 1992 06:55:51 GMT
+
+                Penalties for Misuse of UIC Computing Resources
+                                   09/23/91
+
+The following Computer  Center policies provide guidelines for the  use of com-
+puting resources at UIC and the actions that  will be taken in cases of misuse.
+Please note that MINIMUM penalties are  listed.   Repeated or major misuse will
+automatically  result in  a suspension  of  computing privileges  for a  longer
+period of  time and imposition  of additional disciplinary  actions.   Specifi-
+cally,  a  second infraction of  any kind  will automatically be  considered to
+belong to the next lengthier suspension category.   In no case will the imposi-
+tion of the  minimum penalty preclude the invocation of  additional internal or
+external actions.
+
+SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 3 DAYS TO 1 WEEK:
+  * Disruptive or abusive use of electronic mail, locally or over external net-
+     works, including but not limited to the following:
+       - For BITNET,  sending files larger than  the BITNET limit of 3000 lines
+          of a maximum of eighty characters each
+       - Sending an electronic chain letter
+       - Sending an unsolicited message,  mail or  communication of any kind to
+          persons  who  have not  requested  it  or  who cannot  be  reasonably
+          expected to welcome such communication
+  * Frequent frivolous use of computing resources
+  * Hoarding terminals or microcomputers in the Computer Center terminal/micro-
+     computer laboratories
+  * Interfering with the use of computing facilities by others
+  * Playing computer games
+  * Smoking, eating or drinking in any terminal/microcomputer laboratory
+  * Use of UIC computing resources for  commercial soliciting or advertising of
+     any kind
+
+SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 3 MONTHS:
+  * "Lending" an account,  account units or online disk storage to another per-
+     son.
+  * Using an  account,  account  units or  online disk  storage that  belong to
+     another person
+
+SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 6 MONTHS:
+  * Using a stolen account
+
+SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 1 YEAR:
+  * A pattern of any misuse of computing resources
+
+ADDITIONAL INTERNAL AND EXTERNAL PENALTIES:
+  * Civil and criminal penalties in cases of infringement of copyright laws for
+     the use and reproduction of UIC site licensed microcomputer software
+  * Denial of honor student computing privileges
+  * Monetary charges for illegally-used computing resources
+  * Request for University disciplinary action as outlined in the Student Judi-
+     cial Code
+
+
+
+
+The Computer Center  will consider extenuating circumstances  to reduce imposed
+penalties.   Imposition of account suspensions  and the appeal mechanism follow
+the  University student  disciplinary guidelines  as outlined   in the  Student
+Judicial Code.   Additionally,   any student may appeal to the  Director of the
+Computer Center  for a preliminary  review of the  penalty imposed and  has the
+right to have a case referred to the Senate Committee on the Judiciary.
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Mar 18 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 5--Re: U of Illinois at Chicago Penalties Policy
+Message-ID: <1992Mar18.191830.5134@eff.org>
+Date: Wed, 18 Mar 1992 19:18:30 GMT
+
+This is a critique of the UIC policy. I've reformatted it a bit.
+
+Summary: This is the most creatively repressive policy I read in a
+long time. The policy gives the false illusion of explicitness and due
+process.  In fact, however, it makes almost everything illegal and
+subject to harsh and disproportionate punishment. It then gives the
+Computer Center expansive discretion on enforcement and punishment.
+The effect for users is the same as if there was no policy at all.
+
+> Penalties for Misuse of UIC Computing Resources > 09/23/91
+
+>SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 3 DAYS TO 1 WEEK:
+[...]
+>    - Sending an unsolicited message, mail or communication of any kind to
+>     persons who have not requested it or who cannot be reasonably
+>     expected to welcome such communication
+[...]
+
+So, if I get unwelcome email from a student computer operator telling
+me I'm me I'm over my disk quota, he or she will automatically be
+suspended from the computer for 3 days?
+
+Sounds good :-)
+
+I think this rule is so over broad that it necessarily will be enforced
+very selectively and arbitrary.
+
+(Somewhere on the net there is an FAQ about "You don't need permission
+to send email." If you know where, please post it or send it to me.)
+
+> * Frequent frivolous use of computing resources
+
+This is vague.
+
+
+>SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 3 MONTHS:
+[...]
+> * Using an account, account units or online disk storage that belong to
+>   another person
+
+So, if my friend tells me to look in her .login to see how she set her
+"PATH" statement, I will be suspended for 3 months? This is
+ridiculously harsh. Is it really enforced?
+
+>SUSPENSION OF COMPUTING PRIVILEGES FOR A MINIMUM OF 1 YEAR:
+> * A pattern of any misuse of computing resources
+
+Like looking at her .login twice?
+
+>The Computer Center will consider extenuating circumstances to reduce imposed
+>penalties.
+
+So, it is factually incorrect to call the penalties "minimum".
+
+This policy gives the false illusion of explicitness and due process.
+In fact, however, it makes almost everything illegal and subject to
+harsh and disproportionate punishment. It then gives the Computer Center
+expansive discretion on enforcement and punishment. The effect for
+users is the same as if there was no policy at all.
+
+The Joint Statement on Rights and Freedoms of Students says "In
+developing responsible student conduct, disciplinary proceedings play
+a role substantially secondary to example, counseling, guidance, and
+admonition." This does not see to be the case at UIC where warning
+are, according to the policy, never issued.
+
+The Statement also says "Disciplinary proceedings should be instituted
+only for violations of standards of conduct formulated with
+significant student participation and published in advance through
+such means as a student handbook or a generally available body of
+institutional regulations." I doubt if student and faculty
+participated in the create of this users this heavy-handed policy.
+
+One way to resist this policy might be to follow it! If I were at
+student at UIC (rather than UIUC), I would ask the computer
+administration to review almost every email note that I thought about
+sending so they could tell me it could be reasonable expected to be
+welcome. I would also request written permission from the head of the
+Computer Center ever time a friend tell me I can look at her .login
+file. I might also report every Computer Center staff member who sent
+me unwelcome mail.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Mar 18 00:00:00 1992
+Newsgroups: eff.mail.com-priv
+From: jrugo@nic.near.net
+Subject: Article 6--One regional's proposal to keep the Internet whole
+Message-ID: <9203190129.AA18713@psi.com>
+Date: Wed, 18 Mar 1992 15:28:21 GMT
+
+NEARnet, and the Internet in general, have seen dramtic growth over recent
+years, both in the number and variety of organizations which have joined.  Many
+members of regional networks, including NEARnet's members, have expressed
+interest in using their connections to support inter-business communications.
+
+However, use of the NSFNET to support business activities is prohibited under
+the National Science Foundation's Acceptable Use Policy.  An organization of
+providers of commercial services has been formed to provide those services,
+named the Commercial Internet Exchange (CIX).  In addition, the provider of
+NSFNET services, Advanced Network and Services (ANS), has formed a subsidiary
+to provide commercial services (ANS CO+RE).  NEARnet's policies already allow
+commercial traffic between NEARnet members. NEARnet has been negotiating with 
+both ANS and the CIX to provide broader commercial access to our members.  
+NEARnet believes that the Internet needs to remain fully interconnected in 
+order to support the wide range of needs present in the Internet.
+
+NEARnet has proposed to join the CIX and to sign an agreement with ANS CO+RE.
+Under the terms of the ANS CO+RE agreement, NEARnet's access to the CIX member
+networks (PSI, Alternet, CERFnet, BARRNET, and a few others) would be provided
+by the ANS CO+RE network.  We believe that this solution accomplishes two
+goals.  The first goal is to establish connectivity with the greatest number of
+networks.  The second goal is to establish that connection using the best
+available technical means.  NEARnet has determined that, if separate
+connections were established to ANS and the CIX, current routing technology
+would not enable us to provide the best possible service to our members.
+
+Utilizing the high-speed ANS connection for CIX and ANS CO+RE traffic will
+satisfy both goals in the interim while we continue to pursue advances in
+routing technology that wil allow more diverse network connections for NEARnet.
+We hope to have a working interim solution available from ANS and CIX in the
+near future.
+
+Bill Yundt, the Executive Director of the Bay Area Regional Research Network
+(BARRNet) which serves over 120 organizations in California, has joined with
+NEARnet in support of its proposal. Yundt says:
+
+"BARRNet management is committed to the NEARnet strategy and has informed the
+CIX management that BARRNet's continued participation in the CIX organization
+is contingent upon resolution of routing issues and effective coordination of
+connectivity with the ANS-NSFNET backbone.  Though announced as a CIX member,
+BARRNet has deferred its connection to the CIX West hub which we determined
+would result in unacceptable routing and coordination difficulties and
+increased performance risks to our membership.  The current routing technology
+is not up to the task of supporting regional networks with multiple Internet
+connections in a way that satisfies use restrictions, matches paths to user
+requirements and avoids routing assymetry, loops or other unacceptable routing
+behavior.
+
+We believe NEARnet has proposed the only workable solution currently available
+to the Internet community and we are prepared to use the NEARnet model as the
+basis for negotiating our connectivity agreements with the CIX and ANS."
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Mar 19 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Article 7--Regarding electronic mail privacy/searches/examinations.....
+Message-ID: <1992Mar19.94600.15681@ms.uky.edu>
+Date: Thu, 19 Mar 1992 14:46:00 GMT
+
+NOTE: When I originally posted this message, my news system complained
+      that "errors occured during processing".  A quick examination of
+      the spool area indicated that the message had not been dispatched,
+      so I am reposting it now.  If you have already seen this, I apologize.
+
+
+
+As a result of the growing concern over email privacy (or lack thereof), I 
+made a conscious decision some time ago to protect my users from potential 
+problems/hassles.
+
+I do not archive electronic mail on my backup tapes.
+
+Since we perform backups with the almost-universally-portable cpio(1), it
+was a simple matter to drop user mailboxes out of the backup list.  For
+those of you who may be unfamiliar with find(1) and cpio(1), our backup
+string looks something like this:
+
+find / {parameters}|grep -v $MAILBOXDIR|{other stuff}|cpio {options} >/dev/blah
+
+where MAILBOXDIR is the system mail directory.  This eliminates mailboxes
+from our backup tapes.
+
+Our users are informed, in advance, that electronic mail is not preserved
+on backup tapes.  We haven't had any complaints.
+
+The only electronic mail which can be searched/seized/examined is the
+current contents of the user's system mailbox in MAILBOXDIR.  Notice 
+that a search warrant authorizing an "electronic mail" search would NOT
+cover any mail archives in the user's home directory; as soon as the
+user moves a file from his system mailbox to his home directory, the
+nature of the material changes from "electronic mail" to "user files",
+which would (hopefully) fall into a completely different category.
+
+I based this action on the supposition that electronic mail, once delivered,
+is no longer under the authority of the delivery agent.  The Postal Service
+cannot prosecute me for things I do with my mail AFTER they deliver it; why
+should electronic mail be treated differently?  I don't care if the user 
+prints it, posts it on the wall, or translates it into Pig Latin; once he takes
+it out of his system mailbox, it is no longer email.   
+
+(None of this has been tested in an actual case, so my interpretation may
+ turn out to be completely wrong; I'm not a lawyer)
+
+There is a complication in some operating systems, however.  Under most
+varieties of Unix, each user owns their own system mailbox; in some other
+systems, email is held in a common pool or directory, which is owned by the 
+system itself.  This "loophole" may be construed as implicit permission for
+scanning/snooping/reading, since "it doesn't belong to the user, but to
+the system."  Those of you who are running such systems may have to in-
+clude more specific protections in your policy.
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+
+------------------------------
+
+From caf-talk Caf Mar 19 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 8--bibliography of bibliographies on library censorship
+Message-ID: <9203191716.AA05219@herodotus.cs.uiuc.edu>
+Date: Thu, 19 Mar 1992 05:16:07 GMT
+
+This is very short biblography of bibliographies on library
+intellectual freedom, pornography, censorship, privacy etc. Many of
+the articles might be useful to those fighting against (or for!)
+Netnews censorship.
+
+Each bibliography is 10-25 pages long. According to the
+back cover of one of them, each can be ordered from:
+
+      VANCE BIBLIOGRAPHIES
+      Post Office Box 229
+      Monticello, Illinois 61856
+
+I've included the price after the first two items. I don't know
+the price of the other two.
+
+========================
+     Christensen, John O. 
+     Intellectual freedom and libraries : a selective bibliography / 
+John O. Christensen. Monticello, Ill. : Vance Bibliographies, :1991: 
+     15 p. ; 29 cm. (Public administration series--bibliography, 
+0193-970X ; P-3068) 
+     Cover title. 
+     "April 1991." 
+     ISBN  0792007883 (pbk.) 
+       1. Libraries--Censorship--Bibliography.  I. Title.   II. Series.  
+     ocm23-295948  
+PRICE: $3.75
+============================
+     Christensen, John O. 
+     Obscenity, pornography, and libraries : a selective bibliography / 
+John O. Christensen. Monticello, Ill. : Vance Bibliographies, :1991: 
+     10 p. ; 29 cm. (Public administration series--bibliography, 
+0193-970X ; P-3069) 
+     Cover title. 
+     "April 1991." 
+     ISBN  0792007891 (pbk.) 
+       1. Obscenity (Law)--United States--Bibliography.   2. Pornography--
+United States--Bibliography.   3. Libraries--Special collections--
+Pornography--Bibliography.   4. Libraries--Censorship--Bibliography. 
+  5. Libraries--Special collections--Erotica--Bibliography.  I. Title.  
+ II. Series.  
+     ocm23-353422  
+PRICE: $3.00
+========================================
+     Christensen, John O. 
+     Legal issues in public and school libraries : some recent
+references / John O. Christensen. Monticello, Ill. : Vance
+Bibliographies, :1990: 
+     24 p. ; 28 cm. (Public administration series--bibliography, 
+0193-970X ; P-2945) 
+     Cover title. 
+     "September 1990." 
+     ISBN  0792006453 (pbk.) 
+       1. Public librarians--Legal status, laws, etc.--United States--
+Bibliography.   2. Library legislation--Bibliography.   3. School
+libraries--Law and legislation--United States--Bibliography.  I. Title.  
+ II. Series.  
+     ocm22-339034  
+PRICE: ?????
+========================================
+     Christensen, John O. 
+     The FBI, libraries, and the library awareness program controversey
+:sic: : selected references / John O. Christensen. Monticello, Ill. : 
+Vance Bibliographies, :1990: 
+     7 p. ; 28 cm. (Public administration series--bibliography, 
+0193-970X ; P-2946) 
+     Cover title. 
+     "September 1990." 
+     ISBN  0792006461 (pbk.) 
+       1. United States. Federal Bureau of Investigation   2. 
+Information services and state--United States--Bibliography.   3. 
+Freedom of information--United States--Bibliography.  I. Title.   II. 
+Series.  
+     ocm22-339081  
+PRICE: ?????
+
+
+
+------------------------------
+
+From caf-talk Caf Mar 19 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 9--Exceprts from bibliographies on library censorship
+Message-ID: <9203191809.AA05485@herodotus.cs.uiuc.edu>
+Date: Thu, 19 Mar 1992 06:09:30 GMT
+
+Here are selected excerpts from the bibliographies. Most of the school
+related items seem aimed at high schools. I guess this means that
+censorship of traditional information services at Universities are
+uncommon.
+
+Articles:
+
+Anderson, Arthur James. "Politics & Policy (with discussion),"
+_Library Journal 10:37-9 May 15, 1985.
+
+Asheim, Lester. "Selection and Censorship: A Reapprasial", _Wilson
+Libary Bulletin_ 58(3):180-84 November 1983
+
+Berninghausem, David K. "Toward an Intellecutal Freedom Theory
+for Users of Libraries," Drexel Library Quarterly 18(1):57-81
+
+Coggins, Timothy L. "Book Removals from School Libraries and Student's
+First Amendment Rights," School Law Bulletin 17(3):17-21 Summer 1986.
+
+Ficociello, Tony. "Censorship, Book Selection, and the Marketplace
+of Ideas," Top of the News 41(1):33-38 Fall 1984
+
+Hopkins, Dianne McAff. "The School Library Media Specialist: Dealing
+with Complaints about Materials," Catholic Library World 56(4):172-74
+November 1984.
+
+"Is It Legal?" See issues of Newsletter of Intellectual Freedom.
+
+Lee, Earl. "Library Censorship after Webster," American Libraries
+20(11):1044-45, 1047-48 December 1989.
+[Does anyone know what "Webster" the title refers to? - Carl]
+
+Manley, Will. "Facing the Public (book slection and intellectual
+freedom)," Wilson Library Bulletin 61:32-3 February 1987.
+
+Moss, Lee A. "A Case Against Censorship of School Libraries," Georgia
+Social Schience Journal 20(1):4-6 Winter 1989.
+
+Schmidt, C. James. "Intellectual Freedom and Technlogy: Deja Vu?"
+North Carolina Libraries 46:129-30 Fall 1987.
+
+Sumerford, Steve, "The Public Library: Offensive by Design," Public
+Libraries 26(2):60-62 Summer 1987.
+
+
+Books:
+
+American Library Assoication. _Hit List: Frequently Challenged Young
+Adult Titles: References to Defend Them_, 1989
+
+Berman, Sandford. _Battle of the Books: Literary Censorship
+in the Public Schools_, 1989.
+
+Cornog, Martha (ed), _Libraries, Erotica, and Pornography, 1991.
+
+Downs, Donald Alexander. _The New Politics of Pornogrpahy. 1989.
+
+Hoffman, Frank. _Intellectual Freedom and Censorship: An Annotated
+Bibliography_, 1989.
+
+Office of Intellectual Freedom of the American Library Association,
+_Intellectual Freedom Manual_, 3rd ed., 1989.
+[Much of this material is available on-line, for info, send email to
+archive-server@eff.org. Include the line:
+ send library-policies README
+- Carl]
+
+Oboler, Eli M. _To Free the Mind: Libraries, Technology, and
+Intellectual Freedom_, 1983.
+
+Oboler, Eli M. _Defending Intellectual Freedom: the Library
+and the Censor_, 1983.
+
+
+------------------------------
+
+From caf-talk Caf Mar 17 00:00:00 1992
+From: root@imd.sterling.com (Sterling IMD)
+Newsgroups: comp.newprod
+Subject: Article 10--NetNews/CD - USENET News Available on CD-ROM
+Message-ID: <94605@mcdchg.chg.mcd.mot.com>
+Date: 16 Mar 92 16:24:13 GMT
+
+Sterling Software is proud to announce a new service, NetNews/CD,
+which makes USENET News available on CD-ROM.  Now, with NetNews/CD,
+the wealth of information available via USENET is archived and readily
+available when you need it, not just when it arrives.  With NetNews/CD
+you will be able to keep years of USENET News on your shelf so that
+you can access and benefit from it at your convenience.
+
+With nearly 3000 active newsgroups and more being created daily, one
+of the major problems with USENET News has been the massive amounts of
+data.  Most sites do not have the disk space to store it all on a
+daily basis, let alone a yearly basis.  Those that do receive a full
+feed are forced to use relatively short news expire times to free up
+disk space for incoming daily news.  Many sites have had to limit the
+number of groups they subscribe to due to the speeds of their modems,
+the costs of long distance phone calls to an upstream USENET feed or
+the size of the available disk space.  NetNews/CD solves these
+problems by making nearly 600 Megabytes of USENET news available on
+CD-ROM each month.
+
+The purpose of the NetNews series is to assure that the valuable
+information which passes through USENET daily is not lost, as is the
+case in most newsgroups today.  The monthly CDs are generated on the
+first of each month.
+
+Yearly subscribers receive 12 months of USENET news on CD-ROM and they
+also receive the yearly NetGems special issue.  The current NetGems
+CD-ROM contains the X Window System Version 11 Release 5 sources, the
+Free Software Foundation's GNU software as well as the USENET
+comp.sources.* archives.  It also contains alt.sources and
+vmsnet.sources archives.  Besides those archives, NetGems also
+contains an archive of the Request For Comments (RFCs) available from
+the NIC which are the basis for most of the existing Internet
+protocols.  The software and RFCs on the NetGems CD were gathered on
+December 29, 1991.
+
+        X11R5   -  X Window System Release 5, Patchlevel 8
+        gnu     -  GNU software
+        rfcs    -  Request For Comments
+        usenet  -  USENET News source archives
+                     alt.sources,           alt.sources.amiga, 
+                     alt.sources.patches,   comp.archives, 
+                     comp.archives.admin,   comp.sources.3b1, 
+                     comp.sources.amiga,    comp.sources.apple2, 
+                     comp.sources.atari.st, comp.sources.bugs, 
+                     comp.sources.games,    comp.sources.hp48, 
+                     comp.sources.mac,      comp.sources.misc,  
+                     comp.sources.reviewed, comp.sources.sun,      
+                     comp.sources.unix,     comp.sources.x,
+                     news.answers,          unix-pc,
+                     u3b.sources,           vmsnet.sources        
+
+Specifics:
+	Initially NetNews/CD will be distributed for Sun platforms with
+ISO 9660 support becoming available in March.  The January and February 
+CDs will be made available in ISO 9660 format at that time.  NetNews/CD is
+available in both a yearly subscription or monthly issue rate.
+
+Costs:
+	Yearly subscription + NetGems  -  $349.95 US plus shipping.
+	Individual monthly issues      -   $39.95 US plus shipping.
+        NetGems, Best of '91           -   $49.95 US plus shipping.
+
+Volume discounts are available.
+
+Shipping: NetGems begins shipping the first week in February, and
+January's NewNews/CD begins shipping on February 15.  Subsequent
+monthly CDs are being shipped on the 15th of each month.
+ 
+Phone inquiries concerning orders and technical support questions may
+be made between 8:00 AM and 5:00 PM CST, Monday through Friday at
+1-800-643-NEWS (or 1-800-643-6397).  The FAX number is 1-402-291-4362.
+There is also an electronic mail address:
+
+        cdnews@sterling.com or uunet!sparky!cdnews
+
+The US Mail address is
+
+        Sterling Software
+        NetNews/CD
+        1404 Fort Crook Road South
+        Bellevue, NE  68005-2969
+        
+If you have any suggestions or comments we want to hear them. Please feel
+free to call, write or send email.  
+
+
+------------------------------
+
+From caf-talk Caf Mar 20 00:00:00 1992
+Newsgroups: alt.privacy,comp.unix.admin
+From: bill@chaos.cs.umn.edu ()
+Subject: Article 11--Re: EMAIL PRIVACY
+Message-ID: <bill.701078510@chaos.cs.umn.edu>
+Date: Fri, 20 Mar 1992 08:01:50 GMT
+
+[request for example deleted]
+sorry had to post this as the mail bounced and i want to go home and go to bed
+i gotta be in here for work in about 5 hours. anyway i edited it to remove
+identifing stuff for my employer (i'm on contract) it looks better when it's
+printed from a wp instead of pumped through the keyboard buffer.
+
+
+ RS/6000 ACCESS REQUEST SHEET
+
+
+YourName __________________________________________________________________
+
+Your SectionName ___________________________________________________________
+
+Your Telephone Number ______________________________________________________
+
+Your Supervisor's Name ______________________________________________________
+
+Your Supervisor's Telephone Number ___________________________________________
+
+Your Supervisor's Signature ___________________________________________________
+
+Authorizing Signature (Dave Johnson) __________________________________________
+
+Access Required:
+
+General AIX Access ........................................................................... ______
+General ORACLE Access (read permission) ______
+General ORACLE Access (write permission) ______
+why? ____________________________________________________
+xxxxxxx Data Access (read permission) ______
+xxxxxxx Data Generation Access (write permission) ______
+why? ____________________________________________________
+CASE Dictionary & CASE Generator Access ______
+why? ____________________________________________________
+Modem Access ______
+why? ____________________________________________________
+
+FOR THE ABOVE ACCESS IT IS ASSUMED THAT THE REQUESTER (USER) KNOWS HOW TO USE THE
+SOFTWARE/SYSTEMS FOR WHICH THEY ARE REQUESTING ACCESS TO
+
+Notes:
+  * The only access offered at this time is via Xwindows; this includes access to the ORACLE Database.
+  * EMail regarding AIX or ORACLE crashes or bugs should be directed to the user
+known as sysadmin.  General training in the use of AIX or ORACLE is not currently
+offered.
+  * Users are expected to adhere to xx/DOT information systems policy, including (but not restricted to):  the right of privacy of EMail (users should expect EMail to be private) except in the following cases:
+
+ termination of employment, 
+
+ researching security breaches (to be done by an authorized user), 
+
+ extended absences (due to illness, vacation, etc. where access to EMail contents may be required to support ongoing xx/Dot activities.  Try to assign another user [person] to intercept your critical EMail and avoid this predicament.
+
+* In short, we shall attempt to preserve the privacy of EMail,
+BUT PRIVACY CANNOT BE GUARANTEED!!
+* You are required to NOT access or attempt to access files other than your own!!
+* It is your responsibility to use these data systems in the manner for which they are normally intended.  The use of this system as a tool to illegally access, damage, or attempt to cause damage, to the smooth operation of other computer systems, or data, will not be tolerated.  Intentional, malicious, or ignorant misuse of these systems can be cause for termination of user accounts an/or disciplinary action.
+* Please help us to maintain a friendly, courteous relationship.
+
+Thank you,
+
+signed:  sysadmin
+
+
+------------------------------
+
+From caf-talk Caf Mar 22 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)
+Subject: Article 12--Dismissal for hacking - further info.
+Message-ID: <920322151214.21203539@DARWIN.NTU.EDU.AU>
+Date: Sun, 22 Mar 1992 15:12:14 GMT
+
+Further to my earlier posting, I have obtained an authorised report of the
+decision:
+
+    	Denco Ltd v. Joinson [1992] 1 All English Reports 463.
+
+The headnote to the decision reads:
+
+    The employee had been employed by the employer as a sheet metal worker
+    since 1967. He was also a trade union official and chairman of a union
+    committee which negotiated with both his employer and a subsidiary company
+    based at his employer's site. The two companies shared computer facilities.
+    While working on the night shift, the employee used another employee's
+    code and password to gain entry to the subsidiary's computer and attempted
+    to obtain information about the subsidiary's customer file. His actions
+    were recorded on the computers' history file and when discovered he was 
+    dismissed for gross misconduct. He complained to an industrial tribunal
+    that he had been unfairly dismissed. The tribunal upheld his complaint
+    on the ground that the employers had not shown that the employee had gained
+    access to the computer for an illegitimate purpose rather than idle 
+    curiosity and therefore the allegation of gross misconduct had not been
+    made out. The employers apealed to the Employment Appeal Tribunal.
+
+    Held - If an employee deliberately used an unauthorised password to enter
+    or to attempt to enter the employer's computer which he knew contained
+    information to which he was not entitled to have access that of itself
+    amounted to gross misconduct which prima facie justified summary dismissal,
+    since unauthorised use of or tampering with a computer was a very serious
+    industrial offence.
+
+The Employment Appeal Tribunal (EAT) was constituted by Justice Wood, and
+Messers Phipps and Springer. Woods J., delivered the decision. At p.467-68
+he states:
+
+    The industrial members are clear in their view that, in this modern
+    industrial world, if an employee deliberately uses an unauthorised password
+    in order to enter or attempt to enter a computer known to contain informat-
+    ion to which he is not entitled, then that of itself is gross misconduct
+    which prima facie will attract summary dismissal, although there may be 
+    some exceptional circumstances in which such a response might be held 
+    unreasonable. Basically, this is a question of 'absolutes' and can be
+    compared with dishonesty. However, because of the importance of preserving
+    the integrity of a computer with its information it is important that 
+    management should make it abundantly clear to its workforce that inter-
+    fering with it will carry severe penalties.
+    [...]
+    An analogy may be drawn with a situation where an employee enters the
+    management offices of a company where he had no right to be, goes into
+    an office, sees a key on the desk which he knows is the key to the 
+    filing cabinet which contains information to which he is not entitled
+    and thereafter opens the filing cabinet and takes out a file.
+
+This is a fairly strong assertion, albeit an analogy, but one wonders if 
+the judiciary will take similar approaches in future computer misuse cases
+(whether civil or criminal).
+
+Mark Neely
+22/3/1992
+
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

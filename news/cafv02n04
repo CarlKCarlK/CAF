@@ -1,0 +1,864 @@
+Computers and Academic Freedom News
+Vol. 02, No. 04
+
+[Week ending January 26, 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Notes 1-4 discuss whether unauthenticated dial-in Internet access
+should be provided.  
+
+1. The problem with providing unauthenticated Internet access is that
+it is not possible to trace responsibility for an action back to its
+source.
+    <25353.Jan1904.08.2692@virtualnews.nyu.edu>
+
+2. MIT's TERMINUS provides anonymous access by default.  It has been
+and will be used by crackers.  If someone has an Internet machine,
+they are responsible for that machine; no one takes responsibility for
+TERMINUS. 
+    <4342.Jan2010.33.3392@virtualnews.nyu.edu>
+
+3. A partial solution to authentication problems is RFC 931.  If the
+originating machine runs an RFC 931-compliant server, other hosts can
+find out which user owns the connection from that host to their
+machine.  An archive address is provided.
+    <26789.Jan1907.36.0392@virtualnews.nyu.edu>
+
+4.  "Net access is not a right; civil liberties do not apply to the
+base issue of network access (they can apply to specific services,
+such as netnews)."
+    <1992Jan21.110534.11426@ms.uky.edu>
+
+Notes 5-6 discuss the right of an administrator at anonymous FTP site
+to remove material protected by copyright.
+
+
+5. A crack program was uploaded to an anonymous FTP area.  The program
+appeared to contain portions of a game copyrighted by Sierra. "...
+having a publicly writeable upload area does not give someone else the
+right to place anything they want there, as it is not a public forum."
+    <1992Jan20.225330.1164@ulowell.ulowell.edu>
+
+6. The upsetting part of the administrator's action was that he said
+he would notify system administrators.  That notification may assume
+illegal actions, when ignorance was actually the cause.
+    <27624@sdcc12.ucsd.edu>
+
+
+Notes 7-10 discuss academic freedom and the right of sites to limit
+access to netnews.
+
+7. At Iowa State University, by default, a machine does not receive
+the newsgroups alt.sex.*, alt.drugs, alt.psychoactives.  The head of
+the department where the machines are located can request that the
+machines have access to the omitted groups.  Students and staff are
+attempting to change the policy.
+    <1992Jan24.160039.20161@news.iastate.edu>
+
+8. The first amendment does not mean that a government entity cannot
+edit or restrict the material it carries.  "Your right to free speech
+does not extend itself to include complete, unrestricted access to the
+state's possessions."
+    <1992Jan25.193640.25341@anomaly.sbs.com>
+
+9.  Iowa State is not required to provide netnews.  They may limit
+which groups they carry.  However, they have a moral responsibility
+not to censor articles in a newsgroup.
+    <1992Jan26.170429.27078@eff.org>
+
+10. "If universities are bound to keep their libraries free of
+arbitrary censorship, they are just as bound to keep Usenet free of
+arbitrary censorship, as Usenet has become nothing less than an
+electronic library of ideas."
+    <1992Jan26.045844.10853@zip.eecs.umich.edu>
+
+
+Note 11 discusses security and privacy issues raised by a proposed
+public directory service.
+
+11.  The North American Directory Forum (NADF) introduced a "User Bill
+of Rights" to address security and privacy issues regarding entries
+and listings in its proposed cooperative X.500 public directory
+service.  The proposed bill of rights is included.
+    <9201232252.AA04537@psi.com>
+
+- Paul]
+
+
+In this issue:
+
+Dan Bernstein    56  >Announcing AntiTERM: The Anti-TERMINUS Alliance!
+Dan Bernstein    51  >
+Dan Bernstein    43  >
+Wes Morgan       85  >[alt.security] Re: Announ<> AntiTERM: The Anti-TERMINUS
+Brian ' O'Neill  44  Copyrights and program cracks....
+Dennis Lou       45  >Distributing program cracks #10000000000000
+John Hascall     66  >Duties of state universities regarding 1st amendment
+Michael Deignan  69  >
+Carl M. Kadie    48  >
+Brad Baillod     72  >
+M L Schoffstall  86  Norther American Director<>troduces "User Bill of Rights"
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, or Carl M. Kadie). It
+is not an EFF publication. The views an editor expresses and editorial
+decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From caf-talk Caf Jan 20 00:00:00 1992
+From: brnstnd@nyu.edu (Dan Bernstein)
+Newsgroups: alt.security
+Subject:  Re: Announcing AntiTERM: The Anti-TERMINUS Alliance!
+Message-ID: <25353.Jan1904.08.2692@virtualnews.nyu.edu>
+Date: 19 Jan 92 04:08:26 GMT
+
+In article <knhs7vINNsq9@agate.berkeley.edu> faustus@ygdrasil.CS.Berkeley.EDU (Wayne A. Christopher) writes:
+> The visions people have of Internet security seem to range over a
+> spectrum.
+  [ followed by two extreme models of trust ]
+
+And there are some of us who think about the network in terms of real
+things like money, responsibility, and liability, rather than obscure
+notions like ``trust.'' A very useful way to think about security when
+many people and organizations are involved is to ask this question:
+For any action, is there someone who takes responsibility for that
+action, and is it possible to ``point the finger'' all the way back to
+that person?
+
+Once the network consisted of a few big machines run by big
+organizations. If someone made a connection from one of those machines,
+you could point the finger at the machine's owner, and it could usually
+figure out which user was responsible. It could then point the finger at
+that user in turn. Fine. Of course, it's still a pain in the neck to
+figure out which user made a connection, unless you can run ps and
+ofiles and so on while the connection is in progress. But there are
+tools---like RFC 931---which solve this.
+
+Eventually some machines controlled by individuals joined the network.
+People who talk about ``trust'' say ``Ah, the situation is totally
+different, because now we can't trust root on machines any more!'' But I
+say the situation is the same. Someone who points a finger at one of
+those machines will be told by the network's owner ``We don't own that
+machine. Joe Shmoe does. Sue him.'' Once again it's possible to trace
+responsibility for an action back to its source. Of course, it's still a
+pain in the neck to figure out which machine generated a particular TCP
+packet, since TCP is insecure, unless you can run RARP and various other
+things while the connection is in progress. But there are tools---like
+secure Ethernets, or Kerberos---which solve this.
+
+The same model also applies to the phone network. When someone calls
+your computer, it asks for a password. You can assign responsibility to
+the password's owner for anything done with that account. Some computers
+dial back. They assign responsibility to the owner of the phone number
+which they're calling. Now some phone companies offer Caller-ID, which
+adds another way to trace the source of an action.
+
+Now it's your turn to try applying this model. Imagine an open terminal
+server, which for the sake of a name we'll call TERMINUS. Anyone can
+dial into TERMINUS and connect to any Internet site. If you ask the
+TERMINUS owner to trace the phone lines, you get nothing but a blank
+stare. Tell me this: How do you find the person responsible for a
+TERMINUS connection?
+
+The old phrase ``I dunno who we're gonna sue, but we're gonna sue
+*somebody*!'' seems particularly apt here.
+
+---Dan
+Cracker tracker's motto: When there's a way, there's a will.
+
+From caf-talk Caf Jan 20 00:00:00 1992
+From: brnstnd@nyu.edu (Dan Bernstein)
+Newsgroups: alt.security
+Subject:  Re: Announcing AntiTERM: The Anti-TERMINUS Alliance!
+Message-ID: <4342.Jan2010.33.3392@virtualnews.nyu.edu>
+Date: 20 Jan 92 10:33:33 GMT
+
+In article <1992Jan20.084018.20609@cbfsb.att.com> cooper@cbnewsg.cb.att.com (ralph.moonen) writes:
+> 1) Is a cracking attempt so infuriating to you?
+
+Yes, just as it would infuriate me if I awoke one night to the sound of
+someone trying to pick the lock. I can just imagine what happens next: I
+open the door to the sight of a black-masked figure calmly knocking on
+my neighbor's door. My neighbor, Mr. Terminus, lets him in and lets him
+slip out the window as I watch in amazement. As I sputter out a few
+words of shock, Terminus smiles condescendingly at me and says ``I pay a
+lot of rent---you'll never be able to get me thrown out of the building.
+And I'm not responsible for the actions of black-masked burglars I let
+in---*you* are responsible for your own security! But I'll be nice. If
+you want, I'll tell the burglars not to break into your apartment. There
+are thousands more apartments in the building.''
+
+TERMINUS infuriates me.
+
+> 2) I won't flame you for this AntiTERM stuff, but do you think it's your
+>    job to stop them?
+
+No. I just think that they're being bad neighbors.
+
+> 3) If you are so worried about crackers having free access to Internet,
+>    what about all the crackers at the legal .edu sites?
+
+If shmoe@foo.edu breaks into someone's machine, he can be traced and
+arrested; either foo.edu or shmoe will have to take responsibility for
+that user's actions! There's no anonymity there except what you can
+illegally acquire by breaking TCP. This has nothing to do with TERMINUS,
+which provides anonymous access by default.
+
+> Just closing
+>    Terminus will  not have any effect.
+
+Don't be so naive. TERMINUS provides more complete anonymity than any
+other site has offered for years. I don't believe its administrators
+have ever traced a single line, and crackers operate through it with
+impunity.
+
+> 4) These days, it costs virtually no money to get your own site, so it
+>    will not take long for crackers to actually do this.
+
+Maybe you should read my comments in a previous article on assigning
+blame. If someone acquires his own Internet machine, then he is
+responsible for what that machine does. Once again this is not analogous
+to TERMINUS, which *nobody* takes responsibility for.
+
+---Dan
+
+From caf-talk Caf Jan 20 00:00:00 1992
+From: brnstnd@nyu.edu (Dan Bernstein)
+Newsgroups: alt.security
+Subject:  Re: Announcing AntiTERM: The Anti-TERMINUS Alliance!
+Message-ID: <26789.Jan1907.36.0392@virtualnews.nyu.edu>
+Date: 19 Jan 92 07:36:03 GMT
+
+In article <kni879INN8h2@matt.ksu.ksu.edu> bav@matt.ksu.ksu.edu (Brick Verser) writes:
+> Should pay phones be outlawed?  Look at all the nasty things that one can
+> do from a pay phone.
+
+Wake up to the 1990's and look at Caller-ID.
+
+Sure, there are situations where anonymity is desirable, and it's often
+good to provide a service which accepts anonymous callers (e.g., a rape
+crisis center, a police tip line). But anonymity in communications
+should never be the default.
+
+> And even on those systems where we
+> require authentication, there's often nothing I can do after the fact
+> to trace who attacked you--we don't log every IP connection made, and on
+> a Unix system with 30 simultaneous users often the best I can do is say
+> "it was one of those 30."
+
+Oh, fer gawd's sake. Instead of saying ``I refuse to take responsibility
+for what goes on in my system, and I want to remain blind to methods of
+finding out who is responsible,'' why don't you pay attention to widely
+available solutions?
+
+RFC 931 (the Authentication Server, currently being renamed the
+``Identity Server'' as part of becoming a proposed Internet standard)
+was *designed* to solve this problem. Just install one of the three
+available authd servers---they're all very small and easy to get
+running---and any host X will be able to find out which user owns a
+connection from your host to host X. Here's the newest server I know of:
+
+  pauthd 1.2: small, fast RFC 931 (Authentication Server) server (11/91)
+  ftp.lysator.liu.se:pub/daemons/pauthd-1.2.tar.Z
+
+Several available packages will log RFC 931 results. For example, if you
+get the wuarchive ftpd (wuarchive.wustl.edu:packages/ftpd.wuarchive.shar)
+and define USE_A_RFC931 as 1, it'll record RFC 931 usernames. The server
+itself is running on a growing number of Internet sites---197 that I
+know of, including maverick.ksu.ksu.edu, cis.ksu.edu, and math.ksu.edu.
+How long did you say you've been working at KSU?
+
+---Dan
+
+From caf-talk Caf Jan 21 00:00:00 1992
+From: morgan@ms.uky.edu (Wes Morgan)
+Newsgroups: alt.comp.acad-freedom.talk,alt.security
+Subject: Re: [alt.security]  Re: Announcing AntiTERM: The Anti-TERMINUS 
+Message-ID: <1992Jan21.110534.11426@ms.uky.edu>
+Date: 21 Jan 92 16:05:34 GMT
+
+bh@anarres.Berkeley.EDU (Brian Harvey) writes:
+>
+>Your site probably has dialup ports for the use of your staff. Some
+>cracker could call up your modem and then attempt to get access to your
+>system.  
+
+True enough; I'm sure that most sites, especially those in academia,
+provide dialup services.
+
+>I think it's quite reasonable for you, or whoever, to ask the Terminus
+>administrators to help you track down the crackers.  But instead you
+>seem to be asking to cut off the net access of a large class of people
+>because a few of those people misuse it.  
+
+Are we really "cutting off" their access?  Let's consider this:
+
+	-- Use of NSFNET and its participating networks is restricted,
+	   in many cases, to "academic and research uses".
+
+	-- Participating sites provide computing services to their
+	   users.
+
+	-- Participating sites control their networks, and the participating
+	   networks (such as SURAnet) control theirs.
+
+Assuming that an individual has a legitimate need for network access, can
+we also assume that his site provides those services he needs?  If that is
+the case, why do we need anonymous access to the networks?
+
+If their site only serves their legitimate *needs* (as opposed to wants), 
+the user can turn to other providers, such as Portal, the WELL, or UUNET.  
+The user's site has no obligation to provide any services other than those 
+*needed* by each user.  Are you arguing that network access is an "all 
+or nothing" proposition?
+
+>To me this feels like
+>discrimination, similar in principle to the WWII internment of
+>Japanese-Americans.  
+
+Give me a break.
+
+>I am raising a civil liberties issue, not a
+>technical security issue.
+
+OK, I'll address those two issues individually:
+
+	Civil Liberties:  The Internet is NOT, in and of itself, a place
+			  for the exercise of civil liberties.  Some ser-
+			  vices provided via the Internet, such as netnews,
+			  may be public forums, in which civil liberties
+			  are (hopefully) somewhat intact.  That partial
+			  freedom does not extend to cover the entire net-
+			  work.  Therefore, some safeguards are necessary.
+			  Such safeguards can, and should, include the
+	    	          restriction of anonymous access.
+
+You said that this isn't a technical security issue, but:
+
+	Tech Security:    The "anonymous dialup" analogy is flawed.  Dialups
+		  	  usually offer only one means of attacking a system.
+			  Telnet access, however, offers a wide range of op-
+			  tions to the attacker.  If you are using a Unix sys-
+			  tem, look at the /etc/services file.  Each of these
+			  services is a possible security problem.  Blocking a
+			  specific network is not a viable solution; this will
+			  interfere with other services, such as email.
+
+>(P.S.  It's also a kind of class issue.  I feel damn lucky that the
+>taxpayers provide me with free net access.  They do that to help me do
+>my real work, but they also let me use the net to read alt.whatever and
+>so on.  Other people have to pay Compuserve for this privilege.  I can
+>easily understand why they'd rather use Terminus.)
+
+You used the key word "privilege".  Net access is not a right; civil liberties
+do not apply to the base issue of network access (they can apply to specific
+services, such as netnews).  If network access is a privilege, why should the
+restriction of anonymous access to that network be such a problem?
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+From caf-talk Caf Jan 23 00:00:00 1992
+From: oneill@cs.ulowell.edu (Brian 'Doc' O'Neill)
+Newsgroups: comp.binaries.ibm.pc.archives,rec.games.misc
+Subject:  Copyrights and program cracks....
+Message-ID: <1992Jan20.225330.1164@ulowell.ulowell.edu>
+Date: 20 Jan 92 22:53:30 GMT
+
+[Followups to rec.games.misc, to keep everything in one place and keep
+CBIP.archives clear for announcements. Perhaps we should also discuss in
+misc.legal, but I don't read that group... -Doc]
+
+Sigh...
+
+I've been away skiing for the weekend, so missed all the good flak...
+
+It seems that some people are confused about how the program was
+"submitted". It was uploaded to an anonymous FTP area, not sent via e-mail
+for CBIP submission. This upload area is used for uploads to the PC games
+archives, among a few other things. CBIP has nothing to do with this.
+
+As far as legalities, the program appeared to contain portions of the game
+which are copyrighted by Sierra. This made such a file a violation of
+copyright laws and hence illegal. It may not have - I do not currently have
+it, but it did _appear_ to contain Sierra code.
+
+I also did not solicit such an upload, and having a publicly writeable
+upload area does not give someone else the right to place anything they want
+there, as it is not a public forum. I could quite simply remove the uploads
+area, which eliminates the problem quite simply, but makes things much more
+difficult for me. The more difficult it becomes for me to properly maintain
+things, the more likely it will be that I will close the FTP area altogether
+to PC binaries and games, and resign as moderator of CBIP and someone else
+can do the job. I'm not saying I will, I'm just saying I can. I am providing
+this as a service to the Internet of my own accord. This University could
+also decide to close it down should it become a legal issue. I am using disk
+space and a system which is not owned by the University, but rather test
+equipment from another company who has been kind enough to let us test their
+hardware, and the usage increase from the archives has greatly increased the
+efficiency of the test.
+
+I'm not totally certain what laws apply to FTP sites (I can probably find
+out - a friend I graduated with has gone into patent and computer-related
+law), and I think First Amendment may a bit off the mark.
+
+Also, just what are the legal issues about using a program to modify a
+copyrighted product, really? Isn't their an implied restriction on
+copyrighted material, which reads something similar to "You may
+not...alter...without the expressed, written consent of..."?
+
+From caf-talk Caf Jan 23 00:00:00 1992
+From: cs163wfj@sdcc8.ucsd.edu (Dennis Lou)
+Newsgroups: rec.games.misc
+Subject:  Re: Distributing program cracks #10000000000000
+Message-ID: <27624@sdcc12.ucsd.edu>
+Date: 23 Jan 92 20:54:45 GMT
+
+In article <1992Jan23.142814.1598@vax.muskingum.edu> jk_sims@vax.muskingum.edu writes:
+|>>*******************************************************************
+|>>At 22:23 EST last night (1/16), someone from soda.berkeley.edu uploaded a
+|>>crack program for the game Liesure Suit Larry 5, which bypasses the copy
+|>>protection scheme of the game. Please not that I will _NOT_ accept any such
+|>>files, will delete them immediately, and will notify the system
+|>>administrators on whatever system the files came from.
+|>>*******************************************************************
+|>>
+|>>There is _NO_ mention, not even a hint of a presumption on Brian's part
+|>>that he thinks such things are illegal, immoral or the other things he
+|>>has been accused of here.
+|>>
+|>>All he said was someone uploaded a program of a type he will not include
+|>>in his archive and he has told you the fate of such uploads - they get
+|>>deleted and the originating site is informed.
+|>
+|>I agree completely with this statement and I think there has been to much
+|>argument and discussion over the original posting. I am tired of hearing flame
+|>after flame after flame over whether what he did was "Legal(1st ammendment),
+|>moral, or whether he even had the right to do it." The fact is he did not say
+
+I agree also.  However, the upsetting part was that he would notify
+system administrators.  I can understand an e-mail stating something
+like "Your user has been continually uploading files to my ftp site
+that I do not permit.  I have warned him repeatedly.  Please take
+disciplinary action".
+
+The upsetting part is that his e-mail may not look like that but
+instead something like "Your user is uploading code to crack
+commercial programs."  This second case insinuates something is
+illegal is going on when in actuality, something it's something not
+permissable.  Also, it can be inferred that e-mail will be sent on
+first offense, when in actuality, perhaps the user just didn't know
+about the site's policy.  I would say that users who read the READMEs
+on ftp sites are in the minority.
+
+-- 
+Dennis Lou             || "But Yossarian, what if everyone thought that way?"
+dlou@ucsd.edu          || "Then I'd be crazy to think any other way!"
+[backbone]!ucsd!dlou   |+====================================================
+dlou@ucsd.BITNET       |Steve Jobs and Steve Wozniak went to my high school.
+
+From caf-talk Caf Jan 24 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,alt.censorship,misc.legal
+From: john@iastate.edu (John Hascall)
+Subject: Re: Duties of state universities regarding 1st amendment
+Message-ID: <1992Jan24.160039.20161@news.iastate.edu>
+Date: Fri, 24 Jan 1992 16:00:39 GMT
+
+ -=[I only work and go to school here, this is opinion, not official policy]=-
+
+That much said....
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+}kadie@eff.org (Carl M. Kadie) writes:
+
+}>>  If ISU has never carried those
+}>>groups, they are well within their rights to refuse to start now.
+
+The original policy was open access.
+
+}The thing that concerns me the most is the original poster's statement
+}that "a majority of students cannot read alt.sex.*".  Does this mean
+}that some students CAN read those groups?  Which students?  What systems?
+}If they are offering certain newsgroups to only certain students on a
+}particular machine, we definitely have a mess on our hands; I'll be 
+}arguing right beside you that this is wrong.
+
+By default a machine does not receive:
+    alt.sex, alt.sex.*, alt.psychoactives, alt.personals.bondage, alt.drugs
+    (or any of the new erotic binary groups whatever their names are)
+
+}However, it could be that some particular machines have made their own
+}arrangements for news feeds.  That would make each site responsible for
+}its newsgroups selection and put a different spin on things.
+
+The person in charge of the machines (generally the head of the dept
+where the machines are located) can sign a form requesting:
+
+	a) no groups be censored
+	b) all alt.* and rec.* be censored
+
+The net result being: machines in faculty/staff offices have the full
+feed (unless the dept head is a real ___) machines available to students
+don't.  Also many people are concerned about appearing on what has
+become known as the `perverts list' (those signing up for option "a" above).
+
+}Could someone from ISU PLEASE post a copy of this "new policy", or some
+}more details (if an actual copy isn't available)?  We really need more
+}information before we start picking this apart.
+
+A group of students & staff has formed to work to change the policy.
+This group has been meeting with the Comp Ctr (interim) director to
+discuss their concerns about this policy and to propose changes and
+alternatives.  Progress appears to be being made in a couple of areas:
+
+	a) The director is likely going to remove all of the
+	   textual groups from the restricted by default
+	   category.
+
+	b) A proposal has been submitted by the group to the
+	   director outlining a policy and mechanism for 
+	   personal choice based on personal responsibility.
+
+ -=[I only work and go to school here, this is opinion, not official policy]=-
+
+John
+--
+John Hascall           Our liberties we prize and our rights we will maintain
+Project Vincent                                                              
+Iowa State University Computation Center                     john@iastate.edu
+Ames, IA  50011                                      515/294-9551 [fax -1717]
+
+From caf-talk Caf Jan 25 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,misc.legal,alt.censorship
+From: mpd@anomaly.sbs.com (Michael P. Deignan)
+Subject: Re: Duties of state universities regarding 1st amendment
+Date: Sat, 25 Jan 1992 19:36:40 GMT
+Message-ID: <1992Jan25.193640.25341@anomaly.sbs.com>
+
+I had written:
+
+>Iowa State has no responsibility for providing you with an uncensored
+>newsfeed.
+
+buhr@ccu.umanitoba.ca (Kevin Andrew Buhr) replies
+
+>Is this last statement true?
+
+Absolutely. The intention of the 1st amendment is to prevent the state from
+passing laws/regulations which infringe upon your freedom of speech.
+
+Does this mean that every government entity cannot choose to edit or
+otherwise restrict that material which it carries? Absolutely not.
+
+>The consensus seems to be that system administrators (or their employers) can
+>choose to limit user access to newsgroups and types of ftp-able materials
+>however they like.
+
+You bet. Your right to free speech doesn't include the right to spend my
+money.
+
+>At one point, however, someone mentioned that state universities have
+>certain duties concerning free speech that may supercede the discretion 
+>of the system administrators.
+
+State Universities have *no* duties concerning free speech, unless
+specifically mandated by their charter. They merely cannot enact
+regulations which restrict students' right to free speech, as an
+extention of the state.
+
+For example, let us take the issue of some universities which do not
+carry ALT.SEX.
+
+Does this mean they are preventing you from reading ALT.SEX? Absolutely
+not. You are perfectly free to call up any system you wish that carries
+ALT.SEX and read it. You are perfectly free to pay UUNET or another
+commercial service provider for uninterrupted access to ALT.SEX via a
+newsfeed to your personal system.
+
+Now, if the university or state involked a law which stated that you are
+prohibited from calling another system to read ALT.SEX, or you could not
+call UUNET to get a newsfeed of ALT.SEX, then *THAT* is a restriction on
+your 1st amendment rights.
+
+Your right to free speech does not extend itself to include complete,
+unrestricted access to the state's possessions. You have no more right
+to read ALT.SEX on a university computer than you have to use an M-1
+tank owned by the Department of Defense.
+
+>...a state university would have a duty to 
+>provide that newsgroup unless it could prove there was another valid reason 
+>for limiting access to the newsgroup...
+
+The state has no duty to provide anything other than a computer system
+which is used for the purposes of completing classroom assignments,
+administrative work, etc. Anything above and beyond those duties are
+"perks". Perks are completely up to the discretion of the managing
+individual.
+
+MD
+-- 
+--  Michael P. Deignan                      / 
+--  Domain: mpd@anomaly.sbs.com            /   I'm not a bigot,
+--    UUCP: ...!uunet!rayssd!anomaly!mpd  /    I hate everyone.
+-- Telebit: +1 401 455 0347              / 
+
+From caf-talk Caf Jan 26 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,misc.legal,alt.censorship
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Duties of state universities regarding 1st amendment
+Message-ID: <1992Jan26.170429.27078@eff.org>
+Date: Sun, 26 Jan 1992 17:04:29 GMT
+
+mpd@anomaly.sbs.com (Michael P. Deignan) writes:
+
+mpd2> I had written:
+
+mpd1> Iowa State has no responsibility for providing you with an uncensored
+mpd1> newsfeed.
+
+I'm not sure I unstand your claim. Do you mean that 
+
+ 1) they don't have to provide Netnews, or
+ 2) that if they provide Netnews, it's OK for them to pick and choose
+     which groups to which they subscribe, or
+ 3) that if they provide Netnews, it's OK for them to screen
+    articles and to delete those that are found offensive?
+
+#1, I agree with. Just as a university has no legal responsiblity to
+establish a library or student newspaper, a university has no legal
+responsibility to provide Netnews.
+
+#2, I agree with. Just as a university library has no legal
+responsiblity to subscribe to every magazine in the world, a
+university computer center has no legal responsibility to subscribe to
+every newsgroup in the world.
+
+But just as a university library has a moral responsibility to select
+magazines in accordance with the principles of academic freedom and
+intellectual freedom, a university computer center has a moral
+responsibility to select newsgroups in accordance with the princples
+of academic freedom and intellectual freedom.
+
+For example, the American Library Association's "Library Bill of
+Rights" says: "Materials should not be proscribed or removed because
+of partisan or doctrinal disapproval."
+[ftp.eff.org:pub/academic/library/freedom-to-read.ala]
+
+#3, I disagree with. Just as a university has a moral and legal
+responsibility not to censor articles in a student newspaper, so a
+university has a moral and (probably) legal responsibility not to
+censor articles in a newsgroup.
+[ftp.eff.org:pub/academic/library/README]
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+From caf-talk Caf Jan 26 00:00:00 1992
+From: baillod@sparky.eecs.umich.edu (Brad Baillod)
+Newsgroups: alt.comp.acad-freedom.talk,misc.legal,alt.censorship
+Subject: Re: Duties of state universities regarding 1st amendment
+Message-ID: <1992Jan26.045844.10853@zip.eecs.umich.edu>
+Date: 26 Jan 92 04:58:44 GMT
+
+In article <1992Jan25.193640.25341@anomaly.sbs.com> mpd@anomaly.sbs.com (Michael P. Deignan) writes:
+>Does this mean that every government entity cannot choose to edit or
+>otherwise restrict that material which it carries? Absolutely not.
+>...
+>Does this mean they are preventing you from reading ALT.SEX? Absolutely
+>not. You are perfectly free to call up any system you wish that carries
+>ALT.SEX and read it. You are perfectly free to pay UUNET or another
+>commercial service provider for uninterrupted access to ALT.SEX via a
+>newsfeed to your personal system.
+>
+>Now, if the university or state involked a law which stated that you are
+>prohibited from calling another system to read ALT.SEX, or you could not
+>call UUNET to get a newsfeed of ALT.SEX, then *THAT* is a restriction on
+>your 1st amendment rights.
+>
+>Your right to free speech does not extend itself to include complete,
+>unrestricted access to the state's possessions. You have no more right
+>to read ALT.SEX on a university computer than you have to use an M-1
+>tank owned by the Department of Defense.
+>
+>The state has no duty to provide anything other than a computer system
+>which is used for the purposes of completing classroom assignments,
+>administrative work, etc. Anything above and beyond those duties are
+>"perks". Perks are completely up to the discretion of the managing
+>individual.
+
+It seems to me, however, that the people responsible for usenet
+policy in most places are treating
+newsgroups as library-like material.  The fact that they exist,
+and that they are used for discussion of a wide range of topics already,
+means that they fall under the same standards as libraries.  The
+government and the universities may not have originally intended to
+have the various *nets used for discussion of sex and politics, but
+creating the rec groups and ultimately the alt groups also created
+a responsibility for unbiased administration of these groups.
+  Take your second-to-last paragraph and substitute "read 'The Joy of
+Sex' in a university library" for "read ALT.SEX on a university computer
+system" and see how it sounds.  The fact is, the government is NOT
+our "management," it is our employee, and we DO have the right to 
+use a good deal of its property; libraries are one such example.
+   If Usenet was used strictly for educational and research purposes,
+then censors would have a valid argument for keeping non-research
+and non-educational material off it.  But given that we have rec.motorcycles,
+talk.politics.mideast, rec.sewing and alt.fan.jiro-nakamura on Usenet,
+it is arbitrary and capricious to censor alt.sex, and, in fact, against
+what the goal of Usenet has become.  Usenet has progressed far beyond
+being a research tool; it is now a form of mass communication.  The
+group hierarchies in Usenet's original setup testify to the fact that
+it was never meant to be strictly a research tool, and it has come
+to fill its desired role nicely.
+   If universities are bound to keep their libraries free of arbitrary
+censorship, they are just as bound to keep Usenet free of arbitrary 
+censorship, as Usenet has become nothing less than an electronic library
+of ideas.
+   The argument "censorship is not censorship if you can get the material
+>from another source" is not valid.  Does this mean that poor people are
+excluded from the exchange of ideas?  If libraries are censored, those
+of us with enough money can get the books ourselves.  This does not
+make censorship of libraries okay.
+   Universities would be within their rights to shut down all of Usenet
+except the groups directly related to research and discussion in 
+university fields of study.  But to arbitrarily censor newsgroups
+on sexual topics when so many topics are discussed is a violation
+of the freedom of thought that Universities stand for, and should
+be no more permitted than censorship of library materials.
+
+-- 
+Brad Baillod						baillod@eecs.umich.edu
+
+
+From caf-talk Caf Jan 24 00:00:00 1992
+Newsgroups: eff.mail.com-priv
+From: schoff@psi.com (Martin Lee Schoffstall)
+Subject:  Norther American Directory Forum Introduces "User Bill of Rights"
+Message-ID: <9201232252.AA04537@psi.com>
+Date: 23 Jan 92 12:52:55 GMT
+
+
+NORTH AMERICAN DIRECTORY FORUM INTRODUCES "USER BILL OF RIGHTS"
+
+TAMPA, FL. JAN. 23, 1992.....The North American Directory Forum (NADF)
+introduced a "User Bill of Rights" to address security and privacy issues
+regarding entries and listings concerning its proposed cooperative public
+directory service.  NADF members also approved continuing efforts on an
+experimental publich directory pilot at their eighth quarterly meeting.
+
+The "User Bill of Rights" addresses the concerns of the individual user or the
+user's agent, and is in response to issues brought to the attention of the
+NADF.
+
+Final plans were completed for the X.500 directory pilot scheduled to begin in
+the first quarter of this year.  The pilot will be used by the NADF to validate
+its technical agreements for providing a publich directory service in North
+America.  The agreements have been recorded in standing documents and include
+the services that will be provided, the directory schema and information
+sharing required to unify the directory.  It will test the operation of X.500
+in a large-scale, multi-vendor environment.
+
+All NADF members are participating in the pilot.  The members are AT&T, Bell
+Atlantic, BellSouth Advanced Networks, Bellcore representing US West, BT North
+America, GE Information Services, IBM, Infonet, MCI Communications Corp.,
+Pacific Bell, Performance Systems International, US Postal Service and Ziff
+Communications Co.  Joining the NADF at this meeting are Canada Post
+Corporation and DirectoryNet, Inc.
+
+The NADF was founded in 1990 with the goal of bringing together major messaging
+providers in the U.S. and Canada to establish a public directory service based
+on X.500, the CCITT recommendation for a global directory service.  The forum
+meets quarterly in a collaborative effort to address operational, commercial
+and technical issues involved in implementing a North American directory with
+the objective of expediting the industry's transition to a global X.500
+directory.
+
+This quarter's meeting was hosted by the IBM Information Network, IBM's
+value-added services network that provides networking, messaging, capacity and
+consulting services.
+
+- ----------------------------------------------------------------------
+USER BILL OF RIGHTS
+for entries and listings in the Public Directory
+
+The mission of the North American Directory Forum is to provide interconnected
+electronic directories which empower users with unprecedented access to public
+information.  To address significant security and privacy issues, the North
+American Directory Forum introduces the following "User Bill of Rights" for
+entries in the Public Directory.  As a user, you have:
+
+I.    The right not to be listed.
+II.   The right to have you or your agent informed when your entry is created.
+III.  The right to examine your entry.
+IV.   The right to correct inaccurate information in your entry.
+V.    The right to remove specific information from your entry.
+VI.   The right to be assured that your listing in the Public Directory will
+comply with US or Canadian law regulating privacy or access information.
+VII.  The right to expect timely fulfillment of these rights.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Scope of Intent - User Bill of Rights
+
+The North American Directory Forum is a collection of service providers that
+plan to offer a cooperative directory service in North America.  This is
+achieved by interconnecting electronic directories using a set of
+internationally developed standards known as the CCITT X.500 series.
+
+In this context, the "Directory" represents the collection of electronic
+directories administered by both service providers and private operators.  When
+an entry containing information about a user is listed in the Directory, that
+information can be accessed unless restricted by security and privacy controls.
+
+A portion of the Directory--The Public Directory--contains information for
+public dissemination.  In contrast, other portions of the Directory may contain
+information not intended for public access.  A user or user's agent may elect
+to list information in the Public Directory, a private directory, or some
+combination.  For example, a user might publicly list a telephone number or an
+electronic mail address, and might designate other information for specific
+private use.
+
+The User Bill of Rights pertains to the Public Directory.
+Source:  NADF, January 1992
+
+--                                                                 --
+Paul R. Joslin                                         (513) 552-5233
+GE Aircraft Engines	                        Fax:   (513) 552-5300
+joslin@hp802.ae.ge.com                          Dial Comm: 8*892-5233
+
+
+

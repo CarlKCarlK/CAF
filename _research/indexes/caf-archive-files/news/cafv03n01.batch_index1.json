@@ -1,0 +1,415 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 10, 1993",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "CERT recommended warning notices for systems using keystroke monitoring to reduce legal liability.",
+        "Iowa State University implemented mandatory user registration for Usenet access following automated posting abuse."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Computer Emergency Response Team",
+        "Iowa State University"
+      ],
+      "people": [
+        "Elizabeth M. Reid",
+        "Jyrki Kuoppala",
+        "Barry Margolin",
+        "Mike Godwin",
+        "Jim Thomas",
+        "Carl M. Kadie",
+        "David M Edsall",
+        "Lars P Fischer"
+      ],
+      "summary": "This digest abstract summarizes debates on the ethics and legality of keystroke monitoring following a CERT advisory, as well as issues regarding sexual harassment via networks. It also documents Iowa State University's response to automated newsgroup spamming through the implementation of user registration for Usenet access.",
+      "title": "Abstract of CAF-News 03.01",
+      "topics": [
+        "keystroke monitoring",
+        "privacy",
+        "network harassment",
+        "Usenet abuse",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "emr@eff.org (Elizabeth M. Reid)",
+      "item_count": 10,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 0 -- Abstract of CAF-News 03.01",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 4, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "CERT expanded the scope of its keystroke monitoring advisory to include all systems, regardless of whether they are private, public, or government-owned.",
+        "The CERT advisory recommends a unilateral announcement that users may be monitored at all times without negotiation."
+      ],
+      "organizations": [
+        "CERT",
+        "U.S. Dept of Justice",
+        "EFF",
+        "CPSR"
+      ],
+      "people": [
+        "Jyrki Kuoppala",
+        "Chris Walsh"
+      ],
+      "summary": "Jyrki Kuoppala argues that a CERT advisory recommending keystroke monitoring is an offensive invasion of privacy because it applies to all systems, not just U.S. federal agencies. He contends that the recommendation removes the reasonable expectation of privacy without negotiation or probable cause. Consequently, he proposes a boycott of CERT and suggests finding alternative ways to report security vulnerabilities.",
+      "title": "Boycotting CERT because of the keystroke monitoring advisory?",
+      "topics": [
+        "privacy",
+        "surveillance",
+        "keystroke monitoring",
+        "academic freedom",
+        "security advisories"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 4 Jan 1993 21:24:39 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 10,
+      "item_index": 1,
+      "message_id": "<1993Jan4.212439.4278@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 1--Boycotting CERT because of the keystroke monitoring advisory?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "5 Jan 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "A company lawyer claimed warning notices for recording are unnecessary if the company is a party to the conversation.",
+        "The CERT advisory was interpreted as guidance on reducing legal liability for existing monitoring policies rather than an endorsement of monitoring."
+      ],
+      "organizations": [
+        "CERT",
+        "Thinking Machines Corp."
+      ],
+      "people": [
+        "Barry Margolin",
+        "Jyrki Kuoppala"
+      ],
+      "summary": "Barry Margolin discusses a CERT advisory regarding login banners that warn users about keystroke monitoring. He argues that such warnings are intended to reduce legal liability for organizations already practicing monitoring, rather than advocating for the monitoring itself. He also provides a legal perspective suggesting that companies may record sessions as one of the parties to the conversation.",
+      "title": "Re: Boycotting CERT because of the keystroke monitoring advisory?",
+      "topics": [
+        "keystroke monitoring",
+        "privacy",
+        "legal liability",
+        "login banners"
+      ]
+    },
+    "identity": {
+      "date": "5 Jan 1993 03:49:47 GMT",
+      "from": "barmar@think.com (Barry Margolin)",
+      "item_count": 10,
+      "item_index": 2,
+      "message_id": "<1ib0grINNhq3@early-bird.think.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 2--Re: Boycotting CERT because of the keystroke monitoring advisory?",
+      "to_or_newsgroups": "comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 5, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "State wiretapping laws can be more restrictive than federal law.",
+        "Massachusetts law may bar recording conversations even if one party consents."
+      ],
+      "organizations": [
+        "EFF",
+        "CERT"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Barry Margolin"
+      ],
+      "summary": "Mike Godwin responds to a claim that company lawyers believe warning notices for keystroke monitoring are unnecessary under wiretapping statutes. Godwin argues that state laws, specifically in Massachusetts, may be more restrictive than federal law regarding the recording of conversations. He emphasizes the necessity of consulting both federal and state jurisdictions when determining the legality of electronic surveillance.",
+      "title": "Re: Boycotting CERT because of the keystroke monitoring advisory?",
+      "topics": [
+        "keystroke monitoring",
+        "wiretapping laws",
+        "surveillance",
+        "legal compliance"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 5 Jan 1993 04:56:08 GMT",
+      "from": "mnemonic@eff.org (Mike Godwin)",
+      "item_count": 10,
+      "item_index": 3,
+      "message_id": "<1993Jan5.045608.13381@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 3--Re: Boycotting CERT because of the keystroke monitoring advisory?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "6 Jan 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Normalizing keystroke monitoring warnings may make invasive surveillance a routine procedure.",
+        "Monitoring could be used to enforce drug-free workplace requirements by searching for specific keywords in user sessions."
+      ],
+      "organizations": [
+        "CERT"
+      ],
+      "people": [
+        "Jyrki Kuoppala",
+        "Barry Margolin"
+      ],
+      "summary": "Jyrki Kuoppala argues against a recommendation by CERT to notify users of potential keystroke monitoring. He contends that normalizing such warnings establishes a trend making invasive surveillance acceptable and routine in computing environments.",
+      "title": "Re: Boycotting CERT because of the keystroke monitoring advisory?",
+      "topics": [
+        "surveillance",
+        "keystroke monitoring",
+        "privacy",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "6 Jan 93 00:54:25 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 10,
+      "item_index": 4,
+      "message_id": "<1993Jan6.005425.3318@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 4--Re: Boycotting CERT because of the keystroke monitoring advisory?",
+      "to_or_newsgroups": "comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 5, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The user questions if using a university account to inform a victim of harassment constitutes grounds for university response.",
+        "The scenario examines the intersection of BBS distribution and university auspices in cases of digital harassment."
+      ],
+      "organizations": [],
+      "people": [
+        "Jim Thomas"
+      ],
+      "summary": "Jim Thomas seeks advice regarding the legal and institutional recourse available to a woman targeted by electronic sexual harassment. The scenario involves the distribution of a look-alike nude GIF image via BBSes and communication sent from a university account. The inquiry explores whether such actions violate university codes when the victim is unaffiliated with the institution.",
+      "title": "Article 5--Question on sexual harassment",
+      "topics": [
+        "electronic sexual harassment",
+        "university conduct codes",
+        "digital imagery",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 5 Jan 1993 06:12:00 GMT",
+      "from": "TK0JUT1@NIU.bitnet (Jim Thomas                   , tk0jut1@niu.bitnet)",
+      "item_count": 10,
+      "item_index": 5,
+      "message_id": "<199301050613.AA14182@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 5--Question on sexual harassment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 5, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The user automated the posting process to target a large selection of newsgroups across various campus systems.",
+        "Automated flooding of network facilities was treated as an 'abuse of computer or network facilities' by university administration."
+      ],
+      "organizations": [
+        "Iowa State University Computation Center",
+        "MIT"
+      ],
+      "people": [
+        "Babak Sehari",
+        "Steven L. Kunz",
+        "Jonathan Kamens",
+        "Carl Kadie"
+      ],
+      "summary": "A news administrator at Iowa State University reports that a user named Babak Sehari automated the process of flooding numerous newsgroups with junk mail. The matter was referred to the ISU Computation Center administrator for handling as an abuse of computer and network facilities.",
+      "title": "Babak Sehari postings -- iastate.edu is dealing",
+      "topics": [
+        "network abuse",
+        "Usenet",
+        "acceptable use policy",
+        "spam"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 5 Jan 1993 17:25:17 GMT",
+      "from": "U15289@UICVM.UIC.EDU",
+      "item_count": 10,
+      "item_index": 6,
+      "message_id": "<199301051752.AA13842@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 6--Re: Question on sexual harassment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1993",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Unauthorized access to restricted databases is deemed unethical.",
+        "University computer facilities are not to be used for private monetary gain, commercial purposes, or political purposes without authorization.",
+        "Violations of the code may lead to prosecution under Chapter 716A (Computer Crime) of the Iowa Code."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "EDUCOM"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "This item provides the text of Iowa State University's Code of Computer Ethics, which was based on a statement developed by EDUCOM. The policy outlines ethical standards for computer use, prohibiting unauthorized access, plagiarism, and the use of university facilities for commercial or political purposes. It explicitly links violations to sanctions in student and faculty handbooks as well as potential prosecution under Iowa state law.",
+      "title": "Iowa State U. Code of Computer Ethics",
+      "topics": [
+        "computer ethics",
+        "acceptable use policy",
+        "academic freedom",
+        "intellectual property"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 7 Jan 1993 21:12:06 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 7,
+      "message_id": "<1993Jan7.211206.27268@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 8--Iowa State U. Code of Computer Ethics (was Re: Babak Sehari ...)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 5, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The university administration initially suggested SEF had no real power to approve the final wording of the user disclaimer.",
+        "A 'trusted host' scheme was proposed to allow full news feeds provided users authenticate and accept a legal disclaimer."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "SEF",
+        "EFF"
+      ],
+      "people": [
+        "David M Edsall",
+        "Doug Houghton",
+        "George Strawn",
+        "Reid Crawford",
+        "Nancy Eaton",
+        "Rodney Schuler",
+        "Mike Godwin",
+        "Dave Buckley"
+      ],
+      "summary": "David M. Edsall reports on negotiations between the Student Electronics Federation (SEF) and Iowa State University administration regarding USENET censorship. The proposed solution involves a 'full feed or no feed' policy combined with a user registration process and a legal disclaimer drafted with the State Attorney General. The Electronic Frontier Foundation (EFF) is involved in critiquing the disclaimer to ensure academic and expressive freedom.",
+      "title": "Developments at ISU",
+      "topics": [
+        "USENET censorship",
+        "academic freedom",
+        "user registration",
+        "disclaimers",
+        "network access"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 5 Jan 1993 21:53:48 GMT",
+      "from": "edsall@iastate.edu (David M Edsall)",
+      "item_count": 10,
+      "item_index": 8,
+      "message_id": "<edsall.726270828@pv7411.vincent.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 9--Developments at ISU",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "8 Jan 93",
+      "historical_relevance": "low",
+      "item_type": "post",
+      "notable_claims": [
+        "The New Hacker's Dictionary was available in bookstores for approximately $12 in 1993."
+      ],
+      "organizations": [
+        "Aalborg Univ."
+      ],
+      "people": [
+        "Lars Peter Fischer",
+        "Paul Dokas"
+      ],
+      "summary": "Lars Peter Fischer responds to a post by Paul Dokas regarding the availability of The Jargon File and The New Hacker's Dictionary. Fischer expresses a preference for the physical book format, specifically praising the illustrations by The Great Quux.",
+      "title": "Article 11--Re: REPOST of Hacker Personality Characteristics",
+      "topics": [
+        "hacker culture",
+        "The Jargon File",
+        "computing literature"
+      ]
+    },
+    "identity": {
+      "date": "8 Jan 93 03:06:12 GMT",
+      "from": "fischer@iesd.auc.dk (Lars Peter Fischer)",
+      "item_count": 10,
+      "item_index": 9,
+      "message_id": "<FISCHER.93Jan8040612@orange.iesd.auc.dk>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n01",
+      "subject": "Article 11--Re: REPOST of Hacker Personality Characteristics",
+      "to_or_newsgroups": "alt.psychology.personality,comp.misc,sci.psychology,alt.comp.acad-freedom.talk,comp.security.misc",
+      "truncated_for_model": false
+    }
+  }
+]

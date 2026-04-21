@@ -1,0 +1,226 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 14, 1993",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Government-funded institutions may be prohibited from infringing First Amendment rights in electronic forums.",
+        "The university's defense rested on a policy limiting internet use to instructional, research, or administrative purposes.",
+        "Selective enforcement of network usage rules based on complaints could weaken a university's legal standing in free speech cases."
+      ],
+      "organizations": [
+        "University of Texas at Dallas",
+        "Microsoft Corp.",
+        "Electronic Frontier Foundation",
+        "Internet Society",
+        "Computer Professionals for Social Responsibility",
+        "Bell Communications Research Inc.",
+        "WilTel Inc."
+      ],
+      "people": [
+        "Gregory N. Steshenko",
+        "Tom Steinert-Threlkeld",
+        "Shari Steele",
+        "Robert H. Rutford",
+        "Howard Funk",
+        "Marc Rotenberg",
+        "Andre Stynyk",
+        "Larisa Streeter",
+        "W.O. Shultz",
+        "Henry H. Perritt Jr."
+      ],
+      "summary": "Gregory Steshenko, a graduate student at the University of Texas at Dallas (UTD), sued the university after his internet access was revoked due to political posts about Russia and Ukraine. The case highlights the tension between university acceptable use policies restricting network access to educational purposes and First Amendment rights at state-funded institutions.",
+      "title": "Student sues to regain Internet access",
+      "topics": [
+        "First Amendment",
+        "Academic Freedom",
+        "Acceptable Use Policy",
+        "Internet Censorship",
+        "State Universities"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "peterson@ZGNEWS.LONESTAR.ORG(Bob Peterson)",
+      "item_count": 5,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/nov_21_1993",
+      "subject": "File 3--Student sues to regain Internet access",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 1993",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "Claims that university tuition funds the distribution of offensive Usenet content.",
+        "Argues that institutions like Harvard have the power to create a consensus for 'decency' on the Internet.",
+        "Counter-claim that censoring newsgroups is logically equivalent to removing books from a library based on objectionable content."
+      ],
+      "organizations": [
+        "Harvard University",
+        "The Harvard Independent",
+        "EFF"
+      ],
+      "people": [
+        "David Sherwood",
+        "Carl Kadie"
+      ],
+      "summary": "A student op-ed in the Harvard Independent argues that Harvard should censor Usenet newsgroups like alt.sex.stories because tuition funds their distribution and they contain harmful content. The piece sparks a debate on whether university network access should be restricted based on morality or if such censorship mirrors historical political purges. Opponents argue that censoring digital content is equivalent to purging objectionable books from a university library.",
+      "title": "Harvard Independent OP/ED Piece (anti netporn)",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "network policy",
+        "cyberporn"
+      ]
+    },
+    "identity": {
+      "date": "14 Nov 93 19:23:23 -0600",
+      "from": "CDWALKER@acs.harding.edu (Chris Walker)",
+      "item_count": 5,
+      "item_index": 1,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/nov_21_1993",
+      "subject": "",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "McGill University banned a newsgroup based on advice from a government network manager.",
+        "The ban was implemented without prior consultation with university legal counsel.",
+        "There was legal ambiguity in 1993 regarding whether Usenet articles constituted 'publications' under Canadian media ban rulings."
+      ],
+      "organizations": [
+        "McGill University",
+        "Wilfrid Laurier University",
+        "McGill Legal Information Clinic"
+      ],
+      "people": [
+        "Mike Bechthold",
+        "Carl Kadie"
+      ],
+      "summary": "A discussion regarding the banning of the newsgroup alt.fan.karla-homolka at McGill University, allegedly following a transmission from a government network manager. The item highlights internal university conflict over whether electronic media is subject to legal 'media bans' and notes that the censorship occurred without consulting legal counsel.",
+      "title": "NEWSGROUP BANNED!",
+      "topics": [
+        "Usenet censorship",
+        "academic freedom",
+        "electronic media law",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 16 Nov 1993 23:48:59 GMT",
+      "from": "jherman@uhunix3.uhcc.Hawaii.Edu (Jeff Herman)",
+      "item_count": 5,
+      "item_index": 2,
+      "message_id": "<CGLzHn.H1B@news.Hawaii.Edu>",
+      "source_kind": "news",
+      "source_path": "news/nov_21_1993",
+      "subject": "CENSORSHIP WARNING",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "15 Nov 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The original DOJ banner was considered controversial due to its approach to system monitoring.",
+        "Detailed activity monitoring is intended as an investigative tool for security incidents rather than routine surveillance.",
+        "Routine email logging (metadata) should be distinguished from the monitoring of email content."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "US Department of Justice",
+        "CERT"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Bruce Umbaugh"
+      ],
+      "summary": "Wes Morgan proposes a revised system login banner to replace a controversial US Department of Justice version distributed via CERT. The draft aims to balance security obligations with user privacy, specifically addressing the use of keystroke and activity monitoring during security incidents. It explicitly distinguishes between routine email transaction logging and invasive content monitoring.",
+      "title": "CERT Banner Replacement, Take 2",
+      "topics": [
+        "system banners",
+        "keystroke monitoring",
+        "user privacy",
+        "security policy",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 18 Nov 1993 00:38:06 GMT",
+      "from": "lusardi@cs.buffalo.edu (Christopher Lusardi)",
+      "item_count": 5,
+      "item_index": 3,
+      "message_id": "<CGnwFJ.90M@acsu.buffalo.edu>",
+      "source_kind": "news",
+      "source_path": "news/nov_21_1993",
+      "subject": "Re: WARNING to chain letter posters",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Nov 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Monitoring and canceling Netnews articles may increase a university's legal liability.",
+        "Computer forums should be treated with the same free speech protections as physical campus forums."
+      ],
+      "organizations": [
+        "University at Buffalo",
+        "EFF"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Christopher Lusardi"
+      ],
+      "summary": "Carl Kadie critiques the University at Buffalo's practice of monitoring and canceling local Netnews postings that a staff member deems in violation of policy or law. Kadie argues that computer forums should be treated like other expressive forums and suggests that such surveillance may actually increase the university's legal liability.",
+      "title": "Re: U. at Buffalo Netnews article censorship",
+      "topics": [
+        "censorship",
+        "Netnews",
+        "academic freedom",
+        "surveillance",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 17 Nov 1993 18:09:46 GMT",
+      "from": "cchapman@matd.gatech.edu (Charles H. Chapman)",
+      "item_count": 5,
+      "item_index": 4,
+      "message_id": "<cchapman.24.2CEA68EA@matd.gatech.edu>",
+      "source_kind": "news",
+      "source_path": "news/nov_21_1993",
+      "subject": "Re: Welcome to alt.sex.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "24 Nov 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The CERT example policy allows sysadmins to monitor authorized users suspected of violating computer policy.",
+        "Login disclaimer language regarding 'excess of authority' is broad enough to justify the monitoring of email."
+      ],
+      "organizations": [
+        "CERT",
+        "Webster State University",
+        "EFF"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Mike Riddle"
+      ],
+      "summary": "Carl Kadie critiques the CERT example login disclaimer, arguing that its phrasing allows system administrators to monitor any authorized user suspected of violating policy. He contends that because no user is authorized to violate rules, the policy effectively grants sysadmins broad discretion to record all activities, including email. The post references similar policies at Webster State University as evidence of this interpretation.",
+      "title": "Re: \"Sysop Liability for Enroute (and/or Encrypted) Mail\"",
+      "topics": [
+        "system administration",
+        "monitoring",
+        "privacy",
+        "login disclaimers",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 24 Nov 93 13:37:34 CET",
+      "from": "C96@vm.urz.uni-heidelberg.de (Alexander EICHENER)",
+      "item_count": 2,
+      "item_index": 0,
+      "message_id": "<16C90BFA2.C96@vm.urz.uni-heidelberg.de>",
+      "source_kind": "news",
+      "source_path": "news/nov_28_1993",
+      "subject": "Re: [alt.sex]  Re: Welcome to alt.sex.",
+      "to_or_newsgroups": "comp.org.eff.talk,comp.admin.policy,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 17, 1993",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "A caricature on a fraternity T-shirt was found to be constitutionally protected speech.",
+        "University administrators were required to take First Amendment sensitivity classes as part of a legal settlement."
+      ],
+      "organizations": [
+        "University of California at Riverside",
+        "Individual Rights Foundation"
+      ],
+      "people": [
+        "Maura Whalen",
+        "Vincent Del Pizzo",
+        "Kevin Ferguson",
+        "Carl M Kadie"
+      ],
+      "summary": "A fraternity at the University of California, Riverside was reinstated after a legal challenge regarding a caricature on a T-shirt. The Individual Rights Foundation argued that the university's order to disband the chapter violated First Amendment rights. As part of the settlement, university administrators were required to undergo First Amendment sensitivity training.",
+      "title": "U. of Cal. at Riverside fraternity reinstated in settlement",
+      "topics": [
+        "First Amendment",
+        "Free Speech",
+        "Campus Policy",
+        "Student Organizations"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 25 Nov 1993 18:37:03 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M Kadie)",
+      "item_count": 2,
+      "item_index": 1,
+      "message_id": "<CH291r.82L@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/nov_28_1993",
+      "subject": "[DI] U. of Cal. at Riverside fraternity reinstated in settlement",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

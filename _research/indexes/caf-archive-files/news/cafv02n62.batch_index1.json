@@ -1,0 +1,515 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 13, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "The US DoJ stated that keystroke monitoring by administrators may be defensible but is not expressly authorized by statute.",
+        "A student task force claimed the University of Illinois disciplinary system denied students the right to counsel and allowed self-incrimination.",
+        "Debate exists over whether administrative warnings for online behavior constitute a 'subtle form of censorship'.",
+        "Some argue that freedom of expression at private universities is a contractual right rather than a constitutional one."
+      ],
+      "organizations": [
+        "Computer Emergency Response Team (CERT)",
+        "United States Department of Justice",
+        "University of Illinois",
+        "University of Nebraska at Omaha",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Henry E. Hardy",
+        "Brad Templeton",
+        "Carl M. Kadie",
+        "Jyrki Kuoppala",
+        "David Morrison",
+        "David Vessell",
+        "Wes Morgan"
+      ],
+      "summary": "This digest summarizes several debates regarding digital rights and academic freedom, including the legality of keystroke monitoring by system administrators and student disciplinary flaws at the University of Illinois. It also covers discussions on whether administrative warnings for 'obscenities' or bans on 'chain letters' constitute censorship or resource management. The item highlights early tensions between network security, user privacy, and free expression in university environments.",
+      "title": "Abstract of CAF-News 02.62",
+      "topics": [
+        "keystroke monitoring",
+        "censorship",
+        "student disciplinary systems",
+        "academic freedom",
+        "network administration",
+        "privacy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "seraphim@ais.org (Henry E. Hardy)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 0 -- Abstract of CAF-News 02.62",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 07, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Copyright holders have the right to cancel postings of their work made without permission.",
+        "Moderators may cancel posts they do not approve of."
+      ],
+      "organizations": [
+        "ClariNet Communications Corp."
+      ],
+      "people": [
+        "Brad Templeton",
+        "Carl Kadie"
+      ],
+      "summary": "Brad Templeton discusses the technical and ethical justifications for canceling Usenet posts made by others. He argues that copyright infringement provides a valid basis for an author or authorized representative to cancel illicitly posted content.",
+      "title": "Re: Canceling other people's postings",
+      "topics": [
+        "Usenet",
+        "copyright",
+        "content moderation",
+        "digital rights"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 07 Dec 1992 07:47:09 GMT",
+      "from": "brad@clarinet.com (Brad Templeton)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<1992Dec07.074709.17211@clarinet.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 1--Re: Canceling other people's postings",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 8, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "18 U.S.C. section 2510 does not directly address the propriety of keystroke monitoring by system administrators.",
+        "Banner notices are necessary to obtain express consent from unauthorized intruders to avoid potential legal liability."
+      ],
+      "organizations": [
+        "CERT Coordination Center",
+        "Software Engineering Institute",
+        "Carnegie Mellon University",
+        "United States Department of Justice",
+        "FIRST (Forum of Incident Response and Security Teams)"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Robert S. Mueller, III",
+        "Scott Charney",
+        "Marty Stansell-Gamm"
+      ],
+      "summary": "The CERT Coordination Center shared guidance from the U.S. Department of Justice regarding the legality of keystroke monitoring by system administrators under 18 U.S.C. section 2510. Because the law did not explicitly authorize such monitoring, the DOJ recommended using sign-on banner notices to establish express consent from both intruders and authorized users. This advisory aimed to mitigate potential criminal and civil liability for administrators protecting systems from unauthorized access.",
+      "title": "CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "keystroke monitoring",
+        "surveillance",
+        "legal liability",
+        "system administration",
+        "privacy"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 8 Dec 1992 04:10:23 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<1992Dec8.041023.4125@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 2--CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "10 Dec 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The US Department of Justice advised federal agencies that keystroke monitoring is a method for protecting systems from unauthorized access.",
+        "CERT recommended using specific banner text to obtain express consent for monitoring and the reporting of evidence to law enforcement."
+      ],
+      "organizations": [
+        "CERT Coordination Center",
+        "United States Department of Justice",
+        "EFF",
+        "FIRST (Forum of Incident Response and Security Teams)",
+        "nic.funet.fi"
+      ],
+      "people": [
+        "Jyrki Kuoppala",
+        "Carl M. Kadie"
+      ],
+      "summary": "Jyrki Kuoppala reacts to a recommendation from the CERT Coordination Center, based on US Department of Justice advice, to implement system banners warning users that all activities may be monitored and recorded. Kuoppala characterizes these policies as 'fascist and Orwellian' and calls for the creation of independent, public alternatives for distributing computer security information.",
+      "title": "Article 3--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "keystroke monitoring",
+        "privacy",
+        "surveillance",
+        "system administration",
+        "security banners"
+      ]
+    },
+    "identity": {
+      "date": "10 Dec 92 02:53:08 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<1992Dec10.025308.14768@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 3--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,comp.org.eff.talk,comp.security.misc,alt.privacy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 10, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The US Department of Justice provided information to CERT regarding the legality of keystroke monitoring for system protection."
+      ],
+      "organizations": [
+        "CERT Coordination Center",
+        "United States Department of Justice",
+        "EFF"
+      ],
+      "people": [
+        "David R. Morrison",
+        "Jyrki Kuoppala",
+        "Carl M. Kadie"
+      ],
+      "summary": "David R. Morrison responds to a critique regarding the CERT Coordination Center's dissemination of Department of Justice information on keystroke monitoring. The discussion centers on whether system administrators should use keystroke logging to protect systems from unauthorized access and the legal implications thereof. Morrison argues that CERT was merely sharing legal information rather than endorsing the practice.",
+      "title": "Article 4--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "topics": [
+        "keystroke monitoring",
+        "privacy",
+        "system administration",
+        "legal implications"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 10 Dec 1992 12:30:18 GMT",
+      "from": "drmorris@athena.mit.edu (David R. Morrison)",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<1992Dec10.123018.8974@athena.mit.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 4--Re: CERT and the Dept. of Justice on keystroke monitoring",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 10, 1992",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The University student disciplinary system permits students to incriminate themselves and denies them the right of counsel.",
+        "University administration publicly admitted the disciplinary system was flawed but continued hearings regardless."
+      ],
+      "organizations": [
+        "University of Illinois",
+        "Student Government Association Task Force",
+        "Daily Illini",
+        "La Casa Cultural Latina"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Christopher Lloyd",
+        "Laurie Huth",
+        "Richard Stock",
+        "Michael Dizon",
+        "Elaine Richardson",
+        "Jabari Groves",
+        "Steve Fellner",
+        "Christopher Adasiewicz",
+        "Jenni Spinner",
+        "Jessie Chavez"
+      ],
+      "summary": "Carl Kadie shares a letter and bibliography from the Daily Illini regarding a Student Government Association Task Force investigation into the University of Illinois disciplinary system. The task force alleges severe flaws in due process, including the denial of right to counsel and self-incrimination, particularly affecting students involved in protests and people of color.",
+      "title": "Article 5--Due process at U. of Illinois",
+      "topics": [
+        "due process",
+        "student discipline",
+        "academic freedom",
+        "campus protests",
+        "student rights"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 10 Dec 1992 18:09:08 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<Bz22F8.32E@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 5--Due process at U. of Illinois",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 11, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The university's ownership of the computer used to access the net grants it editorial powers over contributors.",
+        "True free speech on the net requires owning one's own hardware and connection to bypass institutional control."
+      ],
+      "organizations": [
+        "Northeastern University",
+        "Bradley University",
+        "American Family Association"
+      ],
+      "people": [
+        "Andrew V. Wells",
+        "David Vessell"
+      ],
+      "summary": "A discussion regarding a university official's warning to a student about using offensive language in internet postings. The exchange debates whether requests for 'reasonable conduct' constitute censorship and discusses the university's role as the owner of the network infrastructure.",
+      "title": "Re: I've just been repremanded by net.big.brother",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "acceptable use policy",
+        "network ownership"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 11 Dec 92 19:29:41 GMT",
+      "from": "dave@bradley.bradley.edu (David Vessell)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<1992Dec11.192941.4095@bradley.bradley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 7--Re: I've just been repremanded by net.big.brother",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 11, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "University editorial control of student publications violates academic freedom and may increase legal liability for the institution.",
+        "Freedom of expression at private universities is often a legal contractual right rather than a constitutional one."
+      ],
+      "organizations": [
+        "Northeastern University",
+        "Northwestern University",
+        "AAUP"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "David Vessell"
+      ],
+      "summary": "Carl Kadie argues against the notion that university computer access is a privilege subject to editorial control, asserting instead that freedom of expression is often a contractual right for students. He contends that universities should avoid screening student Netnews posts to protect academic freedom and reduce their own legal liability. Kadie suggests using disclaimers rather than censorship to separate individual views from official university positions.",
+      "title": "Re: I've just been repremanded by net.big.brother",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "Netnews",
+        "student rights",
+        "university liability"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 11 Dec 1992 21:42:54 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<Bz46zJ.JJE@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 8--Re: I've just been repremanded by net.big.brother",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 11, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Administrative warnings about conduct may serve as a preventative measure to protect users from formal disciplinary proceedings."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "Northeastern University"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "Wes Morgan responds to a discussion regarding an administrator's warning to a user about 'standards for reasonable conduct.' While Carl Kadie views such warnings as threats to academic freedom, Morgan argues that informal administrative warnings can protect users from more severe bureaucratic punitive measures.",
+      "title": "Re: I've just been repremanded by net.big.brother",
+      "topics": [
+        "academic freedom",
+        "network administration",
+        "acceptable use",
+        "free speech"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 11 Dec 1992 23:24:35 GMT",
+      "from": "morgan@engr.uky.edu (Wes Morgan)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<1992Dec11.182435.13904@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 9--Re: I've just been repremanded by net.big.brother",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 11, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Nebraska at Omaha implemented a general ban on the originating or relaying of chain-letters."
+      ],
+      "organizations": [
+        "University of Nebraska at Omaha"
+      ],
+      "people": [
+        "Paul W Schleck"
+      ],
+      "summary": "Paul W. Schleck shares a sexually explicit joke chain-letter that had been circulating at the University of Nebraska at Omaha. The post is intended to provide context for a debate on academic freedom following the university's implementation of a general ban on originating or relaying chain-letters.",
+      "title": "Article 10--Joke \"Chain-Letter\" Distributed at UN-Omaha",
+      "topics": [
+        "academic freedom",
+        "internet censorship",
+        "university policy",
+        "chain-letters"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 11 Dec 1992 05:23:28 GMT",
+      "from": "pschleck@cwis.unomaha.edu (Paul W Schleck KD3FU)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<pschleck.724051408@cwis>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 10--Joke \"Chain-Letter\" Distributed at UN-Omaha",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 11, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The university's new 'chain-letter' ban may constitute prior restraint.",
+        "Existing campus policies on harassment and interference with education already cover the behavior the ban intends to deter."
+      ],
+      "organizations": [
+        "University of Nebraska at Omaha",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Paul W Schleck"
+      ],
+      "summary": "Carl Kadie responds to a discussion regarding a new prohibition on 'chain letters' at the University of Nebraska at Omaha following the circulation of a racy joke. Kadie argues that the ban is overly broad and risks becoming a form of censorship or prior restraint. He suggests that existing harassment policies are sufficient to handle such incidents without creating new, vague prohibitions.",
+      "title": "Re: Chain letters?",
+      "topics": [
+        "censorship",
+        "campus policy",
+        "academic freedom",
+        "email regulation"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 11 Dec 1992 16:55:15 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<1992Dec11.165515.22434@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 11--Re: Chain letters?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 11, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The system administrator claims that the distribution method used for the letter constitutes resource abuse.",
+        "The university's account policy prohibits non-academic use of the system."
+      ],
+      "organizations": [
+        "University of Nebraska at Omaha",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Michael S. McMahon"
+      ],
+      "summary": "A system administrator at the University of Nebraska at Omaha responds to Carl M. Kadie regarding a prohibition on chain letters. The administrator argues that while he supports academic freedom, the distribution of such material constitutes resource abuse and non-academic use of university systems.",
+      "title": "Re: Chain letters?",
+      "topics": [
+        "resource abuse",
+        "acceptable use policy",
+        "academic freedom",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 11 Dec 1992 21:51:56 GMT",
+      "from": "cwis@cwis.unomaha.edu (Campus Wide Information Service)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<cwis.724110716@cwis>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n62",
+      "subject": "Article 12--Re: Chain letters?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

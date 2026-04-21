@@ -1,0 +1,1405 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1997-05-15",
+      "document_type": "generated catalog",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The FAQ answers are generally not written by lawyers and are not authoritative.",
+        "The archive addresses whether universities should ban offensive material to comply with anti-harassment laws.",
+        "The archive discusses the legality of treating computer access as a 'privilege' to justify arbitrary removal."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Manitoba",
+        "University of Oregon"
+      ],
+      "people": [],
+      "summary": "This document serves as a directory and index for the Computers and Academic Freedom (CAF) Frequently Asked Questions archive. It provides access instructions via WWW, Gopher, FTP, and email, while listing various FAQ topics related to university computer policies. The file outlines specific categories of inquiry including censorship, email privacy, and netnews liability.",
+      "title": "FAQ README",
+      "topics": [
+        "academic freedom",
+        "computer policy",
+        "internet censorship",
+        "email privacy",
+        "netnews"
+      ]
+    },
+    "identity": {
+      "bytes": 6530,
+      "directory": "faq",
+      "file_name": "README",
+      "path": "faq/README",
+      "title_guess": "README",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "generated catalog",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The CAF FAQ archive includes guidance for creating and evaluating computer policies.",
+        "The archive addresses specific disputes, such as those at the University of Manitoba.",
+        "Topics covered include the debate over whether computer access is a privilege or a right."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "J.S. Greenfield"
+      ],
+      "summary": "This document serves as a subject index for the Frequently Asked Questions (FAQ) section of the Computers and Academic Freedom (CAF) archive hosted by the EFF. It lists various files covering topics such as censorship, due process, email privacy, and university liability. The file provides access instructions via Gopher and FTP.",
+      "title": "Subject index for ftp.eff.org:pub/CAF/faq",
+      "topics": [
+        "academic freedom",
+        "internet policy",
+        "censorship",
+        "university computing",
+        "digital archives"
+      ]
+    },
+    "identity": {
+      "bytes": 1965,
+      "directory": "faq",
+      "file_name": "README.subject-index",
+      "path": "faq/README.subject-index",
+      "title_guess": "Subject index for ftp.eff.org:pub/CAF/faq",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "pointer",
+      "historical_relevance": "medium",
+      "notable_claims": [
+        "The CAF Archive is an electronic library of information about computers and academic freedom.",
+        "The archive was hosted at ftp.eff.org."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl Kadie",
+        "J.S. Greenfield"
+      ],
+      "summary": "This document serves as a guide for accessing the Computers and Academic Freedom (CAF) archive. It provides technical instructions for retrieving files via Gopher, WWW, anonymous FTP, and email. It identifies the Electronic Frontier Foundation (EFF) as the host of the electronic library.",
+      "title": "CAF Archive FAQ/Archive Pointer",
+      "topics": [
+        "archive access",
+        "digital libraries",
+        "FTP",
+        "Gopher"
+      ]
+    },
+    "identity": {
+      "bytes": 1228,
+      "directory": "faq",
+      "file_name": "archive",
+      "path": "faq/archive",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/archive ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "medium",
+      "notable_claims": [
+        "The CAF Archive was hosted by the EFF (Electronic Frontier Foundation).",
+        "The archive was accessible via Gopher, WWW, and FTP."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl Kadie",
+        "J.S. Greenfield"
+      ],
+      "summary": "This document provides instructions on how to access the Computers and Academic Freedom (CAF) electronic library. It lists multiple retrieval methods including Gopher, Mosaic/WWW, anonymous FTP, and email. The text identifies J.S. Greenfield as the contact for contributions and reports.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - Archive",
+      "topics": [
+        "archive access",
+        "electronic libraries",
+        "internet protocols"
+      ]
+    },
+    "identity": {
+      "bytes": 1463,
+      "directory": "faq",
+      "file_name": "archive.html",
+      "path": "faq/archive.html",
+      "title_guess": "archive",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "U.S. federal courts distinguish between harassing speech and offensive speech.",
+        "It is unconstitutional at state universities to base campus speech restrictions on EEOC rules.",
+        "Private institutions are legally free to violate Constitutional standards but should not justify doing so via government rules.",
+        "Content-based prohibitions on speech in educational environments generally cannot survive constitutional screening."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document addresses whether universities should ban offensive material to comply with anti-harassment laws, arguing that offensive speech is protected by academic freedom and the Constitution. It provides a curated list of legal precedents and references regarding hate speech, overbroad regulations, and content-based restrictions. The text emphasizes the distinction between illegal harassment and protected offensive expression in educational settings.",
+      "title": "Censorship and Harassment FAQ",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "harassment",
+        "First Amendment",
+        "university policy",
+        "hate speech"
+      ]
+    },
+    "identity": {
+      "bytes": 13754,
+      "directory": "faq",
+      "file_name": "censorship-and-harassment",
+      "path": "faq/censorship-and-harassment",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/censorship-and-harassment ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "U.S. federal courts distinguish between harassing speech and offensive speech.",
+        "It is unconstitutional at state universities to base campus speech restrictions on EEOC rules.",
+        "Private institutions should not justify violations of academic freedom by appealing to government rules."
+      ],
+      "organizations": [
+        "American Library Association",
+        "EEOC"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document addresses whether universities should ban offensive material to comply with anti-harassment laws, arguing that offensive speech is protected by academic freedom and the Constitution. It distinguishes between face-to-face harassment and protected expression, providing a curated list of legal precedents and library standards to support this distinction. The text specifically warns against using EEOC rules as a basis for campus speech restrictions.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - Censorship and Harassment",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "harassment",
+        "First Amendment",
+        "university policy",
+        "hate speech"
+      ]
+    },
+    "identity": {
+      "bytes": 14227,
+      "directory": "faq",
+      "file_name": "censorship-and-harassment.html",
+      "path": "faq/censorship-and-harassment.html",
+      "title_guess": "censorship-and-harassment",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Banning 'pornography' is too broad because the term is not well-defined and may include fine art.",
+        "University facilities should ban the act of harassment rather than specific materials used for harassment.",
+        "Existing university sexual harassment policies are more appropriate tools for handling misconduct than preemptive material bans."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Australian National University",
+        "American Association of University Professors",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "The author argues against broad bans on pornography on university computers, suggesting that such rules are too vague and could inadvertently censor fine art. Instead, the document proposes focusing on prohibiting the act of harassment rather than the materials themselves. It suggests utilizing existing sexual harassment policies and general legal compliance rules to manage misconduct.",
+      "title": "Should universities create a rule banning \"porn\" on university computers?",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "sexual harassment policy",
+        "university computer use"
+      ]
+    },
+    "identity": {
+      "bytes": 6526,
+      "directory": "faq",
+      "file_name": "computer-porn",
+      "path": "faq/computer-porn",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/computer-porn ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Banning 'pornography' is too broad because the term is not well-defined and may include fine art.",
+        "University computer facilities should be treated like other university facilities by banning the act of harassment rather than the materials used to harass.",
+        "Existing sexual harassment policies are sufficient for handling problematic content without preemptive bans."
+      ],
+      "organizations": [
+        "Australian National University",
+        "American Association of University Professors",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "This document argues against university rules that ban pornography on computers, asserting that such terms are too broad and could inadvertently censor fine art. The author suggests that universities should instead enforce existing sexual harassment policies rather than banning specific materials. It emphasizes treating computer facilities like any other campus facility where the act of harassment is prohibited regardless of the medium.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - computer-porn",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "sexual harassment policy",
+        "university computer use"
+      ]
+    },
+    "identity": {
+      "bytes": 6831,
+      "directory": "faq",
+      "file_name": "computer-porn.html",
+      "path": "faq/computer-porn.html",
+      "title_guess": "computer-porn",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Declaring computer use a 'privilege' does not remove due process requirements.",
+        "Due process is likely a legally-binding contractual requirement at both state and private universities.",
+        "At U.S. state schools, some modicum of due process is required by law."
+      ],
+      "organizations": [
+        "EFF",
+        "AAUP",
+        "ACLU"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document argues that users should not be suspended from computer facilities pending formal discipline without due process. It asserts that labeling computer access as a 'privilege' does not exempt institutions from legal or contractual due process requirements. The text provides an extensive list of annotated legal references and academic freedom statements to support these claims.",
+      "title": "faq/due-process",
+      "topics": [
+        "due process",
+        "academic freedom",
+        "student rights",
+        "computer access"
+      ]
+    },
+    "identity": {
+      "bytes": 7681,
+      "directory": "faq",
+      "file_name": "due-process",
+      "path": "faq/due-process",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/due-process ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Declaring computer use a 'privilege' does not remove due process requirements.",
+        "Due process is likely a legally-binding contractual requirement at both state and private universities.",
+        "At U.S. state schools, some modicum of due process is required by law."
+      ],
+      "organizations": [
+        "AAUP",
+        "ACLU"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document argues that users should not be suspended from computer facilities pending formal discipline without due process, regardless of whether access is labeled a 'privilege'. It provides a curated list of legal references and academic statements supporting the necessity of notice of charges and findings of fact in university disciplinary actions.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - Due Process",
+      "topics": [
+        "due process",
+        "academic freedom",
+        "student rights",
+        "computer access"
+      ]
+    },
+    "identity": {
+      "bytes": 8056,
+      "directory": "faq",
+      "file_name": "due-process.html",
+      "path": "faq/due-process.html",
+      "title_guess": "due-process",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Many universities treat email and computer files as private.",
+        "Ohio State University's CIS department views computer files as a form of property analogous to physical property like dormitory rooms or gym lockers.",
+        "Kansas State University considers unauthorized access to another user's email for the purpose of invading privacy as prosecutable under state law."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Illinois at Urbana-Champaign",
+        "McGill University",
+        "Ohio State University",
+        "Dalhousie University",
+        "James Madison University",
+        "Michigan State University",
+        "University of California at Berkeley",
+        "University of Michigan",
+        "New Mexico State University",
+        "University of Pittsburgh",
+        "Washington University Center For Engineering Computing",
+        "University of New Mexico",
+        "Purdue University",
+        "Kansas State University"
+      ],
+      "people": [],
+      "summary": "This document provides a collection of policy excerpts from various universities that treat email and computer files as private. It serves as a reference for academic institutions that recognize digital privacy rights for students, faculty, and staff. The file also includes pointers to the full policy documents within the EFF's CAF archive.",
+      "title": "Email Policies FAQ",
+      "topics": [
+        "digital privacy",
+        "academic freedom",
+        "university policy",
+        "email confidentiality"
+      ]
+    },
+    "identity": {
+      "bytes": 10921,
+      "directory": "faq",
+      "file_name": "email.policies",
+      "path": "faq/email.policies",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/email.policies ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Ohio State University's CIS department explicitly compares computer files to physical property like dormitory rooms and gym lockers.",
+        "Kansas State University considers unauthorized access to another user's email as a breach of privacy prosecutable under state law.",
+        "Several universities, including New Mexico State and the University of Pittsburgh, define privacy as a basic right for all computer users."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "McGill University",
+        "Ohio State University",
+        "Dalhousie University",
+        "James Madison University",
+        "Michigan State University",
+        "University of California at Berkeley",
+        "Open Computing Facility",
+        "University of Michigan",
+        "New Mexico State University",
+        "University of Pittsburgh",
+        "Washington University Center For Engineering Computing",
+        "University of New Mexico",
+        "Purdue University",
+        "Kansas State University",
+        "EFF"
+      ],
+      "people": [],
+      "summary": "This document provides a collection of policy excerpts from various universities that treat electronic mail and computer files as private. It serves as evidence that many academic institutions recognized digital data as personal property or confidential information. The text includes an annotated list of references and instructions for accessing the full policies via Gopher, FTP, or email.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - email.policies",
+      "topics": [
+        "email privacy",
+        "academic freedom",
+        "university policy",
+        "digital privacy"
+      ]
+    },
+    "identity": {
+      "bytes": 11352,
+      "directory": "faq",
+      "file_name": "email.policies.html",
+      "path": "faq/email.policies.html",
+      "title_guess": "email.policies",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The Electronic Communications Privacy Act (ECPA) could be reasonably construed to protect university email.",
+        "University employees should not tap email communications without authorization from the president, legal counsel, and academic freedom committee.",
+        "Monitoring of government employee email may impinge on 1st, 4th, and 5th Amendment rights."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Michigan",
+        "American Library Association",
+        "AAUP",
+        "ACLU"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Carl M. Kadie",
+        "Stacy Veeder",
+        "Ruel T. Hernandez"
+      ],
+      "summary": "This document addresses the ethics and legality of university email monitoring, arguing that email should have privacy protections similar to telephone calls. It references various legal frameworks including the ECPA and FERPA, and provides a detailed procedure from the American Library Association for handling requests for private records. The file also serves as a curated directory of related legal texts, statements, and bibliographies within the CAF archive.",
+      "title": "Can (should) my university monitor my email?",
+      "topics": [
+        "email privacy",
+        "academic freedom",
+        "surveillance",
+        "university policy",
+        "ECPA"
+      ]
+    },
+    "identity": {
+      "bytes": 14853,
+      "directory": "faq",
+      "file_name": "email.privacy",
+      "path": "faq/email.privacy",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/email.privacy ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The Electronic Communications Privacy Act (ECPA) could be reasonably construed to protect university email.",
+        "Monitoring government employee email may impinge on 1st, 4th, and 5th Amendment rights.",
+        "University employees should not tap email without authorization from the president, legal counsel, and an academic freedom committee."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation (EFF)",
+        "University of Michigan",
+        "American Library Association",
+        "AAUP",
+        "ACLU"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Carl M. Kadie",
+        "Stacy Veeder",
+        "Mark N."
+      ],
+      "summary": "This document addresses whether universities should monitor employee and student email, arguing that such communications deserve privacy protections similar to telephone calls. It cites legal frameworks like the ECPA and FERPA, as well as American Library Association policies on confidentiality. The text includes an extensive annotated bibliography of related legal cases, statements, and policy documents available in the CAF archive.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - Email Privacy",
+      "topics": [
+        "email privacy",
+        "academic freedom",
+        "surveillance",
+        "ECPA",
+        "FERPA",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "bytes": 15211,
+      "directory": "faq",
+      "file_name": "email.privacy.html",
+      "path": "faq/email.privacy.html",
+      "title_guess": "email.privacy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "U.S. courts no longer recognize a strict distinction between privileges and rights based on Board of Regents v. Roth.",
+        "Student computer accounts financed via student fees likely constitute a property right requiring due process before revocation.",
+        "Due process is generally required for the deprivation of liberty or property at public institutions."
+      ],
+      "organizations": [
+        "EFF",
+        "AAUP"
+      ],
+      "people": [
+        "Patricia A. Hollander",
+        "D. Parker Young",
+        "Donald D. Gehring",
+        "R. Mnookin",
+        "Louis Fischer"
+      ],
+      "summary": "This FAQ entry argues that labeling computer access as a 'privilege' does not allow public universities to revoke it arbitrarily. It leverages U.S. Supreme Court precedents on due process and property interests to suggest that student computer accounts, especially those funded by fees, may be protected entitlements.",
+      "title": "If a state university calls computer or network access a \"privilege\", can they remove an individual's access arbitrarily?",
+      "topics": [
+        "due process",
+        "student rights",
+        "computer access",
+        "property interests",
+        "public universities"
+      ]
+    },
+    "identity": {
+      "bytes": 5866,
+      "directory": "faq",
+      "file_name": "just-a-privilege",
+      "path": "faq/just-a-privilege",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/just-a-privilege ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "U.S. courts no longer recognize a strict distinction between privileges and rights in the context of due process.",
+        "Computer accounts financed via student fees may be considered a property right.",
+        "Departmental computer accounts granted based on specific requirements likely require some modicum of due process before removal."
+      ],
+      "organizations": [
+        "AAUP"
+      ],
+      "people": [
+        "Patricia A. Hollander",
+        "D. Parker Young",
+        "Donald D. Gehring",
+        "R. Mnookin",
+        "Franklin E. Zimring",
+        "Rayman L. Solomon",
+        "Louis Fischer"
+      ],
+      "summary": "This document addresses whether state universities can arbitrarily remove computer access by labeling it a 'privilege'. It argues that under U.S. law, such access may constitute a property right requiring due process, particularly if financed by student fees or granted based on set requirements.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - just-a-privilege",
+      "topics": [
+        "due process",
+        "computer access",
+        "property rights",
+        "academic freedom",
+        "public universities"
+      ]
+    },
+    "identity": {
+      "bytes": 6157,
+      "directory": "faq",
+      "file_name": "just-a-privilege.html",
+      "path": "faq/just-a-privilege.html",
+      "title_guess": "just-a-privilege",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Voluntary labeling schemes often lead to censorship by government coercion.",
+        "Forced labels in the U.S. are likely unconstitutional.",
+        "The government generally does not have authority to compel speech, as seen in Riley v. National Federation of the Blind."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Library Association",
+        "ACLU",
+        "Voters Telecommunications Watch"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document argues against the use of voluntary or government-mandated labeling for offensive material on the internet, claiming such schemes inevitably lead to censorship. It proposes a truly voluntary alternative where users create their own indices and labels using browser software. The text also provides an annotated bibliography of references from the ALA, ACLU, and legal cases regarding compelled speech.",
+      "title": "faq/labeling",
+      "topics": [
+        "censorship",
+        "content labeling",
+        "intellectual freedom",
+        "compelled speech",
+        "internet governance"
+      ]
+    },
+    "identity": {
+      "bytes": 6655,
+      "directory": "faq",
+      "file_name": "labeling",
+      "path": "faq/labeling",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/labeling ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Voluntary labeling schemes often lead to censorship by government coercion.",
+        "Forced labels in the U.S. are likely unconstitutional based on the principle that the government generally cannot compel speech.",
+        "Labeling is viewed as a censor's tool intended to prejudice attitudes."
+      ],
+      "organizations": [
+        "American Library Association",
+        "ACLU",
+        "Association of American Publishers",
+        "Voters Telecommunications Watch"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document argues against the use of voluntary or forced labeling schemes for offensive material on the web, claiming they inevitably lead to government coercion and censorship. It proposes alternative user-driven systems such as trademarked labels, indices of material, and specialized browser software. The text includes a curated list of references from the ALA, ACLU, and legal cases regarding compelled speech.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - Labeling",
+      "topics": [
+        "censorship",
+        "content labeling",
+        "intellectual freedom",
+        "compelled speech",
+        "internet governance"
+      ]
+    },
+    "identity": {
+      "bytes": 6960,
+      "directory": "faq",
+      "file_name": "labeling.html",
+      "path": "faq/labeling.html",
+      "title_guess": "labeling",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Viewpoint-based discrimination is forbidden in limited public forums created by the government.",
+        "Campus mail systems may be considered limited public forums depending on their management.",
+        "Content-based prohibitions in university rules often fail constitutional screening even if well-intended."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "U.S. Supreme Court",
+        "ACLU",
+        "Student Press Law Center"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document addresses whether public universities can exercise absolute control over media they own, arguing that the U.S. Constitution limits such authority. It explains the concept of 'limited public forums' and provides an annotated bibliography of legal cases and texts regarding student press and free expression on campus. The text specifically links these legal principles to campus mail systems and computer accounts.",
+      "title": "faq/media.control",
+      "topics": [
+        "First Amendment",
+        "Public Forum Doctrine",
+        "Academic Freedom",
+        "Student Press",
+        "Campus Mail Systems"
+      ]
+    },
+    "identity": {
+      "bytes": 9325,
+      "directory": "faq",
+      "file_name": "media.control",
+      "path": "faq/media.control",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/media.control ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Public universities cannot engage in viewpoint-based discrimination within limited public forums.",
+        "Campus mail systems may be considered limited public forums depending on their management.",
+        "Content-based prohibitions in university rules must be narrowly drawn to effectuate a compelling state interest."
+      ],
+      "organizations": [
+        "U.S. Supreme Court",
+        "Student Press Law Center",
+        "ACLU"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This FAQ entry addresses whether public universities have absolute control over the media they own, arguing that constitutional limits prevent viewpoint-based discrimination in limited public forums. It provides a curated list of legal references and court cases regarding student publications, campus mail systems, and free expression on campus. The document emphasizes that government-owned forums must adhere to First Amendment standards.",
+      "title": "media.control",
+      "topics": [
+        "First Amendment",
+        "Public Forum Doctrine",
+        "Academic Freedom",
+        "Campus Media",
+        "Viewpoint Discrimination"
+      ]
+    },
+    "identity": {
+      "bytes": 9700,
+      "directory": "faq",
+      "file_name": "media.control.html",
+      "path": "faq/media.control.html",
+      "title_guess": "media.control",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Prior review of student publications in public colleges has been ruled unconstitutional.",
+        "Exercising editorial control over content may increase a university's liability for libel compared to a no-screening policy.",
+        "The Cubby v. CompuServe decision suggests that distributors without editorial control are less likely to be held liable for defamatory statements."
+      ],
+      "organizations": [
+        "EFF",
+        "ACLU",
+        "AAUP"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document addresses whether universities reduce legal liability by screening Netnews and Web content for offensive material. It argues that prior restraint may be unconstitutional in public colleges and can actually increase institutional liability by establishing editorial control. The text cites various court cases and academic freedom principles to support a no-screening policy.",
+      "title": "Netnews Liability FAQ",
+      "topics": [
+        "prior restraint",
+        "institutional liability",
+        "Netnews",
+        "academic freedom",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "bytes": 9808,
+      "directory": "faq",
+      "file_name": "netnews.liability",
+      "path": "faq/netnews.liability",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/netnews.liability ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Prior review of student publications in public colleges has been ruled unconstitutional.",
+        "Institutions may be more likely to be held liable for libel if they exercise editorial control over content.",
+        "The Cubby v. CompuServe decision suggests that distributors without editorial control are less likely to be held liable for defamatory statements."
+      ],
+      "organizations": [
+        "EFF",
+        "AAUP",
+        "ACLU"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document addresses whether universities reduce legal liability by screening Netnews and Web content for offensive material. It argues that prior restraint may be unconstitutional and can actually increase institutional liability by establishing editorial control. The text cites various court cases and academic freedom principles to support a no-screening policy.",
+      "title": "netnews.liability",
+      "topics": [
+        "prior restraint",
+        "institutional liability",
+        "Netnews",
+        "academic freedom",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "bytes": 10197,
+      "directory": "faq",
+      "file_name": "netnews.liability.html",
+      "path": "faq/netnews.liability.html",
+      "title_guess": "netnews.liability",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1994",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Removing a newsgroup is equivalent to banning a magazine from an academic library.",
+        "Library intellectual freedom principles should be applied to the administration of information material on computers.",
+        "Stanford University banned rec.humor.funny in 1989, but later lifted the ban following committee recommendations based on library policy."
+      ],
+      "organizations": [
+        "American Library Association",
+        "Electronic Frontier Foundation",
+        "Stanford University",
+        "University of Waterloo",
+        "University of Wisconsin-Milwaukee",
+        "University of Western Ontario",
+        "Canadian Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "John McCarthy",
+        "Charles Dunlop",
+        "Rob Kling",
+        "J.S. Greenfield"
+      ],
+      "summary": "This document argues that university Netnews newsgroups should not be restricted based on offensiveness and suggests applying established library intellectual freedom principles to computer administration. It provides a curated list of references, including American Library Association (ALA) policies and case studies of censorship at institutions like Stanford University and the University of Waterloo.",
+      "title": "Netnews Reading FAQ",
+      "topics": [
+        "Netnews",
+        "censorship",
+        "academic freedom",
+        "library policy",
+        "intellectual freedom"
+      ]
+    },
+    "identity": {
+      "bytes": 15613,
+      "directory": "faq",
+      "file_name": "netnews.reading",
+      "path": "faq/netnews.reading",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/netnews.reading ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1994",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Removing a newsgroup is equivalent to banning a magazine from an academic library.",
+        "Library principles, such as the Library Bill of Rights, should be applied to information material on computers.",
+        "Stanford University banned rec.humor.funny in 1989 but later lifted the ban following committee recommendations."
+      ],
+      "organizations": [
+        "American Library Association",
+        "Stanford University",
+        "University of Waterloo",
+        "Electronic Frontier Foundation",
+        "University of Wisconsin-Milwaukee",
+        "University of Western Ontario"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "John McCarthy",
+        "Charles Dunlop",
+        "Rob Kling",
+        "J.S. Greenfield"
+      ],
+      "summary": "This FAQ addresses whether universities should restrict Netnews newsgroups based on offensive content, arguing that library principles of intellectual freedom should apply to computer administration. It provides a curated list of references and policies from the American Library Association (ALA) and various universities regarding censorship and material selection. The document highlights specific cases of newsgroup bans at Stanford University and the University of Waterloo.",
+      "title": "netnews.reading",
+      "topics": [
+        "Netnews",
+        "censorship",
+        "academic freedom",
+        "library policy",
+        "intellectual freedom"
+      ]
+    },
+    "identity": {
+      "bytes": 16128,
+      "directory": "faq",
+      "file_name": "netnews.reading.html",
+      "path": "faq/netnews.reading.html",
+      "title_guess": "netnews.reading",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 1991 - 1995",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Universities should allow students to post to Netnews and have web pages as part of free inquiry.",
+        "State universities in the U.S. are legally required to keep student publications free of university screening and censorship.",
+        "The principles of intellectual freedom developed for university libraries apply to Netnews material."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Library Association",
+        "AAUP",
+        "University of Wisconsin-Milwaukee",
+        "University of Western Ontario",
+        "ACLU",
+        "Princeton University"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This document addresses whether universities should allow students to post to Netnews or maintain web pages, arguing that free expression is central to the university mission. It provides a comprehensive list of annotated references including ALA policies, AAUP statements, and various U.S. court cases regarding student speech and public forums. The text emphasizes that existing rules for student media should generally apply to computer-based media.",
+      "title": "Netnews Writing FAQ",
+      "topics": [
+        "Netnews",
+        "student speech",
+        "academic freedom",
+        "public forum doctrine",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "bytes": 17661,
+      "directory": "faq",
+      "file_name": "netnews.writing",
+      "path": "faq/netnews.writing",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/netnews.writing ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-1995",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Universities should allow students to post to Netnews and have web pages as part of their mission of free inquiry.",
+        "Most student publications at U.S. state universities are legally required to be free of university screening and censorship.",
+        "The American Library Association recommends that no user be denied access for expressing constitutionally protected speech."
+      ],
+      "organizations": [
+        "American Library Association",
+        "AAUP",
+        "University of Wisconsin-Milwaukee",
+        "University of Western Ontario",
+        "ACLU",
+        "EFF"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This FAQ addresses whether universities should allow students to post to Netnews or maintain web pages, arguing that such activities are protected by free inquiry and expression. It provides a comprehensive list of annotated references including ALA policies, AAUP statements, university network policies, and U.S. case law regarding student publications and the Public Forum Doctrine.",
+      "title": "netnews.writing",
+      "topics": [
+        "Netnews",
+        "student expression",
+        "academic freedom",
+        "First Amendment",
+        "public forum doctrine",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "bytes": 18260,
+      "directory": "faq",
+      "file_name": "netnews.writing.html",
+      "path": "faq/netnews.writing.html",
+      "title_guess": "netnews.writing",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "Content-based prohibition in a public forum must be narrowly drawn to effectuate a compelling state interest.",
+        "Archiving university policies by copying rather than linking is essential for searchability and tracking changes over time.",
+        "University restrictions on outside web content are compared to 1950s-era bans on subversive or political visiting speakers."
+      ],
+      "organizations": [
+        "SUNY-Binghamton",
+        "University of Illinois",
+        "ACLU",
+        "Princeton University"
+      ],
+      "people": [],
+      "summary": "The author argues against university bans on students hosting third-party content on their web pages, citing both legal and academic freedom grounds. The text draws parallels between modern digital censorship and McCarthy Era restrictions on visiting speakers at universities. It specifically references a policy at SUNY-Binghamton as an example of problematic restriction.",
+      "title": "Should a university ban outside content from student web pages?",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "student web pages",
+        "Public Forum Doctrine",
+        "McCarthyism"
+      ]
+    },
+    "identity": {
+      "bytes": 9403,
+      "directory": "faq",
+      "file_name": "outside-content.html",
+      "path": "faq/outside-content.html",
+      "title_guess": "outside-content",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "University Student Codes often act as legal contracts protecting expression and privacy.",
+        "ALA guidelines suggest using existing legislation rather than creating new enforcement mechanisms for library use.",
+        "U.S. federal courts have consistently struck down speech restrictions at public universities.",
+        "Due process is required before serious punishments can be applied to students."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Library Association",
+        "University of Illinois at Urbana-Champaign",
+        "University of Wisconsin-Milwaukee",
+        "University of Western Ontario",
+        "Stanford University",
+        "National Science Foundation"
+      ],
+      "people": [
+        "Carl Kadie",
+        "J.S. Greenfield",
+        "John McCarthy"
+      ],
+      "summary": "This document provides guidance on creating and evaluating university computer policies, emphasizing the importance of student codes and due process. It incorporates recommendations from the American Library Association (ALA) regarding user behavior and access to materials. The text also serves as a curated index to various academic computer policies, legal cases, and statements within the CAF archive.",
+      "title": "faq/policy",
+      "topics": [
+        "academic freedom",
+        "computer policy",
+        "due process",
+        "censorship",
+        "privacy",
+        "library standards"
+      ]
+    },
+    "identity": {
+      "bytes": 16558,
+      "directory": "faq",
+      "file_name": "policy",
+      "path": "faq/policy",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/policy ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1993",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "University of Illinois at Urbana-Champaign is cited as a model for privacy protection.",
+        "University of Wisconsin at Milwaukee is cited for applying library intellectual freedom standards to netnews.",
+        "Iowa State University is noted for its due process protections in computer ethics violations.",
+        "The AAUP's Joint Statement on Rights and Freedoms of Students is recommended for guidance on student participation in policy making."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Illinois at Urbana-Champaign",
+        "University of Wisconsin at Milwaukee",
+        "Iowa State University",
+        "AAUP",
+        "American Library Association"
+      ],
+      "people": [],
+      "summary": "This document provides a curated list of exemplary university and organizational computer policies to serve as models for academic institutions. It highlights specific strengths in privacy, prohibitions, netnews standards, due process, and student participation. The text includes annotated references and FTP paths to the full policy documents within the CAF archive.",
+      "title": "Which computer policies are the best models for a good academic policy?",
+      "topics": [
+        "academic freedom",
+        "computer policy",
+        "privacy",
+        "due process",
+        "netnews",
+        "student rights"
+      ]
+    },
+    "identity": {
+      "bytes": 8812,
+      "directory": "faq",
+      "file_name": "policy.best",
+      "path": "faq/policy.best",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/policy.best ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The University of Illinois at Urbana-Champaign is cited as a model for privacy protection regarding electronic files.",
+        "University of Wisconsin at Milwaukee is highlighted for applying library standards of intellectual freedom to netnews material.",
+        "Iowa State University is noted for its due process protections in computer ethics violations.",
+        "The AAUP's Joint Statement on Rights and Freedoms of Students is recommended as a model for student participation in policy making."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "Electronic Frontier Foundation",
+        "University of Wisconsin at Milwaukee",
+        "Iowa State University",
+        "AAUP",
+        "American Library Association"
+      ],
+      "people": [],
+      "summary": "This document provides a curated list of exemplary computer policies from various institutions to serve as models for academic environments. It categorizes 'best' practices in privacy, prohibitions, netnews, due process, and participatory policy-making. The text includes specific excerpts from these policies and an annotated bibliography with access instructions via Gopher, FTP, and email.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - policy.best",
+      "topics": [
+        "academic freedom",
+        "computer policy",
+        "digital privacy",
+        "due process",
+        "intellectual freedom"
+      ]
+    },
+    "identity": {
+      "bytes": 9173,
+      "directory": "faq",
+      "file_name": "policy.best.html",
+      "path": "faq/policy.best.html",
+      "title_guess": "policy.best",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "University Student Codes often act as legal contracts protecting freedom of expression and privacy.",
+        "Speech restrictions at public universities have been consistently struck down by recent U.S. federal courts.",
+        "The American Library Association recommends using existing legislation rather than creating new internal enforcement mechanisms for user behavior."
+      ],
+      "organizations": [
+        "American Library Association",
+        "Electronic Frontier Foundation",
+        "University of Illinois at Urbana-Champaign",
+        "University of Wisconsin-Milwaukee",
+        "University of Western Ontario",
+        "Stanford University",
+        "National Science Foundation"
+      ],
+      "people": [
+        "Carl Kadie",
+        "John McCarthy"
+      ],
+      "summary": "This document provides guidance on creating and evaluating university computer policies, emphasizing the importance of student codes and due process. It incorporates recommendations from the American Library Association (ALA) regarding user behavior and access to materials. The text also serves as a curated directory of policy examples, legal cases, and statements within the CAF Archive.",
+      "title": "Computers and Academic Freedom: Frequently Asked Questions - Policy",
+      "topics": [
+        "academic freedom",
+        "computer policy",
+        "due process",
+        "censorship",
+        "privacy",
+        "free expression"
+      ]
+    },
+    "identity": {
+      "bytes": 15038,
+      "directory": "faq",
+      "file_name": "policy.html",
+      "path": "faq/policy.html",
+      "title_guess": "policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1993",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The University of Oregon paid the Software Publishers Association $130,000 to settle copyright infringement allegations.",
+        "Suspensionless searches for software violations are viewed as a violation of academic freedom.",
+        "The SPA has filed over 100 lawsuits since 1989 and often settles out of court rather than litigating.",
+        "The Electronic Communications Privacy Act (ECPA) may be construed to protect university email."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Software Publishers Association",
+        "University of Oregon",
+        "ACLU",
+        "University of Illinois",
+        "UPenn"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Mike Godwin"
+      ],
+      "summary": "This document addresses whether universities should conduct searches for copyright violations and provides a curated list of references regarding software piracy, privacy law, and academic freedom. It specifically discusses the Software Publishers Association's (SPA) tactics and its legal settlement with the University of Oregon. The text argues that suspensionless searches violate academic freedom and potentially constitutional rights.",
+      "title": "FAQ: Software Publishers Association (SPA)",
+      "topics": [
+        "software piracy",
+        "academic freedom",
+        "privacy",
+        "copyright infringement",
+        "search and seizure"
+      ]
+    },
+    "identity": {
+      "bytes": 10257,
+      "directory": "faq",
+      "file_name": "spa",
+      "path": "faq/spa",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/spa ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "",
+      "document_type": "FAQ",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The SPA aims to regulate the access and disclosure of student records.",
+        "There is a tension between institutional data needs and individual privacy protections."
+      ],
+      "organizations": [],
+      "people": [],
+      "summary": "This document provides a detailed FAQ regarding the Student Privacy Act and its implications for student data. It addresses concerns about how information is collected, stored, and accessed by university administration. The text focuses on balancing administrative needs with individual privacy rights.",
+      "title": "Frequently Asked Questions about the SPA (Student Privacy Act)",
+      "topics": [
+        "student privacy",
+        "data collection",
+        "academic freedom",
+        "privacy legislation"
+      ]
+    },
+    "identity": {
+      "bytes": 0,
+      "directory": "faq",
+      "file_name": "spa.html",
+      "path": "faq/spa.html",
+      "title_guess": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "document_type": "pointer",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The University of Manitoba banned alt.sex* newsgroups.",
+        "R. v. Butler (1992) redefined obscenity in Canada.",
+        "University of Waterloo eventually restored rec.humor.funny and alt.sex* after a ban."
+      ],
+      "organizations": [
+        "University of Manitoba",
+        "Electronic Frontier Foundation",
+        "Canadian Library Association",
+        "University of Waterloo",
+        "University of Toronto",
+        "University of Western Ontario"
+      ],
+      "people": [
+        "Brad Templeton",
+        "John McCarthy"
+      ],
+      "summary": "This document serves as a curated list of references and pointers to other CAF archive files regarding the ban of alt.sex* newsgroups at the University of Manitoba. It provides links to Canadian law on obscenity, policies from other Canadian universities, and critiques of censorship in academic networking.",
+      "title": "FAQ: What is going on at the University of Manitoba in Canada?",
+      "topics": [
+        "Netnews",
+        "censorship",
+        "obscenity law",
+        "academic freedom",
+        "Usenet"
+      ]
+    },
+    "identity": {
+      "bytes": 7549,
+      "directory": "faq",
+      "file_name": "umanitoba.ca",
+      "path": "faq/umanitoba.ca",
+      "title_guess": "=============== ftp://ftp.eff.org/pub/CAF/faq/umanitoba.ca ===============",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "document_type": "pointer",
+      "historical_relevance": "high",
+      "notable_claims": [
+        "The University of Manitoba banned alt.sex* newsgroups.",
+        "The Canadian Supreme Court case R. v. Butler (1992) redefined obscenity in Canada.",
+        "Several Canadian universities, including Toronto and Western Ontario, maintained policies that users bear primary responsibility for material they display."
+      ],
+      "organizations": [
+        "University of Manitoba",
+        "Canadian Library Assoc",
+        "University of Waterloo",
+        "University of Toronto",
+        "University of Western Ontario",
+        "Stanford University",
+        "EFF"
+      ],
+      "people": [
+        "Brad Templeton",
+        "John McCarthy"
+      ],
+      "summary": "This document serves as a curated list of references and pointers to other files in the CAF archive regarding the ban on alt.sex* newsgroups at the University of Manitoba. It provides links to Canadian law, university policies from various Canadian institutions, and critiques of censorship. The file also includes instructions for accessing these documents via Gopher, FTP, and email.",
+      "title": "umanitoba.ca",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "obscenity law",
+        "Canada"
+      ]
+    },
+    "identity": {
+      "bytes": 7967,
+      "directory": "faq",
+      "file_name": "umanitoba.ca.html",
+      "path": "faq/umanitoba.ca.html",
+      "title_guess": "umanitoba.ca",
+      "truncated_for_model": false
+    }
+  }
+]

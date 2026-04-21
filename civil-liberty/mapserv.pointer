@@ -1,0 +1,55 @@
+Newsgroups: misc.activism.progressive
+From: harelb@math.cornell.edu (misc.activism.progressive co-moderator)
+Subject:  RESOURCE: Electronic Directory
+Message-ID: <1993Oct15.131657.17567@mont.cs.missouri.edu>
+Date: Fri, 15 Oct 1993 13:16:57 GMT
+
+MAP/ACTIV-L Offers an email-server with telephone numbers, fax
+numbers, and more information. Here's a the main help message
+describing what it can do.
+
+If you have any additions to make, please send them (after first
+checking that the info isn't already on "mapserv" by asking it for the
+info) to Rich Winkel at rich@pencil.cs.missouri.edu
+
+
+##################################################################
+
+* Date: Wed, 13 Oct 93 16:49:01 CDT
+* From: mapserv@pencil.cs.missouri.edu
+* To: harelb@math.cornell.edu
+* Reply-To: rich@pencil.cs.missouri.edu
+* Subject: Output from MAPServ
+
+Please send corrections/updates to rich@pencil.cs.missouri.edu.
+You can do this by replying to this note.
+
+>>> HELP 
+
+MAPServ can be used to retrieve:
+   Files and directory listings of the
+      misc.activism.progressive library.
+   Phone and fax numbers of the US government and media.
+   Fax numbers of UN country missions to the US.
+
+Examples:
+"senator il" returns info on the senators from Illinois.
+"sen brad" returns info on senator Bill Bradley.
+"rep mo" returns info on US represenatives from Missouri.
+"rep gep" returns info on representative Richard Gephardt.
+"admin" returns info on the administration.
+"media ny" returns numbers for media in New York.
+"media npr" returns number for NPR.
+"mis brazil" returns the fax number to the Brazilian mission.
+"mapidx AGRAN.*" returns the corresponding list of files from
+    the m.a.p. library.
+"mapget community-under-siege.judi" gets the file.
+
+Notes:
+Reasonable abbreviations are accepted.
+The post-office state code is required for sen & rep requests.
+The Subject: line is ignored.
+Multiple requests are allowed, one per line.
+
+
+

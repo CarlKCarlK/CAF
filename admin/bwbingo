@@ -1,0 +1,86 @@
+#! /usr/bin/perl
+
+# History
+#  Mar 30, 1994 - more words suggested in email
+#  Mar 29, 1994 - initial development Carl Kadie
+
+# Must have at least 24. Having more is OK.
+@word = (
+     "Dorothy Denning",
+     "child porn/pedophila",
+     "terrorist",
+     "Mafia",
+     "legitimate needs of law enforcement",
+     "China",
+     "Saudi Arabia bans satellite receivers",
+     "France bans encryption",
+     "Minitel",
+     "we are not asking for new wiretapping capabilities",
+     "drug dealers",
+     "Saddam Hessein",
+     "cybercops/net police/net cops",
+     "tollbooths (on the information superhighway)",
+     "the information superhighway",
+     "information haves and have nots",
+     "convergence",
+     "global village",
+     "(virtual) community",
+     "the net routes around censorship",
+     "the Home Shopping Network",
+     "500 channels",
+     "on the Net no one knows you are a dog",
+     "knowing how to program your VCR",
+     "on ramps (to the information superhighway)",
+     "pothole (to the information superhighway)",
+     "roadkill (on the information superhighway)",
+     "killer app",
+     "David Sternlight",
+     "Dave Hughes",
+     "Santa Monica",
+     "cyberspace",
+     "infobahn",
+     "Singapore",
+     "metaphor(s)",
+     "who holds the keys?",
+     "you can have my encryption algorithm... when you pry my private key ...",
+     "child porn",
+     "World Trade Center bombing",
+     "smart enough to <commit some crime>, dumb enough to use Clipper",
+     "when encryption is outlawed, only outlaws will have encryption",
+     "Mosaic",
+     "with rights, come responsibilities",
+     "freedom of the press is only for those who own one",
+     "you can't yell \"fire\" in a crowded theater",
+     "civilizing the electronic frontier");
+
+srand;
+for ($i=0;$i<=$#word;$i++){
+    local($r) = int(rand($#word+1));
+    $t = $word[$i];$word[$i]=$word[$r];$word[$r]=$t;
+    }
+
+print "NII Buzzword Bingo!\n\n";
+
+print "Buzzword bingo is inspired by a Dilbert cartoon.
+
+While in meeting, a conference, or watching C-Span, mark your card
+every time you hear a word on your card. (The \"bingo\" square is
+premarked.) When you get 5 in a row, in any direction, yell \"Bingo!\".\n\n";
+
+print "-------------------------------\n";
+print "|  1  |  2  |  3  |  4  |  5  |\n";
+print "-------------------------------\n";
+print "|  6  |  7  |  8  |  9  |  10 |\n";
+print "-------------------------------\n";
+print "|  11 |  12 |BINGO|  13 |  14 |\n";
+print "-------------------------------\n";
+print "|  15 |  16 |  17 |  18 |  19 |\n";
+print "-------------------------------\n";
+print "|  20 |  21 |  22 |  23 |  24 |\n";
+print "-------------------------------\n";
+
+print "\n\nYour words (ordered randomly) are:\n";
+for ($i=0;$i<=23;$i++){
+  print $i+1,". ",$word[$i],"\n";
+  }
+

@@ -1,0 +1,109 @@
+Date: Mon, 2 Sep 1991 16:15:15 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-ID: <1991Sep2.161515.24831@eff.org>
+Subject: Computing Services Policy at Central Michigan University
+
+Excerpts from "Everything You Ever Wanted To Know About Computing
+Services At Central Michigan University (And Were Afraid To Ask)",
+Computer Services Document No. CSVD0092. It is given to new users.
+
+---- begin quote --- 
+
+_The contents of all storage media owned or stored on Computer
+Services computing facilities are the property of Central Michigan
+University unless a written contract signed by suitable contracting
+authority exists to the contrary._ [The _..._ marks underlining in the
+original document. - Carl]
+
+An individual using Computer Services facilities must do so in the
+knowledge that he/she is using University resources in support of
+his/her work. The University owns everything stored in its facilities
+unless it has agreed otherwise. Further, the University has the right
+of access to the contents at any time for any purpose for which it has
+a legitimate "need to know". The University will make all reasonable
+efforts to maintain the confidentiality of the storage contents and to
+safeguard the contents from loss, but cannot be held liable for the
+inadvertent or unavoidable loss or disclosure of the contents.
+Normally, the only "need to know" access to storage media contents
+will be conducted by the Director of Computer Services, the Associate
+Director of Computer Services (operations), or the Systems
+Programmers.
+
+...
+
+_The facilities are provided without charge for purposes of academic
+advancement and administrative data processing for faculty, staff, and
+students of Central Michigan University. Use by others or for other
+purposes is strictly prohibited unless specifically authorized in
+writing by the Director of Computer Services._
+
+Computer Services computing facilities are provided in support of
+teaching and academic advancement and administrative data processing
+at Central Michigan University. Any faculty member, staff member,
+emeritus faculty/staff, or student having a current bona fide
+connection with Central Michigan University is permitted, upon proper
+validation by Computer Services, to use the instructional/research
+portion of these facilities without charge regardless of whether or
+not they are in a "computer-intensive" class or are teaching such a
+class. The facilities available to the individual will be determined
+by Computer Services based on intended use of the facilities by the
+individual and the resources available at the time of validation.
+Facilities are not provided for the use of spouses, parents, children,
+or friends of validated users.
+
+...
+
+
+...Detection of illegal usage or practices designed to operate to the
+detriment of the user community will result in the withdrawal of
+services to the individual determined to be at fault. Computer
+Services will be the sole arbiter of this decision and services to the
+individual will only be restored to the individual upon successful
+appeal to the Director of Computer Services or his designes.
+
+...
+
+_Special information regarding audit records on the IBM 3090 computer._
+
+Any individual using Computer Services facilities must realize that
+all mainframe computer systems maintain audit trail logs or log files
+within the mainframe computer. Such information as the user
+identification, date and time of the session, the software used, the
+files used, the computer time, and storage used, the user account, and
+other run-related information is normally available for diagnostic,
+accounting, and load analysis purposes.
+
+In the case of the IBM 3090, Computer Services normally retains the
+information contained in these files for up to one year. Under certain
+circumstances, this information is reviewed by the Computer Services
+personnel outlined above, either at the request of an academic
+department, or in situations where it is necessary to determine what
+has occurred to cause a particular system problem at a particular
+time.  For example, analysis of audit files may indicate why a
+particular data file is being erased, when it was erased, and what
+user identification has erased it. Inspection of audit records may be
+used to dispel or confirm a professor's suspicions of academic
+dishonesty.
+
+...
+
+Access to audit records on the IBM 3090 will only be performed by the
+Computer Services personnel designated above. The review of audit
+information will only be performed when there is a legitimate "need to
+know" based on a request from an academic department, an Executive
+Officer of Central Michigan University, or the Director of Computer
+Services, or when such a review is deemed necessary in order to
+maintain a satisfactory computing environment for the University
+Community. In such cases, a written record will be maintained of the
+occasion, containing the name of the person accessing the audit
+records, the date and time of access, whose records were accessed, the
+extent (date and time range) of the information retrieved, and the
+circumstances occasioning the access. This record will be kept in the
+Computer Services administrative manual files under the the
+designation "IBM 3090 audit record accesses".
+
+
+--- end quote ---
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.

@@ -1,0 +1,470 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 3, 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "The University of Nebraska at Lincoln removed alt.* newsgroups citing pornography, though students claimed the server was running under capacity.",
+        "Princeton's computing guidelines were noted to ban speech that would be protected by the Constitution at a public university.",
+        "Questions were raised regarding the legal line between intellectual discourse and intent to hack when possessing source code for cracking programs."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Nebraska at Lincoln",
+        "Virginia Tech",
+        "Princeton University",
+        "University of Southwestern Louisiana",
+        "Harvard Law Review"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Adam C. Gross",
+        "William W. Arnold",
+        "Elizabeth M. Reid",
+        "Paul Joslin",
+        "David Burchell",
+        "M Rosenblatt",
+        "Jyrki Kuoppala"
+      ],
+      "summary": "This is an abstract for the CAF-News digest covering various issues of academic computer freedom. It highlights disputes over the removal of alt.* newsgroups at the University of Nebraska at Lincoln and critiques of computing resource guidelines at Princeton and Virginia Tech. The digest also touches upon privacy concerns regarding telnet/email logging and the legality of possessing cracking programs.",
+      "title": "Article 0 -- Abstract of CAF-News 02.20",
+      "topics": [
+        "USENET censorship",
+        "acceptable use policies",
+        "digital privacy",
+        "academic freedom",
+        "computer speech"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 0 -- Abstract of CAF-News 02.20",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 1, 1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "UNL removed 'alt' newsgroups to avoid potential conflict with the federal government regarding NSFNET acceptable use policies.",
+        "The university administration claimed that some alt groups contained material on torture and mutilation.",
+        "Student representatives argued there was no evidence that the removal of these groups was forced upon the university by external authorities."
+      ],
+      "organizations": [
+        "University of Nebraska-Lincoln",
+        "Computing Resource Center",
+        "NSFNET",
+        "National Science Foundation",
+        "Nebraska University Students for Electronic Freedom"
+      ],
+      "people": [
+        "Mike Lewis",
+        "Doug Gale",
+        "Dave Burchell",
+        "Paul Kenyon"
+      ],
+      "summary": "The University of Nebraska-Lincoln's Computing Resource Center stopped supplying the 'alt' hierarchy of Usenet news groups to campus computers. Director Doug Gale cited concerns over pornography and violent content, claiming that maintaining these groups risked violating NSFNET's acceptable use policy and losing federal internet access. Student representatives challenged this as censorship, arguing the university is obligated to promote freedom of expression.",
+      "title": "Official says messages contained pornography",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "acceptable use policy",
+        "academic freedom",
+        "internet access"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 3 May 92 22:34:49 CDT",
+      "from": "burchell@cse.unl.edu (David Burchell)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<9205040334.AA04565@cse.unl.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 1--DN article",
+      "to_or_newsgroups": "djburche@jwendnelnc",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 28, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The news server was running at 41% capacity, contradicting claims of resource exhaustion.",
+        "The CRC's 'resource issue' was actually a lack of manpower to monitor and approve unmoderated alt.* groups.",
+        "UNL claimed no censorship occurred because material remained available via anonymous FTP."
+      ],
+      "organizations": [
+        "University of Nebraska-Lincoln",
+        "Computing Resource Center (CRC)"
+      ],
+      "people": [
+        "David J. Burchell",
+        "Raul Deluth Miller-Rockwell",
+        "Dave Spanel",
+        "Doug Gale"
+      ],
+      "summary": "David Burchell challenges the University of Nebraska-Lincoln's (UNL) claim that resource constraints justified the removal of alt.* newsgroups. He argues that the actual constraint was a lack of manpower to monitor and censor content rather than technical capacity. The author suggests that expiring news more quickly would be a viable alternative to total censorship.",
+      "title": "Alternate ways of managing resources at UNL",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "resource management",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 28 Apr 1992 18:32:00 GMT",
+      "from": "djburche@jwendnelnc.cr.usgs.GOV (David J. Burchell)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<9204281832.AA00992@jwendnelnc.cr.usgs.GOV>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 2--Alternate ways of managing resources at UNL",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 27, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The definition of 'fighting words' has narrowed since Chaplinsky v. New Hampshire (1942).",
+        "Speech must generally be delivered face-to-face and evoke an immediate breach of peace to be excluded from First Amendment protection.",
+        "Government cannot shut off discourse solely to protect others from hearing objectionable speech unless substantial privacy interests are invaded."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "J. S. Greenfield",
+        "Robert J. Wagman",
+        "Ralph A. Rossum",
+        "G. Alan Tarr"
+      ],
+      "summary": "Carl Kadie contributes to a discussion on the legal definitions of 'fighting words' and hate speech. He argues that current First Amendment interpretations require speech to be delivered one-to-one and likely to provoke immediate violence to lose protection. The post cites several Supreme Court cases to distinguish between offensive speech and speech that justifies government intervention.",
+      "title": "Article 3--Re: \"Hate Speech\" distinguished from \"Panic-Inducing Speech\"",
+      "topics": [
+        "First Amendment",
+        "fighting words",
+        "hate speech",
+        "legal precedents",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 27 Apr 1992 14:35:05 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<1992Apr27.143505.9602@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 3--Re: \"Hate Speech\" distinguished from \"Panic-Inducing Speech\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 27, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Vague speech restrictions regarding 'unwarranted annoyance' may be unconstitutional.",
+        "Restrictions on using university systems for partisan political purposes should only exist if based on law or regulation.",
+        "The right to search files on university systems must be constrained by the Fourth Amendment's prohibition against unreasonable searches and seizures.",
+        "Due process is better served when disciplinary actions follow established student/employee handbooks rather than arbitrary computer center suspensions."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Virginia Tech",
+        "Ohio State University"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Randy Marchany"
+      ],
+      "summary": "Carl Kadie provides a legal and civil liberties critique of Virginia Tech's proposed 'Appropriate Use of Information Systems' policy. He argues that vague restrictions on speech, political activity, and 'personal gain' may violate First Amendment rights. He also emphasizes the need for clear authorization procedures for system searches to prevent unreasonable search and seizure.",
+      "title": "Re: Sacrificial Lamb: An Acceptable Usage Statement for your review",
+      "topics": [
+        "Acceptable Use Policy",
+        "First Amendment",
+        "Privacy",
+        "Due Process",
+        "Academic Freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 27 Apr 1992 21:49:17 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<1992Apr27.214917.13402@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 4--Re: Sacrificial Lamb: An Acceptable Usage Statement for your review",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Electronic messages must meet the same distribution standards as tangible documents",
+        "Altering attribution of origin in electronic mail is considered a transgression of university rules"
+      ],
+      "organizations": [
+        "Princeton University",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "The item provides excerpts from Princeton University's computing resource guidelines, which link network behavior to the university's general code of conduct. It specifically mandates that electronic communications meet the same standards as tangible documents and prohibits the alteration of 'From' lines or attribution of origin.",
+      "title": "Excerpts from Princeton's Guidelines for the use of Campus and Network Computing Resources",
+      "topics": [
+        "acceptable use policy",
+        "electronic mail",
+        "academic conduct",
+        "attribution"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 29 Apr 1992 13:10:30 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<199204292110.AA23705@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 5--Excerpts from Princeton's \"Guidelines ... Computing Resources\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-04-29",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Princeton's guidelines ban certain speech protected at state universities",
+        "Princeton explicitly treats computer speech as traditional speech"
+      ],
+      "organizations": [
+        "Princeton University",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie comments on the computing resource guidelines at Princeton University. He argues that while the university bans speech that would be protected by the Constitution at state institutions, it is significant that they treat computer-based speech as traditional speech.",
+      "title": "Re: Excerpts from Princeton's \"Guidelines ... Computing Resources\"",
+      "topics": [
+        "academic freedom",
+        "computer speech",
+        "university policy",
+        "free speech"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 29 Apr 1992 21:32:06 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<1992Apr29.213206.24214@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 6--Re: Excerpts from Princeton's \"Guidelines ... Computing Resources\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 27, 1992",
+      "historical_relevance": "low",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The Vice President of Student Affairs claimed that allowing the photo could potentially hurt freedom of the press on campus.",
+        "The Student Press Law Center and a local newspaper editor did not consider the photo obscene."
+      ],
+      "organizations": [
+        "University of Southwestern Louisiana",
+        "Student Press Law Center"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "A report regarding a controversy at the University of Southwestern Louisiana over a nude photograph published in the student yearbook. The item outlines conflicting views on whether the content was obscene and discusses the role of campus administration in censorship.",
+      "title": "Nude photo in yearbook stirs campus debate",
+      "topics": [
+        "censorship",
+        "freedom of the press",
+        "campus debate",
+        "obscenity"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 27 Apr 1992 16:43:01 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<1992Apr27.164301.27154@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 7--\"Nude photo in yearbook stirs campus debate\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "28 Apr 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "A parody of a deceased feminist professor's work caused a significant split among Harvard Law faculty.",
+        "The parody suggested the original author was published due to her marriage to a Harvard professor rather than merit."
+      ],
+      "organizations": [
+        "Harvard Law School",
+        "Harvard Law Review"
+      ],
+      "people": [
+        "Mary Joe Frug",
+        "Adolfo Calero",
+        "Matthew Rosenblatt",
+        "J. S. Greenfield"
+      ],
+      "summary": "A Usenet discussion regarding a controversy at Harvard Law School where students published a parody of an article by the late Professor Mary Joe Frug. The author argues that the parody was offensive not only because it targeted a deceased person and feminism, but because it questioned Frug's professional merit based on her marriage. The post contrasts this faculty reaction with other 'un-Ivy' behaviors, such as a physical assault on speaker Adolfo Calero.",
+      "title": "Article 8--Re: UPI story: Parody splits Harvard Law faculty",
+      "topics": [
+        "academic freedom",
+        "parody",
+        "campus controversy",
+        "sexism"
+      ]
+    },
+    "identity": {
+      "date": "28 Apr 92 15:39:18 GMT",
+      "from": "matt@smoke.brl.mil (Matthew Rosenblatt)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<18573@smoke.brl.mil>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 8--Re: UPI story: Parody splits Harvard Law faculty",
+      "to_or_newsgroups": "misc.legal",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Logging outgoing telnet sessions is compared to phone company record keeping for the purpose of identifying hacking.",
+        "In Finland (as of 1992), police access to phone records was not legal but being proposed."
+      ],
+      "organizations": [
+        "Bar-Ilan University"
+      ],
+      "people": [
+        "Jyrki Kuoppala",
+        "Carl M. Kadie",
+        "Hank Nussbacher"
+      ],
+      "summary": "A discussion regarding the ethics and legality of logging outgoing telnet sessions, comparing network logs to telephone company records. Hank Nussbacher argues that such logs are necessary for detecting hacking and generally ignored unless a crime is suspected. Jyrki Kuoppala adds a perspective on Finnish privacy laws and police access to financial and telecommunications data.",
+      "title": "Article 9--Surveillance of phone calling records",
+      "topics": [
+        "network surveillance",
+        "telnet logging",
+        "privacy",
+        "academic freedom",
+        "sysadmin policy"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 28 Apr 1992 11:25:52 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<1992Apr28.112552.23369@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 9--Surveillance of phone calling records",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "30 Apr 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Possession of cracker programs may lead to scrutiny similar to carrying lock-picks.",
+        "Outlawing cracking software raises concerns about the boundary between intellectual discourse and criminal intent."
+      ],
+      "organizations": [
+        "Oregon State Library"
+      ],
+      "people": [
+        "Brian McBee"
+      ],
+      "summary": "A discussion on the legality and ethics of possessing 'cracker programs' compared to physical lock-picking tools. The author questions whether outlawing such software would inadvertently criminalize intellectual discourse, security research papers, or the discussion of cracking methods.",
+      "title": "Article 10--Re: <None>",
+      "topics": [
+        "password cracking",
+        "security research",
+        "academic freedom",
+        "software legality"
+      ]
+    },
+    "identity": {
+      "date": "30 Apr 92 16:48:35 PST",
+      "from": "brian@opac.osl.or.gov",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<1992Apr30.164835.1816@opac.osl.or.gov>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n20",
+      "subject": "Article 10--Re: <None>",
+      "to_or_newsgroups": "academic.freedom.talk",
+      "truncated_for_model": false
+    }
+  }
+]

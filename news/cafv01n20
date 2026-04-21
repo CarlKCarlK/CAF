@@ -1,0 +1,1686 @@
+Computers and Academic Freedom (news version)
+July 1991
+Vol. 1, No. 20
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is academic/news. Previous best-of-the-month issues are available as
+files April, May, and June.
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+[SPECIAL ISSUE: The Best of July
+
+The first notes discuss cases. Ohio State University and Steven Brack
+are back in the news. Recall that Mr. Brack was permanently expelled
+(without the chance for a formal hearing or appeal) from OSU's
+Academic Computer Services (ACS) computers. Now a Judicial Committee
+hearing will decide if Mr. Brack be should punished some more
+(apparently for the same alleged offenses). Mr. Brack is charged with,
+among other things, obscenity (i.e. typing "fuck you" in newsgroup
+note.) The third note about the Ohio State case is a reminder that
+only Mr. Brack's side of this case has been presented in this forum.
+
+In addition to the Ohio State case, there is a report of student of
+the University of Georgia being suspended for knowingly aiding
+crackers by supplying them with an encrypted password file. (The
+student seems to have received due processes.) There are also reports
+of due-process procedures being ignored at Virginia Commonwealth
+University and at Wayne State University.
+
+The next three notes are about searches of computer files. The first
+quotes the Joint Statement on Rights and Freedoms of Students on
+(noncomputer) searches. The next describes proposed federal rules
+on computer searches by the police. The third argues that a probable
+cause rule is enforceable.
+
+There are three notes about policy. In the first, I critique Ohio
+State ACS computer policy because it seems to allow expulsion from
+their computers without the opportunity for a formal hearing or an
+appeal. The next note outlines the topics that a model policy should
+cover. The last lists a proposed U.S. constitutional amendment. It
+would guarantee Constitutional protection (like freedom of
+expression) of computer users.
+
+The last two notes outline the contractual and constitutional
+constraints on sys admin (and University) authority. They explain that
+universities are under a contractual obligation to treat students
+fairly. Every administrator and student should read these notes.
+- Carl]
+
+In this issue:
+
+kadie            42  Ohio State
+kadie           166  >
+Steve Romig     108  Computers and Academic Fr<>ersion) 1.15 [should be 1.16?]
+Rita Rouvalis    89  student suspended for mailing passwords at U. of Georgia
+helen           291  "User recourse" (LONG) (was: Ohio State)
+jp               69  
+kadie            28  Ethics of "Peeking;" requirement to notify subject
+xanadu!hibbert  230  Proposed law on computer searches
+M K Thakur       64  >Legislating searches <EA7<>5E0A0C34A@ccmail.sunysb.edu> 
+kadie           150  >Ohio State ACS policy
+Aydin Edguer     48  >Authority of Public Universities
+Dean Gottehrer   69  27th Amendment
+Carl M. Kadie    65  Authority of Public Universities
+Carl M. Kadie    75  >
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Thu, 11 Jul 1991 13:02:40 GMT
+Message-Id: <1991Jul11.130240.8071@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+Subject: Ohio State
+
+Last quarter Steven Brack, a student at Ohio State, was indefinitely
+expelled from Ohio State's Academic Computing Services (ACS)
+computers.  Next month he is scheduled for his first hearing before
+the Judiciary Committee. The original charges were very vague (for
+example, he was accused of violating "miscellaneous rules"). At Mr.
+Brack's request, he was recently given a list of specific charges.
+
+Mr. Brack is accused of (this list is based on my notes from a
+telephone conversation; any mistakes are mine):
+
+1) typing the command "shutdown" on a Unix computer
+
+2) posting obscenities (i.e. the phrase "fuck you") to national
+builtin boards (i.e. the alt.flame and rec.aquaria newsgroups)
+
+3) being expelled by ACS from all University networks
+
+4) continuing his behavior on a student account on the engineering computer
+
+5) The free print job of another student's account was charged to Mr.
+Brack's social security
+
+6) Another student's account at Ohio State was used to access Mr.
+Brack's public account at the University of Denver.
+
+7a) keeping nonacademic files on the Mac server
+
+b) used multiple (i.e. two) Macs at the same time
+
+8) Stored 24 copies of a program, maliciously
+
+9) [same as #6?] Used an ACS computer, on which he did not have an
+account, to access his account at the University of Denver.
+
+- Carl
+
+p.s. A collection of caf-talk notes relating to Steven Brack and
+Ohio State are available via anonymous ftp from eff.org as file
+academic/ohio-state.
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Thu, 11 Jul 1991 15:37:12 GMT
+Message-Id: <1991Jul11.153712.9886@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <1991Jul11.145817.9405@eff.org>
+Subject: Re: Ohio State
+
+One of most important lessons I have learned from our discussions on
+the Computers and Academic Freedom mailing list is that good
+communications between users and sys admins is critical. As Sanjay
+Kapur, a sys admin at SUNY Stony Brook, wrote on June 20th:
+
+"My experience has taught me that ALL problems of abuse etc. come
+about due to lack of communications between the Systems staff and the
+users.  Direct access to the systems staff who actually manage the
+system in addition to access to a front office (e.g. an accounts
+offoce, a user support office, Student assistants) has to be a central
+element of any policy."
+
+The Ohio State affair could be a case study in what happens when
+communications breaks down and all actions are ascribed to malice.
+
+Remember how this all started. Mr. Brack reformatted the system manual
+pages on an HP workstation.
+
+Academic Computer Services's (ACS) viewpoint: Mr. Brack vandalized the
+system.
+
+Brack's viewpoint: It was an accident; I assumed it would only
+reformat only my personal manual pages. If reformatting is such a
+terrible thing to do, why are the file permissions set so that anyone
+can do it?
+
+In the next event, Mr. Brack got into a heated argument in alt.flame.
+He replied to someone else's note with the message "fuck you". (This
+is exactly the kind of message for which alt.flame was designed.) The
+note that Mr. Brack replied was set so that by default all replies
+would go to not only alt.flame but also rec.aquaria. Thus, Mr. Brack
+posted the message "fuck you" to the aquarium newsgroup.
+
+ACS's viewpoint: Mr. Brack is trying to make Ohio State look bad by
+posting rude messages to the world.
+
+Brack's viewpoint: I was tricked into posting to rec.aquaria. I didn't
+even know that replies could be directed to other groups.
+
+So how can ACS and Mr. Brack view the same events so differently? 
+William Murray's note of June 29 addresses this question:
+
+"The student knows that systems are robust.  'Pac-Man' never broke.
+'King's Quest' never broke.  You could push as hard as you wanted to;
+it never broke.  You could not get out of the 'land.' It did not
+break.  Yet.  Push!  Problems are related to hardware and software,
+not users.  The rules of the game are implicit in the game.  If you
+can do it, it is legitimate.  The way you 'win the game' is to explore
+the land to its outermost boundaries."
+
+"The system administrator knows that systems are fragile.  Most have
+come about by elaboration of earlier systems.  They were not designed
+of a piece.  Even when we do a major upgrade, we often include
+function from earlier systems, usually as an accomodation to users.
+This functionality often includes gratuitous generality and
+flexibility.  The systems have often been extended to support user
+populations which are much larger and less orderly than the ones for
+which the systems were conceived.  The result is systems which are not
+as robust as might be indicated or expected for their current use and
+user populations.  The system administrator knows this."
+
+Here are my comments on the specifics of the Ohio State affair.  [I'm
+quoting from my previous note.] Recall that the Joint Statement
+on Rights and Freedoms of Students says that "[t]he burden of proof
+should rest upon the officials bringing the charge."
+
+>Last quarter Steven Brack, a student at Ohio State, was indefinitely
+>expelled from Ohio State's Academic Computing Services (ACS)
+>computers.  Next month he is scheduled for his first hearing before
+>the Judiciary Committee.
+
+Either 1) Mr. Brack was punished without the chance for a hearing or
+2) that he is in jeopardy of being punished twice for the same offense
+(double jeopardy).
+
+>1) typing the command "shutdown" on a Unix computer
+
+He is not accused of executing this command; as an ordinary user
+it would be impossible for him to execute this command.
+
+>2) posting obscenities (i.e. the phrase "fuck you") to national
+>builtin boards (i.e. the alt.flame and rec.aquaria newsgroups)
+
+The phrase "fuck you" is rude, but protected speech. It is not
+obscene. The posting to rec.aquaria was accidental. The posting
+to alt.flame was consistent with the purpose of that newsgroup.
+
+>3) being expelled by ACS from all University networks
+
+This is not an offense on Mr. Brack's part. If ACS expelled Mr. Brack
+without due process, they have committed an offense.
+
+>4) continuing his behavior on a student account on the engineering computer
+
+Without more specific information this is not a legitimate charge.
+
+>5) The free print job of another student's account was charged to Mr.
+>Brack's social security [number]
+
+The other student charged the free print job to Mr. Brack's social
+security number with Mr. Brack's permission. They did this because
+the file that contained the other student's SSN was corrupted.
+
+>6) Another student's account at Ohio State was used to access Mr.
+>Brack's public account at the University of Denver.
+
+The other student accessed Mr. Brack's account at the University of
+Denver. This violates no Ohio State rules (or rules of the University
+of Denver system).
+
+>7a) keeping nonacademic files on the Mac server
+
+This violated no Ohio State rules. (Rather than ask
+Mr. Brack to remove his files; all his files were deleted.)
+
+>b) used multiple (i.e. two) Macs at the same time
+
+This is a petty accusation. Using multiple Macs when the lab is nearly
+empty violated no Ohio State rules. When asked to move to one Mac
+(because a class was expected), Mr Brack did.
+
+>8) Stored 24 copies of a program, maliciously
+
+This is false. Mr. Brack used 24 meg of disk space, but did
+not store 24 copies of any programs. This violated no Ohio State
+rules. When asked to free up disk space, Mr. Brack did.
+
+>9) [same as #6?] Used an ACS computer, on which he did not have an
+>account, to access his account at the University of Denver.
+
+Same as #6.
+
+In sum, you may not like Mr. Brack. You may have found his "fuck you"
+note offense and his subsequent defense of himself whinny. But whether
+you like him or not, the pettiness and weakness of the charges against
+Mr. Brack (he is not accused of causing any actual damage), support
+the conclusion that this whole affair has more to do with poor
+communications than with computer vandalism.
+
+I would hope that the charges against Mr. Brack would be dropped and
+that his computer expulsion would be ended. In the future, I hope that
+ACS will handle problems less hystically and more professionally by:
+
+1) working with the user community to create and implement a good
+written policy
+
+2) talking *with* (not "at") users when there is a problem 
+
+3) respecting their user's freedom of expression
+
+4) respecting their user's due process rights by punishing (when
+neccessary) users only after the user has had a chance for a hearing.
+
+What do you think?
+
+- Carl
+
+
+References
+
+The full text of all the notes I quoted from are available via
+anonymous ftp to eff.org in files academic/news/June,
+academic/ohio-state, and academic/student-rights.
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Date: Mon, 15 Jul 91 11:44:44 -0400
+From: Steve Romig <romig@cis.ohio-state.edu>
+Message-Id: <9107151544.AA12012@sonofa.cis.ohio-state.edu>
+Subject: Computers and Academic Freedom (news version) 1.15 [should be 1.16?]
+
+[Carl Kadie:]
+>I thank Karl Kleinpaste for posting. Several email notes to me have
+>said maybe folks at ACS would like to join the debate, but can not.
+>the debate. Thus, except for (my notes of) the charges against Mr.
+>Brack, this debate is likely lopsided.
+
+I know that the ACS employees have been instructed not to discuss this
+case on the net.  I suspect that this is at least in part due to
+concern for Mr. Brack's privacy in this affair.
+
+[Karl Kleinpaste:]
+>>I believe that ACS does not have the authority to ban someone from the
+>>entire university's networks.  They are responsible for the health of
+>>their own systems (hpuxa and magnus, notably), and for the campus
+>>Proteon ring and its off-campus connections.  They are not responsible
+>>for, and have no authority over, individual departments' machines and
+>>subnetworks.
+>
+[Carl Kadie:]
+>According to Mr. Brack, ACS did banned him from all university
+>networks.  He says a literal reading of the "agreement" would prohibit
+>him from using Ohio's computerized library system. I think Mr. Brack
+>agrees with Mr. Klinepaste that such a ban (would/does) exceeds ACS's
+>authority.
+
+Discussions about the various "charges" seem somewhat moot to me.  The
+rest of us aren't privy to the original copy of those accusations, and
+so we don't know whether this is a correct representation of what ACS
+tol Mr. Brack, or whether he has misunderstood or is misrepresenting
+their statements to him.  
+
+Not that I'm accusing him of doing so, but I think that we should bear
+in mind that we have not heard from both sides of the case, and that
+to make judgements about either Mr. Brack or Ohio State's ACS group at
+this point would be grossly unfair.
+
+[Karl Kleinpaste:]
+>>4. Dr Dixon also observed, in the 3rd of those 4 sentences, that there
+>>is "much more to the situation than has been said [in the newsgroups]."
+>[...]
+>
+[Carl Kadie:]
+>I posted (to the best of my ability) *all* the charges against Mr.
+>Brack. Dr. Dixon's observation reminds me of something Senator Joseph
+>McCarthy might have said. ("I have in my pocket a list of known
+>hackers.")
+
+Sigh.  Or maybe Dr. Dixon simply (and literally) meant that there was
+more to the case than had appeared in the newsgroups.  He certainly
+has at least one good reason for NOT making more information known:
+consideration for Mr. Brack's privacy in this case.  McCarthy is a
+convenient demon to conjure up, but I think the comparison is needless
+and unfair to Dr. Dixon.
+
+It seems to me to be a bit unjust (or at least premature) to make any
+claims about whether ACS is treating Mr. Brack unjustly or not, since
+we don't have access to the the rest of the facts (the other side of
+the story).  I doubt that we are likely to get an account of ACS's
+side at any point.
+
+If the University's Judicial Affairs Committee decides against Stephen
+on any of the charges brought up against him (which are not
+necessarily the same as the ones that Carl has posted), does that
+automatically make that an unjust decision?  Can we really claim
+anything like that without access to the rest of the story?  That
+seems to be what some people are saying, and that strikes me as
+unjust.
+
+--- Steve Romig, CIS Department, The Ohio State University
+-------------------
+
+>From kadie Thu Jul 18 11:19:57 1991
+To: cafb-mail
+~Subject: Computers and Academic Freedom mailing list (batch edition)
+Status: R
+
+
+Computers and Academic Freedom mailing list (batch edition)
+Thu Jul 18 11:18:26 EDT 1991
+
+In this issue:
+
+act31797@uxa.cso.u : Re: Freedom of communication                             
+Jim Nettleman <NET : Re: Freedom of communication                             
+William Hugh Murra :                                                          
+pwh@bradley.bradle : Re: Freedom of communication                             
+stan kulikowski ii : say it aint so, joe                                      
+tk0jut1@mp.cs.niu. : Re: Freedom of communication                             
+snorkelwacker.mit. : Re: Freedom of communication                             
+mojo.eng.umd.edu!r : Re: Freedom of communication                             
+ukma!psuvax1!hsdnd : Re: Ohio State                                           
+visix!news@uunet.u : Re: Freedom of communication                             
+zaphod.mps.ohio-st : "User recourse" (LONG) (was: Ohio State)                 
+europa.asd.contel. : Re: Ohio State                                           
+europa.asd.contel. : Re: Ohio State                                           
+"Dean Gottehrer" < : Freedom of communication                                 
+zaphod.mps.ohio-st : Re: Ohio State                                           
+lll-winken!iggy.GW : Re: "User recourse" (LONG) (was: Ohio State)             
+zaphod.mps.ohio-st : Re: Ohio State                                           
+zaphod.mps.ohio-st : Re: Ohio State                                           
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Date: Tue, 30 Jul 1991 01:34:20 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Jul30.013420.19111@eff.org>
+Subject: student suspended for mailing passwords at U. of Georgia
+
+[Reposted from Effector Online 1.09 with permission of author - Carl]
+
+
+                   STUDENT SUSPENDED FOR MAILING PASSWORDS
+                            by Rita Rouvalis
+
+The University of Georgia's (UGA) Student Judiciary has recently
+sentenced a student to two quarters suspension for e-mailing Athena's
+/etc/passwd file to an unauthorized user who wanted to break into the
+system. Intense debate ensued when the following post was made to
+eff.talk: 
+                             
+>The University will soon be issuing a news release about this incident.
+>In the meantime, here is a summary:
+
+>(1) A number of unauthorized users have been using various University
+>of Georgia computers. Most of them have left much more of a trail than
+>they realized and will be hearing from us. 
+
+>(2) The first person actually caught as part of this incident has now
+>been sentenced to 2 quarters' suspension, plus a probated expulsion,
+>by the Student Judiciary. This was a U.Ga. student whose name cannot
+>be released due to confidentiality of educational records. What this
+>student did was mail a copy of /etc/passwd from athena.cs.uga.edu to a
+>"hacker" who had already penetrated another system, and who wanted to
+>use a password-guessing program to break into athena. The student was
+>fully aware that he was assisting in a break-in. 
+> --  Michael Covington, sysadmin UGA
+                             
+Discussion was muddied considerably by confusion with other threads,
+and opinions were posted without factual basis. If one looks at the
+facts, one finds the student received surprisingly fair treatment from
+the University of Georgia, whether or not one agrees with the actual
+sentence. 
+
+Upon investigating an intrusion into one of the AI Lab's machines, the
+sysadmin for the AI lab found that the intruder had saved, on disk, a
+copy of Athena's /etc/passwd file with an email header indicating it
+had come from the student in question's account on Athena. Assuming at
+first that either the e-mail header was bogus, or that the student's
+account had also been hacked, the Athena sysadmins deactivated the
+account. Notice that this was a file saved under an unauthorized
+username; no e-mail was ever intercepted.
+
+Upon further investigation, the student admitted to being the
+owner/sender of this e-mail message. He also apparently admitted to
+being a member of an "elite group of hackers/phreakers," and knowing
+that the /etc/passwd file would be used to try to crack Athena.
+
+When the matter came before them, UGA officials felt the needs of the
+student would be better served if he/she was brought before the
+Student Judiciary instead of filing criminal charges. The only
+punishments the Student Judiciary can hand out are expulsion,
+suspension, and community service; all proceedings are kept
+confidential as required by federal law.
+
+According to UGA Student Judiciary policy, a student can choose either
+an administrative hearing, or a student court hearing before three
+specially trained students. In either case, the student is assisted by
+a trained defender (also a student) and has the right to have other
+people present for his defense. The hearing is supervised by UGA's
+staff of Judicial Programs and follow the same rules of evidence and
+procedure as a courtroom trial. If convicted, the student can appeal
+to the Vice President and to the President (which this student has
+done).
+
+Despite protests from a few netters about the sentence the student
+received, it is clear that the student court carefully considered the
+intent and personality of the student when handing down the sentence
+-- a consideration not taken in too many hacker cases. Officials felt
+that two quarters suspension would effectively remove the student from
+the influence of the hackers/phreakers and realign his priorities.
+Community service involving computers was not chosen for the express
+reason of not encouraging hacking to prove ability.
+
+While some netters may disagree with the sentence handed down, they
+should agree that this case was fairly and thoroughly handled by UGA
+officials. Their measured deliberation of all the issues involved
+should be used as an example in this era of hacker hysteria.
+
+EFFector Online will keep you posted as the case progresses...
+Portions of postings by Michael Covington, sysadmin of one of the UGA
+machines involved, are reproduced by permission.
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 17 Jul 91 21:38:04 GMT
+Message-Id: <17042@life.ai.mit.edu>
+Organization: The Internet
+From: zaphod.mps.ohio-state.edu!think.com!mintaka!ai-lab!wookumz.gnu.ai.mit.edu!helen@uunet.uu.net
+References: , <1991Jul16.133123.25502@ms.uky.edu>te.
+Subject: "User recourse" (LONG) (was: Ohio State)
+
+Since this discussion seems to have taken a turn here and there, it
+looked like time for a new thread name that more closely fits.
+
+In article <1991Jul16.133123.25502@ms.uky.edu> morgan@ms.uky.edu (Wes Morgan) writes:
+>helen@wookumz.gnu.ai.mit.edu (Helen O'Boyle) writes:
+>>I would like for it to be as easy for a student to challenge a sysadmin's
+>>action as it is for a sysadmin to challenge a student's action.  
+
+Wes adds....
+>I agree [ ... users ... ] should have such rights.
+>However, Helen then writes:
+>>Only trouble is, it takes DAYS to prepare a good complaint letter
+>There's an inconsistency here.
+>[...] you want the student/user to
+>have an effortless means of complaint/appeal?  If something is worth
+>fighting for, it's worth the expenditure of some effort. 
+
+An inconsistency?  In the procedures?  Yes.  In my rhetoric?  I beg to
+differ.  I did not advocate an "effortless" avenue of recourse for the
+user in all cases.  However, it is reasonable to want the effort required
+to bring action against either side to be near-equal, such that there is
+at least a small disincentive to each side to pursue unnecessary actions.
+At VCU, the procedures are currently biased in favor of the sysadmin (no
+assumptions made about anywhere else, not even the current status at my
+undergrad institution).
+
+>This underlying thread has been rampant in these discussions.  No offended
+>party wants to seek help within the University.
+
+Not entirely true, in my case.  In fact, I sought help SOLELY within
+the University.  It's that we (or at least I) tried and found it doing
+so to be more difficult than we (I) ever would have believed possible.
+Not only did it prove extremely difficult to convince people something
+was going on which needed to be stopped, but I found many people
+unwilling to listen to 5 minutes worth of my concerns.
+
+> We've seen such phrases 
+>as "I'm too busy to go sit in an office to complain" or "I didn't ask for
+>help from my advisor because he just wouldn't understand".  That, dear
+>readers, is a crock.
+
+Wes, a couple of points about _my_ situation, which might explain why the
+first (or second) response of someone who finds him or herself in this
+situation might not always be the most rational or the most effective:
+1.  They broadcast accusations of my wrongdoing, across most of the
+    University computing world before I'd lost enough Freshman naivete
+    to understand the structure of the school or even detect that the
+    complaints about "that user" referred to me.
+2.  I was accustomed to believing everything said by an authority figure
+    and thus spent several months SERIOUSLY wondering if I truly was as
+    much of a "computer criminal" as the sysadmin claimed.  I could
+    believe that I didn't completely understand the rules of electronic
+    community, yet doubted that in my well-intentioned ignorance I
+    could possibly have violated them as severely as was alleged.  In
+    order to accept that I did perhaps have a justifiable reason for
+    complaint, I first had to change some of my core beliefs and accept
+    that the sysadmin might be at least partially wrong.
+3.  For someone who spent her life in parochial school collecting
+    scholastic and service awards, the fact that "this is happening to
+    me" takes a minute or two to sink in, and it takes even longer to
+    understand how to defend oneself against it.
+4.  I _was_ a computer novice and didn't even understand some of their
+    accusations against me.
+5.  I'd never experienced a bureaucracy before.
+
+There are a whole list of phrases which describe this feeling, including
+"Help, I don't know where to turn!" and "I will seek help from anyone
+who might effectively provide it."  College students are often notoriously
+lacking in maturity, University connections, and background.  What may
+be your first choice, or mine today, might not be someone else's -- not
+because it's not a wonderful idea, or because the student didn't expend
+a specific degree of effort thinking of alternatives, but because other
+factors were involved.
+
+> If you have a problem, WORK TOWARD A RESOLUTION!
+
+All my posts have had a basic undercurrent of "Please, everyone,
+communicate and cooperate!", which is my summary opinion on this issue
+and many problems in the world today.  When working as a sysadmin in
+the Real World, I tried to follow that from "the other side of the
+fence" as well, to avoid problems before a resolution became necessary.
+
+>What's wrong with expending a bit of effort for something about which
+>you feel so strongly?
+
+Nothing!  It acts as a "barrier-to-entry" to the Bureaucratic War Zone,
+and is thus a Good Thing if it applies to everyone.  If the University
+requires a student user to do hundreds of hours of work to defend
+himself against a sysadmin who did much less work to put the user into
+water hot enough that a defense is required, however, I understand (not
+necessarily "condone") the student's inclination to feel annoyed.
+
+This is THE FIRST time I have discussed my situation in a public forum.
+Prior to the resolution in the mid-1980's, my free time was spent on
+action, not on rallying The World to my cause.  However, I see it as
+constructive to mention it, more than 5 years after the fact.  I'd like
+to see the related issues discussed enough by both users and system
+administrators that some consensus can be reached on how to avoid these
+situations, and how to solve them least-painfully when they do occur.
+Part of this includes identifying what leads to such situations.
+
+>Just out of curiosity, to whom did you present your problem?  [long
+>list of alternatives, all addressed in the next paragraphs].  I don't
+>think that your jerk sys-admin could reach *all* of those people.
+
+I would not have thought so either!  Alas, the perception that such
+an awkward situation is "not possible" contributes to the problem,
+because it delays its recognition even further.  If anyone gets
+anything out of all the posts on this subject, let it be "it CAN
+happen," and if it does, denial of it will exacerbate the situation.
+
+My initial attempts were to enlist the assistance of the faculty of the
+two computer-related departments in which I was taking classes.  I had
+not yet declared a major, and did not have a faculty advisor (though
+after I had declared my majors, I went to my advisors for help).  Some,
+the sysadmin had reached first, others did not wish to speak up on my
+behalf (especially true for the many untenured).  I went to the Deans
+whose authority included those academic departments.  Wrong chain of
+command, since they had no administrative authority over the academic
+campus computer center, which was not an academic department at all,
+and could do nothing outside of chat unofficially with the person in
+question (tried... didn't work).  Over the years, a number of faculty
+wrote letters in my defense.  Others said they could not afford the
+political problems it could create for their departments, since the
+central computing department apparently had a bit of a say in
+departmental computing funding as well.  Nothing helped.  There was
+no Ombudsman -- and VCU doesn't have one either.  When I read that Ohio
+State did, my reaction was, "Wow, what a WONDERFUL idea!  Every school
+should do that!".  The Dean of Student Affairs also took the sysadmin's
+word for things, as did the Vice President for Academic Affairs (the
+director's boss), and the Med-school and Administrative computer
+centers.  Pragmatically, it is much "safer", and the path of least
+resistance / least expected hassle in a bureaucratic environment, to
+believe the PhD director of a campus computing center and all his staff
+who would back him up, than to believe a student accused of wrongdoing
+and a few faculty who'd take the political risk of stating to others
+that the student hasn't had a fair chance.
+
+Again, I think much of the problem is that I did not recognize its
+existence until gossip had made the rounds SO far and wide that there
+was No Way the damage could ever be undone.  This was during the "War
+Games" era, when suspicion to the point of paranoia was socially
+acceptable.  People refused outright to tell me what the accusations
+were, preferring to say, "You know what you've done".  They did not
+officially charge me with any of it, nor did they present evidence on
+which the accusations were based (nor would anyone else acknowledge to
+me that they'd seen any).  Still the range of my "activities" was
+"common knowledge", because people heard it from "a reliable source."
+
+>>[regarding defending oneself against excessive sysadmin'ing]
+>>It is not fun, and in most cases is not worth the trouble.
+>It's "not worth the trouble", but it's easy enough to post to Usenet
+>about it?  That's great.  If you don't want to expend any effort, how
+>can you ever expect change to occur?
+
+As stated in a previous post, I _did_ expend SUBSTANTIAL effort, and
+still _do_ today.  Constructive effort.  I now try to see that no one
+at my current institution get into the same no-win situation.  This
+entails both occasionally defending the actions of well-meaning students
+to sys admins I know, AND helping students learn in such a way that
+mistakes which impact the system, and bad impressions left on sysadmins,
+are minimized.  Disclaimer:  I am not a VCU "cracker defender," and
+consistently refuse to help such people when they ask.
+
+> Most of the people who have been
+>slighted by sysadmins seem to see themselves as Don Quixote, tilting
+>against the administrative windmill.  You have other resources available
+>to you in the bureaucratic morass; use them!
+
+Yes, Wes Morgan, there are other resources available, such as the
+Provost's office and the University's general conduct policy.  It took
+three years before I'd even known something like that, which governed
+faculty and staff as well as students, existed AND could pertain to
+my situation.  It's not that I hadn't asked, or hadn't looked for such
+a document on my own.  Even once I knew the TITLE of the policy, it
+STILL took a week to find someone with a copy!  It took another several
+months to to steel my conscience to the idea of "attacking" someone else
+(via charges of violation of the conduct policy) as a defense of myself.
+I could bring myself to do it only when it appeared that my academic
+future at the University would be extremely jeopardized if I did not.
+The 7 page, 19 count grievance accused him of harassment -- including
+the monitoring of my email and files, malicious untrue comments which
+harmed my academic reputation, and a creative charge that I had violated
+the school computer use policy, which was apparently due to the sysadmin
+noticing that I had made some uncomplimentary but true statements about
+him in private email to other students.  After four years of unfounded
+accusations, my mail was the first and only thing he prosecuted me for
+-- by that time, his accusations no longer had the same effect, since
+members of the university had recently begun to question his judgement
+on other dissimilar matters as well, and I was acquiring the community
+support an unknown first year student typically lacks.  Also included
+in my allegations were denial-of-service concerns which would sound
+familiar to Mr. Brack.  Overkill, but in years, this was the first idea
+which stood a chance of resolving the situation.  The potential
+ramifications of the action did not hit home until the faculty
+investigator on the case asked me, "What do you want to see happen to
+him as a result of your grievance?".  My reply:  "Please, just make
+him stop."
+
+The grievance was found to have merit.  When the person in question
+failed to comply with the (confidential) terms of the resolution, it
+was necessary for the Provost to remind him of them again.  This
+situation was only one of a number of political problems the admin had
+at work, and several months later, his staff employment contract was not
+renewed.  Final notification of the resolution was given me only after
+I had written to the Governor of the state in which I was attending
+school, requesting that he intercede on my behalf.
+
+It is likely that the grievance, which took the department TOTALLY BY
+SURPRISE, would not have been as effective if they had not maintained
+the view, "She's just an undergrad who already has a reputation as
+trouble on school computers (created and reinforced by them!).  She
+can't do anything to us.  No one will listen to her."  What they did
+not take into account was that the director's credibility had eroded
+somewhat, and mine had increased somewhat (as a non-student computing
+employee of the university), to the point that my concerns could not
+be laughed off as those of a student troublemaker, whereas they might
+have been, years before.  AT LAST some people had been able to take
+a neutral view of the situation (whereas previously, they had been
+certain that the sysadmin was right), and reason prevailed.
+
+>A sysadmin or computing staff would certainly pay attention to any of 
+>the following:
+>	- Email from a significant number of users (real email, not 
+>	  just some form letter)
+Tried it, among friends and acquaintances.  Didn't work.  It made things
+worse, as it was perceived as an attempt to round up a "hacker gang."
+Similar to another poster's experience, these students, MERELY by being
+associated with me, became targets themselves (and were not happy about
+it, thus worsening "The Gulf of Understanding").  At least one was not
+considered for a job at school because of it.  Another faced charges
+under the Computer Use policy for engaging in an activity other students
+did, and continued to do, with no objection by the administration.
+
+>	- A petition loaded with user signatures (faculty and staff
+>	  signatures would help your case even more)
+>	- The typical college newspaper *loves* a rhubarb; why not
+>	  invite them to do a story?
+Didn't want to advertise what I considered a private matter to the world.
+It should not be necessary for a student to forego his/her privacy to
+gain relief from such a situation.  I wanted to avoid "stirring up the
+waters" at all costs, because the sysadmin in question had threatened
+to blackball me, in terms of local computer related employment, and any
+references for which he was asked (I once worked for his department),
+if I openly challenged his actions.  Since he had been able to get a
+false statement inserted into my University records, I believed he could
+do it even if the school tried to stop him.  It appeared that he would
+find some way to wave a petition or newspaper article in such a manner as
+it would help _his_ case, not mine.  "Not worth it", not because of TIME
+but because of increased risk to me.
+
+>	- A group of calm, well-spoken users who want to pre-
+>	  sent a problem in a rational manner.
+Tried it.  Didn't work.
+
+>	- If you have "local" Usenet groups, start a discussion there.
+Wes, the EXACT SAME administrator justified our school's TOTAL lack of
+NetNews by saying that some student might post something which was
+"embarrassing to the school" (Hi Mr. Brack, reading this? ;-).  However,
+Wes, I agree, that's a good list of suggestions on where to start.
+
+Some people may refer to this discussion as a continued flamefest,
+but I believe it is valid to engage in a bit of brainstorming on the
+subject, undisciplined though it may be at times, in order that we
+all learn a bit more about the issues involved.  I like to read about
+the creative ideas that some people have come up with.
+
+Lest it turn into a flamefest with three vocal people on each side, and
+the rest wondering when those people will give up, further comments on
+my specific experience will be addressed ONLY in email.  I hope other
+prominent posters in this thread will follow suit.
+
+>I'm sure that a little thought will generate more ideas along these 
+>lines.  If, in your opinion, these ideas require "too much effort", then
+>I don't think you're taking this problem seriously.
+>
+> morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+> morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+> morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+OK, then let me make a suggestion.  Since many of the same suggestions
+appear over and over, let's collect a "non-editorial" list of such ideas
+and put them somewhere in the comp.admin.policy or caf archives.  That
+way, people might be able to benefit from more ideas than they can think
+up themselves at a moment's notice if they find themselves or a friend
+in this situation.  Likewise, what about a list of creative ways for
+sysadmins to deal with these situations?
+-- 
+Helen C. O'Boyle          | Disclaimer:  just a VCU grad student in no
+isy5hob@cabell.vcu.edu    |              way speaking for the University
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Mon, 22 Jul 91 16:02:27 GMT
+Message-Id: <1991Jul22.160227.12830@tygra.Michigan.COM>
+Organization: CAT-TALK Conferencing Network, Detroit, MI
+From: zaphod.mps.ohio-state.edu!hobbes.physics.uiowa.edu!news.iastate.edu!sharkey!tygra!jp@uunet.uu.net
+
+References <1991Jul17.171651.14481@cs.umb.edu>, <1991Jul17.233857.27897@mailer.cc.fsu.edu>, <1991Jul18.142812.21327@ms.uky.edu>
+~Subject: Wayne State Just Ignores Student Rights (was Re: Ohio State)
+
+In article <1991Jul18.142812.21327@ms.uky.edu> morgan@ms.uky.edu (Wes Morgan) writes:
+"
+"A brief examination of the current "Student Rights and Responsibilities"
+"(which stays in my desk as a reference), reveals a complete description
+"of the procedures for implementation *and* appeal of University actions
+"against students.
+"
+"I would think that most Universities make a document such as this 
+"available to all students, either via surface mail or during the
+"student's advising/registration/enrollment procedures.
+"
+"
+
+You know, all of the rules and student rights policies and "rights to a 
+fair hearing" make no difference when the entire chain of command summarily
+ignores those rights.
+
+I know of a case at Wayne State University, in Detroit where that has 
+happened. 
+
+Students with greivances go first to their department head, then to the
+deans office. The student has a RIGHT under the "Student Due Process
+Policy" to have a formal hearing and to be able to call witnesses. Those
+witnesses, if employees or students of the University, are compelled to
+be there. 
+
+In  this particular case (involving computer access), the Ombusdman's 
+office ran into a brick wall at EVERY step of the procedure!!
+
+   * The department head didn't want to hear about it. He said
+     "go see the Dean". 
+
+   * The Dean said she could do nothing and refused to schedule
+     a hearing.
+
+   * The Vice Provost didn't know what the hell the Ombusdman was
+     talking about. "Due process policy? Never heard of such a
+     thing!"
+
+   * The matter was taken to the Board of Governors, since it was
+     their policy which was being circumvented. It didn't get past
+     their executive secretary who just referred it back to the
+     Ombudsman's Office for resolution.
+
+It seems that at Wayne State University, there is a shadow policy 
+which goes along with the Due Process Policy. This shadow policy
+must be a set of rules outlining how the various departments are 
+to avoid actually implementing the Due Process Policy. The result:
+(last I heard): Litigation will begin in the courts this autumn if
+the University fails to respect the student(s) rights after being
+given one last chance.
+
+The moral of the story: BEWARE: It doesn't matter how finely crafted
+your "Students Rights and Responsibilities Policy" is: There is 
+often a conspiracy of "good old boys" who have an unwritten agreement
+to "help each other out" and avoid having to answer for their crimes. 
+In the case of Wayne State University, the corruption runs the entire
+chain of command, from the departmental level right on up to the 
+Board of Governors.
+
+-- 
+CAT-TALK Conferencing System   |  "Buster Bunny is an abused | E-MAIL:
++1 313 343 0800 (USR HST)      |   child. Trust me - I'm a   | jp@Michigan.COM
++1 313 343 2925 (TELEBIT PEP)  |   professional..."          | 
+********EIGHT NODES*********** |   -- Roger Rabbit           | 
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Thu, 25 Jul 1991 15:26:14 GMT
+Message-Id: <1991Jul25.152614.11476@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <50910725144205.0003158580NA1EM@mcimail.com>
+Subject: Ethics of "Peeking;" requirement to notify subject
+
+Here is what the Joint Statement says about searches:
+
+[From AAUP Policy Documents and Reports, 1977 Edition]
+
+                        Joint Statement on Rights and Freedoms
+                                      of Students
+
+[...]
+
+B. Investigation of Student Conduct
+
+
+  1. Except under extreme emergency circumstances, premises occupied
+by students and the personal possessions of students should not be
+searched unless appropriate authorization has been obtained. For
+premises such as residence halls controlled by the institution, an
+appropriate and responsible authority should be designated to whom
+application should be made before a search is conducted. The
+application should specify the reasons for he search and the objects
+or information sought. The student should be present, if possible,
+during the search. For premises not controlled by the institution,
+the ordinary requirements for lawful search should be followed.
+
+[...]
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Fri, 26 Jul 91 15:14:01 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9107262014.AA00439@m.cs.uiuc.edu>
+Subject: FYI: Proposed law on computer searches
+
+Date: Thu, 25 Jul 91 14:53:15 PDT
+From: xanadu!hibbert@uunet.UU.NET
+Subject: Proposed law on computer searches
+
+Don Ingraham was one of the prosecutors who talked at the Conference on
+Computers Freedom and Privacy in March.  At the last session, he said he would
+write and propose new guidelines for prosecutors to follow that would take into
+account the concerns that were brought up at the conference.  Last month, he
+gave a talk at the first meeting of the Berkeley SIG on Freedom, Privacy, and
+Technology (affiliated with BMUG and CPSR-Berkeley).  He mentioned at that
+point that he had a draft, and I later asked him for a copy.  When I asked him
+if I could redistribute it, he not only gave me permission, but encouraged me
+to do so.
+
+If you have suggestions on how to improve the draft, or if you represent a
+relevant group (CPSR, EFF, ACLU, and ACM come to mind) and would like to offer
+Don official support, he'd very much like to hear from you.  Don isn't
+electronically connected, so you'll have to send him fax or paper mail, or call
+him on the phone.  If there is interesting discussion here, I'll tell him about
+it, but I don't promise to show him every word.
+
+What follows is first Don Ingraham's summary, then the draft bill, and finally
+his commentary on what it means, and what he'd like to have happen with it.
+This is an important proposal, and it looks like quite a good law.
+                                                                      Chris
+        hibbert@xanadu.com              uunet!xanadu!hibbert
+
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+               PROPOSAL FOR PENAL CODE SECTION 1538.6:
+                   ELECTRONICALLY STORED MATERIAL.
+
+    Revised 11 June 1991
+    Donald G. Ingraham, Assistant District Attorney, Alameda County,
+    1225 Fallon Street, Oakland CA 94612 4292  (415) 272-6232  fax 271-5157
+
+   The following is a proposal to add to the existing search warrant provisions
+of the Penal Code some particular restraints on the issuance of warrants which
+are required by federal law; it would also establish controls on the
+examination of electronically stored evidence seized in the course of a
+criminal investigation, and empower the Attorney General to monitor and
+regulate compliance with this law.
+
+There are four main aspects:
+   first, it recognizes the existing restraints of federal law, in particular
+the Privacy Protection Act (42 USC 2000aa) portion of the Civil Rights Act, and
+also chapter 212 of the Electronic Communications Privacy Act (18 USC 2700 et
+seq) dealing with stored electronic communications.  The portion of the ECPA
+which addresses the interception of electronic communications is covered by
+existing law.
+   second, it establishes the Attorney General of California in a monitoring
+and regulatory function, not unlike the function now performed in regard to
+criminal offender record information.  In the following text, references to
+federal law appear in parentheses.
+   third, it establishes criteria for the inventory and analysis of
+electronically stored evidence, and affords the person from whom it was seized
+and other interested parties standing and information to present their
+interests and concerns to the issuing magistrate.
+   fourth, it balances law enforcement's necessary investigative authority with
+the privacy and personal interests of persons affected by the investigation.
+
+   This topic is of such significance that it is suggested there be a specific
+legislative declaration such as this:
+
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+Legislative finding:
+
+    The legislature finds that investigation and prosecution of crimes in which
+computers are involved engenders a risk to other rights, including those to
+conduct a business, to publish, and to conduct private communications.  This
+section clarifies existing requirements of the federal Electronic
+Communications Privacy Act and the Privacy Protection Act, and also invests the
+Attorney General with authority to regulate the analysis and examination of
+electronic media seized under the authority of this chapter.
+
+Addition to Chapter 3, Search Warrants, Title XII, Special Proceedings
+of a Criminal Nature, California Penal Code.
+
+Section 1536.5
+
+   A search warrant for computer-related material cannot be authorized except
+in compliance with the following restraints.  All electronically stored
+material seized, under a search warrant or otherwise, shall be retained and
+analyzed as follows:
+
+  [a] if the content is reasonably apparently identifiable as intended for
+publication, a search warrant may be authorized only if the affidavit to that
+warrant specifically provides probable cause that the material is contraband or
+the fruits of a crime or things otherwise criminally possessed, or is property
+designed or intended for use, or which is or has been used as, the means of
+committing a criminal offense.
+     (This is directly from Title 42 USC 2000aa(7).]
+
+  [b] if examination of electronically stored communications indicates that any
+particular file is a communication intended to be private and neither party
+thereto is named as a subject of the search warrant, and the material has been
+in such storage for under 180 days, the investigating officer may not continue
+the analysis nor proceed further without obtaining a search warrant for stored
+electronic communication, as defined by regulations issued by the Attorney
+General.
+       (This is adapted from Title 18 USC 2703: the term
+        'search warrant for stored electronic communication'
+        appears in that Title as a term of art.]
+
+ [c] within five court days of any seizure of stored electronic material, the
+investigating officer will file a supplement to the inventory required by
+section 1537 which will list all electronic material with all available
+specificity, including but not limited to file names then identified, and
+indicate what procedures for analysis are being taken.  A copy of that and any
+subsequent inventories will be furnished to the subject of the search warrant.
+A further supplement will be filed with the issuing magistrate every tenth
+court day thereafter until all electronic material has been analyzed.  A copy
+of all such inventories will be part of the court record and open to public
+inspection.
+
+ [d] Electronic stored media will be analyzed as expeditiously as possible and
+in the following order: first, material recognizably necessary to the conduct
+of legitimate business and private communications; second, material
+recognizably central to the crime under investigation; third, material
+reasonably suspected of relating to the crime under investigation.  The
+magistrate shall direct the investigating office or prosecutor to return or
+copy such material to the owner, providing a receipt for the court record.
+
+ [e] After the filing of the initial inventory, any person who has reason to
+believe that he or she would be unfairly adversely affected in business or
+communications by the retention or analysis of the seized electronic material
+may petition the issuing magistrate for a hearing to demonstrate that the
+proposed retention and/or analysis would result in significant injury to a
+legitimate purpose.
+
+          [This provision expands upon existing Calif PC
+          1538.5, but is specific to electronic media; there
+          is no known federal counterpart.  The provision
+          for return by DA, receipt to Court, regular
+          accounting and standing to others affected is not
+          fantasy: we did as much in our Draper prosecution
+          with mutually beneficial effect.]
+
+  [f] The Attorney General shall establish regulations for the seizure,
+examination, and disposition of electronic material obtained in the process of
+criminal investigations consistent with the intent of this section that
+intrusion and disruption be as minimal as the requirements of an investigation
+permit, and in keeping with federal regulation.
+
+          [This section empowers the Attorney General to
+          keep computer related criminal investigations by
+          our law enforcement agencies consistent with
+          federal law, without the need to go to the
+          legislature to accommodate changes in the federal law.]
+
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+     Comment, primarily intended for prosecutors, but open to all
+
+  This is the draft of a bill on search warrants for electronically stored
+material, which will probably be introduced next session: I need to line up AG
+and other support for it to fly.  To put the idea in context, please be aware
+that Penal Code 1538.5 covers review of searches and is the basis of our
+traverse motions.  It seemed the logical place to put this, rather than in our
+Computer Crime section-502- or under privacy.
+
+  The idea is to get a legislative purpose statement, and then flag areas of
+concern and potential federal liability:
+
+  (a) flags the First Amendment Privacy Protection Act, 42 USC
+
+2000aa, which addresses : ... any work product materials possessed by a person
+reasonably believed to have a purpose to disseminate to the public a newspaper,
+book, broadcast, or other similar form of public communication, in or affecting
+interstate or foreign commerce.." which I try to boil down by the phrase
+"intended for publication", adding a prefatory qualification, that it be
+"reasonably apparently identifiable" as such.  The federal act makes no such
+allowance, although I cannot imagine a court imposing it: as it now reads it is
+rather like forbidding us to open any cabinet that may contain more than one
+paper clip, at our peril.
+
+    (b) does the same flagging as to Chapter 212, Electronic Communications
+Privacy Act, 18 USC 2700 et seq, again clarifying that it does not apply if one
+of the parties is already named in the warrant.  This would assume that the
+possibility of electronically stored communications was anticipated by the
+warrant, which should always be the case.  The legislative history is barren on
+this, but what standing would an intruder have to object?
+
+    (c) through (e) create something new, not in the federal law.  This
+basically is a response to the main complaint about the usual investigation,
+which is that the gear and files disappear into the maw of the eagle, and are
+seldom if ever heard from again.  Having someone say "we're working on it"
+every other month is not what I think James Madison had in mind.  I think that
+such limbo should not be imposed, assuming that it ever is, and the best way to
+keep that from happening would be to require a regular accounting and progress
+report.  This would not only be reasonable, but it would also accomplish two
+other boons: it would give us a need to keep our investigation going instead of
+watching our resources get reassigned, and it should forestall more draconian
+controls if this perception gets any more widespread.  We did exactly this when
+we prosecuted John "Captain Crunch" Draper, and it worked well.  I wouldn't try
+to process evidence any other way.
+
+   (f) would empower our Attorney General to establish regulations for the
+search of electronically stored material much as the AG now sets the policies
+on confidentiality and privacy of Criminal Offender Record Information/"rap
+sheets".  Going by administrative regulation rather than by way of additional
+legislation guarantees that we will not stray from federal rules, which should
+keep civil rights prosecutions of prosecutors per 42 USC 1983 at a minimum.
+
+
+    What is needed to bring this about?
+
+    The basic hope is to have it debugged and ready to submit by October: ready
+to submit means, among other things, that we have some organized support from
+concerned citizens.  The immediate hope is that both law enforcement and civil
+libertarians will see the wisdom of structuring what is now not as structured
+and be willing to support it.  The idea is to keep it clean and simple; if
+glitches later develop, we could amend it again, but the essential aspect at
+this point is to get legislative recognition of the fact that search warrants
+for electronic material are already different from search warrants for other
+things.  If we do that, and can get the Attorney General to agree, it should
+fly.  My fondest hope is that come October I could represent to the appropriate
+legislator that the AG, the CDAA, the ACLU, the CPSR, and the academic and
+business communities thought this a heck of an idea, and in their view
+essential.
+   In summary, and in particular regard to the concerns of prosecutors like me,
+this proposal would avoid the need to develop an electronic privacy measure in
+California by adopting the federal law, and giving the Attorney General the
+responsibility to keep up with its amendments through the California Code of
+Regulations.  Two other states, Utah and Florida, have crafted their own
+versions of the federal Electronic Communications Privacy Act; that independent
+course risks inconsistencies and uncertainties as the judicial process
+construes the ECPA.  The enactment of this proposal would avoid that, while at
+the same time providing all available guidelines to law enforcement and to
+citizens concerned with the freedom to use computer technology and with
+electronic privacy, who are, after all, a significant portion of the People in
+whose behalf we prosecutors are privileged to appear.
+
+Message-Id: <9107310026.AA02625@zerkalo.harvard.edu>
+Subject: Re: Legislating searches 
+             <EA7AC0D5E0A0C34A@ccmail.sunysb.edu> 
+Date: Tue, 30 Jul 91 20:25:53 EDT
+From: "Manavendra K. Thakur" <thakur@zerkalo.harvard.edu>
+
+>>>>> On Tue, 30 Jul 1991 11:39 EDT, Sanjay Kapur <SKAPUR@ccmail.sunysb.edu> said:
+
+> How are you going to catch a supersuser who can browse files without
+> any trace of such browsing?  What proof of violation of policy would
+> you have?  How would you prosecute a superuser without proof?
+
+If the sysadmin knows something that could have learned only by
+perusing a user's file, then that constitutes prima facie evidence
+that the sysadmin has conducted a search of the user's files.  What
+then remains to be determined is whether or not the sysadmin had
+proper and prior approval from a higher authority to conduct such a
+search.
+
+If a sysadmin wishes to introduce evidence against a user in the
+course of a disciplinary hearing, the sysadmin would be required to
+demonstrate, if challenged, the legality of any evidence introduced
+against the accused any disciplinary hearing - i.e. describe exactly
+what the evidence is; describe how, where, and when the evidence was
+gathered; and cite both the specific approval initially sought and the
+specific approval ultimately granted to conduct the search.
+
+If the sysadmin is unable or unwilling to document the legality of the
+evidence, then the evidence cannot be introduced in the disciplinary
+hearing and can play no role in the hearing.  Furthermore, failure to
+document the legality of evidence could then open the door for charges
+of privacy violation to be filed against the sysadmin.
+
+
+Such a system would create strong incentives for sysadmins and their
+bosses to get a proper approval for a search from a higher authority
+in advance.  Not only would illegally obtained evidence be barred from
+any disciplinary hearing, it would also make the sysadmin and their
+bosses liable for (possibly) conducting an illegal search.
+
+Finally, it is important to have a firm policy against sysadmin
+snooping, because it does happen now and then that a user will see
+bits and pieces of a private file on someone's terminal or possibly
+even in a publicly-readable file owned by the sysadmin.  Sysadmin make
+mistakes too, despite the ability to cover their tracks, and it's
+entirely possible that a user might catch the sysadmin in the act.
+Indeed, at least one contributor to this newsgroup has claimed to do
+just that.  Other contributors have suspected that a sysadmin was
+reading their private e-mail.
+
+To handle cases such as these, i.e. cases in which the sysadmin or
+some other party inadvertently reveals that unauthorized snooping has
+taken place, a firm policy against such violations of privacy would be
+necessary for affected users to prosecute their case.
+
+
+These are but some of the ways in which an anti-snooping policy could
+be enforced.  Such schemes are obviously not perfect, but one should
+not demand a perfect enforcement scheme before implementing such a
+policy.  Even with its weaknesses, an enforcement scheme such as this
+one has the potential for significant benefit.  At the very least,
+this enforcement scheme would address the most egregious cases of
+unauthorized sysadmin snooping, and that alone is a significant
+improvement over the situation that prevails today.
+
+Manavendra K. Thakur			 Internet: thakur@zerkalo.harvard.edu
+Systems Programmer, High Energy Division BITNET:   thakur@cfa.BITNET
+Harvard-Smithsonian Center for		 DECNET:   CFA::thakur
+Astrophysics				 UUCP:	   ...!uunet!mit-eddie!thakur
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Fri, 26 Jul 1991 15:38:10 GMT
+Message-Id: <1991Jul26.153810.5953@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <1991Jul24.041012.1592@eff.org>
+Subject: Re: Ohio State ACS policy
+
+This is a critique of a policy that was recently posted to the
+alt.comp.acad-freedom.talk newsgroup. Everything in quotes ("") is
+from the Joint Statement on Rights and Freedoms of Students.
+
+>                  Policy on Abuse of Computers and Networks
+>                      The Office of Academic Computing
+>                          The Ohio State University
+>                            Approved June 6, 1990
+
+It doesn't say. But policy "should be developed at each institution
+within the framework of general standards and with the broadest
+possible participation of the members of the academic community." In
+other words, this policy should be consistent with the University's
+general policies and should be developed with the help of the system's
+users.
+
+>The use of computers and computer networks in no wat exempts us from the
+>nominal requirements of ethical behavior in the University community.  Use
+>of a computer network that is shared by many users imposes certain
+>obligations.
+>In particular, data, software, and computer capacity have value and must be
+>treated accordingly.
+
+>Legitimate use of a computer or computer network does not extend to whatever
+>we are capable of doing with it.  Although some rules are built into the
+>computer's operating system, these restrictions do not limit completely what
+>we can do and see.  We are responsible for our actions whether or not the
+>rules are built into the system, and whether or not we can circumvent those
+>rules.
+
+Agreed.
+
+>The following specific principles of computer and network systems operated
+>under the direction of the Office of Academic Computing are applicable to Ohio
+>State students, faculty, staff, and contract employees.  As users we must:
+
+>	o  Respect the privacy and rules governing the use of any
+>	   information accessible through the computer system or
+>	   network, even when that information is not securely
+>	   protected.
+
+The policy could be improved by mentioned that ACS will respect
+the privacy and freedom of expression of its users.
+
+>	o  Respect the ownership of proprietary software.  For example,
+>	   do not make unauthorized copies of such software for your
+>	   own use, even when that software is not physically protected
+>	   against copying.
+
+>	o  Respect the finite capacity of systems, and limit your own
+>	   use so as not to interfere unreasonably with the activity of
+>	   other users.
+
+What is unreasonable? Who decides? Is any warning given?
+
+>	o  Respect the procedures established to manage the use of the
+>	   system.
+
+What procedures? How are they decided? Are they posted?
+
+
+>Those who cannot accept these standards of behavior may be denied access to
+>the relevant computer systems and networks.
+
+Will they be expelled from the computer forever? Can they ask for a
+hearing? Are the standards every made explicit? Who decides that
+the user cannot accept the standards? Is there any due process
+build in? Are students told of their rights?
+
+This policy lacks due process protections. The gist of the policy
+seems to be that 'if we decide that you break a rule (that we created,
+and you may not even know about), we can expel you from the computer
+forever.'
+
+Note that (at most schools) faculty can not (by themselves) expel a
+students from a class. It would be very strange of nonacademic
+University employees could (by themselves) expel students from a
+computer.
+
+Here are excerpts from the Joint Statement about due process.
+
+"      VI. Procedural Standards in Disciplinary
+                     Proceedings
+
+  In developing responsible student conduct, disciplinary
+proceedings play a role substantially secondary to
+example, counseling, guidance, and admonition. At the same
+time, educational institutions have a duty and the
+corollary disciplinary powers to protect their educational
+purpose through the setting of standards of scholarship and
+conduct for the students who attend them and through
+the regulation of the use of institutional facilities. In the
+exceptional circumstances when the preferred means fail
+to resolve problems of student conduct, proper procedural
+safeguards should be observed to protect the student from
+the unfair imposition of serious penalties."
+
+"The jurisdictions of faculty or student judicial bodies,
+the disciplinary responsibilities of institutional officials and the
+regular disciplinary procedures, including the student's right to
+appeal a decision, should be clearly formulated and communicated in
+advance."
+
+"In all situations, procedural fair play requires that the student be
+informed of the nature of the charges against him, that he be given a
+fair opportunity to refute them, that the institution not be arbitrary
+in its actions, and that there be provision for appeal of a decision."
+
+"The institution has an obligation to clarify those standards of
+behavior which it considers essential to its educational mission and
+its community life. [...] Offenses should be as clearly defined as
+possible and interpreted in a manner consistent with the
+aforementioned principles of relevance and reasonableness.
+Disciplinary proceedings should be instituted only for violations of
+standards of conduct formulated with significant student participation
+[...]."
+
+"2. Students detected or arrested in the course of serious violations
+of institutional regulations, or infractions of ordinary law, should
+be informed of their rights. No form of harassment should be used by
+institutional representatives to coerce admissions of guilt or
+information about conduct of other suspected persons."
+
+"C. Status of Student Pending Final Action
+
+  Pending action on the charges, the status of a student
+should not be altered, or his right to be present on the
+campus and to attend classes suspended, except for
+reasons relating to his physical or emotional safety and
+well being, or for reasons relating to the safety and well-being
+of students, faculty, or university property."
+
+"When the misconduct may result in serious penalties and if the
+student questions the fairness of disciplinary action taken against
+him, he should be granted, on request, the privilege of a hearing
+before a regularly constituted hearing committee."
+
+>Violators may also be subject to
+>penalties under the regulations of the University and under laws of the State
+>of Ohio or the United States of America to the extent applicable.
+
+
+>I have read the above conditions and agree to abide by these standards.
+
+>Signature: ________________________________________________ Date: ____________
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: 2 Aug 91 15:14:04 GMT
+From: edguer@alpha.ces.cwru.EDU (Aydin Edguer)
+Message-ID: <9108021514.AA12751@charlie.CES.CWRU.Edu>
+References: <1491@cameron.egr.duke.edu>
+Subject: Re: Authority of Public Universities
+
+> Hmm.  Mine is meant to be fair, but it reads very harshly in some sections.
+> I think we should probably start out discussing what exactly should be in
+> a computing policy guide.  After we decide on the outline (if we ever do),
+> we can attack the outline topics one-by-one.  I jotted down some ideas
+> earlier (although numbered they aren't in any real order):
+> 
+>      1.	An explanation of why the policy guide exists.
+>      2. Who is allowed to have an account.
+>      3. The rights, responsibilities, and authority of users.
+>      4. The rights, responsibilities, and authority of administrators.
+>      5. How cases of policy violations are dealt with.
+>      6. Specific policies, possibly with examples, minimum and maximum
+> 	punishments, etc.
+
+I would suggest that a good starting point would be the policy issues listed
+in RFC 1244 "Site Security Handbook":
+
+ - There are a number of issues that must be addressed when developing a
+ - security policy.  These are:
+ -
+ -    1.  Who is allowed to use the resources?
+ -    2.  What is the proper use of the resources?
+ -    3.  Who is authorized to grant access and approve usage?
+ -    4.  Who may have system administration privileges?
+ -    5.  What are the user's rights and responsibilities?
+ -    6.  What are the rights and responsibilities of the
+ -        system administrator vs. those of the user?
+ -    7.  What do you do with sensitive information?
+
+They are quite similar to those you have listed (great minds think alike?).
+
+RFC 1244 is a very good document that gives many references to books and papers
+on security, ethics, and the legal system.  It does not try to answer
+questions so much as give people some of the questions they must ask
+themselves and some of the resources they can consult to answer them.
+
+I think this is all that comp-academic-freedom can and should really do.
+All these discussions of exactly what a policy should say are pointless.
+They are nice as examples to work from, and perhaps having a pro- and con-
+critique of each policy would be nice but trying to come up with a universal
+policy is ineffective.
+
+Each institution needs to decide for itself what its policy should be,
+and once decided, it should try to uphold its policy in a fair and impartial
+manner.
+
+Aydin Edguer
+
+Message-Id: <9107200443.AA08721@eff.org>
+From: "Dean Gottehrer"  <FFDMG%ALASKA.BITNET@CORNELLC.cit.cornell.edu>
+Subject:  27th Amendment
+
+Here's the text of the 27th Amendment:
+
+This Constitution's protection for freedoms of speech, press, petition and
+assembly, and the protections against unreasonable searches and seizures and
+the deprivation of life, liberty, or property without due process of the law,
+shall be construed as fully applicable without regard to the technological
+method or medium through which information content is generated, stored,
+altered, transmitted, or controlled.
+
+For those who may not be familiar with Laurence Tribe, who proposes this
+amendment, he is Tyler Professor of Constitutional Law at Harvard Law School
+and is one of the nation's foremost scholars studying the Supreme Court and
+Constitutional Law.
+
+I'd like to clarify a few things in the discussion today about privacy.  1.
+Privacy was not considered by our Founding Fathers.  The right of privacy was
+first articulated by Brandeis when he was a student or soon after he graduated
+in a Harvard Law Review article in the late 19th century, as I recall.  2.
+Privacy does not lead to chaos.  The concept was built around the idea that
+there are somethings we all (or most of us) expect will be private.  The U.S.
+Supreme Court has found that expectation in the penumbra (their word, not
+mine) of a number of amendments to the constitution.  Simply put, there are
+areas where government has no business being.  The bedroom is one of the
+places and it led to legalizing contraceptive devices (yup, it was illegal to
+possess them or to tell people about them once upon a time in some states) and
+was also key in the argument to legalize abortion--that is a matter between a
+woman and her physician, the court said in Roe v. Wade.
+
+The right of privacy does not imply that you can do whatever you want as long
+as it is private.  (Although the Alaska Supreme Court did legalize personal
+use of marijuana under the state's constitutional right of privacy.  It was
+made illegal under a referendum last year and it will be interesting to see
+what the court does when that law is challenged.)
+
+You can't kill someone in private and claim privacy to get away with it.  But
+there are areas where you have an expectation of privacy and the government
+has no right to invade them.  Also, there are occasions when what is normally
+expected to be private may be looked at when violation of the law is suspected
+with reasonable cause.  You can't look at my bank account and neither can the
+government.  But the government can if it finds some evidence I have committed
+a crime and evidence of that crime can be found in my bank records.
+
+Many states make circulation records at libraries private.  I don't want the
+government looking at the books I check out to see what I am reading.
+
+There is a long history of privacy law dating back to Brandeis and I don't
+believe it has led to chaos in this country.  But that's just my humble
+opinion and I suspect others will disagree.
+
+Finally, I don't think that a privacy amendment to the constition would
+accomplish all of the same things Professor Tribe's amendment would.  What he
+is talking about is extending the rights we already have under the
+constitution to anything new that technology can devise.  For me it would
+certainly clear up the questions of whether you are free to say what you want
+on the computer of a state university tied into the net.  It would clearly
+extend that right.  And I think it would also prevent unreasonable searches
+and seizures on computers at state universities and require due process.
+
+While I don't give it much chance of ever being written into the constitution,
+I think it will draw attention to the problems and it offers a good political
+point from which to start.  As I've said before, I think the courts will
+establish these rights for us once a sufficient number of cases create law.
+Unless there is a sudden uprising of opinion, and I don't sense it except in
+relatively few places, the Congress is not likely to act.  Nevertheless, I
+think the amendment would be beneficial.
+
+Dean M. Gottehrer
+Anchorage, Alaska
+
+Date: Tue, 30 Jul 1991 20:21:26 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Jul30.202126.7529@eff.org>
+Subject: Authority of Public Universities
+
+The United States Constitution limits the authority of public
+universities and their employees. These limits are discussed in the
+book "A Practical Guide to Legal Issues Affecting College Teachers" by
+Partrica A. Hollander, D. Parker Young, and Donald D. Gehring.
+(College Administration Publication, 1985).
+
+The books says that the University is no longer considered "In
+Loco Parentis". The relationship is now contractual. Thus, a
+student at a public university has contractual and constitutional
+rights.
+
+=Freedom of Expression=
+
+Students have a First Amendment right to free expression. "The
+institution has a right, on the other hand, to reasonably regulate
+this expression as to time, place, and manner of expression so as to
+prevent disruption of the educationally process or interference with
+the rights of others, and prevent placing persons or property in
+danger."
+
+"Student newspapers at public institutions generally cannot be
+censored prior to publication.  Student editors usually are permitted
+to publish and take the risk of allegations of libel or obscenity.
+The student press at public institutions is subject to restrictions
+only where college official can 'reasonable forecast substantial
+disruption of material interference' with educational activities, or
+that the material is clearly libelous or obscene."
+
+=Freedom Against Unreasonable Searches and Seizures=
+
+"Teachers and administrators at public institutions generally are
+considered to be public officials, so, in most instances, they should
+search only with a warrant. Under emergency conditions, a search
+without a warrant possibly would be permitted."
+
+=Due Process= 
+
+"The Fourteenth Amendment requires due process before a governmental
+entity, such as a public institution, may deprive one of life,
+liberty, or property. In a college setting, a student's good name and
+reputation arm considered a 'liberty' right, and a student's right to
+attend college is considered a 'property' right. Due process would be
+required before a student is deprived of either at a public
+institution."
+
+"Substantive processes requires, essentially, that policies and rules
+must be related to the basic government purpose at hand that basic
+fairness be employed. For instance, college rules should be related to
+educational matters and applied fairly. Procedural due process
+generally refers to the requirement of notice and hearing before being
+deprived of a right. For example, before being expelled for
+misconduct, students should have notice of what they have done wrong
+and a chance to tell their side of the story."
+
+=Rules=
+
+"[T]he degree of specificity required [in codes of conduct] is that
+which would allow a student to adequately prepare a defense against the
+charge. Teachers should make plain the prohibited conduct, the
+procedure for determining whether a student engaged in such conduct,
+and what the penalty is."
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: 31 Jul 91 14:49:39 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-ID: <1991Jul31.144939.23532@eff.org>
+References: <1991Jul30.202126.7529@eff.org>
+Subject: Re: Authority of Public Universities
+
+I wrote:
+
+[...]
+>The books says that the University is no longer considered "In
+>Loco Parentis". The relationship is now contractual. Thus, a
+>student at a public university has contractual and constitutional
+>rights.
+[...]
+
+I have been asked "Can you give some details of the contractual rights
+(of the student) and obligations (of the University)?"
+
+Here is what A Practical Guide to Legal Issues Affecting College
+Teachers says:
+
+"Today, courts recognize that when a student pays tuition for a
+college education, a legal contract comes into being. The student has
+contracted for an education as advertised by the institution in its
+catalog and by its representatives. Some like to think of the student
+as a consumer of education, and an institution as a supplier of a
+product called education. The consumers is entitled to receive what
+was paid for. The old days of in loco parentis have been replaced by
+the law of contracts and the concepts of consumerism. This contractual
+relationship implies a property interest which also triggers
+constitutional guarantees at public institutions."
+...
+
+"Teacher As Agent of Institution
+
+When a teacher is acting within the scope of his or her employment, a
+teacher generally is viewed as the agent of the institution. A
+teacher's acts, then, are considered to be the acts of the
+institution. Thus, a teacher's acts can form the basis for liability
+of the institution. For example, if a teach of history refuses to
+follow the syllabus for a history course and insists on teaching more
+writing skills than history in the course, a dissatisfied student may
+sue the institution as well as the teach for breach of contract of
+enrollment."
+
+"Sources of Legal Rights and Responsibilities at Public and Private Colleges 
+[... Constitutions ... Statutes ... Contracts ...] 
+
+Policies of Governing Boards
+
+Policies of a board of trustees or board of regents usually set forth
+the mission of the college, student admission and graduation policies,
+and personnel policies. The policies become implicit and often
+explicit terms of the teacher's contract or the student's enrollment
+contract.
+
+Handbooks
+
+Student, faculty, staff and other handbooks contains the more detailed rules
+and regulations that implement the basic policies set by the governing
+board. These rules and regulations also become part of the contracts relating 
+to teachers and students.
+
+[... Professional Standards ... Custom and Traditions ... Duty and
+Reasonable Care Under the Circumstances ...]"
+
+...
+
+"Institutional Liability
+
+[...]
+
+Institutions may be solely liable where there is a breach of the
+student contract of enrollment, as where courses advertised in the
+catalog are not offered, or where students are suspended or expelled
+for misconduct without proper due process."
+
+...
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+
+

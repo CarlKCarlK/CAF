@@ -1,0 +1,40 @@
+Newsgroups: comp.admin.policy
+Subject:   Re: Computer Games
+Date: 15 Feb 1994 14:28:54 GMT
+Message-ID: <2jqm76$o98@s.ms.uky.edu>
+
+FRITZ <HAASFM@SLUVCA.SLU.EDU> wrote:
+>We have experienced many problems associated with the playing of computer 
+>games by students in our labs, especially those of a network variety (MUD's, 
+>DOOM, etc..).  They seem to generate a great deal of noise, network traffic 
+>and an intimidating enviroment for those who need to use the computers for 
+>legit academic purposes.  
+>
+>    What are the policies and experiences of other institutions and how well
+>are they being enforced.  I am interested in establishing a policy that is
+>both fair (if recreation is possible, then so be it) and enforeceable.
+
+Here's what we do:
+
+	PC Lab: We don't have a *published* policy.  We tell gamers, as
+	 	we see them, that gaming is acceptable *until* there are
+		fewer than 5 open PCs available.  We also tell them that
+		*one* case of a gamer refusing to give up their seat to
+		a more legitimate user will result in a total ban on games.
+
+	Unix:	I'm just restoring games after a six-year ban.  I've written
+		a small front-end program named "play" that will only allow
+		game execution:
+			- during non-prime hours (7 pm - 7 am)
+			- if fewer than 20 users are already playing
+		Privately-owned online games will be a no-no; however, I'll 
+		be happy to install the game under the "play" system upon re-
+		quest.  
+		
+--Wes
+
+-- 
+      Wes Morgan ----- University of Kentucky ----- morgan@engr.uky.edu
+Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+   GAT d(--) -p+ c++(++++) !l u++ e+ m* s++/++ !n h* f* !g w++ t+(++) r x+
+ And here's to you, Vicki Robinson; Usenet loves you more than you will know.

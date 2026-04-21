@@ -1,0 +1,576 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 7, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "The University of Waterloo restored banned newsgroups after a committee decided administration should not make non-financial decisions about what people read on campus.",
+        "University of Illinois issued an interim e-mail advisory regarding the privacy of electronic communications and access to files.",
+        "Congressional candidates in California's 14th District committed to protecting constitutional liberties against technological threats."
+      ],
+      "organizations": [
+        "Vanderbilt University",
+        "University of Illinois",
+        "University of Waterloo",
+        "Canadian Broadcasting Company",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Mark Sheehan",
+        "Carl M. Kadie",
+        "Johnny Wong",
+        "Stephanie Gilgut"
+      ],
+      "summary": "This digest summarizes several key debates regarding the intersection of computing and civil liberties in early 1992. Key themes include the tension between anonymity and harassment on campus networks, censorship of newsgroups by Canadian authorities and universities, and the emergence of university email privacy policies.",
+      "title": "Abstract of CAF-News 02.27",
+      "topics": [
+        "anonymity",
+        "sexual harassment",
+        "censorship",
+        "email privacy",
+        "netnews",
+        "civil liberties"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "sheehan@bronze.ucs.indiana.edu (Mark Sheehan)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 0 -- Abstract of CAF-News 02.27",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 30, 1992",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The CM3 system allowed students to post ideas anonymously to a three-way computer screen.",
+        "Anonymous electronic communication was used by students to direct offensive and sexual remarks at classmates.",
+        "The U.S. Department of Education investigated whether Vanderbilt's procedures were in compliance with department regulations regarding harassment."
+      ],
+      "organizations": [
+        "Vanderbilt University",
+        "U.S. Department of Education",
+        "Owen School of Management",
+        "Northern Territory University",
+        "Indiana University, Bloomington"
+      ],
+      "people": [
+        "Martin S. Geisel",
+        "Mark P. Neely",
+        "Elliott Mitchell",
+        "Rich England",
+        "Mark Sheehan"
+      ],
+      "summary": "A student filed a complaint with the U.S. Department of Education after being anonymously harassed on an electronic brainstorming system called CM3 at Vanderbilt University. The incident involved MBA students at the Owen School of Management using the system to post offensive and sexual remarks. The Department of Education launched an investigation to ensure university procedures complied with federal regulations.",
+      "title": "Sexual harassment at Vanderbilt",
+      "topics": [
+        "electronic brainstorming",
+        "sexual harassment",
+        "online anonymity",
+        "academic conduct",
+        "federal regulation"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 24 Jun 1992 16:50:00 EST",
+      "from": "sheehan@indiana.edu",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<mcs1.19920624@indiana.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 1--Sexual harassment at Vanderbilt",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jun 1, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Anonymity features in computing systems can shift legal liability from the perpetrator to the institution.",
+        "Peer pressure and network-level sanctions (e.g., losing news feeds) were primary methods of policing early networks before widespread student access."
+      ],
+      "organizations": [
+        "Penn State University"
+      ],
+      "people": [
+        "Gerry Santoro"
+      ],
+      "summary": "Gerry Santoro discusses the challenges of managing sexual harassment in university computing environments. He describes methods for identifying anonymous harassers and debates the utility of anonymous accounts versus the need to protect students from harm. The post highlights the tension between fostering open participation and preventing abuse on campus networks.",
+      "title": "Sexual Harrassment & Computers",
+      "topics": [
+        "sexual harassment",
+        "anonymous accounts",
+        "campus networking",
+        "academic freedom",
+        "online conduct"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 1 Jun 92 09:19 EDT",
+      "from": "\"Gerry Santoro - CAC/PSU 814-863-7896\" <GMS@PSUVM>",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<cmk1.199206030412.AA27212@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 2--[cmk1] Sexual Harrassment & Computers",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "4 Jun 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Anonymous posting services for PLATO notesfiles met requirements for academic anonymity by the end of the 1970s.",
+        "Students may avoid asking questions due to fear of peer or instructor judgment, making anonymous channels a significant pedagogical aid."
+      ],
+      "organizations": [
+        "University of Iowa",
+        "Electronic Frontier Foundation",
+        "University of Illinois"
+      ],
+      "people": [
+        "Douglas W. Jones",
+        "Carl M. Kadie"
+      ],
+      "summary": "Douglas W. Jones argues for the necessity of controlled anonymous communication tools in academic settings to encourage student participation and reduce fear of judgment. He discusses the technical challenges of trust in anonymous mail servers and suggests moderated newsgroups as a potential solution. He references the PLATO project at the University of Illinois as an early successful implementation of these features in the 1970s.",
+      "title": "Article 3--Anonymous postings",
+      "topics": [
+        "anonymous communication",
+        "academic freedom",
+        "pedagogy",
+        "PLATO",
+        "NOVANET"
+      ]
+    },
+    "identity": {
+      "date": "4 Jun 92 14:37:44 GMT",
+      "from": "jones@pyrite.cs.uiowa.edu (Douglas W. Jones,201H MLH,3193350740,3193382879)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<12951@ns-mx.uiowa.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 3--Anonymous postings (was: []  More S/H)",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 29, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The wizvax service is pseudonymous rather than truly anonymous, allowing for communication via aliases.",
+        "Identity disclosure for anonymous posters should require a legal warrant based on jurisdiction (e.g., Massachusetts).",
+        "Anonymity services are often used to protect individuals from social stigma regarding their lifestyles."
+      ],
+      "organizations": [
+        "University of California Santa Barbara"
+      ],
+      "people": [
+        "Jim Lick",
+        "Gary Mills"
+      ],
+      "summary": "Jim Lick responds to an inquiry regarding the anonymous posting facility at wizvax.methuen.ma.us and requests from authorities to identify posters on alt.sex.bondage. Lick argues that anonymity is essential for protecting users from social prejudice and asserts that identity disclosure should require a legal warrant.",
+      "title": "Re: Anonymous Contact Service @ wizvax",
+      "topics": [
+        "anonymity",
+        "pseudonymity",
+        "digital privacy",
+        "jurisdiction",
+        "internet governance"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 29 May 1992 22:26:37 GMT",
+      "from": "jim@ferkel.ucsb.edu (Jim Lick)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<jim.707178397@piggy>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 4--Re: Anonymous Contact Service @ wizvax",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "7 Jun 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Canadian police were seeking to prosecute individuals for obscene material transmitted via computer networks from the US.",
+        "The author claims that site operators transferring newsgroups across borders, rather than original posters, bear more responsibility for illegal transfers."
+      ],
+      "organizations": [
+        "Pavarini Communications Network"
+      ],
+      "people": [
+        "Phil Pavarini, Jr.",
+        "David McLaughlan"
+      ],
+      "summary": "Phil Pavarini, Jr. discusses the legal risks of transmitting obscene material across borders via Usenet, specifically regarding new Canadian anti-pornography laws. He suggests that US sites stop providing certain newsgroups to Canada and advises posters to use 'USA' distributions to avoid charges of knowingly sending illegal material into Canada.",
+      "title": "Article 5--Re: Anonymous Contact Service @ wizvax",
+      "topics": [
+        "censorship",
+        "cross-border data flow",
+        "Usenet",
+        "obscenity laws",
+        "jurisdiction"
+      ]
+    },
+    "identity": {
+      "date": "7 Jun 92 18:30:19 GMT",
+      "from": "pep@pcn.org (Phil Pavarini, Jr.)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1992Jun07.183019.15970@pavnet.pcn.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 5--Re: Anonymous Contact Service @ wizvax",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 8, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Boston University's IT policy prohibits 'offensive or annoying material'.",
+        "Iowa State University's computer ethics statement prohibits 'rude expression and any expression of a political nature'.",
+        "The University of Texas CS department prohibited material that would 'demean ... or that would otherwise bring discredit to the University'.",
+        "University of Waterloo previously banned rec.humor.funny and alt.sex* before restoring them."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "Boston University",
+        "University of Texas",
+        "Iowa State University",
+        "University of Manitoba",
+        "University of Waterloo",
+        "Electronic Frontier Foundation (EFF)"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Phil Pavarini Jr.",
+        "Brad Templeton",
+        "John McCarthy"
+      ],
+      "summary": "Carl Kadie argues against restricting Usenet newsgroups (such as alt.sex.*) based on national borders or university policies. He critiques the practice of using distribution labels to avoid varying international laws and highlights specific restrictive computer use policies at several universities. The post provides a curated list of resources regarding censorship bans at the University of Manitoba and University of Waterloo.",
+      "title": "Article 6--Re: Anonymous Contact Service @ wizvax",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "computer use policies",
+        "international law",
+        "newsgroup filtering"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 8 Jun 1992 03:31:30 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1992Jun8.033130.14724@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 6--Re: Anonymous Contact Service @ wizvax",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1988-1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Waterloo administration supported a ban on offensive jokes in newsgroups starting in December 1988.",
+        "A university committee concluded that administrations should not make non-financial decisions about what people can read on campus.",
+        "John McCarthy's experience reversing a similar ban at Stanford influenced the outcome at Waterloo."
+      ],
+      "organizations": [
+        "University of Waterloo",
+        "Stanford AI Lab",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Jonathan Richmond",
+        "Douglas Wright",
+        "J. Alan George",
+        "John McCarthy",
+        "Johnny Wong"
+      ],
+      "summary": "The University of Waterloo banned several Usenet newsgroups, including rec.humor.funny and alt.sex.bondage, starting in 1988 following pressure from a student. After community protests and an invited talk by John McCarthy, a committee recommended that university administrations should not make non-financial decisions regarding content access. The ban was officially lifted in May 1991.",
+      "title": "Article 7--Last year U. of Waterloo restored a.s.b",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "content filtering"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 5 Jun 1992 01:50:01 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1992Jun5.015001.11933@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 7--Last year U. of Waterloo restored a.s.b (was Re: Congrat ...)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 30, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The CBC report characterized wizvax as providing a 'how-to manual' for illegal sexual acts despite the owner's denial.",
+        "Content from US-based newsgroups was reaching Canadian university terminals via automated machine relay."
+      ],
+      "organizations": [
+        "CBC",
+        "wizvax"
+      ],
+      "people": [
+        "Jonathan Eifrig",
+        "Stephanie Gilgut"
+      ],
+      "summary": "Jonathan Eifrig critiques a CBC Radio report regarding wizvax and the alt.sex.bondage newsgroup. The post highlights how the media may misrepresent technical service providers as endorsers of obscene content by manipulating quotes. It serves as a cautionary tale for early internet operators on dealing with press inquiries regarding controversial content.",
+      "title": "Article 8--Just Say \"No!\" To Reporters",
+      "topics": [
+        "media representation",
+        "obscenity",
+        "Usenet",
+        "newsgroup moderation",
+        "press relations"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 30 May 1992 22:15:27 GMT",
+      "from": "eifrig@beanworld.cs.jhu.edu (Jonathan Eifrig)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<1992May30.221527.5614@blaze.cs.jhu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 8--Just Say \"No!\" To Reporters (Was: Congratulations!  You've made the evening news.)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April-June 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "This is believed to be the first time major-party congressional candidates committed to explicit action to protect technology-related civil liberties.",
+        "Proposed that constitutional protections for speech, press, and search/seizure apply regardless of the technological medium used."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Electronic Democracy Initiatives"
+      ],
+      "people": [
+        "Jim Warren",
+        "Laurence H. Tribe",
+        "Dixon Arnett",
+        "Tom Huening",
+        "Ted Lempert",
+        "Tom Nolan",
+        "Mike Maibach",
+        "Chuck Olson",
+        "Gerry Andeen",
+        "Anna Eshoo",
+        "James Blackman"
+      ],
+      "summary": "Several congressional candidates in California's 14th District signed formal commitments to protect 'Electronic Civil Liberties' against technological threats. The effort emerged from the First Conference on Computers, Freedom & Privacy (March 1991) and sought explicit legislative action to extend constitutional protections to electronic communications.",
+      "title": "Major Congressional Candidates Commit to Elec. Civil Liberties",
+      "topics": [
+        "electronic civil liberties",
+        "constitutional law",
+        "privacy",
+        "digital rights",
+        "legislative advocacy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "jwarren@AUTODESK.COM(Jim Warren)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<fwd.9206080338.AA02150@herodotus.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 9--File 3--Major Congressional Candidates Commit to Elec. Civil Liberties",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 27, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Electronic files of State of Illinois employees are considered public documents under the Illinois Freedom of Information Act.",
+        "Confidentiality of electronic media cannot be guaranteed due to routine maintenance and system administration."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "NCSA"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Allan H. Levy",
+        "Judith S. Liebman",
+        "Donald F. Wendel",
+        "George F. Badger"
+      ],
+      "summary": "The University of Illinois at Urbana-Champaign issued an interim electronic mail advisory to address the privacy of files on electronic media. The policy warns users that confidentiality cannot be guaranteed due to system administration and notes that electronic files are subject to the Illinois Freedom of Information Act. It establishes a guideline for network administrators to treat files as confidential unless governed by law or university policy.",
+      "title": "New U. of Illinois (and NCSA) Computer Privacy policy",
+      "topics": [
+        "computer privacy",
+        "email policy",
+        "FOIA",
+        "academic freedom",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 2 Jun 1992 01:10:50 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1992Jun2.011050.15719@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 10--New U. of Illinois (and NCSA) Computer Privacy policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "2 Jun 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Electronic files are treated as paper files under the Illinois Freedom of Information Act.",
+        "Email messages can be considered official office records subject to FOIA inspection."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "NCSA",
+        "Skidmore College"
+      ],
+      "people": [
+        "Leo D. Geoffrion",
+        "Sean Casey"
+      ],
+      "summary": "Leo Geoffrion discusses the application of the Illinois Freedom of Information Act (FOIA) to electronic mail at the University of Illinois. He argues that while most email is personal, certain messages constitute official records subject to public inspection. He suggests that users may need to keep personal and office files distinct to manage privacy.",
+      "title": "Re: New U. of Illinois (and NCSA) Computer Privacy policy",
+      "topics": [
+        "FOIA",
+        "email privacy",
+        "public records",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "2 Jun 92 12:04:32 GMT",
+      "from": "ldg@scott.skidmore.edu (Leo D. Geoffrion)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1992Jun2.120432.9595@scott.skidmore.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 11--Re: New U. of Illinois (and NCSA) Computer Privacy policy",
+      "to_or_newsgroups": "uiuc.general,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 4 Jun 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Strong encryption (like PEM) may make it impossible for administrators or government to read mail even with full system privileges.",
+        "The use of encrypted files could lead to legal battles over forced decryption and potential imprisonment for non-compliance."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "University of Illinois",
+        "NCSA"
+      ],
+      "people": [
+        "Sean Casey",
+        "Alan Levy",
+        "Carl Kadie"
+      ],
+      "summary": "Sean Casey discusses the implications of Privacy Enhanced Mail (PEM) and RSA encryption on government and institutional access to private data. He expresses concern that strong encryption will create legal conflicts regarding court-ordered decryption and the potential for a 'chilling effect' on student and faculty privacy.",
+      "title": "Re: New U. of Illinois (and NCSA) Computer Privacy policy",
+      "topics": [
+        "encryption",
+        "privacy",
+        "PEM",
+        "legal coercion",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 4 Jun 1992 02:30:32 GMT",
+      "from": "sean@ms.uky.edu (Sean Casey)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1992Jun3.223032.20875@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n27",
+      "subject": "Article 12--Re: New U. of Illinois (and NCSA) Computer Privacy policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

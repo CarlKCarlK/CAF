@@ -1,0 +1,86 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 24, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The NCSA email policy permits searches and punishment for users who 'attack' the University or NCSA.",
+        "The policy was created without consulting faculty, students, or researchers.",
+        "The Associate Director of NCSA interpreted 'attempts to disadvantage NCSA' as prohibiting attacks on the institution via email."
+      ],
+      "organizations": [
+        "National Center for Supercomputer Applications (NCSA)",
+        "University of Illinois",
+        "American Association of University Professors (AAUP)"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Michael Smith"
+      ],
+      "summary": "Carl Kadie criticizes a new email policy at the National Center for Supercomputer Applications (NCSA) that allows searches and punishment for users who 'attack' the University or NCSA. Kadie argues the policy is overly broad, lacks due process, and violates First and Fourth Amendment rights as well as university academic freedom standards. He specifically challenges the notion that contractual obligations to industry justify overriding individual privacy and expression on computer systems.",
+      "title": "New NCSA e-mail policy inconsistent with Academic Freedom",
+      "topics": [
+        "email policy",
+        "academic freedom",
+        "privacy",
+        "surveillance",
+        "First Amendment",
+        "Fourth Amendment"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "\"Carl M. Kadie\" <kadie@cs.uiuc.edu>",
+      "item_count": 2,
+      "item_index": 0,
+      "message_id": "<9104230942.AA06697@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n08",
+      "subject": "New NCSA e-mail policy inconsistent with Academic Freedom",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "NCSA implemented a policy on April 1st permitting mbox searches for users attempting to disadvantage the organization.",
+        "An employee was fired after being identified as the sender of spoofed emails."
+      ],
+      "organizations": [
+        "NCSA",
+        "University of Illinois"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl M. Kadie reports on a new email policy at the National Center for Supercomputing Applications (NCSA) following an incident involving anonymous emails. The policy reportedly allows the organization to search users' mboxes if they are suspected of using email to disadvantage the NCSA. This occurred after a student employee was identified and fired for sending messages spoofed as coming from Iraq.",
+      "title": "New NCSA e-mail policy inconsistent with Academic Freedom",
+      "topics": [
+        "email privacy",
+        "surveillance",
+        "academic freedom",
+        "employee termination",
+        "mbox searches"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "\"Carl M. Kadie\" <kadie@cs.uiuc.edu>",
+      "item_count": 2,
+      "item_index": 1,
+      "message_id": "<9104241937.AA28098@herodotus.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n08",
+      "subject": "Re: New NCSA e-mail policy inconsistent with Academic Freedom",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

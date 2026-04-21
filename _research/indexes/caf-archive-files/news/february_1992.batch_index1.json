@@ -1,0 +1,462 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Swiss network SWITCH banned newsgroups like alt.drugs and clari.news.terrorism based on potential illegality.",
+        "The 'alt' groups were created to fight suppression rather than by a collective of administrators for dangerous topics.",
+        "Carnegie Mellon University allegedly used threats of sexual harassment investigations to encourage self-censorship."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "SWITCH",
+        "Iowa State University",
+        "Carnegie Mellon University",
+        "University of Aston",
+        "MIT",
+        "NSFnet"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Brewster Kahle",
+        "Eric Jefferson",
+        "Paul Joslin",
+        "Elizabeth M. Reid",
+        "Adam C. Gross"
+      ],
+      "summary": "This digest summarizes multiple incidents regarding censorship and academic freedom on early networks, including the banning of Usenet newsgroups in Switzerland and Ireland. It highlights conflicts over password-cracking software possession, student privacy under FERPA, and the history of 'alt' groups as a response to suppression. The item also addresses network security tensions between MIT's TERMINUS server and NSFnet.",
+      "title": "Abstract of CAF-News 02.11",
+      "topics": [
+        "Usenet censorship",
+        "academic freedom",
+        "digital privacy",
+        "network security",
+        "alt groups"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 0 -- Abstract of CAF-News 02.11",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "20 Feb 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Switch implemented a four-category classification for newsgroups, including 'Prohibited' groups based on alleged Swiss law.",
+        "The banned list included non-pornographic topics such as talk.politics.guns and alt.politics.homosexuality.",
+        "Network administrators at universities were being forced into the role of official censors."
+      ],
+      "organizations": [
+        "EPFL",
+        "Switch",
+        "CHUUG",
+        "PTT"
+      ],
+      "people": [
+        "Alain Brossard",
+        "Peter Gilli"
+      ],
+      "summary": "Alain Brossard of EPFL criticizes Switch, the federal institution linking Swiss universities, for implementing a newsgroup classification system that bans various 'prohibited' groups. The banned list includes topics such as homosexuality, guns, and drugs, which Brossard argues exceeds legal requirements and constitutes censorship. He suggests alternative network feeds to bypass these restrictions and compares Switch's role to a common carrier like the PTT.",
+      "title": "Censorship and bigotism come up strong in Switzerland",
+      "topics": [
+        "Usenet censorship",
+        "academic freedom",
+        "network administration",
+        "Switzerland"
+      ]
+    },
+    "identity": {
+      "date": "20 Feb 92 17:07:52 GMT",
+      "from": "brossard@sic.epfl.ch (Alain Brossard EPFL-SIC/SII)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<1992Feb20.180752@sic.epfl.ch>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 1--Censorship and bigotism come up strong in Switzerland",
+      "to_or_newsgroups": "ch.general,ch.network,epfl.general,news.admin,eunet.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "24 Feb 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The distribution of abortion information was illegal in Ireland under a strident interpretation of the Eighth Amendment.",
+        "There was concern that allowing crosspostings to talk.abortion on local networks could lead to legal prosecution for distributing prohibited information."
+      ],
+      "organizations": [
+        "Trinity College Dublin",
+        "Society for the Protection of the Unborn Child"
+      ],
+      "people": [
+        "Paul Moloney"
+      ],
+      "summary": "Paul Moloney discusses the legal restrictions on abortion information in Ireland and how these laws apply to the internet. He questions whether hosting newsgroups that contain information on procuring abortions constitutes illegal distribution of such material. The post draws a parallel between network access and libraries holding telephone directories.",
+      "title": "The Irish Abortion Controversy",
+      "topics": [
+        "censorship",
+        "internet law",
+        "academic freedom",
+        "abortion information"
+      ]
+    },
+    "identity": {
+      "date": "24 Feb 92 22:28:48 GMT",
+      "from": "pmoloney@maths.tcd.ie (Paul Moloney)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<1992Feb24.222848.12187@maths.tcd.ie>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 2--REPOST: The Irish Abortion Controversy",
+      "to_or_newsgroups": "tcd.talk,soc.culture.celtic,talk.abortion,soc.women,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 23, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "ISU's Usenet policy was created without user participation and over the objections of the Computer Advisor Committee.",
+        "The administration redefined academic freedom to justify banning newsgroups that might offend others.",
+        "Federal court decisions like Doe v. U. of Michigan and UWM Post v. U. of Wisconsin were ignored in favor of censorship."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie authored a parody of Iowa State University's (ISU) Usenet news policy to criticize its censorship practices. The piece argues that the administration ignored academic freedom and legal precedents regarding sexual harassment and obscenity to justify banning specific newsgroups. It highlights the tension between computer administrators' control over network content and the university's role as a marketplace of ideas.",
+      "title": "What if the Iowa State U. Usenet policy was honest?",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "network policy"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 23 Feb 1992 20:13:24 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<1992Feb23.201324.12799@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 3--What if the Iowa State U. Usenet policy was honest?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Sat, 01 Feb 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The university's threat of investigation for continued complaints constitutes a 'chilling effect' on student speech.",
+        "Conditional forbearance by administration can be viewed as harassment of the student."
+      ],
+      "organizations": [
+        "Carnegie Mellon University"
+      ],
+      "people": [
+        "Howard Goldstein",
+        "Douglas Allen Luce",
+        "Jonathan Greenfield"
+      ],
+      "summary": "Howard Goldstein critiques Carnegie Mellon University's handling of a student's speech, arguing that the university's threat of investigation creates a 'chilling effect.' He contends that conditional forbearance by the administration acts as a form of harassment and an ethical failure in an academic setting. The discussion centers on whether certain behaviors constitute harassment or protected speech.",
+      "title": "Article 4--Speech Restrictions On Cm",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "chilling effect",
+        "student speech",
+        "harassment policies"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 01 Feb 92 17:40:00 EDT",
+      "from": "Howard.Goldstein@f20.n3603.z1.FIDONET.ORG (Howard Goldstein)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<46750.298C2BB3@psycho.fidonet.org>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 4--Speech Restrictions On Cm",
+      "to_or_newsgroups": "alt.censorship",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 16, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Possession of password-cracking software was treated as a violation of ethics by university administration.",
+        "University administrators monitored system processes to identify 'unethical' software like Crack."
+      ],
+      "organizations": [
+        "Ball State University",
+        "The Indiana Academy for Science, Mathematics, and the Humanities"
+      ],
+      "people": [
+        "Bryan Strawser"
+      ],
+      "summary": "Bryan Strawser reports that his university's Unix system administrators implemented restrictive policies and warnings after discovering password-cracking software on several user accounts. Strawser argues that the mere possession of such tools for research purposes should not be equated with unethical behavior or a violation of privileges. He highlights the tension between academic security research and institutional administrative control.",
+      "title": "Article 5--(none)",
+      "topics": [
+        "academic freedom",
+        "computer security",
+        "password cracking",
+        "administrative policy",
+        "security research"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 16 Feb 1992 09:45:36 GMT",
+      "from": "feanor@bsu-cs.bsu.edu (Bryan Strawser)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<9202161945.AA24863@bsu-cs.bsu.edu>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 5--(none)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "Server operators can track exact user interests and locations via logs.",
+        "The lack of human contact in digital interactions may lead to a decay in respect for patron privacy.",
+        "Users may be less willing to explore new or 'silly' subjects if they believe their queries are being monitored."
+      ],
+      "organizations": [
+        "Thinking Machines",
+        "EFF"
+      ],
+      "people": [
+        "Brewster Kahle",
+        "Mitch Kapor",
+        "Sherry Terkle",
+        "Whitfield Diffie"
+      ],
+      "summary": "Brewster Kahle discusses the ethical responsibilities of operators of electronic information systems, specifically using the Wide Area Information Server (WAIS) as an example. He warns that server logs can reveal a user's private interests and identity, potentially chilling intellectual curiosity if users feel watched. Kahle proposes a code of ethics for 'digital librarians' to protect patron privacy and maintain trust in emerging electronic publishing systems.",
+      "title": "Ethics of Digital Librarianship",
+      "topics": [
+        "privacy",
+        "digital librarianship",
+        "WAIS",
+        "information ethics",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Brewster Kahle <brewster@Think.COM>",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<fyi.199202191413.AA07128@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 6--Ethics of Digital Librarianship",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 6 Feb 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Institutions may not require a waiver of FERPA rights as a condition for admission or receipt of services.",
+        "Directory information is defined as data that would not be considered harmful or an invasion of privacy if disclosed."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Joan E. Van Tol",
+        "Hyman"
+      ],
+      "summary": "Carl Kadie questions whether a university can legally condition the provision of services, specifically student computer accounts and email access, on a student's agreement to release directory information. He cites FERPA regulations and legal compendiums to explore the boundaries between privacy rights and institutional requirements.",
+      "title": "Requiring students to release directory information",
+      "topics": [
+        "privacy",
+        "FERPA",
+        "student computer accounts",
+        "academic freedom",
+        "directory information"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 6 Feb 1992 23:31:59 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<1992Feb6.233159.24859@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 7--Requiring students to release directory information",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 26, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "User accounts were disabled without prior warning or communication via available contact methods."
+      ],
+      "organizations": [
+        "University of Aston"
+      ],
+      "people": [
+        "Mark Evans"
+      ],
+      "summary": "Mark Evans reports that his accounts at the University of Aston were disabled without prior notice due to alleged network congestion caused by a program he was running. He criticizes the system administrators for disabling access rather than communicating with the user first.",
+      "title": "Article 8--Sys-admins shooting first",
+      "topics": [
+        "system administration",
+        "user rights",
+        "network management",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 26 Feb 92 19:21:51 GMT",
+      "from": "mpevans@isis.cs.du.edu (Mark Evans)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<1992Feb26.192151.6435@mnemosyne.cs.du.edu>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 8--Sys-admins shooting first",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Feb 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The NSF typically avoids acting on USENET discussions until a formal paper complaint is received.",
+        "Responsibility for unapproved network use lies with insecure destination systems that fail to provide adequate authentication.",
+        "Network privatization will likely eliminate open-access services like TERMINUS due to the need for traffic monitoring and source-address billing."
+      ],
+      "organizations": [
+        "NSF",
+        "MIT",
+        "Data Research Associates, Inc"
+      ],
+      "people": [
+        "Sean Donelan"
+      ],
+      "summary": "The author discusses the controversy surrounding TERMINUS, a system providing open access to the network, and whether the NSF should regulate its use. The post argues that the responsibility for security lies with the destination systems rather than the transit provider (MIT) or the NSF. It also suggests that the privatization of the network will likely end such open-access services due to traffic control and billing needs.",
+      "title": "Article 9--Re: NSFnet rules of use and terminus",
+      "topics": [
+        "NSFnet",
+        "network security",
+        "academic freedom",
+        "privatization",
+        "TERMINUS"
+      ]
+    },
+    "identity": {
+      "date": "18 Feb 92 21:58:24 CST",
+      "from": "sean@sdg.dra.com",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<1992Feb18.215827.4@sdg.dra.com>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 9--Re: NSFnet rules of use and terminus",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,alt.security",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "27 Feb 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The 'alt' hierarchy was created to bypass the control of backbone site administrators.",
+        "The group 'comp.women' caused a rift among backbone administrators who viewed it as too political for the 'comp' hierarchy.",
+        "Users interested in academic freedom and civil liberties often prefer the 'alt' hierarchy to avoid formal voting processes."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "UUNET"
+      ],
+      "people": [
+        "Chris Lewis",
+        "Jurgen Botz",
+        "Carl M. Kadie"
+      ],
+      "summary": "The post discusses the origins of the Usenet 'alt' hierarchy as a response to censorship by the 'backbone cabal' and restrictive group creation guidelines. It highlights conflicts over non-technical or political groups, such as 'comp.women', which were refused by some system administrators despite passing votes. The author notes that groups related to academic freedom and civil liberties often reside in the 'alt' hierarchy because their creators view formal voting procedures as overly restrictive.",
+      "title": "Article 10--Re: History of \"alt\" groups",
+      "topics": [
+        "Usenet history",
+        "censorship",
+        "network governance",
+        "alt hierarchy"
+      ]
+    },
+    "identity": {
+      "date": "27 Feb 92 04:32:24 GMT",
+      "from": "clewis@ferret.ocunix.on.ca (Chris Lewis)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<3198@ecicrl.ocunix.on.ca>",
+      "source_kind": "news",
+      "source_path": "news/february_1992",
+      "subject": "Article 10--Re: History of \"alt\" groups",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,news.misc",
+      "truncated_for_model": false
+    }
+  }
+]

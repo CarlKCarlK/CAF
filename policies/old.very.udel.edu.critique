@@ -1,0 +1,142 @@
+Newsgroups: alt.comp.acad-freedom.talk
+Path: eff!eff-gate!usenet
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: Re: U. of Deleware computer policies
+Message-ID: <9111181713.AA13375@dsacg2.dsac.dla.mil>
+Sender: nbc2134@dsacg2.dsac.dla.mil
+Organization: EFF mail-news gateway
+Date: 18 Nov 91 07:13:04 GMT
+Approved: usenet@eff.org
+Lines: 61
+
+
+In reply to the mail from <kadie@eff>...
+-------------------------------------------------------------------------------
+From the University of Delaware draft statement:
+>
+>Academic Honesty
+>
+>Faculty and students are reminded that computer-assisted plagiarism is
+>still plagiarism.  Unless specifically authorized by a class
+>instructor, all of the following uses of a computer are violations of
+>the University's guidelines for academic honesty and are punishable as
+>acts of plagiarism:
+
+[....]
+>
+>-       working together on an assignment, sharing the computer files
+>or programs involved, and then submitting individual copies of the
+>assignment as your own individual work
+
+[....]
+>
+>For further information on this topic, students are urged to consult
+>the University of Delaware Official Student Handbook, to consult with
+>their individual instructors, and to refer to the pamphlet "Academic
+>Honesty & Dishonesty: Important information for faculty and students."
+>
+>Faculty members are urged to develop specific policies regarding all
+>aspects of academic honesty and to communicate those policies to their
+>students in writing.
+>
+
+As a computer science major in school, and now a professional in system
+engineering, I'm somewhat concerned with this statement.  In the "real world",
+we work with our collegues constantly to determine the best or most efficient
+or least painful (etc.) way of doing whatever needs to be done.  This includes
+sharing source code and common routines.  In fact, all source code exists in a
+central repository that anyone can access; there are even fairly sophisticated
+inquiry functions to allow extraction based on specified criteria.
+
+My point here is this:  How does talking with a collegue (presumably in this
+case a student) about an assignment constitute plagarism?  Is there a
+difference between talking about an upcoming paper and how to best approach it
+and talking about an upcoming computer project and how best to approach it?  I
+understand that from a pedagogical standpoint it's important to make each
+student learn the concepts on one's own, but at the same time I fail to see
+how consultation becomes plagarism.  For example, what if several students got
+together to develop a common set of test data?  This would constitute
+plagarism under the above-quoted policy, but I hardly think that it is.
+
+
+
+Bob
+
+
+
+
+Bob Solon, DSAC-BCC
+Administrative Information Branch -- APCAPS
+
+"We Code, You Explode!!"
+
+
+Path: eff!iWarp.intel.com|uunet!cs.utexas.edu!asuvax!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Plagiarism, was Re: U. of Deleware computer policies
+Message-ID: <1991Nov20.142702.12385@ms.uky.edu>
+Date: 20 Nov 91 14:27:02 GMT
+References: <9111181713.AA13375@dsacg2.dsac.dla.mil>
+Organization: The Puzzle Palace, UKentucky
+Lines: 58
+
+nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+>>-       working together on an assignment, sharing the computer files
+>>or programs involved, and then submitting individual copies of the
+>>assignment as your own individual work
+>
+>My point here is this:  How does talking with a collegue (presumably in this
+>case a student) about an assignment constitute plagarism?  Is there a
+>difference between talking about an upcoming paper and how to best approach it
+>and talking about an upcoming computer project and how best to approach it?  
+
+In some ways, I think that there are significant differences.  For instance,
+discussing a history paper may yield pointers to reference works or previously
+published papers.  If you "lift" verbatim packages from those works, you run
+a substantial risk of getting caught.  However, discussing a computer program
+naturally leads to sharing code, even if it's just an algorithm scribbled on
+a sheet of paper.  I've seen students passing around library books, extracting
+code from the examples as they go.  In my mind, this is plagiarism.  It's much
+more difficult to prove, but it's still unethical in my mind.
+
+As you mentioned in your original posting, code sharing is widespread in
+the "real world", but someone had to develop that code in the first place.
+If the current CS student just "reuses" code from textbooks/examples/other
+sources, there's a strong chance that he will never really understand what
+he's doing. 
+
+Personally, I think that COBOL is alive because of this technique.  I've
+spoken with many DP types who've said things like "I'd love to go to C,
+but I don't know how to do XXX, and we've already got COBOL code that does
+it, so why not stick with it?"  It's a sad commentary on that particular
+person, but it's a common problem.  Of course, I just revceived an advert
+for a COBOL-to-C translator..........8(
+
+I've seen students run old FORTRAN code through the PD "f2c" program, using
+the results in their assignments.  In fact, I knew a student who received a
+B in the file processing class (which used C) by simply writing FORTRAN all
+semester and converting it to C.  While that is definitely ingenious, it
+is NOT education.
+
+>I
+>understand that from a pedagogical standpoint it's important to make each
+>student learn the concepts on one's own, but at the same time I fail to see
+>how consultation becomes plagarism.  For example, what if several students got
+>together to develop a common set of test data?  This would constitute
+>plagarism under the above-quoted policy, but I hardly think that it is.
+
+I'd argue that it's the instructor's responsibility to generate test datasets.
+That's been the method used in every programming course I've ever taken.  When
+the instructor hands out the assignment, there is at least one set of test 
+data.
+
+The advent of computing in academia has forced us to redefine many concepts;
+I think that plagiarism is definitely in need of redefinition/reevaluation.
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+

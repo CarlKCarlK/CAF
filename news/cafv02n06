@@ -1,0 +1,812 @@
+Computers and Academic Freedom News
+Vol. 02, No. 06
+
+[Week ending February 9. 1992
+
+  [This week's guest editor is Adam C. Gross,
+   ag3j+@andrew.cmu.edu. The February 2nd issue
+   is still in production. - Carl]
+
+ 
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+ 
+Notes 1-6 are about the Eric Jefferson case at Carnegie Mellon, where a
+student was accused of sexual harrasement because of a series of his
+postings to a local bboard.
+ 
+1. The university's threats of an investigation if the postings don't
+stop promotes self censorship.
+    <46750.298C2BB3@psycho.fidonet.org>
+ 
+2. "Users were and are free at any time to refrain from
+reading articles from the poster in question.  They apparently did
+not do so.  Therefore, they _chose_ to read more from the poster,
+thus invalidating the unwantedness criterion of the EEO definition. [of
+sexual harresment]"
+    <9202032245.AA03081@dsacg2.dsac.dla.mil>
+ 
+3. Public universities are probhibited from banning 'politically
+incorrect' speech because of the _Doe v. U. of Michigan_ and _UWM Post
+v. U. of Wisconsin_ rulings.
+    <1992Feb4.210805.11317@eff.org>
+ 
+4. [A CMU student:] The university supported mail readers do not allow a
+user to suppress another individuals posts.
+    <0dXzHyC00UgII0ilcP@andrew.cmu.edu>
+ 
+5. "CMU is embarking on a slippery slope, as do all who wish to
+supress expression for any reason.  It is impossible to objectively
+determine what might be "intimidating, harassing, or sexually
+harassing."  The search for truth is compromised when _any_ expression
+is supressed."
+    <9202071322.AA09866@dsacg2.dsac.dla.mil>
+ 
+6. [A CMU student:] "[This] IS about suppressing speech that was
+merely offensive." "[H]ow can it be harassment when one can easily
+ignore the message or not even read it at all?"
+    <wdYcdhe00awU03pVd6@andrew.cmu.edu>
+
+Notes 7-9 are about the disclosure of personal information on the U of
+Illinois systems through such programs as finger.
+
+7. [A U of Illinois student:] "Before the new software was installed, an
+account holder could alter how he/she was identified when another
+computer user on the same or a connected system requested information
+about that person using the finger program. The current software has the
+fingerd program return part or all of the person's legal name.  I must
+protest this change, and request 
+that the problem be fixed."
+    <1992Feb3.224647.28831@ux1.cso.uiuc.edu>
+ 
+8. [A member of the U of Illinois Computing Services Office:] "CCSO
+believes the perception of anonymity leads to increased belligerence and
+decreased sense of responsiblity for one's actions.  The fact that one
+is ultimately traceable does not have the same effect as being
+immediately identified."
+    <1992Feb4.193335.16780@ux1.cso.uiuc.edu>
+ 
+9. Under what curcumstances can the university disclose or require
+personal information about a student? Enclosed excerpts from the
+Family Education and Privacy Rights of Act provide a partial answer.
+    <1992Feb6.233159.24859@m.cs.uiuc.edu>
+ 
+Note 10 is about the availability of some newsgroups at U of Oregon.
+
+10. [The director of Network Services at the U of Oregon:] Techincal
+limitations of the most popular Mac newsreader force limited USENET
+availability.
+    <199202052354.AA01561@eff.org>
+
+- Adam]
+
+
+In this issue:
+
+Howard Goldstein 49  Speech Restrictions On Cm
+Robert F Solon   90  >Speech restrictions on CMU computers
+Carl M. Kadie    27  >Speech restrictions on CMU computer bboards
+John W Hollis    23  >
+Robert F Solon   57  The Dark Ages Revisited (<>Re: Supression on speech on CM
+C M Restifo      50  >Speech restrictions on CMU computer bboards
+Memphis TN       81  Complaint letter about fingerd change
+Steve Dorner     71  >an open letter to the cso.gods
+Carl M. Kadie   138  Requiring students to release directory information
+JQ Johnson       33  >Usenet News Selection Policies
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, or Carl M. Kadie). It
+is not an EFF publication. The views an editor expresses and editorial
+decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From caf-talk Caf Feb  3 00:00:00 1992
+From: Howard.Goldstein@f20.n3603.z1.FIDONET.ORG (Howard Goldstein)
+Newsgroups: alt.censorship
+Subject:  Speech Restrictions On Cm
+Message-ID: <46750.298C2BB3@psycho.fidonet.org>
+Date: Sat, 01 Feb 92 17:40:00 EDT
+
+In Message-ID <gdWPOTW00XQC5MLnR0@andrew.cmu.edu> dl2p+@andrew.cmu.edu
+(Douglas Allen Luce) writes:
+
+
+DAL>greeny@top.cis.syr.edu (Jonathan Greenfield) writes:
+DAL>> Sorry.  The Dean has the power to examine the situation himself and make
+DAL>> a categorical determination that this type of behavior is not harassment.
+DAL>> (This is a policy decision, not a fact-bound decision based on the
+DAL>individual
+DAL>> case.)  A disciplinary committee is not an policy-making body.  It is a
+DAL>> fact-finding, and policy-enforcing body.
+
+DAL>There was no attempt to determine whether this action was considered
+DAL>to be harrassment.  What the university did was a brush off; it tried
+DAL>to avoid taking any action by telling Eric that the matter would be
+DAL>pursued further if his actions continued (that of bringing in
+DAL>complaints).  This is a very standard police action.
+
+[...much omitted]
+
+It seems to me that the university's conditional forebearance puts
+student in a rather awkward predicament.  Student speaks? Student
+suffers investigation.  Student censors himself?  No investigation.
+With such a patent cause-effect relationship, I believe a clearer
+example of the "chilling effect" that Jonathan Greenfield mentioned
+could not be easily imagined. (but fact being stranger than fiction...)
+
+It further seems the only one to suffer actual harrassment is the fellow
+who was threatened with a process potentially leading to expulsion. (The
+school was the harrassor)  Expulsion results in a form of blacklisting,
+in that the occurrence must be noted on many applications requiring
+background checks.  I believe the events surrounding the Un-American
+Activities Committee is a valid historical analogy, and demonstrates how
+the mere charge of impropriety is capable of irreparably harming (much
+more than harrassing) those wrongly accused.
+
+Legally, it may be CMU's business.  But ethically, it instills its
+students with the false expectation that the real world shields adults
+ears from brutish, offensive speech.  In an academic setting, this is,
+perhaps, irresponsible.
+--  
+Internet: Howard.Goldstein@f20.n3603.z1.FIDONET.ORG
+UUCP: ...!uunet!ndcc!tct!psycho!20!Howard.Goldstein
+Note:psycho is a free gateway between Usenet & Fidonet. For info write to
+     root@psycho.fidonet.org.
+
+
+From caf-talk Caf Feb  3 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: Re: Speech restrictions on CMU computers
+Message-ID: <9202032245.AA03081@dsacg2.dsac.dla.mil>
+Date: 3 Feb 92 21:45:41 GMT
+
+I've been disturbed by much of what I read in this newsgroup, but
+I'm not sure that I've ever been _more_ disturbed than now.  I have
+been hearing that speech that is offensive, even in a public forum,
+may be censored.  Although none of the correspondents defending the
+CMU action have come right out and said so, I believe that this is
+the intent.  Consider:
+
+1.  The bboard in question is a public forum.  John Gardiner Myers
+and others have called it so.  (Incidentally, if this assumption is
+correct than it's possible that speech on it is protected under the
+"limited Public forum" doctrine.  Send e-mail for more info.)
+
+2.  A poster to this board posted allegedly harassing messages, not
+once but several times.
+
+3.  Complaints were filed alleging harassment of the complainants
+and others.
+
+4.  The CMU administration took action by suggesting that an inquiry
+might be convened, the result of which might be the curtailment of
+the poster's academic endeavors at CMU.
+
+Defenders of the University's actions have stated that harassment
+has inpeded the free exchange of ideas.  Of course, these
+individuals have already found the poster guilty of harassment.  I
+fail to see how harassment could have taken place.  After the first
+or second posting by this correspondent (the one doing the alleged
+harassing), users of the bboard were free to ignore further posts by
+the individual.  Harassment, by EEO definition, must first of all
+take place in the workplace, which point I will grant for the
+moment.  But harassment must also be unwanted, of a sexual nature,
+and be tending to create a hostile working environment.  Forgetting
+for the moment that the EEO definition does not on its face apply to
+educational institutions, the criterion of unwantedness is still not
+satisfied.  Users were and are free at any time to refrain from
+reading articles from the poster in question.  They apparently did
+not do so.  Therefore, they _chose_ to read more from the poster,
+thus invalidating the unwantedness criterion of the EEO definition.
+Thus, I would say (although I'm neither lawyer, judge, nor jury)
+that the individual was not guilty of harassment.
+
+This is not a tempest in a teapot.  The implications of the CMU
+action are staggering.  Consider Brother Jed.  (Many of you may know
+of Brother Jed.  He goes around to college campuses and preaches
+fire and brimstone to any that will listen.)  What the CMU policy
+says is that Brother Jed could be stopped from speaking, (even in a
+public forum like a campus quad), if his speech is offensive to
+someone.  We could also consider a student running for student
+office.  If he os she said something in a public forum that was
+offensive in any way, shape, or form, then that person could be
+punished under the CMU policy.
+
+The upshot of the CMU policy is this:  the search for truth has been
+superceded by the idea that people's egos and psyches are so fragile
+that they must be protected from any and all offense.  Even if we
+can't objectivelly define what it means to be offensive, that's ok,
+say the CMU apologists.  Truth is now irrelavant.  
+
+Of course, I would suspect that if the poster had been railing at
+those on the political right instead of the political left, he would
+not now been in the same situation.  The problem with PC is the same
+problem as with any group of extremists, whether they be Nazis, KKK
+members, or whatever:  they feel that they are the only correct
+thinkers, and that they have the right to silence those who don't
+think the way they do.
+
+Sounds totalitarian to me.  I thought totalitarianism fell in 1991.  I was
+wrong.  It's alive and well at CMU.
+
+I stand for all speech.  Each person, regardless of background,
+race, sex, color, sexual orientation, gender, or any other criterion
+you'd care to name, has the moral, intellectual, and legal right to
+search for truth.  Unfortunately, I don't think those at CMU care
+much about truth.  If they did, they wouldn't be advocating such
+extreme policies.
+
+The above is my own opinion, and does not reflect any policy, either
+inherent or stated, official or unoffical, of the United States,
+the U.S. Department of Defense, the Defense Logistics Agency, nor
+any subpart thereof.
+
+-- 
+Bob Solon, rsolon@dsac.dla.mil
+Administrative Information Branch --  "We Code, You Explode!!"
+Directorate of Resource Management Systems (APCAPS)
+DLA Systems Automation Center, DSAC-BCC     (614) 238-8256   AV: 850-8256
+
+
+From caf-talk Caf Feb  4 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,alt.politics.correct,alt.censorship
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Speech restrictions on CMU computer bboards
+Message-ID: <1992Feb4.210805.11317@eff.org>
+Date: Tue, 4 Feb 1992 21:08:05 GMT
+
+jm36+@andrew.cmu.edu (John Gardiner Myers) writes:
+
+[...]
+>The point being that as employers may be held liable for
+>"discriminatory speech" which is not necessarily directed at an
+>individual, one can conclude that such speech can be sexual
+>harassment and can be harmful.  While the school may not necessarily
+>be held liable for the speech, it is entirely justified in prohibiting
+>it where possible (e.g. on its own systems)
+[...]
+
+In _Doe v. U. of Michigan_ and _UWM Post v. U. of Wisconsin_, the
+courts said that, at least for state schools, such prohibitions are
+not justified.
+
+
+- Carl
+
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+From caf-talk Caf Feb  5 00:00:00 1992
+From: jh4y+@andrew.cmu.edu (John William Hollis, III)
+Newsgroups: alt.censorship,alt.politics.correct,alt.comp.acad-freedom.talk
+Subject: Re: Speech restrictions on CMU computer bboards
+Message-ID: <0dXzHyC00UgII0ilcP@andrew.cmu.edu>
+Date: 5 Feb 92 14:30:22 GMT
+
+Excerpts from cmu.opinion: 30-Jan-92 Re: Speech restrictions on .. John
+Gardiner Myers (1264)
+
+> Stating that persons that do not wish to be harassed by Mr. Jefferson
+> do not need to participate in these electronic forums is like stating
+> that people who do not want to be victims of obscene phone calls need
+> not answer the phone.
+
+
+I don't know what system you use to read bboards and mail, but the major
+ones that are supported here at CMU (MacMail, EZ Mail, and AMS) all
+allow you to skim through the subject headers and pick which messages
+you wish to read.  The phone analogy would have to include the phone
+announcing who's calling and why they're calling before the person
+decides whether or not to answer.
+
+The choice, and therefore the responsibility, lies with the person who
+decides to read the message and feel harrassed.
+
+Sean
+
+From caf-talk Caf Feb  7 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: The Dark Ages Revisited (Was Re: Supression on speech on CM
+Message-ID: <9202071322.AA09866@dsacg2.dsac.dla.mil>
+Date: 7 Feb 92 03:22:12 GMT
+
+In reply to the mail from <jm36+@andrew.cmu.edu>...
+-------------------------------------------------------------------------------
+>
+>....which is fairly irrelevant because noone at CMU was arguing to
+>suppress speech that was merely offensive.  The issue is about
+>suppressing speech that is intimidating, harassing, or sexually
+>harassing.  Such speech, like the classic example of "Fire!" in a
+>crowded theatre, can be shown to do real harm.
+>
+
+CMU is embarking on a slippery slope, as do all who wish to supress expression
+for any reason.  It is impossible to objectively determine what might be
+"intimidating, harassing, or sexually harassing."  The search for truth is
+compromised when _any_ expression is supressed.  Mill argued that even the
+most obnoxious and terrible of ideas might contain a small kernel of truth.
+By not allowing such ideas, as hateful and uninformed as they might be, we
+risk losing some of the truth.  Surely and especially at an academic
+institution, that should be a primary goal.
+
+In the case of shouting fire in a theatre, one can show that there is an
+objective effect, i.e., determination of harm does not rest with the recievers
+of the expression, but can be made by an outside observer.  In the case of Mr.
+Myer's examples, there is no way for an outside observer to be able to
+objectively determine that a given expression is intimidating, harassing, or
+sexually harassing.  Therefore, supression of such expression is unwarranted,
+IMHO.
+
+I would suggest that instead of attempting to supress undesirable speech one
+would instead want to educate all individuals about such topics as harassment,
+and multiculturalism.  These are worthy goals, and education is a worthy way
+to achieve them.
+
+Finally, let me ask this:  Have things gone so far that we can sit here and
+discuss supression of expression for any reason?  The liberal tradition sets
+inquiry, questioning, and critical thought as among the highest goals of
+people everywhere.  And yet, there are those who wish to limit the inquiry to
+only "correct" topics, or to inquire only in "correct" ways.  These
+individuals seem to sacrifice the search for truth for some ever-changing,
+ever-undefinable ideology that stifles the human spirit and that would
+seek to force conformity, not by persuasion, but with the brute force of the
+law.
+
+Sounds familiar?  Ever here of Marxism-Leninism-Stalinism?  How about Maoism?
+People died in Tiananmen Square for the freedom to inquire.  People died
+attempting to cross the Berlin Wall to escape such "theories."  We fought a
+world war to stop another such "theory" from subjugating Europe.  Men and
+women have fought for thousands of years for the freedom to think for
+themselves.  And yet here, in the U.S. of A., the bastion of freedom and
+democracy, there are those who think nothing of using the the methods of
+Stalin, Mao, Deng, Hitler, and Castro to impose their own ideological framework
+on us all.
+
+Have we learned nothing?
+
+
+From caf-talk Caf Feb  7 00:00:00 1992
+From: cr2r+@andrew.cmu.edu (Christian M. Restifo)
+Newsgroups: alt.censorship,alt.politics.correct,alt.comp.acad-freedom.talk
+Subject: Re: Speech restrictions on CMU computer bboards
+Message-ID: <wdYcdhe00awU03pVd6@andrew.cmu.edu>
+Date: 7 Feb 92 13:32:29 GMT
+
+Excerpts from netnews.alt.censorship: 6-Feb-92 Re: Speech restrictions
+on .. John Gardiner Myers@andr (442)
+
+> ...which is fairly irrelevant because noone at CMU was arguing to
+> suppress speech that was merely offensive.  The issue is about
+> suppressing speech that is intimidating, harassing, or sexually
+> harassing.  Such speech, like the classic example of "Fire!" in a
+> crowded theatre, can be shown to do real harm.
+
+
+why not let them all know what is happening, john? the very question of
+harassment is what is being argued here. how many people here, in the
+paper and on the bboards, have said that what knauer, newman, and masco
+did was wrong? And since these people DID make themselves the
+self-appointed moral arbitrators of the system, it IS about suppressing
+speech that was merely offensive.
+
+simple questions to which i want answers: 
+
+1) how can it be harassment when one can easily ignore the message or
+not even read it at all?
+2) if i "yell" on a bboard that women in general are bitches, how does
+that do harm? (and i mean REAL harm--harassment, etc. not this "well,
+he's not contributing to a healthy learning environment junk)
+3) just what is 'intimidating" speech? how can i intimidate someone on a
+bboard to such an extent that they feel harassed when I don't mention
+any particular names?
+4) why is it that when someone reads something offensive, they instantly
+claim "oh i'm being harassed" or "it's not conducive to the free
+exchange of ideas because it makes me afraid to speak out"? since when
+did the principle of openly taking issue with what someone else said
+become the responsibility of the that person (who spoke first) to "not
+upset" everyone else?
+
+those who defend this current form of speech restriction have yet to
+offer good answers that hold up to close scrutiny.
+
+"The reason for time is so that       |   Chris Restifo
+everything doesn't happen at once."   |   cr2r+@andrew.cmu.edu
+          -The Banzai Institute       |   Carnegie Mellon (no U)
+
+Disclaimer: One who disclaims. This thing don't claim anything.
+
+It's at times like these that you should be glad I don't work for the
+Post Office...
+
+
+
+From caf-talk Caf Feb  4 00:00:00 1992
+Newsgroups: uiuc.general
+From: memphis-tn@uiuc.edu (Memphis TN)
+Subject:  Complaint letter about fingerd change
+Message-ID: <1992Feb3.224647.28831@ux1.cso.uiuc.edu>
+Date: Mon, 3 Feb 1992 22:46:47 GMT
+
+This is a copy of a letter I have sent to the director
+of CSO.  I post it here for your examination.
+
+<<CUT HERE>>
+
+1011 S. Wright St.
+Champaign, IL 61820-6278
+February 3, 1992
+
+Mr. George F. Badger, Jr., director
+Computing Services Office
+1120 DCL, MC 256
+1304 W. Springfield
+Urbana, IL 61801
+
+Dear Sir:
+
+I hereby file an official complaint about the recent change of the
+fingerd program on the mainframe computer, uxa.  Before the new
+software was installed, an account holder could alter how he/she 
+was identified when another computer user on the same or a connected
+system requested information about that person using the finger program.
+The current software has the fingerd program return part or all of
+the person's legal name.  I must protest this change, and request 
+that the problem be fixed.
+
+The change in how the program works presents two problems.  First, 
+many people do not wish to be commonly known by their given name.  
+This is true in the case where people are called by a more familiar 
+form of their given first name (e.g., Bill instead of William), or 
+when they are called by a middle name, which is not returned with 
+the current version of fingerd on uxa.  Second, this change does not 
+permit uxa account holders to suppress their legal names from public 
+access, a clear violation of University policy and the Family 
+Educational Rights and Privacy Act of 1974, both of which state that 
+the following items of information about a student must be suppressed 
+from public access at the student's request:  name, address, phone 
+numbers, college curriculum, major field of study, class level, date 
+of birth, dates of attendance, full/part-time status, eligibility 
+for status in registered University honoraries, degrees, honors, 
+certificates received or anticipated, participation in officially 
+recognized activities, and sports and institutions previously attended.
+
+There has been quite a bit of discussion on the USENET newsgroup, 
+uiuc.general on this subject over the past few days, discussing the 
+possible ramifications of this policy change.    I direct your 
+attention there for other comments made on this topic.
+
+I respectfully request that the appropriate action be taken to ensure 
+the right to privacy, as defined in the Family Education and Privacy 
+Rights Bill of 1974, for the users of uxa.  Such action may be, but 
+is not limited to:
+
+        1.  Restoration of the former fingerd program and the restriction 
+of public access to the really program and database.
+
+        2.  Immediate institution of a program through which individuals 
+may request that their common name or no name at all be returned by 
+the fingerd program rather than their given name, and the publicization 
+of such a program.
+
+Although I am willing to be held academicly and legally responsible 
+for my actions taken and comments made on uxa, irc, and USENET, I value
+my right to privacy highly.  I will guard that right jealously, and I 
+intend to take appropriate action, if necessary, to protect that right.
+
+Yours truly,
+
+Michael D. Adams (memphis-tn@uiuc.edu; mda46419@uxa.cso.uiuc.edu)
+
+electronic copies:      badger@vmd.cso.uiuc.edu
+                        root@uxa.cso.uiuc.edu
+                        memphis-tn@uiuc.edu
+
+posted (USENET) on:     uiuc.general
+
+-- 
+  Michael "Memphis" Adams   memphis-tn@uiuc.edu (internet)   +1(217)344-4857
+
+From caf-talk Caf Feb  5 00:00:00 1992
+Newsgroups: uxa.general,uiuc.general,cso.general
+From: dorner@pequod.cso.uiuc.edu (Steve Dorner)
+Subject:  Re: an open letter to the cso.gods
+Message-ID: <1992Feb4.193335.16780@ux1.cso.uiuc.edu>
+Date: Tue, 4 Feb 1992 19:33:35 GMT
+
+memphis-tn@uiuc.edu writes:
+>I am still entitled to air my grievances
+>until I get a rational answer.
+
+I'm not sure what you want a rational answer for.  Why Paul made the change
+to fingerd?  Anyway, it seems to me that it's time to dull the shouting
+just a bit.  Let me try to do so:
+
+Why CCSO Wants to Identify Users on the Net
+
+  CCSO believes the perception of anonymity leads to increased belligerence
+  and decreased sense of responsiblity for one's actions.  The fact
+  that one is ultimately traceable does not have the same effect as
+  being immediately identified.
+  
+  Thus, CCSO wishes to stamp each piece of outgoing mail and news with
+  the person's real name.  As this is technically difficult, fingerd
+  made a reasonable alternative in the short term.
+  
+Uxa And the Privacy Act
+
+  As a uxa account is in no way required by the University, there is
+  merit to the argument that forcing identification on uxa users is
+  not a violation of the act.  On the other hand, since uxa is offered
+  freely to all students, there is also merit to the argument that
+  denying information suppression on uxa accounts amounts to discrimination
+  against the legitimate exercise of rights.  Quite honestly, I have
+  no idea how the courts would rule on the issue.
+  
+  However, the act, as quoted in this newsgroup, is perfectly clear.
+  If you have not filled out a suppression form, you have not a legal
+  leg upon which to stand, and the claim that your rights have been
+  violated is utterly spurious, no matter how loudly it is made.
+  
+Uxa And University Policy
+
+  Uxa is a CCSO service, not one mandated by the University.  
+ The University  has in the past been without such a service.  
+ The University targets no money to uxa, and the computer fee committee 
+ has never funded it to any extent, despite CCSO requests.
+  
+  Therefore, I find it hard to imagine that the University administration
+  will place much value on uxa as a service, should push come to shove.
+  It is well within the bounds of possibility that, should the courts
+  rule that we cannot divulge the names of students who own accounts,
+  CCSO will simply get out of the business of providing accounts to
+  the general student populace.
+
+If you wish to discuss these points rationally, fine; I'm happy to
+do so.  In point of fact, I've modified my own position in the
+course of this debate; I think it has been on the whole useful.
+
+However, I have a purely personal request to make.  Let us please
+stop making dogmatic assertions of that which we cannot support.
+Let us please stop impugning the motives of all involved.  Let us
+please lose the shouting.  Let us please read before we respond,
+and reread our own words before we post.  I'm making this request
+not of the privacy advocates only, but of both sides.
+
+Otherwise, I will opt entirely out of this discussion, as I do not
+care to be involved in a shouting match.  I do not hold myself
+entirely blameless (having used all caps a few times myself), which
+is all the more reason I want to see this toned down.
+
+-- 
+Steve Dorner, U of Illinois Computing Services Office
+Internet: s-dorner@uiuc.edu  UUCP: uunet!uiucuxc!uiuc.edu!s-dorner
+Apparently-To: does more harm than good.
+
+From caf-talk Caf Feb  7 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,uiuc.general
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject: Requiring students to release directory information
+Message-ID: <1992Feb6.233159.24859@m.cs.uiuc.edu>
+Date: Thu, 6 Feb 1992 23:31:59 GMT
+
+Here is one interesting question to come out of the current
+discussions at UIUC:
+
+If a student decides to surpass directory information, can the
+university *legally* refuse to offer some services based on that
+refusal? [The moral question is interesting, but distinct.]
+
+For example,
+
+Can the university require student athletes to disclose their name
+to the outside world as a condition for being on the team?
+
+Can the university require students to disclose their name to the
+outside world as a condition for getting a free student computer
+account?
+
+Can the university require students to disclose their name and phone
+number to the outside world as a condition for getting a free student
+computer account?
+
+Can the university require students to disclose their name and phone
+number to the outside world as a condition for getting a class
+computer account?
+
+Can the university require students to disclose their name and phone
+number to the outside world as a condition for sending email?
+
+Can the university require students to release their name and phone
+number as a condition for early registration?
+
+Can the university require students to release their name and phone
+number as a condition for continued enrollment.
+
+I would guess the answer to the first question is "yes" and that the
+answer to the last is "no". I don't know the answer to the middle
+questions, but can provide some additional information:
+
+[From _College and University Student Records: A Legal Compendium_,
+Edited by Joan E. Van Tol, 1989]
+
+================== p. 119 ===============
+The regulations ... were significantly modified in 1988. ... The
+new regulations amend the definition of directory information
+and establish a standard for the designation of directory information.
+The new definition is:
+
+' ... information contained in an education record of a student which
+would not be considered harmful or an invasion of privacy if
+disclosed.  It includes, but is not limited to, the student's name,
+address, telephone list, date and place of birth, major field of
+study, participation in officially-recognized activities and sports,
+weight and height of members of athletic teams, date of attendance,
+degrees and awards received, and the most recent previous educational
+agency or institution attended.'
+
+The new standard -- that which would not be considered harmful or an
+invasion of privacy if disclosed -- permits the educational
+institution to exercise its discretion in the designation and and
+release of directory information provided that the eligible student
+does not object to the disclosure.
+
+======================== p. 106 ============
+[From the regulations: 34 C.F.R., 99.37 (1988)]
+
+99.37 What conditions apply to disclosing directory information?
+
+(a) An educational agency or institution may disclose directory information
+if it has given public notice to parents of students in attendance and
+eligible student is attendance at the agency or institutional of --
+
+(1) The types of personally identifiable information that the
+agency or institution has designed as directory information;
+
+(2) A parent's or eligible student's right to refuse to let the agency
+or institution any or all of those types of information about the
+student as directory information; and
+
+(3) The period of time within which a parent or eligible student has
+to notify the agency or institution in writing that he or she does
+not want any or all of those types of information about the student
+designed as directory information.
+
+================== p. 155 ================ 
+[from a reprint of an article printed in 1982 in _Computer/Law
+Journal_ by a Ms. Hyman.]
+
+ ... A waiver of FERPA rights made pursuant to section 99.7 must be
+exercised by the student {109} and can apply to all FERPA rights
+{110}.  Wavers must be signed {111}, and are most commonly given
+regarding letters of recommendation for admission {112}. Institutions
+may request students to waive their right of access to these letters,
+but they may not require a waiver as a condition for admission or
+services.{113}.
+
+[References]
+{110} 34 C.F.R. 99.7(a) (1980)
+{113} 34 C.F.R, 99.7(b) (1980) [Which I think cooresponds to this
+section of the 1988
+regulations - cmk]
+
+====================== p. 104 =================
+[34 C.F.R. 99.12 (1988)]
+
+99.12 What limitations exist on the right to inspect and review
+records?  ...
+
+(b) A postsecondary institution does not have to permit a student to
+inspect and review educational records that are -- ...
+
+(3) Confidential letters and confidential statement of recommendation
+places in the student's records ..., if
+
+(i) The student has waived his or her right to inspect and review
+those letters and statements;
+...
+
+(c) A waiver under paragraph (b)(3)(i) of this section is valid only
+if --
+
+(i) The educational agency or institution does not require the waiver
+as a condition for admission to or receipt of a service or benefit
+form the agency or institution;
+
+...
+============================================
+
+
+
+
+
+
+
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+From caf-talk Caf Feb  5 00:00:00 1992
+Newsgroups: eff.mail.cwis-l
+From: jqj@DUFF.UOREGON.EDU (JQ Johnson)
+Subject:  Re: Usenet News Selection Policies
+Message-ID: <199202052354.AA01561@eff.org>
+Date: 5 Feb 92 23:42:36 GMT
+
+The U of Oregon has generally implemented a de facto policy on news groups
+of "anything that's legal."  We therefore do not carry feeds of the
+restricted-distribution news hierarchies like clari.*, but do carry most
+other things.
+
+We have been concerned about resource consumption, but in general the
+major resource in short supply had always seemed to be disk space on news
+servers, so we finessed that issue by expiring the groups my staff and I
+didn't care about (e.g. the alt.* and talk.* groups) fairly rapidly.
+
+However, we have noticed a new technical issue that is getting in the way
+of this policy.  One of the favorite news reading user agents on campus,
+NewsWatcher for the Mac, is effectively limited to 32K chars of data in
+its equivalent of a .newsrc file.  If we were to carry all the news groups
+we have access to, we'd see nearly twice that in news group names.  So, to
+support our Mac users we currently trim the list of news groups carried on
+our major public news server not to include groups of what we believe to
+be low local interest (e.g. local news hierarchies for other campuses).  I
+could easily see users on campus complaining about this policy, though
+(for example, before I implemented the policy I was a regular reader of
+several Stanford su.* news groups.  I'd personally much rather keep those
+groups than alt.american.automibile.breakdown.breakdown.breakdown and
+such.).
+
+We are not in a position to invest much time in picking and choosing news
+groups, so we need a better fix.  Does anyone have suggestions?
+
+--
+JQ Johnson
+Director of Network Services		Internet: jqj@oregon.uoregon.edu
+University of Oregon			voice:	(503) 346-1746
+250E Computing Center			fax: (503) 346-4397
+Eugene, OR  97403-1212
+
+
+
+
+--
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+

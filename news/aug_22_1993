@@ -1,0 +1,1092 @@
+<HEAD>
+<TITLE> Computers and Academic Freedom News</TITLE>
+<BODY>
+<h1>
+<img src="http://www.eff.org/CAF/cafnews.gif">
+</A> <b>Computers and Academic Freedom News</b></h1> <p>
+
+<A NAME="1993May1.212614.4915@eff.org">  Summary of "Dear SysAdmin, Punish your user for what he said!"</a>
+
+<pre>
+Newsgroups: news.admin.policy,alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject:  Summary of "Dear SysAdmin, Punish your user for what he said!"
+Message-ID: <1993May1.212614.4915@eff.org>
+Date: Sat, 1 May 1993 21:26:14 GMT
+"Dear SysAdmin, Punish your user for what he said!"
+
+During the week of April 12, 1993, I asked academic system admins how
+they responded to above question. This article summaries who was asked
+and how the responded. I'll leave the details of the methodology
+(which was very informal) for the end. Here was the query, followed by
+a summary of the results, followed by some details of the and start
+with the results. I'll try to save my opinions for a follow up note.
+
+I. The Query:
+
+"Summary: Please send samples of how you respond to such requests.
+
+I am told that academic sys admins regularly receive demands to punish
+their users for something posted to Netnews. If you are a sys admin,
+how do you respond?"
+
+[Note: The question can be faulted for not distinguishing between
+legitimate requests and illegitimate requests. One the other hand there
+seems to be no consensus on what "legitimate" is.]
+
+II. Summary of Replies:
+
+10    Explain value of free expression or reply that punishing
+      users is not my job.
+ 7    Tell accused to "cool it" (or else).
+ 4    (This problem has never come up.)
+ 2    Judge the article and punish if the user if the posting is found
+      to violate policy.
+ 1    Remove the newsgroup in which the article is posted. 
+ 1    Tell complainer "we'll handle it", but nothing else.
+ 1    Pass the complaint up the chain of command.
+
+ [Note this represents my subjective categorization; the
+  categorization is unlikely to be replicatable.]
+
+III. A sample of the replies
+  A. Explain value of free expression or reply that punishing
+      users is not my job.
+
+    ========= Sample Reply 1/3 ===============
+    	I believe you need a short lesson in the operation
+    of free speech.  I have no particular opinions on the subject of this
+    newsgroup, but I took the trouble to read some of the "belligerent and
+    harassing" postings of which you speak, and, frankly, they weren't.
+    
+    	It seems to me that your atempt to characterize them as such
+    stems from a desire to stifle ideas with which you disagree.  I have no
+    intention of cooperating with you in this.  The remedy for speech with
+    which you disagree is more speech, not a silencing (the rather low
+    signal-to-noise ratio on usenet notwithstanding).
+    
+    	If these postings offend you, I suggest you find out how "kill
+    files" work, rather than wasting the time of overworked system
+    administrators who aren't being underpaid to deal with this sort of
+    childishness.
+    ========= Sample Reply 2/3 ===============
+    -------------------------- a portion of the complaint --------------------
+            The above is very disturbing to me because it directly
+    attacks myself, and everyone at the college of <xxx>.  I would
+    hope that this kind of language is not looked favorably on
+    by your institution and you will take corrective measures.
+    ------------------------------- my reply -----------------------------
+    This institution has no opinion on `that kind of language' or any other
+    kind of language.  Messrs. <yyy> and <zzz> are free to express themselves
+    to the extent provided by law.  You are free to ignore them or engage them
+    in public or private debate as you see fit.
+    
+    ========= Sample Reply 3/3 ===============
+    Thank you for your mail message.  I do not have time or interest to respond
+    to it in detail.  Instead please pick the most appropriate item below and
+    consider that my response.  Thank you.
+    
+    
+    (1) This system believes in freedom of expression within the
+        bounds of the law;
+    
+    (2) If you do not like the content of an individuals newsgroup posting,
+    then read your newreader's manual entry on how to use the "killfile".
+    
+    (3) If you do not like the content of an individuals e-mail, then feel free
+    to delete it without reading it.  Continued e-mail after explicit requests
+    to stop may constitute harassment.  Inquire among your local authorities.
+    
+    (4) If you believe the content of a posting is contrary to law, then inform
+    the proper authorities.
+    
+    (5) System managers are not the court of last resort in case you
+    are losing an argument on the net.  Refer to "The Art of Clear
+    Thinking" by Rudolph Flesch, "Fallacy: The Counterfeit of
+    Argument" by Ward Fearnside or other similar book for more
+    information on how to argue without whining to your parents.
+    =======================End ===============
+    
+    Here are the comments of two sys admin who distinish disruptive
+    expression from protected expression.:
+    
+    ========Comment 1/2=====================
+    We've never punished any user for expressing an opinion.  We have
+    taken action against users who have "letter bombed" or disrupted news
+    groups in an "uncivilized" manner.  However, those who have
+    "disrupted" newsgroups in a civilized manner have never been punished.
+    ========Comment 2/2=====================
+    we rarely receive complaints.  in general we acknowledge non-local
+    complaints with a simple ``we'll look into it'' although we might be
+    more specific if there does appear to be something which might suggest
+    someone is attempting to represent our institution in some fashion.
+    if the posting in question is exhorting some community of users to
+    direct a specific network based ``attack'' on a user we will contact
+    the user and remind them that there are acceptable use provisions
+    associated with network access or that there are terms of use
+    associated with a local account.  this has happened once in the last
+    four years.  we don't have the time, inclination or authority to
+    involve ourselves in what appears to be the vast, overwhelming
+    majority of such cases that we see on usenet.
+    ======= END comment ============
+
+ B. Tell accused to "cool it" (or else).
+
+     ========== Comment 1/6 =====
+     [S]ocial and professonal pressure is approriate, and that I would speak
+     with the user personally, and insure him that, should such an
+     posting be made again, his professors would be certain to be
+     given copies, so that he think more carefully next time...
+     
+     P.S.  The post was on the k12 senior group making a rather
+     flippent support for use of illegal drugs.
+     
+     ========== Comment 2/6 =====     
+     When we get a complaint, we tell the user that a complaint was
+     made.  Almost all complaints are violations of netiquette like
+     excessive cross-posting, posting to an irrelevant newsgroup,
+     using vulgarities (in groups that normally do not!), and so
+     forth.  We advise the user what would have been a wiser course of
+     action, in the interests of making netnews work better, but this
+     isn't "punishment".  Most such cases are a question of the user
+     not knowing any better.
+     
+     I don't know what high schools are like these days, but many
+     undergraduate users seem to feel that any word we give is a
+     "warning" and that they've been "punished".  Likewise they expect
+     that when they see something they don't like on netnews,
+     "punishment" is called for.  I feel I've disappointed them
+     sometimes.  Pointers to articles in news.announce.newusers are
+     sometimes in order.
+     
+     ========== Comment 3/6 =====     
+     I usually stay out of it unless the person here is really out of
+     line.  In that case I ask them to tone it down and they usually
+     do.  We haven't had too many complaints (<5) about our users.
+     
+     ========== Comment 4/6 =====     
+     the university has policies on use and abuse of computers.
+     Whenever we get a message from the outside world about our users
+     we do 1 of 2 things
+     
+     1) report the incident to their supervising professor (if they are a 
+     grad student)
+     
+     2)  report them to the student discipline office.  
+     They are contacted and usually stop their actions.
+     
+     ========== Comment 5/6 =====     
+     Lots of complaints from various users usually warrant some
+     investigation.  There are several question I have to consider:
+
+     [...]
+        (2)	Are they just being inflammatory?
+     
+     	If so, what sort of "inflammatory" are we talking about?  I usually
+	wind up talking with them to find out what they're up to.  If they're
+	just trying to infuriate people, they get a warning.  Another post, and
+	they get a final warning.  Next time, revocation of their posting
+	privs, which may be appealed.  Another offense, and I nuke 'em---if
+	they're really using my machine for something important, I might be
+	able to let 'em stay on, but with a *clear* understanding that Usenet
+	is off-bounds.  I don't intend to support the kind of crap and noise
+	that Usenet is *already* swamped with.
+
+     ========== Comment 6/6 =====     
+     I think it sort of depends upon exactly _what_ the "offensive"
+     posting/mailing actually said.  Yes, this means I am being
+     subjective -- that's the breaks.  I tend to be on the lenient
+     side, actually, in that I'll give the benefit of the doubt to the
+     offender.  At least the first time.  Recidivism is "frowned"
+     upon.
+     ========== End Comments ===========
+
+IV. Methodology
+
+I posted the query in newsgroups news.admin.policy and
+alt.comp.acad-freedom.talk. I also posted to a sys admin's policy
+mailing list (but none of the replies were from academic sites).
+Finally, I send email to "news" or "postmaster" at about 20 of the top
+Usenet sites.
+
+All the replies were posted to alt.comp.acad-freedom.talk (CAF-Talk)
+usually with no identifying information. They are available from
+the CAF-Talk archive (access information enclosed).
+
+- Carl
+
+REFERENCES
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/batch/apr_18_1993
+  pub/academic/batch/apr_25_1993
+  pub/academic/batch/may_02_1993
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/batch apr_18_1993
+send acad-freedom/batch apr_25_1993
+send acad-freedom/batch may_02_1993
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+</pre>
+<A NAME="1993Aug15.201103.256@news.wesleyan.edu">  Zeleny</a><pre>
+Newsgroups: news.admin.misc,news.admin.policy
+Subject:  Zeleny
+Message-ID: <1993Aug15.201103.256@news.wesleyan.edu>
+From: RGINZBERG@eagle.wesleyan.edu (Ruth Ginzberg)
+Date: 15 Aug 93 20:11:02 -0400
+Following is an excerpt from an e-mail message I sent to Michael Zeleny's
+system administrator at husc.harvard.edu:
+
+     As a professor of philosophy, I would like to introduce my
+     philosophy students to the opportunities provided by the Usenet
+     philosophy discussion groups.  But with articles such as ["Hannah
+     Arendt's Wrinkled Cunt" by Mikhail Zeleny; 8/15/93] being
+     crossposted to every philosophy-related group on Usenet, I dare
+     not.  I suspect that if I did give an assignment to my students to
+     check out Usenet newsgroups related to philosophy, and they found
+     this garbage crossposted to every last one of them, my institution,
+     my department, and probably I, could be sued for "failing to
+     provide a non-hostile instructional environment," i.e., sexual
+     harrassment, for assigning that as part of a course.
+
+I am concerned that by protecting abusers' so-called freedom of speech
+(i.e., "freedom" to broadcast via excessive cross-posting) Anti-Semitic
+mysogynist hate-speech), Usenet is becoming off-limits for professors,
+employers or others "in positions of power" to ask their
+students/employees/etc. to investigate, as part of their assigned work.
+It is only a matter of time -- SHORT time, would be my guess -- before
+some professor, university, or employer is sued (in exactly a situation
+such as this) for subjecting  employees/students/etc to the Usenet
+postings of hate-mongers.  It is my opinion that if some way of
+enforcing minimal civility is not designed, Usenet will become Useless
+for the purposes for which it was intended (free exchange of info).
+
+I am interested to know if other news.admin folks have any thoughts on
+this.
+
+
+
+
+---------------------------------------------
+Ruth Ginzberg  <rginzberg@eagle.wesleyan.edu>
+Philosophy Department;Wesleyan University;USA
+[Not the US Supreme Court Judge; no relation]
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+</pre>
+<A NAME="1993Aug16.150506.259@news.wesleyan.edu">  ZELENY: Enough Already!</a><pre>
+Newsgroups: news.admin.misc,news.admin.policy
+Subject:  ZELENY: Enough Already!
+Message-ID: <1993Aug16.150506.259@news.wesleyan.edu>
+From: RGINZBERG@eagle.wesleyan.edu (Ruth Ginzberg)
+Date: 16 Aug 93 15:04:59 -0400
+I am quite taken aback by the responses I've gotten to my post.  My tendency is
+to believe that many of these responses come from people who have not yet been
+in positions of responsibility, and so who do not feel the terrible tug of
+conflicting obligations.  Until you are actually the person who has on your
+desk the sign saying "THE BUCK STOPS HERE" you can always agitate for more and
+more **FREEDOM!!!** without worrying about the concomitant responsibilities
+that freedoms engender.
+
+Some of us also have to be responsible to, and answer to, others for our
+actions, decisions, choices, etc.  In my case, I have responsibilities to the
+students who register for the classes I teach, my department, my college, the
+profession of philosophy, the parents of the students who pay their tuition
+bills, the alumni and donors who sustain the university with monetary
+contributions, the community I live in, my family, my conscience, and my own
+sensibilities -- among others.
+
+I was hoping for thoughtful discussion among those who also understand such
+multiple conflicting RESPONSIBILITIES as well as simply their own demands for
+unfettered "freedoms."  I am a great believer in freedom, personally, including
+freedom of expression. What I do not believe a person can ever be "free" from
+is the need to coexist with, and within, a community of others, others who
+deserve to be treated with respect.
+
+Many of you made the wild jump from the fact that I wrote a letter to this
+person's system administrator, to the belief that I wanted some new kind of LAW
+or RULES or LEGISLATION.  What I, in fact asked of his SysAdmin, is that Mr.
+Zeleny be apprised of the responsibilities associated with use of the Usenet
+facilities, and asked to conform his behavior accordingly.  I asked for no new
+laws or rules or restrictions.  Just a DISCUSSION, perhaps from someone with
+some clout, as in a person who could restrict his computer access *IF* he
+decided not to be a responsible user even after being warned.
+
+I also did not ask that he be prevented from posting articles such as "Hannah
+Arendt's Wrinkled Cunt."  If you look at my posts to this group, as well as to
+the letter I quoted that I wrote to his sysadmin, I *repeatedly* tried to make
+it clear that I was objecting to the universal crossposting of this article to
+every single philosophy group regardless of its relevance to the subject matter
+of the group.  The reason I brought up the issue of sexual harrassment, is that
+it is fundamentally different to ask a (in this particular case) woman student
+to browse through Usenet philosophy groups, when she will encounter the heading
+"Hannah Arendt's Wrinkled Cunt" in EVERY SINGLE ONE OF THEM -- than it would be
+if she were to see this Subject heading in, say, one-out-of-4 newsgroups, or
+even if she were to see the subject heading, "Hannah Arendt's Stupid Ideas"
+in all four newsgroups.  Sexual harrassment becomes an issue by virtue of not
+only its irrelevance, but also its pervasiveness in addition to its
+irrelevance.  Therefore, by EITHER limiting the content of the Subject header
+(not what I advised, or even would ask) OR limiting its distribution to
+relevant discussions (which I would request), the problem would be solved.
+
+This concern has NOTHING WHATSOEVER to do with censoring books in libraries or
+any other such red herrings.
+
+Nor does it have anything to do with not treating my students like adults.
+
+Nor does it have anything to do with Puritanism.
+
+I asked for your opinions, many of which clearly differed from mine. 
+Presumably if you all knew something about civil discussion, some actual
+exchange of ideas might have taken place here.  Instead you elected to bombard
+the newsgroup with personal attacks on me, and with flames about topics that
+had little or nothing to do with the issue(s) I raised.  I think that,
+collectively, you are a much greater threat to the free exchange of information
+and ideas than I ever will be. 
+
+---------------------------------------------
+Ruth Ginzberg  <rginzberg@eagle.wesleyan.edu>
+Philosophy Department;Wesleyan University;USA
+[Not the US Supreme Court Judge; no relation]
+
+</pre>
+<A NAME="23oe9d$dh1@aggedor.rmit.OZ.AU">  Re: Wanted: Assertiveness Training for Cyberspace</a><pre>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.culture.usenet
+Subject:  Re: Wanted: Assertiveness Training for Cyberspace
+Date: 4 Aug 1993 13:41:01 GMT
+Message-ID: <23oe9d$dh1@aggedor.rmit.OZ.AU>
+
+Re. Carl Kadie lists conflict resolution  |  From ROBIN WHITTLE
+strategies and asks for more, in          |  zcirrw@minyos.xx.rmit.oz.au
+Wanted: Assertiveness Training for        |   
+Cyberspace   <CAtyML.Fvp@cs.uiuc.edu>     |    
+
+|| 1 - Review some follow-on postings.                                     ||
+|| 2 - Three factors in characterising a persons communication "strategy". ||
+|| 3 - Evolutionary socio-biological perspective on these factors.         ||
+|| 4 - Cybernetic conclusion - delay, noise and distortion, with excessive ||
+||     feedback = chaotic oscillation, so .... Take it easy!               ||
+
+Patrick J Chalmers                      gchlmrs@uxa.ecn.bgu.edu 
+                                        <233kq2$rg8@uxa.ecn.bgu.edu>
+    > We are creating, truly, a global village.  This is a 
+    > place where the future of the entire world can be
+    > affected.  The implications of poor communication 
+    > are immense.
+    > Let's put our best thoughts forward on this issue.
+        Well said!
+
+Matthew T. Russotto                     russotto@eng.umd.edu    
+                                        <234a9rINN4po@mojo.eng.umd.edu>
+        Detailed critique I largely agree with.
+
+Paul Schmidt                            pjs269@tijc02.uucp 
+                                        <1993Jul28.131835.1213@tijc02.uucp>  
+        Paul suggests a book, and a strategy based on trying to find a 
+        basic motivation common to people who disagree - and explicitly 
+        stating that motivation.  
+        This is constructive. If both people are willing, then they 
+        can figure out what else they have in common and find where their 
+        paths of thought diverge. Even if it doesn't get this far it is 
+        good for pro- and anti-gun people to agree that they both
+        want to reduce crime.
+
+Jim Coffey                              jcoffey@Kodak.com
+                                <28JUL199315384539@tx8600.tex.ecc.kodak.com>
+   >>* One non-confrontational way to accept criticism X is to reply
+   >>  "Perhaps I did X".
+    > JIM - another way is to say...I'm sorry you feel that way.
+    > You don't admit guilt, but you do acknowledge the other person's
+    > right to be offended.
+   >>* Sandwich criticism between compliments.
+    > JIM - I disagree completely.  Tell the truth...in a polite way.  
+    > If you sandwich you run the risk that some people will hear only 
+    > the bad when you meant them to hear the good, and vice versa.  
+    > Supervisors are particularly bad about this when trying to give 
+    > criticism.  Employees are bad at selectively hearing only what they 
+    > want to hear.  To avoid misunderstanding say exactly what you mean...
+    > don't sugar coat.
+        It is good to tell the truth when it is at all possible.  Carl 
+        was not suggesting otherwise, but his strategy could distract 
+        from the truth, confuse communication and attenuate feedback.
+
+        Like many others, I thought Carl's strategies were far from 
+        assertive, and were excessively "soft" or "cool" compared to 
+        the "hard", "hot" approach favoured by others. 
+        
+        He observed that terse communication was often misinterpreted as 
+        being harsher (hotter) than the writer intended.  His reason 
+        for thinking this (in the example he gave) is that he got (in 
+        his perception) "four harsh flames".
+
+Carl Kadie                              kadie@eff.org
+                                        <233rmf$hej@eff.org>
+
+    > ... my experience is that 80% of the time, a perceived insult is 
+    > the result of poor communications. 20% of the time a perceived 
+    > insult is intended to be an insult. 
+        Does this mean Carl recognizes that in all probability 
+        only 0.8 of his perceived flamers meant to insult him?
+        
+ANALYZING COMMUNICATION "STRATEGIES" AND TENDENCIES
+
+Here are the concepts underlying my analysis :-
+
+Soft =  Going easy on the unpleasant facts - by stating them in 
+        deliberately gentle language, or adding sugar to the package 
+        in which the facts are communicated. Hence Softwriters - 
+        people who usually communicate this way.
+
+Hard =  Stating the unpleasant facts clearly and without attempts to 
+        soften the impact on the reader. Hence Hardwriters.
+
+Cool =  Communicating in a way intended not to inflame the reader's 
+        negative emotions. Hence Coolwriters.
+
+Hot =   Deliberately inflaming the reader's feeling of loathing at the 
+        receipt of the communication. Hence Hotwriters.
+
+Coolheads = People who are not easily ruffled or upset. They do not 
+        perceive a text as hotter than the writer intended it to be.  
+        They may give a lot of thought to the workings of the writer's 
+        mind before deciding what the text really means. Eg. they may 
+        not read the words literally, but may interpret a warm text 
+        from a known hotwriter as being rather cool.
+
+Hotheads = People who typically perceive a text as being hotter than 
+        a writer intended it to be.  They may not think a lot about it 
+        and may jump to conclusions, ignore parts of the text or read 
+        it in a different light to what the author intended. However 
+        it happens, the hothead perceives that the writer is more of a 
+        hotwriter than he or she really is, or that this text is more 
+        of an insult than the writer really intended.
+
+Thinskins = Those who are easily upset by what they perceive as an 
+        attack.  
+
+Thickskins = Insults and the hatred of others are like water off a 
+        duck's back.
+
+Looking at the population, there are correlations between these 
+characteristics and some of these correlations are causative.  They 
+are however independent characteristics. Consider some combinations :-
+
+Thinskinned,  hotheaded  hotwriter      > Prolific, paranoid flamer.
+Thickskinned, hotheaded  hotwriter      > Flamer.
+
+Thinskinned,  coolheaded hotwriter      > Does not get upset without 
+                                        > genuine reason, but bites
+                                        > the head off the person 
+                                        > who does cause upset.
+
+Thickskinned, coolheaded coolwriter     > Wet blanket at a flame-party.
+
+Individuals could be mapped to points in a three dimensional space 
+based on these characteristics, but not now.
+
+
+SIMPLIFIED EVOLUTIONARY SOCIO-BIOLOGICAL PERSPECTIVE
+
+We are the descendants of hunter-gatherers who evolved sexually 
+differentiated thoughts and behaviour as well as the obvious physical 
+differences.
+
+Men were strongly selected for their ability to protect their family 
+and tribe from attack by other men.  This bred a strong physique, a 
+strong bluff response (physical and verbal display) and the ability to 
+attack brutally.  Half-hearted physical attacks would have been very 
+dangerous. Full-on attacks carry significant risk and the male would 
+have adapted to attack only when it really mattered.
+
+The strongest possible verbal displays carry little danger and could 
+be used routinely to make many problems go away. So physically and 
+verbally, the man would be a hardwriter - his output volume is strong. 
+In combat or under threat, his output functions would be hard and hot.  
+Socially, if he was too hotheaded, he would cause unnecessary trouble.
+
+In combat, he is thickskinned, because it would be disastrous if he 
+was easily upset by insult or injury.  This carries over, regrettably 
+to his social life.  A man *must not* be upset at the idea of being 
+attacked and injured in combat. He must go boldly forth and do what a 
+man's gotta do - typically club another man to death - even if he has 
+a spear wound and has just had a rock thrown in his face.
+It is pretty hard to breed a human who is this insensitive to his own 
+pain, but who is sensitive to the troubles of others and who is also 
+caring, self-aware and fussy about cleanliness and details.  So women's 
+characteristics were optimized by evolution to perform these essential 
+child-rearing and man-support functions.
+
+Males evolved to be tough (thickskinned), powerful (hardwriters), and 
+when under threat, hotwriters.  If they were hotheaded - typically 
+overestimating the propensity of their communicators to insult them - 
+then they would get into a larger number of disputes.  Since a man is 
+thickskinned, with hard and hot output functions, this may cause him 
+little upset and train people not to mess with him.  I think men 
+evolved a degree of hotheadedness, which made people reluctant to 
+cross their path - but which also made them antisocial.  Good social 
+relations with the tribe were essential, and I believe men have 
+evolved to subcontract that to their woman partner. (Did women invent 
+language to make social grooming less time consuming? ... and easier 
+to do indirectly?  Great article by Robin Dunbar in New Scientist 21 
+Nov 1992)
+
+Females and their children are physically vulnerable, so it did them 
+no good to get into unnecessary disputes.  They would have evolved to 
+be coolheaded.  However, women needed to cope socially in a variety of 
+situations - cope for themselves and on behalf of their children and 
+their cantankerous man.
+
+They needed to be sensitive to the inner thoughts of their children 
+and of all the adults in the tribe.  This could only be achieved with 
+introspection, and probably a thin skin.  
+Their output functions were not heavily biased to being hard or soft; 
+or hot or cold because they had to cope verbally with a whole range of 
+situations. However I think that women tend to be soft- and cool-
+writers. (See "Competence and assertiveness are no way to persuade a 
+man - if you are a woman" - Linda Carli Wellesley College 
+Massachusetts, New Scientist 20 Feb 1993 page 9.)
+Perhaps this is because a man seeks a woman who will be gentle with 
+his children, and so has little interest in agreeing or co-habiting 
+with a strident, insensitive woman. (Men still seek resourceful women.)
+
+However, once a woman is caring for the man's children, he can't tell 
+her to nick off, so she can turn up the heat if it suits her.
+For example, a woman might be hard and hot to get it through her man's 
+thick skin that he really *must* bring home more bacon and keep his 
+eyes off other women.  She might need to be soft and cool to gain the 
+forgiveness of the tribe when her man makes an arse of himself in some 
+way.
+
+Since the development of language there have been about 4,000 human 
+generations under these intense selection pressures - plenty of time 
+for these sexually differentiated characteristics to evolve. The 
+pressures have only been removed recently, so these characteristics 
+have remained but been diluted by random change and by selection 
+pressures for less aggressive men - since agriculture created a more 
+stable, denser lifestyle with less frequent direct threats.  Men were 
+however still strongly selected for their proclivity to defend their 
+"country" by marching off to war and all humans were selected for 
+their proclivity to engage in the verbal preliminaries for this.
+
+The bio-chemical mechanisms which produce sexually differentiated 
+characteristics are error prone. For this reason and those just 
+mentioned, individuals today show a less distinct set of 
+characteristics than that which I believed evolved in the rigors of 
+life until agriculture came to Western Europe about 200 generations 
+ago (5,000 years). 
+
+These characteristics evolved to maximize reproductive success. This 
+is quite different to optimizing for happiness - which is the aim of 
+social engineering today.
+
+If the above characteristics are accepted as real, it would be 
+discriminatory to use them to limit the freedom or prejudge any group 
+of people or member of a group.  They can however be used to help 
+understand behaviour which is otherwise difficult to find the source 
+of.  This is a kick back to the Nature end of the football game called 
+the Nature vs. Nurture debate. Popularly, the ball is close to 
+Nurture's goal, but I think this will change with new evidence. (Brain 
+Sex - Anne Moir).  I think both Nature and Nurture are important and I 
+argue against those who would deny the importance of either.
+
+Next time you tick off a female colleague for some minor failure, only 
+to find she takes it really badly and does an excessive amount of 
+soul searching, think of her great-great-great-great... grandmother. 
+She is scolded by the tribe and goes back to the darkness of her cave 
+alone, trying to figure out where she went wrong, analysing every word 
+that was said, in a desperate effort to learn how to fit in with the 
+tribe. She can't fight them and probably cannot persuade them. She has 
+to live with them for the rest of her life and so she does whatever 
+she can to be accepted.
+
+Next time you tick off a male colleague, and get an angry, abusive 
+response, think of his great-great-great . . . great-grandfather.  
+You have just trodden on his territory or threatened his status by 
+disparaging his boar hunting prowess.  He is coming towards you, 
+waving his club wildly and bellowing at you to *back-off*.
+
+
+ANALYSING CARL'S STRATEGIES
+
+Actually I am concentrating on only some of his strategies.  Numbers 
+1, 4, 5, 8, 9, 13, 14 and to a lesser extent, 10.  I fully support the 
+rest.
+
+1 - Output Functions
+
+Cold -  at all times. This seems to be based on the assumption that it 
+        is *never* good to inflame someone's negative passions. In a 
+        reply to Bob McQueer he admitted that this was an oversight - 
+        that it might be a good thing in some newsgroups.    
+
+Soft -  His strategies have a strong soft tendency. This seems 
+        primarily intended to avoid upsetting those who are easily 
+        upset - the thinskins and/or the hotheads.
+
+2 - Input functions 
+
+Coolhead - Deliberately intended to quench any of his own hot-
+        headedness. The aim is to never overestimate how much someone 
+        is trying to criticize or insult you.
+
+Thick/thin skin? Carl portrays himself as being relatively thinskinned 
+        (although Matthew T. Russotto challenges this) but his 
+        strategies seem intended to make him behave as would a 
+        thickskinned person - someone who was not easily upset.
+
+
+So Carl's strategies push his output functions to extremes of Cold and 
+Soft, and are designed to force his "insult detector" input function 
+into the Coolhead mode. He does not try to become thickskinned, but he 
+tries to emulate a thick skinned person so as not to fuel a ping-pong 
+exchange of bad feelings.
+
+This really cramps his style.  The great communicators of this world 
+would resent any such restriction - and so would I!  Many a man has 
+expressed bamboozlement at the extreme tactical flexibility with which 
+women deploy their communication functions.  Many have wished that 
+their female partner had adopted Carl's strategies.  The woman's 
+response to such a suggestion may be "But that is what makes women 
+interesting!".  This is usually not true, but the woman's mental 
+agility at making such a brazenly false, self-congratulatory statement 
+usually leaves the man stumped and shows him that further attempts to 
+simplify and calm the situation will have the opposite effect.  
+He shuts up and concentrates on bringing home the bacon - which is 
+what the woman wants.
+
+Carl's strategies differs from his "natural" behaviour so much that 
+people would find it difficult to know the real Carl if he assiduously 
+adopted them.  This would be a diminution of communication and a loss 
+of human potential - however, to a significant degree this would be 
+compensated for by the reduction he achieves in conflict.  
+
+Carl says that his posted list of strategies is not complete.  What 
+has he chosen not to tell us??  Probably those strategies which would 
+make us angry!  The bastard!  How dare he pretend to be Mr. Nice Guy 
+with his published list while keeping the less pleasant strategies 
+secret. Does anyone really know Carl?  I only know him from his recent 
+postings which he admits are skewed to minimise any genuine reasons 
+for feeling malevolent towards him - or any reasons I might conjure up 
+in my own mind. I will not be deceived by this deliberate cyber-
+chameleon! I will resist his cunning plan to manipulate my feelings! 
+What is this - heart-to-heart communication or brain-surgery??? The  
+ . . . ahem . . Sorry.
+
+There is a fundamental flaw in Carl skewing his behaviour like this - 
+people learn to adjust for it.
+
+On a case by case basis, all other things being equal, Carl's 
+strategies typically would reduce conflict and so save a lot of 
+trouble and lost human potential. But things are not equal after he 
+has been following these strategies for a while. People get wise.
+
+When Carl says something nice about a person, they don't concentrate 
+on what he is saying, they are worrying about what comes next . . . 
+Is this the old "sandwich criticism between compliments" routine? 
+
+Here is another example, where "Andrew" follows Carl's strategies.
+
+Bruce wants to make Andrew feel miserable, but does not know him and 
+assumes he has no skewed communication strategy. 
+
+Bruce writes :-
+        "Andrew, you idiot, you really stuffed up X, Y and Z. How dare 
+        you call me a dumb-terminal!".  
+
+Andrew replies :- 
+        "Perhaps I did stuff those things up." 
+
+- despite the fact that he thinks he didn't. This leaves the whole 
+issue unresolved - Andrew admits no liability, and by not pursuing the 
+matter, he degrades the importance of the issue and Bruce's concern - 
+as if to say "So what if I stuffed them up?"
+
+Andrew also replies :-
+        "I am really sorry you misinterpreted my "dumb-terminal" 
+        comment.  ADM3a's have always seemed beautiful to me - sleek, 
+        stylish, no complicated options, minimal - the cyberspace 
+        equivalent of a brick. It was really a compliment, Bruce. I 
+        really must be more careful about saying things which can be 
+        misinterpreted so easily.  Cheers - your friend Andrew."
+
+Now Bruce "knows" Andrew.  The next time he wants to criticize or 
+upset Andrew, he knows he will need to wind up into hyper-flame mode.
+
+People adapt to changed circumstances, and they soon adapt to any 
+obvious slanting of a person's communication strategy.
+
+Carl's approach would save trouble in many cases in the short term, 
+but after the world has adjusted around him, some of the effectiveness 
+of his strategies would be eroded, and he would have imposed a mental 
+burden on some of the people he communicates with.  They need to put 
+their communications with him through incoming and outgoing Carl-
+specific mental filters in order to penetrate and correct for his 
+skewed communication strategies.  After all, they want to talk to 
+*Carl* - not his nice looking, teflon coated, padded suit.
+
+
+CONCLUSIONS
+
+I have identified four orthogonal characteristics of personal 
+communication style.  I have shown that these *may* be 
+genetically/hormonally influenced and significantly sexually 
+differentiated. A variety of other factors could affect the expression 
+of these characteristics and so although they may be used as an aid to 
+understanding, it would be wrong to base discrimination on them.
+
+Other factors are obviously significant and well known - upbringing, 
+nutrition, cultural factors etc.
+
+Carl's original discussion is about how to deliberately change our 
+communication strategies to optimize harmony - most specifically to 
+minimise conflict which causes misunderstanding.
+
+It is self evident that people exhibit a wide range of input 
+functions, between cool- and hot-headedness and thin- and thick-
+skinnedness.  It is clear that their correspondents try to correct for 
+these variations. But what is really happening is that Bruce builds a 
+mental model of Andrew's biases, and then makes a judgment on how to 
+correct for them.  There is at least one time delay and two or three 
+sources of error at work here.
+
+In turn, Andrew builds a mental model of Bruce's input and output 
+functions and uses this model to re-interpret Bruce's text in an 
+effort to determine what is happening in Bruce's mind.  He then 
+decides what he wants to happen in Bruce's mind, and uses his mental 
+model of Bruce's input functions to test possible texts before he 
+decides which one to post. 
+
+This is natural and desirable, to a point.  When it becomes extreme 
+and mechanistic, it is a mindless attempt at manipulation.  
+If you are interested in intense, structured approaches to 
+communication with carefully devised techniques for understanding and 
+connecting with other peoples minds, then check out "Introducing 
+Neurolinguistic Programming - The New Psychology of Personal 
+Excellence" Joseph O'Connor and John Seymour.  I read 56 pages, looked 
+at the rest and decided that the book sucks - it is fodder for the 
+"If I don't understand it, it must be profound" crew.
+
+In electronics, a negative feedback path around an op-amp is a fine 
+thing - until you put a capacitor in which slows it down. The system 
+becomes resonant and starts oscillating.  With Bruce and Andrew and 
+their complex input/output strategies, we have the human equivalent 
+of a loop of two amplifiers, several time delays and several sources 
+of noise and distortion.
+
+One question is - How much should we correct for someone else's 
+(perceived) biases?  In electronics as in life, if you increase the 
+level of negative feedback too much, under these conditions of delay 
+and error, chaotic oscillation will occur.
+
+So I suggest that we should not all adopt highly compensatory 
+strategies for other's perceived skews. I think that a small number of 
+individuals adopting highly tweaked schemes may not be so bad.
+
+I believe some compensation is warranted, but we must be careful not 
+to overdo it.  It would be better to make the compensation explicit 
+and clearly identifiable rather than do it by transforming the text. 
+For instance, it would be better to say :- 
+
+        "June, your essay is a mess, but I don't want you to get upset 
+        about it. Here is how we can work together to get you on top 
+        of this subject." rather than the cryptic:-
+                
+        "June, there is a little bit of a problem with your essay. We 
+        will need to do more work in this area."
+
+Here is an explicit, non-confusing way of compensating for a person's 
+perceived overly sensitive input function. This still communicates 
+perfectly well to someone who is not super-sensitive to criticism, 
+where as the "little bit of a problem" would result in a false 
+communication.  
+
+This approach leaves the raw data alone, allows June to feel upset at 
+messing up her essay and states a simple fact "I don't want your to 
+get upset about it" which will probably help her over her upset better 
+than pleading or shallow attempts at ego boosting or sugar coating.  
+
+This approach is unambiguous and so there is little danger in using 
+it. There is a problem however if June has always been mollycoddled 
+and told her essays were a bit of a problem.  If this is the first 
+time she is told her essay is a *mess*, it could be a shock.  She will 
+survive and come to appreciate the fact that someone is prepared to be 
+honest and constructive with her.
+
+The British have highly developed unspoken protocols about what should 
+never be spoken about plainly, and it is alienating and depressing.
+
+Ignoring the explicit/cryptic nature of the compensation, there are 
+questions about when we should apply it.  I assume that the strength 
+of compensation will be moderate if it is cryptic.
+
+Do we apply it when we have specific knowledge about an individual?
+        Probably yes. This is part of being friends, talking their 
+        language, making life easy for them.  It also may perpetuate 
+        their biases.  Do we want to do this?  Should we instead 
+        treat them as we would anyone else and so hope to "encourage" 
+        them to correct for their biases themselves?  It is easy to 
+        play "spot the value judgment" here, but who says that making 
+        value judgments on another person's behalf is always bad??
+
+Do we apply it when we have no individual knowledge of a person, but 
+        some indication they may belong to a group which typically has 
+        a skewed communication input and output functions?
+
+        Who knows? This could be a whole other discussion.
+
+Some of Carl's strategies are attempts to counter his own skewed, 
+noisy and distorting input functions.  I think this is a good thing - 
+particularly for functional communication.  For personal reasons 
+however, it complicates things and makes communication less 
+spontaneous.  Alcohol could be used to disable these strategies 
+temporarily.
+
+"Cyberspace" sounds really impressive, but the reality of plain ASCII, 
+time delayed communication is that it is an impoverished medium.  
+There is no handwriting, no voice, no body-language, no scribbles, no 
+whiteout. People are busy and so they are terse and sometimes sloppy. 
+Given the narrowness of the communication channel, the ease with which 
+it can be activated, the impossibility of retraction and the doubts 
+about the context in which it is read, it is not surprising that 
+things flare up.
+
+I support Carl's call for something to help newcomers, and I support 
+his many constructive strategies.  I don't think we should aim to 
+*make* things polite or try to placate any authority which wants to 
+outlaw mere rudeness.  Is there really such a stupid authority?
+
+Whatever we do, lets not mince words.  Write plainly and colourfully.
+When people really get to know each other, they generally like each 
+other more than they thought they would. 
+
+        Robin Whittle   zcirrw@minyos.xx.rmit.oz.au
+
+        Deliberate simplifications and polarizations have been 
+        made to stop this from being even longer. Some omissions could 
+        be complete oversights, so don't be shy about pointing them 
+        out. This is not a criticism of Carl - only some of the items 
+        on his posted list of strategies which he says is incomplete 
+        and is willing to add to. This cybernetic and biological 
+        emphasis does not mean that I think people are just machines, 
+        or that they are purely physical.
+
+        Society for the Appreciation of Eclectic Sensibilities
+        9 Miller St Heidelberg Heights Melbourne 3081 Australia
+        Ph +61-3-459-2889  Fax +61-3-458-1736
+        These opinions have nothing to do with CIRCIT who give me 
+        Internet access for privacy and (tele)communications work.
+
+</pre>
+<A NAME="CBwrMv.Ewo@ccu.umanitoba.ca">  Re: [news.admin.misc, et al.]  Zeleny</a><pre>
+Newsgroups: alt.comp.acad-freedom.talk
+From: feld@ccu.umanitoba.ca (Michael Feld)
+Subject:  Re: [news.admin.misc, et al.]  Zeleny
+Message-ID: <CBwrMv.Ewo@ccu.umanitoba.ca>
+Date: Tue, 17 Aug 1993 14:44:54 GMT
+M. Zeleny lost most of his family to the Nazia.  He hates the Nazis,
+and he hates their sympathisers and he hates those who see Nazi evil
+as "banal", and he hates those who should have opposed Nazism and did
+not.  He especially hates colloborators.  He contrasts them with his
+own mother, who fought the Nazis "in the trenches".
+
+Accordingly, he opposes Hannah Arrendt, for her liason with Heidegger,
+for fleeing Europe, for what he sees as moral defects in her _Eichman_
+text.
+
+So far, so good.  If you think Zeleny mistaken, fair enough.  If you
+think his iconoclasm hurtful, fair enough again.  
+
+So, why the fuss?  Zeleny is almost unbelievably rude, and his is
+profane.  He is rude to men and women equally, but for sure, his
+insults tend toward the sexist.
+
+Now, if we censor him, if we keep him off the net, Ruth Ginsburg will
+be happier, her students will be spared sexist profanity, but net discussion 
+of Arrendt will die.  Seems a high price: we trash incorrect language,
+and lose possibly correct thought.
+-- 
+Michael Feld                  | E-mail: <feld@cc.umanitoba.ca>
+Dept. of Philosophy           | FAX: (204) 261-0021
+University of Manitoba        | Voice: (204) 474-9136
+Winnipeg, MB, R3T 2M8, Canada
+</pre>
+<A NAME="24tjf3$kci@eff.org">  Re: USA Today jumps on a.b.p.e</a><pre>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.censorship
+Subject:  Re: USA Today jumps on a.b.p.e
+Date: 18 Aug 1993 11:56:19 -0400
+Message-ID: <24tjf3$kci@eff.org>
+[Here is Edupage's summary of the USA Today article. -cmk]
+
+HIGH-TECH HARASSMENT. Sexual harassment is making inroads in
+cyberspace as female users increasingly report instances of lewd
+messages, suggestive graphics or even electronic stalking over
+computer networks. Most reported incidents have been at
+universities. Last year school officials at the University of
+Oregon posted signs warning against sexual harassment via e-mail
+after female students received nude pictures pulled off an
+Internet erotica news group. Some universities, like Cornell,
+have stopped offering the news group. (USA Today 8/6/93 B2)
+[...]
+***************************************************************
+ABOUT EDUPAGE
+
+To subscribe to Edupage, send email to listserv@bitnic.educom.edu
+containing the text:  SUB EDUPAGE firstname lastname.  (To
+unsubscibe, send email  containing the text:   UNSUB EDUPAGE.)
+
+Product and other announcements from EDUCOM Corporate Associates
+are routinely added to the EDUCOM fileserver; those announcements,
+along with back issues of Edupage, are available by WAIS, Gopher,
+and anonymous ftp from educom.edu.
+
+*****************************************************************
+ EDUCOM--  Transforming Education Through Information Technology
+*****************************************************************
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>
+<A NAME="24tl15$ih2@fitz.TC.Cornell.EDU">  Re: USA Today jumps on a.b.p.e</a><pre>
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.censorship
+Subject:  Re: USA Today jumps on a.b.p.e
+Date: 18 Aug 1993 16:23:01 GMT
+Message-ID: <24tl15$ih2@fitz.TC.Cornell.EDU>
+In article <24tjf3$kci@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+> Some universities, like Cornell,
+>have stopped offering the news group. (USA Today 8/6/93 B2)
+
+Like other universities, Cornell has some pretty wacky
+computer use policies, which is exacerbated by embarassment
+over the Morris incident.  To my knowledge the central
+campus computing facility stopped bringing in abpe when it
+became apparent that a student from the university was
+posting kiddie porn to it, and CIT became concerned about
+the possibility of being liable if the question of
+criminality (interstate transport of child pornography)
+came up.  Sexual harassment was not the issue.
+--
+       Melinda Shore - Cornell Theory Center - shore@tc.cornell.edu
+</pre>
+<A NAME="1993Aug19.191712.14739@camax.com">  Re: Zeleny</a><pre>
+Newsgroups: news.admin.misc,news.admin.policy
+From: meuer@camax.com (Mark Meuer)
+Subject:  Re: Zeleny
+Message-ID: <1993Aug19.191712.14739@camax.com>
+Date: Thu, 19 Aug 1993 19:17:12 GMT
+In article <CBxMnG.24x@cs.uiuc.edu>, Carl M Kadie <kadie@cs.uiuc.edu> wrote:
+>meuer@camax.com (Mark Meuer) writes:
+>
+>[...]
+>>The CS department from which I graduated spent over a year in
+>>litigation and negotiation over an incident where a female graduate
+>>student found, in a public image directory, an image of a woman
+>>wearing no top.  The overwhelming legal opinion at the time was that
+>>having such pictures on the system without being clearly marked as
+>>offensive created a harassing and hostile work environment.  The
+>>university eventually settled out of court because they knew they
+>>would lose, and the public image directory was removed from the
+>>system.  This was for a completely voluntary, non-compulsory
+>>feature provided as a courtesy to the students.
+>[...]
+>
+>Where? If you've given all the relevent facts, sounds to me like they
+>could use some better legal counsel.
+
+This was at the University of Minnesota.  Maybe they could have used
+better legal counsel, maybe they just got tired of being bogged down
+with it.  (There were other R-rated pictures found in this directory,
+many supposedly put there by members of the systems staff.) The
+department was doing its best to blow itself apart anyway with other
+scandals involving professors and research funds.  It was really a
+fascinating time to be there.
+
+My whole point in my post was that regardless of the "right" someone
+may have to cross-post porno articles to all of the philosophy groups,
+abusing the net in this and similar manners will greatly reduce its
+real effectiveness.  People with worthwhile things to contribute will
+stay away.  The net result (if you'll excuse the pun) will be that the
+actual exchange of ideas will be thwarted, and the intellectual
+content of the net will continue to head downward.
+
+What can we do to help the net work better, without resorting to
+net policing?
+
+-mark
+-- 
+Mark Meuer   <><  | CAMAX, Inc | (612) 854-5300 Ext 376 | meuer@camax.com
+To many, total abstinence is easier than perfect moderation.
+	St. Augustine, On the Good of Marriage, xxi
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+</pre>
+<A NAME="199308200956.AA02228@prism">  Banned at Georgia Tech</a><pre>
+Newsgroups: alt.comp.acad-freedom.talk
+Subject:  Banned at Georgia Tech
+Date: 20 Aug 1993 05:57:44 -0400
+Message-ID: <199308200956.AA02228@prism>
+kadie@eff.org suggested:
+
+>I encourage you to post these details to alt.comp.acad-freedom.talk
+>(or email to caf-talk@eff.org).
+
+Since I cannot post to alt groups (we do not get them here at Tech),
+here is the letter.
+
+
+About a month ago, a huge religious war was raging on our local group,
+git.general.  One person (who was against religion) began using
+excessive prfanity.  Other articles had occasionaly contained profanity,
+but his articles always had several phrases, many of which were directed
+at the instigator of the thread.  A person from one of the many
+departments at Tech removed one article, claiming that he had received
+some complaints.  He reminded us all of the agreement we had signed to
+receive our accounts that prohibited such language.  A huge debate
+ensued.  People who had received their accounts more than two years ago
+had not been required to sign anything, so this regulation was a shock
+to them.  Many people posted that the religious articles were offensive
+to them, and asked them to be removed (none were, of course).  But the
+worst of all was finding out that the guy did not have the authority to
+remove the articles.  A few people spent time (and much email) trying to
+find out who was responsibile, but after weeks of buck-passing (Tech is
+notorious for red tape) the whole thing died down.  The general
+conclusion was that the man had removed the article no knowing if he
+could or not, and counting on people saying nothing.  Some say that he
+was instructed to remove no other articles.  To date, none have been
+removed (including articles from the same poster with the same type of
+language).  A revamping of the policy is supposedly underway.
+
+As far as alt groups go, we are supposedly denied them due to the space
+they take up, and their nature (free-for-all, anything goes, freedom of
+speech type of thing).  A new general purpose machine has come on line,
+so we are waiting to see if we pick up the alt groups.
+
+
+John
+
+
+DISCLAIMER:  I happen to work at Tech.  Call it strange, but I decided
+I'd rather manage a computer lab that flip burgers.  If this post
+offennds someone at Tech, who complains to OIT, who then tries to fire
+me for expressing MY (not the school's) opinion, well, I will not be a
+happy person.  I am not telling the readers of this article to NOT tell
+on me; instead this long disclaimer is a pre-emptive strike at Tech.  Do
+not fire me.  Think: any student could report these facts, and you would
+do nothing to them...sorry about the length, but you have to go to Tech
+to understand.  :-)
+</pre>

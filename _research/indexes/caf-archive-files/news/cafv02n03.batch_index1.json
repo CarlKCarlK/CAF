@@ -1,0 +1,421 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Jan 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University resisted the search based on undue burden rather than privacy grounds.",
+        "There was significant uncertainty among legal and university officials regarding what constitutes a 'university record' in a digital context.",
+        "The Electronic Communications Privacy Act of 1986 was considered but not used to stop the search."
+      ],
+      "organizations": [
+        "University of California",
+        "Electronic Frontier Foundation",
+        "Association for Computing Machinery"
+      ],
+      "people": [
+        "Dean Pentcheff"
+      ],
+      "summary": "Dean Pentcheff summarizes a case where the University of California was court-ordered to search Unix mainframe backups and disks for files containing a student's name during disciplinary proceedings. The incident highlights early legal ambiguities regarding whether 'university maintained records' include all data on university systems and the application of the Electronic Communications Privacy Act of 1986. Pentcheff argues that the case demonstrates a critical lack of knowledge among judges and university counsel regarding electronic privacy.",
+      "title": "UC computer searches: Summary #3",
+      "topics": [
+        "electronic privacy",
+        "court-ordered search",
+        "student records",
+        "ECPA",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "18 Jan 92 00:14:42 GMT",
+      "from": "dean2@garnet.berkeley.edu (Dean Pentcheff)",
+      "item_count": 10,
+      "item_index": 0,
+      "message_id": "<knesbiINN8d1@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "UC computer searches: Summary #3.",
+      "to_or_newsgroups": "comp.org.eff.talk,alt.comp.acad-freedom.talk,ba.politics,ucb.general,uc.general",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "14 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Private email between students should not be considered a University maintained record.",
+        "Classifying private emails as official records would potentially prevent users from reading their own archives without consent."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Eliot Lear"
+      ],
+      "summary": "Carl Kadie argues against the classification of private student-to-student emails as official university records. He suggests that if such communications were deemed official records, it would create absurd legal requirements regarding consent, notification, and amendment rights under privacy laws.",
+      "title": "Re: hackers, crackers, privacy on KQED",
+      "topics": [
+        "privacy",
+        "student rights",
+        "email archives",
+        "educational records"
+      ]
+    },
+    "identity": {
+      "date": "14 Jan 92 03:26:59 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 1,
+      "message_id": "<1992Jan14.032659.8519@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "Re: hackers, crackers, privacy on KQED",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 14, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The university has the authority to limit the use of University-owned facilities without infringing on individual rights.",
+        "Restrictions on network traffic content are permissible because the university pays for the infrastructure."
+      ],
+      "organizations": [
+        "University of Illinois Computing Services Office"
+      ],
+      "people": [
+        "Steve Dorner",
+        "Brian F. Redman",
+        "Carl Kadie"
+      ],
+      "summary": "Steve Dorner discusses the tension between individual free speech rights and a university's authority to control its own facilities. He argues that while the university should not sanction users for their external speech, it has the right to limit content on university-funded networks and resources. This reflects an early debate over whether network traffic constitutes protected speech or a university-funded service.",
+      "title": "Speech & the University",
+      "topics": [
+        "free speech",
+        "network policy",
+        "academic freedom",
+        "university resources"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 14 Jan 1992 16:10:57 GMT",
+      "from": "dorner@pequod.cso.uiuc.edu (Steve Dorner)",
+      "item_count": 10,
+      "item_index": 2,
+      "message_id": "<1992Jan14.161057.27161@ux1.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "Speech & the University (was Re: Dorner vs. the lunatic fringe)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "15 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Ownership of a computer system does not ipso facto grant the right to inspect private email.",
+        "University policy is not equivalent to law.",
+        "Unilaterally imposed terms of service (like store signs) may be legally unenforceable regarding personal searches."
+      ],
+      "organizations": [
+        "Northern Territory University Law School",
+        "University of Illinois Urbana-Champaign (UIUC)"
+      ],
+      "people": [
+        "Mark P. Neely",
+        "Carl M. Kadie",
+        "Gordon Davis",
+        "John Carey",
+        "John Holm"
+      ],
+      "summary": "A law student from Northern Territory University argues against the notion that ownership of a computer system grants an employer or university the automatic right to inspect private email. He contends that unilaterally posted policies do not constitute legal authority and compares the situation to supermarket baggage search signs, which he claims are legally ineffective. The post highlights early debates over the intersection of property rights and privacy in electronic communications.",
+      "title": "RE: [uiuc.general] Re: Dorner vs. the lunatic fringe",
+      "topics": [
+        "email privacy",
+        "employer monitoring",
+        "property rights",
+        "academic freedom",
+        "legal precedent"
+      ]
+    },
+    "identity": {
+      "date": "15 Jan 92 10:30:16 GMT",
+      "from": "NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)",
+      "item_count": 10,
+      "item_index": 3,
+      "message_id": "<920115103016.21400522@DARWIN.NTU.EDU.AU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "RE: [uiuc.general]  Re: Dorner vs. the lunatic fringe",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "15 Jan 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Universities must make policies and intentions regarding network traffic restrictions absolutely clear to users.",
+        "Users have a reasonable expectation of privacy on university machines unless notified otherwise.",
+        "The ownership of the hardware does not automatically negate basic rights to privacy."
+      ],
+      "organizations": [
+        "Northern Territory University Law School",
+        "University of Illinois Computing Services Office"
+      ],
+      "people": [
+        "Mark P. Neely",
+        "Brian F. Redman",
+        "Carl Kadie",
+        "Steve Dorner"
+      ],
+      "summary": "A discussion regarding whether universities have the right to restrict content on university-owned network facilities. Mark Neely argues that while a university may exercise control over its property, it has an obligation to clearly communicate these policies to users. He asserts that without such notification, users maintain a reasonable expectation of privacy regardless of who owns the hardware.",
+      "title": "Speech & the University",
+      "topics": [
+        "academic freedom",
+        "network censorship",
+        "privacy",
+        "university policy",
+        "acceptable use"
+      ]
+    },
+    "identity": {
+      "date": "15 Jan 92 10:59:19 GMT",
+      "from": "NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)",
+      "item_count": 10,
+      "item_index": 4,
+      "message_id": "<920115105919.21400522@DARWIN.NTU.EDU.AU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "RE: [uiuc.general]  Speech & the University (was Re: Dorner vs. the lunatic fringe)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "15 Jan 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The University cannot expel a student from class without due process.",
+        "Computer account revocation should be subject to the same due process requirements as physical campus access."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Kenneth R Brownfield",
+        "Steve Dorner"
+      ],
+      "summary": "Carl Kadie discusses the application of due process to university services and spaces. He argues that just as students cannot be arbitrarily expelled from classes, they should not be banned from the campus quad or have their free student computer accounts revoked without due process.",
+      "title": "\"kicking you out\"",
+      "topics": [
+        "due process",
+        "computer account access",
+        "academic freedom",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "15 Jan 92 02:58:31 GMT",
+      "from": "kadie@m.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 5,
+      "message_id": "<1992Jan15.025831.29351@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "\"kicking you out\" (was Re: Dorner vs. the lunatic fringe)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "16 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Computer publications should be interpreted as 'press' under the US Constitution.",
+        "The prosecution of Craig Neidorf (Phrack) demonstrates a failure in the application of civil liberties to electronic media.",
+        "Electronic publications are more analogous to newspapers than to licensed broadcast media like radio and television."
+      ],
+      "organizations": [
+        "Northern Territory University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Mark P. Neely",
+        "Brian J. Peretti",
+        "Ronald Polanski",
+        "Craig Neidorf",
+        "Mitch Kapor"
+      ],
+      "summary": "Mark P. Neely discusses Brian J. Peretti's argument that computer publications should be granted First Amendment protections similar to those of the print press, radio, and television. The post highlights the legal struggle to define 'computer publications' and argues against prior restraint on electronic media. It specifically references the prosecution of Craig Neidorf as an example of the lack of clarity regarding civil liberties in cyberspace.",
+      "title": "Computer Publications & the 1st Amendment",
+      "topics": [
+        "First Amendment",
+        "freedom of speech",
+        "computer publications",
+        "prior restraint",
+        "cyberspace law"
+      ]
+    },
+    "identity": {
+      "date": "16 Jan 92 16:10:57 GMT",
+      "from": "NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)",
+      "item_count": 10,
+      "item_index": 6,
+      "message_id": "<920116161057.2140105f@DARWIN.NTU.EDU.AU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "Computer Publications & the 1st Amendment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "17 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "There is ambiguity over whether electronic publications should be legally categorized as public media or private speech.",
+        "The legal status of a digital post may depend on whether the law prioritizes the communication channel (distribution) or the individual node (the text itself)."
+      ],
+      "organizations": [
+        "Northern Territory University Law School",
+        "Purdue University",
+        "EFF"
+      ],
+      "people": [
+        "Mark P. Neely",
+        "Jim Porter"
+      ],
+      "summary": "Mark Neely shares a discussion from the ethics-l mailing list regarding the legal status of electronic publications. Jim Porter questions whether digital text should be governed by laws pertaining to public media, telephone conversations, or private speech. The exchange examines how the method of distribution affects the First Amendment protections and privacy of computer-mediated communication.",
+      "title": "Computer publications...",
+      "topics": [
+        "First Amendment",
+        "electronic publication",
+        "legal status of digital text",
+        "privacy",
+        "public media"
+      ]
+    },
+    "identity": {
+      "date": "17 Jan 92 10:30:03 GMT",
+      "from": "NEELY_MP@DARWIN.NTU.EDU.AU (Mark P. Neely, Northern Territory University)",
+      "item_count": 10,
+      "item_index": 7,
+      "message_id": "<920117103003.21401617@DARWIN.NTU.EDU.AU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "Computer publications...",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "16 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "CERT requested an investigation into a Pitt account because a user at Penn State was offended by a political discussion in French.",
+        "The author asserts that 'being offended' is not a valid reason to revoke computer access unless laws are broken or material is obscene."
+      ],
+      "organizations": [
+        "University of Pittsburgh",
+        "CERT (Computer Emergency Response Team)",
+        "Penn State University"
+      ],
+      "people": [
+        "Terry J. Wood",
+        "Kenn Barry",
+        "Joseph Moore"
+      ],
+      "summary": "Terry J. Wood discusses the pressures to revoke user accounts based on complaints of offensive content, specifically citing a request from CERT regarding a political dispute in French. Wood argues that being offended is not sufficient grounds for account termination and defends the right to honest, if heated, debate on mailing lists. He emphasizes that only illegal acts or obscene material should justify administrative action.",
+      "title": "Re: There is No Such Thing (was: Pornography)",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "account revocation",
+        "online harassment",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "16 Jan 92 18:35:52 GMT",
+      "from": "tjw+@cis.pitt.edu (Terry J. Wood)",
+      "item_count": 10,
+      "item_index": 8,
+      "message_id": "<406@blue.cis.pitt.edu.UUCP>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "Re: There is No Such Thing (was: Pornography)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Jan 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "A censor bears more liability for material they explicitly approve via pre-screening than for material posted without prior review.",
+        "Liability increases proportionally with the level of a censor's activism."
+      ],
+      "organizations": [
+        "CompuServe"
+      ],
+      "people": [
+        "Rachel McGregor",
+        "Harry Lee"
+      ],
+      "summary": "Rachel McGregor discusses the legal liability of system administrators regarding content moderation in response to a CompuServe-related decision. She argues that pre-screening messages increases a censor's liability because it implies approval or negligence if offensive material is released. The post outlines four levels of censorship activism, ranging from no censorship to mandatory pre-screening.",
+      "title": "Re: Effect of the Compuserve decision",
+      "topics": [
+        "censorship",
+        "liability",
+        "content moderation",
+        "online community standards"
+      ]
+    },
+    "identity": {
+      "date": "18 Jan 92 18:54:35 GMT",
+      "from": "rogue@cellar.org (Rachel McGregor)",
+      "item_count": 10,
+      "item_index": 9,
+      "message_id": "<oDeReB6w164w@cellar.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n03",
+      "subject": "Re: Effect of the Compuserve decision",
+      "to_or_newsgroups": "comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  }
+]

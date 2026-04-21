@@ -1,0 +1,407 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 6, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Debate exists over whether universities are obligated to maintain newsgroups if they are being used for illegal purposes.",
+        "Some argue that screening articles may increase a university's legal liability.",
+        "The Fresno State University computer use policy allows faculty and staff to access others' files for maintenance purposes."
+      ],
+      "organizations": [
+        "Cornell University",
+        "American Library Association",
+        "University of Illinois",
+        "Fresno State University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Aaron Barnhart",
+        "Carl M. Kadie"
+      ],
+      "summary": "This digest abstract summarizes debates regarding the restriction of Usenet newsgroups at Cornell University following an FBI probe into child pornography. It also explores the ethics and legality of system administrators canceling other users' posts and reports on computer use policies and disciplinary issues at various universities and organizations.",
+      "title": "Abstract of CAF-News 02.61",
+      "topics": [
+        "Usenet",
+        "academic freedom",
+        "sysadmin ethics",
+        "content moderation",
+        "computer use policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "barnhart@ddsw1.mcs.com (Aaron Barnhart)",
+      "item_count": 10,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 0 -- Abstract of CAF-News 02.61",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "30 Nov 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Federal law requires producers of visual depictions to maintain detailed records of all models, including all names ever used.",
+        "Government agencies have the right to examine these records at reasonable hours.",
+        "The interstate commerce clause is used to apply these regulations if any equipment used in production was shipped across state lines."
+      ],
+      "organizations": [
+        "FBI",
+        "Cornell"
+      ],
+      "people": [
+        "Leonard Erickson",
+        "Karl Denninger"
+      ],
+      "summary": "In response to a discussion about an FBI probe at Cornell, Leonard Erickson describes the strict record-keeping requirements for producers of visual depictions under child pornography laws. He highlights the requirement to maintain detailed model records available for government inspection and notes the use of the interstate commerce clause to extend federal jurisdiction.",
+      "title": "Re: [UPI] \"FBI probes computer child porn at Cornell\"",
+      "topics": [
+        "child pornography laws",
+        "record-keeping",
+        "interstate commerce clause",
+        "legal liability"
+      ]
+    },
+    "identity": {
+      "date": "30 Nov 92 19:05:22 GMT",
+      "from": "leonard@qiclab.scn.rain.com (Leonard Erickson)",
+      "item_count": 10,
+      "item_index": 1,
+      "message_id": "<1992Nov30.190522.13734@qiclab.scn.rain.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 1--Re: [UPI] \"FBI probes computer child porn at Cornell\"",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,news.admin.policy,comp.admin.policy,alt.binaries.pictures.erotica.d,alt.society.civil-liberty",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The removal of a popular network resource due to the potential for past criminal use may be viewed as a violation of academic freedom.",
+        "System administrators may prioritize system stability and legal avoidance over the propagation of controversial information."
+      ],
+      "organizations": [
+        "Cornell University"
+      ],
+      "people": [
+        "Matt Welsh",
+        "Daniel Zabetakis"
+      ],
+      "summary": "A debate between Matt Welsh and Daniel Zabetakis regarding Cornell University's decision to restrict access to erotica-related Usenet newsgroups following a legal investigation into specific content. The exchange centers on whether providing network access constitutes a service the university is obligated to maintain under the principles of academic freedom, comparing Usenet feeds to library collections.",
+      "title": "ALERT RE POSTINGS AND CORNELL ACCESS TO ALT.*.*.EROTICA HIER",
+      "topics": [
+        "academic freedom",
+        "Usenet",
+        "censorship",
+        "network administration",
+        "content filtering"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 2 Dec 1992 05:57:03 GMT",
+      "from": "mdw@theory.TC.Cornell.EDU (Matt Welsh)",
+      "item_count": 10,
+      "item_index": 2,
+      "message_id": "<1992Dec2.055703.10745@tc.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 2--Re: ALERT RE POSTINGS AND CORNELL ACCESS TO ALT.*.*.EROTICA HIER",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 4, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Screening Netnews for offensive articles may increase a university's legal liability by exercising prior review.",
+        "Institutions are less likely to be held liable for student publications if they do not exercise editorial control."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Association of University Professors"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Rich Wales"
+      ],
+      "summary": "Carl Kadie responds to an inquiry regarding whether university system administrators are liable for libelous statements made by users. He argues that screening content may actually increase institutional liability by establishing editorial control, citing legal precedents from student press law and the Cubby v. CompuServe case.",
+      "title": "Article 5--Re: Libel by computer user -> liability by sysadmins?",
+      "topics": [
+        "libel",
+        "system administrator liability",
+        "editorial control",
+        "academic freedom",
+        "Netnews"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 4 Dec 1992 22:10:07 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 3,
+      "message_id": "<Byr9Kv.7wB@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 5--Re: Libel by computer user -> liability by sysadmins?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 6, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Canceling others' posts is justified for excessively large articles, reposted old articles with new IDs, or forged sendsys messages."
+      ],
+      "organizations": [
+        "University of Kentucky"
+      ],
+      "people": [
+        "Kenneth Herron",
+        "jbotz"
+      ],
+      "summary": "Kenneth Herron argues against a restrictive view of canceling others' posts on Usenet. He lists specific technical justifications for such actions, including excessively large files and forged messages. The post reflects early internet debates over administrative control versus user autonomy in public forums.",
+      "title": "Article 7--Re: Canceling other people's postings",
+      "topics": [
+        "Usenet",
+        "netiquette",
+        "content moderation",
+        "administrative power"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 6 Dec 1992 15:43:55 GMT",
+      "from": "kherron@ms.uky.edu (Kenneth Herron)",
+      "item_count": 10,
+      "item_index": 4,
+      "message_id": "<1992Dec6.104355.1025@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 7--Re: Canceling other people's postings",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Dec 6, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Canceling posts based on perceived illegality is an overreach of authority by 'self-appointed net.police'.",
+        "Unauthorized cancellation of articles can be viewed as a violation of the system administrator's domain of authority over their own newsspool."
+      ],
+      "organizations": [
+        "Mount Holyoke College"
+      ],
+      "people": [
+        "Jurgen Botz",
+        "Tim Pierce",
+        "Dennis G Rears"
+      ],
+      "summary": "Jurgen Botz discusses the ethics and authority surrounding the cancellation of Usenet posts by third parties. He argues that only authors and group moderators should have the authority to cancel messages, opposing 'net.police' who delete content based on personal or legal judgments. Botz frames the act of unauthorized cancellation as a violation of system administrators' domain and data ownership.",
+      "title": "Article 8--Re: Canceling other people's postings",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "data ownership",
+        "netiquette",
+        "moderation"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 6 Dec 1992 15:22:53 GMT",
+      "from": "jbotz@mtholyoke.edu (Jurgen Botz)",
+      "item_count": 10,
+      "item_index": 5,
+      "message_id": "<ByuG25.A5v@mtholyoke.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 8--Re: Canceling other people's postings",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Tue, 1 Dec 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The ALA supported boycotts of library materials from Namibia and South Africa in 1987 despite its Library Bill of Rights."
+      ],
+      "organizations": [
+        "American Library Association"
+      ],
+      "people": [
+        "Aaron Barnhart",
+        "Nat Hentoff"
+      ],
+      "summary": "Aaron Barnhart critiques the American Library Association (ALA) for perceived hypocrisy regarding its Library Bill of Rights. He contrasts the ALA's principle against excluding materials based on views with its 1987 support for boycotting materials from Namibia and South Africa.",
+      "title": "Article 9--Forked Tongue Watch",
+      "topics": [
+        "censorship",
+        "library policy",
+        "academic freedom",
+        "boycotts"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 1 Dec 1992 00:03:13 GMT",
+      "from": "barnhart@ddsw1.mcs.com (Mr. Aaron Barnhart)",
+      "item_count": 10,
+      "item_index": 6,
+      "message_id": "<ByK05F.MJo@ddsw1.mcs.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 9--Forked Tongue Watch (was Re: ALERT RE POSTINGS AND CORNELL etc.)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-11-24",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The university limited attorney participation in discipline hearings after attorneys exposed a 'fix' (pre-determined decision) six years prior."
+      ],
+      "organizations": [
+        "University of Illinois",
+        "Student Government Association"
+      ],
+      "people": [
+        "Richard Stock",
+        "Silverman",
+        "Savage",
+        "Carl M. Kadie"
+      ],
+      "summary": "A report from the Daily Illini describes a Student Government Association task force meeting regarding inequities in the University of Illinois's student discipline system. Attorneys Silverman and Savage claimed that the university had limited the role of legal counsel during hearings to prevent them from exposing biased decision-making processes.",
+      "title": "Attorneys discuss UI discipline at SGA task force meeting",
+      "topics": [
+        "due process",
+        "student discipline",
+        "academic freedom",
+        "legal representation"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 30 Nov 1992 21:15:57 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 7,
+      "message_id": "<1992Nov30.211557.1480@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 10--[Daily Illini] Attorneys discuss UI discipline ...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "December 2, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Police used a 15-year-old boy to press a return key to simulate illegal access for a sting operation.",
+        "The prosecution applied 'criminal tool' statutes to the computer hardware itself to elevate charges to felonies.",
+        "Digital images of poor resolution were used as evidence of child pornography despite lack of expert consensus."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Ohio Bureau of Criminal Identification and Investigation",
+        "Cleveland Plain Dealer"
+      ],
+      "people": [
+        "David Lehrer",
+        "Mark Lehrer",
+        "Stahl"
+      ],
+      "summary": "David Lehrer provides an update on the prosecution of Mark Lehrer, a BBS sysop in Ohio accused of disseminating matter harmful to juveniles and possessing child pornography. The case highlights the legal dangers of classifying computer systems as 'criminal tools' and the lack of 'library defenses' for digital service providers. It emphasizes the risk of broad search-and-seizure precedents regarding personal files stored on seized hardware.",
+      "title": "Article 11--Akron BBS trial update!",
+      "topics": [
+        "BBS",
+        "sysop liability",
+        "search and seizure",
+        "First Amendment",
+        "child pornography laws"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 2 Dec 1992 16:49:08 GMT",
+      "from": "71756.2116@compuserve.com (David Lehrer)",
+      "item_count": 10,
+      "item_index": 8,
+      "message_id": "<921202164908_71756.2116_DHG64-1@CompuServe.COM>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 11--Akron BBS trial update!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "August 1992",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Department faculty and staff may access others' files when necessary for the maintenance of computing facilities.",
+        "Computing resources are to be used for Department-related activities only."
+      ],
+      "organizations": [
+        "California State University, Fresno"
+      ],
+      "people": [],
+      "summary": "This item presents the official computer use policy for the Department of Computer Science at California State University, Fresno. The policy outlines rules regarding account security, prohibited commercial use, and the confidentiality of files. It specifically grants faculty and staff access to users' files when necessary for system maintenance.",
+      "title": "Fresno State CS dept. Policy on Computer Use",
+      "topics": [
+        "acceptable use policy",
+        "privacy",
+        "administrative control",
+        "computer ethics"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 1 Dec 1992 06:59:04 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 10,
+      "item_index": 9,
+      "message_id": "<9212011859.AA09215@herodotus.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n61",
+      "subject": "Article 12--Fresno State CS dept. Policy on Computer Use",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

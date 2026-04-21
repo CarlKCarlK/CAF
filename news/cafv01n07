@@ -1,0 +1,546 @@
+Computers and Academic Freedom (news version)
+Sun May 26, 1991
+Vol. 1, No. 7
+Editor: Carl M. Kadie (kadie@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org".
+
+[This issue considers the circumstances under which a (computer)
+postmaster should read the body of misaddressed e-mail. In also
+includes a brief history of Academic Freedom in the US and comments
+whether system admins should stand up for user rights. Sally Webster
+solicits "ethics war stories". A computer-user right is asserted: the
+right to participate in policy formulation and application. Finally,
+Boston University's computer policy is criticized as one sided. -
+Carl]
+
+In this issue:
+
+a Dan Brown        10  Something to chew on a bit...
+b Fuat C. Baran    51  >
+c Fuat C. Baran    73  >
+d Joe Brennan      24  >
+e Carl M. Kadie    82  "Academic Freedom and Catholic Higher Education"
+f Sanjay Kapur     34  >Computer Programmers as System Administrators
+g Sally Webster   100  Need help with project
+h Sanjay Kapur     77  >Another Right: User Representation
+i kadie            46  >Harrassment via email
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Back issues are available via anonymous ftp from eff.org. See file
+academic/README.
+
+Date: Mon, 20 May 1991 12:29 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Subject: Re: Computer Programmers as System Administrators
+Message-Id: <26BF5B8A70A0B045@ccmail.sunysb.edu>
+X-Organization: State University of New York, Stony Brook
+X-Vms-Cc: SKAPUR
+
+>Sender: Joe Brennan <brennan@cunixf.cc.columbia.edu>
+>
+>Nope, if you do only what your boss says, you're clerical staff.  The
+>professionalism issue had been kicking around the library biz for 20
+>years or so and hits right on this issue.  Librarians are supposed to
+>follow professional ethics regardless of what the boss says.
+>Physicians pledge to treat the way they judge best; lawyers pledge to
+>follow the laws; when they work for a clinic or law firm, that doesn't
+>change.  Need of a job and other reasons may lead people to do what
+>the boss says, but at least let's recognize the conflict that creates.
+>
+>Joe Brennan
+>
+
+We seem to have digressed from professional "responsibilities" to professional 
+"ethics".  I agree that where ethics are concerned, a professional may have to 
+differ with the boss (and possibly loose their job in the process).
+
+HOWEVER,
+
+I do not know of any ethical guidelines for System administrators which 
+require them to give anyone any "freedoms".
+
+Therefore the argument above about Librarians, physicians and lawyers is not 
+valid in the context of "Freedoms".
+
+Maybe we should develop ethical guidelines on these issues and have them 
+approved by the relevant professional organizations?
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+Message-Id: <9105221543.AA04005@usenet.INS.CWRU.Edu>
+Date: Wed, 22 May 91 11:43:14 -0400
+From: Dan Brown <brown@usenet.INS.CWRU.Edu>
+Subject: Something to chew on a bit...
+
+It a violation of "academic rights/freedoms" for bounced mail to be sent to
+the postmaster of an instalation? 
+
+As far as I know, this is common practice. It can be somewhat of an invasion
+of privacy though. What kind of repercussions could this have on the academic
+freedoms??
+
+Later.
+Dan
+
+Date: Wed, 22 May 91 12:05:54 EDT
+From: "Fuat C. Baran" <fuat@cunixf.cc.columbia.edu>
+Cc: fuat@cunixf.cc.columbia.edu
+Office: 712 Watson, (212) 854-5128
+Subject: Re: Something to chew on a bit...
+Message-Id: <CMM.0.90.2.674928354.fuat@cunixf.cc.columbia.edu>
+
+>It a violation of "academic rights/freedoms" for bounced mail to be sent to
+>the postmaster of an instalation? 
+>
+>As far as I know, this is common practice. It can be somewhat of an invasion
+>of privacy though. What kind of repercussions could this have on the academic
+>freedoms??
+
+[Note: The opinions below are not an official statement of Columbia
+University, though I am the postmaster.]
+
+
+At Columbia Univ. (on the central academic systems), bounced mail that
+goes to postmaster only contains the SMTP transaction log (contains
+the bounce reason, such as "User unknown" or "Host unknown", etc.) and
+and correct problems if they are in our local mailer, occasionally
+help the sender by suggesting a correct address (this usually comes up
+after a user sends to the same incorrect address 20 times in a row),
+or contact the remote postmaster if it is a remote configuration
+problem.
+
+Note that this is a local modification to the Berkeley sendmail
+(mailer) and not all mailers protect privacy to this extent.  I
+believe Sun's version of sendmail also behaves this way.  Stock BSD
+sendmail used to (and might still) send the SMTP transaction and
+complete (including message body) outgoing message to postmaster on
+bounces.  Other mailers may also deliver complete messages to
+postmaster.  I don't think that is appropriate, since the only info a
+postmaster really needs to keep the mail system functioning is the
+error messages and headers.
+
+I think disclosing header info is somewhat analogous to postal clerks
+reading envelopes to determine how to route mail or return to sender
+if undeliverable.  Actually, I think they go a bit farther.  I believe
+they will open the envelope if they can't deliver or return a letter
+due to insufficient info on the envelope.
+
+						--Fuat
+
+P.S.  Given that mail may go through several mailers at different
+sites (possibly with different policies) before delivery at the final
+destination, in general I would not recommend sending "sensitive"
+information by email, at least not in plaintext.
+
+
+
+
+Internet: fuat@columbia.edu          U.S. MAIL: Columbia University
+  BITNET: fuat@cunixc                           Center for Computing Activities
+    UUCP: ...!rutgers!columbia!cunixf!fuat      712 Watson Labs, 612 W115th St.
+   Phone: (212) 854-5128  Fax: (212) 662-6442   New York, NY 10025
+
+Date: Thu, 23 May 91 13:05:53 EDT
+From: "Fuat C. Baran" <fuat@cunixf.cc.columbia.edu>
+Cc: fuat@cunixf.cc.columbia.edu
+Office: 712 Watson, (212) 854-5128
+Subject: Re: Something to chew on a bit...
+Message-Id: <CMM.0.90.2.675018353.fuat@cunixf.cc.columbia.edu>
+
+Sanjay Kapur <SKAPUR@ccmail.sunysb.edu> writes:
+>The job of a postmaster is much more than just to keep the "mail system 
+>functioning".  The postmaster is responsible for the delivery of mail and that
+>involves much more than simply keeping the postal vans in good repair.
+
+Continuing the post office analogy a bit, I don't think that all
+bounced mail should default to the "Dead Letter office" you mention.
+After all, if there is a return address on an envelope, doesn't the
+post office just route it back to sender by stamping the address with
+a red "Return to Sender" stamp without opening the envelope and
+reading the first few lines?
+
+>Most of the times, at least the first few lines of the body of the message is 
+>needed because it sometimes contains the first and or last name of the person.
+
+I don't really think that is sufficient justification for having
+message text in the *postmaster* copy of the bounce notice.  After
+all, the sender gets the bounce notice with full text.  If they have
+trouble determining the correct address, they should ask their
+postmaster for help.  We encourage this at Columbia, and get numerous
+messages asking for help.  Also, I disagree with the "most of the
+times[sic]" qualification you make.
+
+>Also, in the brave new world of mail gateways to X.400 and other mail systems 
+>and SMTP mail, it is impossible for a program to figure out where the header 
+>end and the body of the message starts.
+
+That would be unfortunate.
+
+>This is the function of the Dead Letter office.  This is what an electronic 
+>postmaster does when forwarding misaddressed mail and therefore should be bound
+>by the same confidentiality rules governing the contents.
+
+Yes, of course electronic postmasters (and system admins, etc.) should
+be bound by confidentiality rules.  I just don't think that in the
+majority of cases I see (3500+ users in /etc/passwd) the message body
+would have been needed.
+
+>My personal experience as an Electronic Postmaster for a Computer site with 
+>over 3000 academic users:
+>
+>Over the past two years, I must have forwarded several thousand misaddressed 
+>mail messages.  I have not disclosed the contents of even a single 
+>misaddressed message to anyone (Except to my co-postmaster(s) when seeking 
+>advise on a particularly undecipherable address).
+
+In how many of those cases did you actually need the contents of the
+message?  Weren't the headers sufficient?
+
+>I have yet to get a single objection to my having forwarded a misaddressed mail
+>message.
+
+Actually, some people are concerned about having bounces go to
+postmaster.  I have had people express surprise (and initially
+concern) when they heard about this.  They do appreciate hearing that
+we don't get the text.  
+
+>I believe that forwarding misaddressed mail is a fundamental responsibility of 
+>the postmaster.  Preserving the confidentiality of mail is also a fundamental 
+>responsibility of the postmaster.
+
+I think most of our users are capable of handling the bounce notice
+and remailing it.  Most of the time bounces are due to typos anyway.
+Those that have more trouble end up asking for help.
+
+
+						--Fuat
+
+Internet: fuat@columbia.edu          U.S. MAIL: Columbia University
+  BITNET: fuat@cunixc                           Center for Computing Activities
+    UUCP: ...!rutgers!columbia!cunixf!fuat      712 Watson Labs, 612 W115th St.
+   Phone: (212) 854-5128  Fax: (212) 662-6442   New York, NY 10025
+
+Date: Thu, 23 May 91 16:33:01 EDT
+From: Joe Brennan <brennan@cunixf.cc.columbia.edu>
+Subject: Re: Something to chew on a bit...
+Message-Id: <CMM.0.90.2.675030781.brennan@cunixf.cc.columbia.edu>
+
+> 
+> I agree, it may not be a majority but slightly over a third of the
+> cases it is essential to have the body of the message.
+
+Essential?  I agree that not getting the body means the sender has to
+re-send, and sometimes take the initiative to ask about an address,
+but how essential is it to save them the trouble?  Considering the
+loss in privacy, I wouldn't say the convenience is worth it.  It's
+just no big deal to re-send.
+
+I'm surprised it's as high as a third.  I work with Fuat, so we're
+looking at the same bounces, but yeah I doubt we could get much out of
+the body anyway.  So many are obvious typos, or else outside addresses
+that we couldn't guess anyhow.  The most useful thing, I find, is the
+message the user is responding to, which is of course not the one that
+bounces.
+
+> I guess Columbia University users are more sophisticated than the rest of 
+> the world.
+
+This, of course, is totally true.  So we do agree on something.
+
+Joe Brennan   Asst Postmaster
+
+Date: Wed, 22 May 91 23:57:25 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9105230457.AA06305@herodotus.cs.uiuc.edu>
+Subject: "Academic Freedom and Catholic Higher Education"
+
+~s A Brief History of Academic Freedom in the United States
+
+[This is based on a chapter in the book "Academic Freedom and Catholic
+Higher Education" by James John Annarelli, 1987, Greenwood Press. The
+chapter title is "The Secular Model of Academic Freedom in the
+United States: A Description Overview". - Carl Kadie]
+
+The chapter opens: "The secular model of academic freedom commonly
+accepted in the United States is composed of those definitions and
+principles that are outlined and developed in the literature of the
+AAUP. ... In principle Americans acknowledge the two complementary
+elements of academic freedom that were first elaborated upon in
+nineteenth-century Germany, Lernfreiheit and Lehrfreiheit -- freedom to
+learn and freedom to teach. ..."
+
+The AAUP's "1915 Declaration of Principles" defines faculty academic
+freedom as made up of three parts "freedom of inquiry and research;
+freedom of teaching within the university of college; and freedom of
+extramural utterance and action." The Declaration states "Universities
+shall be so free that no fair-minded person shall find any excuse for
+even a suspicion that the utterances of university teachers are shaped
+or restricted by the judgments, not of professional scholars, but of
+inexpert and possibly not wholly disinterested persons outside their
+ranks."
+
+The chapter says, "In the extramural arena, the scholar is bound
+neither by a norm of neutrality, nor by a norm of competence. The
+freedom of the scholar to express his or her opinions on controversial
+questions and issues -- even those that fall outside his or her area of
+specialty -- must not be restricted."
+
+The "1940 State on Principles on Academic Freedom and Tenure" says
+that "the common good depends upon the free search for truth and its
+free exposition."
+
+The chapter says that the nineteenth-century German student also
+possessed the privilege of academic freedom. This idea is was pretty
+much lost in the 1915 Statement perhaps because the American
+university differed from the German university. The US university took
+parental responsibility. Also the German students were what Americans
+would consider graduate students.
+
+"Support for the student's right to due process of law first came from
+the case of Dixon vs. Alabama State Board of Education ... . Students,
+in good standing, were expelled from Alabama State College for
+participating in a civil rights demonstration. They were expelled
+without notice, hearing, or appeal, and thus claimed that they were
+deprived of due process of law. The court ruled in the student's
+favor."
+
+In 1964 the AAUP issued the "1964 Statement on the Academic Freedom of
+Students". With the help of other organizations, in 1967, this became
+the "The Joint Statement on Rights and Freedoms of Students"
+[Available via anonymous ftp from eff.org as file
+academic/student.freedoms.]
+
+The chapter says "[t]he Statement affirms that on the college campus,
+students should enjoy freedom of association. 'Students and student
+organization should be free to discuss all questions of interest to
+them, and to express opinions publicly and privately.' They should be
+entitled to invite and hear guest speakers of their choice. In this
+regard, institutional control of facilities should never be used as a
+method of censorship. Students should be fee to express their views on
+institutional policy, and student publications should be immune from
+censorship."
+
+"The final section of the statement deals with disciplinary
+procedures. Students should be held accountable only for standards of
+conduct that have been formulated with student participation and
+published in advance. A student accused of serious misconduct should
+have the right to a hearing before a regularly constituted committee
+that may be composed of both faculty and student members. The accused
+should be entitled to choose an advisor for the hearing, to present
+evidence and witnesses, and to testify on his or her own behalf."
+
+The rest of the chapter talks about the theoretical justification
+for academic freedom. The chapter as a whole contains numerous
+references and whould serve as a good starting point for anyone
+interested in the general issues of academic freedom.
+
+- Carl
+
+Message-Id: <9105231059.AA03402@eff.org>
+Date:      Thu, 23 May 1991 06:57:54 EDT
+From: Sally Webster <ACDSPW%SUVM.BITNET@CORNELLC.cit.cornell.edu>
+Subject:   Need help with project
+
+To those of you who get more than one copy of this, excuse the mutiple
+postings.  I want wide dissemination.
+
+If you know of other lists to which this request should be sent, please
+send mail directly to ACDSPW@SUVM.  Thank you.
+
+HELP NEEDED FOR EDUCOM PROJECT!!
+=================================
+The Educational Uses of Information Technology (EUIT) group of EDUCOM
+has begun a new project, called colloquially "Ethics War Stories."
+
+The product of this project will be a collection of case studies of
+how colleges and universities handle breaches of their computer
+policies, state & federal laws, network guidelines, and the computer
+portions of their student and faculty handbooks.
+
+We would like contributions from academic computing staff members,
+faculty, deans, and other administrators
+who have been responsible for formulating, interpreting, and
+enforcing computing policies, state & federal laws, network guidelines,
+and student codes of conduct.
+
+The contributions should be in the form of a case study:
+
+* introduce the institution and the faculty or staff who were
+involved,
+
+* explain the offense or breach and state which policies or laws were
+breached,
+
+* explain how the situation was handled (including final
+outcomes for the student, staff, or faculty member), and
+
+* point to any change in policy, educational effort, or enforcement
+strategies if any occurred.
+
+* give us the benefit of your experience, and advise your colleagues
+who haven't had a baptism of fire
+
+Please include the name, telephone number, and network address of a
+contact person (possibly you?), so that details can be checked and
+final permission sought before anything is published or otherwise
+disseminated.
+
+If you know of such instances which could be made into case studies,
+but you were not directly involved, please send the names of people
+we can talk to, and we'll take it from there.
+
+We anticipate that while scenarios might not differ much across
+institutions, outcomes at public institutions will likely differ from
+those at private institutions.  Beyond that, at this stage, we cannot
+predict what other categories might emerge.
+
+We expect to use this collection in one or more of these ways:
+
+* as general background to inform government bodies of the types of
+  situations which we deal with
+* as a "workbook" from which people can take specific ideas for handling
+  certain kinds of situations
+* as a body of knowledge from which to draw conclusions which might
+  help institutions formulate or reformulate policy and structure
+  educational and enforcement strategies
+
+We expect that some people will be willing to share their war stories
+on condition that we not identify either them or their institution,
+and we will be happy to do that.
+
+Send your stories (or the names of people we can contact) to
+
+Project Leader:
+Sally Webster, Asst. Professor of Computer Applications, SUNY/CESF
+Syracuse, NY, acdspw@suvm, 13 Moon Library, SUNY/CESF, Syracuse, N.Y.
+13210
+
+
+Date: Thu, 23 May 1991 16:36 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Subject: Re: Another Right: User Representation
+Message-Id: <A4B8121466A1367F@ccmail.sunysb.edu>
+X-Organization: State University of New York, Stony Brook
+X-Vms-Cc: SKAPUR
+
+>Sender: kadie@eff.org
+>
+>Here is another right to add to the list.
+>
+>    The user community, both faculty and student, should have a
+>    clearly defined means to participate in the formulation and
+>    application of computer and networking policy.
+>
+>(This is just an instantiation of the general right of representation
+>promoted in the Joint Statement on Rights and Freedoms of Students and
+>guaranteed by the student codes of many univerities).
+>
+>Most university computer policies seem to have been set down without
+>serious user participation. Are there exceptions? Has anyone respected
+>academic freedom (and possibly their own student code) and given users
+>a voice?
+>
+>- Carl
+>-- 
+>Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+>
+
+I totally agree.
+
+Now let us get back to reality.
+
+One of the problems with getting a policy approved by "the administration" is 
+that the administration wants some other (preferably prestigious) University 
+to have adopted it first and have successfully implemented it for some time.
+
+So my questions are:
+
+   1) Does anyone have a list of Universities that have adopted a Computer 
+      Academic Freedom policy?
+
+   2) Does anyone have a list of Universities that incorporate the ALA 
+      statements and the AAUP and other statements including the "Joint 
+      Statement on Rights and Freedoms of Students..." as part of their 
+      officially announced official policy?  If they have been adopted
+      what qualifications and restrictions were placed on them?
+
+Unless they are adopted by at least one major University, no one will care 
+for any such statement(s).  Although we can proclaim as many freedoms as we 
+want in various statements and restate them a countless number of times, they 
+will be dismissed as being only philosophical arguments unless they are put 
+into practice.
+
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Sat, 25 May 1991 06:41:42 GMT
+Message-Id: <1991May25.064142.6947@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <JC.91May24115354@raven.bu.edu>
+Subject: Re: Harrassment via email
+
+jc@raven.bu.edu (James Cameron) writes:
+[...]
+>[...here's the ethics policy...]
+> 
+>     Boston University Information Technology                          ethics
+> 
+>     Conditions of Use and Policy on Computing Ethics          March 26, 1990
+[...]
+
+In the name of protecting privacy, the policy attacks privacy. It says
+the University has the power to "without notice, ... inspect ... any data
+[or] file"
+
+It imposes speech restricts that would be ridiculed if applied to the
+campus as a whole. It says the user may not "mak[e] accessible
+offensive [or] annoying material"
+
+It is incomplete, saying that that required behavior "is not
+limited to [] the following: [...]"
+
+It is circular. It prohibits users from misusing computer resources by
+"misusing system resources".
+
+It is ephemeral, saying that the University has the power "amend these
+Conditions and Policies at any time without prior notice."
+
+
+Imagine this policy generalized to the University as a whole:
+
+* The University has the power to, without notice, inspect any assigned
+office space or dorm room.
+
+* Members of the University community may not distribute or make
+accessible offensive or annoying material.
+
+* Members of the University community may be punished for infractions
+against rules that are not listed here.
+
+* Members of the University community must not "misuse University
+property", where "misusing University property" is defined as misusing
+University properity.
+
+* The University has the power "amend these Conditions and Policies at
+any time without prior notice."
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+

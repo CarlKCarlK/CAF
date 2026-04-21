@@ -1,0 +1,715 @@
+From caf-talk Caf Jul 23 13:26:21 1994
+From: kadie@eff.org (Fwd:)
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Wanted: Editor for CAF-News
+Date: 23 Jul 1994 13:26:19 -0400
+Message-ID: <30rjrr$ji5@eff.org>
+
+[A repost - Carl]
+
+[paraphrase: [Carl Kadie] I've passed my Ph.D. final. Pending some
+thesis revivisions, I'll be out of academia. (I start work at
+Microsoft in a week.) If you might be interested in editing the
+CAF-News, send email to me at caf-editor@eff.org.]
+
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject:  Wanted: Editor for CAF-News
+Date: 23 Jul 1994 13:22:20 -0400
+Message-ID: <30rjkc$jgt@eff.org>
+
+I'm happy to report I passed my Ph.D. Defense yesterday, conditioned
+(as expected) on revisions to my thesis. (The title is: "Seer: Maximum
+Likelihood Regression on Machine-Learning Curves".)  I start work on
+August 1st at Microsoft in Seattle.
+
+I will at least semi-retire from Computers and Academic Freedom. I
+expect the CAF-News I send out today will be the last edited by me.
+
+If you actually are in academia, and might be interested in editing
+the CAF-News (i.e. moderating alt.comp.acad-freedom.news), send me
+email (caf-editor@eff.org).
+
+The caf-talk and caf-batch mailing lists will continue under William
+Arnold's administration (caf-admin@eff.org, warnold@eff.org). The
+archive will continue under J.S. Greenfield's management
+(caf-archivist, greeny@eff.org). The alt.comp.acad-freedom.talk
+newsgroup has a life of it's own.
+
+All my existing email addresses should work for the foreseeable
+future. Please send nonpersonal stuff to "caf-editor@eff.org".
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =Email: kadie@eff.org, kadie@cs.uiuc.edu =
+ =URL: <http://www.eff.org/CAF/>, <ftp://ftp.cs.uiuc.edu/pub/kadie/> =
+================= end of repost ==================
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =Email: kadie@eff.org, kadie@cs.uiuc.edu =
+ =URL: <http://www.eff.org/CAF/>, <ftp://ftp.cs.uiuc.edu/pub/kadie/> =
+
+From caf-talk Caf Jul  3 15:15:41 1994
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Re: Ethics For Students on Net
+Date: 3 Jul 1994 19:15:37 GMT
+Message-ID: <2v72op$di3@vixen.cso.uiuc.edu>
+
+[A repost - Carl]
+
+[paraphrase: [A PC LAN admin at the U. of Hawaii at Hilo C.S. dept.]
+'When (not if) we find "hackers", a broadly defined term here, we
+eliminate their accounts!  [...] We hold a formal hearing with the
+culprits prior to reinstatement (if they get reinstated at all!).
+[...] Use of State equipement for classwork is a priviledge, not a
+right!  [...]' Enclosed is a list of 'The other things I do which
+annoy the hell out of students but seem to work']
+
+Newsgroups: bit.listserv.novell
+Message-ID: <Pine.3.07.9406300753.B3295-d100000@uhhacb.uhh.hawaii.edu>
+Date: Thu, 30 Jun 1994 07:11:54 -1000
+From: Normand Novell Mail <ndionne@UHHACB.UHH.HAWAII.EDU>
+Subject:  Re: Ethics For Students on Net
+
+This is one UHH is beginning to wrestle with!  When (not if) we find
+"hackers", a broadly defined term here, we eliminate their accounts!  The
+CS dept instructors require no less computer homework, they simply MUST
+find their own computer to do it on. We hold a formal hearing with the
+culprits prior to reinstatement (if they get reinstated at all!). Formal
+hearing members are me (the techie), the CS dept chair and the Natural
+Sciences Division Chair and perhaps this year the Dean of the College of
+Arts and Sciences!.  A real, academic type standing probationary period is
+established for the culprit through this hearing. The last one resulted in
+giving the student Novell access only removing their Unix access
+permanently. (We caught this guy attempting to break my supervisor password on
+the machine I am at now!)
+
+Use of State equipement for classwork is a priviledge, not a right! I have
+revoked the restored these priviledges several times for people doing just
+as you described below, giving out their account passwords to friends. The
+friendships seem to crumble though when the central person loses his/her
+access. I also am VERY strict about the expiration of accounts. Accounts
+for students are ONLY given out at an instructor's request which could be
+for NAY reason. I don't question faculty much (except for "needing" huge
+amounts of disk space!).  That requirement alone has kept most hackers out.
+
+The other things I do which annoy the hell out of students but seem to
+work are:
+
+  1.  REQUIRE a Novell login to gain access to a lab PC.
+        After 3 failed attempts at logging in, the machine reboots.
+        To prvent ctrl-C or ctrl-breaks, I turn the keyboard off many
+        times during bootup using KBOFF.exe available by anonymous FTP
+        at cs_dept_server_1.uhh.hawaii.edu.  Be sure to get the KBON.exe
+        too since even ctrl-alt-del won't work either.
+
+  2.  On Logout, if the volume name of C: drive is a "lab" name, I
+        call reboot again to be sure 1. above is still in effect.  I need
+        to work on login as well since some students figured out they could
+        login (bogus-name) and have C: present. (I think I just figured out
+        this one too since login.exe ought to return a code for a failed
+        login, if the volume name also shows a lab machine, I can call
+        reboot again.)
+
+  3.  I made command.com look for something else besides autoexec.bat!  This
+        one fools most game install programs! I also collect the account names
+        of people who change the autoexec.bat and config.sys files, thus I can
+        and will by the Fall, remove there accounts too!
+
+  4.  The thing that makes 3 above work is a program we call diskfix.exe (not
+        the PC tools one) we wrote to check the C: drive on bootup against
+        a network template. Be sure to give readonly permission to everyone
+        on the template subdirectory to keep fools and thieves from screwing
+        things up!  This removes added software and replaces
+        modified/missing files (like autoexec.bat, etc.) on very boot up and
+        since we force reboots often, we have fairly clean drives.
+
+        One MUST run something like the PC Tools Diskfix.exe to repair the C:
+        drives though. We do this about 4 times per year per machine. This
+        is not network specific but does affect the ability of the
+        workstations to function.
+
+You cannot be responsible for students being stupid.  If they forget to
+log out, revoke their accounts too.  Our Dean is computer and
+network literate and will back us up.  Our library PC lab is standalone and
+is a MAJOR source of viruses. Thus:
+
+   5.  On bootup, we check for viruses too. If a machine is infected, a
+       text file is updated as a log entry and the machine is locked up. We
+       display an "I am sick" message and run random sounds out the  speaker.
+       NETSHLD.NLM also detected a user running infected freeware games. I
+       also "admonished" him and warned further virus attacks would result
+       in losing his account. We provide virus checking via a DougMenu option
+       so ALL students have reasonable access to detect viruses before
+       executing their software, thus we have little sympathy for the "I
+       didn't know!" types.  One instructor,as a first PC assignment requires
+       students to run the virus checker, print screen the results and
+       turn these results in.  He gives a 0 (really hard core) for a lab
+       assignment turned in with a virus on it. Those 2 things have
+       eliminated his virus problems (at least from students!).
+
+
+Let me know if you would like to see our typical autoexec.bat and
+config.sys files too.
+
+We also change our system often enough to keep people off guard. Users
+basically have little idea what is happening even AFTER we catch them
+screwing up.  I also have good working relations with other system
+administrators on our island (Hawaii) and with our Manoa campus computing
+center (CC), thus we all help each other out.  I really appreciate the
+help our Manoa CC offers the outer campuses (a little horn blowing here!).
+
+Well, gotta go! If you have any questions please subject them as "Security
+questions" so I will not delete them as e-mail chaff!!!!!
+
+Normand P. Dionne University of Hawaii at Hilo Computer Science Department
+(808) 933-3332/3768 Voice /3693 FAX
+
+
+On Thu, 30 Jun 1994, Gys Driessen wrote:
+
+> Hi Netters!
+>
+> Our faculty has this year for the first time started to use our
+> network for tution. Some common problems which has arisen was the
+> following:
+>
+> 1 When The student's password expires, he does not change it.
+> 2 Students don't log out and others abuse this by sending obscene
+>   messages. (Luckily not Internationally)
+> 3 They deliberately lock their friend's accounts by intrution
+>   detection.
+> 4 Forgotten passwords.
+> 5 Grant other students access to their home directories.
+>   (Abuse their access control rights).
+> 6 Playing of Netcb. (Chat program which runs on ipx. User does not
+>   need to be logged in.)
+> 7 FTP during office hours which creates too much traffic.
+>
+> I am convinced that these problems is a matter of ethics rather than
+> anything else. I am considering a short text file which would be
+> displayed to students as they log in. The lecturers I think have too
+> much work to set a small little network-ethics/literacy
+> examination for students.
+>
+> I need to get an idea of how other Universities or Technikons address
+> this problem and would be very happy if you could send me any info or
+> ideas on this issue.
+>
+> Thanks in advance for any inputs.
+> Gys
+>
+>
+> ---------------The above is my personal opinion only-----------
+> Gys Driessen   | E-mail:   GYSPM@COMMERCE.CTECH.AC.ZA          /"""\
+> P.O. 652       | The everlasting universe of things flows       o+o
+> Cape Technikon | through the mind, and rolls its rapid wave.    \ /
+> South Africa   |         - Percy Bysshe Shelley -
+================= end of repost ==================
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf Jul  9 17:20:49 1994
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Monitoring Students
+Date: 9 Jul 1994 21:20:44 GMT
+Message-ID: <2vn4bc$nm4@vixen.cso.uiuc.edu>
+
+[A repost - Carl]
+
+[paraphrase: An admin at Florida State U. asks for help in restricting
+student access via WWW to, for example, "pictures of naked people,
+hacking/anarchist materials".]
+
+From: showard@acns.cc.fsu.edu (Sean Howard)
+Newsgroups: comp.infosystems.www
+Subject:  Monitoring Students
+Date: 7 Jul 1994 13:44:52 GMT
+Message-ID: <2vh0sk$odf@mailer.fsu.edu>
+
+	Is there a way to monitor what URL requests go out, and only letting
+approved ones go through. We are gonna try to put a computer lab which uses
+the web up here, but there are a few web sites that contain stuff we don't
+want students to get to (pictures of naked people, hacking/anarchist
+materials). While all that is interesting, I don't think that a public
+computer lab absolutely needs access to those few sites. Is there a way to
+catch the outgoing URL requests before they are made, check them against the
+bad paths before letting them connect? More importantly, can it be done with
+a server, rather than me having to make one up from scratch?
+
+	- Sean Howard
+	- showard@acns.fsu.edu
+	- Standard Disclaimer = The views expressed in this are probably
+				not shared with anyone I know, and are mine
+				and mine alone.
+
+
+================= end of repost ==================
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+
+From caf-talk Caf Jul 12 09:52:38 1994
+From: kadie@eff.org (Fwd:)
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Responsibility of admins, was Re: ACLU supporting spamming
+Date: 12 Jul 1994 09:52:37 -0400
+Message-ID: <2vu775$e6u@eff.org>
+
+[A repost - Carl]
+
+[paraphrase: [A sys admin] 'The only person who should "take action
+directly against" an offending individual is the *appropriate
+authority at that site*.  [... A]t the typical *.edu site, it should
+*never* be the system administrator.  I'm a system admini- strator; I
+have no desire whatsoever to be a judge.  That's why we have a Dean of
+Students.']
+
+From: morgan@engr.uky.edu (Wes Morgan)
+Newsgroups: alt.censorship,alt.society.civil-liberty,alt.comp.acad-freedom.talk
+Subject:  Responsibility of admins, was Re: ACLU supporting spamming
+Date: 28 Jun 1994 15:43:27 GMT
+Message-ID: <2upgev$lnr@s.ms.uky.edu>
+
+[ Newsgroups line trimmed ]
+
+Donald Edwards <warrl@connected.com> wrote:
+>Is there anything immoral about assigning each site administrator the
+>responsibility of policing his own site?  It seems to me that this is
+>inherent in the job of a site administrator.  In general, nobody *can*
+>take action directly against an offending individual, save only the
+>site administrator; so clearly the responsibility can reside nowhere else.
+
+Wrong!  The only person who should "take action directly against" an
+offending individual is the *appropriate authority at that site*.  In
+some cases - like the typical *.com site - it may very well be the
+system administrator, or their supervisor; at the typical *.edu site, 
+it should *never* be the system administrator.  I'm a system admini-
+strator; I have no desire whatsoever to be a judge.  That's why we 
+have a Dean of Students.
+
+>This means that if a problem persists, it is because a site administrator
+>is not doing his job.  
+
+Could it - just possibly - be that the system administrator doesn't 
+see it as a problem?  I just went through this recently, when the
+high administration of this university received complaints about 
+"racist postings" from a user on this campus.  When they came to
+me and said "What are we going to do?," my response was "absolutely
+nothing" - and I made it stick.  I didn't agree with (or approve of)
+the things that user said, but he said them within the context of
+discussion in a limited public forum; there was no reason to take
+action.
+
+By the way, when did you write their job description?  If you can
+say that he's "not doing his job," then you know what his job is
+supposed to be, right?  Remember, he's a *SITE* or *SYSTEMS* ad-
+ministrator, not a *USER* administrator.
+
+>The only way the net populace has to discipline the site administrator 
+>is via masses of mail sufficient to cause him problems with his systems. 
+
+"discipline the site administrator"?  That's *got* to be the funniest
+thing I've read in this newsgroup in quite some time...
+
+"I think it's a problem, and you don't, so I'm going to *create* a prob-
+lem for you!"  Geez, that's a *marvelous* viewpoint.  Who, may I ask (and 
+please, be specific) put you in a position to *discipline* any system 
+administrator?  It seems to me that you're assuming the very level of
+authority for which so many system administrators are castigated.
+
+>Sometimes
+>a site administrator will be concerned about offenses by his users and
+>try to stop them; sometimes he won't.  *One* note has to get to somebody
+>who gives a shit; several thousand notes will compel someone (the site
+>administrator) to care.
+
+"Several thousand notes" - or even several dozen - from the same person
+will compel this system administrator to care enough to file formal char-
+ges against you, at *your* site, for intentional disruption of my site's 
+operations.  *One* carefully written, thoughful, logical message, on the
+other hand, will go much further toward convincing me...
+
+>If anyone thinks this kind of response is wrong... tell us what other means
+>exist to deal with troublemakers.
+
+If the problem is one of opinion - you don't like what they say, but
+it's within the topic under discussion - your only recourse is to ig-
+nore the 'troublemakers.'
+
+If the problem is one of *method* - spamming, email bombs, or the 
+like - a *calm, rational, single* notice to the system administra-
+tor may be in order.  (assuming, of course, that you have already
+exhausted the normal, civil means of dealing with the problem your-
+self.)
+
+If you honestly believe that you are being harassed or discriminated
+against, you are quite welcome to file charges against the other per-
+son with the appropriate authority at their site.  At this university,
+that means contacting the Dean of Students or Human Resources office.
+
+Before you expect so much of other system admins, ask yourself if
+you want *YOUR* admin to respond, in a similar "loose cannon" fas-
+hion, to whatever flows into his mailbox.  
+
+--Wes
+
+-- 
+       Wes Morgan ----- University of Kentucky ----- morgan@engr.uky.edu
+ Mailing list for AT&T StarServer E/S admins - starserver-request@engr.uky.edu
+ PGP on request                           <http://s.ecc.engr.uky.edu/~morgan/>
+"We now take leave of Reality, and enter the twilight world of Total Paranoia."
+================= end of repost ==================
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =Email: kadie@eff.org, kadie@cs.uiuc.edu =
+ =URL: <http://www.eff.org/CAF/>, <ftp://ftp.cs.uiuc.edu/pub/kadie/> =
+
+From caf-talk Caf Jul 12 23:21:20 1994
+From: kadie@hal.cs.uiuc.edu (Fwd:)
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Re: ACLU to support spamming in Florida case?
+Date: 13 Jul 1994 03:21:11 GMT
+Message-ID: <2vvmj7$4e6@vixen.cso.uiuc.edu>
+
+[A repost - Carl]
+
+[Summary: 'A critique of policies at the University of South Florida.
+The policies seem to try to authoritize illegal searches and summary
+punishment. They would punish anyone who posted to
+alt.sexual-abuse.recovery under a pseudonym. Indeed they are so vague,
+that they prohibit all computer use. There is no sign that they were
+created with user participation or with regard to academic freedom.']
+
+
+From: kadie@eff.org (Carl M. Kadie)
+Newsgroups: news.admin.policy,alt.comp.acad-freedom.talk,news.admin.misc
+Subject:  Re: ACLU to support spamming in Florida case?
+Date: 12 Jul 1994 09:49:00 -0400
+Message-ID: <2vu70c$e41@eff.org>
+
+Summary: A critique of policies at the University of South Florida.
+The policies seem to try to authoritize illegal searches and summary
+punishment. They would punish anyone who posted to
+alt.sexual-abuse.recovery under a pseudonym. Indeed they are so vague,
+that they prohibit all computer use. There is no sign that they were
+created with user participation or with regard to academic freedom.
+
+longo@undergrad.csee.usf.edu (Andrea Longo) writes:
+
+>I've gotten the University of Florida user policy; it is entirely too long to
+>type in but I'll note important sections.
+
+>=======quotes begine here======
+>from:
+>Policies for use of CIRCA computers, May 20 1994
+
+>You have a right to expect that your files and electronic messages are
+>reasonably private, however you must be aware that computer systems in an
+>education environment are not always secure and your files and electronic mail
+>may be seen by others.
+
+>CIRCA has the right to monitor all activity on a computer system including
+>individual sessions. 
+
+First, state agents don't have any "rights". What may have is
+"authority".  State agents, don't however, have authority, however,
+to violate the constraints of the 4th Amendment of the U.S. Constitution
+or of federal statute.
+
+A U.S. government task force [see refs] says that "[Email] monitoring [of
+government employees] of actual communications and communicators may
+impinge on the Constitutional rights of freedom of speech (1st
+Amendment), against unreasonable search and seizure (4th Amendment),
+and against self-incrimination (5th amendment), as well as on the
+right to privacy, specifically as set forth in both the Privacy Act
+and the ECPA."
+
+According to Mike Godwin, legal services counsel for the Electronic
+Frontier Foundation (EFF), the U.S.'s Electronic Communications
+Privacy Act (ECPA) could be reasonably construed to protect university
+email. This is also the reported opinion of the U. of Michigan's
+lawyers. Also, the U.S.'s Family Educational Rights and Privacy Act
+gives students at all public and most private schools some privacy
+rights.
+
+>CIRCA computers are connected to world-wide computer networks. You must at all
+>times comply with the conventions and rules for use of any computer network.
+>CIRCA policy requires that you must:
+>	not use electronic mail or messaging programs to harass or interfere
+>	with other computer users, send or post obscene or defamatory
+>	material, send excessive mail and chain letters.
+
+Every use of a computer system "interferes" with someone else's use. I
+suggest the the use of the phrase "substantially disrupt" for
+"interferes". Also the word "obscene" is unclear to many people.  I
+suggest referring to the Florida statute that defines obscenity or at
+least adding "as defined by Florida statute".
+
+
+>	not use any CIRCA facilities to make unauthorized connections or break
+>	into or affect the performance of any other computer system on the
+>	network, whether it is on the UF campus or anywhere else in the world.
+
+Every use of a computer systems "effects" its "performance". This rule
+outlaws all computer use.
+
+>	not deliberately obscure your identity when sending electronic mail or
+>	messages.
+
+This rule makes it a punishable offense to post to alt.sexual-abuse.recovery
+under a pseudonym.
+
+There is nothing wrong with anonymity when it is not used to commit
+fraud. As the Supreme Court said in _Tally v. California_:
+ 
+  "Anonymously pamphlets, leaflets, brochures and even books
+   have played an important role in the progress of mankind.
+   Persecuted groups and sects from time to time throughout history
+   have been able to criticize oppressive practices and laws either
+   anonymously or not at all."
+       _Tally v. California_, 362 U.S. 60, 64 (1960); see also _Wilson v.
+       Stocker_, 819 F2d 943 (10th Cir. 1987)
+
+_Tally v. California_, 362 U.S. 60, 64 (1960); see also _Wilson v.
+Stocker_, 819 F2d 943 (10th Cir. 1987)
+
+
+>	not conduct any commercial activity.
+
+>=============================================================
+>This thing is two pages of small type and covers a whole lot of possible
+>activities, lots more detail than the USF one. 
+
+>=========from the USF College of Engineering user policy===
+>*Account Certification Statement*
+> 
+> I understand that the following activity is forbidden and may subject me
+> to *loss of my computer account,* administrative sanctions and penalties
+> by the university and/or college, as well as imprisonment and fine by
+> civil authorities.
+
+This sounds like the college thinks that it can require students to
+give up their due process rights as a condition of getting an account.
+It cannot [see refs].
+>  
+>  1. Use of anothers' account.
+>  2. Allowing another person to access my account.
+>  3. Use of college computing resources for private profit, or for
+>    promoting a religious or political group.
+
+Banning *all* promotion of a religious or  political group is
+much too broad. If there is a state regulation that prohibits
+some specific partisan activities on state computers, it
+should be quoted verbatim.
+
+> 4. Intentionally impeding the legitimate use of
+> computing facilities
+> by other people.
+>===========================================================
+
+- Carl
+Carl Kadie -- I do not represent EFF; this is just me.
+ =Email: kadie@eff.org, kadie@cs.uiuc.edu =
+ =URL: <http://www.eff.org/CAF/>, <ftp://ftp.cs.uiuc.edu/pub/kadie/> =
+
+
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/email.gov-employee">
+law/email.gov-employee
+=================</a>
+* Privacy -- E-mail -- Government Employees
+
+A U.S. government task force: "[Email] monitoring [of government
+employees] of actual communications and communicators may impinge on
+the Constitutional rights of freedom of speech (1st Amendment),
+against unreasonable search and seizure (4th Amendment), and against
+self-incrimination (5th amendment), as well as on the right to
+privacy, specifically as set forth in both the Privacy Act and the
+ECPA." Enclosed are guidelines for legitimate monitoring of government
+employee email.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/mass-student-searches">
+law/mass-student-searches
+=================</a>
+* Privacy -- Mass Students Searches
+
+An excerpt from The ACLU Handbook: _The Rights of Students_, stating that
+"there must a reasonable suspicion directed specifically at each student
+before a school official can search students."
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/constraints.constitutional">
+law/constraints.constitutional
+=================</a>
+* Constitution -- Public University -- Constraints
+
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_ by Partrica A. Hollander, D. Parker Young, and Donald D.
+Gehring.  (College Administration Publication, 1985).  Discusses the
+constitutional constraints on public universities including the
+requires for freedom of expression, freedom against unreasonable
+searches and seizures, due process, specific rules.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/ecpa.1986.godwin">
+law/ecpa.1986.godwin
+=================</a>
+* Privacy -- E-mail -- ECPA - University Site
+
+Mike Godwin, legal services counsel for the Electronic Frontier
+Foundation (EFF), says that the Electronic Communications Privacy Act
+(ECPA) could be reasonably construed to protect university email.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/ecpa.umich">
+law/ecpa.umich
+=================</a>
+* Privacy -- E-mail -- ECPA - University Site
+
+A summary of a newspaper report that the U. of Michigan's lawyers
+believe(d) that the institution is barred under the federal Electronic
+Communications Privacy Act from reading electronic mail.
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/ferpa.text">
+law/ferpa.text
+=================</a>
+* Privacy -- Students -- FERPA (Buckley Ammendment)
+
+The full text of the Family Educational Right to Privacy Act
+(Buckley Amendment).
+
+=================<a href="http://www.eff.org/CAF/faq/due-process.html">
+faq/due-process
+=================</a>
+* Due Process
+ 
+q: Should users be suspended from the computer pending formal discipline?
+ 
+a: No, with one exception. Just as students should not be expelled
+...
+
+=================<a href="http://www.eff.org/CAF/faq/just-a-privilege.html">
+faq/just-a-privilege
+=================</a>
+* "Computer access is just a privilege"
+ 
+q: If a state university calls computer or network access a
+"privilege", can they remove an individual's access arbitrarily?
+ 
+a: In most cases no. U.S. courts no longer recognize the wooden
+...
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/law/keyishian-v-board-of-regents">
+law/keyishian-v-board-of-regents
+=================</a>
+* Constitution -- Public University -- Keyishian v. Board Of Regents
+
+In this Supreme Court case, the Court said that public universities
+can not infringe on the Constitutionally protected rights of their
+students and employees (specially with regard to loyalty oaths).
+
+=================<a href="ftp://ftp.eff.org/pub/CAF/policies">
+policies
+=================</a>
+* Computer policies from many schools (with critiques)
+
+Computer Policy and Critiques Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is a collection of the computer policies of many schools and
+networks. The collection also includes critiques of some of the
+policies.
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/policies gopher.eff.org
+
+The archive is also accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.77.172.4). It is in directory "pub/academic/policies".
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com. In
+the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/policies
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).  Directory "widener"
+contains additional policies (but not critiques).
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and then:
+
+  cd  /pub/CAF/law
+  get email.gov-employee
+  cd  /pub/CAF/law
+  get mass-student-searches
+  cd  /pub/CAF/law
+  get constraints.constitutional
+  cd  /pub/CAF/law
+  get ecpa.1986.godwin
+  cd  /pub/CAF/law
+  get ecpa.umich
+  cd  /pub/CAF/law
+  get ferpa.text
+  cd  /pub/CAF/faq
+  get due-process
+  cd  /pub/CAF/faq
+  get just-a-privilege
+  cd  /pub/CAF/law
+  get keyishian-v-board-of-regents
+  cd  /pub/CAF
+  get policies
+
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com
+Include the line(s):
+
+  connect ftp.eff.org
+  cd  /pub/CAF/law
+  get email.gov-employee
+  cd  /pub/CAF/law
+  get mass-student-searches
+  cd  /pub/CAF/law
+  get constraints.constitutional
+  cd  /pub/CAF/law
+  get ecpa.1986.godwin
+  cd  /pub/CAF/law
+  get ecpa.umich
+  cd  /pub/CAF/law
+  get ferpa.text
+  cd  /pub/CAF/faq
+  get due-process
+  cd  /pub/CAF/faq
+  get just-a-privilege
+  cd  /pub/CAF/law
+  get keyishian-v-board-of-regents
+  cd  /pub/CAF
+  get policies
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =Email: kadie@eff.org, kadie@cs.uiuc.edu =
+ =URL: <http://www.eff.org/CAF/>, <ftp://ftp.cs.uiuc.edu/pub/kadie/> =
+================= end of repost ==================
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = Email: kadie@cs.uiuc.edu =
+ = URL:   <ftp://ftp.cs.uiuc.edu/pub/kadie/>
+

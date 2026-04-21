@@ -1,0 +1,913 @@
+Computers and Academic Freedom (news version)
+August 18, 1991
+Vol. 1, No. 22
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is academic/news. Best-of-the-month issues are available as files
+April, May, June, and July. Abstracts of CAF-news are in file
+academic/abstracts.
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+[This week in CAF-News includes the beginning of a discussion about
+when universities can legitimately restrict free expression on
+computers.  (Is it enough, for example, to declare a computer "for
+classwork only"?)
+
+The third article explains that users are required to keep their
+passwords confidential to increase accountability.
+
+Next, a note explains that although private universities do not have
+Constitutional obligations to their students, they often have
+contractual obligations to their students to provide, for example,
+provide due process.  Another note argues that the university lawyer
+cannot be trusted to give a correct opinion on proposed computer
+policies.  And a note lists three books on library selection policy.
+These books would be useful to anyone who wants to setup a newsgroup
+selection policy that respects academic freedom. (The books also tell
+how to defend the selection of controversial books/newsgroups.)
+
+
+The last two notes list the abstracts of earlier issues of CAF-News.
+ - Carl]
+
+
+In this issue:
+
+Carl M. Kadie    58  Free Forum vs. Class-Work Only machines
+Carl M. Kadie    83  >
+Pete Hartman     16  >System Maintenance/Security requirements
+Carl M. Kadie    30  >Public/Private institutions
+Carl M. Kadie   100  >Authority of Public Universities
+Carl M. Kadie    84  "Censorship and Selection"
+Carl M. Kadie   376  CAF-News Abstracts
+Carl M. Kadie    55  >
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+Date: Wed, 14 Aug 1991 14:52:36 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug14.145236.23462@eff.org>
+Subject: Free Forum vs. Class-Work Only machines
+
+On July 31 in message <1489@cameron.egr.duke.edu>, 
+    jpe@egr.duke.edu (John P. Eisenmenger) writes:
+
+[...]
+>My machines are there to support the educational process.  A student saving
+>megabytes of data, or using 90% of available CPU time for some cause s/he
+>supports could interfere with the other students getting their homework
+>assignments done.  Our priorities have to lie with the students trying to
+>do their classwork.
+[...]
+
+I'm interested in distinguishing computers on which users are allowed
+free expression and those in which all extracurricular activity is
+legitimately prohibited.
+
+In many (maybe most cases) the whole issue can be finessed with
+quotas, adequate CPU and disk space, etc. But let's consider
+a scenario where the issue comes to a head:
+
+LOADED)     CPU time and disk space is very tight.
+            The computer (and its terminals & modems) are 
+            needed for class work all the time
+
+FORCLASS)   The computer was acquired and is maintained for particular classes
+
+CONSISTENT) The prohibition is applied consistently (even the operators are
+            prohibited from sending and receiving email not related to their
+            duties.)
+
+FAIR)       Enforcement of the policy never violates user privacy. (For
+            example, there are no searches of disk space without the same
+            authorization that would be need to search assigned office space.)
+            Punishment for violations are similar to the punishment an
+            instructor can give out (informal warnings, formal reprimands,
+            formal suspensions for a few days, etc). All formal punishments
+            are reported to the University; the student can ask for
+            a hearing and can appeal.
+
+ALTERN)     There is an alternative computer on which extracurricular
+            activities are allowed.
+
+Under these conditions (LOADED & FORCLASS & CONSISTENT & FAIR &
+ALTERN) I think that extracurricular activities (such as reading this
+mailing list) can be prohibited without violating the academic freedom
+of the system users.
+
+Moreover, (for the sake of discussion) I claim that each condition is
+necessary and that together they are sufficient. I would be interested
+in arguments that challenge (or support) this claim.
+
+Also, how do real class-work-only machines stack up against
+these criteria?
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Wed, 14 Aug 1991 18:22:41 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug14.182241.26728@eff.org>
+References: <1991Aug14.145236.23462@eff.org>, <1991Aug14.165350.16513@magnus.acs.ohio-state.edu>
+Subject: Re: Free Forum vs. Class-Work Only machines
+
+dysart@magnus.acs.ohio-state.edu (Mitchell D Dysart) writes:
+[...]
+>As for me (personally, *not* representing my employer The Ohio State
+>University), I think the only required conditions are:
+
+>1.	System(s) is(are) expressly provided to support whatever
+>	project or projects are specified, be these class use,
+>	research use, administrative use, or whatever.
+
+>and
+
+>2.	Fairness is maintained and misuse governed by appropriate
+>	University-wide guidelines.
+
+>Now, isn't misuse of a computer that exists for instructional purposes
+>the same logical thing as performing unauthorized experiments in the
+>undergraduate general chemistry laboratory?  In the latter case, nobody
+>would yell too loudly if the student were thrown out of the lab and
+>were therefore unable to complete his assignments and thus failed the class.
+[...]
+
+So the question is, "are CONSISTENCY & FAIRNESS & FORPURPOSE
+sufficient conditions?" [As Billy Arnold suggested, I'm replacing
+FORCLASS with FORPURPOSE. Also, we can assume that resources are
+abundant (NOT LOADED) and that no alternative exists (NOT ALTERN).]
+
+I think these conditions would be sufficient to prohibit unauthorized
+chemistry experiments; I do not, however, think that they are
+sufficient to prohibit free expression.
+
+The difference between free chemistry and free expression is that
+free expression is central to academic freedom.
+
+To quote from the first paragraph Joint Statement on Rights and
+Freedoms of Students:
+
+  "Academic institutions exist for the transmission of knowledge, the
+pursuit of truth, the development of students, and the general
+well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals its members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth."
+
+Needless do say that free chemistry gets no such endorsement. Likewise,
+free expression (but not free chemistry) is explicitly protected
+by the First Amendment (at least at public universities) and in the
+student code of most universities).
+
+The closest analogy to the use of computers for extracurricular
+expression is the use of classrooms for extracurricular expression.
+To quote from the Student Code of the University of Illinois (my school):
+
+"III. Campus Expression
+ A. Discussion and expression of all views is permitted within the
+ University subject only to requirements for the maintenance of order.
+ Support of any cause by orderly means which are not in violation of
+ law and which do not disrupt the operation of the University nor
+ interfere with the rights of others is permitted.
+ B. Members and organizations in the University community may invite
+ and hear any persons of their own choosing, subject only to reasonable
+ requirements on time, place, and manner for use of University facilities."
+Also
+ "The University's control of campus facilities should not be used as
+  a device of censorship."
+
+If the computer is not loaded, then extracurricular expression will
+not disrupt the operation of the University. If there is no
+alternative machine, then reasonable requirements on the time, place,
+and manner of computer expression can't completely exclude use of that
+machine.
+
+The bottom line is this: The default mode for universities is (should
+be?) to allow, protect, and promote free expression. This default
+can only be overwritten for a good cause (like lack of resources and/or
+availability of an alternative). It can not (should not) be
+overwritten by mere administrative say-so.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Thu, 15 Aug 91 03:36:50 GMT
+From: pwh@bradley.bradley.edu (Pete Hartman)
+Message-Id: <1991Aug15.033650.8313@bradley.bradley.edu>
+References: <1991Aug14.212524.241@eff.org>
+Subject: Re: System Maintenance/Security requirements
+
+In <1991Aug14.212524.241@eff.org> kadie@eff.ORG (Carl M. Kadie) writes:
+>	1) Why should students not be permitted to give out their
+>passwords to others?
+
+Simple:  Accountability.  If some serious damage is linked to a given
+account, and the user is allowed to plead "I didn't do it, it was one of
+my friends who has my password", it would become an order of magnitude
+more difficult to pin down problems.
+
+>	3) Why do users concerned with having their private files read
+>by system administrators without their permission, not simply encrypt
+>the files they do not wish read?  (Ok, this isn't a sysadmin question
+>:-) )
+
+Laziness?
+
+Date: Mon, 12 Aug 1991 14:54:34 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug12.145434.3380@eff.org>
+References: <9108110456.AA10689@relay1.UU.NET>
+Subject: Re: Public/Private institutions
+
+bsc835!ehunt@uunet.uu.net writes:
+[...]
+>My question is this: Do these same rules and precedents apply to private 
+>colleges as well? I attend a Methodist affiliated private college in 
+>Birmingham, AL, and am beginning to become unsure of my rights as a student
+>in a private institution. While we are a very small college (1850 enrollmnt)
+>and I've not had any problems whatsoever in these areas, I would feel better
+>if I had the knowledge that I was "covered" under the same legal umbrella
+>that the public schools are under.
+[...]
+
+My understanding is that students at privacy colleges and universities
+have contractual rights but not constitutional rights. To learn about
+your contractual rights look for a document with a name (something
+like) "Code on Campus Affairs and Handbook of Policies and
+Regulations". If you are about to sign a registration agreement for
+Fall, look at what you are signing; it may refer to the handbook.
+
+These handbooks (usually) promise due process, some free expression,
+and some privacy. These are not idle promises; they are legally
+enforceable contractual obligations.
+
+Computer policies that contradict these contractual obligations are,
+in my opinion, morally and legally indefenseable.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Mon, 12 Aug 1991 17:34:21 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug12.173421.5645@eff.org>
+Subject: Re: Authority of Public Universities
+
+Recent notes have discussed the contractual and (for public
+universities) Constitutional constraints on computer policy. You might
+wonder if you, as a policy maker, can avoid the bother of
+understanding these constraints by sending your proposed policy to
+the University's lawyer for review.
+
+I think the answer is no; the University's lawyer cannot be trusted
+to give an authoritative answer. There are two reasons for this.
+
+1) He or she is not familiar with the issues -- The lawyer is unlikely
+to understand computers and computer media (email, newsgroups, the
+Unix filesystem, etc). The case law on computers and academic freedom
+is very limited [aside: let's work to keep it that way].
+
+2) Most written computer policies are vague. A lawyer may assume the
+best. Sys admins, unfamiliar with their contractual obligations to
+students and staff, may practice the worst.
+
+Consider two examples.
+
+At the University of Illinois (my school), National Center for
+Supercomputer Application (NCSA) computer policy prohibits e-mail that
+"attempts to disadvantage NCSA." It also prohibits "inappropriate
+information disclosures."
+
+The University's lawyer gave this policy an OK.
+
+But what is an "attempt[] to disadvantage NCSA" and what is an
+"inappropriate information disclosure"? According to Michael Smith,
+the security officer of NCSA, the phrase "attempts to disadvantage
+NCSA" prohibits strong criticisms in e-mail of the NCSA and the
+University. A "inappropriate information disclosure" might include the
+violation of a nondisclosure agreement by someone who didn't sign such
+an agreement.
+
+This NCSA interpretation of its vague policy is inconsistent with
+University policy (and the First Amendment and academic freedom). It,
+thus, violates the NCSA's contractional (and constitutional and moral)
+obligations to students and staff. However, because the University
+lawyer didn't know (or inquire into) the NCSA's interpretation, the
+policy was given a legal OK.
+
+The second case is at Ohio State. OSU's Academic Computing Services
+(ACS) policy say that users must:
+
+[...]
+>	o  Respect the procedures established to manage the use of the
+>	   system.
+
+and that:
+
+>Those who cannot accept these standards of behavior may be denied access to
+>the relevant computer systems and networks.
+[...]
+
+I don't know of the OSU lawyer has reviewed this policy. I would not
+be surprised to learn that he or she had and had given it an OK.
+
+The policy mentions no due process protection. It does not say spell
+out the management procedures that must be respected by users.  It
+does not say who determines that a user "cannot accept these standards
+of behavior". It does not say how long such a user will be "denied
+access". It does not say that users may ask for a hearing or appeal a
+decision.
+
+A University lawyer would probably assume that the University's
+general due process protections would be applied. While the ACS
+administration would probably assume that they could continue to
+practice their policy of 'if we decide that you break a rule (that we
+created, and you may not even know about), we can expel you from the
+computer forever. You will have no notice of your rights, no formal
+hearing, and no appeal.'
+
+
+If the University lawyer can't be trusted authoritatively review the
+legality of a policy, what can you do? I suggest:
+
+Everyone making policy should be familiar with the contractual (and
+constitutional and moral) constraints on University policy.
+
+Policy should be written and explicit. Don't rely on or vague
+unwritten policy.
+
+Faculty and students should participate in policy creation and application.
+
+Don't be reactive. Hard cases make for bad policies. (Both the NCSA
+and ACS policies were created immediately after the organizations
+punished users for behavior that these after-the-fact policies
+prohibited.)
+
+Have the policy reviewed by both the University lawyer and the
+University's Committee on Academic Freedom. You may also wish
+to posted to drafts of policy this newsgroup.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Thu, 15 Aug 1991 20:06:28 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug15.200628.27084@eff.org>
+Subject: "Censorship and Selection"
+
+If you are interested in how librarians select select books and
+magazines (and newsgroups?) and how they fight censorship attempts,
+I recommend the books:
+
+Censorship and Selection: Issues and Answers for Schools
+Before and After the Censor: a Resource Manual on Intellectual Freedom
+Intellectual Freedom Manual
+  (full references at the end of this note)
+
+The books explain the policies of the American Library Association
+with respect to selection, diversity of material, labeling, access
+for minors, etc.
+
+Here are two highlights from the books:
+
+1) All books include step-by-step instructions for the librarian on
+how to handle censorship attempts. These include sample response
+letters and tips on how to deal with the press.
+
+2) The books say that no challendged item should be removed on the
+say-so on one person. [This quote is from "Selection and Censorship"
+and concerns challeges to library materials at grade and highschools]
+
+   "No duly selected materials whose appropriateness is challenged
+shall be removed from the school except upon the recommendation of a
+review committe (as provided for below) with the concurrence of the
+Superintendend or, upon the Superintendent's recommendation, the
+concurrence of the Board of Eduation, or upon formal action of the
+Board of Education when a recommendation of a review committee is
+appealed to it."
+
+- Carl
+
+
+References
+------------
+     Reichman, Henry, 1947- 
+     Censorship and selection : issues and answers for schools / by
+Henry Reichman. Chicago, Ill. : American Library Association ; 
+Arlington, Va. : American Association of School Administrators, c1988. 
+     ix, 141 p. ; 23 cm. 
+     Bibliography: p. 129-132. 
+     ISBN  0838933505 (pbk. : alk. paper) : $$12.95 
+     ISBN  0876521294 (American Association of School Administrators :
+pbk. : alk. paper) : $$12.95 
+       1. Children's literature--Censorship.   2. School libraries--
+Censorship--United States.   3. Censorship--United States.   4. 
+Education--Curricula--Censorship.   5. School libraries--Book selection 
+  6. Teaching, Freedom of--United States.  I. Title.  
+     ocm18-068958  
+
+----
+
+     Before and after the censor : a resource manual on intellectual
+freedom. :Michigan: : Michigan Association for Media in Education and
+Michigan Library Association, Intellectual Freedom Committees, 1987. 
+      160 p. : forms ; 28 cm. 
+     Bibliography: p. 149-153. 
+       1. Libraries--Censorship--Handbooks, manuals, etc.   2. 
+Censorship--Handbooks, manuals, etc.   3. Freedom of information--
+Handbooks, manuals, etc.  I. Michigan Association for Media in
+Education. Intellectual Freedom Committee.  II. Michigan Library
+Association. Intellectual Freedom Committee. 
+     ocm17-358690  
+
+----
+
+     Intellectual freedom manual / compiled by the Office for
+Intellectual Freedom of the American Library Association. 3rd ed. 
+Chicago : The Association, c1988. 
+     p. cm. 
+     Bibliography: p. 
+     ISBN  0838933688 (alk. paper) 
+       1. Libraries--Censorship--Handbooks, manuals, etc.   2. Freedom
+of information--Handbooks, manuals, etc.   3. Censorship--Handbooks,
+manuals, etc.  I. American Library Association. Office for Intellectual
+Freedom. 
+     ocm18-683362  
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Thu, 15 Aug 1991 17:48:37 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug15.174837.23862@eff.org>
+Subject: CAF-News Abstracts
+
+These are abstracts of the Computers and Academic Freedom News
+(CAF-news). Referenced issues of CAF-news are available via anonymous
+ftp to eff.org in directory "academic/news".
+
+New issues of CAF-news are available via the newsgroup
+alt.comp.acad-freedom.news. If you read newsgroups but your site
+doesn't get alt.comp.acad-freedom.news, (politely) ask your sys admin
+to subscribe. CAF-news is also available via e-mail. For more info
+send email to listserv@eff.org. Include the lines "help" and
+"longindex".
+
+- Carl
+
+---------
+cafv01n01
+[This is the first issue of the caf-news. It is made up of a selection
+of notes from the caf-talk mailing list. It covers notes posted
+from April 9th to April 14th. Expect more information about the
+caf-news after I catch up with old caf-talk notes. - Carl]
+
+cafv01n02
+[This issue covers notes posted in the caf-talk mailing list from
+April 14th to April 21st. Next Wednesday, I'll publish selected notes
+up through April 28th. After that the caf-news will be published on
+Sunday, and will cover notes posted the preceeding week. Also,
+starting with the next issue, the formatting of the notes will be
+improved (there will not be so many header lines).
+
+This issue includes the policy statements from the American and
+Canadian Library Associations and the American Association of
+University Professors. Several notes suggest ways that these policy
+statements should be applied to computers. Netnews censorship and
+Purdue and Case Western is also discussed (with notes from both the
+censor and the censored).
+    - Carl]
+
+cafv01n03
+[This issue covers notes posted in the caf-talk mailing list from
+April 21th to April 28th. Starting this coming Sunday, caf-news will
+be published on Sunday and will cover notes posted the previous week.
+
+In this issue, system administrators from Case Western and Purdue tell
+why they censored outgoing newsgroup messages. The necessity of their
+censorship is discussed (with comments by some of the people who were
+censored.)
+
+I critique a new e-mail policy by a department of the University of
+Illinois. According to the security officer of department, the policy
+permits disk-space searches of people who attack the University or the
+department in email. As of today (May 1st), the policy stands;
+according to the department, the policy will not be rescinded until
+(unless) a new policy is created.
+
+Other notes discuss the nature of academic freedom and the use of
+University facilities.
+    - Carl]
+
+cafv01n04
+[This issue includes three proposed user policies. One of the policies
+says that "personal development" use is OK, but "personal use" is not.
+Several notes address the practicality and wisdom of such a
+distinction.  Other notes discuss the policy of checking that user's
+newsgroup postings are proper according to the (sys admin's
+understanding) of a newsgroup's charter. Finally, more news about the
+NCSA e-mail policy: The old policy stands until (and unless) a new
+policy is created.
+
+        - Carl
+p.s. I sent Issue #3, covering the week ending April
+28, on Wednesday, May 1st. If you did not receive that issue, please
+send e-mail to kadie@eff.org]
+
+cafv01n05
+[With the end of the school year at many places, traffic on the list
+has slowed. Readership, however, is now up to 250 in at least six
+countries.
+
+This issue includes information on how to get back issues of caf-news
+from the archives and information on how to get copies of the computer
+policies of many schools. It also has a report of attempted expression
+suppression (under the guise of political correctness?).
+
+The main topic in this issue is a discussion of exactly how the principles
+of academic freedom should be applied to computers and networks (with
+excerpted comments from Sanjay Kapur, Edward Vielmetti, George Rickerson,
+Aydin Edguer, and Rich Kulawiec.
+
+- Carl]
+
+cafv01n06
+[Three topics are discussed in this issue: What is the relation
+between newsgroup systems and traditional libraries? How should
+privacy rights be applied to diskspace and email? How do general
+University policies evolve? The last question is addressed with a
+survey University of Illinois policy from 1904 to present. It is
+interesting to see both the trend and how external forces such as
+Alcohol Prohibition and the Red Scares effected policy. - Carl]
+
+cafv01n07
+[This issue considers the circumstances under which a (computer)
+postmaster should read the body of misaddressed e-mail. In also
+includes a brief history of Academic Freedom in the US and comments
+whether system admins should stand up for user rights. Sally Webster
+solicits "ethics war stories". A computer-user right is asserted: the
+right to participate in policy formulation and application. Finally,
+Boston University's computer policy is criticized as one sided. -
+Carl]
+
+cafv01n08
+[SPECIAL ISSUE: The Best of April
+
+This is a compilation of the best notes from April. It includes the
+original announcement for the CAF archive and copies of general policy
+statements from the American Library Association, the Canadian Library
+Association, and the American Association of University Professors.
+It also includes reports of a victory for freedom of expression at
+Denver University, newsgroup censorship at Purdue and Case Western,
+and one-sided e-mail policy at the University of Illinois.
+
+    - Carl]
+
+cafv01n09
+[This issue covers more topics than usual. The most important
+information is a description of Berkeley's Open Computing Facility
+(OCF), an organization that *democratically* manages computer resources
+for thousands of users. The OCF constitution and bylaws are included.
+
+Other topics discussed are arbitrary searches (re Boston University),
+the need for clear and explicit policy (re U. of Illinois/NCSA), what
+telephone company employees do when they overhear a phone call, how
+email problems can be fixed without reading the body of notes, and
+what do to about (perceived) disk-quota abuse.
+
+The final note announces new distribution methods for the lists and
+tells how to switch.  
+
+- Carl 
+p.s. I hope to switch caf-news to the official digest format soon.  ]
+
+cafv01n10
+[SPECIAL ISSUE: The Best of May
+
+This is a compilation of the best notes from May. It includes several
+notes detailing how academic freedom might be applied to computers.
+Issues considered include privacy, participation, quota enforcement,
+freedom to read, and personal use. Several notes tell how academic
+freedom is (or is not) being applied at particular universities
+including the University of Illinois and Boston University. From
+Berkeley comes a description of Berkeley's Open Computing Facility
+(OCF), an organization that *democratically* manages computer
+resources for thousands of users. Also, the compilation includes a
+case study that tells how a general student policy has evolved
+since 1904. After reading the case study you will be able to say "hey,
+this computer policy looks like something from the 1930's." Finally,
+there is a note that tells how to get back issues from the CAF archive.
+
+    - Carl]
+
+cafv01n11
+[This compilation includes a call for student and faculty
+participation in policy formation and application. The call is
+endorsed by a sys admin at Berkeley's Open Computing Facility, a place
+where such participation is the standard operating procedure. Also, the
+question "Should users be automatically suspended from the computer if
+they are suspected of an infraction?" is discussed. There is a
+critique of the (soon to be revised?) Ohio State CIS email policy. Due
+process is discussed with examples of punishment without due process
+from UMCP and Ohio State.  Pragmatic benefits of due process are
+asserted.  Finally, the question "Does the availability of GIF images
+of nude people constitute sexual harassment?" is discussed. - Carl]
+
+cafv01n12
+[This compilation includes more discussion about GIF images
+of nude people. A correspondent tells how librarians deal with
+similar material. Also, sexual harassment issues are again addressed.
+
+Another note argues that the mistreatment of even a fraction of a
+system's users is important.  And a sys admin describes the
+inconvenience of creating and enforcing a formal policy.
+
+Finally, two related propositions are debated:
+    Resolved: Users should not be suspended or expelled from computer
+              systems as punishment for computer-policy infractions.
+    Resolved: The punishment that a computer administrator can impose on a
+              student should be not exceed that which an instructor can impose.
+
+- Carl]
+
+cafv01n13
+[This week's selection is mostly about user-sys admin relations. In
+the first note, a sys admin describes the pressures of his job. In the
+next series of notes, users describe bad experiences at the University
+of Kentucky, at the University of Maryland, in industry, and at the
+University of Illinois. The topic is concluded with notes from sys
+admins and users that tell the secrets of great user-sys admin
+relations (good communication and moderation-in-action.)
+
+Next, a note argues against charging users with "theft of service"
+because the charge is too broad. The last note tell how you might be
+able to switch from e-mail delivery of CAF-news to newsgroup delivery.
+
+I will be out of town the next two weekends, so distribution
+of issues #14 and #15 may be delayed. - Carl]
+
+cafv01n14
+I'm back from a great vacation. This is the CAF-news for the week
+ending June 30, 1991. The first three notes discuss student
+exploration; if a student breaks the system, does it matter if he or
+she did it accidently or maliciously? The last note discusses
+intellectual property agreements in which the University may claim
+some ownership in material you developed at the University. - Carl]
+
+cafv01n15
+[SPECIAL ISSUE: The Best of June
+
+This issues starts with reports of user abuse at Ohio State and in
+industry and a report of sys admin abuse at the University of
+Kentucky. The next note shows what can happen when users are denied
+due process; they may take matters into their own hands causing much
+more serious problems. A note by William Murray attributes most
+user/sys admin conflict to honest differences in how each perceive
+computer systems.
+
+Two notes discuss graphics files of naked people. The notes argue that
+University's can not prohibit such files without violating the rights
+of their student. Library policy with regard to pictures of naked
+people and the issue of sexual harassment are considered.
+
+The final six notes tell how to make things run smoothly. Users and
+sys admins should give each other the benefit of the doubt; "ALL
+problems of abuse etc. come about due to lack of communications
+between the Systems staff and the users." An experienced sys admin
+reports that it is almost never necessary to suspend users. Another
+reports that user participation in policy making really works. Both
+of these observations are supported by the Joint Statement on the
+Rights and Freedoms of Students.
+ - Carl]
+cafv01n16
+First an apology. In the previous issue (cafn01v15), Wes Morgan
+described the pressures sys admins face caused in part by users. In my
+opening remarks, I said that the article was about "sysadmin abuse"
+[by users]. That was hyperbole. I can say categorically, that I have
+no reason to believe that Mr. Morgan has ever been abused (in any
+literal sense) by his users. (In fact, I think he is well liked and
+respected by the users of his machines.) I apologize for any grief my
+poorly chosen phrase caused.
+
+The first article of this collection, describes how
+Supreme Court's recent endorsement of the gag rule (with respect
+to abortion clinics) might effect universities. The next note
+shows the estimated readership and propagation of the CAF-talk
+newsgroup.
+
+The bulk of this issue discusses the case of Steven Brack at Ohio
+State University. Steven is formally charged with (among other things)
+"obscenity" (i.e. he wrote "fuck you" to an open newsgroup). In a
+small digression from this particular case, Helen C. O'Boyle, a grad
+student at Virginia Commonwealth University, talks about the general
+problem of punishment before (or without) a hearing. The issue
+ends with a request by me, on behalf of Steven, for e-mail letters
+of support.
+
+cafv01n17
+[The first note in this collection argues that "to make judgments
+about either Mr. Brack or Ohio State's ACS group at this point would
+be grossly unfair." The next three notes follow up on this discussion.
+(The second note strongly criticizes a comment I made last week.)
+
+The next two notes discuss freedom of expression on the net. The
+second note includes a *proposed* U.S. constitutional amendment that
+would explicitly guarantee many civil liberties on computers, networks,
+and other technology. If you are interested in these topics, you may
+enjoy the comp.org.eff.talk and comp.org.eff.news newsgroups.
+
+Two notes discuss a user's recourse if he or she is treated unfairly.
+A user shares her personal experience that in practice effective
+recourse is more difficult than theory would suggest.
+
+The penultimate note asks about computers and academic freedom
+when more grade and high schools are on the net. In the last note,
+a sys admin reports that he is able maintain his system without
+reading user email. - Carl]
+
+cafv01n18
+[The first four notes address the question "Under what conditions
+should a user's computer files be searched?" Helen C. O'Boyle reports
+that when faculty and students at Virginia Commonwealth University
+asked that "emergency searches" be reported to the user with 24 hours,
+the computer staff refused. Other notes list the (general) search
+policies of the Joint Statement on Rights and Freedoms of Students,
+the U.S. Bill of Rights, the Code of the University of Illinois, and a
+proposed law on computer searches.
+
+The final four notes discuss cases. There is a report that at Wayne
+State University the official "Student Due Process Policy" was
+completely ignored. A student at Ohio State, who was once expelled
+from ACS/IRCC computers, offers a reminder that we are only getting
+Steven Brack's side of the story. In the next note, I critique as new
+Ohio State ACS computer policy because it seems to permit computer
+expulsions without due process. In the final note, a student tells how
+he quit Hamline University after he was expelled from the computer
+with notice, explanation, or recourse. - Carl]
+
+cafv01n19
+[I am happy to report that the CAF project is growing. Helen C.
+O'Boyle, William W. Arnold, and I will be working together to manage
+CAF-news and CAF-talk. We will take turns (month by month) editing
+CAF-news.
+
+The first five notes in this collection discuss searches of computer
+files. Issues covered include probable cause, enforcement of probable
+cause requirements, the reasonableness of expecting privacy, and system
+defaults that can be set to make problems with user-user snooping much
+less likely.
+
+In the news, a report of student a the University of Georgia who was
+suspend from the University after distributing an encrypted password
+file.  It appears that the student received due process.
+
+The next notes outline the contractual and constitutional constraints
+on sys admin (and University) authority. They explains that
+universities are under a contractual obligation to treat students
+fairly. Every administrator and student should read these notes.
+
+The final notes discuss an initiative to develop a sample computer
+policy that would respect academic freedom. The notes include a
+request (by me) that we wait until more students return to campus next
+month to pursue this project. Other notes propose outlines of a sample
+policy.  - Carl]
+
+cafv01n20
+[SPECIAL ISSUE: The Best of July
+
+The first notes discuss cases. Ohio State University and Steven Brack
+are back in the news. Recall that Mr. Brack was permanently expelled
+(without the chance for a formal hearing or appeal) from OSU's
+Academic Computer Services (ACS) computers. Now a Judicial Committee
+hearing will decide if Mr. Brack be should punished some more
+(apparently for the same alleged offenses). Mr. Brack is charged with,
+among other things, obscenity (i.e. typing "fuck you" in newsgroup
+note.) The third note about the Ohio State case is a reminder that
+only Mr. Brack's side of this case has been presented in this forum.
+
+In addition to the Ohio State case, there is a report of student of
+the University of Georgia being suspended for knowingly aiding
+crackers by supplying them with an encrypted password file. (The
+student seems to have received due processes.) There are also reports
+of due-process procedures being ignored at Virginia Commonwealth
+University and at Wayne State University.
+
+The next three notes are about searches of computer files. The first
+quotes the Joint Statement on Rights and Freedoms of Students on
+(noncomputer) searches. The next describes proposed federal rules
+on computer searches by the police. The third argues that a probable
+cause rule is enforceable.
+
+There are three notes about policy. In the first, I critique Ohio
+State ACS computer policy because it seems to allow expulsion from
+their computers without the opportunity for a formal hearing or an
+appeal. The next note outlines the topics that a model policy should
+cover. The last lists a proposed U.S. constitutional amendment. It
+would guarantee Constitutional protection (like freedom of
+expression) of computer users.
+
+The last two notes outline the contractual and constitutional
+constraints on sys admin (and University) authority. They explain that
+universities are under a contractual obligation to treat students
+fairly. Every administrator and student should read these notes.
+- Carl]
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Thu, 15 Aug 1991 19:35:52 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug15.193552.26018@eff.org>
+References: <1991Aug15.174837.23862@eff.org>
+Subject: Re: CAF-News Abstracts
+
+I've corrected several factual errors in "eff.org:academic/abstracts".
+I apologize for the mistakes.
+
+Here is a diff of the old version compared to the new version.
+The old is marked with ">". The new is marked with "<".
+     - Carl
+
+------------------------
+22c22
+< statements should be applied to computers. Netnews censorship at
+---
+> statements should be applied to computers. Netnews censorship and
+24c24
+< censor and the censored of Purdue).
+---
+> censor and the censored).
+32,35c32,35
+< In this issue, a system administrator from Purdue tell why he censored
+< outgoing newsgroup messages. The necessity of the censorship at Case
+< Western and Purdue censorship is discussed (with comments by people
+< close to the incidents.)
+---
+> In this issue, system administrators from Case Western and Purdue tell
+> why they censored outgoing newsgroup messages. The necessity of their
+> censorship is discussed (with comments by some of the people who were
+> censored.)
+207,212c207,212
+< industry and a report from the University of Kentucky on the pressures
+< faced by sys admins (caused in part by users). The next note shows
+< what can happen when users are denied due process; they may take
+< matters into their own hands causing much more serious problems.  A
+< note by William Murray attributes most user/sys admin conflict to
+< honest differences in how each perceive computer systems.
+---
+> industry and a report of sys admin abuse at the University of
+> Kentucky. The next note shows what can happen when users are denied
+> due process; they may take matters into their own hands causing much
+> more serious problems. A note by William Murray attributes most
+> user/sys admin conflict to honest differences in how each perceive
+> computer systems.
+228d227
+< 
+229a229,237
+> First an apology. In the previous issue (cafn01v15), Wes Morgan
+> described the pressures sys admins face caused in part by users. In my
+> opening remarks, I said that the article was about "sysadmin abuse"
+> [by users]. That was hyperbole. I can say categorically, that I have
+> no reason to believe that Mr. Morgan has ever been abused (in any
+> literal sense) by his users. (In fact, I think he is well liked and
+> respected by the users of his machines.) I apologize for any grief my
+> poorly chosen phrase caused.
+> 
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+

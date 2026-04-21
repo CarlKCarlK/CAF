@@ -1,0 +1,543 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "The University of Nebraska-Lincoln banned all alt.* newsgroups.",
+        "Switzerland's SWITCH consortium blocked NNTP, telnet, and FTP packets to local eunet chapters.",
+        "University of Cincinnati terminated accounts for users accessing 'game' and IRC hosts.",
+        "UIC computing resource penalties were critiqued as vague and severe, allowing arbitrary enforcement."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Nebraska-Lincoln",
+        "SWITCH",
+        "University of Cincinnati",
+        "University of Delaware",
+        "University of Illinois at Chicago",
+        "University of New Mexico",
+        "uunet"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Adam C. Gross",
+        "Terry Rooker",
+        "David Swanlund",
+        "Mike Lewis"
+      ],
+      "summary": "This is a digest abstract summarizing various reports on academic computing policies and censorship from March 1992. It highlights conflicts over the banning of alt.* newsgroups at the University of Nebraska-Lincoln, network blocking by SWITCH in Switzerland, and critiques of restrictive computer use policies at the University of Delaware and UIC.",
+      "title": "Article 0 -- Abstract of CAF-News 02.22",
+      "topics": [
+        "Usenet censorship",
+        "acceptable use policies",
+        "email privacy",
+        "academic freedom",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 0 -- Abstract of CAF-News 02.22",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 17, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The decision to remove alt groups was made after a meeting of the UNL Academic Senate Computational Services and Facilities Committee.",
+        "Administration claimed memory usage on UNLINFO was doubling every four months.",
+        "Concerns were raised regarding potential violations of state pornography laws."
+      ],
+      "organizations": [
+        "University of Nebraska-Lincoln",
+        "Computing Resource Center",
+        "UNL Academic Senate Computational Services and Facilities Committee"
+      ],
+      "people": [
+        "Mike Lewis",
+        "Paul Kenyon",
+        "Douglas Gale",
+        "Leo Chouinard",
+        "David Burchell"
+      ],
+      "summary": "A student newspaper article reports on the University of Nebraska-Lincoln's decision to stop feeding 'alt.*' Usenet newsgroups into the UNLINFO system. Administration cited resource constraints and the presence of pornographic content as reasons for the removal. Students argued that many alternative groups were legitimate forums for discussion.",
+      "title": "Newspaper article at U. of Nebraska (alts)",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "resource allocation",
+        "alt groups"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 21 Mar 1992 22:32:24 GMT",
+      "from": "burchell@cse.unl.edu (David Burchell)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<9203212232.AA24018@cse.unl.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 1--Newspaper article at U. of Nebraska (alts)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 26, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The removal of the alt.* hierarchy is viewed as an extreme measure that could discourage excellent students from enrolling.",
+        "Usenet has emerged as an essential core facility for universities to support their educational and research missions."
+      ],
+      "organizations": [
+        "University of Nebraska-Lincoln",
+        "UNL CRC"
+      ],
+      "people": [
+        "Kent Landfield"
+      ],
+      "summary": "Kent Landfield wrote an open letter protesting the University of Nebraska-Lincoln (UNL) Computing Resource Center's decision to remove the 'alt.*' Usenet newsgroup hierarchy. He argues that restricting access to these groups harms the university's academic competitiveness and mission. Landfield suggests that if resource constraints are the issue, the university should seek more funding rather than censoring content.",
+      "title": "An Open Letter to UNL CRC: Removal of alt.*",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "network resources"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 26 Mar 1992 21:44:21 GMT",
+      "from": "kent@sparky.imd.sterling.com (Kent Landfield)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1992Mar26.214421.26447@sparky.imd.sterling.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 2--An Open Letter to UNL CRC: Removal of alt.*",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "2 Mar 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Usenet is not a legal right or public utility, but depends on the owners of the hardware carrying the traffic.",
+        "SWITCH removed various Usenet newsgroups without prior notice via administrative fiat.",
+        "SWITCH previously blocked port 25 (SMTP) to force the use of X.400 software.",
+        "SWITCH was blocking NNTP, Telnet, and FTP packets to local EUnet chapters."
+      ],
+      "organizations": [
+        "SWITCH",
+        "EUnet",
+        "Swiss Federal Institute of Technology in Lausanne",
+        "CHUUG"
+      ],
+      "people": [
+        "Mitchell Wyle",
+        "Brad Templeton",
+        "Chip Salzenberg",
+        "Simon Poole"
+      ],
+      "summary": "Mitchell Wyle discusses the restriction of Usenet newsgroups and network protocols by SWITCH, the Swiss networking entity. The post includes a lengthy quote from Chip Salzenberg arguing that Usenet is not a right or public utility, but subject to the property rights of machine owners. Wyle provides technical evidence of SWITCH blocking specific ports (NNTP, Telnet, FTP) to local EUnet sites.",
+      "title": "Censorship and bigotry come up strong in Switzerland",
+      "topics": [
+        "network censorship",
+        "Usenet",
+        "property rights",
+        "internet protocols",
+        "academic networking"
+      ]
+    },
+    "identity": {
+      "date": "2 Mar 92 13:50:05 GMT",
+      "from": "wyle@inf.ethz.ch (Mitchell Wyle)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1992Mar2.135005.14877@neptune.inf.ethz.ch>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 3--Re: Censorship and bigotry come up strong in Switzerland",
+      "to_or_newsgroups": "ch.general,ch.network,epfl.general,news.admin,eunet.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 2, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Student inaction regarding service shutdowns is often due to a belief that petitions will not effect change.",
+        "Administrators should facilitate user involvement in policy-making rather than acting arbitrarily."
+      ],
+      "organizations": [
+        "University of Kentucky"
+      ],
+      "people": [
+        "Sean Casey",
+        "Mark Hittinger"
+      ],
+      "summary": "Sean Casey responds to Mark Hittinger regarding the shutdown of controversial network services. Casey argues that a lack of student petitions does not imply a lack of seriousness, but rather a systemic distrust of authority. He advocates for administrators to be less arbitrary and more inclusive in policy-making processes.",
+      "title": "Article 4--Re: Why I hate IRC",
+      "topics": [
+        "network governance",
+        "student activism",
+        "administrative policy",
+        "IRC"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Mar 1992 04:08:35 GMT",
+      "from": "sean@ms.uky.edu (Sean Casey)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1992Mar1.230835.9357@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 4--Re: Why I hate IRC",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 26, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The UDel policy allows system administrators to suspend computing privileges during an investigation, which may conflict with student rights regarding status changes pending charges.",
+        "The policy defines the individual or department as the 'Data Owner' rather than the University.",
+        "System administrators are authorized to inspect user files without permission in cases of imminent danger to the system or suspected malicious intent.",
+        "The policy prohibits use of resources for purposes other than those intended, creating ambiguity regarding non-disruptive personal use."
+      ],
+      "organizations": [
+        "University of Delaware",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie provides a detailed critique of the University of Delaware's proposed 'Responsible Computing Policy.' He analyzes the policy's approach to user participation, due process regarding account suspension, privacy rights over data, and restrictions on personal use. Kadie argues for clearer distinctions between protecting university property and punishing users before conviction.",
+      "title": "Status of UDel's Responsible Computing Policy",
+      "topics": [
+        "acceptable use policy",
+        "due process",
+        "digital privacy",
+        "academic freedom",
+        "personal use of university resources"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 26 Mar 1992 22:09:27 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1992Mar26.220927.5131@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 5--Re: [eff.mail.ethics-l] Status of UDel's Responsible Computing Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-03-18",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The UIC policy's ban on unsolicited communications is so broad it could penalize system operators for quota warnings.",
+        "Accessing another person's account units or disk storage (e.g., viewing a .login file with permission) carries a minimum 3-month suspension.",
+        "The policy grants the Computer Center expansive discretion, creating an illusion of due process while remaining arbitrary."
+      ],
+      "organizations": [
+        "University of Illinois at Chicago",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie critiques the University of Illinois at Chicago's (UIC) computing resources penalties policy, arguing it is overbroad and repressive. He highlights specific rules regarding unsolicited messages and account usage that he claims lead to arbitrary enforcement and disproportionate punishment. The critique contrasts the policy with a Joint Statement on Rights and Freedoms of Students.",
+      "title": "Re: U of Illinois at Chicago Penalties Policy",
+      "topics": [
+        "acceptable use policy",
+        "academic freedom",
+        "computing privileges",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 18 Mar 1992 19:18:30 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1992Mar18.191830.5134@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 6--Re: U of Illinois at Chicago Penalties Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 23, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Some admins believe email searches are more invasive than physical searches because they leave no trace.",
+        "There is disagreement on whether written policies protect employees or make them targets for termination by supervisors.",
+        "Opinions differ on whether universities should establish privacy policies before legal precedents are settled via court cases."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Illinois (UIUC)"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie shares paraphrased responses from system administrators regarding the ethics and authorization of searching user emails and files at universities. The discussion contrasts technical maintenance with surveillance and debates whether written policies protect admins or expose them to legal risk. It highlights a tension between administrative authority and individual privacy in early academic computing environments.",
+      "title": "How do U. of I. sys admins feel about email privacy for users?",
+      "topics": [
+        "email privacy",
+        "system administration",
+        "academic freedom",
+        "surveillance policy"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 23 Mar 1992 18:47:47 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1992Mar23.184747.13631@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 7--Re: How do U. of I. sys admins feel about email privacy for users?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 20, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Email privacy is not guaranteed in the provided corporate/government policy",
+        "Privacy may be breached during termination, security breaches, or extended absences"
+      ],
+      "organizations": [],
+      "people": [
+        "Dave Johnson"
+      ],
+      "summary": "A user shares an example of an RS/6000 access request sheet from their employer to illustrate email privacy policies. The document outlines specific conditions under which email privacy may be breached, such as termination of employment or security research. It explicitly states that while the organization attempts to preserve privacy, it cannot be guaranteed.",
+      "title": "Article 8--Re: EMAIL PRIVACY",
+      "topics": [
+        "email privacy",
+        "access control",
+        "acceptable use policy",
+        "workplace surveillance"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 20 Mar 1992 08:01:50 GMT",
+      "from": "bill@chaos.cs.umn.edu ()",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<bill.701078510@chaos.cs.umn.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 8--Re: EMAIL PRIVACY",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 12, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Anonymous FTP at uu.net is a myth as users must be identifiable.",
+        "All file transfers on ftp.uu.net are logged.",
+        "Incoming files are screened for security problems and copyright infringement.",
+        "Access is denied to hosts involved in security or copyright violations."
+      ],
+      "organizations": [
+        "UUNET",
+        "CERT"
+      ],
+      "people": [
+        "James R Revell Jr"
+      ],
+      "summary": "James Revell Jr. describes the restrictive access and monitoring policies implemented at ftp.uu.net to combat abuse. The system requires identifiable users via PTR records and email addresses, while logging all file transfers. Revell justifies these measures as necessary for security and to avoid legal liability regarding copyright infringement.",
+      "title": "Logging usage of services (FTP)",
+      "topics": [
+        "FTP",
+        "logging",
+        "surveillance",
+        "copyright infringement",
+        "network security",
+        "accountability"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 12 Mar 1992 21:33:07 GMT",
+      "from": "revell@uunet.uu.net (James R Revell Jr)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<1992Mar12.213307.11252@uunet.uu.net>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 9--Re: Logging usage of services (FTP)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 25 Mar 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Making offensive information available in a library does not typically create an illegal hostile environment.",
+        "Students and professors generally have broad freedom to make offensive comments if they are related to the subject matter in a classroom context.",
+        "Private sexual harassment or pursuing someone who wants to be left alone can be grounds for punishment."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Illinois",
+        "University of California"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Louise Fitzgerald"
+      ],
+      "summary": "Carl Kadie and Professor Louise Fitzgerald discuss the legal distinctions between providing access to offensive materials in a library versus creating a hostile environment through targeted harassment. They contrast the protections afforded to academic materials and classroom discourse with the punishable nature of private sexual harassment.",
+      "title": "Network distribution of Pornographic material",
+      "topics": [
+        "First Amendment",
+        "academic freedom",
+        "hostile environment",
+        "network distribution",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 25 Mar 1992 18:02:08 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1992Mar25.180208.4528@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 10--Re: Network distribution of Pornographic material.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 5, 1992",
+      "historical_relevance": "low",
+      "item_type": "post",
+      "notable_claims": [
+        "The 'filter' program can be used to automatically delete or save emails based on the sender's address."
+      ],
+      "organizations": [
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Brygg Ullmer",
+        "Khaled S. Soufi"
+      ],
+      "summary": "A user asks for a method to block specific email addresses from sending messages. Another user suggests using the 'filter' program associated with the Elm mail system via the .forward file and a filter-rules configuration.",
+      "title": "Is there a way I can block-out certain e-mail?",
+      "topics": [
+        "email filtering",
+        "Elm mail",
+        "software utilities"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 5 Mar 1992 16:40:36 GMT",
+      "from": "ullmer@suna3.cs.uiuc.edu (Brygg Ullmer)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1992Mar5.164036.26921@sunb10.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 11--Re: Is there a way I can block-out certain e-mail?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 6, 1992",
+      "historical_relevance": "low",
+      "item_type": "post",
+      "notable_claims": [
+        "The MH tool can be used with a .forward file to pipe mail into custom delivery rules for blocking specific senders."
+      ],
+      "organizations": [
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Mike Schwager",
+        "Khaled S. Soufi"
+      ],
+      "summary": "A user asks for a method to block specific email addresses from sending messages. Another user suggests using MH (Message Handler) and configuring a .forward file and mail delivery rules to discard unwanted emails.",
+      "title": "Is there a way I can block-out certain e-mail?",
+      "topics": [
+        "email filtering",
+        "MH",
+        "software configuration"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 6 Mar 1992 02:19:36 GMT",
+      "from": "schwager@cs.uiuc.edu (Mike Schwager)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1992Mar6.021936.5715@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n22",
+      "subject": "Article 12--Re: Is there a way I can block-out certain e-mail?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

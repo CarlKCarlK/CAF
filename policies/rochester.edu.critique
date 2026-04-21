@@ -1,0 +1,220 @@
+~Newsgroups: comp.admin.policy
+~From: jaw@owlnet.rice.edu (Joseph A. Watters)
+~Subject: Re: Computer use policy document
+Message-ID: <Bv03yI.LM5@rice.edu>
+~Date: Tue, 22 Sep 1992 22:32:42 GMT
+
+In article <mumble>, deke@ee.rochester.edu (Dikran Kassabian) writes:
+|> I'm interested in finding out whether there is a single repository, such as
+|> an anonymous ftp site, of "University Computer Use Policy"-type documents.
+|> I wouldn't be surprised to find out that there is a FAQ posting that appears
+|> here and that such information is listed, but I haven't seen it yet.
+
+Carl Kadie maintains just such an archive at ftp.eff.org in the
+directory /pub/academic/policies.  I'm sure he'll respond to your post
+with more information on it.
+
+|> 
+|> My Department/College has a Computer Use Policy document in place, and a 
+|> faculty member is objecting to a certain section, included below.  There is
+|> no argument with other sections on User rights and responsibilities.
+|> 
+|> 
+|> |  3. Staff Responsibilities
+|> |
+|> |  In general, the staff of the College of Engineering computer facili-
+|> |  ties has the responsibility of enforcing the rights and responsibil-
+|> |  ities of the users of those facilities to the best of their ability.
+|> |  Several specific staff responsibilities are listed below.
+|> |
+[...]
+|> |
+|> |    3.2 Staff should at all times respect the privacy of user files,
+|> |    mail, and printer listings (but see Staff Rights below).
+|> |
+|> |  4. Staff Rights
+|> |
+ [...]
+|> |    4.1 The networked computer environment in the College  of
+|> |    Engineering is a facility provided to faculty, staff, and stu-
+|> |    dents to enable them to accomplish certain tasks required by
+|> |    their roles within the College and the University. There is an
+|> |    acknowledged trade-off between the absolute right of privacy of a
+|> |    user, and the need of the staff to gather necessary information
+|> |    to ensure the continued functioning of this College-wide resource.
+
+Your policy is making assumptions about privacy that may unecessarily
+hinder you.  See my comments below.
+
+|> |
+|> |    In the normal course of system administration, the staff may have
+|> |    to examine files, mail, and printer listings to gather sufficient
+|> |    information to diagnose and correct problems with system software,
+|> |    or to determine if a user is acting in violation of the policies set 
+|> |    forth in this document. The staff has the right to do this.
+|> |
+|> |    As mentioned in Staff Responsibilities, above, the staff has an
+|> |    obligation to maintain the privacy of a user's files, mail, and
+|> |    printer listings.
+|> 
+
+You need to make a distinction between privacy and confidentiality.
+Privacy means that you will not look at it.  Confidentiality means
+that if you see it in the course of your job, you will not disclose it
+to other people.  Generally speaking, staff should respect privacy
+when possible.  If job duties require staff to break privacy, then
+they should be bound by confidentiality considerations.  Even
+confidentiality is not absolute.  There are circumstances when what
+you see should be disclosed to appropriate third parties.  For
+example, evidence of a crime.  In a university, a more pertinent one
+would be evidence of cheating.  You need to establish the rules and
+procedures for what a staff person should do in this case.
+
+|> 
+|> The objection stems from a concern that the staff has claimed an independent
+|> "police power."  Such is certainly not the intent.  As I am often the local
+|> champion of individual rights and freedoms, there's a certain irony here.
+
+It is unclear from your posting which specific words in the policy lead
+the faculty member to think you have claimed "police power".
+Regardless, the faculty member's objection raises a question for him or
+her.  Presumably he or she  objects to a staff "police power" because
+he/she thinks that the staff should not have that power.  Well then,
+who should at Rochester?  Policies are next to worthless if there is no
+mechanism or authority to enforce them.  If not the computing center
+staff, then who?  The faculty?  I suggest that the faculty member
+cannot simply object to staff "police power" without also providing an
+alternative for who will have the police power.
+
+|> 
+|> I'd like to see how this is handled in other documents, and to get feedback
+|> from others on the balance between the absolute right of privacy, and the 
+|> need of the staff to gather necessary information to ensure continued 
+|> functioning and proper operation in a complex networked computing environment.
+
+Herein lies a potential problem for you in creating policy and
+enforcing it.  There is no absolute right of privacy.  There is a
+limited right of privacy.  This means that while a person has an
+expectation of privacy regarding their data files or information, there
+are conditions under which a duly authorized person may access those
+files without obtaining the owner's consent first.  The task for you
+and your users is to define the conditions of access such that you can
+balance the user's expectation of privacy with the need to keep the
+system operating effectively.  Most legislation that deals with privacy
+of information (e.g. Electronic Communications Privacy Act, Federal
+Educational Records Privacy Act) works to create a balance between
+privacy and need-to-know by authorized persons.  Since the privacy
+rights of an individual are strong but limited, don't hinder yourself
+unecessarily by starting off with the assumption that you must chip
+away at an "absolute" right.  I also suggest that if you have not read
+the two pieces of Federal legislation that I mentioned above, that you
+do so.  They apply to your facility.  They will also give you valuable
+insight into how the privacy vs. access balance is created and
+maintained.
+
+-- 
+Joseph A. Watters, Jr.		jaw@owlnet.rice.edu
+Deputy Director, Owlnet
+Rice University
+Houston, Texas
+
+
+---------------------------------------------
+
+
+~Newsgroups: comp.admin.policy
+~From: ldg@scott.skidmore.edu (Leo D. Geoffrion)
+~Subject: Re: Computer use policy document
+Message-ID: <1992Sep23.001942.8273@scott.skidmore.edu>
+~Date: Wed, 23 Sep 1992 00:19:42 GMT
+
+Your distinction between privacy and confidentiality is well put.
+
+I'd like to offer a few additional thoughts.
+
+1.  "Dragnets" are inappropriate management behavior.
+
+Police do not have the right to search every home just because they
+suspect that a criminal is hiding in one of them.  Likewise, system
+managers should not sweep through large numbers of accounts looking
+for suspicious code or messages.
+
+2.  You must have reasonable suspicion.
+
+Before police can search a home, they must obtain a search warrant
+(excluding "hot pursuit" issues).  Likewise, you should need to
+justify your suspicions to an outside body before you go digging into
+someone's account.
+
+3.  Use your established review groups.
+
+Most universities have a student conduct board and many have some form
+of Professional conduct committee for faculty/staff.  Use them to help
+keep your practices in sync with the rest of the institution.
+
+Here's our policy in a nutshell:
+
+We only look at mail files with prior consent of the user.
+
+If we suspect an intrusion or improper usage, we
+   a.  backup all files to mag tape
+   b.  Present our suspicions to the apprpriate committee
+   c.  If they deem it appropriate, we examine the tapes to 
+          document the violation and present our evidence to 
+          the committee.
+   d.  If they deem our suspicions without basis, we 
+          recycle the tapes as usual.
+
+Incidentally, there is also an escape clause for immediate system
+crises (the equivalent of "hot pursuit"), but we are required to
+consult with the committee as soon as possible thereafter.
+
+So far, our policy has been formally adopted by the College, but has
+not yet been tested by any actual incidents.  Faculty were very
+pleased by the adoption process and appreciated the attempts to
+integrate the practices into the established judicial procedures of
+the college.
+-- 
+Leo Geoffrion, Skidmore College Computer Services, Saratoga Springs, NY 12866
+EMAIL: ldg@scott.skidmore.edu   VOICE: (518) 584-5000 Ext. 2919
+
+
+---------------------------------------------
+
+
+>From caf-talk Caf Sep 22 21:43:14 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Re: Computer use policy document
+Message-ID: <1992Sep23.013636.7238@m.cs.uiuc.edu>
+Date: Wed, 23 Sep 1992 01:36:36 GMT
+
+Two other replies make good, broad points. This critique will be much
+narrower.
+
+deke@ee.rochester.edu (Dikran Kassabian) writes:
+
+>|  4. Staff Rights
+
+This should be "Staff Authority". Not everyone cares about the
+difference between rights and authority, but those of us who do take
+the difference very seriously. Basically, a "right" is something that
+is inherent or self-evident, for example, reasonable freedom of
+speech. "Authority" is authorization given institutions such as
+governments and universities so that they can do something for us, for
+example, protect our rights.
+
+>|  The staff in general have the right to do whatever is necessary to
+>|  carry out their responsibility to keep the College computing
+>|  resources operating and available.
+
+"Whatever is necessary"? Even replacing "right" with "authority", this
+is much to strong. You're claiming more authority for the computer
+staff than professors have. It sounds as though the computer staff are
+not bound by the University's general polices on due process, privacy,
+freedom of expression, and participation.
+
+I'm enclosing an FAQ on policy.
+
+- Carl
+

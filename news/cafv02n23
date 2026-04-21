@@ -1,0 +1,1629 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.23 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 23
+
+
+----------------------------------------------------------------------
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 0 -- Abstract of CAF-News 02.23
+
+[Best of April 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the articles,
+or QUOTES from them, NOT AN OBJECTIVE SUMMARY and not necessarily my
+opinion. Many of the paraphrases are based on earlier paraphrases by
+Adam, Elizabeth, Mark, Paul, me, and by guest editor Fred Nixon.
+===============================================================
+
+Notes 1-3 are about Netnews removals at the University of
+Nebraska, Lincoln and in Germany.
+
+1. [A UNL user:] On March 2nd, the alt groups were eliminated by UNL's
+Computing Resource Center (CRC).  Although the reason given was lack
+of resources, the content of the groups played a major part.  The
+chairman of the UNL Academic Senate Computational Services and
+Facilities Committee felt in hindsight that the committee did not have
+all the facts when they recommended a limited set of news feeds.  On
+April 6th the UNL Academic Senate Executive Committee voted to request
+restoration of the majority of the alt.* groups.
+    <fwd.9204201540.AA12109@herodotus.cs.uiuc.edu>
+
+2. [_The Daily Nebraskan_:] "Pornography was a factor in the UNL
+Computing Resource Center's decision to stop supplying and entire
+hierarchy of USENET news groups to UNL computers, the CRC director
+said Thursday."
+    <9205040334.AA04565@cse.unl.edu>
+
+3. A story in the German paper "EMMA" resulted in the banning of the
+"sex" news groups at several universities. Among the groups banned was
+"alt.sexual.abuse.recovery."
+    <199204201927.AA07124@eff.org>
+
+Notes 4-5 are about computer policy at the University of Illinois
+and at Iowa State University.
+
+4. [Editor's note: This policy was recently changed -cmk] The NCSA
+email policy permits searches and punishment of facility users who
+criticize the NCSA or University in email. The policy was created to
+justify (after the fact) a search of the computer files of a student
+employee. In reaction to the criticism, the NCSA asked a campus wide
+committee to review the policy. The committee recommended a policy
+closer to the University's general privacy policy. The campus legal
+counsel apparently objected to the new policy, since it might increase
+the University's liability. It appears counsel is waiting for the
+courts to establish law in this area.
+    <1992Apr26.204032.20854@m.cs.uiuc.edu>
+
+5. "The due process protection of the policy is good. The privacy
+protection is unclear. Free expression protection is poor. (The policy
+imposes speech restrictions on email and other computer media.
+Specifically, it prohibits rude expression and any expression of a
+political nature. In my opinion, these speech restrictions violate
+academic freedom and the law.)"
+    <1992Apr2.174625.23219@eff.org>
+
+Note 6 is the Nebraska University Students for Electronic Freedom.
+
+6. This is the Statement of Purpose from the Nebraska University
+Students for Electronic Freedom. The group promotes academic freedom,
+works to protect privacy, acts as "watch dog" group for university
+administration, educates the user community, and strives to broaden
+access to electronic communication systems.
+    <1992Apr1.192701.28737@eff.org>
+
+Note 7 is about fighting words, the "right" not to listen, and the
+"right" not to be offended.
+
+7. The Supreme Court says that there is no right not to be offended
+except when privacy is 'invaded in an essentially intolerable manner.
+Any broader view ... would effectively empower a majority to silence
+dissidents simply as a matter of personal predilections.'
+    <1992Apr27.143505.9602@m.cs.uiuc.edu>
+
+Notes 8-9 are about cracking program and email privacy policy.
+
+8. "I have a problem with outlawing cracking programs: ... Would it be
+illegal to possess a paper on access security that contained the
+source code for a cracking program?  Where do they draw the line
+between intellectual discourse and intent to break into someones
+account?"
+    <1992Apr30.164835.1816@opac.osl.or.gov>
+
+9. This is a summary of opinions on email privacy, gleaned from a
+questionnaire distributed to comp.admin.policy, comp.risks, and
+comp.society.
+    <simong.702540159@munagin>
+
+Notes 10-12 are about logging user activity.
+
+10. [An administrator:] I have been logging "anonymous" ftp's for
+months. It was done in response to people abusing privileges by
+uploading files to bypass local quotas, or to share with friends.
+After discussion in the picture discussion groups, I decided to post a
+notice about the logging and upload restrictions at login. Others
+argued that "anonymous" implied that no logging would be done. Login
+as anonymous now gives a message warning that that is not so. A sample
+warning is provided.
+    <jim.704065390@ferkel>
+
+11. "One should consider the overall chilling effect of [telnet]
+monitoring. What effect will it have on the users--and the
+institution--as a whole?"
+    <1992Apr16.035456.6200@ms.uky.edu>
+
+12. I have never encountered a library system which retains the
+patron/book association after the book is returned. "Most libraries
+will vehemently protect the privacy of their patrons."
+    <mhart.702903074@blackjack>
+
+- Carl]
+
+
+In this issue:
+
+mike.riddle     115  File 7--SUMMARY AND UPDATE: alt.* Removal at UNL
+David Burchell   57  DN article
+Carl M. Kadie    23  Netnews suppression in Germany
+Carl M. Kadie   139  One year later: NCSA emai<>sity computer privacy policies
+Carl M. Kadie   190  >[info.labmgr] Ethics statement
+Carl M. Kadie    49  >An Open Letter to UNL CRC: Removal of alt.*
+Carl M. Kadie    70  >"Hate Speech" distinguished from "Panic-Inducing Speech"
+brian@opac.osl   33  ><None>
+simon a gregory 515  EMAIL PRIVACY SUMMARY
+Jim Lick         90  >More songs about buildings and ftp.uu.net
+Sean Casey       22  >ethics of logging telnet <>(was Re: logging outgoing...)
+Michael Hart     35  >USENET Censorship at Iowa State University
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Apr 20 00:00:00 1992
+Date: Fri, 17 Apr 92 16:31:12 CST
+From: mike.riddle@inns.omahug.org@ivgate.omahug.org
+Message-ID: <fwd.9204201540.AA12109@herodotus.cs.uiuc.edu>
+Subject: Article 1--File 7--SUMMARY AND UPDATE: alt.* Removal at UNL
+
+As of April 17, 1992, when I write this summary and update, the noise
+on the nets has abated somewhat.  But those readers of the CuD who
+have access to Usenet news have almost certainly seen and remember the
+brouhaha over the deletion of the alt.* hierarchy at the University of
+Nebraska.  The following is the story, as I understand it, pieced
+together from several sources and personal inquiries.  It is only as
+accurate as the information I was able to obtain, and if anyone has
+corrections or additions, please submit them to the CuD.
+
+The furor started on March 2nd, 1992, when the alt.* hierarchy was
+eliminated by the UNL Computing Resource Center (CRC).  The
+termination was so abrupt that some downstream sites did not know in
+advance, and had to immediately scramble for alternate feeds.  The
+decision was supposedly resource-based, and supported by a February
+27th recommendation by the UNL Academic Senate Computational Services
+and Facilities Committee.  Almost immediately, however, it became
+obvious that content-control had played a major part.  Leo Chouinard,
+the "Academic Senate representative on the Computational Committee"
+[sic], reportedly said the committee discussed several considerations
+before making a decision about the alt groups, including possible
+violations of state pornography laws and concerns about computer
+resources being used for non-educational purposes.
+
+The memorandum announcing the termination read as follows:
+
+     CRC Policy on Providing Information Resources
+         2/27/92
+
+     The Computing Resource Center provides information resources to
+     the UNL community in support of the University's mission of
+     research, instruction, and service. These resources commonly take
+     the form of databases, archives, and bulletin boards. The
+     Computing Resource Center makes available those information
+     resources that are requested by faculty at UNL and approved by
+     the Computing Resource Center in consultation the Academic Senate
+     Computational Committee as useful in supporting the University's
+     mission.
+
+     If a user desires information resources not provided by the
+     Computing Resource Center, they are free to acquire that
+     information elsewhere, subject only to the requirements of the
+     information provider, relevant federal and state laws, and
+     applicable University policies.
+
+Adopted UNL Academic Senate, 2/27/92
+
+The UNL Academic Senate Computational Services and Facilities
+Committee is chaired by Professor (of English) Les Whipp.  He told me
+that, in hindsight, he felt his committee did not have all the facts
+before them when they concurred in the CRC recommendation that the
+following Usenet newsfeeds (and only these newsgroups) be made
+available: bionet, bit, biz, ci, comp, general, gnu, misc, news, rec,
+sci, soc, talk, unix-pc, unl, and vmsnet.  In particular, he was not
+aware of the connotations of censorship that could (and did) become
+attached to the wholesale removal of the alt.* hierarchy, and as of
+the date I talked with him, felt that someone at the CRC had a hidden
+agenda to remove certain "objectionable" groups.  Professor Whipp did
+not claim to be expert on the management of hardware resources, and
+sounded disturbed that a decision officially based on "limited
+resources" was so open to question on its basis.  (The debate about
+the percentage, cost, etc., of carrying the alt.* groups went on at
+length in comp.org.eff.talk and other newsgroups.  It is not my
+purpose to reiterate that discussion).
+
+Mr. Kent Landfield (kent@imd.sterling.com), a UNL alumnus, systems
+manager at a major software contractor, and moderator of
+comp.sources.misc, posted a thoughtful "Open Letter to UNL CRC"
+regarding the alt.* group removal.  As a result of my own feelings,
+and encouraged by Mr. Landfield's letter, I contacted several
+individuals at UNL.  Acting at approximately the same time, a number
+of UNL students formed the "Nebraska Students for Electronic Freedom
+(NUSEF)."  The thrust of our comments was if resources were at issue,
+tell us what was needed and we would lobby to get them.  If content
+was actually at issue, admit it openly, apply generally accepted
+educational/library standards, and bring back at least those alt.*
+groups with recognized value.
+
+As a result of the lobbying efforts, including telephone call from
+Mike Godwin at the Cambridge office of the Electronic Frontier
+Foundation, the involvement of librarians both knowledgeable
+regarding computer services and resource allocation and selection
+criteria, and the general education several of the faculty
+participants received during the discussions, the UNL Academic
+Senate Executive Committee, meeting on April 6th, voted to request
+restoration of the majority of the alt.* groups.  Their minutes
+reflect:
+
+     7.0  ALT Network Disconnect
+Wise and McShane indicated they had been contacted
+          regarding CRC discontinuing the ALT network because of
+          the potential for transmitting erotic pictures via the
+          network.  Users have indicated these pictures can be
+          blocked under copyright law restrictions and the general
+          network be continued.
+The committee requested the ALT network be added back
+          with the designated restrictions.
+
+When I discussed the committee recommendation with one of its members,
+I came away with the feeling that the digitized pictures would be
+removed due to copyright concerns, and that the rest of the group
+would be evaluated using American Library Association criteria (as
+often advocated and explained by Carl Kadie, kadie@cs.uiuc.edu).
+
+I also came away with the feeling that similar decisions will, in the
+future, be conducted substantially more in the open.  To use a trite
+saying, "time will tell."
+
+In Nebraska we are still waiting and watching for the return of the
+alt.* groups, will work to obtain legislative support if additional
+resources are in fact needed, and will continue to support resource
+allocation decisions based on academic criteria, as opposed to
+censorship.
+
+
+------------------------------
+
+From caf-talk Caf Apr 20 00:00:00 1992
+From: burchell@cse.unl.edu (David Burchell)
+Message-Id: <9205040334.AA04565@cse.unl.edu>
+Subject: Article 2--DN article
+To: djburche@jwendnelnc
+Date: Sun, 3 May 92 22:34:49 CDT
+X-Mailer: ELM [version 2.3 PL11]
+Status: RO
+
+
+
+The following article appeared on page six of _The Daily Nebraskan_,
+the student newspaper of the University of Nebraska - Lincoln, on
+Friday, May 1, 1992.
+
+Official says messages contained pornography
+
+by Mike Lewis
+Staff Reporter
+
+	Pornography was a factor in the UNL Computing Resource Center's
+decision to stop supplying and entire hierarchy of USENET news groups
+to UNL computers, the CRC director said Thursday.
+	Doug Gale said during an Academic Senate Computational
+Services and Facilities Committee meeting that the material in some
+of the alternative, or alt, groups was so bad, not even the adult 
+bookstores would carry it.
+	Some of the groups contained detailed information on how to
+torture and mutilate people, Gale said, and neither CRC nor the
+computational committee wanted to supply that information.
+	The University of Nebraska-Lincoln gets the USENET news
+service through Internet, a worldwide computer network.  If UNL had
+continued to supply the alt groups, Gale said, it would have risked
+losing access to Internet.
+	UNL is one of 13 universities that have access to NSFNET, a
+computer service provided by the National Science Foundation, Gale said.
+The NSFNET backbone service, which connects to Internet, is funded by
+the federal government.  If UNL had continued to supply the alt groups,
+and someone had complained to the federal government, UNL would have
+been required to prove that the groups met the criteria of the NSFNET
+backbone service's acceptable use policy, Gale said.  UNL must have
+then provided proof immediately, or the Internet service would have
+been turned off, he said.
+	By removing the alt groups now, Gale said, UNL forestalled such
+a confrontation with the federal government.
+	Other universities that have had such confrontations "have
+decided supporting pornography is not worth losing their Internet access,"
+Gale said.
+	Dave Burchell, a junior computer science major and the newly
+appointed student representative to the computational committee, said
+UNL was obligated as a public institution to promote freedom of expression
+and to refrain from censoring ideas.
+	"Gale has produced no evidence that the alt group removal was
+forced upon UNL," said Burchell, a member of the Nebraska University
+Students for Electronic Freedom.
+	Paul Kenyon, a graduate student in computer science and NUSEF
+member, said neither the National Science Foundation nor the federal
+government had contacted UNL about the alt groups.
+-- 
+burchell@cse.unl.edu            |           Dave Burchell
+ianr056@unlvm.bitnet            |        Review your options.
+djburche@jwendnelnc.cr.usgs.GOV |              Amiga. 
+
+
+
+------------------------------
+
+From caf-talk Caf Apr 20 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 3--Netnews suppression in Germany
+Message-ID: <199204201927.AA07124@eff.org>
+Date: Mon, 20 Apr 1992 11:27:07 GMT
+
+Moon Month, a pseudonym for a person in Germany, sent the following
+via email. It is posted with the author's permission.
+
+=====================
+At the beginning of December a German libber paper "EMMA" wrote a story 
+about "porno in usenet" to get newsgroups banned. They got the *sex* groups 
+and others banned at several universities. They furthermore encouraged 
+people to become informers against their collegues and to spy through 
+their directories. They were successful with this, too. There was 
+a discussion in dnet.inet (expired newsgroup now), de.admin.news, 
+de.talk.sex, and other groups.
+===============
+
+In other email, Moon Moth added that among the newsgroups banned
+in some places in "alt.sexual.abuse.recovery."
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr 26 00:00:00 1992
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Newsgroups: uiuc.general,alt.comp.acad-freedom.talk,ncsa.general
+Subject: Article 4--One year later: NCSA email and University computer privacy policies
+Message-ID: <1992Apr26.204032.20854@m.cs.uiuc.edu>
+Date: 26 Apr 92 20:40:32 GMT
+
+On April 1st, 1991 (no fooling), the University of Illinois's National
+Center for Supercomputer Applications (NCSA) set down an email policy
+that permits searches and punishment of faculty, students, and
+researchers who strongly criticize the University, or the NCSA, in
+e-mail.[ncsa.email] The policy was apparently created to justify,
+after the fact, the computer-file searches of a student employee who
+was suspected of sending an obnoxious email message.
+[cafv01n09,banned.1991]
+
+The policy was criticized as violating of Constitutional protections,
+academic freedom, and the spirit of the University privacy policy. The
+criticism asserted that not only were the rights of NCSA computer user
+violated, but also the rights to anyone who might correspond via email
+with an NCSA computer user.[ncsa.email].
+
+On April 29, 1991, in reaction to the criticism, the NCSA asked
+Campus-Wide Committee on Computing and Networking to review the
+policy.[cafv01n04] The Committee is made up of representatives of many
+University departments, including the NCSA, the Computer Services
+Office (now the Computer and Communications Services Office), the
+Department of Computer Science, the University Library, etc. The NCSA
+said that the old policy would stand until a some policy replaces it.
+
+By early September 1991, the Committee drafted a "Protection of
+Electronic Mail and Files" statement. The draft is very similar the
+University's general privacy policy [uiuc.code.excerpt] and if adopted
+would (in my opinion) correct all the major problems with the NCSA
+policy.
+
+Although the policy draft has been made available to people outside
+the Committee (e.g. me) and even to other universities, it has yet to
+be made public at this University.
+
+As far as I know, nothing happened with the proposal until January or
+February 1992, when University Office of Campus Legal Counsel told the
+Committee that they thought the proposal was a poor idea. Apparently
+the gist of their objection is that by broadening University privacy
+policy to include computer files, the University might increase its
+liability. No one knows the Councel's exact opinion, because all their
+remarks were oral. A pessimistic explanation for the Legal Counsel's
+advice is that would prefer to wait until lawsuits (hopefully at other
+public universities) established the minimum legal rights of academic
+computer users. Presumably, the Legal Counsel would then recommend
+that the University meet the minimum legal obligation.
+
+The Situation Today:
+
+The NCSA policy is still in force, although, as far as I know, it has
+never been used (except for its one ex post facto application.)
+
+The "Protection of Electronic Mail and Files" proposal is stalled. In
+some ways, however, because of the Committee is so representative, the
+proposal is already the de facto policy on campus.
+
+To date, only a few people on this campus have seen the proposal (or
+even heard of it); however, other universities have a copies of it and
+seem to have found it useful as they formulate their computer privacy
+policy.
+
+- Carl Kadie
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+ncsa.email
+=================
+The National Center for Supercomputer Applications (NCSA) is a department
+in the University of Illinois' Graduate College. On April 1, 1991
+the NCSA set down a new e-mail policy. The policy was cleared by the
+University's legal counsel and the Graduate College. Faculty, students,
+and researchers, however, were not consulted.
+
+This note has three parts. The first is a critique of the policy. The
+critique concludes that the policy is inconsistent with the
+Constitution, Academic Freedom, and University policy. The second part
+of this notes is the text of the policy. The third part is notes from
+a conversation with an NCSA Administrator.
+
+[As of March 1992, a campus committee has developed draft of an email
+policy that recognizes some user privacy rights. The draft however,
+seems to stalled and has not been formally adopted.]
+
+
+=================
+news/cafv01n09
+=================
+Computers and Academic Freedom News, vol. 01, no. 09.
+
+=================
+banned.1991
+=================
+A list of computer material that was banned at universities during (or
+before) 1991. It summarizes incidents and policies at Ohio State U.,
+the U. of Illinois (two campuses), Case Western U., Boston U., U. of
+Waterloo, U.  of Toledo, Western Washington U., Iowa State U.,
+Pennsylvania State U., U. of Texas, U. of Newcastle, James Madison U.,
+U. of Wisconsin, and others.
+
+=================
+news/cafv01n04
+=================
+Computers and Academic Freedom News, vol. 01, no. 04.
+
+=================
+uiuc.code.excerpts
+=================
+Excerpts from the University of Illinois at Urbana-Champaign's Code on
+Campus Affairs and Regulations Applying to All Students (Aug. 1985)
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom ncsa.email
+send acad-freedom/news cafv01n09
+send acad-freedom banned.1991
+send acad-freedom/news cafv01n04
+send acad-freedom uiuc.code.excerpts
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.88.144.4) as file(s):
+  pub/academic/ncsa.email
+  pub/academic/news/cafv01n09
+  pub/academic/banned.1991
+  pub/academic/news/cafv01n04
+  pub/academic/uiuc.code.excerpts
+
+
+
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Apr  2 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,comp.admin.policy,alt.politics.correct
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 5--Re: [info.labmgr] Ethics statement
+Message-ID: <1992Apr2.174625.23219@eff.org>
+Date: Thu, 2 Apr 1992 17:46:25 GMT
+
+This is a critique of Computer Ethics Statement for Iowa State
+University. The due process protection of the policy is good. The
+privacy protection is unclear. Free expression protection is poor.
+(The policy imposes speech restrictions on email and other computer
+media. Specifically, it prohibits rude expression and any expression
+of a political nature. In my opinion, these speech restrictions
+violate academic freedom and the law.)
+
+>From: GA.LJH@isumvs.BITNET (Linda Hutchison)
+>Subject:  Ethics statement
+>Message-ID: <199204012113.AA20676@ux1.cso.uiuc.edu>
+>Date: Wed, 1 Apr 1992 20:55:25 GMT
+
+>----------------------------Original message----------------------------
+>ISU has had a computer ethics statement in place for over a year.  Originally
+>the statement was a statement of ethics from the Computation Center, but we
+>worked through the Dean of Students Office, the university lawyer(s) and the
+>Administrative Data Processing Center (the Computation Ctr is the academic
+>center on campus) to make this a campus-wide policy.
+
+I think the policy could be improved with wider participation.
+Specifically, computer users should formally participate. Also,
+because the policy involves important issues of academic freedom, the
+faculty senate and academic freedom committee should be involved.
+
+The Joint Statement on Rights and Freedoms of Students, the main
+statement of academic freedom for students in the U.S., says: "The
+student body should have clearly defined means to participate in the
+formulation and application of institutional policy affecting academic
+and student affairs."
+
+[...]
+>*************************%cut here%*******************************************
+
+[...]
+>    Viewing or using another person's computer files, programs or data
+>  without authorized permission is unethical behavior and an invasion of
+>  that person's privacy.
+
+Does this apply to sys admins? What is the procedure for sys admins to
+acquire authorization to search user files? Is it compatible with the
+University's general privacy policy (which usually prohibit
+unreasonable searches in assigned office space and dorm rooms)?
+
+[...]
+>    The following guidelines govern ethical computer use at Iowa State
+>  University:
+
+>    #  Unauthorized access to restricted data bases is unethical.
+
+I dislike this use of the word "unethical". Thousands of things in
+life are unethical and yet allowable. I think the policy could be
+clearer by replacing "unethical" with "prohibited".
+
+[...]
+>       Copyrighted software must only be used in accordance
+>       with its license or purchase agreement.
+
+Some copyrighted software has no license or purchase agreement. I
+suggest the following wording:
+
+        Copyrighted software must be used in accordance with
+        terms of the copyright. Licensed software must be used
+        in accordance with its license.
+
+[...]
+>    #  Sending rude, obscene or harassing material via any electronic mail
+>       or bulletin board facility is strictly forbidden.
+
+In my opinion, it is unethical and illegal to strictly forbid rude
+expression. It is the general policy of most universities (especially
+state universities) to encourage free expression. For example, at my
+school, the U. of Illinois, the student code says:
+
+"A student at the University of Illinois at the Urbana-Champaign campus
+ is a member of the University community of which all members have at
+ least the rights and responsibilities common to all citizens, free from
+ institutional censorship;"
+
+ ...
+
+"III. Campus Expression
+ A. Discussion and expression of all views is permitted within the
+ University subject only to requirements for the maintenance of order."
+
+Vague speech restrictions have no place on campus and have been
+consistently overturned by the courts. For example, _UWM Post v. U. of
+Wisconsin_ decision, the explicitly mentions email.
+
+Restrictions based on the tone material are especially inappropriate.
+(I'm paraphrasing from an ACLU handbook on teacher's legal rights
+here.)  Generally, speech, if otherwise shielded from punishment by
+the First Amendment [or Academic Freedom -cmk], does not lose that
+protection because its tone is sharp.  Discussions will not always be
+models of decorum. A court observed that "often those with the power
+to appoint will be on one side of a controversial issue and find it
+convenient to use their opponent's momentary stridency as a pretext to
+squelch them."
+
+>  Also disallowed
+>       are random mailings and any message of [...] political
+>       nature.
+
+This prohibition is much too broad. Many messages have a political
+nature. For example, I would think that most messages by a political
+science professor would have a political nature. If this clause was
+added in response to a specific law (perhaps prohibiting *some* types
+of *partisan* political activity), the computer policy should be
+revised to include the exact wording of the law. If there is no law,
+this clause should be removed.
+
+[...]
+>                         #########################
+>                Copyright (c) 1989 by Iowa State University
+
+>  Permission to reproduce all or part of this document for noncommercial
+>  purposes is granted, provided the author and Iowa State University are
+>  given credit.  To copy otherwise requires specific permission.
+
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+student.freedoms
+=================
+Joint Statement on Rights and Freedoms of Students -- This is the main
+statement on student academic freedom.
+
+=================
+uiuc.code.excerpts
+=================
+Excerpts from the University of Illinois at Urbana-Champaign's Code on
+Campus Affairs and Regulations Applying to All Students (Aug. 1985)
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+
+=================
+law/doe-v-u-of-michigan
+=================
+This is Doe v. University of Michigan. In this widely referenced
+decision, the district judge down struck the University's rules
+against discriminatory harassment because the rules were found to be too
+broad and too vague.
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send acad-freedom student.freedoms
+  send acad-freedom uiuc.code.excerpts
+  send caf-law uwm-post-v-u-of-wisconsin
+  send caf-law doe-v-u-of-michigan
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.88.144.4) as file(s):
+  pub/academic/student.freedoms
+  pub/academic/uiuc.code.excerpts
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/doe-v-u-of-michigan
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Apr  1 00:00:00 1992
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,unl.general,alt.censorship
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 6--Re: An Open Letter to UNL CRC: Removal of alt.*
+Message-ID: <1992Apr1.192701.28737@eff.org>
+Date: Wed, 1 Apr 1992 19:27:01 GMT
+
+[Here is the Statement of Purpose from the Nebraska Students for
+Electronic Freedom, adopted at the organizational meeting of NUSEF
+held March 31, 1992 at UNL. - Carl]
+
+           Nebraska University Students for Electronic Freedom
+                         Statement of Purpose
+
+1)	Promote academic freedom on University computer and network
+	systems.  Champion the free exchange of ideas and the
+	extension of first-amendment rights to computer and network
+	systems.
+
+2)	Work for protection of privacy on University computer and 
+	network systems, including protection from invasions of
+	personal privacy by other users, as well as the
+	administration.
+
+3)	Provide the Computing Resource Center and University 
+	administration with feedback and suggestions to help
+	them better serve the computing needs of the University
+	community.  Act as a "watch dog" group for CRC and the
+	University administration.  Lobby for protection of
+	electronic freedom and privacy.
+
+4)	Educate and inform the University community, especially
+	those without much direct experience with computing and
+	networking resources, about the importance of protecting
+	academic freedoms and privacy on electronic systems.
+	Inform the University community about CRC and administrative
+	policies that may affect their use of, or the availability
+	of, University computer and network systems.
+
+5)	Strive to broaden access to electronic communications systems
+	to a larger portion of the University community.
+
+
+=======================
+Dave Burchell    Mailing list manager    burchell@cse.unl.edu   477-9282
+Lesli Thorn      Presiding officer                              436-8641
+Jim VandeVegt    Recording secretary     vandevec@cse.unl.edu   436-9775
+
+
+======================
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Apr 27 00:00:00 1992
+Newsgroups: soc.culture.jewish,soc.rights.human,alt.activism.d,alt.censorship,alt.discrimination,alt.society.civil-liberties,alt.comp.acad-freedom.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 7--Re: "Hate Speech" distinguished from "Panic-Inducing Speech"
+Message-ID: <1992Apr27.143505.9602@m.cs.uiuc.edu>
+Date: Mon, 27 Apr 1992 14:35:05 GMT
+
+greeny@top.cis.syr.edu (J. S. Greenfield) writes:
+
+[...]
+>I believe that this description of "fighting words" is not quite accurate.
+>In Chaplinsky v. New Hampshire (1942), Justice Murphy wrote for the SC:
+>
+>"...insulting or 'fighting' words--those which their very utterance inflict 
+>injury or tend to incite an immediate breach of the peace."
+[...]
+
+I believe the current definition is 1) the language must be delivered
+one-to-one, and 2) must be such as to evoke an immediate breach of
+peace (as opposed to simply offending the listener). _Chaplinsky vs.
+New Hampshire_ is (thankfully) out of date.
+
+According to _The First Amendment Book_ by Robert J. Wagman, 1991, p.
+106: "In 1940 Walter Chaplinsky, a Jehovah's Witness, was distributing
+literature on the streets of Rochester, New Hampshire, when he created
+quite a stir by loudly telling everyone he encountered that organized
+religions are 'a racket' and by specifically condemning several major
+ones by name in great detail. He was arrested an eventually convicted
+under a state law that made it an offense to speak 'any offensive,
+derisive or annoying word to any person who is lawfully in any street
+or other public place'. When the case reached the Supreme Court in
+1942 (_Chaplinsky v. New Hampshire_), the justices unanimously upheld
+the conviction and rejected Chaplinsky's claim that his words and
+actions were protected by the First Amendment...."
+
+According to _American Constitutional Law_ by Ralph A. Rossum
+and G. Alan Tarr, 1983, p. 379:
+
+"The Court has since [_Chaplinsky v. New Hampshire_] defined 'fighting
+words' narrowly. It is not enough that speech be offensive, or
+invite dispute, or provoke hostility among listeners: only
+fact-to-face person insults raise no First Amendment issues. Yet the
+difficulty of designing a statute confined to such insults has lead
+the Court to overturn convicts on overbreadth or vagueness grounds even
+when the speech at issue clearly constituted 'fighting words'"
+
+In _Cohn v. California_, 1971 the Supreme Court restated the
+description of fighting words as "those personally abusive epithets
+which, when addressed to the ordinary citizen, are, as a matter of
+common knowledge, inherently likely to provoke violent action.
+[...]
+Finally, in arguments before this Court much has been made of the
+claim that Cohen's distasteful mode of expression was thrust upon
+unwilling or unsuspecting viewer, and that the State might therefore
+legitimately act as it did in order to protect the sensitive from
+otherwise unavoidable exposure to appellant's crude form of protest
+... While this Court has recognized that government may properly act
+in many situations to prohibit intrusion into the privacy of the home
+of unwelcome views and ideas which cannot be totally banned from the
+public dialog ... we have at the same time consistently stressed that
+'we are often "captives" outside the sanctuary of the home and subject
+to objectionable speech.' ... The ability of government, consistent
+with the Constitution, to shut off discourse solely to protect others
+from hearing it is, in other words, dependent upon the showing that
+substantial privacy interest are being invaded in an essentially
+intolerable manner. Any broader view of this authority would
+effectively empower a majority to silence dissidents simply as a
+matter of personal predilections." ...
+
+- Carl
+
+
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Apr 30 00:00:00 1992
+Path: opac.osl.or.gov!brian
+From: brian@opac.osl.or.gov
+Newsgroups: academic.freedom.talk
+Subject: Article 8--Re: <None>
+Message-ID: <1992Apr30.164835.1816@opac.osl.or.gov>
+Date: 30 Apr 92 16:48:35 PST
+References: <9204301320.AA01916@herodotus.cs.uiuc.edu>,<tp0t0INN6ur@agate.berkeley.edu> <1992Apr30.105440.1@acad3.alaska.edu>
+Organization: Oregon State Library, Salem OR
+News-Moderator: Approval required for posting to academic.freedom.talk
+Lines: 29
+
+In article <1992Apr30.105440.1@acad3.alaska.edu>, <fxjwk@acad3.alaska.edu> writes:
+> It's not exactly encouraged, but there are few states where carrying picks
+> is illegal....  As with cracker programs, those found in possession are
+> likely to receive very close scrutiny, possibly for quite some time, but
+> there should be nothing wrong with owning or carrying the tools per se.
+> It could even be argued that using the tools under certain circumstances
+> is quite legal; just for your own education, trying to pick the lock on
+> your front door (or running crack against your own account's password).
+> An even finer line, which I have heard argued: user claims they were running
+> a cracker program on the password file just to collect those accounts with
+> poorly chosen passwords, so he could let the administrators know there was
+> a big problem....
+> Where the issue becomes very black and white is once someone signs onto an
+> account they've cracked---those you can discipline/abuse/expel/arrest
+> (your preference).
+> jo
+
+I have a problem with outlawing cracking programs:
+Would they make it illegal to discuss methods of cracking?
+Would it be illegal to possess a paper on access security that contained the 
+source code for a cracking program?
+Where do they draw the line between intellectual discourse and intent to break 
+into someones account?
+
+-- 
+
+----- Brian McBee ----- (503)378-4276 ----- brian@opac.osl.or.gov -----
+----- Oregon State Library, State Library Building, Salem, OR 97310 -----
+Above opinions are mine only.  You can have them if you like.
+
+
+
+------------------------------
+
+From caf-talk Caf Apr  6 00:00:00 1992
+Newsgroups: comp.unix.admin,alt.privacy,comp.admin.policy
+From: simong@mullian.ee.mu.OZ.AU (simon alexander gregory)
+Subject: Article 9--EMAIL PRIVACY SUMMARY
+Message-ID: <simong.702540159@munagin>
+Date: Mon, 6 Apr 1992 06:02:39 GMT
+
+Due to the vast number of responses I received to my offer of a
+summary, I have decided to post the article, rather then mail it out 
+individually.  The summary is as follows :
+
+
+
+
+         ELECTRONIC MAIL ETHICS - Questionnaire Summary on EMAIL PRIVACY.
+         ----------------------------------------------------------------
+
+                       By: Simon. Gregory. (April 1992)
+                       --------------------------------
+      
+
+Author Profile:
+---------------
+
+Name : Simon. Gregory.
+Occupation: Student
+Course : Science/Engineering  (3rd year)
+Email: simong@munagin.ee.mu.oz.au
+
+Institution: University of Melbourne
+Location: Melbourne, Victoria, Australia.
+
+
+Disclaimer:
+-----------
+
+This article does not, in any way, attempt to express my own or Melbourne 
+University's opinions on this issue.  It is simply an impartial summary 
+of some feelings expressed within the computing community.
+
+Abstract:
+---------
+
+Email privacy is an issue which is currently the subject of much debate.
+Should electronic mail be treated with the same respect as traditional
+'snail mail', or should it be viewed in a completely different light?
+Just what are the rights of the postmaster, or the owner of the system
+on which electronic mail is being sent? - Is it really necessary for
+them to have the ability to read the text of any message they choose?
+
+There are no definite answers to these questions, and there probably never 
+will be, however one thing is for certain : as our Society becomes
+increasingly more reliant on computers, the issue which will not
+disappear, or reduce in significance, but rather become an important
+and integral aspect of our future lives.
+
+Introduction:
+-------------
+
+The following letter was placed on the world-wide news network, in the
+groups : comp.admin.policy, comp.risks and comp.society :
+
+	I am currently engaged in an assignment based on the pros and 
+        cons of the monitoring of email systems, and the opinions of 
+        various different groups of people regarding this sensitive issue.
+
+	I would appreciate any forthcoming replies, giving information or
+	opinions on the topic.  Please include your occupation with your
+        reply.
+
+	As a general guide, I include the following questions:
+
+       	     1) Should the postmaster, or others have the right or ability
+	to look at the text of an article?
+
+       	     2) What should the post master do if potentially damaging
+	or illegal information is revealed.  eg. If the spreading of a 
+        virus is revealed through a boast on email,  or two students 
+	are discussing copying a computing assignment.  Should one's 
+        personal privacy be sacrificed in such a case?
+
+       	     3) Should postmasters have a written code of ethics, which is
+	widely known and accepted? 
+
+             4) Would it be more acceptable if people were made aware
+	of when and on what systems reading of mail by an outside party 
+	could occur?
+
+	Your cooperation would greatly be appreciated,
+       		                                     Thankyou.
+               		                                   Simon. Gregory.
+
+
+Within a few hours, I had been (happily) inundated with responses, 
+apparently demonstrating a keen interest, and possibly a little concern, 
+over the issue of Email Privacy. 
+
+The eventual response to my letter (after being posted for 3 working days) 
+totaled over 8000 lines of text, spread between well over 50 respondents.  The following is a summary of the general ideas expressed, and trends 
+illustrated within the replies.
+
+
+Who Responded :
+---------------
+
+Respondents were from all over the World, with (predictively) the 
+majority coming from the U.S.A.  There were also many replies from 
+Australia and the U.K..  There were a multitude of other countries 
+involved, two of the more noteable (or unexpected) being Kuwait and 
+Saudi Arabia.
+
+There was also a wide diversity of occupations.  Systems Administrators,
+Postmasters and Students were by far the most common, however employees
+of companies using email were also represented, in addition to several
+employers and owners of systems.  A wide overview of opinions was thus
+obtained. 
+
+Thankyou :
+----------
+
+I would like to express my gratitude to all of the respondents to my
+request for assistance, without whom this would not have been possible.
+
+
+TEXT :
+------
+
+Should the postmaster, or others have the right or ability
+----------------------------------------------------------
+to look at the text of an article [email letter] ?
+--------------------------------------------------
+
+There was a general consensus that both the Postmaster and the System
+Administrator currently have the ABILITY to examine the contents of any
+Electronic Mail that comes through their system. (although some
+Postmasters claimed to have installed certain protection routines
+to prevent them from doing so.  They no doubt have the ability to
+override this, however). A heated debate erupted, however, over
+whether this power should continue to exist, and for what reasons.
+
+Respondents can (approximately) be divided into three main groups :
+                    
+ 		- Students at Universities.
+
+		- Postmasters, System Administrators, and owners or
+		  managers of computer systems.
+
+		- Other users. (employees etc.)
+
+
+Perhaps predictively, each group seemed to have the same characteristic
+opinion expressed by the vast majority of respondents within that
+group.
+
+Many students expressed their opposition to the monitoring of email
+IN ANY FORM, and not only opposed the RIGHT of a postmaster to look
+at mail, but also challenged whether the ABILITY should continue to
+exist.
+
+Some compared the email to traditional 'pen and paper' type mail, with
+one Computer Science graduate stating :
+
+	"[email] should be given at least the same treatment that First 
+	Class mail is given in the US: The address of the sender and 
+	receiver can be noted (and any info on the outside of the 
+	envelope), but the envelope cannot be opened."
+
+This opinion was echoed by others :
+
+	" If we are going to establish a tradition where people use 
+	email like they use regular mail, they must have the EXPECTATION
+	of privacy. Granted, people know that regular mail can be
+	intercepted, steamed open and read, but they also know that this 
+	is illegal (unless a warrant has been issued). Unless we 
+	establish the same legal protection for email as regular mail, 
+	we relegate it to a situation where unknown administrators, 
+	with unknown rules, and unknown accountability can take whatever
+	action they feel needed for "technical purposes."  This is a 
+	shaky way to establish a new form of communication."
+
+Another student, having been a system manager in the past, pointed
+out that :
+
+	"you have a system operator providing a service to his users. 
+	He may well own the machine, so why should there be areas of
+	the machine that he may not probe etc. If information is being
+	passed which is detrimental to his system security (for example),
+	then surely he should be able to read this??"
+
+However, he concludes (with his own opinion) :
+
+	"Email is quickly become a important (and potentially the most 
+	important) form of communication around the world. I think it
+	is imperetive that the information and views expressed and 
+	shared between two users should be respected and that meer 
+	citizens (ie. those not enpowered by the state) should not be
+	legally allowed to intercept and read these messages."
+
+One Student clarified the question :
+
+	"I do not think that anyone should have the right to arbitrarily 
+	monitor e-mail.  If the systems policy CLEARLY states that
+	e-mail will be monitored then the user of the account has given
+	up this right."
+
+
+While students appeared to be overwhelmingly opposed to email monitoring, 
+general users and employees seemed to take a more moderate approach,
+with a wide range of opinions being expressed.
+
+A Ph.D working at the University of Mississippi was of the opinion that:
+
+	"The ability to look at email on the system should be to allow 
+	the SysAd to solve user problems AT THE INVITATION OF THE USER."
+
+And :
+
+	"[eventually] Postmasters will not be able to look at the "inside 
+	of the envelope" no matter how hard they try. They should get 
+	used to only being able to see headers, because regardless of the 
+	ethics involved, technically it will be [made to be] impossible."
+
+This was supported by an Acedemic Systems Consultant :
+
+	
+	"I think this whole issue will disappear quite soon, 
+	pending the widespread acceptance of public-key cryptography 
+	standards and the wide availability of software that can take 
+	advantage of such.  With such software, the body of a message 
+	would always be encrypted with the recipient's public key, and 
+	privacy would be ensured.  Sometimes technology can pre-empt 
+	policy!"
+	
+One respondent points out :
+
+	"in reality, they [postmasters] do need the ability [to read
+	mail], since oftimes the only way to figure out what is going 
+	wrong with a piece of mail is to look in the file that contains 
+	it to examine the headers.  In a situation like that, it is 
+	very difficult to avoid seeing at least SOME of the text of 
+	the message."
+
+Some came out in support of owner/operators of systems having the
+right to examine mail, due to them paying for the service.  In one
+letter, I was urged to consider the following :
+
+	"- who is paying for the email facility?
+         - what is the potential damage that can be done to/by the 
+	   email user?"
+
+This person continued :
+
+	"if the postmaster is the person responsible for the email 
+	facility at the institution that pays for the facility, 
+	then you can't expect privacy."
+
+And concluded :
+
+	"Now suppose you're an individual who subscribes to email and 
+	pays for it. In this case, you'd like to be protected from 
+	people flooding your mailbox with nonsense."
+
+Many also differentiated between computer systems in different settings,
+generally leaning towards monitoring of academic mail, due to this
+being an environment in which system 'vandalism' is most likely to 
+occur.  Email, they believed, could often reveal such actions before
+any damage was done.
+ 
+
+System Administrators, on the other hand, generally came out in favour 
+of monitoring email, although to various different extents.
+
+One states:
+
+	"[postmasters should have the ability to read email] to find out
+	 who the mail should be forwarded to. Just like the postoffice 
+	 can open undeliverable mail to find out where to send it to."
+
+A slightly stronger viewpoint :
+
+	"[I] really don't think "right" enters into it since the 
+	system administrators are the one's that, in effect, own the
+	machine.  It is a pragmatic issue, not one that should be 
+	looked at with any more importance than that, UNLESS the owners 
+	and/or administrators of the system have guaranteed the privacy 
+	of such communications.  In the absence of any such assurance 
+	or guarantee, I believe the participants of a conversation via 
+	someone else's machine should not *expect* any such privacy."
+
+There were many different views of the postmasters actual role, with
+many Postmasters also being System Administrators, and therefore having
+significant concern over potential damage to the system.
+
+Some were of the opinion that :
+
+	"the postmaster's sole role is to insure the smooth delivery 
+	of mail." 
+
+And that Postmasters should :
+
+	"1. Hear and see no evil [do not look]
+	 2. Speak no evil [if you have to look or see accidentally, 
+	never divulge what you see]"
+
+As another put it :
+
+	"I believe that if you treat the medium with the same respect
+	afforded to a private conversation or phone conversation you 
+	will find the answers to your ethical questions have already 
+	been resolved.  A systems administrator is in essence a postal 
+	worker with an undetectable letter opener."
+
+Others felt that it was their prime responsibility to prevent potential
+damage to the system.
+
+As one replied :
+
+	"as an administrator at a government computing facility, I 
+	have to prevent the use of my machines for illegal purposes. 
+	This, I consider, gives me the right to read any mail that 
+	I see fit."
+
+
+Not everyone fully opposed or supported email privacy.  One person
+in particular came up with a potential solution to the problem, 
+which was that :
+
+	"certain sites sign on as "secure" routing facilities, 
+	guaranteeing that messages routed through their systems will 
+	not be inspected.  Once a database of "secure" sites is 
+	established, then the software (such as the pathalias database) 
+	could be modified to accept a "secure" flag to route only via 
+	those sites at the expense of connectivity or time.  Many sites 
+	with limited resources (such as ours) would be reluctant to agree 
+	to such statement, and they (we) could be excluded from the 
+	"secure" listing, but included in a (probably larger) listing 
+	that could be used for non-secure routing."
+
+
+
+What should the post master do if potentially damaging or illegal 
+-----------------------------------------------------------------
+information is revealed.  eg. If the spreading of a virus is
+------------------------------------------------------------
+revealed through a boast on email,  or two students are discussing
+------------------------------------------------------------------
+copying a computing assignment.  Should one's personal privacy be 
+-----------------------------------------------------------------
+sacrificed in such a case?
+--------------------------
+
+
+In general the copying of a computer assignment was not considered to
+be sufficiently important to warrant a sacrifice of privacy :
+
+
+	"i would favour full rights to the postamster to examine and 
+	take action on user mail, as far as it relates to the safety 
+	and well being of the system. anything outside of that (for 
+	eg., copying assignments) is something i think, that falls 
+	outisde [outside] the jurisdiction of the postmaster."
+
+
+Potentially damaging or illegal information, however, was viewed in
+a completely different light.  Many felt that, in some cases, one's 
+personal privacy should be sacrificed for the common good : 
+
+	"if an offence is uncovered, it should be dealt with, 
+	regardless of how the information was acquired. But if the 
+	information was acquired unethically, *another* offence 
+	(acquiring information unethically) has been committed, and 
+	this offender should be dealt with as well."
+
+
+One respondent compared the "sending of hacking information or viruses 
+by email" to "passing national secrets via telephone." and argued that
+since, in this case a phone tap would be authorised, similar measures 
+should be permissible with email, assuming that there is sufficient
+evidence of such misbehaviour.
+
+
+Another compared it to the "real" Post Office :
+
+	"if I cannot deliver a package, I open it to see whom it is
+	intended to go to.  If I happen to discover some rather 
+	raunchy pictures, that's no business of mine. (IMO)  However, 
+	if I discover explosives, I'm at LEAST going to contact 
+	my supervisor for further instructions!  If it's obviously 
+	rigged for detonation, call the police.  SOMEONE has committed 
+	a serious crime, and I have knowledge of it.  As a good 
+	citizen, I believe that I should report it."
+
+
+Others, however, were opposed to the sacrifice of privacy, under
+any circumstances :
+
+	"the postmaster shouldn't see this anyway.  This goes back 
+	to the post office & the phone company.  Where does it stop? I
+	can call someone and tell them we're going to spread a virus, 
+	so why shouldn't I be able to send email. It should be treated 
+	exactly as any other form [of communication]." 
+
+	"NO. What this means is a potential 'Big Brother is Watching 
+	You'. The dangers to the freedom of people are in my opinion 
+	far greater than the benefits from being able to read 
+	peoples mail."
+
+Perhaps an intermediate approach :
+
+	"given that this is similar to any other sort of eavesdropping, 
+	the right thing to do, for me, is to sit down with the person, 
+	in an environment free of eavesdroppers, tell them what I know, 
+	what kind of a position it puts me in, and what I want them
+	to do about it - which is get it out of my sight and never let 
+	me see it again on the systems I'm responsible for."
+
+
+Should postmasters have a written code of ethics, which is
+----------------------------------------------------------
+widely known and accepted? 
+--------------------------
+
+Overwhelmingly, the response was 'yes' :
+
+	"YOU BET YOUR A** THEY SHOULD!  And make them SIGN IT TOO!  So 
+	that later on, they cannot claim ignorance after the fact."
+
+	"Yes and the tools to make it possible to follow the code in a 
+	practical way."
+
+
+Others pointed out that :
+
+	"Maybe this would be a good idea - its a lawyers paradise 
+	however."
+
+
+There were a few, though, who believed a written code to be unnecessary :
+
+	"I'd rather not put it down in writing: I want to reserve the 
+	right to do anything to anyone at any time, but to have the 
+	users' trust that I won't abuse this. A written document is 
+	not necessary if your sysadmin is trustworthy, and is useless 
+	if he isn't."
+
+
+	"I think the relation between the sysadmin(s) and the users 
+	should be based on trust. No list of rules can compensate for 
+	that."
+
+
+
+Some felt that there probably should be a policy, but doubted that
+it could be agreed upon, while others thought that agreement was
+not necessary :
+
+	"As far as acceptance goes, if the policy is unacceptable 
+	to the user, the user shouldn't be on that system."
+
+
+
+Would it be more acceptable if people were made aware of when 
+-------------------------------------------------------------
+and on what systems reading of mail by an outside party could
+-------------------------------------------------------------
+occur?
+------
+
+
+There was a general feeling that if users ARE to have their mail
+monitored, it is important to make them aware of this :
+
+
+	"People should be told if their email is being monitored since 
+	there is a reasonable expectation that it is NOT being monitored.  
+	Then the user can decide if encryption should be used, or if a 
+	phone call would be more private than email." 
+
+
+	"There is *never* any justification for disturbing privacy 
+	without letting the person know that it's possible.  You have to 
+	give them the option of refusing to use the service."
+
+
+A few felt that no such notice is necessary, however :
+
+	"Anybody *EVER* assuming that email is secure is just plain
+	stupid."
+
+
+It was thought by some, that reading Email could not be made more
+acceptable, even if a warning were to be in place :
+
+
+	"THIS DOESN'T MAKE MONITORING ANY LESS OFFENSIVE!"
+
+	
+	"Of course but not preferable to privacy."
+
+
+	"Not particularly; it's never acceptable"
+
+
+Conclusion :
+------------
+
+It appeared, overall, that the system users were most often opposed to
+the monitoring of Email, although there were some who were supportive,
+under certain circumstances.
+
+System Administrators and Postmasters, on the other hand, almost always
+maintained that they had the need to monitor mail for a variety of 
+different reasons,  although opinions on the extent to which such
+monitoring should occur varied quite markedly.  Generally, owners
+or managers of systems also supported this point of view, since as 
+effective owners, they felt it was their right to do as they pleased,
+and that they required some form of control over the traffic that passed 
+through their often "limited resources". 
+
+
+
+------------------------------
+
+From caf-talk Caf Apr 23 00:00:00 1992
+Newsgroups: comp.org.eff.talk
+From: jim@ferkel.ucsb.edu (Jim Lick)
+Subject: Article 10--Re: More songs about buildings and ftp.uu.net
+Message-ID: <jim.704065390@ferkel>
+Date: Thu, 23 Apr 1992 21:43:10 GMT
+
+I thought I would add to this thread from the perspective of someone
+who operates an ftp archive.  The logging here has been going on for
+a few months now.  Initially, this was done without notice.  The
+main README file had info about upload policies, but there was no
+pointer for new users to read this.
+
+The logging was done in response to a number of people abusing their
+priveleges by uploading their personal files to distribute to friends
+or to bypass their local quotas temporarily.  And some people were
+uploading X-rated image files.  As anyone who reads the pictures
+groups knows, I have nothing against x-rated image files.  However,
+various local and network policies prohibit their distribution through
+public ftp archives.  I would be held personally responsible for any
+such files found on my site.
+
+Not long after logging was started, someone uploaded about 10 x-rated
+image files to the main incoming directory.  Because of the surprising
+response from the remote site, I started a dialouge on the matter in
+the pictures discussion groups on the matter about what should be done.
+As a result of this discussion, it was decided that a notice of the
+logging should be posted immediately at login, and also an explanation
+of the upload restrictions.  A number of other sites now post such
+notices also.  Note that many sites still do logging, but do not post
+a notice about it.  The logging is nothing new, just the notices are.
+My notice reads:
+
+============================================================
+NOTICE: All transactions are logged.  If you don't like
+this, disconnect now.  All the public files are kept in the
+directory /pub and below.  Do not upload anything which 
+could get me in trouble.  This includes illegally copied 
+software, x-rated image or text files, etc.  If you do not
+obey this warning, your actions will be reported.
+============================================================
+The physical disk for the ftp area is on ferkel.ucsb.edu.
+It would likely be faster and more reliable to use ferkel
+instead of piggy, oinker, or cavevax.  (The systems are all
+logically equivalent though.)
+============================================================
+If you see something strange happening (permission denied
+on files, etc.), drop me email at jim@ferkel.ucsb.edu.
+============================================================
+If your ftp client doesn't seem to be working correctly, try
+logging in with '-' as the first character in your password.
+
+If users login with '-' as the first character in the password,
+they receive the message:
+
+230 Guest login ok, read /README before using system.
+
+because '-' disables multi-line messages which confuse older
+ftp clients.
+
+In a later discussion in another group (I don't remember which), several
+people argued that the login name of 'anonymous' implied that no logging
+would take place.  As a result of this, my initial action was to remove
+the login 'anonymous' as a ftp login, using 'ftp' and 'guest' instead.
+This ended up screwing up mirror programs, archie, and the like, so I
+changed things to send the message:
+
+331 Guest login ok, 'anonymous' login doesn't mean you won't be logged.
+
+if a user logs in as 'anonymous'.
+
+I feel that such notices are the only effective ways to prevent misuse
+of my server.  Logging is the only effective way to detect misuse
+quickly and easily.  It is not meant to be used in a 'Big-Brother'
+manner.  I receive the ftp logs in mail every morning from the
+previous day, and do a quick grep on it to see if anything happened.
+If nothing suspicious is noted, its deleted.
+
+In other discussions, I likened this logging to having a security camera
+in a store.  The potential for abuse is there in each case, but security
+cameras are accepted to help prevent crime.  The logs should be accepted
+by users to prevent misuse.  If misuse could not be controlled because
+of the lack of logs, it would be possible for some ftp archives to be
+closed down completely.  Like store cameras, most stores have cameras
+recording your actions without you knowing it, and many ftp sites log
+you without you knowing about it.
+
+                            Jim Lick		       
+Work: University of California	| Play: 6657 El Colegio #24
+      Santa Barbara		|       Isla Vista, CA 93117-4280
+      Dept. of Mechanical Engr. |	(805) 968-0189 voice/msg
+      2311 Engr II Building     | "when you gonna make up your mind?
+      (805) 893-4113            |  when you gonna love you as much
+      jim@ferkel.ucsb.edu	|  as i do?" -Tori Amos
+
+
+------------------------------
+
+From caf-talk Caf Apr 16 00:00:00 1992
+Newsgroups: comp.admin.policy
+From: sean@ms.uky.edu (Sean Casey)
+Subject: Article 11--Re: ethics of logging telnet destinations (was Re: logging outgoing...)
+Message-ID: <1992Apr16.035456.6200@ms.uky.edu>
+Date: Thu, 16 Apr 1992 03:54:56 GMT
+
+
+Despite the "rightness" and "wrongness" of logging these things, one
+should consider the overall chilling effect of the monitoring. What
+effect will it have on the users--and the institution--as a whole?
+
+One might compare and contrast it to other forms of monitoring such as
+license plate scans to see where you go, audit trails such as
+recording your every command, etc.
+
+It would be a good idea to study how these things affect the minds of
+non-criminals, and weigh the overall effect with the security gained.
+
+Sean
+
+-- 
+                  |``Wind, waves, etc. are breakdowns in the face of the
+Sean Casey        | commitment to getting from here to there. But they are the
+sean@s.ms.uky.edu | conditions for sailing -- not something to be gotten rid
+U of KY, Lexington| of, but something to be danced with.''
+
+
+------------------------------
+
+From caf-talk Caf Apr 10 00:00:00 1992
+From: mhart@blackjack.dt.navy.mil (Michael Hart)
+Newsgroups: comp.society
+Subject: Article 12--Re: USENET Censorship at Iowa State University
+Message-Id: <mhart.702903074@blackjack>
+Date: 10 Apr 92 10:51:14 GMT
+
+
+In <1992Apr7.192956.6898@m.cs.uiuc.edu> kadie@herodotus.cs.uiuc.edu (Carl M.
+ Kadie) writes:
+
+>In article <1992Apr5.205935.29334@m.cs.uiuc.edu>
+>kadie@herodotus.cs.uiuc.edu > (Carl M. Kadie) writes:
+
+>>If your library is like most, it does not keep a record of the books
+>>you check out.
+
+>I meant to say that if it is like most, it does not keep a record of
+>the books you check out *after you return them*. Moreover, no library
+>that I know of maintains an explicit list of people-who-read-material-
+>that-discusses-sex.
+
+See also my other followup to the thread.
+
+No library that I know of, and I worked for a very large library
+system (150 branches) and for a library computer systems vendor,
+_ever_ keeps records, logs, or lists of any type of material that
+a patron gets.
+
+The other day, I went into my library with my wifes card to see what
+she had out, in case any was overdue.  They scanned the barcode,
+and would tell me that she had 3 items out, and when they were due,
+but would not tell me the titles.
+
+Most libraries will vehemently protect the privacy of their patrons.
+
+
+--
+|   Michael G. Hart                   mhart@blackjack.dt.navy.mil    |
+|--------------------------------------------------------------------|
+|     You think _I_ speak for the government or the navy?  HAH!      |
+| Aviation, computers, quality improvement, Northern Exposure, money |
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

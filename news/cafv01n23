@@ -1,0 +1,859 @@
+Computers and Academic Freedom (news version)
+August 25, 1991
+Vol. 1, No. 23
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is academic/news. Best-of-the-month issues are available as files
+April, May, June, and July. Abstracts of CAF-news are in file
+academic/abstracts.
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+[This week's note continues the discussion on freedom of expression on
+(public) university computers. The first five notes discuss issues in
+the abstract. In the first note, a sys admin argues that sys admins
+and computers cannot be expected to follow library procedures unless
+computers are funded like libraries and sys admins are given academic
+status like academic librarians. In the second note a student says
+that Netnews is much like other small student publications he has
+worked on (and so should be treated like other student publications).
+The next note is an exchange about government funding of personally
+objectionable material. The poster says that contributing a small
+price to shared channels (roads, libraries, networks) is worthwhile
+because it helps "to ensure freedom of communication, movement, and
+other activity that ultimately benefits everybody,...". The fourth
+note discusses when an sys admin would be obliged to let a user use a
+computer for some expressive purpose. The fifth note points out the
+need for an authorative answer to question of "when is a
+university-owned computer properly regarded as an instrument of free
+expression?"
+
+The next note changes the topic a bit. In it, a student (me), says
+that like academic, library, and parking policy, university computer
+policy should be in the main student handbook.
+
+The last five notes discuss the Netnews policy of the Engineering
+Computing Center of the University of Kentucky. In the first note, a
+sys admin explains that his site doesn't allow games and doesn't
+support Netnews. He says that one reason that they dropped Netnews was
+because their Dean received mail complaining about the postings of
+several users. He says that when they upgrade their hardware they may
+support Netnews but will not carry the alt.sex newsgroup because
+minors might be able to access it. The next note says that cutting off
+all Netnews access (in part) because of complaints amounts to
+censorship by the University of Kentucky. In the third note, a sys
+admin suggests that a university's safest bet may sometimes be to
+improperly censor a student. The second-to-last note criticizes the
+decision deny adults access to alt.sex and advocates use of a
+selection policy of the type traditional libraries use. In the last
+note, the U. of Kentucky sys admin explains that their decision not to
+carry alt.sex is not based on legal concerns but rather on a desire to
+avoid bad publicity and "complaints up and down the administrative
+hierarchy".  - Carl]
+
+
+In this issue:
+
+Sanjay Kapur    112  >Free Forum vs. Class-Work Only machines
+Paul Moloney     46  >Netnews censorship at U. of Kentucky
+jim thomas       18  >Free Forum vs. Class-Work Only machines
+M. K. Thakur    118  >Free Forum vs. Class-Work<>.024550.22138@mp.cs.niu.edu> 
+J Greely         17  >Free Forum vs. Class-Work Only machines
+Carl M. Kadie    32  Computer Policy in the Student Handbook
+Wes Morgan       96  >I don't get it.
+Carl M. Kadie    64  >Netnews censorship at U. of Kentucky
+Sanjay Kapur     32  >Netnews censorship at U. <>cky (was Re: I don't get it.)
+Carl M. Kadie    96  -
+Wes Morgan       76  >Verifying users, was Re: I don't get it.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+Date: Sun, 18 Aug 1991 21:57 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Message-Id: <2F0D768BFC00965B@ccmail.sunysb.edu>
+Subject: Re: Free Forum vs. Class-Work Only machines
+
+>From: Diane Kovacs <LIBRK329@ksuvxa.kent.edu>
+>
+>re:
+>>I would agree that a computing resource is closely analogous to library 
+>>under one condition:
+>>      ONLY WHEN IT IS FUNDED IN AN ANALOGOUS MANNER TO A LIBRARY.
+>
+>>Most computing facilities are funded as laboratories rather than libraries and 
+>>so follow laboratory rules rather than library rules.
+>
+>Sanjay, et al,  This is nonsense.  Many computer facilities are adminstered by
+>the same provost or vice president as the libraries are.  In fact I've observed
+>the library and the computer facilities competing for funds and space.
+>At several institutions the library and the academic computer facilities are
+>part of the same organization. 
+>
+
+I think we agree that those computing facilities funded as libraries should be 
+open as libraries.  You are neglecting those computing facilities that are NOT 
+so funded.
+
+>I think that a crucial distinction needs to be made between "administrative"
+>computer facilities and "academic computer facilities"  It is my opinion that
+>the administrative computer facilities need to be governed by the same
+>security principles as the filing cabinets and offices of the registrar and
+>accounting departments.  If this is a problem for you then keep the facilities 
+>seperate...The military does know how to handle this...they put security stuff
+>on computers off the network but I've noticed that they provide e-mail access
+>to the network at many of their sites.  I've got several military persons on
+>my lists.  
+>
+>Academic computer facilities have an a different reason for being
+>than adminstrative computer facilities....
+
+What about research computing facilities that you do not talk at all about?
+What about departmental computers which are used for both administrative 
+purposes and academic purposes?  What about mainframe computers which an 
+instituition can not afford to buy multiples of?  The military is rich and at 
+times wasteful and should not be cited as an example for a University to 
+follow.
+
+>
+>When was the last time you visited the library?  Cd-Roms, Internet access 
+>terminals, microcomputer networks with connections to the bitnet/internet,
+>Computer assisted Instruction laboratories, bibliographic and full-text
+>databases? 
+
+Not all Universities are that advanced and I have five CD-ROM players (1 on 
+my PC and 4 on my VAXstation) in my office.  Only very few CD-ROM titles 
+(relative to print) exist.  Because of the cost of the databases, it is often 
+impractical for a library to buy more than a few anyway.
+ 
+>We use the networks as a reference source for our faculty.  (Isaac Asimov
+>is describing the academic library of 1991 in the book _Prelude to 
+>Foundation_ when Hari Seldon goes to the University on Trantor to use
+>the library)
+>
+
+To quote you from above: This is nonsense.  That kind of reference information 
+does not yet exist.
+
+>The academic computer facilities *are* like libraries, in fact there
+>a number of parallels (texts,databases, information services,. etc.)
+>Libraries *are* "laboratories" for learning.
+
+They are just not funded that way:  That is my complaint.
+
+
+>  What the He double toothpicks
+>do you think libraries are for anyway?...They are for research and exploration
+>and discovery and this is key..ensuring that the current generation of students
+>has access to the accumulated knowledge of the past and current explorers and
+>discoverers...that is what the mission or raison d'etre of the entire 
+>university is supposed to be...just read some of the words engraved on the
+>older buildings on your campus...or the land grant agreement if you are at
+>a land grant university. 
+>
+
+I know you are waxing philosophical but lets get back to earth.
+
+My main complaint is that sufficient number of computing sites are NOT treated 
+as libraries are treated when it comes to funding and are forced because of 
+University politics to charge access fees and usage fees.
+
+
+You may want to read some of my postings on this list about four months back 
+when I was arguing that Computing Facilities ought to be treated like 
+libraries for all purposes not just one.  
+
+Computing Facilities should
+
+1) not be Forced to charge access and usage fees.
+2) get funded like libraries
+3) have freedom of choosing what hardware/software should be used just as 
+   a librarian chooses books/software/hardware.
+
+Also Systems staff (people like me) should get the same privileges as Librarians
+   do (e.g. most Universities give Librarians Faculty status and a 9 month 
+   academic year work schedule)
+
+>Speaking as a Librarian, 
+>
+
+Obviously.
+
+>Diane
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+Date: 23 Aug 91 21:19:43 GMT
+From: pmoloney@unix1.tcd.ie (Paul Moloney)
+Message-Id: <pmoloney.682982383@unix1.tcd.ie>
+References: <1991Aug22.155144.21136@ms.uky.edu>, <1991Aug22.184036.20080@eff.org>, <1991Aug23.150637.11652@ms.uky.edu>
+Subject: Re: Netnews censorship at U. of Kentucky
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+>Each student is his own paper?  Interesting; you want to compare NetNews
+>access to student newspapers and student organizations, but you don't want
+>there to be a "checks and balances" system until due process gets involved?
+>Student organizations have officers and advisors, and student newspapers
+>and magazines have editorial boards and advisors; can you really group
+>them together with a "one-man" NetNews paper?
+
+Probably. Here in Trinity I edit, along with three others, a College
+magazine. You could argue that four people make an 'editorial board',
+but several other magazines here are edited (and some, indeed, written)
+by one person.
+
+By the way, of the four editors, three have had their access to news
+removed at one stage or another. The fourth never posts. I wonder is there 
+a genetic correllation or something? Or are we Editors just Too
+Dangerous To Live????? (ta-dah)
+
+In my opinion, Usenet _does_ resemble a magazine that anyone can write
+to. For that reason, there should be freedom of opinion there, without
+restraint, except of course by the law of the land (libel and slander
+should of course apply to Usenet as well as to any other publication.
+The realities of actually enforcing libel suits against someone halfway
+across the globe are another matter - a matter for the law, not for the
+university.)
+
+The problem with the university, business, whatever being liable for
+whatever is written seems to me to be a misunderstanding by the law as
+to what the computer's function is as regards Usenet. If there exists a
+magazine to which anyone can mail articles (I use mail here in the
+Postman Pat sense of the word), then of course the postal service
+shouldn't be liable for any slander suits - the person who mailed the
+articles should be. Likewise with Usenet. The computer, that the
+university had provided to you, is only a means of _accessing_ Usenet. 
+The same a postbox or a phone is to a regular magazine.
+
+Opinions? Or an I talking bullshit (it _is_ quite late here)?
+
+P.
+--
+moorcockheathersiainbankshamandcornpizzapjorourkebluesbrothersspikeleepratchett
+clive P a u l  M o l o n e y "Lines of light ranged in the nonspace of the  rem
+james Trinity College, Dublin mind." PMOLONEY%VAX1.TCD.IE@PUCC.PRINCETON.EDU vr
+brownbladerunnerorsonscottcardprincewatchmenkatebushbatmanthekillingjoketolkien
+
+Date: Sun, 18 Aug 1991 21:53:50 GMT
+From: tk0jut1@mp.cs.niu.edu (jim thomas)
+Message-Id: <1991Aug18.215350.21835@mp.cs.niu.edu>
+References: <F3871E28AC00DC4D@ccmail.sunysb.edu>
+Subject: Re: Free Forum vs. Class-Work Only machines
+
+In article <F3871E28AC00DC4D@ccmail.sunysb.edu> comp-academic-freedom-talk@eff.org writes:
+>
+>What I strongly object to is being forced to pay your expenses either directly 
+>or indirectly (through taxes, tuition etc.) while you make a speech or 
+>publish something I happen to disagree with.
+
+I object to KKK types travelling on public roads that I've paid for to
+my meetings, to some library material that I pay for, and to a long list
+of other stuff. But, we are an interconnected society, and to ensure
+freedom of communication, movement, and other activitity that ultimately
+benefits everybody, shared channels to which we all contribute are 
+a small price. Given the importance of information production and
+dissemination, "free" net access is as important as "free" highways.
+Yes, they cost money, but it's a shared expense with massive benefits,
+and available to everybody.
+
+Jim Thomas
+
+Date: Wed, 21 Aug 91 11:25:30 EDT
+Sender: "Manavendra K. Thakur" <thakur@zerkalo.harvard.edu>
+Message-Id: <9108211525.AA01871@zerkalo.harvard.edu>
+Subject: Re: Free Forum vs. Class-Work Only machines 
+             <1991Aug21.024550.22138@mp.cs.niu.edu> 
+
+>>>>> On Wed, 21 Aug 1991 02:45:50 GMT, rickert@cs.niu.edu (Neil Rickert) said:
+
+>>"[Question:] Can students use school facilities such a bulletin
+>>boards, loudspeakers, mimeograph machines, and meeting rooms to
+>>express their views?
+>>
+>>[Answer:] If the use of these school facilities for expression of
+>>student views would not be likely to disrupt regular school
+>>activities, students should be able to use them. However, a school
+>>may legitimately refuse to allow students to use its mimeograph
+>>machine if, for example, it is used all day long in the preparation
+>>of course material. If the loudspeaker is used only for school
+>>business, such as the announcement of school activities, program
+>>changes, and special events, a court would probably hold that
+>>student groups may legally be prevented from using for the
+>>expression of particular opinions. On the other hand, facilities
+>>such as bulletin boards should present no problem since space for
+>>the use of students can almost always be made available.
+
+>   If you really believe this garbage, I suggest you file a law suit
+> against every school in the USA, for they all violate this.  It is
+> common to not make mimeographs available to students, even when they
+> are not used all day long for preparation of class material.  It is
+> common to have some bulletin boards for administrative use and not
+> permit students to post to these bulletin boards.  It is common to
+> have some bulletin boards restricted to particular topics (say
+> arranging rides into town, or finding housing) and to only allow
+> students to post to these bulleting boards if they keep to these
+> restricted topics.  Yet each of these very common practices clearly
+> violates the principles you apparently believe in.
+
+Neil, Neil, ease up for a moment, would you?  Carl's quotation didn't
+imply that ALL students have the right to access ALL school facilities
+ALL the time.
+
+Look again at what Carl quoted and what you said (I'll concentrate on
+the statements about bulletin boards):
+
+Carl's quotation:
+
+	facilities such as bulletin boards should present no problem
+	since space for the use of students can almost always be made
+	available.
+
+
+Your response:
+
+	It is common to have some bulletin boards restricted to
+	particular topics (say arranging rides into town, or finding
+	housing) and to only allow students to post to these bulleting
+	boards if they keep to these restricted topics.
+
+
+Please correct me if I'm wrong; it seems to me that you and Carl are
+saying the same thing.
+
+Carl is saying that it would be unjustified to completely ban students
+>from using bulletin boards since additional bulletin board space for
+student use can "almost always be made available."
+
+You are saying that schools commonly allocate bulletin board space (a
+resource, if you will) for specific purposes.
+
+Both of you are right!  And to my mind, neither of you are
+contradicting each other.  You're simply saying the same thing, albeit
+in different ways.
+
+Perhaps the misunderstanding arises from the inherent ambiguity of the
+phrase "... should present no problem ..." in Carl's quotation.  Most
+likely, you interpreted this to mean that students cannot be denied
+access to any bulletin board space no matter what.  Most likely, Carl
+did not mean this at all; rather, he was pointing out that barring
+students from using all bulletin boards in general is an abuse of
+legitimate administrative control over resources.
+
+The irony of all this is that the thrust of Carl's quotation actually
+affirms the validity of administrative control over resources!  I've
+been following this list since it began, and not once have I read
+anything written or quoted by Carl that says institutions cannot
+maintain administrative control over their resources.
+
+What I've heard Carl arguing over and over is that administrative
+control is a legitimate function of academic institutions and that
+such administrative control must be done in a manner that is fair,
+equitable, and consistent with widley accepted principles of academic
+freedom.  (Hence Carl's quotation of authoritative statements from
+various academic organizations, professional societies, etc).
+
+I have a hard time believing that anyone could actually disagree with
+that.  So I'm at a loss to understand why these eminently reasonable
+statments end up getting blown out of proportion and misunderstood.
+Instead of flaming and hurling venom at each other, can't we try to
+identify the set of assumptions and understandings being brought into
+the discussion?  Bringing these out into the open would probably
+eliminate a large proportion of the ill will that seems to be
+lingering in this newsgroup.
+
+Perhaps a good rule of thumb for future discussion in
+this newsgroup would be to:
+
+	1) Assume nothing
+	2) Ask probing questions to eliminate any ambiguities or
+	   misunderstandings and avoid jumping to conclusions
+
+Note that I'm not simply asking people to "be nice"; rather, I'm
+trying to point out that personal invective in this newsgroup (as with
+any newsgroup) tends to bog down any substantive discussion of the
+issues at hand.  If we could get past all the elements that raise
+people's hackles, and concentrate instead on what this newsgroup is
+supposed to be about, maybe we'd all learn something and perhaps even
+get something constructive accomplished.
+
+
+Manavendra K. Thakur			 Internet: thakur@zerkalo.harvard.edu
+Systems Programmer, High Energy Division BITNET:   thakur@cfa.BITNET
+Harvard-Smithsonian Center for		 DECNET:   CFA::thakur
+Astrophysics				 UUCP:	   ...!uunet!mit-eddie!thakur
+
+Date: Wed, 21 Aug 1991 10:12:27 GMT
+From: jgreely@morganucodon.cis.ohio-state.edu (J Greely)
+Message-Id: <JGREELY.91Aug21051227@morganucodon.cis.ohio-state.edu>
+References: <1991Aug14.145236.23462@eff.org>
+Subject: Re: Free Forum vs. Class-Work Only machines
+
+In article <1991Aug20.183745.8709@eff.org> kadie@eff.org
+ (Carl M. Kadie) writes:
+>Here is some more info about students's legal rights to free
+>expression.
+
+Interesting reading.  The problem with your use of "proof by
+authority" is that you're avoiding what I see as the basic issue in
+this discussion, namely: when is a university-owned computer properly
+regarded as an instrument of free expression?  Your answer seems to be
+"when it's turned on".
+
+
+				"We're not lost. We're
+				 locationally challenged."
+-- 
+J Greely (jgreely@cis.ohio-state.edu; osu-cis!jgreely)
+
+Date: Fri, 23 Aug 1991 14:52:58 GMT
+Sender: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug23.145258.12240@eff.org>
+Subject: Computer Policy in the Student Handbook
+
+At many (most?) universities, a computer organization can suspend or
+expel a user from the computer for any reason and with no right of
+appeal. This power is sometimes justified by defining it away. (For
+example, Due process is only necessary if there is a punishment.
+Computer expulsion is defined not be a punishment. Therefore, due
+process is not needed.)
+
+Other times, it is justified as an administrative action. But what
+other university officials have this much unchecked power?
+
+At my school, the University of Illinois at Urbana, faculty can punish
+a student for cheating by (among other things) assigning the student a
+failing grade. Also, the library can fine a patron for keeping a book
+too long. In both cases, however, everything is outlined in the
+student handbook (even the amount of the library fines).
+
+Also, the handbook's rules for the classroom and library can not be
+changed at the whim of the dean or the head librarian. The rules are
+part of the official University code and all changes must be discussed
+and approved by the University government and administration.
+
+For many students and faculty, computer facilities are now as
+important as libraries. The time for informal, ad hoc, and local
+computer policies has passed. It's time to put computer policies in
+the student handbook.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: 19 Aug 91 14:37:43 GMT
+From: morgan@ms.uky.edu (Wes Morgan)
+Message-Id: <1991Aug19.143743.21042@ms.uky.edu>
+References: <9108172010.AA21385@vega.irus.rri.uwo.ca>
+Subject: Re: I don't get it.
+
+aganguli@irus.rri.uwo.ca (Ami Ganguli) writes:
+>
+>	My greatist criticism of administrators in general ( and perhaps one
+>that can be explained away? ) is that many seem to feel that controlling who
+>accesses the system and for what purposes is a goal unto itself.  When you
+>make a rule against running games or sending personal e-mail or reading alt.
+>sex, or any of those horrible things that users like to do, do you ever ask
+>yourself why?
+>
+
+OK, let me explain the rationale behind my site's policies:
+
+1) We do not allow games or game playing.
+
+Our systems are used by 1800 students, staff, and faculty members.  For
+about 10 years, our only systems were an AT&T 3B20 and a Harris HCX-7.
+Anyone with experience on these systems can testify to their computational
+sloth.  There is no such thing as "occasional" game playing when there are
+1800 userids on a system.  When we profiled the system performance and load,
+we found that games were burning about 20% of the available CPU time at
+peak usage.  That was unacceptable.  
+
+2) We do not support Usenet.
+
+At one time, my site participated in Usenet.  Several things combined to
+cause us to drop our feeds:
+
+	- Disk space.  Since we have to give priority to academic use,
+	  we did not have the disk space to support a full feed.  Rather
+	  than provide a "crippled" Usenet, we decided to drop it alto-
+	  gether.  
+
+	- Public relations.  Several users at my site caused some con-
+	  sternation on the net, which resulted in USMail being dispatched
+	  to the Dean of our College, as well as to the Director of the
+	  computing center.  This was not your typical flamage; these users
+	  really did "go over the line".
+
+	- The aforementioned CPU time problem.  Usenet was eating huge
+	  chunks of CPU time, both in transport and user-interface.
+
+Now that we have upgraded our hardware (to StarServer Es and SPARCStations,
+with an HP-9000 thrown in for good measure), we hope to reestablish our shop
+as a Usenet site.  However, we will not carry certain groups, such as the 
+alt.sex.* hierarchy.  Our rationale for this decision is simple:
+
+	We cannot properly ascertain the identity of our users.  We do
+	not have access to personal user data, such as birthdates.  We
+	cannot guarantee that user "jqpubl01" is John Q. Public; it might
+	be his roommate, his girlfriend, or his 10-year-old brother.  Since
+	many of the discussions and images in the alt.sex hierarchy are
+	oriented towards adults, they should be restricted to adults, just
+	as adult movies and periodicals are restricted.  Since we cannot 
+	reliably enforce such restrictions, we will not carry those groups
+	at all.
+
+>	A computer that isn't begin used is a very expensive piece of trash.
+>If somebody want's to play a game, why not let them?  Instead of making a 
+>policy like "thou shalt not play video games", why not just say, "if you're
+>playing a video game, we have the right to boot you off if somebody else needs
+>the computer"?  That way at least the machine will be used.
+
+Because this doesn't work.  Can I spend all my time policing the student labs,
+which are spread all over campus?  After I leave at 5 PM, who is going to per-
+form the "booting"?  Students don't listen to other students; the most common
+reply I've heard in student labs is "F*** off, I was here first".  This is
+hardly an enforceable restriction.
+
+>	On mainframes, why not check your average cpu usage sometime.  Is
+>it only at 50% ?  How's your disk space?  70% ? If so, then why are you 
+>trying to place so many restrictions on your users?  Did the university spend
+>all that money because they wanted a really expensive paperweight?
+
+Well, during the school year we usually run at 75% CPU utilization and above.
+Disk space is usually running at about 85%.  Can you imagine what those sta-
+tistics would look like without our restrictions?
+
+>	People will generally respect rules if you make them reasonable and
+>provide some justification.
+
+I hope that this has given you some insight into our situation.  I don't 
+claim that our restrictions should apply to everyone; the measures I des-
+cribe here are merely our method of dealing with our situation.  When the
+hardware upgrade is in place, we will reevaluate our restrictions.  We've
+already decided to reimplement our Usenet feed; personally, I hope that
+we can allow more recreational use of our systems.  Our first priority,
+however, must be the academic users.
+
+Best,
+Wes
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+Date: Wed, 21 Aug 1991 22:45:53 GMT
+Sender: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug21.224553.10512@eff.org>
+References: <1991Aug19.143743.21042@ms.uky.edu>, <1991Aug19.211851.14599@eff.org>, <1991Aug21.210341.5322@ms.uky.edu>
+Subject: Re: Netnews censorship at U. of Kentucky
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+
+>The HypeMaster strikes again!!
+[...]
+
+I will try to explain why I think this case is important.
+
+>If this were the sole reason, or if Usenet access was only partially
+>restricted, I would agree with you.
+	
+In my opinion, a university administrator's opinion that a student's
+notes are "over the line" should have no bearing on whether Netnews
+service is continued or discontinued. In my opinion, considering the
+student's perceived-over-the-lineness is no more legitimate than
+considering the student's race or religion.
+
+>I mentioned three reasons that Usenet was dropped at our site. Carl,
+>true to his hyperbolic form, seized upon the issue from which the most 
+>mileage could be drawn.
+
+I agreed with the legitimacy of two of reasons (#1 and #3). That does
+not change the legitimacy or illegitimacy of #2. In my opinion,
+reason #2 deserved condemnation.
+
+>A judicious header renaming, and voila!  Let's
+>all cry "censorship" and implicate the entire University!!!
+
+In my opinion, a University is responsible for the official actions of
+its departments and employees. Also, in my opinion, the decision to
+remove a communication medium because of "over-the-line" content is
+censorship, even if content is only one factor.
+
+Here is my attempt at an analogy: Suppose the University journalism
+department closes down the student paper 1) mostly because it loses
+money and 2) in part because the editor is African-American. In my
+opinion, the University (not just the department) would be guilty of
+racial discrimination.
+
+[...]
+
+>As long as the decisions made affect 
+>all users equally, I don't think that it is an issue of censorship.  Heck, 
+>I *was* a user of this site when Usenet went away, and I didn't feel 
+>particularly censored; I just found a few other systems and BBSs, 
+>and went my way rejoicing.
+[...]
+
+While it is important to treat users equally, it is not sufficient.
+Users should also be treated fairly. I believe that this is not just a
+good idea, but also the law. To quote, "The Rights of Students":
+
+"In other cases, courts have barred school officials from cutting
+off funds to campus newspapers because they disapproved of the newspaper's
+content. {65}
+[...]
+{65} Joyner v. Whiting, 477 F.2d 456 (4th Cir. 1973); Stanley v.
+Magrath, 719 F.2d 279 (8th Cir. 1983)."
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Tue, 20 Aug 1991 03:31 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Message-Id: <26E77EDC1C200482@ccmail.sunysb.edu>
+Subject: Re: Netnews censorship at U. of Kentucky (was Re: I don't get it.)
+
+>From: kadie@eff.org (Carl M. Kadie)
+>After reading edguer@alpha.ces.cwru.edu (Aydin Edguer) note, I take
+>this back. A fear of legal liability might be a legitimate reason to
+>deny all users write access to Usenet. But ...
+>
+>It is not a reason to deny users read access to Usenet.
+>
+>If the troublesome behavior was limited to a few students, it
+>is unfair to remove everyone's access.
+
+Once burnt twice shy is a common rule followed by administrators.
+
+>
+>As far as I know, no university has ever been found liable for
+>something their students or staff wrote to the net. (I don't
+>think any university has even been sued.) Universities have,
+>however, been successfully sued for improperly banning student
+>expression.
+
+The potential for libel damage awards reaching into millions exists.  
+
+I would be very much interested in the maximum monetary damage awarded a 
+student for improper banishment of free expression.
+
+>Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+>I do not represent EFF; this is just me.
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+Date: Mon, 19 Aug 1991 21:55:39 GMT
+From: kadie@eff.org (Carl M. Kadie)
+Message-Id: <1991Aug19.215539.15837@eff.org>
+Subject: Netnews censorship at U. of Kentucky (was Re: I don't get it.)
+
+~References: <9108172010.AA21385@vega.irus.rri.uwo.ca> <1991Aug19.143743.21042@ms.uky.edu>
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+[...]
+>Now that we have upgraded our hardware (to StarServer Es and SPARCStations,
+>with an HP-9000 thrown in for good measure), we hope to reestablish our shop
+>as a Usenet site.  However, we will not carry certain groups, such as the 
+>alt.sex.* hierarchy.  Our rationale for this decision is simple:
+
+>	We cannot properly ascertain the identity of our users.  We do
+>	not have access to personal user data, such as birthdates.  We
+>	cannot guarantee that user "jqpubl01" is John Q. Public; it might
+>	be his roommate, his girlfriend, or his 10-year-old brother.  Since
+>	many of the discussions and images in the alt.sex hierarchy are
+>	oriented towards adults, they should be restricted to adults, just
+>	as adult movies and periodicals are restricted.  Since we cannot 
+>	reliably enforce such restrictions, we will not carry those groups
+>	at all.
+[..]
+
+I am happy to hear that the University of Kentucky will be restoring
+Netnews. I am sorry to hear that the University has banned alt.sex.*.
+
+Most recent censorship attempts claim to be modivated by a desire to
+protect childern. But, in fact, they deny materials to adults.
+
+[This case is mostly from memory] When the FCC tried to ban all
+dial-a-porn (to protect childern), the Supreme Court struck the rule
+down (Sable Communications v. FCC ?). It said that there were other
+ways to protect children that did not require banning the material.
+
+What law in Kentucky are you in fear of? Does it really say that if
+you cannot reliably enforce restrictions on children, you can not
+carry alt.sex.*? How does it define reliable? How does it define
+adult-oriented material?
+
+If you want to be selective about what newsgroups you subscribe to, I
+suggest that you create a netnews selection policy with the help of
+the librarians at the U. of Kentucky. You may be suprised to discover
+that U. of Kentucky already owns much adult-oriented material and that
+it does not restrict access to that material based on age.
+
+If you want to read about selection policy, I recommend these
+books:
+
+    Censorship and Selection: Issues and Answers for Schools
+    Before and After the Censor: a Resource Manual on Intellectual Freedom
+    Intellectual Freedom Manual
+
+(full references in <1991Aug15.200628.27084@eff.org>)
+
+Finally, read over this:
+
+                        Library Bill of Rights
+
+The American Library Association affirms that all libraries are forums for
+information and ideas, and that the following basic policies should guide
+their services.
+
+    1. Books and other library resources should be provided for the interest,
+information, and enlightenment of all people of the community the library
+serves. Materials should not be excluded because of the origin, background,
+or views of those contributing to their creation.
+
+    2. Libraries should provide materials and information presenting all
+points of view on current and historical issues. Materials should not be
+proscribed or removed because of partisan or doctrinal disapproval.
+
+    3. Libraries should challenge censorship in the fulfillment of their
+responsibility to provide information and enlightenment.
+
+    4. Libraries should cooperate with all persons and groups concerned
+with resisting abridgment of free expression and free access to ideas.
+
+    5. A person's right to use a library should not be denied or abridged
+because of origin, age, background, or views.
+
+    6. Libraries which make exhibit spaces and meeting rooms available to
+the public they serve should make such facilities available on an equitable
+basis, regardless of the beliefs or affiliations of individuals or groups
+requesting their use.
+
+
+ 
+                       Adopted June 18, 1948.
+      Amended February 2, 1961, June 27, 1967, and January 23, 1980,
+                         by the ALA Council.
+
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: 23 Aug 91 15:21:39 GMT
+From: morgan@ms.uky.edu (Wes Morgan)
+Message-Id: <1991Aug23.152139.15501@ms.uky.edu>
+References: <8cge2vm00WDJ0=eFBu@andrew.cmu.edu>, <1991Aug21.215723.17260@ms.uky.edu>, <och6GyS00YV_M3OYRl@andrew.cmu.edu>
+Subject: Re: Verifying users, was Re: I don't get it.
+
+sm6h+@andrew.cmu.edu (Stephen P. Marting) writes:
+>morgan@ms.uky.edu (that's me) writes:
+>> 
+>>Yes, but JQP's parents aren't going to care about that.  The only
+>>thing which will hold their attention is the fact that JQP's little
+>>brother was pulling down GIFs of Traci Lords or reading about the
+>>latest Swedish Erotica catalog.  They won't blame JQP for giving
+>>out his password; they'll rail, in righteous anger, about public
+>>schools carrying "pornography".  It's already happened; it will
+>>happen again, regardless of any policy you care to develop.  The
+>>best solution is to can alt.sex.* and the like entirely.  As has
+>>been mentioned several times, they are usually available from several
+>>other systems that aren't my concern.
+>
+>It has happened?  And what were the results of these cases?  Has a
+>school ever been successfully sued for "allowing" one of their students
+>to perform an illegal act?
+
+It is not a question of lawsuits; I didn't even mention legal action.
+It's a question of letters to the editor, pickets, complaints
+up and down the adminstrative hierarchy, and general nastiness.
+It's a question of reporters such as Joe Abernathy of the Houston
+Chronicle; remember his articles about the "govenment-sponsored
+porno ring", otherwise known as alt.sex?  It's a question of the
+folks holding the moneybags asking probing questions about "why
+you have this stuff on your systems".  None of this requires legal
+action, and some of it never sees the light of day, but it happens.
+
+>Sounds like CMU could be sued if I give some underage freshman alcohol
+>and (s)he falls down and hits his/her head - being as I'm only 19 myself.
+
+This case would be different, because CMU didn't provide the alcohol.
+In our hypothetical case, however, they would have provided the
+item of contention (alt.sex, alt.drugs, whatever).
+
+>And if it's available from other sites, and those other sites can be
+>reached from your stations, then what would be the difference in the
+>situation you described?
+
+The difference is in the presentation of the material.  My shop would
+provide neither the material nor pointers to other sources.  If the
+student took it upon himself to find out how to get it, that's his
+problem, not mine.  If you use my car to drive down and buy some crack,
+do I get arrested?
+
+>c) Johnny gives Jimmy his password - legally.  Jimmy connects to an
+>outside news server (default for Johnny's account) and a) more or less
+>happens.
+
+That's the difference; we don't advertise an outside news server.
+We don't support an outside news server.  We don't point people to
+an outside news server.  If they discover it on their own, it's their
+problem.
+
+>Yes, of course you'll say that if giving out passwords is *always*
+>illegal, then the school may be protected just as well in b) and c) as
+>it is in a).  You would probably be right.  But just how far are you
+>willing to compromise the abilites of your users just to CYA in some
+>hypothetical situation that you heard happened to some school out there
+>somewhere (just a point - do you have facts about the supposed lawsuits
+>or is it a bit of UL?)?  "We don't have ftp, rn, or even email.  Hey,
+>man, that stuff's *dangerous*."
+
+I never said anything about lawsuits; please read what I post before
+accusing me of spouting ULs.
+
+Nor do I compromise the abilities of my users.  They have full access to
+telnet, ftp, and email.  If, through some combination of those, they find
+other services elsewhere, it really isn't my concern, since I'm not the
+provider of those services.  I just give them the keys to a car; where they
+drive it is their responsibility.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+

@@ -1,0 +1,178 @@
+# remove this line
+#!/usr/bin/perl
+# !/local/all/perl
+
+# History
+#  Nov 30, 1992 - initial development - Carl Kadie
+
+$| = 1;
+
+require "getopts.pl";
+
+&Getopts("n:hs");
+#print $opt_n;
+	if ($opt_h)
+	{
+		print "Usage: index2mbox [-nNNTPSERVER -h -s] < INDEXFILE > MBOXFILE\n";
+		print "-h	help\n";
+		print "-s	skip header\n";
+		exit(1);
+	}
+
+if ($opt_n) {
+	$nntpserver = $opt_n;
+	} else {
+	$nntpserver = $ENV{'NNTPSERVER'};
+	if (!$nntpserver) {$nntpserver = `hostname`; chop $nntpserver;}
+	}
+if ($opt_s) {
+	LOOP5: while (<ARGV>) {
+		#print STDERR "skipping $_";
+		last LOOP5 if /^$/;
+	}}
+
+#print $nntpserver;
+$nntpport = 119;
+
+&OPEN_CLIENT($nntpserver,$nntpport);
+$l = <S>;
+
+#print "past help\n";
+LOOP4: while (<ARGV>) {
+	#print;
+	($ignore,$group,$message_id) = /(([^: ]+):\s*){0,1}(<.*>)/;
+	next LOOP4 if (!$message_id);
+	next LOOP4 if &PRINT_ARTICLE($message_id);
+	$group =~ s/,.*//;
+	if ($group) {
+		&PRINT_BY_REFERENCE($group,$message_id);
+		} else {
+		print STDERR "Article $message_id not found.\n";
+		}
+	}
+close(S);
+
+sub PRINT_BY_REFERENCE {
+	local($group,$message_id) = @_;
+	local($l,$references,$message_id2);
+	
+	#print STDERR "looking for $group: $message_id\n";
+	#print STDERR "group $group\n";
+	print S "group $group\n";
+	$_ = <S>;
+	#print;
+	chop;chop;
+	local($num1,$num2,$start,$end,$group2) = split(" ");
+	$references = 0;
+        LOOP3: for ($num=$start;$num<=$end;$num++) {
+		print S "head $num\n";
+		#print "head $num\n";
+		$_=<S>;
+		#print;
+		next if ! /^221 /;
+		LOOP2: while (<S>) {
+			#print;
+			if (/^References: (.*).$/i) {$references = $1;}
+			if (/^Message-ID: (.*).$/i) {$message_id2= $1;}
+			last LOOP2 if /^\.$/;
+			#chop;chop;
+			}
+			if (index($references,$message_id) >= $[) #]
+				{ 
+				#print "$message_id $references\n";
+				&PRINT_ARTICLE($message_id2);
+				last LOOP3;
+				}
+		} # LOOP3
+	if ($num>$end) {
+		print STDERR "Neither $message_id (nor a reference to it) found\n";
+		}
+	}
+
+			
+sub PRINT_ARTICLE {
+	local($message_id) = @_;
+
+	#print "article $message_id\r\n\n";
+	print S "article $message_id\r\n\n";
+	$_=<S>;
+	#print;
+	if (/^220 /) {
+		$date = `date`;
+		print "From index2mbox $date";
+		LOOP2: while (<S>) {
+			last LOOP2 if /^\.$/;
+			chop;chop;
+			print "$_\n";
+			}
+		print "\n";
+		return 1;
+	} else {
+	return 0;
+	}
+}
+
+# Based on "client" on page 344 of _Programming Perl_ by Wall and Schwartz
+
+sub OPEN_CLIENT {
+local($them,$port) = @_;
+local($client);
+
+# If $maxlines is negative, then no limit.
+
+#open(OUT,$fileout);
+
+$port = 2345 unless $port;
+$them = 'localhost' unless $them;
+
+$AF_INET =2;
+$SOCK_STREAM = 1;
+
+$SIG{'INT'} = 'dokill';
+
+$sockaddr = 'S n a4 x8';
+
+chop($hostname = `hostname`);
+
+($name,$aliases,$proto) = getprotobyname('tcp');
+($name,$aliases,$port) = getservbyname($port,'tcp')
+     unless $port =~ /^\d+$/;;
+($name,$aliases,$type,$len,$thisaddr) = gethostbyname($hostname);
+($name,$aliases,$type,$len,$thataddr) = gethostbyname($them);
+
+$this = pack($sockaddr,$AF_INET, 0, $thisaddr);
+$that = pack($sockaddr,$AF_INET, $port, $thataddr);
+
+# Make the socket filehandle
+
+if (socket(S, $AF_INET, $SOCK_STREAM, $proto)) {
+	#print "socket ok\n";
+}
+else {
+    die $!;
+}
+
+# Give the socket an address.
+
+if (bind(S, $this)) {
+	#print "bind ok\n";
+}
+else {
+    die $!;
+}
+
+# Call up the server.
+
+if (connect(S,$that)) {
+	#print "connect ok\n";
+}
+else {
+    die "Cannot connect to $them $port\n$!";
+}
+
+# Set socket to be command buffered.
+
+$oldhandle = select(S); $| = 1; select ($oldhandle);
+#select(S); $| = 1; select (STDOUT);
+}
+

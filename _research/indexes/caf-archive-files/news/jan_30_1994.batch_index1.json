@@ -1,0 +1,493 @@
+[
+  {
+    "classification": {
+      "confidence": 0.9,
+      "date_or_period": "Jan 24, 1994",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The 'Fanny Hill' incident led to the formation or activity of CICA."
+      ],
+      "organizations": [
+        "Committee for Internet Academic Freedom (CICA)"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "This item is a repost of a discussion regarding the Committee for Internet Academic Freedom (CICA) and the aftermath of the 'Fanny Hill' controversy. It serves as a pointer to discussions occurring in newsgroups focused on electronic freedom and censorship.",
+      "title": "More on CICA (the fallout from Fanny Hill)",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "internet governance"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 24 Jan 1994 21:29:43 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "<CK5L1K.Mxr@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "More on CICA (the fallout from Fanny Hill)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 24, 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "CICA's README file explicitly prohibits software containing political, religious, or sexually explicit content.",
+        "The site moderator has discretion to deem files 'unsuitable' for the archive."
+      ],
+      "organizations": [
+        "CICA",
+        "Indiana University",
+        "Netcom"
+      ],
+      "people": [
+        "Jon Noring"
+      ],
+      "summary": "Jon Noring critiques the content policy of the CICA anonymous FTP site at Indiana University. He argues that the site's refusal to host software containing political, religious, or sexually explicit material constitutes censorship. The dispute was triggered by CICA's refusal to archive a Windows-only adaptation of the literary work 'Fanny Hill'.",
+      "title": "More on CICA (the fallout from Fanny Hill)",
+      "topics": [
+        "censorship",
+        "FTP archives",
+        "content policy",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 24 Jan 1994 04:59:02 GMT",
+      "from": "noring@netcom.com (Jon Noring)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<noringCK4B6E.Eqo@netcom.com>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "More on CICA (the fallout from Fanny Hill)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "24 Jan 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The archivist at macarchive.umich.edu claimed MacPGP was illegal and therefore instructions for its use were inappropriate to host."
+      ],
+      "organizations": [
+        "University of Michigan",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [],
+      "summary": "A user reports that the archivist at macarchive.umich.edu refused to host a guide on using MacPGP. The refusal was based on the claim that providing instructions for the program was inappropriate because the software was considered illegal.",
+      "title": "macarchive.umich.edu censors my guide!",
+      "topics": [
+        "censorship",
+        "encryption",
+        "PGP",
+        "academic archives"
+      ]
+    },
+    "identity": {
+      "date": "24 Jan 1994 21:50:30 -0500",
+      "from": "kadie@eff.org (Fwd:)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<2i21dm$ke3@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "macarchive.umich.edu censors my guide!",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 22, 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "macarchive.umich.edu refused to archive information/guides related to PGP."
+      ],
+      "organizations": [
+        "University of Michigan",
+        "UC Berkeley"
+      ],
+      "people": [],
+      "summary": "A user reports that macarchive.umich.edu refused to archive a guide on how to use PGP (Pretty Good Privacy) on Macintosh systems. The author expresses frustration over the censorship of information regarding encryption software and requests other sites to host the guide.",
+      "title": "macarchive.umich.edu censors my guide!",
+      "topics": [
+        "censorship",
+        "encryption",
+        "PGP",
+        "academic networks"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 22 Jan 1994 21:51:08 UTC",
+      "from": "an48138@anon.penet.fi (Xenon)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<9401222151.AA17997@anon.penet.fi>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "macarchive.umich.edu censors my guide!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 28, 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The administrator claimed that including MacPGP in the archive was illegal."
+      ],
+      "organizations": [
+        "University of Michigan",
+        "EFF"
+      ],
+      "people": [
+        "jonathan brecher",
+        "Xenon",
+        "Carl Kadie"
+      ],
+      "summary": "A University of Michigan archive administrator refuses to host a guide for MacPGP, claiming that distributing the software is illegal. A responding user criticizes this stance as lacking rebelliousness and humility. The exchange highlights the tension between institutional compliance and the push for cryptographic freedom during the 'Crypto Wars'.",
+      "title": "Re: \"Here's How to MacPGP!\" guide.",
+      "topics": [
+        "cryptography",
+        "PGP",
+        "export controls",
+        "institutional censorship"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "an65151@anon.penet.fi",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "Re:  \"Here's How to MacPGP!\" guide.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 29, 1994",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Faculty should be free of institutional censorship",
+        "Academic freedom does not require neutrality"
+      ],
+      "organizations": [],
+      "people": [],
+      "summary": "This item is a repost of a statement regarding academic freedom for faculty in Canada. The document asserts that faculty should be free from institutional censorship and clarifies that academic freedom does not necessitate neutrality.",
+      "title": "A Canadian statement on Academic Freedom",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "Canadian academia"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 29 Jan 1994 02:14:52 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<CKDCwt.60M@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "A Canadian statement on Academic Freedom",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "May 1977",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Academic freedom does not require neutrality on the part of the individual.",
+        "Academic members are entitled to freedom in research, publishing, teaching, and criticizing their own university."
+      ],
+      "organizations": [
+        "Canadian Association of University Teachers",
+        "Association Canadienne des Professeurs d'Universite'"
+      ],
+      "people": [
+        "Carl M Kadie"
+      ],
+      "summary": "Carl Kadie shared a policy statement from the Canadian Association of University Teachers (CAUT) regarding academic freedom. The document asserts that academic freedom is essential for teaching, scholarship, and research, protecting members from institutional censorship regardless of doctrine. It emphasizes that academic freedom allows for commitment rather than requiring neutrality.",
+      "title": "A Canadian statement on Academic Freedom",
+      "topics": [
+        "academic freedom",
+        "institutional censorship",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 27 Jan 1994 22:55:44 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M Kadie)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<CKB90x.uG@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "A Canadian statement on Academic Freedom",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 29, 1994",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Newsgroups at McGill U. were not going to be arbitrarily removed."
+      ],
+      "organizations": [
+        "McGill University"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "A forwarded message clarifies that newsgroups at McGill University were not going to be arbitrarily removed. This appears to be a response or correction to previous claims of censorship on the university's Usenet access.",
+      "title": "Decision made to arbitrarily censor Usenet at McGill",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 29 Jan 1994 02:16:55 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<CKDD07.66u@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "Re: Decision made to arbitrarily censor Usenet at McGill",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 28, 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The university was carrying 4,400 newsgroups and facing disk space shortages.",
+        "The decision to audit groups was initially perceived as a unilateral move by a single staffer without academic or librarian oversight.",
+        "The Senate Committee on Computing (SCC) is the formal body advising McGill on computing and networking matters."
+      ],
+      "organizations": [
+        "McGill University",
+        "Senate Committee on Computing"
+      ],
+      "people": [
+        "Alan Greenberg",
+        "David Jones"
+      ],
+      "summary": "A dispute arose at McGill University after a staff member announced an audit to delete Usenet newsgroups of 'questionable value' due to disk space constraints. David Jones characterized this as arbitrary censorship, while Director Alan Greenberg defended it as necessary resource management and promised the issue would be discussed by the Senate Committee on Computing (SCC).",
+      "title": "Decision made to arbitrarily censor Usenet at McGill",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "resource management",
+        "academic freedom",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 28 Jan 1994 04:20:24 GMT",
+      "from": "ALAN@VM1.McGill.CA (Alan Greenberg)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<16F4B1483FS85.ALAN@VM1.McGill.CA>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "Re: Decision made to arbitrarily censor Usenet at McGill",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "28 Jan 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The CICA archive selection policy allegedly incorporates viewpoint discrimination.",
+        "The policy falsely suggests that the University of Indiana and CICA do not archive religious material."
+      ],
+      "organizations": [
+        "University of Indiana",
+        "CICA",
+        "EFF"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "A repost discussing the archive selection policy of the CICA (Computer and Information Center Archive). The author argues that the policy falsely implies a refusal to archive religious material and introduces illegal viewpoint discrimination into its selection process.",
+      "title": "More on CICA (the fallout from Fanny Hill)",
+      "topics": [
+        "censorship",
+        "archiving policy",
+        "viewpoint discrimination",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "28 Jan 1994 21:26:32 -0500",
+      "from": "kadie@eff.org (Fwd:)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<2ichgo$4fs@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "Re: More on CICA (the fallout from Fanny Hill)",
+      "to_or_newsgroups": "alt.comp.acad-freedom.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 24, 1994",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Prohibiting 'prejudiced or discriminatory' messages in university archives may constitute illegal viewpoint-based discrimination.",
+        "University policies are sometimes used as facades to rationalize the personal doctrinal disapproval of archivists."
+      ],
+      "organizations": [
+        "CICA",
+        "Indiana University",
+        "EFF"
+      ],
+      "people": [
+        "Carl M Kadie"
+      ],
+      "summary": "Carl Kadie critiques the CICA archivist's policy of refusing software containing political, religious, or discriminatory messages. He argues that such restrictions constitute illegal viewpoint-based discrimination and suggests the archivist is misrepresenting university policy to justify personal disapproval. The post includes a curated list of legal precedents regarding public forums and free expression.",
+      "title": "Re: More on CICA (the fallout from Fanny Hill)",
+      "topics": [
+        "viewpoint discrimination",
+        "academic freedom",
+        "content moderation",
+        "public forum doctrine"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 24 Jan 1994 22:01:06 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M Kadie)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<CK5MHv.2GC@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "Re: More on CICA (the fallout from Fanny Hill)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 29, 1994",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Acadia University deleted all alt.sex groups from its active reading list as of 01/28/94."
+      ],
+      "organizations": [
+        "Acadia University"
+      ],
+      "people": [
+        "Carl"
+      ],
+      "summary": "A report indicates that Acadia University in Canada removed all 'alt.sex' newsgroups from its active reading list on January 28, 1994. This action represents an instance of institutional content filtering on campus networks during the early era of Usenet.",
+      "title": "Censoring of news groups",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "network administration",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 29 Jan 1994 03:48:49 GMT",
+      "from": "kadie@hal.cs.uiuc.edu (Fwd:)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<CKDH9E.BHv@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "Censoring of news groups",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 28, 1994",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Acadia University removed alt.sex groups from its active reading list as of January 28, 1994."
+      ],
+      "organizations": [
+        "Acadia University"
+      ],
+      "people": [
+        "Michelle Crocker"
+      ],
+      "summary": "Michelle Crocker, a student at Acadia University, reports that the university deleted all 'alt.sex' newsgroups from its active reading list. She seeks information on whether universities have the legal authority to remove specific newsgroups based on subject matter.",
+      "title": "Censoring of news groups",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 28 Jan 1994 13:59:10 GMT",
+      "from": "007196c@axe.acadiau.ca (MICHELLE CROCKER)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<007196c.36.2D491A2F@axe.acadiau.ca>",
+      "source_kind": "news",
+      "source_path": "news/jan_30_1994",
+      "subject": "Censoring of news groups",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

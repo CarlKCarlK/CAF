@@ -1,0 +1,460 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 8, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "OSU failed to provide Steven Brack with specific charges or findings of fact during his expulsion process.",
+        "System administrators are advised to refer sexual harassment complaints to supervisors rather than arbitrating them to avoid legal liability.",
+        "There is a conflict between the 'hostile environment' doctrine and free expression regarding what users display on their computer screens."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "Electronic Frontier Foundation",
+        "Rice University"
+      ],
+      "people": [
+        "Aaron Barnhart",
+        "Steven Brack",
+        "Carl Kadie",
+        "John Bridge"
+      ],
+      "summary": "This digest summarizes discussions regarding the expulsion of Steven Brack from Ohio State University due to his behavior on campus computer systems and a broader debate on sexual harassment policies in system administration. The item highlights concerns over lack of due process in university disciplinary actions and the tension between free speech (e.g., screen backgrounds) and hostile environment harassment claims.",
+      "title": "Abstract of CAF-News 02.55",
+      "topics": [
+        "due process",
+        "student expulsion",
+        "sexual harassment policy",
+        "system administration",
+        "free speech"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "barnhart@ddsw1.mcs.com (Aaron Barnhart)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 0 -- Abstract of CAF-News 02.55",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 2, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Steven Brack was allegedly expelled from OSU for posting the word 'fuck' to an open newsgroup.",
+        "The University of Illinois subcommittee on student conduct may have violated quorum requirements and witness questioning rights."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "University of Illinois at Urbana-Champaign",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Steven Brack",
+        "Bryan Savage",
+        "Nancy Desmond"
+      ],
+      "summary": "Carl Kadie discusses failures of due process in student disciplinary actions at Ohio State University and the University of Illinois. He highlights the case of Steven Brack, who was allegedly expelled from OSU for posting profanity to a newsgroup. The post argues that secret hearings prevent the identification of systemic procedural unfairness.",
+      "title": "Due process at state universities",
+      "topics": [
+        "due process",
+        "student discipline",
+        "academic freedom",
+        "online speech",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Nov 1992 17:05:12 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<Bx3M4p.51M@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 1--Due process at state universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 8, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The OSU disciplinary panel issued a finding of rule violation without providing a formal written decision or rationale.",
+        "The student was prohibited from calling witnesses, questioning witnesses directly, or introducing documentary evidence during the hearing.",
+        "The Office of Academic Affairs reportedly found no violations of academic policy, yet the disciplinary panel still found him in violation of university rules."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "Academic Computing Services"
+      ],
+      "people": [
+        "Steven S. Brack",
+        "Wiley Hodges",
+        "John Bridge"
+      ],
+      "summary": "Steven S. Brack describes his disciplinary experience at Ohio State University (OSU) following a complaint about posting profanity to a newsgroup. He alleges a lack of due process, claiming he was unable to call witnesses or introduce evidence that Academic Computing Services (ACS) had permitted his actions. The case highlights the tension between university computing policies and academic freedom/due process.",
+      "title": "Steven S. Brack case",
+      "topics": [
+        "academic freedom",
+        "due process",
+        "university policy",
+        "newsgroup conduct"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 8 Nov 1992 07:08:40 GMT",
+      "from": "sbrack@jupiter.cse.UTOLEDO.edu (Steven S. Brack)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<9211081708.AA22877@jupiter.cse.utoledo.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 2--(none)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 3, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Informal resolution of harassment claims can be more effective than immediate formal escalation.",
+        "System administrators risk overstepping by creating new restrictive rules (like banning personal email) to manage behavioral complaints."
+      ],
+      "organizations": [
+        "Columbia University",
+        "Rice University",
+        "University of Massachusetts Boston"
+      ],
+      "people": [
+        "Daniel Zabetakis",
+        "Joseph A. Watters",
+        "Elizabeth Schwartz"
+      ],
+      "summary": "A discussion regarding the role of system administrators in handling sexual harassment complaints on university networks. The author argues for the utility of informal resolutions over immediate escalation to formal authorities and warns against sysadmins creating arbitrary new rules (e.g., banning personal email) as a reaction to such issues.",
+      "title": "Article 3--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "system administration",
+        "university policy",
+        "network governance"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 3 Nov 1992 16:22:37 GMT",
+      "from": "dan@cubmol.bio.columbia.edu (Daniel Zabetakis)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<1992Nov3.162237.9767@news.columbia.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 3--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 2, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Companies can be held liable for sexual harassment regardless of whether the company knew the behavior was occurring.",
+        "Over-correcting to avoid all possible lawsuits leads to 'draconian, fascist policies' and ridiculous restrictions on users."
+      ],
+      "organizations": [
+        "Rice University",
+        "Owlnet"
+      ],
+      "people": [
+        "Joseph A. Watters",
+        "John Hascall"
+      ],
+      "summary": "Joseph A. Watters discusses the tension between implementing draconian system policies to avoid sexual harassment lawsuits and preserving user rights. He argues that system administrators should seek clear guidance from their institutions on risk tolerance rather than unilaterally imposing extreme restrictions. The post highlights the role of sysadmins in balancing legal compliance with academic and user freedoms.",
+      "title": "Article 4--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "system administration",
+        "institutional risk",
+        "user rights",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Nov 1992 19:57:05 GMT",
+      "from": "jaw@owlnet.rice.edu (Joseph A. Watters)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<Bx3u36.GCx@rice.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 4--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 2, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Standard dispute arbitration options can increase institutional risk in sexual harassment cases.",
+        "System administrators should refer sexual harassment complaints directly to supervisors or EEO officers rather than attempting informal mediation."
+      ],
+      "organizations": [
+        "Rice University",
+        "UMass Boston (umb.edu)",
+        "EEOC"
+      ],
+      "people": [
+        "Joseph A. Watters",
+        "Elizabeth Schwartz"
+      ],
+      "summary": "A discussion between a system administrator and another professional regarding the proper handling of sexual harassment complaints in university computing environments. Joseph Watters argues that standard dispute arbitration is insufficient for sexual harassment due to significant legal risks for both the individual and the institution.",
+      "title": "Article 5--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "system administration",
+        "university policy",
+        "legal liability"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Nov 1992 23:00:55 GMT",
+      "from": "jaw@owlnet.rice.edu (Joseph A. Watters)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<Bx42LK.J20@rice.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 5--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 3, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "US law treats sexual harassment as a form of illegal sex discrimination.",
+        "System administrators may face personal or institutional legal risk if they ignore complaints of unwelcome sexual behavior.",
+        "Hostile environment provisions mean that sexually oriented images in public labs can constitute harassment even if not aimed at a specific person."
+      ],
+      "organizations": [
+        "Rice University"
+      ],
+      "people": [
+        "Joseph A. Watters",
+        "Mark Evans"
+      ],
+      "summary": "Joseph A. Watters discusses the legal implications of sexual harassment policies for system administrators in academic environments. He provides the Rice University definition of sexual harassment and argues that US law treats it as a form of sex discrimination, creating specific liabilities for institutions. The exchange emphasizes the risk to university administration and staff if complaints are ignored or mishandled.",
+      "title": "Article 6--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "university policy",
+        "system administration",
+        "legal liability",
+        "academic environment"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 3 Nov 1992 17:54:25 GMT",
+      "from": "jaw@owlnet.rice.edu (Joseph A. Watters)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<Bx5J2q.9yI@rice.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 6--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 3, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The 'reasonable person' standard is typically applied during investigation rather than complaint initiation.",
+        "Legal precedent had shifted toward using gender-specific 'reasonable man' or 'reasonable woman' standards.",
+        "Hostile environment tests contain more ambiguity than quid pro quo tests."
+      ],
+      "organizations": [
+        "Rice University",
+        "University of Illinois",
+        "EEOC",
+        "EFF"
+      ],
+      "people": [
+        "Joseph A. Watters",
+        "Carl M. Kadie"
+      ],
+      "summary": "Joseph A. Watters discusses the legal application of the 'reasonable person' standard in sexual harassment complaints within academic and professional settings. He distinguishes between the initiation of a complaint and its subsequent investigation, noting the emergence of gender-specific standards. The post also differentiates between 'quid pro quo' and 'hostile environment' tests for determining harassment.",
+      "title": "Article 7--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "academic policy",
+        "legal standards",
+        "reasonable person standard"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 3 Nov 1992 23:53:24 GMT",
+      "from": "jaw@owlnet.rice.edu (Joseph A. Watters)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<Bx5zp1.Fvv@rice.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 7--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 4, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The 'reasonable person' standard is used during the investigation and resolution phase rather than at complaint initiation.",
+        "Some legal precedents shifted from a gender-neutral 'reasonable person' to gender-specific 'reasonable man' or 'reasonable woman' standards.",
+        "Vague definitions of 'hostile environment' may be susceptible to misuse."
+      ],
+      "organizations": [
+        "University of Illinois",
+        "EEOC",
+        "EFF"
+      ],
+      "people": [
+        "Mark Evans",
+        "Joseph A. Watters",
+        "Carl M. Kadie"
+      ],
+      "summary": "A discussion regarding the legal and institutional definitions of sexual harassment, specifically focusing on the 'reasonable person' standard. The participants debate whether gender-specific standards ('reasonable man' vs 'reasonable woman') introduce bias into the process. Mark Evans expresses concern that vague definitions of a 'hostile environment' could be weaponized or lead to systemic failure.",
+      "title": "Article 8--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "academic policy",
+        "legal standards",
+        "hostile environment"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 4 Nov 1992 08:08:56 GMT",
+      "from": "evansmp@uhura.aston.ac.uk (Mark Evans)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<1992Nov4.080856.24951@aston.ac.uk>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 8--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 5, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The display of certain images (e.g., GIFs) on a computer background can be viewed as a conflict between protected speech and workplace harassment."
+      ],
+      "organizations": [
+        "Cornell University"
+      ],
+      "people": [
+        "Eric Scheirer",
+        "Mark Evans"
+      ],
+      "summary": "Eric Scheirer responds to Mark Evans regarding the resolution of sexual harassment claims in academic or professional environments. Scheirer argues that while interpersonal negotiation is ideal, legal frameworks are necessary when parties disagree on whether certain digital content, such as 'racy GIFs,' constitutes protected speech or harassment.",
+      "title": "Article 9--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "protected speech",
+        "digital content",
+        "academic freedom",
+        "litigation"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 5 Nov 1992 11:35:25 GMT",
+      "from": "escheire@sunlab.cit.cornell.edu (Eric Scheirer)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<9211052135.AA09761@hibiscus.cit.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 9--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "6 Nov 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Labeling free-speech expressions on workstation backgrounds as 'sexual harassment' under the hostile environment doctrine enables broad censorship."
+      ],
+      "organizations": [],
+      "people": [
+        "Alex Martelli",
+        "Joseph A. Watters"
+      ],
+      "summary": "Alex Martelli argues against the application of 'hostile environment' sexual harassment doctrines to personal expressions in a workspace. He specifically contests whether windowed-screen backgrounds or clothing choices should be categorized as sexual harassment, suggesting such interpretations lead to censorship.",
+      "title": "Article 10--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "free speech",
+        "hostile environment doctrine",
+        "workplace censorship",
+        "computer workstations"
+      ]
+    },
+    "identity": {
+      "date": "6 Nov 92 07:38:39 GMT",
+      "from": "martelli@cadlab.sublink.org (Alex Martelli)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<1992Nov06.073839.10961@cadlab.sublink.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n55",
+      "subject": "Article 10--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,comp.admin.policy",
+      "truncated_for_model": false
+    }
+  }
+]

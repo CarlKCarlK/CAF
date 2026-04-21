@@ -1,0 +1,845 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.20 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 20
+
+
+----------------------------------------------------------------------
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 0 -- Abstract of CAF-News 02.20
+
+[Week ending May 3, 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+Notes 1-2 are about the University of Nebraska at Lincoln's decision
+to remove the alt.* newsgroups.
+
+1. [_The Daily Nebraskan_] "Pornography was a factor in the UNL
+Computing Resource Center's decision to stop supplying and entire
+hierarchy of USENET news groups to UNL computers, the CRC director
+said Thursday."
+    <9205040334.AA04565@cse.unl.edu>
+
+2. [Student at UNL] "[T]he real reason that the alts were removed was
+not due to resources. Rather, that issue has served as a justification
+for the decision. ... [T]he computer responsible for taking care of
+news has been running at well under capacity (41% when we checked)."
+    <9204281832.AA00992@jwendnelnc.cr.usgs.GOV>
+
+Note 3 is about fighting words, the "right" not to listen, and the
+"right" not to be offended.
+
+3. The Supreme Court says that there is no right not to be offended
+except when privacy is 'invaded in an essentially intolerable manner.
+Any broader view ... would effectively empower a majority to silence
+dissidents simply as a matter of personal predilections.'
+    <1992Apr27.143505.9602@m.cs.uiuc.edu>
+
+Notes 4-6 are critiques of computer policies at Virginia Tech and
+Princeton.
+
+4. "The [Virginia Tech] policy shows good user participation and due
+process. Privacy could be improved by detailing the procedure by which
+searches are authorized. Freedom of expression could be improved by
+removing vague speech restrictions."
+    <1992Apr27.214917.13402@eff.org>
+
+5. Enclosed are excerpts from Princeton's "Guidelines for the use of
+Campus and Network Computing Resources".
+    <199204292110.AA23705@eff.org>
+
+6. Princeton bans computer speech that would be protected by the
+Constitution if it were a public university. The good news, from my
+point of view, is that it explicitly treats computer speech like
+traditional speech.
+    <1992Apr29.213206.24214@eff.org>
+
+Notes 7-8 are about freedom of expression in traditional media. Such
+cases create formal and informal precedents that might be applied to
+computer media cases.
+
+7. The yearbook for the University of Southwestern Louisiana includes
+a photo of a bare-breasted woman. University administrators say that
+although they don't like the photo, they lack authority to censor it.
+    <1992Apr27.164301.27154@m.cs.uiuc.edu>
+
+8. The Harvard Law Review parody violated "[o]ne of the exigencies of
+decency and civility [:] _de mortuis nil nisi bonum_, '[Speak] nothing
+but good about the dead.' "Still, un-Ivy behavior is normally not
+grounds for all Hell breaking loose and the roof falling in on one,
+even at Harvard."
+    <18573@smoke.brl.mil>
+
+Notes 9-10 are about computer administration.
+
+9. In reply to an article that said that it's OK to log the
+destination of telnets and email just as it's OK for the phone company
+to keep a record of calls: In some places, it is considered a
+violation of privacy for the phone company to release phone records
+even to the police.
+    <1992Apr28.112552.23369@nntp.hut.fi>
+
+10. "I have a problem with outlawing cracking programs: ...  Would it
+be illegal to possess a paper on access security that contained the
+source code for a cracking program?  Where do they draw the line
+between intellectual discourse and intent to break into someones
+account?"
+    <1992Apr30.164835.1816@opac.osl.or.gov>
+
+- Carl & Adam]
+
+
+In this issue:
+
+David Burchell   54  DN article
+David Burchell   53  Alternate ways of managing resources at UNL
+Carl M. Kadie    70  >"Hate Speech" distinguished from "Panic-Inducing Speech"
+Carl M. Kadie   201  >Sacrificial Lamb: An Acce<>age Statement for your review
+Carl M. Kadie    34  Excerpts from Princeton's<>lines ... Computing Resources"
+Carl M. Kadie    13  >
+Carl M. Kadie    28  "Nude photo in yearbook stirs campus debate"
+M Rosenblatt     69  >UPI story: Parody splits Harvard Law faculty
+Jyrki Kuoppala   47  Surveillance of phone calling records
+brian@opac.osl   32  ><None>
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Apr 27 00:00:00 1992
+From: burchell@cse.unl.edu (David Burchell)
+Message-Id: <9205040334.AA04565@cse.unl.edu>
+Subject: Article 1--DN article
+To: djburche@jwendnelnc
+Date: Sun, 3 May 92 22:34:49 CDT
+X-Mailer: ELM [version 2.3 PL11]
+Status: RO
+
+
+
+The following article appeared on page six of _The Daily Nebraskan_,
+the student newspaper of the University of Nebraska - Lincoln, on
+Friday, May 1, 1992.
+
+Official says messages contained pornography
+
+by Mike Lewis
+Staff Reporter
+
+	Pornography was a factor in the UNL Computing Resource Center's
+decision to stop supplying and entire hierarchy of USENET news groups
+to UNL computers, the CRC director said Thursday.
+	Doug Gale said during an Academic Senate Computational
+Services and Facilities Committee meeting that the material in some
+of the alternative, or alt, groups was so bad, not even the adult 
+bookstores would carry it.
+	Some of the groups contained detailed information on how to
+torture and mutilate people, Gale said, and neither CRC nor the
+computational committee wanted to supply that information.
+	The University of Nebraska-Lincoln gets the USENET news
+service through Internet, a worldwide computer network.  If UNL had
+continued to supply the alt groups, Gale said, it would have risked
+losing access to Internet.
+	UNL is one of 13 universities that have access to NSFNET, a
+computer service provided by the National Science Foundation, Gale said.
+The NSFNET backbone service, which connects to Internet, is funded by
+the federal government.  If UNL had continued to supply the alt groups,
+and someone had complained to the federal government, UNL would have
+been required to prove that the groups met the criteria of the NSFNET
+backbone service's acceptable use policy, Gale said.  UNL must have
+then provided proof immediately, or the Internet service would have
+been turned off, he said.
+	By removing the alt groups now, Gale said, UNL forestalled such
+a confrontation with the federal government.
+	Other universities that have had such confrontations "have
+decided supporting pornography is not worth losing their Internet access,"
+Gale said.
+	Dave Burchell, a junior computer science major and the newly
+appointed student representative to the computational committee, said
+UNL was obligated as a public institution to promote freedom of expression
+and to refrain from censoring ideas.
+	"Gale has produced no evidence that the alt group removal was
+forced upon UNL," said Burchell, a member of the Nebraska University
+Students for Electronic Freedom.
+	Paul Kenyon, a graduate student in computer science and NUSEF
+member, said neither the National Science Foundation nor the federal
+government had contacted UNL about the alt groups.
+-- 
+burchell@cse.unl.edu            |           Dave Burchell
+ianr056@unlvm.bitnet            |        Review your options.
+djburche@jwendnelnc.cr.usgs.GOV |              Amiga. 
+
+
+------------------------------
+
+From caf-talk Caf Apr 27 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: djburche@jwendnelnc.cr.usgs.GOV (David J. Burchell)
+Subject: Article 2--Alternate ways of managing resources at UNL
+Message-ID: <9204281832.AA00992@jwendnelnc.cr.usgs.GOV>
+Date: Tue, 28 Apr 1992 18:32:00 GMT
+
+Raul Deluth Miller-Rockwell mentioned better management of
+resources at UNL as a solution to the alt group problem.
+
+Raul, that is a great idea!  I wish you were at UNL computer
+administrator.
+
+But the real reason that the alts were removed was not due to
+resources.  Rather, that issue has served as a justification 
+for the decision.
+
+First, the computer responsible for taking care of news has 
+been running at well under capacity (41% when we checked).
+
+Second, the alt.* groups as well as everything else on news
+is still being fed to UNL's computers.  It is stored breifly
+in a temp directory and then "dies" without having the alt.*s
+spooled.
+
+Third, CRC (our Computing Resouce Center) sees _this_ resource 
+issue:  They don't have the manpower to monitor all the alt.
+groups.
+
+Let that sink in a sec.
+
+Dave Spanel said on April 16 that the alts were unmoderated and
+unregulated, and that CRC did not have time to approve of 
+the material, specificly the new groups, that the alts 
+are always generating.  I asked him why not just let the alts
+alone, would that not solve the resource problem?  I asked him
+why CRC was _interested_ in reviewing the alt material.
+
+If I remember right, at that point Dave said he was not in a
+position to continue and we had better hear from his boss,
+Doug Gale, for CRC's offical position.
+
+You see, it seems CRC realizes they cannot censor all of the
+alts, they don't have the manpower (resources) to excise the
+undesireable parts.  So they nixed the whole thing.
+
+But in answer to Raul's question; we ARE suggesting, of course,
+that alts be carried and everything be expired sooner.
+
+One more point: The CRC has maintained that nothing has been
+censored; the material is still available via anonymous ftp.
+
+-- 
+Dave Burchell                 |  Do who you like.
+burchell@cse.unl.edu          |  If you don't do who you like,
+ianr056@unlvm.bitnet          |  you won't like who you do.
+djburche@dnelnc.cr.usgs.gov   |          - Rex A. Turnbull
+
+
+------------------------------
+
+From caf-talk Caf Apr 27 00:00:00 1992
+Newsgroups: soc.culture.jewish,soc.rights.human,alt.activism.d,alt.censorship,alt.discrimination,alt.society.civil-liberties,alt.comp.acad-freedom.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 3--Re: "Hate Speech" distinguished from "Panic-Inducing Speech"
+Message-ID: <1992Apr27.143505.9602@m.cs.uiuc.edu>
+Date: Mon, 27 Apr 1992 14:35:05 GMT
+
+greeny@top.cis.syr.edu (J. S. Greenfield) writes:
+
+[...]
+>I believe that this description of "fighting words" is not quite accurate.
+>In Chaplinsky v. New Hampshire (1942), Justice Murphy wrote for the SC:
+>
+>"...insulting or 'fighting' words--those which their very utterance inflict 
+>injury or tend to incite an immediate breach of the peace."
+[...]
+
+I believe the current definition is 1) the language must be delivered
+one-to-one, and 2) must be such as to evoke an immediate breach of
+peace (as opposed to simply offending the listener). _Chaplinsky vs.
+New Hampshire_ is (thankfully) out of date.
+
+According to _The First Amendment Book_ by Robert J. Wagman, 1991, p.
+106: "In 1940 Walter Chaplinsky, a Jehovah's Witness, was distributing
+literature on the streets of Rochester, New Hampshire, when he created
+quite a stir by loudly telling everyone he encountered that organized
+religions are 'a racket' and by specifically condemning several major
+ones by name in great detail. He was arrested an eventually convicted
+under a state law that made it an offense to speak 'any offensive,
+derisive or annoying word to any person who is lawfully in any street
+or other public place'. When the case reached the Supreme Court in
+1942 (_Chaplinsky v. New Hampshire_), the justices unanimously upheld
+the conviction and rejected Chaplinsky's claim that his words and
+actions were protected by the First Amendment...."
+
+According to _American Constitutional Law_ by Ralph A. Rossum
+and G. Alan Tarr, 1983, p. 379:
+
+"The Court has since [_Chaplinsky v. New Hampshire_] defined 'fighting
+words' narrowly. It is not enough that speech be offensive, or
+invite dispute, or provoke hostility among listeners: only
+fact-to-face person insults raise no First Amendment issues. Yet the
+difficulty of designing a statute confined to such insults has lead
+the Court to overturn convicts on overbreadth or vagueness grounds even
+when the speech at issue clearly constituted 'fighting words'"
+
+In _Cohn v. California_, 1971 the Supreme Court restated the
+description of fighting words as "those personally abusive epithets
+which, when addressed to the ordinary citizen, are, as a matter of
+common knowledge, inherently likely to provoke violent action.
+[...]
+Finally, in arguments before this Court much has been made of the
+claim that Cohen's distasteful mode of expression was thrust upon
+unwilling or unsuspecting viewer, and that the State might therefore
+legitimately act as it did in order to protect the sensitive from
+otherwise unavoidable exposure to appellant's crude form of protest
+... While this Court has recognized that government may properly act
+in many situations to prohibit intrusion into the privacy of the home
+of unwelcome views and ideas which cannot be totally banned from the
+public dialog ... we have at the same time consistently stressed that
+'we are often "captives" outside the sanctuary of the home and subject
+to objectionable speech.' ... The ability of government, consistent
+with the Constitution, to shut off discourse solely to protect others
+from hearing it is, in other words, dependent upon the showing that
+substantial privacy interest are being invaded in an essentially
+intolerable manner. Any broader view of this authority would
+effectively empower a majority to silence dissidents simply as a
+matter of personal predilections." ...
+
+- Carl
+
+
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Apr 28 00:00:00 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 4--Re: Sacrificial Lamb: An Acceptable Usage Statement for your review
+Message-ID: <1992Apr27.214917.13402@eff.org>
+Date: Mon, 27 Apr 1992 21:49:17 GMT
+
+Summary: The policy shows good user participation and due process.
+Privacy could be improved by detailing the procedure by which searches
+are authorized. Freedom of expression could be improved by removing
+vague speech restrictions.
+
+marchany@vtserf.cc.vt.edu (Randy Marchany) writes:
+
+>Well, it seems that that's publishing acceptable use policies is in
+>vogue these days, so I offer the following statement that signed by
+>account holders on our systems here at VA Tech.
+
+I think this is a great trend. It is very much in keeping with the
+spirit of a university and it seems to result in better policies.
+
+[...]
+>                 Appropriate Use of Information Systems
+>                            at Virginia Tech
+
+[...]
+>It demonstrates  re-
+>spect  for  intellectual  property,  ownership  of data, system security
+>mechanisms, and individuals' rights to privacy and to freedom  from  in-
+>timidation, harassment, and unwarranted annoyance.
+
+The phrase "intimidation, harassment, and unwarranted annoyance" is
+vague (perhaps unconstitutionally so) and redundant, unless you are
+quoting from a general Tech policy, I suggest the simpler and more
+precise "harassment".
+
+>In making appropriate use of resources you must:
+
+>o   use  only  legal versions of copyrighted software in compliance with
+>    vendor license requirements.
+
+As someone else has pointed out, copyright and licences are two
+different things.
+
+>In making appropriate use of resources you must NOT:
+> 
+>o   use  another  person's userid, password, files, system or data 
+>    without permission.
+
+So it is OK to use another person's userid and password with that person's
+permission? I don't think that is what you mean to say.
+
+>o   engage in any activity that might be harmful to systems  or  to  any
+>    information stored thereon, such as creating or propagating viruses,
+>    disrupting services, or damaging files.
+
+I think the phrase "might be harmful" is too weak. How about "causes
+harm, is intended to be harmful, or is likely to be harmful ..."
+
+>o   use  University systems for partisan political purposes, such as us-
+>    ing electronic mail to circulate advertising  for  political  candi-
+>    dates.
+
+Speech should only be restricted if so required by University
+regulation (or law). If this restriction is based on a University
+regulation or law, you should reference the regulation.
+
+[...]
+>o   use  mail  or messaging services to harass, intimidate, or otherwise
+>    annoy another person, for example, by broadcasting unsolicited  mes-
+>    sages or sending unwanted mail.
+
+Based on court cases like _UWM Post v. U. of Wisconsin_ (which
+mentioned email), I believe this speech restriction is illegal because
+it is too vague and because it illegally restricts First Amendment
+rights.
+
+I suggest:
+
+o    use mail or messaging services to harass, for example, by,
+     sending mail after being told that it is unwanted."
+
+>o   use  the  University's  systems  for  personal gain, for example, by
+>    selling access to your userid or by performing work for profit in  a
+>    manner not authorized by the University.
+
+The phrase "personal gain" is vague. It could be a prohibition against
+learning. Tech's general policies probably already have a rule about
+commercial use of Tech property. I suggest finding that policy and
+then just copying it.
+
+>ENFORCEMENT
+
+>The University considers any violation of appropriate use principles  or
+>guidelines  to  be  a serious offense and reserves the right to copy and
+>examine  any  files  or  information  resident  on  University   systems
+>allegedly related to inappropriate use.
+
+But what are the procedures for authorizing such a violation of user
+privacy? What is Tech's general privacy policy? Most state schools
+will not search assigned office space or dorm space without some
+higher-level authorization (with exceptions for emergencies,
+maintenance, etc). Remember, you are constrained by the Constitution
+from making "unreasonable searches and seizures".  Although, no
+lawsuit has (as far as I know) yet established exactly what this means
+in the context of academic computer systems at state schools, it is
+unlikely to mean any sys op can authorize a search at any time.
+
+
+>  Violators are subject to disci-
+>plinary  action as prescribed in the honor codes and the student and em-
+>ployee handbooks.
+
+This is good. You have found a very simple way to respect the due
+process rights of your users. This is much better than policies (e.g.
+ACS at Ohio State University) that authorizes the computer center to
+suspend students from the computer without any hearing, appeal, etc..
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+
+=================
+law/gates-v-brewer
+=================
+An excerpt from a newspaper article about email harassment. A judge
+agreed that Bill Gates of Mircosoft had been the victim of harassment.
+
+=================
+law/constitution.us
+=================
+The Constitution of the United States
+
+=================
+policies/acs.ohio-state.edu
+=================
+Policy on Abuse of Computers and Networks for The Office of Academic
+Computing at The Ohio State University (Critiqued)
+
+=================
+faq/policy
+=================
+q: What guidance is there for creating or evaluating a computer policy?
+
+=================
+caf
+=================
+A description to the comp-academic-freedom-talk mailing list. It is a
+free-forum for the discussion of questions such as: How should general
+principles of academic freedom (such as freedom of expression, freedom
+to read, due process, and privacy) be applied to university computers
+and networks? How are these principles actually being applied? How can
+the principles of academic freedom as applied to computers and
+networks be defended?
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/law uwm-post-v-u-of-wisconsin
+send acad-freedom/law gates-v-brewer
+send acad-freedom/law constitution.us
+send acad-freedom/policies acs.ohio-state.edu
+send acad-freedom/faq policy
+send acad-freedom caf
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.88.144.4) as file(s):
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/gates-v-brewer
+  pub/academic/law/constitution.us
+  pub/academic/policies/acs.ohio-state.edu
+  pub/academic/faq/policy
+  pub/academic/caf
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr 27 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 5--Excerpts from Princeton's "Guidelines ... Computing Resources"
+Message-ID: <199204292110.AA23705@eff.org>
+Date: Wed, 29 Apr 1992 13:10:30 GMT
+
+[Excerpts from "Guidelines for the use of Campus and Network Computing
+Resources]
+
+Those who avail themselves of the campus and network computing                 
+resources are required to behave in their use of the technology                
+in a manner consistent with the University's code of conduct.  As              
+stated in Princeton University Rights, Rules, Responsibilities:                
+                                                                               
+"Respect for the rights, privileges, and sensibilities of each                 
+other is essential in preserving the spirit of community at                    
+Princeton.  Actions which make the atmosphere intimidating,                    
+threatening, or hostile to individuals are therefore regarded as               
+serious offenses.  Abusive or harassing behavior, verbal or                    
+physical, which demeans, intimidates, threatens, or injures                    
+another because of his or her personal characteristics or beliefs              
+is subject to University disciplinary sanctions...."                           
+==========================
+9. Messages, sentiments, and declarations sent as electronic mail              
+or sent as electronic postings must meet the same standards for                
+distribution or display as if they were tangible documents or                  
+instruments.  You are free to publish your opinions, but they                  
+must be clearly and accurately identified as coming from you, or,              
+if you are acting as the authorized agent of a group recognized                
+by the University, as coming from the group you are authorized to              
+represent.  Attempts to alter the "From" line or other                         
+attribution of origin in electronic mail, messages, or postings,               
+will be considered transgressions of University rules.                         
+[...]
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr 29 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 6--Re: Excerpts from Princeton's "Guidelines ... Computing Resources"
+Message-ID: <1992Apr29.213206.24214@eff.org>
+Date: Wed, 29 Apr 1992 21:32:06 GMT
+
+So the bad news (from my point of view) is that Princeton bans speech
+that is protected by the Constitution at state universities.
+
+The good news is that they explicitly treat computer speech like
+traditional speech.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Apr 29 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 7--"Nude photo in yearbook stirs campus debate"
+Message-ID: <1992Apr27.164301.27154@m.cs.uiuc.edu>
+Date: Mon, 27 Apr 1992 16:43:01 GMT
+
+According to an article in clari.news.sex:
+
+>	LAFAYETTE, La. (UPI) -- The University of Southwestern Louisiana's
+>just-out yearbook featuring a photograph of a bare-breasted woman in bed
+>with a man has drawn attention as well as criticism of the annual's 
+>``Love, Sex and Dating'' section.
+
+It was an original photo, so no copyright problems.
+
+Against Publication:
+  The year book business manager. He thinks some student may ask for refunds.
+  The Vice President of Student Affairs. He thinks it could hurt freedom
+         of the press on the campus. But he says that he is not the campus
+         censor: ``The only way I could have stopped it would have
+         been to go to court. And I don't think any court would have stopped
+         it.''
+
+Not Obscene:
+  The university's Communications Committeee chairman
+  Local newspaper editor
+  Student Press Law Center in Washington D.C.
+
+- Carl
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Apr 27 00:00:00 1992
+From: matt@smoke.brl.mil (Matthew Rosenblatt)
+Newsgroups: misc.legal
+Subject: Article 8--Re: UPI story: Parody splits Harvard Law faculty
+Message-ID: <18573@smoke.brl.mil>
+Date: 28 Apr 92 15:39:18 GMT
+
+In article <1992Apr26.012819.4201@newstand.syr.edu> greeny@top.cis.syr.edu 
+(J. S. Greenfield) writes:
+
+>Could somebody please post a brief summary of the parody, itself, and any
+>additional information that would be pertinent to recognizing how it was so 
+>awful?  [J. S. Greenfield]
+
+I second that.  I'd like to see what the fuss is all about.
+
+>So far, all I know is that the parody involved a column written by a
+>woman who had been slain.  But I have no idea what makes this so awful.
+>(That is, writing a parody of something written by a slain individual
+>does not strike me as obviously awful, in and of itself.  There must be
+>something more to the specifics of this matter.)  [J. S. Greenfield]
+
+There is.  Mary Joe Frug, the New England law school professor who was
+slain last year, was a feminist.  The article she had published in
+the Harvard Law Review was a feminist article.  
+
+According the the AP story that I read, the title of the parody made fun
+of feminism, so it is reasonable to assume that the parody itself did
+likewise.  A girl student was quoted as not being surprised that such
+a parody was published, given the "sexism" in the atmosphere at Harvard
+Law School.  And as if parodying feminism were not awful enough, the 
+parody insinuated (with a footnote: "What's a girl got to do to get 
+published in the Harvard Law Review?") that the only reason the 
+Harvard Law Review published Prof. Frug's original article was 
+that she was married to a Harvard Law professor.
+
+One of the exigencies of decency and civility is, _de mortuis nil
+nisi bonum_, "[Speak] nothing but good about the dead."  The students
+involved disregarded this injunction.  Decency and civility are at
+the heart of what my .sig calls, "IVY."  That means that this parody
+was un-Ivy: unworthy of students *anywhere* in the Ivy League, let alone
+Harvard University, the Iviest of the Ivy, founded a bare sixteen years
+after the Pilgrims landed on Plymouth Rock:
+
+             "Thy shades are more soothing, thy sunlight more dear,
+              Than descend on less privileged earth.
+              For the good and the great, . . ."
+
+Four out of the nine Justices on today's Supreme Court?
+
+             ". . . in their beautiful prime,
+              Through thy precincts have musingly trod,
+              As they girded their spirits and deepened the streams
+              That make glad the fair City of G-d."
+ 
+Still, un-Ivy behavior is normally not grounds for all Hell breaking loose
+and the roof falling in on one, even at Harvard.  When Adolfo Calero
+tried to speak there a few years ago, a student named Josh charged the
+rostrum, jumped over the speaker's table, and assaulted Mr. Calero,
+after which University officials hustled Mr. Calero out of the room
+and would not allow him to continue his speech.  That's pretty un-Ivy,
+and violent to boot, but it didn't upset the faculty as much as this
+parody has.
+
+This un-Ivy behavior was different.  Just like Wayne Dick's "Bestiality
+Awareness Day" posters at "the other place" a few years ago, this parody
+attacked a sacred cow.
+
+					-- Matt Rosenblatt
+                                        (matt@amsaa.brl.mil)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ TRUTH     JUSTICE     FREEDOM     YIDDISHKEIT     IVY     THE AMERICAN WAY
+
+
+------------------------------
+
+From caf-talk Caf Apr 28 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,alt.privacy
+From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Subject: Article 9--Surveillance of phone calling records
+Message-ID: <1992Apr28.112552.23369@nntp.hut.fi>
+Date: Tue, 28 Apr 1992 11:25:52 GMT
+
+A repost from alt.comp.acad-freedom.talk, plus a not of my own
+attached at the end:
+
+>From: kadie@cs.uiuc.edu (Carl M. Kadie)
+>Subject: [comp.admin.policy]  Re: Logging outgoing telnet sessions
+
+>Date: Wednesday, 15 Apr 1992 11:03:43 IST
+>From: Hank Nussbacher <HANK@BARILVM.BITNET>
+>Message-ID: <92106.110343HANK@BARILVM.BITNET>
+>Newsgroups: comp.admin.policy
+>Subject:  Re: Logging outgoing telnet sessions
+
+>I don't believe that is any of your business. Where someone telnets to,
+>who they send mail to, etc., should not be logged. Your plan sounds
+>an awful lot like "Big Brother" to me.
+
+The phone company records every phone call you make.  No one looks
+at it until either you feel the bill is wrong and request a detailed
+bill or the police feel there is a need to look at who you have been
+calling (assuming you are a drug dealer or blackmailer).  You may feel
+that the phone company is invading your privacy, but fortunately the
+justice system as well as society does not.
+
+The same is true with recording outgoing Telnet sessions.  No one could
+care less where you are telneting to, and the logs are usally so large
+that *no* sysadmin reads them.  They are there for cases of hacking.
+
+Hank Nussbacher
+Bar-Ilan University
+Israel
+
+---
+
+In Finland it's not legal for the police to get access to the phone
+company records, though it's being suggested to be made a power grant
+to the police right now.  The police _have_ been getting records from
+bank cash dispensers, for suspected crimes unconnected with bank
+crimes - my opinion from this is that it's a violation of privacy and
+there probably is a law against it in Finland (haven't done closer
+research).  In USA, there's been at least one case publizized with
+something like a whole town's phone records searched for one suspected
+crime.
+
+//Jyrki
+
+
+------------------------------
+
+From caf-talk Caf Apr 28 00:00:00 1992
+Path: opac.osl.or.gov!brian
+From: brian@opac.osl.or.gov
+Newsgroups: academic.freedom.talk
+Subject: Article 10--Re: <None>
+Message-ID: <1992Apr30.164835.1816@opac.osl.or.gov>
+Date: 30 Apr 92 16:48:35 PST
+References: <9204301320.AA01916@herodotus.cs.uiuc.edu>,<tp0t0INN6ur@agate.berkeley.edu> <1992Apr30.105440.1@acad3.alaska.edu>
+Organization: Oregon State Library, Salem OR
+News-Moderator: Approval required for posting to academic.freedom.talk
+Lines: 29
+
+In article <1992Apr30.105440.1@acad3.alaska.edu>, <fxjwk@acad3.alaska.edu> writes:
+> It's not exactly encouraged, but there are few states where carrying picks
+> is illegal....  As with cracker programs, those found in possession are
+> likely to receive very close scrutiny, possibly for quite some time, but
+> there should be nothing wrong with owning or carrying the tools per se.
+> It could even be argued that using the tools under certain circumstances
+> is quite legal; just for your own education, trying to pick the lock on
+> your front door (or running crack against your own account's password).
+> An even finer line, which I have heard argued: user claims they were running
+> a cracker program on the password file just to collect those accounts with
+> poorly chosen passwords, so he could let the administrators know there was
+> a big problem....
+> Where the issue becomes very black and white is once someone signs onto an
+> account they've cracked---those you can discipline/abuse/expel/arrest
+> (your preference).
+> jo
+
+I have a problem with outlawing cracking programs:
+Would they make it illegal to discuss methods of cracking?
+Would it be illegal to possess a paper on access security that contained the 
+source code for a cracking program?
+Where do they draw the line between intellectual discourse and intent to break 
+into someones account?
+
+-- 
+
+----- Brian McBee ----- (503)378-4276 ----- brian@opac.osl.or.gov -----
+----- Oregon State Library, State Library Building, Salem, OR 97310 -----
+Above opinions are mine only.  You can have them if you like.
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

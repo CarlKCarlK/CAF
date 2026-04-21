@@ -1,0 +1,893 @@
+Computers and Academic Freedom (news version)
+September 15, 1991
+Vol. 1, No. 27
+
+[Week of September 9, 1991 to September 15, 1991
+
+The first eight notes deal with applying library policy to a Netnews
+facility. The first note argues that while academic libraries can
+concentrate on educational material, they should interpret the word
+"educational" very broadly.  The next note reports that Usenet/Netnews
+is historically educational . The third note defines and distinguish
+"censorship" and "selection". The fourth, responding to a note in
+CAF-News 1.26, asserts that librarians who keep Playboy under lock and
+key really are doing it protect the magazine, not to avoid
+controversy.. The fifth note suggests that computer sites that try to
+ban "offensive" newsgroups, may be held responsible when someone is
+offended by a note that gets through in an "inoffensive" newsgroup.
+
+A while back I posted a note to a library-related mailing list. The
+note described Netnews and gave examples of (what I consider)
+censorship. The examples included Stanford's removal of
+rec.humor.funny (it was later returned) and Wes Morgan's statement
+that his site might not subscribe alt.sex to avoid controversy. In the
+sixth note, Wes Morgan objects to the idea that avoiding material to
+avoid controversy is censorship. The seventh note is a reposting of my
+invitation to librarians.
+
+The eighth note tries to define "library" to see how well term can
+cover a Netnews service. The note lists the legal definition of
+"library" for the few states that have such a definition. Indiana's
+definition seems the best.
+
+The next to notes are about the CAF archive and CAF-News. The first
+note announces a reorganized archive of academic computer policies.
+The second note explains the editorial policy of CAF-News.
+
+The last two notes are about email privacy. The first note explains
+the the law's ambiguous protection. The second, opins on the limited
+circumstances in which a sys admin could legally and ethically look at
+a user's email.
+
+- Carl]
+
+In this issue:
+
+1k1mgm@kuhub.cc  45  Academic Privacy Question
+Robert F Solon   12  History of Usenet and Implications for Academic Freedom
+Dan Lester       59  Academic Privacy Question
+Jamie Saker      63  -
+Dan Lester       55  Restricting access to new<>ups (was: Re: Academic Privacy
+Wes Morgan       50  Selection Policy for Computer Conferences?
+Carl M. Kadie   117  -
+Carl M. Kadie    75  What is a library?
+Carl M. Kadie    75  Computer policies collections
+Carl M. Kadie   103  CAF-News Editorial Policy
+Sanjay Kapur     37  censorship
+SKAPUR@ccmail    44  >
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+lines "help" and "index".
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+From: 1k1mgm@kuhub.cc.ukans.edu
+Date: 9 Sep 91 08:50:26 CDT
+Message-ID: <1991Sep9.085026.33361@kuhub.cc.ukans.edu>
+References: <1991Sep7.092741.33334@kuhub.cc.ukans.edu> <9109091217.AA10627@dsacg2.dsac.dla.mil>
+Subject: Academic Privacy Question
+
+In article <9109091217.AA10627@dsacg2.dsac.dla.mil>, nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+> I'm sorry, but you'll have to be more specific.  What exactly is a
+> "Borkism"?  Why would such a policy lead to censorship per se?
+> Where did I advocate censorship in the common sense, which is review
+> of material for the purposes of determining some level of
+> correctness?  I'm simply saying that sysadins have a right to
+> determine on a prior basis (not not review of material after it has
+> been produced) what newsgroups will be carried at their sites.  This
+> is not censorship.  This is economic/technical/whatever necessity.
+> Simply attempting to reduce an argument to a misnomer associated
+> with someone whom most in the academic community do not like, simply
+> does not refute the argument itself.
+
+Bork suitably excoriated in previous post.
+
+I can't legitimately object to selective availability of newsgroups
+on the grounds of limited resources, although I think this is often
+a bogus issue.  Disks are now about $3K/gigabyte, and most installations
+could therefore buy between 10 and 15 Gb/year by firing an administrative
+drone whose only role is to shuffle papers and get in the users' hair.
+But there are of course other issues--the VAX I'm posting this from
+is maxed out on HSC ports, and a new HSC controller is ~$50K.  If
+$50K were to suddenly materialize, I'd prefer our friendly Comp. Center
+folks buy one of the new screamer workstations rather than beef up
+the old VAX....
+
+So if a librarian has to choose between subscribing to _Nature_ or
+_Hustler_, or if a sys. admin. has to choose between putting up
+comp.sys.unix or alt.sex.bestiality, I won't complain too much if
+they make what seems like the obvious choice.  But I think it's
+specious to say that one pole of the two sets of alternatives above
+is 'educational' and the other isn't.  Even in a university setting,
+the 'wrong' pole would provide more novel information to more people.
+
+Educational 'Borkishness' (Bloomism?) is the belief that learning
+is the absorption of a narrow, prescribed canon.  I don't think
+you really believe this, but it's a viewpoint that just oozes out
+between all the cracks at even self-styled 'liberal' and/or
+'progressive' instutions.  It can sneak up on you if you're not
+careful.
+
+Christopher Gunn	Molecular Graphics and Modeling Lab
+SPAN--KUPHSX::GUNN	Department of Medicinal Chemistry, Malott Hall
+913-864-4428 or -4495	University of Kansas, Lawrence, KS  66045
+
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Date: 9 Sep 91 20:11:46 GMT
+Message-ID: <9109092011.AA00258@dsacg2.dsac.dla.mil>
+Subject: History of Usenet and Implications for Academic Freedom
+
+We just received "What is Usenet" by Gene Spafford.  It specifically
+states that Usenet originally was a feed between two universities.
+With that in mind, I withdraw my suggestion that Usenet's primary
+purpose is not educational.  Its original purpose was to exchange
+ideas and information (not a quote, please see news.admin.)
+Although I could not find a formal statement-of-purpose, it appears as
+if education is a primary one.
+
+
+Bob Solon, rsolon@dsac.dla.mil
+DSAC-BCC -- "We Code, You explode!"
+
+From: ALILESTE@idbsu.idbsu.edu (Dan Lester)
+Date: 9 Sep 91 19:10:21 GMT
+Message-ID: <199109091819.AA26087@eff.org>
+References: <nbc2134@dsacg2.dsac.dla.mil>
+Subject: Academic Privacy Question
+
+On Mon, 9 Sep 91 13:41:11 EDT Robert F Solon said:
+>I'm using censorship is the sense of "review", i.e. examining
+>material after is is produced.  There are other definitions of
+   Librarians would generally use "censorship" to mean  review or
+elimination from a collection after it was already purchased and in
+the collection.  For example, a parent complaining that a  particular
+book was dirty and should be removed so his kid can't read such "nasty
+stuff" as Judy Blume novels for kids.
+   Librarians usually use the term  "selection" for choosing which of
+the innumerable books they should buy with their limited dollars.
+   There is no question that  relating the materials to the community
+is a factor here.  In some communities Judy Blume is passe and would
+never be an issue.  In others it is.
+   One of the classic library censorship cases came up in the sixties when
+a college library director went to the wall (and ended up losing his job)
+over Evergreen Review, which was then considered "dirty" by many.  Many
+still would.  He contended that it was basic to the small Christian college
+where he worked in the middle of Bible-belt north Texas.  They had all
+of three hundred journals to cover the whole student body and curriculum.
+  I think his mistake was fighting that ER was one of the most important
+300 journals for his school.  I consider that stupid.  I would have fought
+for it in a larger college or in a university, even to the point of losing
+my job.  But to put it in such a high priority in such a place I consider
+just plain  stupid.  In a 15,000 student university in the same town
+would be an appropriate battle.
+
+>up.  This implies judgement that is not content-based except on a
+>very general level.  If a sysadmin were to stop this article from
+   And this is what I called "selection", looking at past content in
+general and determining whether it is "good enough" or "appropriate
+enough" for my students and faculty.
+
+>that my site does not receive alt.sex is not.  I think the
+>librarians are using censorship is a much more vague way; my
+>impression is that anything that tend to stifle the freedom to
+>inquire would be considered censorship.
+    Some do use it that way, but to me that is abroader general issue
+of intellectual freedom, of which censorship is just a part.
+
+
+This is why the Amer Library Assn has an "Office of Intellectual Freedom"
+that is heavily involved in such issues, and not just a "Censorship Office."
+
+And, any of you interested in such things should read their "Intellectual
+Freedom Newsletter" in your library, or subscribe yourself.  It covers ALL
+kinds of issues....not just strictly library related.....censoring
+high school plays.....school papers.....laws passed locally to prevent the
+sale of Playboy in Circle K and 7/11 stores, and so on.
+
+dan
+
+************************************************************************
+* Dan Lester                          Bitnet:   alileste@idbsu
+* Associate University Librarian      Internet: alileste@idbsu.idbsu.edu
+* Boise State University
+* Boise, Idaho  83725                 You can be sure these ideas are my
+* 208-385-1234                        own; no one else would have them.
+************************************************************************
+
+From: jsaker@unomaha.edu (Jamie Saker)
+Date: Tue, 10 Sep 1991 01:51:45 GMT
+Message-ID: <jsaker.684467505@odin>
+References: <1631971F0E812E9F@ccmail.sunysb.edu> <9109091741.AA23739@dsacg2.dsac.dla.mil>
+Subject: Academic Privacy Question
+
+nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+
+>I'm using censorship is the sense of "review", i.e. examining
+>material after is is produced.  There are other definitions of
+>censorship.  The term "prior restraint" generally refers to the
+>same thing (I think.) 
+
+Actually, prior restraint can mean censorship (as in the case of the 
+Pentagon Papers -- the newspaper in question was restrained for something
+like 6 days until the U.S. Supreme Court could review the case), and it
+can also include self-imposed controls, as in the case of many newspapers
+during WWI (where the editors refused to print anything that may be of
+use to the enemy). Not exactly "censorship" in the true meaning of the word.
+
+>very general level.  If a sysadmin were to stop this article from
+>being passed on, for example, that would be censorship.  The fact
+>that my site does not receive alt.sex is not.  I think the
+>librarians are using censorship is a much more vague way; my
+>impression is that anything that tend to stifle the freedom to
+>inquire would be considered censorship.
+
+What I've often thought was an interesting point in this issue is
+the admission of liability upon acting as censor for any printed
+materials.  In the case of USENET, if a University adopts a policy
+of censoring USENET news, it accepts liability for any information
+that makes it past the censor and "offends" a particular audience.
+
+Unfortunately, too many information providors (esp. USENET news providors)
+adopt a policy of censoring information (either through selectively not
+carrying/providing certain newsgroups, or controlling the content of the
+groups) without carefully examining this legal issue. 
+
+For example, if the University of X imposes newsfeed censorship by
+not carrying certain groups, say alt.sex.*, alt.drugs.*, rec.arts.erotica,
+and a few other select groups determined to be of a character not
+acceptable to the administration, they are accepting the role as
+the guarantor of the information to their consumer. 
+
+Now, if an article containing offensive material slips by (such as
+someone accidentely crossposting material from alt.sex.bondage to
+comp.emacs, and a consumer takes offense at the material and sues
+the information provider (University of X), since they acted as the
+guarantor of the information, they most likely have accepted
+responsibility and therefore are liable.
+
+Overall, the most rational choice is to either carry the full service,
+provide disclaimers (and require acceptance of the disclaimer prior to
+the provision of service) or don't carry the service at all.
+
+
+>Bob Solon, rsolon@dsac.dla.mil
+>DSAC-BCC -- "We Code, You Explode!!"
+
+
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+.  Jamie Saker					jsaker@odin.unomaha.edu    .
+.  						#include <disclaimer.h>    .	
+.						"No red beads until        .
+.  The Penny Network Foundation			further notice. Failure    .
+.  P.O. Box 138					to comply will result in   .
+.  Blair, NE 68008-0138				immediate termination."    .
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+From: ALILESTE@idbsu.idbsu.edu (Dan Lester)
+Date: 9 Sep 91 03:31:08 GMT
+Message-ID: <199109090239.AA04619@eff.org>
+References: <SKAPUR@ccmail.sunysb.edu>
+Subject: Restricting access to newsgroups (was: Re: Academic Privacy
+
+On Sun, 8 Sep 1991 11:58 EDT Sanjay Kapur said:
+>>From: kadie@eff.org (Carl M. Kadie)
+>>(Most) libraries restrict access to Playboy, not because it contains
+>>pictures of nude women, but because experience has shown that it is
+>>likely to get stolen.
+>
+>Do you really believe that?
+    He should.  It's true.  Another library I worked in had Playboy on
+color microfilm, at the request of Home Economics (yes, really...because of
+the fashion stuff, for both historical and current interest).  We found
+that the color film was getting mutilated by people clipping out the
+nude frames.  Presumably some dorms or frats were having some GREAT slide
+shows at their parties.
+
+>My opinion of the reason cited by you for restricting access to Playboy is:
+>Hogwash.  Librarians, like all other human beings lie when asked difficult
+>questions.  That does not mean you have to believe their lies.
+   So may some systems analysts or others.  But the above is NOT a lie, nor
+is the following.
+
+>The replacement cost of Playboy is low comapared to some scientific journals,
+>copies of which get stolen on a regular basis.  These journals are NOT
+>kept behind the counter.   Why can't the library have get two subscriptions to
+>Playboy? one to keep behind the counter and one to keep on the shelf if
+   For the same reason the library can't get two subscriptions to any ohter
+journals.  And that is why we get sports illustrated and others on microfilm.
+Because the originals are beat to hell before three months are past, when
+it is time to bind them.  And the bound ones get mutilated too.
+And, most librarians hate microfilm even more than the users do, as they
+have to hassle with the equipment day and nite.
+
+>interest in this magazine is high enough for it get stolen.  Libraries often
+>get more than one copy of an item in which interest is high.
+    Most libraries duplicate a few books (I am speaking of university
+libraries, not public ones), but almost NO journals.  There are too many
+other journals that people want and we can't afford the first subscription.
+
+In the library cited below (where I work) we put ANY material on reserve that
+has disappeared (or been mutilated seriously) more than twice.  In other
+words, a replacement goes back to the stacks.  The second replacement goes
+on permanent reserve.  This has included some wonderful art books (and not
+all "dirty" stuff...assume some were cut to shreds to decorate rooms or
+apartments), the Anarchist's Cookbook, and some heavily assigned history
+and business books.  And some education and PE books too.  And, yes, some
+that have pictures of naked people in them.
+
+dan
+
+************************************************************************
+* Dan Lester                          Bitnet:   alileste@idbsu
+* Associate University Librarian      Internet: alileste@idbsu.idbsu.edu
+* Boise State University
+* Boise, Idaho  83725                 You can be sure these ideas are my
+* 208-385-1234                        own; no one else would have them.
+
+From: morgan@ms.uky.edu (Wes Morgan)
+Date: 10 Sep 91 21:25:23 GMT
+Message-ID: <1991Sep10.212523.3734@ms.uky.edu>
+References: <9109061947.AA00162@dsacg2.dsac.dla.mil> <1991Sep6.212005.20119@eff.org>
+Subject: Selection Policy for Computer Conferences?
+
+In article <1991Sep6.212005.20119@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>
+>I concede that public universities *can* legally create a limited
+>public forum (Netnews) that is restricted to a set of topics (only
+>some newsgroups are carried).
+>
+
+Thank you.  This is the summation of the entire "carry alt.sex?" discussion
+in which Carl and I were primary debators.
+
+>But what if a university first selects rec.humor.funny and later bans
+>(or deselects) it because some people find some of the jokes
+>offensive? I would call that censorship.
+
+I would call it a different topic!  The entire "limited public forum"
+discussion was limited to INITIAL NEWSGROUP OFFERINGS.  However, Carl
+saw fit to use our discussion to classify me as a example of potential
+censorship in his posting to PACS-L.  He did not mention to PACS-L that 
+he acknowledges the right of a system administrator to select newsgroups 
+for a particular site.  Why not?
+
+Could it be that Carl says whatever his target audience wishes to hear?  
+
+In his posting to PACS-L, Carl writes:
+
+>If you are interested how library policy should apply to new media
+>(and especially if you might be able to offer advice) please join the
+>Computers and Academic Freedom (CAF) mailing list or newsgroup.
+>
+>These are the formative years for computer media policy. It
+>is very important that we formulate a good policy.
+
+It's also important that those individuals who are supposedly leading
+or moderating the discussion (CAF-news is moderated by Carl), take care
+to ensure that the FULL discussion is made available.  It is almost im-
+possible to "formulate a good policy" if one can't see both sides of
+the discussion. 
+
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+------------------------------
+
+End of caf-talk Digest
+******************************
+
+From: kadie@eff.org (Carl M. Kadie)
+Date: Wed, 11 Sep 1991 17:58:08 GMT
+Message-ID: <1991Sep11.175808.23857@eff.org>
+References: <9109061947.AA00162@dsacg2.dsac.dla.mil> <1991Sep6.212005.20119@eff.org> <1991Sep10.212523.3734@ms.uky.edu>
+Subject: Selection Policy for Computer Conferences?
+
+Enclosed is the article I sent to PACS-L. My intention was to get some
+librarians to join our discussion. (This seems to have worked.)
+
+In the note, I refer to newsgroup selection based on fear of
+controversy as "censorship". I didn't mean to indicate that I thought
+such a selection criteria was illegal.
+
+- Carl
+
+========================================
+
+~From: kadie@eff.org (Carl M. Kadie)
+~Subject: Wanted selection policy for NetNews
+
+We need advice from librarians to stop censorship of a new computer
+medium.
+
+Some background information:
+
+Netnews (aka Usenet, aka newsgroups) is a computer medium for group
+discussions over networks. It's content is about the same as that of
+mailing lists. (In fact some Netnews newsgroups are available via
+mailing lists.)
+
+The difference between a newsgroup and a mailing list is distribution.
+Mailing lists are sent to individuals; newsgroups are sent to computer
+sites. Mailing lists thus have the advantage of being able to reach
+anyone with an email account. Netnews requires special software on
+every participant's computer. This software is generally available on
+Unix machines, but is not generally available on, for example, IBM
+mainframes.
+
+The main advantage of Netnews is cost. Because everyone on a given
+computer shares the same copy of a Netnews article storage and
+transmission costs are very low. This means that sites can afford to
+subscribe to many newsgroups. Casual participates can, thus, easily
+follow or browse many topics.
+
+The Problem:
+
+Selection. If a computer site cannot afford to subscribe to all the
+Netnews newsgroups (there are thousands of newsgroups and each
+requires some amount of disk space), how should it select which
+newsgroups to get?
+
+Last week a computer administer at the University of Kentucky stated
+that his machine would be avoiding a popular newsgroups dealing with
+sex because he feared it was too controversial. In Canada, the
+University of Waterloo bans a humor newsgroup because some of the joke
+sometimes offend some people. (The jokes from the newsgroup are
+published once a year in book form. Ironically, the University of
+Waterloo's library collects the books.).
+
+I think a computer with Netnews *is* (in part) a library and should
+follow proper library selection (and deselection) policy. (Stanford
+fought a ban of the humor newsgroup by making this their official
+policy.) As a computer scientist, however, I don't have a good
+understanding of the details of selection.
+
+If you are interested how library policy should apply to new media
+(and especially if you might be able to offer advice) please join the
+Computers and Academic Freedom (CAF) mailing list or newsgroup.
+
+These are the formative years for computer media policy. It
+is very important that we formulate a good policy.
+
+I've enclosing the flyer for CAF. If you know anyone who might be
+interested in these issues, please forward this note to him or her.
+
+- Carl, co-moderator of Computers and Academic Freedom
+
+------------
+            Computers and Academic Freedom Mailing List
+
+Purpose: To discuss questions such as: How should general principles
+of academic freedom (such as freedom of expression, freedom to read,
+due process, and privacy) be applied to university computers and
+networks? How are these principles actually being applied? How can the
+principles of academic freedom as applied to computers and networks be
+defended?
+
+Mitch Kapor has given the discussion a home on the eff.org machine.
+As of July, 1991, the list has 283 members in at least five countries.
+Thousands more read the list via newsgroups.
+
+There are three versions of the mailing list.
+
+comp-academic-freedom-talk
+        - you'll received dozens of e-mail notes every day.
+comp-academic-freedom-batch
+        - about once a day, you'll receive a compilation of the day's notes.
+comp-academic-freedom-news
+        - about once a week you'll receive a compilation of the best
+          notes of the week. (I play the editor for this one).
+
+To join a version of the list, send mail to listserv@eff.org. Include
+the line "add <name-of-version>". (Other commands are "delete
+<name-of-version>" and "help").
+
+In any case, after you join the list you can send e-mail to the list
+by addressing it to caf-talk@eff.org.
+
+Alternatively, if you may be able to read the mailing lists as newsgroups.
+Look for alt.comp.acad-freedom.talk and alt.comp.acad-freedom.news.
+
+The best notes from each month are available via anonymous ftp from
+eff.org as files "pub/academic/news/July", etc. Also, see file
+"pub/academic/README".
+
+--
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: kadie@eff.org (Carl M. Kadie)
+Date: Thu, 12 Sep 1991 18:56:27 GMT
+Message-ID: <1991Sep12.185627.26936@eff.org>
+Subject: What is a library?
+
+I advocate treating newsgroup selection like selection at a library.
+
+But is Netnews only like a library, or is it a library? The answer to
+this question is more than academic. Some states such as Michigan
+exempt libraries from their antipandering laws.
+
+So what is a library?
+
+
+Here is my favorite definition:
+
+(From Indiana state law) "'Library' means a collection of a variety of
+books or other printed matter, audiovisual materials or other items in
+which knowledge is recorded; kept in a centralized place; for which a
+person who as knowledge of the materials, their arrangement, their use
+and of library skills is responsible; and which are for the use of
+individuals or groups in meeting their recreational, informational,
+educational, research or cultural needs."
+
+
+Here are some others:
+
+The best definition in the OED II is:
+
+"a public institution or establishment, charged with the care of a
+collection of books, and the duty of rendering the books accessible to
+those who require to use them."
+
+
+I called the American Library Association, but the folks I talked to
+did know of an official definition. They did, however, suggest looking
+in the book _American Library Laws_ (5th edition) for legal
+definitions.  From the book I learned that most states do not define
+the term. Here are definitions from the states that do:
+
+California: "'School library' means an organized collection of printed
+and audiovisual materials which (a) is administered as a unit, (b) is
+located in a designed place, and (c) makes printed, audiovisual, and
+other materials as well as necessary equipment and services of a staff
+accessible to elementary and secondary school students and teachers."
+
+"'Academic library' means a library established and maintained by a
+college or university to meet the needs of its students and faculty,
+and others by agreement."
+
+Maine: "'Media center' means any library utilizing print as well as
+extensive nonprint resources and materials."
+
+Pennsylvania: "'Local Library.' Any free, public, nonsectrian library,
+whether established and maintained by a municipality or by a private
+association, corporation or group, which serves the informational,
+educational and recreational needs of all the residents of the area
+for which its governing body is responsible, by providing free access
+(including free lending and reference services) to an organized and
+currently useful collection of printed items and other materials and
+to the services of staff trained to recognized and provide for these
+needs."
+
+South Dakota: "'Public library materials,' the various forms in which
+knowledge, information, and humanity's cultural heritage
+are recorded that a public library might acquire, organized and
+make available to its clientele;"
+
+Washington State: "'Resources' are library materials which include but
+are not limited to print, nonprint (e.g., audiovisual, realia, etc.),
+and microform formats; network resources such as software, hardware,
+and equipment; electronic and magnetic records; data bases;
+communication technology; facilities; and human expertise."
+
+[According to the OED II, "realia" are " Objects which may be used as
+teaching aids but were not made for the purpose."]
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: kadie@eff.org (Carl M. Kadie)
+Date: Tue, 10 Sep 1991 01:51:28 GMT
+Message-ID: <1991Sep10.015128.3970@eff.org>
+Subject: Computer policies collections
+
+The CAF archive contains two collections of academic computer
+policies. These are available via anonymous ftp to directories
+pub/academic/widener and pub/academic/policies. Within a day or so,
+they are also be available via email. For more information send email
+to "archive-server@eff.org". Include the line "help".
+
+The widener directory is a mirror of ftp.cs.widener.edu:pub/cud/schools/*.
+The policies directory is a collection of other policies. I'm enclosing
+the README file for the policies directory.
+
+- Carl
+
+=================
+README
+-----------------
+It is a collection of the computer polices of many schools. Also see
+directory "widener".
+
+=================
+acs.ohio-state.edu
+-----------------
+Policy on Abuse of Computers and Networks for The Office of Academic
+Computing at The Ohio State University. (This policy was critiqued and
+discussed in CAF-talk.)
+
+=================
+cc.columbia.edu
+-----------------
+The old policy for Columbia University's Center for Computing
+Activities. They are working on a new policy. (This policy was
+critiqued and discussed in CAF-talk.)
+
+=================
+cis.ohio-state.edu
+-----------------
+This is the (soon to be revised?) appropriate use, mail (and netnews),
+disk, and printer policy for the computers labs of OSU's Computer and
+Information Science Department.  (This policy was critiqued and
+discussed in CAF-talk.)
+
+=================
+cmich.edu
+-----------------
+Excerpts from "Everything You Ever Wanted To Know About Computing
+Services At Central Michigan University (And Were Afraid To Ask)",
+Computer Services Document No. CSVD0092. It is given to new users.
+(The policy was critiqued and discussed in CAF-talk.)
+
+=================
+pitt.edu
+-----------------
+The University of Pittsburgh Guidelines for Ethical Use from "User's
+Guide to Academic Computing" and Computer Access and Use policy.
+
+=================
+staff.cc.purdue.edu
+-----------------
+Staff policy for Purdue University's Computing Center
+
+=================
+watmath.waterloo.edu
+-----------------
+Policy of the University of Waterloo's Mathematics Faculty Computing Facility
+
+=================
+=================
+Last update
+Mon Sep  9 21:40:58 EDT 1991
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: kadie@eff.org (Carl M. Kadie)
+Date: Wed, 11 Sep 1991 22:03:54 GMT
+Message-ID: <1991Sep11.220354.29371@eff.org>
+Subject: CAF-News Editorial Policy
+
+This note tries to answer the questions that I am asked from time to
+time.
+
+I am asked:
+
+How are articles selected for CAF-news?
+Is CAF-news biased? (yes!)
+What are you doing to minimize the problems caused by
+   the lag time between CAF-talk and CAF-news?
+Why are you usually the largest contributor to CAF-news?
+
+------
+Here is kind of how I select articles for CAF-news:
+
+(in alphabetical order)
+
+Important - If someone wants to understand Computers and Academic
+    Freedom, he or she should not be required to read all the notes
+    of caf-talk. Reading CAF-news (starting with the monthlies) should
+    suffice. We are selecting for posterity.
+Interesting - Reports of real cases add drama and remind everyone that
+    computer policy effects people.
+Irredundant -- Often a later article will do a good job at summarize an
+    earlier article. In such cases, I don't selected the earlier article.
+On topic - A while back, there was a big discussion about the philosophy
+    of the Constitution. It was interesting, but had little to do with
+    computers and academic freedom. I didn't include any notes on this
+    topic.
+Short - I don't have any problem with long notes, but I want only between
+    6 and 12 notes per week. Cutting down to so few notes is very difficult,
+    but it is the most important function of caf-news.
+Representative - The reader should have confidence that major 
+    aspects of the issues have been brought out.
+
+
+-----
+This is my philosophy on bias in editing
+
+I do not believe that an editor (or writer) can be unbiased. Editing
+CAF-news involves selecting the "best" set of notes of the week. The
+choice of the best notes is inherently subjective; it depends on my
+bias.
+
+Although CAF-news is biased by its editor, I have taken steps to
+insure fairness.
+
+1. The flyer from CAF discloses the nature of CAF-news
+
+"comp-academic-freedom-news
+        - about once a week you'll receive a compilation of the best
+          notes of the week. (I play the editor for this one)"
+
+2. CAF-talk is an open forum
+3. I make no comments in the body of notes (ala Telecom-digest)
+4. I post my abstract of CAF-news in CAF-talk
+5. I claim no monopoly on selection notes from CAF-talk. Anyone
+can create a competing digest. Although, I won't distribute the
+CAF-news mailing list, I will carry advertisements for a competing
+digest in CAF-news. Also the listserv software is available via
+anonymous FTP.
+
+-----
+Notes on slow CAF-newses (sp?)
+
+Ideally, CAF-news would come out on Sunday or Monday, just a day or
+two after the close of the week. This ideal is seldom met. Issue 1.23
+was almost a week "late".
+
+Sometimes important notes get posted to CAF-talk between the CAF-news
+deadline and its publication. When people notice that CAF-news is
+doesn't include these notes, they fear that the editor is excluding
+good notes.
+
+I think this fear can be put to rest by 
+
+1) posting the CAF-newses date along with its abstract in CAF-talk
+
+2) Adding something like "This discussion is continuing in CAF-talk,
+expect important notes on this topic in the next issue" to the
+abstract.
+
+
+--------
+
+Possible reasons why I'm often the largest contributor to CAF-news
+(all of which may be true to some degree):
+
+  I'm the largest contributor CAF-talk
+  Many of my posts are informative posts from books
+  I start many of the new discussions
+  Some of my posts are anonymous posts from others
+  My posts really are among the best
+  I just think my posts are among the best.
+
+
+---
+
+Carl M. Kadie
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: SKAPUR@ccmail.sunysb.edu (Sanjay Kapur)
+Date: 11 Sep 91 11:37:00 GMT
+Message-ID: <92EC79568E81427D@ccmail.sunysb.edu>
+Subject: censorship
+
+>From: ruby ramji u <rramji4@mamut.wlu.ca>
+>hello,
+>i'm new to this list and looking for some information.
+
+Welcome
+
+>i'm interested in the issue of censorsip on the computer networks
+>in the university systems.
+>are there any particular jurisdictions?
+
+There are several legal jursidictions, the federal jurisdiction derived from 
+the ECPA and other laws.  State jurisdictions from various state laws and 
+University jursidictions also from vaarious state laws and University 
+policies, rules and regulations.
+
+>do students have the right to privacy?
+
+Some people say they do, some people say they do not.  The right is not well 
+estabilished (yet).  At this point in time, it is not "safe" for a student to 
+assume such a right by default.
+
+>if anyone has any information on this i would love to hear it.
+>any help will be appreciated.
+>
+
+Look in the directory academic in the eff.org archives which are accessiblie 
+by anonymous ftp to eff.org.
+
+>ruby
+>rramji4@mach1.wlu.ca
+>
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+From: SKAPUR@ccmail.sunysb.edu (Sanjay Kapur)
+Subject: Re: censorship
+Message-ID: <94B10ABABE81427D@ccmail.sunysb.edu>
+From: SKAPUR@ccmail.sunysb.edu
+Date: 11 Sep 91 11:50:00 GMT
+Approved: usenet@eff.org
+
+>
+>Following this idea I'd like to know what protections one has from
+>the eavesdropping of e-mail.
+>
+>Its not a tough job to grab someone's packets off the net and read them.
+>But having something available does not make it ethical or legal.
+>Have there been any test cases involving electronic privacy?
+>I bet there have!
+>Can someone shed some light on this?
+>
+>Ant Man!
+>Dan LaSota
+>ffdkl@acad3.alaska.edu
+
+This question was (hotly) debated and argued by me over the past two weeks in 
+this list.
+
+The upshot of the discussion was (in my opinion), it is legal and ethical for 
+someone to read someones mail only under three limited circumstances and then 
+only by the persons directly involved in maintaining the system/network:
+
+1) When reading such mail is required in solving a real problem on the system.
+2) When reading such mail is required to maintain the quality of service.
+3) When reading such mail is required to protect the propery of the owner of 
+the mail service provider.
+
+It is in general illegal for such a person to disclose such information to 
+anyone else, except as provided for in the ECPA.
+
+Browsing for the sake of curiosity or for the sake of browsing is illegal and 
+unethical.
+
+A court order is generally the only other way someone should be able to access 
+your files.
+
+There was general agreement on 1) but not everyone agreed on 2) and 3) 
+although they are permitted by the ECPA.  You can read the relevant portions 
+of the ECPA by obtaining it from the eff.org archives in  the academic 
+directory by anonymous ftp.
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+

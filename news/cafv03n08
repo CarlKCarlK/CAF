@@ -1,0 +1,1290 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 03.08 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 03, No. 08
+
+
+----------------------------------------------------------------------
+
+From: BDU100F@oduvm.cc.odu.edu (Bruce Umbaugh)
+Subject: Article 0 -- Abstract of CAF-News 03.08
+
+Topics:
+
+   1-4    continue the debate arising out of a Memphis State University
+               student's use of anonymous ftp at AI.SRI.COM
+   5-8    concern an incident of alleged computer tampering or computer-
+               assisted abuse at American University
+   9      concerns who should administer and manage computing resources
+   10     on a public library's attempt to restrict access to singer
+               Madonna's book, _Sex_
+
+
+Abstract:
+
+[Week ending February 21, 1993
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+Notes 1-4 continue the debate arising out of a Memphis State
+University student's use of anonymous ftp at AI.SRI.COM.
+
+1.  (A sysadmin:)  Although most everyone involved in the
+incident overreacted, "I don't think it is unreasonable for a
+company to notify another site when the passwd file is snarfed,
+even a "dummy" passwd file. We send a similar notice ourself (I
+think the notice in question is a "canned" one that comes with
+one of the security packages.)"  It is okay to talk to people
+about these concerns; that is not threatening them.  The student
+"*accidentally mimicked a cracker*" and the site admin responded
+appropriately to that.  Issues about the configuration and use of
+the anonymous ftp site are distinct from those about how to
+respond.  [Anthologized with permission.]
+    <BETSYS.93Feb16111004@terminus.cs.umb.edu>
+
+2.  (Carl Kadie's effort to write a form letter more appropriate
+to such circumstances than the one used in this incident.)
+    <1993Feb15.162757.27742@eff.org>
+
+3.  (An AI.SRI.COM manager):  "Disclaimer: this is strictly a
+personal statement."  AI.SRI.COM anonymous ftp has been turned
+off.  Assumptions and conjectures have been treated as fact in
+this newsgroup.  "The facts are that the student retrieved
+precisely two files: first the README stating that this was not a
+public archive and then the (dummy) passwd file."  This is
+inconsistent with his having had innocent intent.  [Furnishes log
+and discusses logging procedures.]  "I find it instructive about
+the attitudes and biases of members of this newsgroup that the
+student's account of events was so readily accepted, and that no
+one attempted to contact us before rushing to judgement."  We
+merely reported information and our interpretation to the
+university.  None of us knows whether the student has any prior
+record of questionable behavior.  The README file was poorly
+written, but tending to Anonymous FTP had not been a high
+priority.  Our aim in banning anonymous file transfers was to
+"stop people from blindly snarfing up everything available at our
+site."  The site did not have a "sophisticated anonymous FTP
+configuration" because it is small, with support shared by
+researchers; many of our FTP users were inexperienced; guest
+accounts are impractical; and we must trade off service to our
+users and accessibility to the net.  The discussion of this on
+the net has been counterproductive.  "Our site was one of the
+earliest members of the ARPAnet." A week ago, "if you had asked
+me whether I anticipated my site imposing any noticeable
+restrictions on access from the net, I would have confidently
+answered that I did not. Today, I think the question is not
+"whether" but "how soon".  If and when this happens, remember
+that we did not go willingly -- some members of this
+newsgroup played a significant role by pushing us onto the
+slippery slope."
+    <MORAN.93Feb16170552@muir.ai.sri.com>
+
+4.  The log's evidence is not inconsistent with the student's
+having had innocent intent.  The README file "asked [the student]
+not to look in pub/ and, not knowing what these directories mean,
+[the student] proceeds out of there to etc/ assuming that a site
+that lets him in anonymously must keep the public stuff
+*somewhere*."  The student was logged into a VMS system at his
+end, and denies familiarity with Unix conventions.  "I still see
+nothing presented by you to question his word."  "I think you
+[i.e., those at AI.SRI.COM] were the ones who jumped to
+conclusions."  Despite their protestations, "pub" means "public."
+    <BZS.93Feb16225003@world.std.com>
+
+Notes 5-8 concern an incident of alleged computer tampering or
+computer-assisted abuse at American University.
+
+5.  "Work was disrupted for approximately 45 students in Anderson
+Computer Lab Feb 8. when an anonymous user from within the campus
+broadcasted profane messages to each of the terminals."  The
+Network Administrator compared a list of LAN users with the list
+of on-line users.  A particular room was identified and a student
+accused.  It is "silly to bring a student up on charges for using
+a program who's use isn't prohibited by regulation."
+    <1993Feb16.200522.26409@eff.org>
+
+6.  (An AU student:)  "I have interviewed the student involved in
+this incident."  Formal charges "will probably be based on the
+computer policy students must agree to when activating their
+mainframe accounts."  [Quotes a portion of the policy.]  "This is
+the policy for mainframe accounts, however in this case no
+mainframe account was involved."  The student has denied carrying
+out the acts, in any case.
+    <93049.000815JSONDER@auvm.american.edu>
+
+7.  "These policies apply  to use of computers at The  American
+University and of computers and networks elsewhere if  you use a
+network at The American University to gain access to those
+computers or networks."  [Policy excerpts follow.]
+    <93049.003329JSONDER@auvm.american.edu>
+
+8.  "The person sending the messages had logged onto the Novell
+LAN server as a LAN Administrator and was using a Novell
+administrator privileged function to send messages to people
+logged onto the Novell server."  Unauthorized use of an account
+is a violation.  "We have no problem with someone using a program
+such as Unix talk or CMS TELL from their own account."
+    <93049.124231JIM@auvm.american.edu>
+
+Note 9 concerns who should administer and manage computing
+resources.
+
+9.  "[O]verall I'd rather take my chances with the librarians
+figuring out how to manage the technical side of things . . .
+than take my chances with your typical academic computing center
+administrator figuring out how to manage a campus resource and
+ever recognize that there are people behind those account names.
+
+"I think you'd find that admins in commercial sites are much more
+liberal about policies than anything that would be tolerated in
+academia (other than hard lines about information leakage.) One
+reason is because the people using their systems actually have
+jobs to do and can't be crippled with stupid policies that just
+raise the comfort level."
+    <BZS.93Feb20182800@world.std.com>
+
+Note 10 is on a public library's attempt to restrict access to
+singer Madonna's book, _Sex_.
+
+10.  According to an editorial in the Chicago Tribune, a state's
+attorney wrote Downers Grove public library saying that providing
+minors access to _Sex_ could be criminal.  The library board
+voted to limit access, although the Illinois Harmful Materials
+Act, to which the state's attorney referred, concerns only
+legally obscene material, not that which is merely graphic.  [A
+later note pointed out that libraries are specifically excluded
+from the provisions of the law.]  The editorial notes that such a
+law makes citizens uncertain what materials are permitted and
+which prohibited.
+    <C2IE25.7v5@cs.uiuc.edu>
+
+- Bruce Umbaugh]
+
+
+Contents:
+
+E Schwartz       44  >Legal Tangles During FTP at SRI
+Carl M. Kadie    35  >SRI form letter contest (<>al Tangles During FTP at SRI)
+                272  >Legal Tangles During FTP
+Barry Shein     189  >
+A. Charles Gros 137  Fear and loathing at American University
+JSONDER@auvm     70  >
+JSONDER@auvm    106  American University Computer Policy
+Jim McIntosh     29  >Fear and loathing at American University
+Barry Shein      67  >A Toy Shouldn't Break Just Because a Child Play With It!
+Carl M. Kadie    27  County official warns library against access to _Sex_
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Associate Editor: Leslie Regan Shade (shade@ice.cc.mcgill.ca)
+Associate Editor: Henry E. Hardy (seraphim@ais.org)
+Associate Editor: Karl Barrus (elee9sf@Menudo.UH.EDU)
+Associate Editor: Bruce Umbaugh (BDU100F@oduvm.cc.odu.edu)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Feb 16 15:55:49 1993
+From: betsys@cs.umb.edu (Elizabeth Schwartz)
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+Subject: Article 1--Re: Legal Tangles During FTP at SRI
+Message-ID: <BETSYS.93Feb16111004@terminus.cs.umb.edu>
+Date: 16 Feb 93 16:10:04 GMT
+
+I only partly blame SRI. I don't think it is unreasonable for a
+company to notify another site when the passwd file is snarfed, even a
+"dummy" passwd file. We send a similar notice ourself (I think the
+notice in question is a "canned" one that comes with one of the
+security packages.)
+  I *do* think the university over-reacted, but I also think the
+STUDENT over-reacted. If he was asked to explain himself, and he did,
+and no further action was taken, well, I'm sorry that he had a scare,
+but he accidentally comitted an action that looked awfully like what a
+hacker might have done, so I don't see the big problem with asking his
+system administrator to ask him what was up.
+  Getting the dean involved was overkill, I think. Getting the net
+involved was overkill, also.
+  I've debated here before that I don't think talking to people is
+necessarily the same as threatening them. 
+  I disagree that the student should have been contacted first. It is
+reasonable and proper for two organizations to contact each other
+through a "chain of command." If I actually had a cracker on my system
+I would not want him or her warned off by a victim. In this situation,
+where an innocent student **accidentally mimicked a cracker** (In My
+Humble Interpretation)  I think the site admin did the right thing.
+  There are two very separate issues here: the issue of taking a
+site's passwd file or fake passwd file, and the issue of taking files
+from a site which does not want their anonymous ftp server used by the
+public. We all seem to be in agreement on the second point.
+
+{check out my new .disclaimer!}
+Policy group disclaimer:
+
+This posting represents my personal opinion at the time of posting.
+I am using the net as a personal learning tool: nothing I write is
+official policy unless explicitly labelled as "official" policy.
+Please do not repost or anthologize this post without my permission.
+thanks, Betsy.
+
+ 
+--
+System Administrator                  Internet: betsys@cs.umb.edu
+MACS Dept, UMass/Boston               Phone   : 617-287-6448
+100 Morrissey Blvd                    Staccato signals
+Boston, MA 02125-3393                      of constant information....
+
+
+------------------------------
+
+From caf-talk Caf Feb 15 11:28:04 1993
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 2--Re: SRI form letter contest (was Re: Legal Tangles During FTP at SRI)
+Message-ID: <1993Feb15.162757.27742@eff.org>
+Date: Mon, 15 Feb 1993 16:27:57 GMT
+
+>Contest #1: Goal: Rewrite the enclosed form letter so that it clearly,
+>unhysterically, and unambiguously describes the incident.
+
+TO:	<name removed>
+
+You are listed in the NIC database as the technical contact for your
+site.  I am sending this note to you because this is the way that we
+provide notice of the restrictions we place on our anonymous ftp
+server. I would be grateful if you would acknowledge receipt, so that
+I can be sure that I contacted the correct system adminstrator.
+
+We logged an annonymous ftp connection from you site this morning at
+6:18PST.  During this session a publicly-accessible file was accessed.
+This, of course, is to be expected because we are an anonymous ftp
+site and because the list of restrictions we place on our site is
+hidden in a subdirectory, in "README" file. Indeed, browsing anonymous
+ftp sites is activity that is very often associated with good
+students. The user supplied the following information as a password
+when the annonymous ftp connection was established:
+
+     <"password" removed, of the form "<user>@<domain>">
+
+Please ask the your user to read the "pub/README" file before
+accessing any other files in our archive.
+
+  <signed by an AIC computer facility staff member>
+=======================================================================
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 17 10:14:08 1993
+Newsgroups: comp.org.eff.talk
+Subject: Article 3--Re: Legal Tangles During FTP
+Message-ID: <MORAN.93Feb16170552@muir.ai.sri.com>
+Date: 17 Feb 93 01:05:52 GMT
+
+[Note: events overtook the below message. An escalating stream of abuses
+associated with our appearance in this group has just resulted in us
+having to turn off anonymous FTP.  I decided to submit this message
+anyway because it might still provide some perspective on the situation.]
+
+
+Enough already.
+
+A number of unfounded, unchecked assumptions and conjectures about the
+anonymous FTP situation at my site have come to be treated as fact in
+this newsgroup.  Up to this point, I have refrained from responding
+because I was advised that the thread would quickly die out and the
+falsehoods published here would be soon forgotten.  It has become
+painfully clear that this is not happening and that the characterization
+of our site is moving further and further from the truth.
+
+If you are going to continue this discussion of anonymous FTP policy,
+please create your own strawman (and start a new thread so that our
+name does not continue to appear in the subject line).  Stop fabricating
+actions on our part and using us as the bogeyman.
+
+In an attempt to stop my site from continuing to be maligned in this
+newsgroup, I am going to attempt to clarify the facts.  This message
+is a long one because there are so many misconceptions, distortions,
+and falsehoods to be addressed.  To keep the length manageable, I will
+ignore many of the minor ones.
+
+The thread started with a report by a student that we had overreacted
+to an innocent use of anonymous FTP.  The facts are that the student
+retrieved precisely two files: first the README stating that this was
+not a public archive and then the (dummy) passwd file.  The fact that
+he ignored a wide range of files in the pub directory is inconsistent
+with the characterization repeatedly presented in this newsgroup of
+an innocent browser who did not know that what he was doing was improper.
+See our earlier response for a recapitulation of our actions - it was
+posted to this newsgroup.  We deliberately underreported the event so
+that if nothing else was going on, the student could easily claim 
+innocent intent.  See the exchanges in the thread for additional
+perspectives on this issue and why many System Administrators would agree
+that what we did was reasonable and responsible.
+
+Since so many people have expressed interest in our log of this incident,
+here is the relevant extract:
+  @<HOST> (<USER>@<HOST>) Thu Feb  4 06:18:58 1993
+	get /pub/README
+	get /etc/passwd
+That's it.  All of it (except for the masking of the student's name and
+originating host).  We log only the connection information and GETs and
+PUTs.  Since we do not log CDs and LS/DIRs, we do not know what, if any,
+filename browsing the student did. This level of logging is adequate for
+our needs of identifying the origin of automatic retrieval programs and
+of being able to provide our users with the service of telling them who
+is picking up their files.
+Note: although a number of people complained to this group about not
+having seen this log, again no one thought to contact us and ask for it.
+
+I find it instructive about the attitudes and biases of members of
+this newsgroup that the student's account of events was so readily
+accepted, and that no one attempted to contact us before rushing to
+judgement.  In a situation where skepticism was clearly called for,
+it was given only a perfunctory nod.  Saying "If <questionable_assumption>,
+then ..." is often acceptable when debating abstract ideas, but it is
+very wrong when dealing with someone's reputation.
+
+Important note: several people in defending our actions have said that
+it was not us, but the sysadmins at the student's university, who over-
+reacted.  Be careful: the conclusion that they overreacted is based on
+the assumption that they did what the student claims and that his action
+was an isolated event.  I don't know whether or not this is true, and
+I don't think any of you do either.  Furthermore, if the student's
+university is governed by the usual set of privacy laws and policies,
+the facts need to settle this issue are likely to be protected.  Thus,
+if the sysadmins had good reason for acting as they did, they are
+unlikely to be able to reveal those reasons. And if they didn't,
+they can use "privacy rights" to hide that.  Repeating the point: don't
+jump to conclusions based upon a presentation from just one side.
+
+A related falsehood that keeps popping up is that we "defamed" the
+student to computer facility staff, his department chair, and his
+professor (or some variant thereof).  Our only contact was the single
+report to the sysadmin of the student's site and the acknowledgement
+that we got from them that the report had been received.  We made no
+allegations -- we reported what was in our logs and noted the likely
+interpretation (and identified it as such).  The complete text of this
+message has been reposted endlessly in this newsgroup.
+
+Members of this newsgroup have characterized our sysadmins are idiots
+and incompetents for having a password file in the anonymous FTP area.
+As was subsequently explained by other posters to this newsgroup, a
+dummy passwd file is required by the standard BSD FTP server to support
+the LS command (this requirement has long been documented in the FTPD(8)
+manual page in SunOS).  Given how accessible this information is, I was
+surprised at the number of supposedly knowledgeable contributors who
+pilloried us for this, and I was disappointed by the number of people
+who used it as an excuse to stage minor acts of harassment over the net.
+
+The ridiculing of our site then moved on to what is an admittedly
+poorly written README file.  It was written by an overloaded staff
+member.  Anonymous FTP has long been on our list of things that needed
+to be revisited, but since we had no complaints or other evidence of
+problems, it has never made it to the top of the stack.  You should
+understand that FTP is not a major activity at our site, and hence
+it was very easy for this to drop between the cracks.
+
+When members of this group encountered this file, they did not ask us
+for a clarification or suggest replacing the file with a better statement.
+Instead they posted uninformed conjectures to this newsgroup and then
+proceeded to treat those conjectures as fact.
+
+One such thread is that we could be using a poorly stated policy and a
+questionably placement of the README file to entrap people into violating
+the policy.  This is utter nonsense.  The only action we have ever taken
+with regards to files in /pub is that when we detect that we are being
+swept by an automatic retrieval program, we request to be removed from
+the list of sites scanned.  We have been sensitive to this problem for
+many years because a high visibility sight such as ours may get swept
+nightly by multiple sites, disrupting the legitimate uses of our computers.
+
+The other major thread of unfounded conjecture about our FTP policy is
+that we were putting confidential files in the anonymous FTP area.
+This is a gross distortion of our statement that those files were not
+of general interest.  As an example, a scene-recognition project might
+want to provide a collection of preprocessed images to researchers on
+similar projects.  I see no harm in asking people who don't have the
+programs needed to display those files not to retrieve them.  However,
+it is very easy to explain the harm done by people retrieving megabytes
+of files for which they have no conceivable use: they interfere with
+the attempts of those who have a legitimate interest in retrieving those
+files and they interfere with the other uses of our computers.  Please
+do not claim that our servers have plenty of spare cycles at night --
+our system statistics, and my personal experience, indicate that our
+servers are typically busy throughout the night.
+
+Our invitations to retrieve files are often widely distributed: Our
+invitation to this newsgroup to pick up the two part response of Feb 8
+is one example.  All we want to do is stop people from blindly snarfing
+up everything available at our site.  Please do not criticize us for
+an overly harsh statement of our policy -- harsh statements seem to be
+what is needed to get people to pay attention.
+
+We have been accused of violating our own policy by having a listing
+in the Archie database.  One of those citing this listing states
+ > When archie was first implemented, it automatically tried to access and
+ > catalogue every FTP server it could find.  Many sites objected, since they
+ > didn't really consider themselves "public access".  The archie maintainers
+ > changed things so that it only catalogued sites that gave permission.
+Didn't it occur to anyone that this process might be imperfect, especially
+that files listed before the policy changed might not have been checked?
+
+If the issue of Archie listings had come up, I would have supported
+having an entry for a file of moderate to widespread interest as an
+additional way of propagating the invitation to pick up that file,
+assuming that the listing of specific files would not result in our
+site getting listed as a public archive.  But that was before the
+pummeling that our site took in this newsgroup.  Since the opinion of
+people here seems to be that an invitation to take one file is an
+invitation to take them all, I have asked the Archie database
+administrators to remove all entries related to our site.  I would
+have preferred not to have done this, but we don't need the grief.
+
+We have been widely criticized, often harshly, for not having a more
+sophisticated anonymous FTP configuration.  Because I know of many sites
+with similar circumstances, I will explain why much of this criticism
+is off-base.
+(1). We are a small site with limited resources, and anonymous FTP is
+a low priority.  Our group is composed of 50 people, most of whom are
+researchers.  Our computer facility staff is composed of one operator
+and one system administrator.  Two researchers (me being one) share
+the management of the facility and handle various support tasks as _part_
+of our professional duties.  Several other researchers are available to
+help in emergencies.
+(2).  Many of the people whom we invite to retrieve files from us are
+infrequent and inexperienced users of FTP.  Reminders about basics such
+as binary mode and explanations about compressed files are often needed.
+The current configuration already confuses some of these people.  By
+keeping it as simple and as generic as we can, we make it easier for the
+system staff at the guest's site to help them with their problems.
+(3). The reason why guest accounts are often impractical has been
+explained by number of other contributors to the thread.
+(4). Other aspects of trade-offs between services to our users and
+accessibility from the net were discussed in the second part of our
+first submission to this group.
+In summary, because anonymous FTP is a low priority for our site, we
+attempted to provide this service with a minimum expenditure of system
+staff time.  The README file was intended to keep inadvertent misuse
+of our hospitality to a tolerable level.  Until last week, this had been
+entirely adequate.
+
+The issue of UW FTPD deserves special comment.  A number of submitters
+to this group have taken our decision to not use UW FTPD as evidence
+that we were inept, incompetent, negligent, or maliciously attempting
+to entrap people into violating our access policy.  People should
+remember that UW FTPD is advertised as still being in the beta test
+phase (or so says the README file in the copy I retrieved in January).
+My site has enough problem with beta test software that we are forced
+to use on our primary tasks.  I saw no need to install beta software
+for a low priority, peripheral task, especially when there had been
+absolutely no dissatisfaction with the current system.
+(Note: the software that we are currently using is the standard BSD
+FTPD with an extension that we had acquired from the net several years
+ago).
+
+
+The result of this "discussion" was counterproductive 
+-----------------------------------------------------
+
+People should be aware that the effects of the drubbing administered
+in this newsgroup are almost entirely contrary to the alleged goals
+of EFF.
+
+At the simplest level, we have had to divert computer facility staff
+from productive work to respond to the allegations disseminated by
+this newsgroup and to deal with apparently related actions. Consequently,
+we have not had the time to fix the disputed README file.
+
+We will be installing the UW FTP server.  I do not view this as a good
+thing because its biggest "advantage" over our current setup is that
+it enables us to deny access from other sites, and having the capability
+means that it will eventually be used.  Members of this newsgroup have
+made me painfully aware that attempting to rely on an "honor system"
+will not only invite (incite?) abuse, but will invite public ridicule.
+
+Our site was one of the earliest members of the ARPAnet.  We take pride
+in going out of our way to make resources available to the Internet
+community.  Because of our high visibility on the network and because
+of our close associations with various universities, we are the
+frequent target of a variety of attacks across the net.  The cost to us
+of these attacks is hardly insubstantial, but our computer facility
+staff and our center's management have _chosen_ to bear these costs
+in order to maintain our accessibility from the net, especially from
+universities.  This has not been an easy choice.  I know of too many
+sites that have crumpled under the financial pressures and eliminated
+virtually all access, except mail, from a variety of top-level domains
+(eg EDU).  But the financial burden is not the only pressures on us to
+reduce network access: there are pressures from collaborators' sites.
+
+Because of recent events (some apparently connected with our appearance
+in this newsgroup), the installation of the tcp_wrapper package has
+been raised from the category of "when we have time" (translation: never)
+to a top priority.  I regard this with trepidation because I will be
+taking away one of my management's best excuses for doing nothing when
+it is under pressure to reduce network access.  When we have been under
+attack or threat of attack, my management would ask "what would it take
+to better protect ourselves."  Until now, I could report that blocking
+network access from those sites would require installing and testing
+new software, to which the response has always been "Your time is better
+spent elsewhere".  With the installation of this package, my answer will
+become "One quick edit to a file" and his only responsible decision will
+be "Do it".  At first, these limitations will be temporary, but temporary
+expediencies that get used repeatedly have a tendency to become permanent.
+
+Before the thread started a week ago, if you had asked me whether I
+anticipated my site imposing any noticeable restrictions on access from
+the net, I would have confidently answered that I did not. Today, I
+think the question is not "whether" but "how soon".  If and when this
+happens, remember that we did not go willingly -- some members of this
+newsgroup played a significant role by pushing us onto the slippery
+slope.
+
+Douglas B. Moran			moran@AI.SRI.COM
+
+Disclaimer: this is strictly a personal statement.
+
+Note: I am not a reader of this newsgroup and therefore I am unlikely
+	to see any responses posted here.  If you need a clarification
+	or think that you have a useful suggestion, send me e-mail.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 17 10:23:35 1993
+From: bzs@world.std.com (Barry Shein)
+Subject: Article 4--Re: Legal Tangles During FTP
+Message-ID: <BZS.93Feb16225003@world.std.com>
+Date: Wed, 17 Feb 1993 03:50:03 GMT
+
+
+From: moran@muir.ai.sri.com (Doug Moran)
+>The facts are that the student
+>retrieved precisely two files: first the README stating that this was
+>not a public archive and then the (dummy) passwd file.  The fact that
+>he ignored a wide range of files in the pub directory is inconsistent
+>with the characterization repeatedly presented in this newsgroup of
+>an innocent browser who did not know that what he was doing was improper.
+
+Why is it inconsistant?
+
+1. It would seem that if we accept that he ignored the files in pub/
+and headed for etc/ then he may well have not known what he was doing.
+
+2. The README file you refer to said that the files in pub/ were not
+for the public. His not looking further (inside pub/) would be
+consistent with someone who honored the request in the README file.
+
+3. Taking 2 and 1 together he is asked not to look in pub/ and, not
+knowing what these directories mean, proceeds out of there to etc/
+assuming that a site that lets him in anonymously must keep the public
+stuff *somewhere*.
+
+Note that the student in question: A) Was logged into a VMS system so
+that is a negative indicator as to whether he knows anything about
+Unix or its directory naming conventions B) Has claimed that he did
+not know these conventions, whether or not we take him at his word
+there is nothing here to contradict him.
+
+>I find it instructive about the attitudes and biases of members of
+>this newsgroup that the student's account of events was so readily
+>accepted, and that no one attempted to contact us before rushing to
+>judgement.
+
+And I still see nothing presented by you to question his word.
+
+>In a situation where skepticism was clearly called for,
+
+Why? Some of us do not agree with you on this assumption. Note that I
+have now POSTED our site's ~ftp/etc/passwd file to this group.
+
+>Saying "If <questionable_assumption>,
+>then ..." is often acceptable when debating abstract ideas, but it is
+>very wrong when dealing with someone's reputation.
+
+As opposed to claiming he took your "site's passwd file", and now
+calling him a liar without even the thinnest of evidence that what he
+says isn't completely true? What you present is not even
+circumstantial, it's the network equivalent of "he looked at us
+funny".
+
+>the assumption that they did what the student claims and that his action
+>was an isolated event.  I don't know whether or not this is true, and
+>I don't think any of you do either.
+
+So therefore we are wrong in assuming it was innocent until proven
+otherwise? That's clearly what you are saying in this sentence.
+
+>Furthermore, if the student's
+>university is governed by the usual set of privacy laws and policies,
+>the facts need to settle this issue are likely to be protected.  Thus,
+>if the sysadmins had good reason for acting as they did, they are
+>unlikely to be able to reveal those reasons.
+
+Very cheap insinuation, hardly worthy of response.
+
+The student apparently still has his account and has posted subsequent
+to the trouble your site caused him, so it would be easier to conclude
+that this was a singular incident and dropped by his admins and that
+you in fact have not been vindicated.
+
+>Repeating the point: don't
+>jump to conclusions based upon a presentation from just one side.
+
+Assuming someone is innocent until something more concrete comes
+forward than that he ftp'd a dummy passwd file while logged onto a VMS
+system is hardly jumping to conclusions.
+
+I think you were the ones who jumped to conclusions.
+
+Tell me, do you believe there should be any culpability for someone
+who falsely accuses another? If someone accused you of doing something
+wrong which you didn't would you want that person to be able to merely
+shrug his shoulders and say "oh guess i was wrong" and that's that?
+Even if the accusation caused you some trouble?
+
+>Members of this newsgroup have characterized our sysadmins are idiots
+>and incompetents for having a password file in the anonymous FTP area.
+>As was subsequently explained by other posters to this newsgroup, a
+>dummy passwd file is required by the standard BSD FTP server to support
+
+Right, a dummy passwd file, this is what you caused all the hoopla
+over.
+
+Anyhow, I challenge you to produce ONE note that characterizes your
+sysadmins as "idiots" for having a password file in the anonymous FTP
+area.
+
+More accusations from AI.SRI.COM, now against all of us.
+
+One.
+
+Your site was characterized as less than brilliant for comments by
+your sysadmin which protested the idea that anyone should assume that
+a directory called pub/ is public, but claims he's been around these
+nets since 1973, it strains credulity far beyond what you seem to find
+hard to believe in the student's story:
+
+>by Sun only mentions this in the FTPD(8C) where it lists /bin, /etc,
+>/usr, /dev, and /pub.  For the last it says "Users should then place files
+>which are to be accessible via the anonymous account in this directory."
+>Nowhere does is it suggested that by doing so, these files are published
+>to the entire world.
+>
+>However, it does seem that there is a large segment of the population who
+>believe that "pub" means public (rather than an English drinking
+>establishment :-).
+>...
+>The internet of today is not the network that I first used in 1973...
+
+(in fact "pub" when used in reference to an English drinking
+establishment indeed is short for "public [house]".)
+
+>Please do not criticize us for
+>an overly harsh statement of our policy -- harsh statements seem to be
+>what is needed to get people to pay attention.
+
+It's not possible you have deserved criticism?
+
+>We have been widely criticized, often harshly, for not having a more
+>sophisticated anonymous FTP configuration.  Because I know of many sites
+>with similar circumstances, I will explain why much of this criticism
+>is off-base.
+
+Please produce any such criticisms. To my memory you have been
+criticized for putting the burden of *not* having such a sophisticated
+system on the rest of the net rather than just living with the
+situation and making the best of it. You still, through all of this,
+have yet to cite one harm to your site.
+
+>In summary, because anonymous FTP is a low priority for our site, we
+>attempted to provide this service with a minimum expenditure of system
+>staff time.
+
+And have therefore decided to impose the burden of the lack on the
+rest of the net community? Is that reasonable?
+
+>The result of this "discussion" was counterproductive 
+
+Indeed, you don't seem to have learned a thing nor display the
+slightest shred of willingness to consider that some of the comments
+and criticisms made had even the slightest merit.
+
+You have adjudged yourself pure as driven snow on every single point
+and impossibly devoid of any fault or culpability, and loudly accused
+the dozens of people here who have found some varying degree of fault
+with your site's actions as being wholly wrong and without any merit.
+
+It is unlikely on the surface, let alone collapsing upon the slightest
+examination.
+
+>Before the thread started a week ago, if you had asked me whether I
+>anticipated my site imposing any noticeable restrictions on access from
+>the net, I would have confidently answered that I did not. Today, I
+>think the question is not "whether" but "how soon".  If and when this
+>happens, remember that we did not go willingly -- some members of this
+>newsgroup played a significant role by pushing us onto the slippery
+>slope.
+
+This is silly beyond words and a cheap attempt to defend against valid
+and honestly given criticism with self-flagellating attempts at
+sympathy.
+
+Anyhow, it is clear we are dealing with defensive and bunkered people
+here unwilling to even consider the idea that perhaps something they
+did merited criticism.
+
+
+-- 
+        -Barry Shein
+
+Software Tool & Die    | bzs@world.std.com          | uunet!world!bzs
+Purveyors to the Trade | Voice: 617-739-0202        | Login: 617-739-WRLD
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Feb 16 15:05:26 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: A. Charles Gross <acg@eff.org>
+Subject: Article 5--Fear and loathing at American University
+Message-ID: <1993Feb16.200522.26409@eff.org>
+Date: Tue, 16 Feb 1993 20:05:22 GMT
+
+I've been off the net for a few months, but I'm back (hopefully for
+good!)..  I didn't want to return without a little gift for ya'll
+
+The Eagle (American University)
+February 15, 1993
+Page 1
+
+Hughes resident suspect in computer tampering
+
+	Work was disrupted for approximately 45 students in Anderson Computer
+Lab Feb 8. when an anonymous user from within the campus broadcasted
+profane messages to each of the terminals.
+	Hughes Hall resident David Umlas is the sole suspect in an investigation
+of vioaltions of both the Code of Conduct and the Code of Computer
+Services Ethics.  The investigation is begin conducted by Lab Manager of
+the Anderson Computing Complex Victoria Eisele.
+	Eisele said a series of increasingly more obsence messages flashed
+across computer screens sending some students into a frenzy over lost
+papers.
+	!At first some students were stunned because they thought all their work
+was lost in the !computer void!... still others were just annoyed,! said
+Ben Lewis, an assistant lab manager at the Computer Center.  !It just
+stopped everything for a minute and then when people figure out how to
+correct it, another message would appear.!
+	Lewis said the messages included !Its now 12: fucking 30,! !Don!t
+Panic,! !We control the horizontal,! !They control the vertical! and
+!Fuck You!!
+	Lewis said many students were angry.
+	!A lot of people were quite upset and really annoyed,! Lewis said.  !Lab
+assistants are the only ones allowed to broadcast messages over the
+network and this was obviously not one of the assistants.!
+	Eisele said she took steps to pinpoint the source of the activity.  On
+her own computer, Eisele called up a master list of every user logged-on
+to the Anderson pool.
+	!This guy thought he was pretty clever,! Eisele said, refering to the
+use of aliases each time the user re-logged on to the network to send a
+different message.
+	Eisele zeroed in on the exact PC when the user failed to change his
+sign-on name.  Her readout registered it as a computer foreign to the
+Anderson Complex.
+	Eisele immediately contacted Network Administrator Jeff Kite and asked
+him to help.  By cross referencing the Anderson master list of on-line
+users with the Local Area Network (LAN) user listing, Kite obtained the
+account holders initials and the last four digits of the user!s social
+security number.
+	From there he used the campus database which contains all student
+computer network (EagleNet) accounts to get the exact residence hall room
+number.
+	!It was just a matter of Jeff looking up a hall and a room number,!
+Eisele siad.
+	While Kite was comparing lists to come up with a room number, Eisele and
+Anderson Lab assistant and Tenly Compus RA Lori Bush entered Hughes Hall
+lobby to inform Hughes Resident Director Michelle Robinson of the
+situation.
+	From the desk phones, Bush called Kite back and said, !O.K.  It!s coming
+from one of the two rooms in 223.!  Room 233 is one of the two sections
+of a quad on the second floor.  Meanwhile Eisele called from another
+phone at the desk and said to an unidentified party, !We!ve got it. 
+Secure the building.!
+	Eisele siad the three proceeded to the quad Kite had located and knocked
+on the door.  A male student answered the door.  She said no one else was
+present in the room.
+	Eisele refused to name the student in the room.  She referred to him
+only as the !suspect.!
+	When confronted with the situation, the suspect was quoted by Eisele as
+saying !I just got here... I don!t know whats up!!
+	Umlas, who admits to being in the room when the three entered, said the
+he was in the middle of playing a video game on the terminal when the
+three women arrived.  
+	!They came to the our door - this is aloway open - and knocked really
+hard and loud, you know, RA (resident assistant) style,! Umlas said.
+	Eisele, however, siad the computer was blank and the power was off. 
+Robinson was unavailable for comment.  Bush declined comment because of
+the RA confidentiality clause.
+	The three other residents of the room provided verified alibis as to
+their whereabouts during the time in question either from employers or
+professors, Eisele said.
+	!I have filed three charges of Code of Conduct violation against the
+student who answered the door,! Eisele said.
+	The suspect concurred that he was the only person in the room when the
+three women came to investigate and with Eisele!s statement on what he
+said when they entered the room.
+	The three other residents declined comment.
+	Umlas declined to give specific comment on Eisele!s accusations, citing
+his right to cofidentiality in the pending case.
+	He did offer this statement, !I admit nothing and I decline to comment
+on the accusation.!
+	He also said he had yet to receive any documentation of such a charge
+from Conduct Council.
+	Eisele said the council!s decision will depend on the suspect!s record.
+	!The outcome of the Conduct Council!s decision will depend heavily upon
+any prior history of wrong-doing by the student,! Eisele said. !There
+will probably be some sort of social probation involved and he certainly
+won!t be able to use our equipment.!
+	Even though Eisele does not serve on the council, it is still her
+responsibility to gather witnesses and to ultimately testify herself in
+the proceedings since the burden of proof lies with her.
+	!I!m spending all my time having to do this to take this guy in, not to
+mention all the other people sending their time - its going to be a real
+hassle,! Eisele said.
+	Eisele said AU has been very lucky to avoid such hacker problems in the
+past.
+	!Fortunately, this has not been a problem in the past for AU.  Other
+universities have had major big problems with (computer hacking),! she
+said.
+	Eisele said this type of incident cannot occur againt tanks to new
+security measures impliemented last Monday and Tuesday.
+	!Before last week, anyone could log in with any computer on campus (and
+broadcast anything),! Eisele said.
+	Neither the Code of Conduct nor the Computer Services Code of Ethics
+state that using a PC in one!s room to access a lab like Anderson or to
+broadcast a message to the terminals there is a violation of either code.
+	Computer hacking is considered to be a federal offense in the United
+States.
+	!It is an invasion of privacy similar to illegally tapping phone lines
+or opening someone else!s mail,! Manager of User Services Thomas Southall
+said.
+
+
+
+I have several questions about all this nonsense.  I'm assuming the
+program in question is Broadcast, a popular Mac/Appletalk utility.  But
+assuming from the tracing capability, and the fact that they now prevent
+the use of the program in question, it sound more unix based program. 
+Regardless, its all bit more than silly to bring a student up on charges
+for using a program who's use isn't prohibited by regulation.  It is
+absurd that even a mention to "hacking" was made.
+
+I'm going to try to get in touch with the parties involved and get them
+involved in the dicussion on here... additionally I'll try to track down
+copies of the Code of Conduct and Computer Ethics codes...
+
+Adam
+"I speak for me, not eff." - Carl Kadie
+
+
+------------------------------
+
+From caf-talk Caf Feb 18 08:09:10 1993
+Date: Thu, 18 Feb 1993 00:08:15 EST
+From: <JSONDER@auvm.american.edu>
+Message-ID: <93049.000815JSONDER@auvm.american.edu>
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 6--Re: Fear and loathing at American University
+
+=========================================================================
+>I have several questions about all this nonsense.  I'm assuming the
+>program in question is Broadcast, a popular Mac/Appletalk utility.  But
+>assuming from the tracing capability, and the fact that they now prevent
+>the use of the program in question, it sound more unix based program.
+>Regardless, its all bit more than silly to bring a student up on charges
+>for using a program who's use isn't prohibited by regulation.  It is
+>absurd that even a mention to "hacking" was made.
+
+I am a student at The American University, and work for the campus
+television station.  I have interviewed the student involved in this
+incident.  The messages were sent over a Novell network.  From what I
+have heard, the hacking part would come into play because the ASSIST
+account was accessed which is a passworded account for lab assistants.
+
+Conduct Council charges will probably be based on the computer policy
+students must agree to when activating their mainframe accounts.  The
+relavant provisions are:
+
+"Actions which intentionally disrupt, delay, or endanger other's work
+ are prohibited, ethically wrong, and will be prosecuted under AU's
+ internal rules and under applicable criminal statues.
+
+  Obvious examples of prohibited actions would include:
+
+   1. Intentionally providing computer access to unauthorized people
+      (by loaning your account to another person, etc.);
+   2. Disrupting access to the computer (by crashing the system,
+      releasing viruses, tying up terminals, using the mainframe for
+      illegal activities, etc.);
+   3. Accessing or changing other perons' files without permission;
+   4. Purposefully wasting resources."
+
+This is the policy for mainframe accounts, however in this case no
+mainframe account was involved.  The Computer Center will still
+probably try to use this agreement to press charges as a violation
+of "writen University policy."
+
+
+
+>I'm going to try to get in touch with the parties involved and get them
+>involved in the dicussion on here... additionally I'll try to track down
+>copies of the Code of Conduct and Computer Ethics codes...
+
+While I am not directly involved, I am chair of the Confederation Media
+Commission, a student regulator body for the campus media.  The student
+in this case is very upset at the newspaper for publishing his name, and
+has threated a civil suit, but may pursue the issue through the
+Confederation Media Commission complaint process where students can lodge
+formal complaints against student media.
+
+In this case the student has strongly denied sending these messages.
+He became a suspect after computer people traced the logins to his
+dorm.   They them checked the addresses of the lan cards that
+were logged in at the time, and the only one that came up was his room.
+Since he was the only one in the room when the computer center people
+arrived, he was named as the suspect.
+
+If I can answer anyones questions feel free to ask.   If people want I
+can post the entire computer ethics and relevant conduct council provisions.
+---
+John Sonderman
+Program Director
+American Television (A-TV)
+The American University
+202-885-2222
+
+
+
+------------------------------
+
+From caf-talk Caf Feb 18 08:09:12 1993
+Date: Thu, 18 Feb 1993 00:33:29 EST
+From: <JSONDER@auvm.american.edu>
+Message-ID: <93049.003329JSONDER@auvm.american.edu>
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 7--American University Computer Policy
+
+
+These policies apply  to use of computers at The  American University and
+of computers and networks elsewhere if  you use a network at The American
+University to gain access to those computers or networks.
+
+*-=*=-
+
+
+
+*General Policy
+
+Computer access  codes (called userIDs)  and access to  computer networks
+are made  available to  TAU's faculty, registered  students and  staff to
+assist   them  in   carrying   out  the   instructional,  research,   and
+administrative goals of the University.
+++BREAK++
+Access to TAU's computers and networks  is a privilege, not a right. Many
+members  of  the  TAU  community  use these  facilities,  rely  on  their
+availability to accomplish their work,  and store important, private data
+and  software  on  them.  Actions  which  intentionally  disrupt,  delay,
+endanger, expose  or access  others' work without  specific authorization
+are prohibited, are  ethically wrong, and will be  prosecuted under TAU's
+internal rules and under any applicable criminal statues.
+
+Obvious examples of prohibited actions would include:
+ a.  intentionally providing computer  access to unauthorized people
+     (by loaning or sharing your userID to another person, etc.);
+ b.  disrupting access  to a  computer or  network (by  crashing the
+     system, releasing viruses, tying up terminals, using a computer
+     for illegal activities, etc.);
+ c.  accessing  or  changing  others'  files  or  computer  accounts
+     without permission; and
+ d.  purposefully wasting resources.
+++BREAK++
+Further, no  commercial activity  is permitted  unless it  furthers TAU's
+goals and is approved in advance  in writing by the Executive Director of
+the University Computing Center.
+
+*Privacy
+
+In an operational sense, the University Computing Center regards files in
+your account and  data on the networks as private;  that is, employees of
+the Center do not routinely look at this information.
+
+However, the UCC reserves the right to  view or scan any file or software
+stored on  the computer or  passing through our  network, and will  do so
+periodically to verify that software  and hardware are working correctly,
+to  look for  particular  kinds of  data or  software  (such as  computer
+viruses), or  to audit the  use of  TAU's resources. Violation  of policy
+that come  to UCC's attention during  these and other activities  will be
+acted upon.
+++BREAK++
+Your  data on  the mainframe(s)  will  be periodically  copied to  backup
+tapes. While  we will make  reasonable efforts  to ensure that  your data
+remains confidential, we cannot guarantee that  it will remain so. If you
+wish to take  steps to ensure confidentiality, you may  encrypt your data
+using one of the software tools on the system.
+
+You should  be aware that  if you  use one of  the data networks,  such a
+BitNet or  Internet, electronic  mail and  messages will  not necessarily
+remain confidential in transit or on the destination computer system.
+
+*Copyright
+
+TAU's policy  on Reproduction  of Copyrighted Works  (#6-80) specifically
+defines software  as a "literary  work". Software available  on computers
+and networks is not to be  copied except as specifically permitted by the
+applicable software license. TAU is a member of EDUCOM and adheres to the
+Code of Software and Intellectual Rights:
+++BREAK++
+
+         "Respect for intellectual labor  and creativity is vital to
+     academic  discourse and  enteprise. This  principal applies  to
+     works  of  all   authors  and  publishers  in   all  media.  It
+     encompasses respect for the  right to acknowledgement, right to
+     privacy, and right to determine  the form, manner, and terms of
+     publication and distribution.
+
+          Because  electronic  information  is volitile  and  easily
+     reproduced, respect  for the  work and personnel  expression of
+     others  is   especially  critical  in   computer  environments.
+     Violations  of   authorial  integrity,   including  plagiarism,
+     invasion of privacy, unauthorized  access, and trade secret and
+     copyright  violations, may  be  grounds  for sanctions  against
+     members of the academic community."
+++BREAK++
+
+*Protect Yourself
+
+Each  computer  account  is  assigned  to a  single  individual,  who  is
+responsible for  all computer activities accomplished  under that account
+identification. When prohibited activity is detected, TAU will pursue the
+owner of the userID. Protect  yourself and prevent unauthorized access by
+keeping the password associated with your userID a secret and changing it
+periodically.
+
+There  is always  the possibility  that someone  else's actions,  whether
+intentional or not, will result in a  system crash, or the loss of files,
+or some other interruption of your work or loss of your data or software.
+Please take  steps to frequently  back-up any  work that is  important to
+you. The University Computing Center takes  measures on its own, but they
+may not be adequate for your purposes.  Ask about our policies and we may
+be able to help you develop any necessary, extra procedures.
+
+
+------------------------------
+
+From caf-talk Caf Feb 18 13:08:04 1993
+Date: Thu, 18 Feb 1993 12:42:31 EST
+From: Jim McIntosh <jim@american.edu>
+Message-ID: <93049.124231JIM@auvm.american.edu>
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 8--Re: Fear and loathing at American University
+
+In article <1993Feb16.200522.26409@eff.org>, A. Charles Gross <acg@eff.org>
+says:
+>I have several questions about all this nonsense.  I'm assuming the
+>program in question is Broadcast, a popular Mac/Appletalk utility.  But
+>assuming from the tracing capability, and the fact that they now prevent
+>the use of the program in question, it sound more unix based program.
+>Regardless, its all bit more than silly to bring a student up on charges
+>for using a program who's use isn't prohibited by regulation.  It is
+>absurd that even a mention to "hacking" was made.
+
+The person sending the messages had logged onto the Novell LAN server as
+a LAN Administrator and was using a Novell administrator privileged
+function to send messages to people logged onto the Novell server. If the
+student was a Computer Lab supervisor and was authorized to use that
+account, then they were merely an employee using the account in an
+inappropriate manner and the matter could be handled as a personel
+matter. If the student did not have permission to use that account, then
+their access was unauthorized and their use of that program violates our
+regulations.
+
+We have no problem with someone using a program such as Unix talk or CMS
+TELL from their own account.
+---
+Jim McIntosh (jim@american.edu)
+The American University
+Washington DC 20016-8019 USA
+
+
+------------------------------
+
+From caf-talk Caf Feb 20 18:45:05 1993
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: bzs@world.std.com (Barry Shein)
+Subject: Article 9--Re: A Toy Shouldn't Break Just Because a Child Play With It!
+Message-ID: <BZS.93Feb20182800@world.std.com>
+Date: Sat, 20 Feb 1993 23:28:00 GMT
+
+
+>Strange.  I always felt the system administors here should quite and work for
+>industry were their attitudes would be more acceptable and let librarians 
+>run the non-technical end of the computer systems (ie set policies etc)
+
+First, while in academia I often supported the idea of turning over
+non-technical administration and management of campus computing to the
+libraries. It was always met with derision but I still think it's a
+great idea, these are people who have spent a lot of time figuring out
+how to give away things to a public in an orderly and fair fashion, as
+well as documenting and cataloguing everything (including policies.)
+
+It's unlikely to happen in our lifetime because of the political
+structure of most universities which puts libraries way at the bottom
+of the heap (sad but true) and things like computing near the top (for
+those who administer them.) Hard to explain, but the reaction would be
+"it's just not done." That is, you don't give good things to the
+librarians. Again, sad but true.
+
+But overall I'd rather take my chances with the librarians figuring
+out how to manage the technical side of things (including their
+ability to just hire staff to do that, they don't have to do it
+themselves of course) than take my chances with your typical academic
+computing center administrator figuring out how to manage a campus
+resource and ever recognize that there are people behind those account
+names.
+
+I think you'd find that admins in commercial sites are much more
+liberal about policies than anything that would be tolerated in
+academia (other than hard lines about information leakage.) One reason
+is because the people using their systems actually have jobs to do and
+can't be crippled with stupid policies that just raise the comfort
+level. You can do that to students (without end it would seem), but
+not co-workers (obviously exceptions exist), not if you expect the
+company to be profitable.
+
+When I moved from academia to a more industrial site I was amazed how
+open things were, almost anyone who could possibly need it had the
+root password to their large servers (and few problems occurred), disk
+space was bought (typically depts bought their own disks to plug into
+the server) so wasn't really fought over except w/in a dept perhaps.
+It all tended to be relatively rational and easy to accept (you want
+disk space? get some dept'l budget and buy some.)
+
+Something more abstract was just that people took each other seriously
+and assumed that the other guy having a problem or whatever was driven
+by something the company needed and hence might be related to your
+(everyone's) paycheck.
+
+It wasn't heaven for other reasons, but most of this kind of stuff was
+just run rationally and based on needs rather than weird policies from
+even weirder committees or mandarin administrators.
+
+Most academic computing administrators wouldn't survive very long in a
+commercial site, they're usually too obsessed with control first and
+getting work done as only a by-product when everything else is
+satisfied. Companies which are out to make money have very short fuses
+about attitudes like that, and not just in computing.
+
+-- 
+        -Barry Shein
+
+Software Tool & Die    | bzs@world.std.com          | uunet!world!bzs
+Purveyors to the Trade | Voice: 617-739-0202        | Login: 617-739-WRLD
+
+
+------------------------------
+
+From caf-talk Caf Feb 15 16:29:51 1993
+Newsgroups: alt.censorship,alt.comp.acad-freedom.talk,soc.libraries.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 10--County official warns library against access to _Sex_
+Message-ID: <C2IE25.7v5@cs.uiuc.edu>
+Date: Mon, 15 Feb 1993 21:22:52 GMT
+
+According to a main editorial in today's Chicago Tribune, the Downers
+Grover public library received "a letter from the deputy chief of the
+Du Page County state's attorney's criminal division informing them
+that it had received information that access to [_Sex_] was not being
+restricted to adults. The letter went on to advise that anyone
+providing 'Sex' to a minor could be in violation of the Illinois
+Harmful Material Act, which makes it a Class A misdemeanor to
+distribute harmful material to anyone under the age of 18. ...  The
+library board promptly voted to limit access to those 18 and over."
+
+The editorial says "The law in question apparently affects only
+material that qualifies as legally obscene under Supreme Court
+guidelines. ... Mere graphic sexual content is not nearly enough to
+lose constitutional protection. ... [T]he warning has at least done
+everyone the favor of dramatizing the perils of the law. One is that
+no one can know for certain in advance what material is illegal.
+Another is that, given this uncertainty, prudent individuals will
+choose to err on the side of safety -- with the unfortunate result
+that citizens will be denied access to material that is
+constitutionally protected."
+
+- Carl
+
+
+
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

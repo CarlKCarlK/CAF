@@ -1,0 +1,939 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 03.01 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 03, No. 01
+
+
+----------------------------------------------------------------------
+
+From: emr@eff.org (Elizabeth M. Reid)
+Subject: Article 0 -- Abstract of CAF-News 03.01
+
+Topics:
+
+   1-4    address a recent Computer Emergency Response Team statement
+               advising that a warning notice be posted on systems where
+               keystroke monitoring may take place
+   5-6    regard a hypothetical case of sexual harassment over a computer
+               network
+   7-9    concern a recent incident at the Iowa State University in which a
+               user posted an article to a very large selection of newsgroups
+   10-11  on miscellaneous subjects
+
+
+Abstract:
+
+[Week ending January 10, 1993
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+Notes 1 to 4 address a recent Computer Emergency Response Team
+statement advising that a warning notice be posted on systems where
+keystroke monitoring may take place. 
+
+1. CERT is "recommending unilateral announcement that `all users may be
+monitored all the time', with no negotation and no negotiated policy
+of watching/monitring only on `probable cause'... they recommend the
+taking away of a reasonable expectation of privacy and thus all means
+to fight intrusions of privacy."
+    <1993Jan4.212439.4278@nntp.hut.fi>
+
+2. Our company lawyer's opinion is that contrary to the CERT advisory,
+warning notices are unnecessary.  "CERT was recommending that *if* you
+have a policy where you might monitor input, that you should put this
+warning in a login banner.  They were not advising for or against the
+monitoring policy itself, nor specifying a particular justification
+for monitoring any given conversation.  They were simply acknowledging
+that such monitoring takes place, and advising how to reduce legal
+liability in such cases."
+    <1ib0grINNhq3@early-bird.think.com>
+
+3. Both state and federal law must be taken into account when
+determining the legality of a wiretap.  In many cases state law is
+more restrictive.
+    <1993Jan5.045608.13381@eff.org>
+
+4. To recommend that all systems should carry a warning about
+potential monitoring is to set a trend toward viewing such monitoring
+as acceptable and routine.  I think such a trend should be fought
+against. 
+    <1993Jan6.005425.3318@nntp.hut.fi>
+
+
+Notes 5 and 6 regard a hypothetical case of sexual harassment over a
+computer network.
+
+5. What recourse would a woman have if a hostile adult distributed a
+GIF file which depicted a clearly identified look-alike image of her
+in a highly pornographic pose?
+    <199301050613.AA14182@eff.org>
+
+6. Such a case "might be actionable as a reputational tort (slander,
+libel) or as a privacy tort (presentation in a false light)."  It may
+also violate internal regulations of the university computer center
+regarding prohibited uses of the system, but the incident probably
+does not fit "the commonly used, formal definition of sexual
+harassment, however offensive the woman in question may happen to find
+it."
+    <199301051752.AA13842@eff.org>
+
+
+Notes 7 to 9 concern a recent incident at the Iowa State University
+in which a user posted an article to a very large selection of
+newsgroups. 
+
+7. A user "apparently automated his posting process and is posting his
+article to a large selection of newsgroups (including ALL local and
+regional ones) from a variety of systems on our campus.  This matter
+has been turned over to the ISU Computation Center administrator in
+charge of handling perceived abuse of computer or network facilities
+at Iowa State University."
+	<1icf6mINN8r7@senator-bedfellow.MIT.EDU>
+
+8. The Iowa State University Code of Computer Ethics states that
+"users of any electronic communication facilities, such as electronic
+mail, networks, bulletin boards and newsgroups, are obligated to
+comply with the restrictions and acceptable practices established for
+those specific facilities.  Certain types of communications are
+expressly forbidden.  This includes the random mailing of messages;
+the sending of obscene, harassing, or threatening material; or the use
+of the facilities for commercial or political purposes."
+    <1993Jan7.211206.27268@eff.org>
+
+9. ISU has decided to follow a policy of requiring user registration
+prior to Usenet access.  Users will be given full responsibility for
+anything they may post and a disclaimer to that effect will be
+presented to prospective readers.
+    <edsall.726270828@pv7411.vincent.iastate.edu>
+
+
+Notes 10 and 11 are on miscellaneous subjects.
+
+10. To attempt reprisals against the writer of an article which the
+reader finds personally offensive is directly contrary to the the
+United States Bill of Rights' promise of Freedom of Expression.
+    <1993Jan7.123230.46188@kuhub.cc.ukans.edu>
+
+11. For your entertainment, this last article gives a short analysis
+of those psychological characteristics associated with hackers.
+	<FISCHER.93Jan8040612@orange.iesd.auc.dk>
+
+- Elizabeth]
+
+
+Contents:
+
+Jyrki Kuoppala   95  Boycotting CERT because o<>keystroke monitoring advisory?
+Barry Margolin   44  >
+Mike Godwin      34  >
+Jyrki Kuoppala   22  >
+Jim Thomas , tk0 26  Question on sexual harassment
+U15289@UICVM     25  >
+                 46  Babak Sehari postings -- iastate.edu is dealing
+Carl M. Kadie   110  Iowa State U. Code of Com<>ics (was Re: Babak Sehari ...)
+David M Edsall  148  Developments at ISU
+                 89  Hi there fella ! (RE: STO<>NE POSTINGS, FINAL WARNING !!)
+Lars P Fischer   17  >REPOST of Hacker Personality Characteristics
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Associate Editor: Leslie Regan Shade (shade@ice.cc.mcgill.ca)
+Associate Editor: Henry E. Hardy (seraphim@ais.org)
+Associate Editor: Karl Barrus (elee9sf@Menudo.UH.EDU)
+Associate Editor: Bruce Umbaugh (BDU100F@oduvm.cc.odu.edu)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Jan  4 17:57:23 1993
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty
+From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Subject: Article 1--Boycotting CERT because of the keystroke monitoring advisory?
+Message-ID: <1993Jan4.212439.4278@nntp.hut.fi>
+Date: Mon, 4 Jan 1993 21:24:39 GMT
+
+Here's a repost of a message before the holidays:
+
+>Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty
+>From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+>Subject: Re: CERT and the Dept. of Justice on keystroke monitoring
+>Message-ID: <1992Dec18.100254.4122@nntp.hut.fi>
+>Date: Fri, 18 Dec 1992 10:02:54 GMT
+
+In article <1992Dec16.192639.12991@eecs.nwu.edu>, mack23@avalon (Chris Walsh) writes:
+>In article <1992Dec14.180915.13795@cc.ic.ac.uk> cmaae47@imperial.ac.uk writes:
+>>
+>>Though property rights come into it, they are not the only issue.
+>
+>I'll say!  Various posters have asserted that "If you work for WidgetCo,
+>and WidgetCo owns your workstation, plus the associated networking infra-
+>structure, then its is OBVIOUS that WidgetCo can monitor your keystrokes."
+>
+>True.  But folks, not every workstation belongs to a commercial firm!  If
+>the CERT advisory were directed solely at such organizations, I'd have no
+>beef with it.  The fact, however, is that it had a far broader audience.
+
+Yes, it is for a broad audience.
+
+Earlier I said that property rights are not an issue wrt the CERT
+advisory, and that it was not related to companies.  This was based on
+my mistaken reading of the advisory - as it was based on the U.S. Dept
+of justice advice (order?) to all federal agencies, I though that the
+"all systems" on the advisory referred to "all federal systems".
+However, it appears I was mistaken - when I asked CERT about this the
+answer was that CERT expanded the scope of the advisory and thus it
+seems that CERT really means _all_ systems, no matter whether private,
+public, government-owned, etc.
+
+A part of my argumentation was based on this misunderstanding of the
+advisory (for example the claim where I said that property rights are
+not involved).  I apologize for the resulting failure of
+communication.  However, my argumentation still applies for systems of
+federal agencies and many education sites.
+
+For privately owned commercial and hobby sites property rights do
+apply, and whether the property rights override privacy rights depends
+is mostly a matter of opinion.  Where I live, I have the impression
+that privacy right overrides property rights at least in the case of
+the company monitoring private phone calls from company to elsewhere
+even if the company pays the bill.  It is a bit unclear whether it is
+legal for the company to get the ID information, ie. what number was
+called, how long was spoken and when etc. but in practice I think
+companies do get such information and the courts probably wouldn't
+judge against this.  Also, as a personal opinion I tend to think
+that's not a big privacy problem, as long as the workers know what the
+situation is and the last few numbers are blanked out as the habit
+apparently is - but that it is an unreasonable invasion of privacy to
+monitor the contents of the calls.  For work-related calls I think
+it's negotiatable, also at certain environments monitoring all calls
+might be defensible (places with highly confidential information).
+
+I hope this clears some of the issues wrt property rights.  I sure
+don't think there's any _absolute_ right to privacy on company
+equipment, and dependig on the situation there may be nothing wrong
+with even a policy of "all users are watched all the time" especially
+if policy also "company business only" as long as it is negotiated
+with and accepted by the workers.  But what CERT is doing is
+recommending unilateral announcement of "all users may be monitored
+all the time", with no negotation and no negotiated policy of
+watching/monitring only on "probable cause".
+
+Thus, I think the CERT advisory is thus even more offensive and
+disrespectful of privacy than I originally thought, since they
+recommend the taking away of a reasonable expectation of privacy and
+thus all means to fight intrusions of privacy from users on _all_
+systems, not just those in U.S. federal agenices.
+
+I have communicated about this with CERT, and they don't seem to think
+my interpretation of the advisory is incorrect.  Thus it seems that
+CERT really supports measures like this, and I repeat and clarify my
+proposal that if it continues to do so, people who value privacy
+rights should not cooperate with CERT and we as net.citizens should
+see if something can be done to get some of the CERT's functions
+implemented in a way that respects freedom and people's rights, and
+also see if a message can be posted to comp.security.announce
+announcing the recommendation not to cooperate with CERT, the reason
+for it, and possible alternatives what to do instead of communicating
+with CERT wrt security holes, vulnerabilities etc.
+
+I don't know who does CERT's policy decisions and how one might
+influence them via other means (possibly organizations like the EFF
+and CPSR could work on this) but I do think the most simple thing to
+do about an organization doing something you seriously disapprove of
+is to stop all support and cooperation with it and suggest others do
+the same.
+
+//Jyrki
+
+
+------------------------------
+
+From caf-talk Caf Jan  4 22:51:44 1993
+From: barmar@think.com (Barry Margolin)
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty
+Subject: Article 2--Re: Boycotting CERT because of the keystroke monitoring advisory?
+Date: 5 Jan 1993 03:49:47 GMT
+Message-ID: <1ib0grINNhq3@early-bird.think.com>
+
+In article <1993Jan4.212439.4278@nntp.hut.fi> jkp@cs.HUT.FI (Jyrki Kuoppala) writes:
+>For privately owned commercial and hobby sites property rights do
+>apply, and whether the property rights override privacy rights depends
+>is mostly a matter of opinion.  
+
+We passed the CERT advisory on to our company lawyer.  His opinion is that
+the warning notice is unnecessary.  The warning is based on wiretapping
+statutes, which do not require a warning if the recording is being
+performed by one of the parties to the conversation.  He believes that when
+someone connects to one of our computers, our company is one of the
+parties, and therefore the company may record the conversation.
+
+>  For work-related calls I think
+>it's negotiatable, also at certain environments monitoring all calls
+>might be defensible (places with highly confidential information).
+
+Also where phone conversations are used to perform financial transactions
+(e.g. mail order houses, brokerage firms).  Without the phone, the
+transaction would have involved paper and signatures, which can be saved
+for verification purposes.  When the phone is used to conduct such
+business, recordings are often necessary to prove later on that a
+transaction took place.
+
+>  But what CERT is doing is
+>recommending unilateral announcement of "all users may be monitored
+>all the time", with no negotation and no negotiated policy of
+>watching/monitring only on "probable cause".
+
+My interpretation was that CERT was recommending that *if* you have a
+policy where you might monitor input, that you should put this warning in a
+login banner.  They were not advising for or against the monitoring policy
+itself, nor specifying a particular justification for monitoring any given
+conversation.  They were simply acknowledging that such monitoring takes
+place, and advising how to reduce legal liability in such cases.
+
+Is that really so bad?
+-- 
+Barry Margolin
+System Manager, Thinking Machines Corp.
+
+barmar@think.com          {uunet,harvard}!think!barmar
+
+
+------------------------------
+
+From caf-talk Caf Jan  4 23:56:16 1993
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty
+From: mnemonic@eff.org (Mike Godwin)
+Subject: Article 3--Re: Boycotting CERT because of the keystroke monitoring advisory?
+Message-ID: <1993Jan5.045608.13381@eff.org>
+Date: Tue, 5 Jan 1993 04:56:08 GMT
+
+In article <1ib0grINNhq3@early-bird.think.com> barmar@think.com (Barry Margolin) writes:
+
+>We passed the CERT advisory on to our company lawyer.  His opinion is that
+>the warning notice is unnecessary.  The warning is based on wiretapping
+>statutes, which do not require a warning if the recording is being
+>performed by one of the parties to the conversation.  He believes that when
+>someone connects to one of our computers, our company is one of the
+>parties, and therefore the company may record the conversation.
+
+Barry, I think your company lawyer has made a mistake. Assuming that you're
+talking about tapping a phone conversation in Massachusetts, the law of the
+commonwealth bars this kind of conduct, even though federal law does not.
+The only way around this is if there is some reason to believe that a
+computer-based conversation would be treated differently from a more
+traditional phone tap, and I'm unaware of such a distinction.
+
+Note: whenever one is determining the legality of a wiretap (or
+equivalent), one must consult both federal and state law. State law is
+often more restrictive.
+
+
+--Mike
+
+
+
+
+-- 
+Mike Godwin,    |"I'm waiting for the one-man revolution
+mnemonic@eff.org| The only one that's coming."
+(617) 864-0665  |                           
+EFF, Cambridge  |                   --Robert Frost 
+
+
+------------------------------
+
+From caf-talk Caf Jan  5 21:30:45 1993
+From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty
+Subject: Article 4--Re: Boycotting CERT because of the keystroke monitoring advisory?
+Message-ID: <1993Jan6.005425.3318@nntp.hut.fi>
+Date: 6 Jan 93 00:54:25 GMT
+
+In article <1id4usINNap1@early-bird.think.com>, barmar@think (Barry Margolin) writes:
+>That's a silly interpretation.  The only purpose of the warning is to get
+>the people monitoring off the hook if the monitoree complains about
+>invasion of his privacy.  Why would anyone who has no plans to monitor
+>keystrokes need to warn that they do?
+
+To reserve the right to monitor in case the need arises, for example.
+
+A recommendation that everyone should do this, if implemented, has the
+effect of "setting a trend" that monitoring is acceptable and a
+routine procedure.  I think such a trend needs to be fought against.
+
+(The need for monitoring might arise for example in the case an
+amendment is made to the drug-free workplace requirements that every
+session and file needs to be grepped for the keywords "joint", "drug",
+"hash", "trip" and such and the matching sessions/files forwarded to
+the appropriate drug councelors and authorities.)
+
+//Jyrki
+
+
+------------------------------
+
+From caf-talk Caf Jan  5 01:13:29 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: TK0JUT1@NIU.bitnet (Jim Thomas                   , tk0jut1@niu.bitnet)
+Subject: Article 5--Question on sexual harassment
+Message-ID: <199301050613.AA14182@eff.org>
+Date: Tue, 5 Jan 1993 06:12:00 GMT
+
+The past discussions of electronic sexual harassment were
+informative, but perhaps somebody could expand on an answer to the
+following question:
+
+What recourse would a woman have if a hostile adult (over 21)
+distributed a gif file (a look-alike image, not a photographic
+one) of an approximation of her nude, on her back, in a
+spread-legged position and made it explicitly clear that the
+graphic intended to be this woman, both by physical features and
+by labelling?
+
+If the person claimed to be developing such a program, perhaps
+embedded in a virus program, under university auspices, would this
+violate most sexual harassment codes if it were distributed on
+BBSes (rather than on Usenet)? If he informed the woman of the
+program via internet from a university account, could this be
+grounds to invoke university response? (assume that the male and
+female live in separate states and that the female is unaffiliated
+with the university).
+
+What options might a woman have in such a case?
+
+Jim Thomas
+
+
+------------------------------
+
+From caf-talk Caf Jan  5 12:52:33 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: U15289@UICVM.UIC.EDU
+Subject: Article 6--Re: Question on sexual harassment
+Message-ID: <199301051752.AA13842@eff.org>
+Date: Tue, 5 Jan 1993 17:25:17 GMT
+
+WRT Jim Thomas' hypothetical on a fabricated pornographic GIF of an actual
+woman:  it might be actionable as a reputational tort (slander, libel) or as a
+privacy tort (presentation in a false light).  Both the GIF itself, and the
+associated communications to the woman depicted, might or might not violate
+internal regulations of the university computer center regarding prohibited
+uses of the system.  (The dissemination of viruses, _per se_, would probably
+constitute such a violation, as would the use of email and/or other aspects
+of the net for purposes of personal harassment, assuming that the actions in
+question were held to be that.)
+
+Intuitively, however, I do not think that any of this fits the commonly used,
+formal definition of sexual harassment, however offensive the woman in question
+may happen to find it.  For one thing, the fact that the woman is non-universi-
+ty, in itself, takes it out of the reach of university regulations on sexual
+harassment; by the same token, the creator of the GIF would probably be outside
+the jurisdiction of the in-house regulations of any other place where its
+circulation might have the practical effect of rendering the environment host-
+ile for the woman.
+
+                                              Mitch Pravatiner
+                                              U15289@uicvm.uic.edu
+                                              (not licensed to practice law)
+
+
+------------------------------
+
+From caf-talk Caf Jan  7 09:55:20 1993
+Newsgroups: news.admin.policy
+Subject: Article 7--Babak Sehari postings -- iastate.edu is dealing
+Date: 5 Jan 1993 17:06:30 GMT
+Message-ID: <1icf6mINN8r7@senator-bedfellow.MIT.EDU>
+
+The poster flooding the net with copies of the same message in every newsgroup
+is being dealt with.  When I started seeing the messages, I sent mail to the
+News administrator at his site asking for something to be done about it, and I
+just got back this mail message (which I consider OK to post since it's a form
+letter that was sent out to anyone who wrote to the news administrator of the
+site about the problem):
+
+-----
+
+>Date: Tue, 5 Jan 93 10:33:06 -0600
+>From: skunz@news.iastate.edu (Steven L. Kunz)
+>To: jik@pit-manager.mit.edu
+>Subject: Babak Sehari postings
+
+Network News User:
+
+Regarding the "junk mail" type of postings that have originated from
+news.iastate.edu from a user named "Babak Sehari" ...
+
+Mr. Sehari has apparently automated his posting process and is posting his
+article to a large selection of newsgroups (including ALL local and regional
+ones) from a variety of systems on our campus.  This matter has been turned
+over to the ISU Computation Center administrator in charge of handling
+perceived abuse of computer or network facilities at Iowa State University.
+
+Please forgive the "form letter" format of this reply.  I have received many
+email complaints as Usenet News admin on this matter (as has our local
+"postmaster" for this site).
+
+---
+Steven L. Kunz
+Networked Applications | Usenet News Admin.
+Iowa State University Computation Center, Iowa State University, Ames  IA
+INET: skunz@iastate.edu     BITNET: gr.slk@isumvs.bitnet
+
+-----
+
+-- 
+Jonathan Kamens                                         jik@MIT.Edu
+Aktis, Inc.                                 Moderator, news.answers
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Jan  7 16:12:13 1993
+Newsgroups: alt.comp.acad-freedom.talk,news.admin.policy,news.admin.misc
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 8--Iowa State U. Code of Computer Ethics (was Re: Babak Sehari ...)
+Message-ID: <1993Jan7.211206.27268@eff.org>
+Date: Thu, 7 Jan 1993 21:12:06 GMT
+
+[The version of the policy that I quoted was out of date. Here is
+the current version.]
+
+-------------------- ISU computer ethics document ------------------
+ 
+    Iowa State University endorses the following statement of Software
+  and Intellectual Rights that was developed through EDUCOM, a non-profit
+  consortium of colleges and universities committed to the use and
+  management of information technology in higher education.
+ 
+         "Respect for intellectual labor and creativity is vital to
+       academic discourse and enterprise.  This principle applies to
+       works of all authors and publishers in all media.  It encom-
+       passes respect for the right to acknowledgment, right to
+       privacy, and right to determine the form, manner, and terms of
+       publication and distribution.
+ 
+         "Because electronic information is volatile and easily
+       reproduced, respect for the work and personal expression of
+       others is especially critical in computer environments.
+       Violations of authorial integrity, including plagiarism,
+       invasion of privacy, unauthorized access, and trade secret and
+       copyright violations, may be grounds for sanctions against
+       members of the academic community."
+ 
+    The above statement provides a guide for the ethical use of computer
+  facilities whether one is using a microcomputer, minicomputer, mainframe
+  computer or supercomputer, or computer network, and whether the computer
+  files, programs, or data are stored on floppy disk, hard disk, magnetic
+  tape, or other storage media.  Computer facilities and files owned by
+  others should be used or accessed only with the owner's permission.
+ 
+    Viewing or using another person's computer files, programs or data
+  without authorized permission is unethical behavior and an invasion of
+  that person's privacy.  Such behavior, if used for personal gain, is
+  plagiarism.  Ethical standards apply even when material appears to be
+  legally unprotected.  Improper use of copyrighted material may be
+  illegal.
+ 
+    The following guidelines govern ethical computer use at Iowa State
+  University:
+ 
+    #  Unauthorized access to restricted data bases is unethical.
+ 
+    #  Use of computer facilities by an individual must be authorized by
+       the owner or administrative unit.  Prior permission to use another
+       user's computer account or user-id must be acquired from the owner
+       of the account, who is responsible for its use.  Changing another
+       person's password is considered a form of harassment and is
+       unethical behavior.
+ 
+    #  Users are responsible for their use of computer hardware, accounts
+       and user-ids.  These should be used only for the stated purpose;
+       e.g., instructional class accounts must be used only to support the
+       given courses.  University computer facilities are not to be used
+       for private monetary gain unless specifically authorized for such
+       use.
+ 
+    #  Users must not browse, access, copy or change private files without
+       authorization, or change public files without authorization.
+       Users must not attempt to modify the computer systems or software
+       in any unauthorized manner.  The use of invasive software, such as
+       "worms" and "viruses" destructive to computer systems, is unethical
+       and illegal.  Copyrighted software must only be used in accordance
+       with its license or purchase agreement.  Users do not have the
+       right to receive and/or use unauthorized copies of software, or
+       make unauthorized copies of software for themselves or others.
+ 
+    #  University computing facilities are a valuable resource for
+       University use and they should be conserved.  Users should properly
+       utilize these resources to minimize any unnecessary impact of their
+       work on others, for example, users should avoid excessive game playing.
+ 
+    #  ISU policies regarding the appropriate use of university facilities
+       and the ethics of personal behavior apply to the use of all forms of
+       electronic communication.  In addition, users of any electronic
+       communication facilities, such as electronic mail, networks, bulletin
+       boards and newsgroups, are obligated to comply with the restrictions
+       and acceptable practices established for those specific facilities.
+       Certain types of communications are expressly forbidden.  This includes
+       the random mailing of messages; the sending of obscene, harassing, or
+       threatening material; or the use of the facilities for commercial or
+       political purposes.
+ 
+    #  Hardware, software, manuals, supplies, etc., must not be removed
+       from computing sites without proper authorization.
+ 
+    #  Abuse or misuse of any computer hardware or software will be
+       regarded as illegal and/or unethical behavior.
+ 
+    Violations of the University Code of Computer Ethics are treated like
+  any other ethical violation as outlined in the Student Handbook and
+  applicable faculty and staff handbooks.   Violators may also be billed
+  for illegal use of the computer systems and may be prosecuted for
+  statutory violations, including Chapter 716A, Computer Crime, of the
+  Iowa Code.
+ 
+                         #########################
+                Copyright (c) 1992 by Iowa State University
+ 
+  Permission to reproduce all or part of this document for noncommercial
+  purposes is granted, provided the author and Iowa State University are
+  given credit.  To copy otherwise requires specific permission.
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Jan  5 16:57:20 1993
+Newsgroups: alt.comp.acad-freedom.talk
+From: edsall@iastate.edu (David M Edsall)
+Subject: Article 9--Developments at ISU
+Message-ID: <edsall.726270828@pv7411.vincent.iastate.edu>
+Date: Tue, 5 Jan 1993 21:53:48 GMT
+
+
+
+  For those of you following the ISU USENET censorship issue:
+
+
+
+
+   I have been informed by Doug Houghton that the University wishes to pursue
+our original idea of full feed/no feed accompanied by a user responsibility
+registration process. This decision was arrived at during a meeting between
+the new Provost, Doug, George Strawn, Reid Crawford and Nancy Eaton two weeks
+ago. I was told that Dr. Strawn agreed to present this info to SEF. What is
+necessary is the following:
+
+
+   (a) Software ( which we have written already ) to deal with user
+       registration
+
+   (b) The disclaimer to be presented to the prospective reader online, which
+       will be drafted by the University in conjunction with the State Attorney
+       General's office for legal interpretations and SEF ( depending on who
+       you talk to, see below for more info ). The final approval would rest
+       with the Attorney General and the university administration. The
+       document would contain proper wording and examples to inform the user
+       of their rights and responsibilities.
+
+
+   I attempted to follow this up by a visit with the provost but was denied an
+audience. It was suggested that I talk to Reid Crawford instead. In speaking
+with Reid, I was told the same thing that Doug had told me with the exception
+of the fact that SEF would NOT be given the power to approve or disapprove of
+the final wording of the document. I was told that as an ad hoc group we had
+an *impact* on what has happened but that we have no real power.
+
+
+   Rather than wait for Dr. Strawn to see us, I decided to see him and did so
+this afternoon along with Rodney Schuler. We were told once again what Doug
+had told me earlier but in contradiction to what Reid said and in agreement
+with what Doug said, we were told that SEF *would* have a voice in the final
+decision, i.e. it would be a decision to which all parties would need to
+agree.  Dr. Strawn told us that a committee had been established to determine
+the viability of our software and which would also propose their own software.
+In addition, we were told that we would need to draft our own version of the
+disclaimer. Mike Godwin of EFF has already been contacted and I presume he is
+working on a copy now. I gave him Reid Crawford's number and address and I
+suggested the same to Reid. The two intend to communicate on this issue. Reid
+will provide a copy of his version to EFF to critique and EFF will provide a
+version to Reid for the same purpose.
+
+
+   Dr. Strawn agreed with us that it is necessary to begin moving on this. The
+sooner we had everything in place, the sooner a decision can be reached,
+hopefully by this semester. We have agreed to try to have enough ready for a
+meeting by the first week of classes this semester so that all interested
+parties may comment.
+
+
+
+
+    The SEF meeting:
+
+
+    The following was decided at the January 4 SEF meeting but will not be
+ratified until voted upon (a vote to be taken electronically due to time
+constraints and geographical limitations of members ):
+
+
+    The following is the procedure by which the "buck will be passed" for
+ANYONE wishing access to the ISU news servers ( such as news.iastate.edu ).
+Individual Project Vincent sysop's, the VAX sysops and the HDS sysops and the
+Comp Center will NOT be given the option to choose full feed or no feed. If
+you wish to use the service, you agree to the following:
+
+
+   (1) All "trusted" machines get a full feed by default
+   (2) A trusted machine is one of:
+
+       a) A single user machine in a "secure" area where the owner of said
+          machine takes full responsibility for any illegal use
+          Example: PC running a news client wishing access to ISU news servers
+
+       b) A multi-user machine which provides a user authentication and a
+          user-based news reading registration method. If this is not the case
+          and the applicant for the service claims that it is, full
+          responsibility for an illegalities then rests with the applicant.
+          Otherwise, it rests with the users registered. If the ISU news
+          servers are being used in such an environment, the applicant is to
+          be required to use the ISU disclaimer mentioned above in their
+          user news-reading registration process.
+
+    Since the software has been written for PV and Vax platforms, these
+machines are already "trusted" machines provided the software is approved and
+thus 2-b is satisfied. 2 was added an decided upon by SEF this evening in 
+order to accomodate possible future expansions in ISU computational
+technologies. 
+
+   Thus, the user is authenticated by the host and the host is "trusted" by
+the news servers. In this way, the users are allowed access to a full feed.
+Authentication of the user is provided if the user has accepted the terms of
+the disclaimer.
+
+
+   What needs to be done by YOU is the following:
+
+
+
+   If you agree to the above send a YES to edsall@iastate.edu in the Subject
+line. If you disagree send a NO. If you have suggestions, post them or send
+them to cuffed@iastate.edu
+
+
+    We need to push hard and make ourselves heard if we wish to get what we
+have worked so hard for. The end is in sight but we need to continue working.
+We need to keep an eye on the administration and make sure they listen and if
+they don't, embarrass them until they do. It is this embarassment that has
+gotten us this far. We need publicity. We plan to invite the Daily to the
+meeting later this month and announce this tentative agreement. If we agree to
+the above, we need to make sure that the "trusted host" scheme is NOT used to
+reinstate a set of exclusive feeds such as we have now. Most importantly, we
+need PEOPLE. Get more people involved and show them what we have accomplished.
+Finally, we need to stay cool and watch our asses. It isn't over till we have
+it in writing, folks.
+   Rodney Schuler has agreed to act as a liason with the admins until replaced
+by an SEF suggestion. Dave Buckley will be our contact with EFF until
+replaced.Me, I'm going back to Europe Thursday and wish you all the luck in
+the world.  You deserve this.
+
+
+  
+    Dave
+
+
+
+-- 
+   ***    ----         +--------------------------+---------------------------+
+  '0   *`  e+          |David M. Edsall           |         INTERNET:         |
+< _*/  *`          \   |Research Assistant        |      edsall@cern.ch       |
+    `*  *`             |CERN DELPHI Collaboration |  BITNET: edsall@cernvm    |
+      `* *`     /      |Ames Group               \|/ HEPNET: vxcrna::edsall   |
+  |    `*-*-****|    | +--------------------------+---------------------------+
+                \      |PPE Division  CERN       /|\    "Gravity is not       |
+                       |CH-1211 Geneve 23         |  responsible for people   |
+    \              /   |Switzerland               |      falling in love"     |
+           e-          |Voice: 767-8345           |   - "Big Al" Einstein -   |
+          ---          +--------------------------+---------------------------+
+
+
+------------------------------
+
+From caf-talk Caf Jan  7 17:35:09 1993
+Newsgroups: soc.culture.indian,soc.culture.pakistan
+Subject: Article 10--Hi there fella ! (RE: STOP OBSCENE POSTINGS, FINAL WARNING !!)
+Message-ID: <1993Jan7.123230.46188@kuhub.cc.ukans.edu>
+Date: 7 Jan 93 12:32:29 CST
+
+In article <1igt67INN1ec@aludra.usc.edu>, moinuddi@usc.edu (Asif Moinuddin) 
+writes:
+> ************************************************************************
+> 
+> 	This is an execllent idea proposed by D.Pereira to maintain the
+> sanity of this elctronic media. Surely, one can express the difference
+> of opinions. Most of us seem to have no stuff to say, hence the cheap
+> attempt to gain publicity through obscene postings. 
+> 
+> 	Every reader has a right to write to system administrator against
+> obscene postings who will take the necessary disciplinary actions. Please,
+> post the following memo periodically to prevent future obscene postings.
+> 
+> 	Although the desi community in US is supposed to be highly educated,
+> these kinds of postings do not reflect that AND MORE IMPORTANTLY
+> DEMEANS SUCH A USEFUL MEDIUM FROM REALLY SERVING AS FORUM OF OF MEANINGFUL
+> DISCUSSIONS.
+> 
+> 
+> 				MEMO
+>                                *********
+> 				
+> 
+> TO ALL	who post *really* obscene and offensive material
+> 
+> FROM:	D. Pereira and others,
+> 	Indignant and frustrated readers
+> 
+> REF:	DEADLINE TO STOP POSTING OFFENSIVE OR RACIST MATERIAL ON 
+> 	SOC.CULTURE.INDIAN
+> 
+> 
+> After Tuesday, January 5, 1992 at midnight, if I see *any* postings or replies
+> to postings that are offensive, racist or intolerable to me, I will forward 
+> copies to your respective system administrators, who will then decide what 
+> action, if any, to take against you.  In effect, it will be your sys ads who 
+> will then determine if the material is unsuitable for public medium, not me.
+> He/she may then decide whether you should be denied write access to USENET or
+> be further penalized. (Some of the postings seen recently may even be used as
+> evidence for civil/criminal litigation.)
+> 
+> If any other sci readers out there decide to support this action, then please
+> express your opinion.  A suggestion: extract this memo and post it again under
+> your own name.  Do please take the effort to type the SUBJECT heading over,
+> rather then doing a REPLY.  This way you will convey to the offenders that you
+> feel as strongly about this.
+> 
+> A final note to the persons mentioned above - please take this very seriously.
+> It is NOT a joke.
+> 
+> 
+> 
+     My Dear Asif Moinuddin:
+
+ 
+     Thanks for your "puritan" expletives. I must say that your naiveness
+     knows no bounds. Please go and read the Bill of Rights and the 1st
+     Amendment. There is something called Freedom of Expression (Speech).
+     Go see a lawyer and try to find out what I am saying. FYI, I did make
+     an enquiry about what can I post thru' both legal agencies and the
+     Ombudsperson plus Sys. Admin. They only told me that *it might be good
+     if I was decent* - but no one cannot force upon you what you should
+     write. That would be clear violation of what U.S laws exactly offer.
+
+    Therefore, without going into pedantic moorings with a "mullah" (pun)
+    like yourself, I would say that if there is *anything* ever against
+    my friends, I shall ask them to take the legal route - because it is
+    extremely prohibitive to choke someone's freedom. This matter can be
+    settled with the ombudspersons in respective universities. Moreover,
+    as you have stated - that in U.S one must respect one's Freedom of
+    Expression. (Writing to my sys. admin. *will not* help because I had
+    a lengthy discussion with him on the proceedures for posting.)
+
+    I admit that of late U of Kansas, Colorado School of Mines has been 
+    getting bad press. However, this can be stopped only by two ways -
+    (1) Listening to what I have to say, and, (2) use a KILL file.
+    You cannot argue that you do not have the freedom of ignoring an offensive
+    post. (That would be a baloney). Use KILL files, or, better still press "N".
+
+    - I think that you already knew that, but, probably you forgot ---
+
+          deb chatterjee
+        (a good samaritan)
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Jan  7 22:22:13 1993
+From: fischer@iesd.auc.dk (Lars Peter Fischer)
+Newsgroups: alt.psychology.personality,comp.misc,sci.psychology,alt.comp.acad-freedom.talk,comp.security.misc
+Subject: Article 11--Re: REPOST of Hacker Personality Characteristics
+Message-ID: <FISCHER.93Jan8040612@orange.iesd.auc.dk>
+Date: 8 Jan 93 03:06:12 GMT
+
+
+>>>>> "Paul" == Paul Dokas (pbd@runyon.cim.cdc.com)
+
+
+Paul> The Jargon file is available in ftp.uu.net:/packages/gnu/jargon*
+Paul> The New Hacker's Dictionary can be found in the computer section
+Paul> of better bookstores.
+
+Paul> [IMHO, TNHD is well worth the ~$12]
+
+Definitely. It's much more fun browsing a book. Heck, the cartoons by
+The Great Quux is well worth the price alone.
+
+/Lars
+--
+Lars Fischer, fischer@iesd.auc.dk | It takes an uncommon mind to think of
+CS Dept., Aalborg Univ., DENMARK. | these things.  -- Calvin
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

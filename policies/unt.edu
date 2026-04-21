@@ -1,0 +1,464 @@
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject:  University of North Texas Computer Policy
+Message-ID: <9211292125.AA01321@herodotus.cs.uiuc.edu>
+Date: Sun, 29 Nov 1992 09:25:42 GMT
+
+
+[Reference: gopher -p "1/UNT Procedures & Policies" gopher.unt.edu]
+
+               COMPUTER RESOURCES SECURITY POLICY
+
+ 1.  PURPOSE:
+
+     The purpose of this document is to:
+
+        * Establish policy for the protection of University
+          computer resources;
+
+        * Assign general responsibility for establishing,
+          implementing, and administering security policies,
+          standards, and procedures; and
+
+        * Establish the associated sanctions for loss,
+          corruption, misuse and/or unauthorized disclosure of
+          University computer resources.
+
+
+ 2.  SCOPE:
+
+     This policy applies to:
+
+        * centrally administered computer systems, departmental
+          computer systems, and personal computers, including all
+          means of accessing the preceding;
+
+        * all computerized institutional data regardless of the
+          office in which it resides or the format in which it is
+          used;
+
+        * any and all users of University computer resources; and
+
+        * all aspects of computer resource security including,
+          but not limited to, accidental or unauthorized
+          destruction, disclosure, misuse, or modification of or
+          access to University computer resources.
+
+     In addition to or in lieu of the above:
+
+        * Use of computer resources which are entrusted to the
+          University by other organizations (e.g., foundations
+          and government agencies) is governed by the terms and
+          conditions agreed upon with those organizations.
+
+        * Use of copyrighted data, software, and materials is
+          governed by the terms and conditions of the copyright.
+
+        * Use of external resources accessed via University
+          computer resources is subject to the guidelines of
+          those external resources.        * All use of University computer resources is subject to
+          federal and state regulations and laws, including, but
+          not limited to:
+
+             * the Texas Computer Crimes Statute (Section 1,
+               Title 7, Chapter 33 of the Texas Penal Code);
+             * Federal Copyright Law, Title 17, Section 117; and
+             * the Family Educational Rights and Privacy Act of
+               1974.
+
+        * Use of University computer resources is subject to all
+          other applicable University policies.
+
+
+ 3.  DEFINITION OF TERMS:
+
+    3.1.  Computerized institutional data - Data owned by the
+          University and used to conduct University business,
+          which is captured, stored, maintained, and/or accessed
+          using University computer systems, including all forms
+          of machine-readable data produced using University
+          computer systems.
+
+    3.2.  Computer hardware assets - Any and all equipment
+          involved in the operation of a computer system,
+          including, but not limited to, computers, data
+          communications equipment, workstations, and various
+          peripherals such as printers and plotters.
+
+    3.3.  Computer software assets - Any and all programs
+          involved in the operation of a computer system,
+          including, but not limited to, operating systems, data
+          communications software, data base management systems,
+          and applications software.
+
+    3.4.  University computer resources - any and all
+          computerized institutional data, computer hardware
+          assets, and computer software assets owned or licensed
+          by the University.
+
+    3.5.  Centrally administered computer system - a computer
+          system, including the supporting data communications
+          network, used for capturing, storing, maintaining, and
+          accessing computerized institutional data under the
+          direct management of the Computing Center.  This
+          includes campus-wide data communications networks such
+          as the broadband and fiber optics networks which span
+          departmental computer systems.
+    3.6.  Departmental computer system - any computer system,
+          including the supporting data communications network,
+          not under the direct management of the Computing Center
+          which contains multiple workstations connected by some
+          type of data communications network, including, but not
+          limited to, departmental minicomputers and the common
+          resources of local area networks (LANs), such as file,
+          database, and print servers, but not including personal
+          computers which can also be used as standalone
+          workstations.
+
+    3.7.  Personal computer - a microcomputer which may be used
+          as a standalone device and/or a workstation on a
+          network.
+
+    3.8.  Computer installation - the department responsible for
+          the operation of a computer system, that is, a
+          University office that maintains computer hardware,
+          software, and services for capturing, storing,
+          maintaining, and accessing computerized institutional
+          data.  The Computing Center is the computer
+          installation for centrally administered computer
+          systems.  The department which owns a departmental
+          computer system is that system's computer installation.
+          
+    3.9.  Workstation - any device capable of receiving data from
+          or transmitting data to a computer system.
+
+    3.10. Administrative application - a specialized automated
+          system used by an office/ department for administrative
+          purposes.  It does not include software tools for
+          microcomputers such as word processing, data base, and
+          spreadsheet software, but does include specialized
+          administrative applications developed using these tools
+          to capture, store, maintain, and/or access computerized
+          institutional data.
+
+    3.11. Data/application steward - The individual(s)
+          responsible for establishing the rights to access
+          specific data elements, a file and/or application.  In
+          this document data steward applies to stewardship of
+          data elements and/or files and application steward
+          applies to stewardship of applications.
+
+    3.12. Data custodian - A person who has de facto control over
+          access to computerized institutional data regardless of
+          medium.  In other words, a person who has a copy of a
+          report is a custodian of the data on that report.  A
+          person who has a copy of data on a diskette is
+          custodian of the data on that diskette.
+    3.13. Computer resources guardian - The person charged with
+          enforcement of security policies and procedures for the
+          computer installation.
+
+    3.14. Computer resources security committee - The committee
+          assigned the responsibility to review policy
+          recommendations for computer resources security for
+          University computer installations.
+
+    3.14. Computer resources security coordinator - A person in
+          the Computing Center (the Associate Vice President for
+          Computing or his/her designee) assigned the
+          responsibility for the formulation of computer security
+          procedures for the centrally administered computer
+          system and for the coordination of procedures for the
+          departmental computer systems and personal computers.
+
+
+ 4.  GENERAL POLICY STATEMENTS:
+
+    4.1.  University computer resources -- general:
+
+            *  University computer resources shall be used solely
+               for legitimate University-related purposes.
+
+            *  University computer resources may not be
+               transported without appropriate authorization.
+
+            *  University security measures must take into
+               account local, state, and federal reporting and
+               auditing requirements, as well as provisions to
+               eliminate, as far as is feasible, the incidence of
+               theft, fraud, destruction, or other abuses of the
+               University computer resources.
+
+            *  Violations or suspected violations of computer
+               measures or controls must be reported at once to
+               management and/or those responsible for computer
+               security.
+
+    4.2.  Access to University computer resources:
+
+            *  Access to University computer resources is
+               considered a privilege granted by the University. 
+               Users of University computer resources must not
+               abuse or allow others to abuse their access to
+               University computer resources.
+
+            *  Access to the University computer resource of any
+               computer installation must be approved by the
+               management of that computer installation.
+
+            *  All individuals authorized to use University
+               computer resources are responsible for all usage
+               of their logon access and should keep their
+               passwords confidential to protect University
+               computer resources.
+
+            *  Users may not access University computer resources
+               without appropriate authorization and then only
+               for the purposes for which their access is
+               authorized.
+
+            *  Any attempt to access or to assist in the access
+               of University computer resources via an
+               unauthorized means is a violation of this policy
+               and may subject the perpetrator(s) to sanctions
+               hereunder.
+
+    4.3.  Computerized institutional data:
+
+            *  All computerized institutional data is considered
+               to be an asset of the University and shall be
+               protected from loss, corruption, misuse, and
+               inappropriate disclosure.
+
+            *  Certain computerized institutional data, by law,
+               is confidential and may not be released.  Other
+               computerized institutional data, by University
+               policy, is confidential and likewise may not be
+               released.  Users of University computer resources
+               are responsible for the protection, privacy and
+               control of all data, regardless of the data
+               storage medium.
+
+    4.4.  Copying of computer software, data, and manuals:
+
+            *  Computer software, computer data, and/or software
+               manuals may not be copied or transmitted
+               electronically without appropriate prior consent.
+
+            *  Computer installations will take appropriate and
+               reasonable steps to inhibit attempts to obtain
+               unauthorized copies of computer software, computer
+               data, and/or software manuals.
+
+
+ 5.  GENERAL RESPONSIBILITIES:
+
+    5.1.  Information Resources Council
+
+       a. The Information Resources Council will review and make
+          recommendations to the Information Resources Steering
+          Committee concerning proposed changes to this policy.       b. The Information Resources Council will have the
+          authority to adopt a set of standards to implement this
+          policy and to approve changes to that set of standards. 
+          These standards will be subject to review by the
+          Information Resources Steering Committee.
+
+    5.2.  Standing Computer Resources Security Committee
+
+       a. The Chairman of the Information Resources Council will
+          appoint a Computer Resources Security Committee to be
+          chaired by a member of and reporting to the Information
+          Resources Council.  The committee membership should
+          include representatives of the major areas of the
+          University.  The committee membership should include as
+          ex-officio members the Computer Resources Security
+          Coordinator and other persons who are knowledgeable of
+          the various computer hardware and software platforms
+          used by the University.
+
+       b. The Computer Resources Security Committee will:
+
+            1. Serve as a forum for the exchange of security
+               information.
+
+            2. Promote discussion of possible computer security
+               policies and procedures.
+
+            3. Make recommendations to the Information Resources
+               Council regarding security issues.
+
+    5.3.  Computer Resources Security Coordinator
+
+       a. The Associate Vice President for Computing or his/her
+          designee will function as computer resources security
+          coordinator for the University.
+
+       b. Among the responsibilities of the Computer Resource
+          Security Coordinator will be:
+
+            1. Ensuring that adequate security procedures,
+               including backup, disaster recovery, and
+               contingency planning, have been formulated for the
+               centrally administered computer systems.
+
+            2. Coordinating the implementation of security
+               procedures, including backup, disaster recovery,
+               and contingency planning, for the departmental
+               computer systems and personal computers.
+
+            3. Establishing mechanisms for monitoring compliance
+               with and violations of University computer
+               resource security policies and standards. 
+               Establish procedures for investigation, logging,
+               and management reporting and follow-up of access
+               violations.
+
+            4. Performing periodic risk assessments and security
+               audits of existing and proposed systems.
+
+            5. Overseeing the development and maintenance of a
+               comprehensive Computer Resource Security Policy
+               Manual to include security procedures to implement
+               University computer resource security policies and
+               standards.
+
+            6. Overseeing the development of training courses for
+               training employees in University computer resource
+               security policies, standards, and procedures.
+
+    5.4.  Department Heads
+
+       a. Department heads shall ensure that their departmental
+          computer systems follow University computer security
+          policies and standards.
+
+       b. Department heads shall ensure that all employees in
+          their department have access to this policy and are
+          familiar with its provisions.
+
+       c. Department heads shall ensure that employees of that
+          department are trained in security measures in their
+          use of University computer resources and that their
+          employees abide by University computer resource
+          policies and standards.
+
+       d. Department heads will take corrective action on
+          security violations within the department and will
+          report serious violations to the Computer Resources
+          Security Coordinator.
+
+       e. Department heads will ensure that computer resource
+          security responsibilities are included in the
+          performance evaluation criteria of appropriate
+          personnel, including the computer resource guardians,
+          data/application stewards, and data custodians.
+
+       f. Department heads will inform appropriate computer
+          resource guardians when employees have terminated so
+          that the terminated employee's access to University
+          computer resources may be disabled.
+
+       g. Department heads will identify data and/or application
+          stewards and computer resource guardians for their
+          departments.    5.5.  Data/Application Stewards
+
+       a. Data/application stewards shall establish the rights to
+          access specific data elements, files, and/or
+          administrative applications via University computer
+          resources.
+
+       b. Data/application stewards shall ensure that the access
+          rights they have designated are enforced by the
+          security mechanisms of the computer system(s) on which
+          the data resides.
+
+       c. Data stewards shall establish the guidelines for
+          dissemination of the data on machine- and human-
+          readable forms within their purview of responsibility
+          and within the context of University policy and State
+          and federal regulations and laws.
+
+    5.6.  Data Custodian
+
+          Data custodians shall ensure that any computerized
+          institutional data in their custody, whether in
+          machine- or human-readable form, is disseminated and/or
+          disclosed in accordance with University policy and the
+          guidelines established by the data steward.
+
+    5.7.  Computer Resource Guardians
+
+       a. Computer resource guardians shall ensure that
+          procedures are put in place for the computer
+          installation to implement University computer resource
+          policies and standards.
+
+       b. Computer resource guardians shall ensure that, if
+          possible, the process by which a user accesses the
+          resources of their computer installation displays a
+          message advising users of their responsibility to
+          comply with the provisions of this policy.
+
+       c. Computer resource guardians are responsible to enforce
+          compliance with provisions of licensing agreements and
+          other computer resource contracts for the computer
+          installation.
+
+    5.8.  Individual Employees/Students
+
+       a. All individuals, whether faculty/staff employees or
+          students, may be required to sign a confidentiality
+          agreement upon receiving the privilege of using
+          University computer resources.       b. All individuals must comply with University computer
+          resource policies and standards.
+
+       c. All individuals authorized to use University computer
+          resources are responsible for all usage of their logon
+          access and should keep their passwords confidential to
+          protect University computer resources.
+
+       d. All individuals who use wide-area network services
+          (such as BITNET or the Internet) provided via
+          University computer resources shall abide by the
+          policies of those networks.
+
+       e. All individuals shall not attempt to access University
+          computer resources for which they have no
+          authorization.
+
+
+ 6. SANCTIONS:
+
+    6.1.  Penalties for violation of this policy range from loss
+          of computer resource usage privileges to dismissal from
+          the University, prosecution, and/or civil action.  Each
+          case will be determined separately on its merits. 
+          Referrals for legal action will be made through the
+          Office of the General Counsel.
+
+    6.2.  If the offender is a faculty member, his or her
+          supervisor (usually the department chair) shall
+          initially recommend to the dean and thereafter to the
+          Provost the appropriate sanction.  When termination is
+          recommended, the faculty member may appeal to the
+          University Review Committee or to the University Tenure
+          Committee, whichever is appropriate per the University
+          of North Texas Faculty Handbook.
+
+    6.3.  If the offender is a staff member, the procedures to be
+          followed are those specified in the "Discipline and
+          Discharge Policy" of the University of North Texas
+          Personnel Policy Manual.
+
+    6.4.  If the offender is a student, the procedures to be
+          followed are those specified in the "Code of Student
+          Conduct and Discipline" as printed in the University of
+          North Texas Student Guidebook.  If the student in
+          violation of this policy is also an employee of the
+          University, sanctions may include termination of
+          employment.
+
+ 
+
+
+

@@ -1,0 +1,548 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 5, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "The University of Nebraska's removal of alt.* newsgroups was debated as either an economic necessity or a form of censorship.",
+        "Iowa State University's ethics policy was criticized for prohibiting rude expression and political speech, which some argued violated academic freedom.",
+        "Cornell University counsel claimed the ECPA of 1986 did not apply to its email services because they were provided only to the Cornell community rather than the public."
+      ],
+      "organizations": [
+        "North Dakota State University",
+        "University of Nebraska",
+        "Nebraska University Students for Electronic Freedom",
+        "Cornell Communications and Information Technologies",
+        "Iowa State University",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Mark Sheehan",
+        "Carl M. Kadie",
+        "G. Pernul",
+        "G. Luef",
+        "Stuart Lynn"
+      ],
+      "summary": "This digest summarizes several disputes regarding computer use policies at universities, including the removal of alt.* newsgroups at the University of Nebraska and speech restrictions at Iowa State University. It also addresses legal and ethical debates over email privacy, postmaster access to messages, and the applicability of the Electronic Communications Privacy Act (ECPA) in university settings. The item highlights the tension between institutional resource management and academic freedom.",
+      "title": "Abstract of CAF-News 02.16",
+      "topics": [
+        "Usenet censorship",
+        "email privacy",
+        "university computer policy",
+        "academic freedom",
+        "ECPA"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "sheehan@bronze.ucs.indiana.edu (Mark Sheehan)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 0 -- Abstract of CAF-News 02.16",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-04-01",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Unauthorized access to files, usernames, or passwords is considered a violation of university policy",
+        "Obscene or offensive material is prohibited from being entered into the computer system",
+        "Commercial use of university systems requires written authorization from the Director of the Computer Center"
+      ],
+      "organizations": [
+        "North Dakota State University"
+      ],
+      "people": [
+        "Brian Abraham"
+      ],
+      "summary": "The item presents the official computer usage policy for North Dakota State University. It outlines prohibitions against unauthorized access to files, system degradation, obscene material, and copyright infringement. The policy specifies that violations are subject to student disciplinary procedures or employment sanctions.",
+      "title": "NDSU Policy on Misuse of Computer Facilities",
+      "topics": [
+        "acceptable use policy",
+        "computer ethics",
+        "institutional governance",
+        "academic discipline"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 1 Apr 1992 20:56:53 GMT",
+      "from": "NU025216@ndsuvm1.BITNET (Brian Abraham)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<199204012129.AA24760@ux1.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 1--Re: Computer Policy Statement",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1 Apr 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Censorship may be masquerading as cost-saving in the removal of alt.* newsgroups.",
+        "The benefit per dollar of Usenet access is high compared to other information sources."
+      ],
+      "organizations": [
+        "University of Nebraska",
+        "Wang Laboratories, Inc."
+      ],
+      "people": [
+        "Lee Story",
+        "Lawrence C. Foard",
+        "Michael P. Deignan"
+      ],
+      "summary": "Lee Story responds to a discussion regarding the University of Nebraska's decision to remove the alt.* Usenet hierarchy. Story argues that cost-saving justifications for removing these groups are often masks for censorship and suggests students would likely pay small fees to maintain access.",
+      "title": "Re: news story on U. of Nebraska alt.* removal",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "network costs",
+        "alt.* hierarchy"
+      ]
+    },
+    "identity": {
+      "date": "1 Apr 92 18:01:15",
+      "from": "lee@wang.com (Lee Story)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<LEE.92Apr1180115@meercat.wang.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 2--Re: news story on U. of Nebraska alt.* removal",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Apr 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Institutions are not obligated to provide a full news feed, but refusing student-funded hardware for that purpose may be a free speech issue.",
+        "Running a campus-wide Usenet feed for thousands of users requires significant investment in administration and hardware beyond just a basic machine.",
+        "The cost of setting up a dedicated news machine at a large institution can exceed $10,000."
+      ],
+      "organizations": [
+        "University of Nebraska",
+        "CERFnet",
+        "McGill University"
+      ],
+      "people": [
+        "Peter Deutsch",
+        "Lee Story"
+      ],
+      "summary": "Peter Deutsch discusses the tension between institutional funding and free speech regarding the removal of the alt.* Usenet hierarchy at the University of Nebraska. He argues that while institutions aren't obligated to fund news feeds, preventing students from self-funding their own access would constitute a free speech issue. He shares his personal experience managing an unsponsored Internet link at McGill University to illustrate the administrative and financial burdens of providing campus-wide access.",
+      "title": "Re: news story on U. of Nebraska alt.* removal",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "funding",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "3 Apr 92 01:33:30 GMT",
+      "from": "peterd@cc.mcgill.ca (Peter Deutsch)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1992Apr3.013330.23763@sifon.cc.mcgill.ca>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 3--Re: news story on U. of Nebraska alt.* removal",
+      "to_or_newsgroups": "comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "31 Mar 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Filtering newsgroups based on technical noise or size is a standard function of hierarchies.",
+        "Removing groups specifically to control content (e.g., removing rec.humor for being 'racist') constitutes censorship."
+      ],
+      "organizations": [
+        "University of Nebraska",
+        "ClariNet Communications Corp.",
+        "University of Waterloo"
+      ],
+      "people": [
+        "Brad Templeton"
+      ],
+      "summary": "Brad Templeton discusses the ethics and practicalities of Usenet newsgroup filtering at universities, specifically regarding the University of Nebraska's removal of 'alt.*' groups. He argues that removing large or noisy hierarchies for technical reasons is acceptable, whereas removals based on content control (censorship) are legitimate targets for protest.",
+      "title": "Article 4--Re: news story on U. of Nebraska alt.* removal",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "network administration",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "31 Mar 92 22:19:48 GMT",
+      "from": "brad@clarinet.com (Brad Templeton)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1992Mar31.221948.9349@clarinet.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 4--Re: news story on U. of Nebraska alt.* removal",
+      "to_or_newsgroups": "comp.org.eff.talk,unl.general,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 31, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "NUSEF sought to extend First Amendment rights specifically to computer and network systems.",
+        "The group positioned itself as a watchdog against university administration and the CRC."
+      ],
+      "organizations": [
+        "Nebraska University Students for Electronic Freedom",
+        "University of Nebraska-Lincoln (UNL)",
+        "Computing Resource Center (CRC)"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Dave Burchell",
+        "Lesli Thorn",
+        "Jim VandeVegt"
+      ],
+      "summary": "The Nebraska University Students for Electronic Freedom (NUSEF) adopted a Statement of Purpose to promote academic freedom and First Amendment rights on university computer systems. The group aimed to act as a watchdog over the Computing Resource Center (CRC) regarding privacy and administrative policies. Their goals included educating the community on electronic freedoms and broadening access to communication systems.",
+      "title": "Statement of Purpose: Nebraska University Students for Electronic Freedom",
+      "topics": [
+        "academic freedom",
+        "digital privacy",
+        "student activism",
+        "First Amendment",
+        "university computing policy"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 1 Apr 1992 19:27:01 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1992Apr1.192701.28737@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 5--Re: An Open Letter to UNL CRC: Removal of alt.*",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 31, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Under USC 18, service providers have the right to view mail in the course of providing communication services.",
+        "University officials charged with academic discipline may be considered 'law enforcement' for the purpose of divulging communications.",
+        "Owlnet policy explicitly warns users that no computer security system can absolutely prevent unauthorized access and that administrators can bypass file permissions."
+      ],
+      "organizations": [
+        "Rice University",
+        "Owlnet"
+      ],
+      "people": [
+        "Joseph A. Watters",
+        "simon alexander gregory"
+      ],
+      "summary": "Joseph A. Watters discusses the legal and ethical implications of email monitoring in U.S. academic environments, citing USC 18 regarding electronic communications. He provides examples of Rice University's Owlnet policies, which explicitly state that system administrators may access user files and emails for operational integrity or official university investigations into misconduct.",
+      "title": "Article 6--Re: EMAIL PRIVACY",
+      "topics": [
+        "email privacy",
+        "system administration",
+        "academic misconduct",
+        "US law",
+        "UNIX permissions"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 31 Mar 1992 00:00:38 GMT",
+      "from": "jaw@hawk.owlnet.rice.edu (Joseph A. Watters)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1992Mar31.000038.4435@rice.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 6--Re: EMAIL PRIVACY",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "31 Mar 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators should not restrict their own ability to access any data on their machines.",
+        "Technical necessity (e.g., debugging mail headers in VMS) justifies the administrative ability to view message bodies."
+      ],
+      "organizations": [],
+      "people": [
+        "Leonard J. Schmidt"
+      ],
+      "summary": "Leonard J. Schmidt argues that system administrators and postmasters should maintain the technical ability to access email bodies for debugging and system management purposes. He distinguishes between the ability to see a message body and the ability to understand its meaning, noting that encryption is an acceptable way for users to protect content. He cites specific technical limitations of DEC Vax/VMS systems where headers often appear in the message body as a practical justification for admin access.",
+      "title": "Article 7--RE: EMAIL PRIVACY (a side note)",
+      "topics": [
+        "email privacy",
+        "system administration",
+        "encryption",
+        "administrative access"
+      ]
+    },
+    "identity": {
+      "date": "31 Mar 92 17:53:56 GMT",
+      "from": "n13@krypton.Mankato.MSUS.EDU (Leonard J. Schmidt)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<N13.92Mar31115356@krypton.Mankato.MSUS.EDU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 7--RE: EMAIL PRIVACY (a side note)",
+      "to_or_newsgroups": "comp.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 1 Apr 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "It is generally not a crime or civil tort for a recipient to publish a private communication they received.",
+        "The author of a letter holds a 'common law copyright' in the exact expression, but this does not preclude fair use publication.",
+        "Quoting an administrator's email to protest unauthorized directory examination is considered protected fair use."
+      ],
+      "organizations": [
+        "Case Western Reserve University"
+      ],
+      "people": [
+        "Peter D. Junger",
+        "Ayudin Edguer",
+        "Carl Kadie",
+        "Mr. Willis"
+      ],
+      "summary": "Professor Peter D. Junger disputes a claim that publishing private emails without the sender's consent is illegal. He argues that recipients generally have the right to publish communications they receive and that quoting such messages to protest system administrator surveillance constitutes fair use.",
+      "title": "Article 8--Legality of quoting letters",
+      "topics": [
+        "email privacy",
+        "fair use",
+        "system administration",
+        "common law copyright",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 1 Apr 1992 13:42:27 GMT",
+      "from": "junger@gls47212.law.cwru.edu (Peter D. Junger)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<303@gls47212.law.cwru.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 8--Legality of quoting letters",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1 Apr 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Cornell's CIT used a program called 'sys$manager:spy' to track a student's logins without notification.",
+        "Cornell counsel argued that the ECPA of 1986 does not apply because they do not provide email services 'to the public'.",
+        "CIT administration claimed email is not private and should be treated as potentially public information."
+      ],
+      "organizations": [
+        "Cornell University",
+        "Communications and Information Technologies (CIT)",
+        "Cornell Daily Sun"
+      ],
+      "people": [
+        "Peter Wayner",
+        "Stuart Lynn",
+        "Randall Swanson"
+      ],
+      "summary": "Peter Wayner reports on a dispute at Cornell University involving the monitoring of a student's computer activity by Communications and Information Technologies (CIT). The incident involved the use of a program called 'sys$manager:spy' to notify administrators of a specific user's logins during an investigation into the MBDF virus. The discussion highlights conflicting views on email privacy and whether the Electronic Communications Privacy Act (ECPA) applies to university networks.",
+      "title": "Article 9--Re: News from Cornell...",
+      "topics": [
+        "surveillance",
+        "privacy",
+        "Electronic Communications Privacy Act",
+        "academic freedom",
+        "computer forensics"
+      ]
+    },
+    "identity": {
+      "date": "1 Apr 92 02:52:40 GMT",
+      "from": "wayner@cs.cornell.edu (Peter Wayner)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<1992Apr1.025240.17959@cs.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 9--Re: News from Cornell...",
+      "to_or_newsgroups": "comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 2, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Prohibiting rude expression or messages of a political nature on university computers violates academic freedom and the law.",
+        "Vague speech restrictions in university computer policies are consistently overturned by courts.",
+        "The UWM Post v. University of Wisconsin decision specifically addresses protected offensive expression via email."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "University of Illinois at Urbana-Champaign",
+        "EFF",
+        "ACLU"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Linda Hutchison"
+      ],
+      "summary": "Carl M. Kadie critiques a computer ethics policy at Iowa State University, arguing that its restrictions on 'rude' and 'political' expression violate academic freedom and the First Amendment. He advocates for wider user participation in policy formulation and references legal precedents regarding offensive expression via email. The post emphasizes that vague speech restrictions are often overturned by courts.",
+      "title": "Re: [info.labmgr] Ethics statement",
+      "topics": [
+        "academic freedom",
+        "computer ethics policies",
+        "free speech",
+        "email regulation",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 2 Apr 1992 17:46:25 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1992Apr2.174625.23219@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 10--Re: [info.labmgr] Ethics statement",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "4 Apr 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Iowa State University restricted newsgroups related to sex and drugs but allowed access via a request form.",
+        "The author argues that maintaining lists of users requesting restricted content is not a significant privacy violation compared to other commercial or library records.",
+        "The debate highlights a tension between the 'anarchical nature' of Usenet and the administrative desire to police offensive or illegal content in academic settings."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "University of Nebraska-Lincoln"
+      ],
+      "people": [
+        "Michael Nolan",
+        "Tom Lee"
+      ],
+      "summary": "A discussion regarding a new policy at Iowa State University that restricted access to Usenet newsgroups dealing with sex and drugs. The author, Michael Nolan, compares this approach to a more restrictive policy at the University of Nebraska-Lincoln, arguing that ISU's model of 'informed consent' via request forms is preferable to outright censorship.",
+      "title": "USENET Censorship at Iowa State University",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "academic freedom",
+        "network policy",
+        "content filtering"
+      ]
+    },
+    "identity": {
+      "date": "4 Apr 92 05:03:54 GMT",
+      "from": "nolan@tssi.com (Michael Nolan)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1992Apr4.050354.13778@tssi.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 11--Re: USENET Censorship at Iowa State University",
+      "to_or_newsgroups": "comp.society",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-03-31",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The Newsletter on Intellectual Freedom only prints reports documented with newspaper articles."
+      ],
+      "organizations": [
+        "American Library Association",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie encourages the reporting of computer-media and academic computer censorship to the American Library Association's Newsletter on Intellectual Freedom. He notes that the newsletter requires documentation via newspaper articles for reports to be printed. Kadie also requests copies of news articles regarding censorship on academic computers for his own records.",
+      "title": "Publicizing computer-media censorship",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "documentation",
+        "intellectual freedom"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 31 Mar 1992 15:26:57 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1992Mar31.152657.1753@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n16",
+      "subject": "Article 12--Publicizing computer-media censorship",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

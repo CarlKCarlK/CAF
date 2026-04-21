@@ -1,0 +1,1111 @@
+Computers and Academic Freedom (news version)
+October 6, 1991
+Vol. 1, No. 31
+
+[Week of September 30 to October 6, 1991
+
+The first notes this week are about the NSFnet's AUP (National Science
+Foundation Net's Acceptable Use Policy). The first note traces the
+evolution of NSFnet from a platform for doing research about
+networking to its (almost, but not quite) common-carrier function
+today<1991Oct4.180750.3733@eff.org>. The second note asserts that the
+Net is legally a "limited public forum". Such status means that the
+government cannot, for example, practice viewpoint
+discrimination.<1991Oct4.055552.19960@eff.org> The third note says
+that the Supreme Court's Public Forum Doctrine is already broad enough
+to cover the Net; the doctrine does not need to be
+extended.<1991Oct4.151847.29603@eff.org>
+
+The next note is an observation and reply. The observation is that
+NFSnet is not the same as Usenet. Thus, Usenet may be a free-speech
+limited public forum while NFSnet is constrained by its Acceptable Use
+Policy. The reply points out that the NFSnet AUP is very broad and
+that actual practice, not just formal policy, is
+important.<1991Oct4.165949.2146@eff.org> The fifth note interprets
+recent NSF actions to mean that "anyone transmitting material across
+the NSFnet had better be prepared to explain how it furthers NSFnet's
+stated goals". Alternatively, NSF users can ask a research library to
+vouch for them.<1991Oct5.183000.37@sdg.dra.com> The next note says
+that the NSF's rules are unclear but that the rules should recognize
+that the NSF has created an on-line electronic library system. The
+note includes a copy of the American Library Association's Diversity
+Statement (a statement that discusses both sexual and sexist
+material).<1991Oct2.225512.3857@eff.org>
+
+The last NSF-related note is a discussion about the power of users and
+sys admins to influence (or resist) NSF
+policy.<1991Oct4.134400.2052@ms.uky.edu>
+
+The next two notes are about material that seems nonacademic. The
+first note reports that magazines such as Playboy and Penthouse cover
+serious topics such as arms control and
+censorship.<1991Oct1.133036.8510@ousrvr.oulu.fi> The second note
+excerpts a UPI report on an academic pornography
+conference.<1991Oct4.203547.6378@m.cs.uiuc.edu>
+
+The next note is an excerpt from the Supreme Court's recent Rust v.
+Sullivan decision (the so-called abortion gag-rule decision). That
+decision explicitly recognizes that "the university is a traditional
+sphere of free expression so fundamental to the functioning of our
+society that the Government's ability to control speech within that
+sphere by means of conditions attached to the expenditure of
+Government funds is restricted ..."<1991Oct2.001031.1159@eff.org>
+
+The last two note report the end of the University of Waterloo's ban
+on newsgroups "from alt.sex.bondage to rec.humor.funny". The first
+note gives the history<1991Oct3.172138.338@eff.org>. The second note
+is the official announcement of the new policy. The new policy
+recognizes that each user is responsible for what he or she writes. It
+says that all available newsgroup will be carried without screening or
+censorship. It establishes a procedure for dealing with bad (illegal?)
+notes posted from off-campus.<1991Oct4.153000.29957@eff.org>
+
+- Carl]
+
+
+In this issue:
+
+Bernie Cosell    87  >Government restriction of net information
+Carl M. Kadie   124  >
+Carl M. Kadie    27  >
+Carl M. Kadie    50  >
+sean@sdg.dra.com 41  >Acceptable Use Policies (Was Re: Bill's... )
+Carl M. Kadie   105  >
+Wes Morgan       39  >
+Foxvog Douglas   72  >Academic Privacy Question
+Carl M. Kadie    11  Academic Porn Conference
+Carl M. Kadie    58  Rust v. Sullivan
+Funny Guy        85  Waterloo ban on rec.humor.funny finally lifted
+Carl M. Kadie   211  >[repost] Waterloo ban on rec.humor.funny finally lifted
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+lines "help" and "index".
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Acceptable Use Policies (Was Re: Bill's... )
+Message-ID: <1991Oct4.180750.3733@eff.org>
+References: <E5808ED93A2056A5@ccmail.sunysb.edu> <1991Oct03.204416.24141@eng.umd.edu> <1991Oct4.144225.13879@ms.uky.edu>
+Date: Fri, 4 Oct 1991 18:07:50 GMT
+
+[I'm reposting this email note with the permission of the author. - Carl]
+
+>Date:     Fri, 4 Oct 91 13:10:25 EDT
+>From: Bernie Cosell <cosell@BBN.COM>
+>Subject:  Re:  Government restriction of net information
+
+Thanks for the SC quote...  I have been suspect about NSF net ever
+since it first started and seemed to be VERY policy-deficient.  I may
+have mentioned in the note to you that the line of reasoning you follow
+might become 'true' not by actual adminstrative decision, but by a
+funny cyberspace version of 'adverse possession'.  Basically, by
+allowing things like email and usenet links to use the NFSnet backbone,
+they may have -implicitly_ made themselves a limitiedpublic forum,
+whether they wanted to be [or were chartered to be] one or not.
+
+I wonder what NSF believes their role to be these days.  If they have
+really drifted into the 'common carrier' business, that'd be a pretty
+sneaky way to get that funded [since I doubt that Congress would
+authorize appropriations directly for a common carrier service to be
+provided free to a privileged few, especially when that would compete
+with legitimate business trying to make a go of it in the same market.
+[consider the analog of allowing every university phone to connect to
+AutoVON and let folks call their friends in Japan for free.  They might
+provide a WATS line for a specific project, but they'd never authorize
+unrestricted wholesale undercutting of the real long distance carriers.
+--- continuing the analogy, for the random, idle [non research] chatter
+that occupies so much of our bandwidth [including our email exchange,
+of course...:-)], wouldn't a more prudent policy be to allow funding
+for folks to use commercial nets [and encourage competition to ensure
+sensible costs] --- basically budget telecom services the way they
+budget for phone service, workstations, etc --- instead of virtually
+killing the marketplace by making a non-cost-sensitive competitor to
+the real carriers].
+
+When I was talking about policy, I was talking about the pre-NSF
+policy.  As far as I can tell, NSF is just beginning [a bit late in the
+game actually] to try to sort out just what they ARE going to do about
+this mess they've inherited from DCA/DARPA.  I think that the whole
+matter of overall and regional-net administrative policies was
+under-planned, and so a bunch of hard issues were put off and are just
+beginning to surface.
+
+A bit of history: in order to be connected to the network at all, you
+had to petition DARPA [or DCA] and your site had to have a legitimate
+need to use the network [and, for example, if it was work on a specific
+contract, when the contract was completed you net connection could go
+away unless you could invent some new need for it].  If you received
+approval for connection to the network, you still didn't get carte
+blanche to play with your new toy: part of the conditions of the
+connect were that network use was limited to gov't business.  There
+were *explicit* policies to that effect up until the day the arpanet
+was turned off [and those policies are still in place on the
+less-visible networks that the DoD is still funding].  The site
+administrators were expected to put procedures in place to ensure
+compliance.
+
+Now, originally, the network was built [and made available to
+researchers] to support *network* research [and it did: work on
+satellite links, sending real-time speech [and much later, real-time
+video], queueing and modeling theory, routing algorithms, lots of other
+net-based experiments [e.g., distributing weather maps via the net,
+instead of by US mail [this before the days of omnipresent fax].
+
+The first chink in the armor came because the network quickly proved to
+be useful to *support* research, rather than just to *do* research.
+This prompted the first change in policy: to allow almost unrestricted
+use of the network *for*approved*gov't*business*.  Email, of course,
+was a incredibly addictive drug and the use of the net for other than
+net-research grew.
+
+The next chink --- which, given your analysis, is _probably_ the one
+that leds direct to the current situation --- is when the network moves
+>from being adminstered by DARPA to being adminstered by DCA.  This, in
+essence, meant that DARPA *admitted* that the network had stopped being
+a research vehicle and, instead, had become an operation tool in its
+own right.  Still limited to 'official business', but the dam was
+breached: It *was* a "common carrier" in the usual sense of the word.
+
+With NSFNET's VERY relaxed rules and nonexistent policies as ti allowed
+folks to connect willy-nilly, you're probably right: it is easy to show
+that it is really a carrier, and all you needed was the "limited
+public" part, and NSF bumbled into making THAT happen, and so LONG in
+advance of any actual policy decisions [which are, apparently, just
+being sorted out now], much of it is already a fait accompli.
+
+Interesting...  I wonder where it will all lead.
+
+  /bernie\
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Xref: eff comp.org.eff.talk:4234 alt.comp.acad-freedom.talk:1069
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Government restriction of net information
+Message-ID: <1991Oct4.055552.19960@eff.org>
+Keywords: NSFNET Acceptable Use
+References: <199110031637.AA29047@eff.org> <2956@aldebaran.cs.nps.navy.mil>
+Distribution: usa
+Date: Fri, 4 Oct 1991 05:55:52 GMT
+
+schweige@taurus.cs.nps.navy.mil (Jeffrey M. Schweiger) writes:
+
+[...]
+>Now, to get back to the topic at hand.  The public, through their elected
+>representatives, authorized the creation of ARPANet/Internet/NSFNet to
+>accomplish a specific purpose.  From a draft of the NSFNet Acceptable Use
+>Policy this purpose is "to support research and other scholarly activities in 
+>the U.S. by providing access to unique resources and the opportunity for 
+>collaborative work."  Net use that runs counter to the approved policy has
+>not been authorized by the public, and it could be considered the 
+>responsibililty of government officials to ensure that such usage not take
+>place.  The way that a member of the public 'demands' a change is via his or
+>her elected representatives.
+[...]
+
+Legally, the Net is a limited public forum; this is in contrast with a
+traditional public forum such as a public plaza and a nonpublic forum,
+such a prison. A limited public forum is created by the government and
+may, according to the Supreme Court, be limited in two ways. First,
+access to the forum may be limited. In the case of the Net, access is
+limited to those with accounts on computers on the Net. Second, the
+topics for discussion may be limited. For example, access to a public
+college's student newspaper is limited to the students staff but a
+college newspaper usually has no limit on topics. Access to a campus
+(paper) mail system is often limited to staff and students and it's
+topics are often limited those related to official business.
+
+Unlike the owner of private property, the government "is not
+necessarily the unfettered master of all it creates" [Supreme Court in
+ftp.eff.org:pub/academic/news/cafv01n25]. For example, it can not
+practice viewpoint discrimination within its forums. In other words,
+if it allows one view of a topic to be expressed, then all views must
+be allowed. Also, the government cannot withdraw support from a
+limited-public forum simply because of displeasure with the content.
+For example, "[a]lthough school boards are not obligated to support
+student papers, if a given publication was originally created as a
+free speech forum, removal of financial or other school board support
+can be construed as an unlawful effort to stifle free expression."
+[From Public School Law: Teachers' and Students' Rights by Martha M.
+McCarthy and Nelda H.  Cambron-McCabe]
+
+I think these restrictions on the government's authority are a good
+thing. This democracy is predicated on an informed electorate. New
+forums such as the Net help to create such an electorate.
+
+I think this leaves two questions:
+
+What are the topic restrictions for use of the Net?
+ and
+What topic restrictions *should* there be for use of the Net?
+
+The first question cannot be answered authoritatively. There are
+several indications that it is a de facto free-speech forum. First,
+the tentative acceptable use policy is vague (except about commercial
+use.) Second, topic restrictions are not consistently enforced. Email,
+IRC, Netnews, etc all seem to be free-speech forums. Third, because of
+the Nets academic nature, the courts may find topic restrictions
+unacceptable. As the Supreme Court said it's recent so-called abortion
+gag-rule decision: "This is not to suggest that funding by the
+Government, even when coupled with the freedom of the fund recipients
+to speak outside the scope of the Government-funded project, is
+invariably sufficient to justify government control over the content
+of expression.  For example, this Court has recognized that the
+existence of a Government ``subsidy,'' in the form of Government-owned
+property, does not justify the restriction of speech in areas that
+have ``been traditionally open to the public for expressive
+activity,'' United States v. Kokinda, 110 S.  Ct. 3115, 3119 (1990);
+Hague v. CIO, 307 U.  S. 496, 515 (1939)(opinion of Roberts, J.), or
+have been ``expressly dedicated to speech activity.'' Kokinda, supra,
+110 S. Ct., at 3119; Perry Education Assn. v. Perry Local Educators'
+Assn., 460 U. S. 37, 45 (1983).  Similarly, we have recognized that
+the university is a traditional sphere of free expression so
+fundamental to the functioning of our society that the Government's
+ability to control speech within that sphere by means of conditions
+attached to the expenditure of Government funds is restricted by the
+vagueness and overbreadth doctrines of the First Amendment, Keyishian
+v.  Board of Regents, 385 U.  S.  589, 603, 605-606 (1967)."
+[uunet.uu.net:opinions/supreme-court/89-1391]
+
+I think the second question is more important. In my opinion, an
+academic network should respect academic freedom. This means that
+institutional control of facilities should not be used as a device of
+censorship [ftp.eff.org:pub/academic/student.rights]. It should
+respect intellectual freedom. This means that "[m]aterials should not
+be proscribed or removed because of partisan or doctrinal disapproval"
+[ftp.eff.org:pub/academic/library/bill-of-rights.ala].
+
+It's time to create a new Acceptable Use Policy that unambiguously
+supports academic and intellectual freedom.
+
+- Carl M. Kadie, editor Computers and Academic Freedom News
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+>From kadie Sat Oct  5 11:03:54 1991
+To: cafb-mail
+~Subject: Computers and Academic Freedom mailing list (batch edition)
+Status: R
+
+
+Computers and Academic Freedom mailing list (batch edition)
+Sat Oct  5 11:03:10 EDT 1991
+
+In this issue:
+
+nbc2134@dsacg2.dsa : Re: Government restriction of net information            
+morgan@ms.uky.edu : Re: Acceptable Use Policies (Was Re: Bill's... )          
+morgan@ms.uky.edu : Re: Acceptable Use Policies (Was Re: Bill's... )          
+kadie@eff.org (Car : Re: Government restriction of net information            
+kadie@eff.org (Car : Re: (repost) Waterloo ban on rec.humor.funny finally lift
+morgan@ms.uky.edu : Re: Government restriction of net information             
+kadie@eff.org (Car : Re: Government restriction of net information            
+russotto@eng.umd.e : Re: Acceptable Use Policies (Was Re: Bill's... )         
+morgan@ms.uky.edu : Re: (repost) Waterloo ban on rec.humor.funny finally lifte
+schweige@taurus.cs : Re: Government restriction of net information            
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Government restriction of net information
+Message-ID: <1991Oct4.151847.29603@eff.org>
+References: <9110040722.AA26286@dsacg2.dsac.dla.mil>
+Date: Fri, 4 Oct 1991 15:18:47 GMT
+
+In reply to the mailing list from <kadie@eff.org>...
+[...]
+>Legally, the Net is a limited public forum; this is in contrast with a
+[...]
+
+nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+[...]
+>I don't recall any court case that has conclusively and directly determined
+>that Internet, Usenet, or any subpart thereof is a "limited public forum."
+
+I should have said, "In my untrained opinion, legally, the Net is a
+limited public forum."
+
+>It seems the best we can do is say that it _seems_ to be so withut a court
+>case or legislative action that would extend the definition of limited public
+>forum to Usenet or Internet.
+
+In my legally untrained opinion, it is not necessary to *extend* the
+definition of a limited public forum. It suffices to apply the current
+definition (as layed out by the Supreme Court and explained in cases
+like San Diego Committee v. Governing Bd., 790 F.2d 1471 (1986).
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Government restriction of net information
+Message-ID: <1991Oct4.165949.2146@eff.org>
+References: <9110040722.AA26286@dsacg2.dsac.dla.mil> <1991Oct4.151847.29603@eff.org> <1991Oct4.154153.28186@ms.uky.edu>
+Date: Fri, 4 Oct 1991 16:59:49 GMT
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+[...]
+>*NETNEWS* is, for all intents and purposes, a "limited public forum";
+>I think most of us can agree on that.  However, that collection of
+>backbones known as "the Net" is not, nor has it ever been, a forum for
+>free expression. "The Net" is actually many networks, operating under
+>many jurisdictions.  One particular network, NSFnet, was explicitly
+>created for "research and education".  We can make the argument that
+>NSFnet is a limited public forum FOR THOSE TOPICS.  We cannot, however,
+>arbitrarily create a "subforum", or expand the current forum; this is
+>the current relationship between Netnews and "the Net".
+
+>>In my legally untrained opinion, it is not necessary to *extend* the
+>>definition of a limited public forum. It suffices to apply the current
+>>definition (as layed out by the Supreme Court and explained in cases
+>>like San Diego Committee v. Governing Bd., 790 F.2d 1471 (1986).
+
+>That definition gives the State (or its agents) the right to determine
+>which topics may be discussed in a particular forum; this point has already
+>been discussed in great detail.  Since the limited public forum known as
+>"NSFnet" has determined which topics are suitable, they would have the
+>right to cease the transmission of netnews traffic, since it was never
+>really "approved" in the first place.
+[...]
+
+Actual practice counts as much a policy. The government must be
+consistent; it can not pick and choose when it will enforce
+restrictions. If the Net carries (unrestricted) Netnews and email,
+then that least the Netnews and email part of the Net are de facto
+free-speech forums.
+
+Also, the NSFNet Acceptable Use Policy is says that the net has a very
+broad academic purpose: "to support research and education in and
+among academic institutions in the U.S. by providing access to unique
+resources and the opportunity for collaborative work." The NSF has
+always been as much about education (developing the next generation of
+researchers) as about research.
+
+Given the NSF's broad academic mandate, it is appropriate and perhaps
+inevitable that the NSF is, de facto, following the principles of
+academic freedom.
+
+- Carl
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: sean@sdg.dra.com
+Subject: Re: Acceptable Use Policies (Was Re: Bill's... )
+Message-ID: <1991Oct5.183000.37@sdg.dra.com>
+Date: 5 Oct 91 18:30:00 CDT
+References: <E5808ED93A2056A5@ccmail.sunysb.edu> <1991Oct03.204416.24141@eng.umd.edu> <1991Oct4.144225.13879@ms.uky.edu> <1991Oct04.164130.540@eng.umd.edu>
+
+In article <1991Oct04.164130.540@eng.umd.edu>, russotto@eng.umd.edu (Matthew T. Russotto) writes:
+> Me?  Convince the umd.edu sysadmins?  Come now, some of those people attempted
+> to get me expelled, and to the others, I'm just some anonymous student.  My
+> thoughts count for nothing.  I have no authority, and am no threat to their
+> position.  Ignoring me costs them nothing.
+
+If you're a US citizen you can have a very large effect.  They may be slow,
+but ignoring a citizen is not a recommended method for career advancement
+in government.
+
+    Stephen S. Wolff
+    National Science Foundation
+    1800 G Street, NW
+    Room 533
+    Washington, DC 20550
+
+Write up a research proposal that is within NSF's congressional mandate and
+submit it.  After NSF received the complaint about those GIFs, they asked that
+anyone using those GIFs for formal research or education to write up a report
+on their work.  The response was rather underwhelming.  With no evidence that
+the consumption of NSFnet resources by transmitting those GIFs was furthering
+any of the stated goals of the NSFnet, it was a summary judgement for the
+plaintiff (the defense never showed up).
+
+I've talked to people at NSF about delivery of a variety of materials across
+the Internet.  I think it would be fairer to characterize NSF's position as
+anyone transmitting material across the NSFnet had better be prepared to
+explain how it furthers NSFnet's stated goals.  This is true regardless of
+the content.
+
+In particular, I was told delivery of subscribed material via NSFnet to a U.S.
+university library for their research collection was acceptable.  It seems
+that collection policies for research libraries get approved somewhere else,
+so if you meet those standards, NSF will also accept them.  I didn't ask
+about delivery to end users, but you may have to go to the interlibrary-loan
+department and ask them to FTP the files for you (assuming you meet your
+university's requirements for ILL).
+-- 
+Sean Donelan, Data Research Associates, Inc, St. Louis, MO
+Domain: sean@sdg.dra.com, Voice: (Work) +1 314-432-1100
+
+Xref: eff comp.org.eff.talk:4186 alt.comp.acad-freedom.talk:1057 alt.censorship:1721
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Acceptable Use Policies (Was Re: Bill's... )
+Message-ID: <1991Oct2.225512.3857@eff.org>
+References: <199110021650.AA23508@eff.org>
+Date: Wed, 2 Oct 1991 22:55:12 GMT
+
+In article <1991Oct1.153519.18849@ucunix.san.uc.edu>
+owenstm@ucunix.san.uc.edu (Cygnus X-1) writes:
+
+[...]
+>Well, the discussion could hold relavent if one was to involve Gif's
+>files, some "hard-line" religious people had them removed from the Mars
+>Hotel if you remember (Mars.ee.msstate.edu)... And the NSF has declared
+>it against their "rules" to transmit pornographics material.
+[...]
+
+I don't know that the NSF has made this declaration officially. I
+think it merely responded to some complaints by expressing some
+concern and the sys op at Mars decided to avoid any hassles by
+deleting the files.
+
+I think it's time to move beyond expendency to principled policies.
+Anonymous FTP archives are a new type of library. The Internet is the
+delivery medium for these libraries. The NSF should adopt policies
+based on long-standing library and academic experience. These polices
+should embrace free expression and renounce content restrictions.
+
+The Library Bill of Rights says: 
+
+"      2.  Libraries should provide materials and information presenting all
+points of view on current and historical issues.  Materials should not be
+proscribed or removed because of partisan or doctrinal disapproval."
+
+
+Also, here is the American Library Association's statement on diversity:
+
+-------------------begin------------------------------------
+                     DIVERSITY IN COLLECTION DEVELOPMENT
+
+                An Interpretation of the LIBRARY BILL OF RIGHTS
+
+
+Throughout history, the focus of censorship has fluctuated from generation to
+generation.  Books and other materials have not been selected or have been
+removed from library collections for many reasons, among which are prejudicial
+language and ideas, political content, economic theory, social philosophies,
+religious beliefs, sexual forms of expression, and other topics of a
+potentially controversial nature.
+
+Some examples of censorship may include removing or not selecting materials
+because they are considered by some as racist or sexist; not purchasing
+conservative religious materials; not selecting materials about or by
+minorities because it is thought these groups or interests are not represented
+in a community; or not providing information on or materials from non-
+mainstream political entities.
+
+Librarians may seek to increase user awareness of materials on various social
+concerns by many means, including, but not limited to, issuing bibliographies
+and presenting exhibits and programs.
+
+Librarians have a professional responsibility to be inclusive, not exclusive,
+in collection development and in the provision of interlibrary loan.  Access
+to all materials legally obtainable should be assured to the user, and
+policies should not unjustly exclude materials even if they are offensive to
+the librarian or the user.  Collection development should reflect the
+philosophy inherent in Article II of the LIBRARY BILL OF RIGHTS:  "Libraries
+should provide materials and information presenting all points of view on
+current and historical issues.  Materials should not be proscribed or removed
+because of partisan or doctrinal disapproval."  A balanced collection reflects
+a diversity of materials, not an equality of numbers.  Collection development
+responsibilities include selecting materials in the languages in common use in
+the community which the library serves.  Collection development and the
+selection of materials should be done according to professional standards and
+established selection and review procedures.
+
+There are many complex facets to any issue, and variations of context in which
+issues may be expressed, discussed, or interpreted.  Librarians have a
+professional responsibility to be fair, just, and equitable and to give all
+library users equal protection in guarding against violation of the library
+patron's right to read, view, or listen to materials and resources protected
+by the First Amendment, no matter what the viewpoint of the author, creator,
+or selector.  Librarians have an obligation to protect library collections
+from removal of materials based on personal bias or prejudice, and to select
+and support the access to materials on all subjects that meet, as closely as
+possible, the needs and interests of all persons in the community which the
+library serves.  This includes materials that reflect political, economic,
+religious, social, minority, and sexual issues.
+
+Intellectual freedom, the essence of equitable library services, provides for
+free access to all expressions of ideas through which any and all sides of a
+question, cause, or movement may be explored.  Toleration is meaningless
+without tolerance for what some may consider detestable.  Librarians cannot
+justly permit their own preferences to limit their degree of tolerance in
+collection development, because freedom is indivisible.
+
+
+Adopted July 14, 1982; amended January 10, 1990, by the ALA Council.
+
+[Made available by permission of the American Library Association.]
+----------------------------end--------------------
+
+[The library-policy archive is accessible via anonymous ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/library".
+File README is a detailed description of the items in this directory.
+The archive is also accessible via email. For information on email
+access send email to archive-server@eff.org. In the body of your note
+include the lines "help" and "index".]
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Acceptable Use Policies (Was Re: Bill's... )
+Message-ID: <1991Oct4.134400.2052@ms.uky.edu>
+References: <75ED8DF13A204D22@ccmail.sunysb.edu> <1991Oct03.030549.19866@eng.umd.edu>
+Date: Fri, 4 Oct 1991 13:44:00 GMT
+
+russotto@eng.umd.edu (Matthew T. Russotto) writes:
+>Sanjay Kapur <skapur@ccmail.sunysb.edu> writes:
+>
+>>I would suggest writing to the people who run the NSF or to Congress.  The 
+>>poor system admin is in no position to set or even seriously challenge 
+>>the policies of the government of these United States.
+>
+>And, once again, Mr. Kapur shows us his dedication to free expression by
+>passing the buck and being ever willing to bow to the express, implied, or
+>even worried-about threat of Those In Charge.
+>
+>Writing to NSF and/or Congress will do nothing.  Direct challenge by systems
+>administrators may.  Of course, this is a more risky course of action,
+>and we wouldn't want you sticking your neck out one little inch, would we?
+
+Would you have the same sarcastic attitude if you were a user on Sanjay's
+system?  Suppose that he did, indeed, "stick his neck out" and get slapped
+down?  Suppose that, in response, the administration at SUNY-SB removed
+news completely; would you rally to his support?  Somehow, I doubt it.
+Would you be happy to go without news for a long period of time, while
+Sanjay (and presumably others) fought the administration to restore it?
+
+As an example, it took almost three years for Waterloo to lift their 
+ban on rec.humor.funny.  Would you be willing to support Sanjay for that
+much time?  Would you just find access to some other news site and leave
+him to fight his own battle?  Would you just graduate and forget about it?
+Would you even worry about the hundreds of other users on his systems?
+
+There is a time and place to be a visionary/activist; it's up to every 
+individual to decide if he is in that time and/or place.  If you don't 
+know the full picture at his site, you really don't have any reason to 
+condemn him.
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+From: dfo@tko.vtt.fi (Foxvog Douglas)
+Subject: Re: Academic Privacy Question
+Message-ID: <1991Oct1.133036.8510@ousrvr.oulu.fi>
+Date: 1 Oct 91 13:30:36 GMT
+References: <398CF0EE5E401E65@ccmail.sunysb.edu> <m0kNpjI-0006y1C@knuth.cs.mtsu.edu>
+Sender: news@ousrvr.oulu.fi
+
+In article <m0kNpjI-0006y1C@knuth.cs.mtsu.edu> robinson@mtsu.edu (David Robinson) writes:
+>As a matter of fact, here at MTSU, we *DO* keep Time magazine behind the
+>counter for the primary reason that it tends to a) go walkies, or b) get
+>chopped by enterprising students with razor blades but no money for the
+>photocopier.  This is also one of the reasons that we have chosen not to
+>subscribe to Playboy, Penthouse, or Hustler.  When I was at the
+>University of Alabama, they subscribed to Playboy, they kept it behind
+>the desk, and it *still* was so quickly mutilated beyond recognition that
+>they had to have 2 subscriptions to make it through the month.  Even the
+>*MICROFILM* got chopped!  
+
+This is a very good reason to keep such magazines behind the shelves.
+However, unless the magazines are checked for clipped sections after
+they are returned, the restrictions are not that useful.  I would hate
+for a record to be kept of access to try to ascertain who is doing the
+clipping, as the information might be used for other purposes.
+
+However, these arguments certainly have no parallels with the Netnews 
+case.
+
+I remember one time when I wanted to look up a reference to an Arms
+Control article in Penthouse and I had to buy it as the University
+library did not stock it.  Any university which teaches history, public
+affairs, military strategy, or similar subjects should subscribe to
+Playboy and Penthouse as they print articles on such topics often by top
+players in the field (e.g. former CIA chief Turner).  They also cover
+censorship (for obvious reasons).  [Maybe the magazine could be weighed
+on a sufficiently sensitive scale to detect the possiblity -- of course
+this would be a significant one-time charge.]
+
+>Another reason for not subscribing to those particular titles is that
+>they are not indexed in the traditional sources.  I'm thinking
+>specifically of _Reader's_Guide_to_Periodical_Literature_ which, for
+>general interest type magazines, is still considered by many librarians
+>as *the* indexing source. (I'm sure someone will quickly point out a
+>very good, very popular index that *does* index Playboy ... like IAC's
+>_Magazine_Index_ for instance, but I don't know a single source that
+>indexes Hustler ... )
+
+I agree that lack of indexing makes the publications less valuable.  However, 
+if the content includes covered topics the magazines should be
+purchased.  After all, the books are not indexed.
+
+>I realize that this sounds like a bunch of pretty lame excuses. However,
+>combined with the budgetary arguments that have been presented by other 
+>postings, you can begin to see a picture of the complexities that are 
+>involved in decisions of this kind.  Unfortunately, there is more to it
+>than simply a matter of intellectual freedom.
+
+>David Robinson                            robinson@mtsu.edu 
+>Automation Librarian 
+>Middle Tennessee State University  
+>Murfreesboro, Tennessee 37132 
+
+
+I see that a library can validly be topic oriented and subscribe to
+publications that address only the covered topics.  A SIGNIFICANT charge
+for a publication can be a valid reason for not subscribing.  
+
+For Netnews, a site can appropriately restrict it self to comp.*, sci.*,
+and so on if the users of the site are restricted to computations on
+those topics.  It may also not subscribe to high cost groups (e.g. high
+volume binaries), or be very selective in such subscriptions.  Selected
+subscription to appropriate groups in other hierarchies is also
+reasonable.  However, if a site picks up talk.* and alt.*, it should pick up 
+the full hierarchies (with the exception of "unneeded" binaries if there is 
+a memory concern).  To do otherwise would be to engage in unwarrented 
+censorship. IMHO.
+
+doug foxvog
+dfo@tko.vtt.fi
+
+Xref: eff alt.sex:20659 alt.comp.acad-freedom.talk:1088
+From: kadie@m.cs.uiuc.edu (Carl M. Kadie)
+Subject: Academic Porn Conference
+Message-ID: <1991Oct4.203547.6378@m.cs.uiuc.edu>
+References: <1991Oct4.183808.23118@ux1.cso.uiuc.edu>
+Date: Fri, 4 Oct 1991 20:35:47 GMT
+
+	PHILADELPHIA (UPI) -- A group of academians snatched pornography out
+of the sleazy booskstores and X-rated theaters Friday and put it in a
+more respectable setting -- a college campus [U. of Pennsylvania].
+[...]
+	The conference, which is titled ``The Origins of Pornography,'' was
+expected to draw up to 200 professors, researchers and other experts
+from across the country for two days of intellectual discussion.
+[...]
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Rust v. Sullivan
+Message-ID: <1991Oct2.001031.1159@eff.org>
+Date: Wed, 2 Oct 1991 00:10:31 GMT
+
+Some posters have wondered what effect the Supreme Court's recent
+"abortion gag rule" decision has on public-university free speech.
+I've looked the decision. (It is available via anonymous ftp from
+uunet.uu.net:opinions/supreme-court/89-1391.) It explictly gives
+universities as an example of a place where free speech is
+fundamental. So, at least for now, free speech at universities is
+safe.
+
+- Carl
+
+-------------------
+89-1391 & 89-1392 -- OPINION
+RUST v. SULLIVAN
+
+[...]
+This is not to suggest that funding by the Government, even when
+coupled with the freedom of the fund recipients to speak outside the
+scope of the Government-funded project, is invariably sufficient to
+justify government control over the content of expression.  For
+example, this Court has recognized that the existence of a Government
+``subsidy,'' in the form of Government-owned property, does not
+justify the restriction of speech in areas that have ``been
+traditionally open to the public for expressive activity,'' United
+States v. Kokinda, 110 S. Ct. 3115, 3119 (1990); Hague v. CIO, 307 U.
+S. 496, 515 (1939)(opinion of Roberts, J.), or have been ``expressly
+dedicated to speech activity.'' Kokinda, supra, 110 S. Ct., at 3119;
+Perry Education Assn. v. Perry Local Educators' Assn., 460 U. S. 37,
+45 (1983).  Similarly, we have recognized that the university is a
+traditional sphere of free expression so fundamental to the
+functioning of our society that the Government's ability to control
+speech within that sphere by means of conditions attached to the
+expenditure of Government funds is restricted by the vagueness and
+overbreadth doctrines of the First Amendment, Keyishian v.  Board of
+Regents, 385 U.  S.  589, 603, 605-606 (1967). It could be argued by
+analogy that traditional relationships such as that between doctor and
+patient should enjoy protection under the First Amendment from
+government regulation, even when subsidized by the Government.  We
+need not resolve that question here, however, because the Title X
+program regulations do not significantly impinge upon the
+doctor-patient relationship.  Nothing in them requires a doctor to
+represent as his own any opinion that he does not in fact hold.  Nor
+is the doctor-patient relationship established by the Title X program
+sufficiently all-encompassing so as to justify an expectation on the
+part of the patient of comprehensive medical advice.  The program does
+not provide post-conception medical care, and therefore a doctor's
+silence with regard to abortion cannot reasonably be thought to
+mislead a client into thinking that the doctor does not consider
+abortion an appropriate option for her.  The doctor is always free to
+make clear that advice regarding abortion is simply beyond the scope
+of the program.  In these circumstances, the general rule that the
+Government may choose not to subsidize speech applies with full force.
+[...]
+
+------------
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Xref: eff alt.comp.acad-freedom.talk:1064 alt.censorship:1741
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [repost] Waterloo ban on rec.humor.funny finally lifted
+Message-ID: <1991Oct3.172138.338@eff.org>
+Date: Thu, 3 Oct 1991 17:21:38 GMT
+
+From: funnyr@looking.on.ca (Funny Guy)
+Subject: Waterloo ban on rec.humor.funny finally lifted
+>Message-ID: <1991Oct03.060346.5082@looking.on.ca>
+Date: 3 Oct 91 06:03:46 GMT
+
+Those of you familar with the history of this newsgroup will know
+that in December of 1988, due to the efforts of an MIT grad student
+named Jonathan Richmond, a ban was placed on possibly offensive jokes
+in this newsgroup at the University of Waterloo.   At the time, this
+newsgroup went into the net only via that site, and Richmond's goal
+was to control the content of the group by putting pressure on the
+University through the daily newspapers.
+
+[It didn't work of course.  RHF quickly became fed out through a wide
+variety of other paths, and only Waterloo folk and downstream nodes
+were affected.]
+
+To many people's surprise, the Douglas Wright (President) and
+J. Alan George (Provost) supported and implemented the ban.
+
+Later groups such as alt.sex were also removed.  Pressure from the
+community, with vigourous effort by some students and an invited talk
+by Dr. John McCarthy of the Stanford AI Lab (Dr. McCarthy had played
+a pivotal role in reversing a shorter-lived ban at Stanford) resulted
+in the appointment of a committee to study the question of newsgroup
+availability.
+
+In May 1991, this committee reported what you would expect them
+to report -- that, to paraphrase, a University administration should not
+make non-financial decisions about what people can and can't read on
+campus.   The recommended restoration of all banned newsgroups.
+
+Today, Dr. Johnny Wong, Associate Provost for Computing at UW, announced
+that he would follow the recommendations of the committee.
+
+The result is the restoration of all banned newsgroups there, from
+alt.sex.bondage to rec.humor.funny.
+
+I take particular satisfaction in this.  The banning of my publication
+at my alma mater has been a thorn in my side for years, and I have helped
+and encouraged the efforts to reverse it.  I did not wish to concede any
+victory for the forces of thought-control and political correctness.
+Even though the ban never stopped any determined reader (after all, the
+groups could be read remotely with RRN and NNTP) it is good to see it
+gone.
+
+My thanks go out to all who worked to make this happen.
+
+More detailed accounts of these events can be found in the prefaces
+to the Jokebooks.  This year's jokebook may be delayed a bit because
+I am moving at the end of this month.  Will tell you where later.
+
+---------------
+Other notes:  I am keeping busy and am a fair bit behind in the joke
+queue.  Only 600 entries to go.  Please have patience.
+
+RHF is no longer USENET's most popular group.   Alt.sex now easily holds
+that distinction -- perhaps being banned at UW is the first step for success
+in any USENET group.   Misc.jobs.offered is also currently above, but
+fluctuating.   Statistics are posted in the group news.lists.
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+>From kadie Sat Oct  5 11:02:37 1991
+To: cafb-mail
+~Subject: Computers and Academic Freedom mailing list (batch edition)
+Status: R
+
+
+Computers and Academic Freedom mailing list (batch edition)
+Sat Oct  5 11:02:18 EDT 1991
+
+In this issue:
+
+NMETRO@ricevm1.ric : Re: Censorship or                                        
+NMETRO@ricevm1.ric : Re: Censorship or                                        
+russotto@eng.umd.e : Re: Acceptable Use Policies (Was Re: Bill's... )         
+kadie@eff.org (Car : Re: Censorship or                                        
+kadie@eff.org (Car : Re: Government restriction of net information            
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Xref: eff alt.comp.acad-freedom.talk:1074 alt.censorship:1755
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: [repost] Waterloo ban on rec.humor.funny finally lifted
+Message-ID: <1991Oct4.153000.29957@eff.org>
+References: <1991Oct3.172138.338@eff.org>
+Date: Fri, 4 Oct 1991 15:30:00 GMT
+
+[This is the announcement and report from Dr. Johnny Wong, Associate
+Provost (Computing and Information Systems). - Carl]
+
+After reviewing the report of the Advisory Committee on 
+Network News, and the comments that I've received, I am 
+proceeding in accordance with the recommendations of that 
+committee. Newsgroups that are currently not supported
+will be reinstated as soon as possible, and Roger Watt 
+of the Department of Computing Services (ext. 2491; 
+email: rwwatt@watserv1.uwaterloo.ca) has been
+appointed as a liaison person with respect to complaints 
+related to the contents of electronic mail messages and 
+news articles.
+                           - - - - - - - - - -
+
+               REPORT OF THE ADVISORY COMMITTEE ON NETWORK NEWS
+
+                                 MAY 30, 1991
+
+INTRODUCTION
+
+A. Universities have a long tradition of investigating all areas of human
+activity and of sharing the results of those inquiries with others inside and
+outside the University who may be interested. The recent growth of
+communication networks for computers have made the sharing much more rapid and
+efficient. Arguably, the two most effective means for making these results
+available, and thus potentially for advancing the works of many other members
+of the University community, are electronic mail (E-mail) to individuals and
+network newsgroups, the latter functioning rather like collective mailboxes to
+which faculty, staff, and students may choose to subscribe.
+
+Thus, the Committee believes that it is entirely appropriate that the
+University of Waterloo, which has a strong reputation for the constructive use
+of computers, continue to allocate resources to receiving, storing, and
+transmitting items of E-mail and news.
+
+B. Further, the Committee believes that it is important that the University of
+Waterloo consult its user community when decisions must be made about the use
+of resources which are committed to E-mail and news.
+
+C. Most importantly, the Committee believes that it is the users of the
+computing systems who must be held responsible for their decisions to take
+advantage of the resources which the University of Waterloo maintains for the
+general use of its community. The Committee notes that in some cases items have
+been posted which contain lengthy and verbatim excerpts from newspapers, books,
+and magazines. Even when the source is fully acknowledged, the Committee
+believes that this acknowledgement is not a substitute for a formal release
+from the holder of the copyright in the material, usually the publisher if not
+the author of the cited words. Thus, in advising users of the responsibility
+they bear for what they post, the Committee considers it important that a
+warning that the University will not be held liable for breach of copyright be
+made plain.
+
+D. Although the University of Waterloo is not under an obligation to distribute
+news across campus, once the key role of the user is recognized, the Committee
+sees no role for the institution `in loco parentis'. In particular, we see no
+need for a Committee, even of one, to monitor the contents of items, noting
+that the current daily volume of approximately 11 megabytes arriving at the
+University makes such monitoring impractical.
+
+E. Again, once the key role of the users of computing resources is established,
+the Committee is of the opinion that the University of Waterloo already has a
+number of mechanisms in place for handling queries or complaints should they
+arise. The Committee sees no need to duplicate these mechanisms.
+
+The Committee believes that complaints should be dealt with in the same manner
+whether the offending items originate from UW or from a remote site. It is
+clear that a user may reply directly to a poster and may make a more formal
+complaint under UW policies in parallel. In either case, the channels normally
+used for handling complaints from UW accounts should be used for those arising
+from off-campus posting.
+
+However, the nature of electronic communication is such that action often needs
+to be more rapid than in dealing with, for example, printed material. The
+Committee, therefore, suggests one addition to the existing mechanisms.
+
+In its background documents, Usenet identifies users as responsible for their
+actions just as the Committee has suggested the University of Waterloo should.
+As a consequence, it is natural for one user who objects to an item posted by
+another to reply directly and outline his or her complaint. Such direct reply
+is often effective, but does assume enough familiarity with the reply mechanism
+of newsgroups or with E-mail on the part of the offended user. A simple
+description of each of these processes should be a standard part of the
+introduction to computing provided to each new user, whose responsibility it
+must be to assimilate the information; the University of Waterloo already
+provides very substantial consulting advice, widely distributed across campus,
+to assist users in making effective use of the University's computing
+resources.
+
+It seems clear that users should retain copies of both the item which was the
+source of the objection and of the reply. Such electronic copies carry date and
+time 'stamps' which may be useful should a more extensive discussion of the
+item prove necessary.
+
+Where the initial item originates from a member of the University of Waterloo,
+then the provisions of existing policies should, of course, be available. The
+Committee notes that the authors of the report from the Ad Hoc Committee to
+Review UW Policy 33 on Ethical Behavior, chaired by Lois Claxton, already
+anticipated the extension of the provisions of Policy 33 to cover the area of
+computing (IV Recommendations, page 10, first paragraph).
+
+However, electronic items may originate from other sites and it may be
+impractical for a user to object directly; furthermore, direct reply may be
+ineffective. Only in such situations can the Committee foresee the desirability
+of there being a person, designated by the University of Waterloo, to whom
+application may be made for assistance.
+
+In recommending such an appointment, the Committee does not envisage such an
+official being responsible for dealing with objections from one member of the
+University about the actions of another. Nor does it see the official acting as
+the 'agent' of an aggrieved user.
+
+RECOMMENDATIONS
+
+On the question of the use of resources and the responsibility of users, the
+Committee recommends that:
+
+1. The principles which are adopted by the University of Waterloo governing the
+use of its computing facilities for storing, retrieving and transmitting
+information, be widely disseminated and be included in all introductions to
+computing for new users. Particular emphasis should be placed on the principles
+which concern such direct methods of communication as E-mail and network news.
+
+2. The University of Waterloo adopt and widely publicize the principle that, in
+sending E-mail or in posting an article to a newsgroup, it is the user and not
+the University, who assumes responsibility for its contents.
+
+3. The University adopt and widely publicize the principle that it is the user,
+not the University, who is responsible for his or her decision to read a mail
+message or an article posted to an electronic newsgroup.
+
+4. The University's primary news-server continue to receive all newsgroups
+generated internally and all newsgroups which arrive over the networks to which
+the University is connected.
+
+5. The contents of these newsgroups continue to be made available to all lower
+level servers.
+
+6. When decisions are to be made re the consumption of computing resources for
+newsgroups, those responsible for such decisions should widely and formally
+consult with the full user community. In the case of the primary server, it
+should be the responsibility of the University Computing Committee to see that
+such consultation takes place. In the case of lower level servers, a
+well-defined consultative process, approved by the University Computing
+Committee, should exist.
+
+On the question of responding to particular items of mail or news, the
+Committee recommends that:
+
+1. The University of Waterloo advise its user community that in the first
+instance it is the responsibility, not of the University, but of a user who
+objects to an item, to reply directly to the poster, making clear the nature of
+the objection.
+
+2. A person knowledgeable, particularly about electronic news and mail, but
+also well-versed in the general provisions of UW policies, be appointed with
+the following general terms of reference:
+
+   He or she should:
+
+   (A) Be able to identify a suitable authority at a remote site to whom a
+   request for action might be addressed, when he or she is convinced that
+   the normal methods for registering an objection have been ineffective. An
+   obvious example would be the continued posting of objectionable items.
+
+   (B) Be able to identify the most suitable authority at the University of
+   Waterloo to which objections from other sites about material generated at
+   the University of Waterloo might be referred. Examples of such authorities
+   are the Ethics Committee, the University Computing Committee, the Dean of a
+   Faculty; these examples clearly do not exhaust the possibilities.
+
+3. Such an official should report at least once a year on his or her activity
+in this area to the University Computing Committee through the Associate
+Provost, Computing and Information Systems.
+
+4. The responsibility for the removal of any item from a UW machine, as a
+result of an investigation into a complaint, should reside with the Associate
+Deans of Computing in each Faculty for machines under their control, and with
+the corresponding officers responsible for non-Faculty machines, and with the
+Associate Provost, Computing and Information Systems. The Committee presumes
+that investigations and decisions will be carried out under University of
+Waterloo policies and that where review by a Committee is called for, such
+review will be carried out keeping in mind the short retention time for items
+in newsgroups.
+
+5. The University of Waterloo's principles or policies in this area clearly
+identify the officers who are able to make such decisions.
+
+6. At least once a year actions taken under this authority should be reported
+to the University Computing Committee.
+
+The Committee has not made suggestions about how the recommendations should be
+implemented in any unit, academic or non-academic. The Committee presumes that
+the University of Waterloo will continue to publicize its policies and
+procedures which, in turn, will continue to be developed after careful
+consultation with the University community. However, the Committee wishes to
+point out that if the University of Waterloo appoints an official to assist
+users in responding to particular items as has been recommended, then that
+official should not also be asked to be responsible for removing items from
+circulation; in the Committee's view the two functions conflict directly.
+
+Submitted by:
+
+Greg Bennett, Chair                 Paul Check
+Ian Gibson                          Anil Goel
+John Moore                          Vic Neglia
+Roger Watt, Resource Person         Bud Walker
+Nancy Zinatelli
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+

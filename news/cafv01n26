@@ -1,0 +1,964 @@
+Computers and Academic Freedom (news version)
+September 8, 1991
+Vol. 1, No. 26
+
+[The first three notes this week discuss the Computing Services Policy
+at Central Michigan University. The first note critiques the policy,
+saying that it authorities the University to steal user files. The
+second note corrects an error in the first note. (The policy does
+allow the University to steal user files, but not user copyrights).
+The third note suggests that apathetic users are in part responsible
+for bad policies.
+
+The next two notes offer arguments that might persuade a University
+administrator or sys admin that user files should be private.
+
+In CAF-News 1.24 Neil Rickert described several scenarios that
+illustrated the flexibility that a sys admin needs. The scenarios
+cover everything from runaway processes to sending unwanted messages
+to the terminals of others. Two notes address these scenarios. The
+first outlines rules that in the opinion of the author respect the
+user while allowing the sys admin solve the problems presented. In the
+second note, Mr.  Rickert tells he handled the real-life incidents on
+which the scenarios were based.
+
+The final notes are about the idea of applying library policy to the
+network media such as Netnews. The first note warns that academic
+librarians are not as privileged as it may seem. For example, some are
+poorly paid. The next note argues that sys admins should not select
+newsgroups the way that librarians select magazines; rather, they
+should select newsgroups the way that airlines select routes. The
+third notes says that the application of library policy to computer
+media does not require a merger of a university's library
+administration and computer services administration. In the final
+note, a sys admin opins that librarians who restrict access to Playboy
+may say that the restriction is to protect the magazine but really it
+is to avoid controversy.
+
+- Carl]
+
+
+In this issue:
+
+Carl M. Kadie   230  Computing Services Policy at Central Michigan University
+Carl M. Kadie    46  -
+Sanjay Kapur     53  -
+Carl M. Kadie    36  -
+TK0JUT1@NIU      34  -
+Carl M. Kadie   109  Computer Policy in the Student Handbook
+Neil Rickert    124  -
+Carolyn Kotlas   30  librarians vs. computer center staff
+Robert F Solon   92  Selection Policy for Computer Conferences?
+Carl M. Kadie    41  -
+Sanjay Kapur     22  Restricting access to new<>ups (was: Re: Academic Privacy
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+lines "help" and "index".
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+From: kadie@eff.org (Carl M. Kadie)
+Date: Mon, 2 Sep 1991 19:22:41 GMT
+Message-ID: <1991Sep2.192241.1731@eff.org>
+References: <1991Sep2.161515.24831@eff.org>
+Subject: Computing Services Policy at Central Michigan University
+
+Summary: Central Michigan University Steals User Files
+
+This is a critique of the Computing Services Policy at Central
+Michigan University. The policy as written gives Central Michigan
+authority to steal user file. It also denies users their due process
+rights. The policy should be replaced by a policy created with
+participation of users.
+
+>Excerpts from "Everything You Ever Wanted To Know About Computing
+>Services At Central Michigan University (And Were Afraid To Ask)",
+>Computer Services Document No. CSVD0092. It is given to new users.
+
+>---- begin quote --- 
+
+>_The contents of all storage media owned or stored on Computer
+>Services computing facilities are the property of Central Michigan
+>University unless a written contract signed by suitable contracting
+>authority exists to the contrary._ [The _..._ marks underlining in the
+>original document. - Carl]
+
+According to this paragraph, if a faculty member writes a journal
+article on a Computer Services computer, it becomes the property of
+Central Michigan. This is theft by Computer Services of property
+that rightfully belongs to the faculty member.
+
+As a practical matter, this paragraph is ridiculous. Is Computer
+Services claiming to own the copyright on user-created documents? If
+so, a faculty member who read this paragraph could not legally give a
+journal permission to publish the paper he or she wrote. If the
+faculty member did try to give a permission-to-copy, he or she would
+be guilty of fraud.
+
+The paragraph contradicts policy and law with regard to privacy. The
+contents of personal file cabinets, even if owned by the State, remain
+the property of their assigned user. Unreasonable searches are
+prohibited by the Constitution. The University of Illinois, for
+example, requires a warrant before a search of university-owned
+personal file cabinet.
+
+Principle: Personal files on university's computers (for example,
+files in a user's home directory) should have the same privacy
+protection as personal files in university-assigned space in an office
+or dormitory space (for example, files in a graduate student's desk).
+
+[Aside: I suggest than writers to CAF-talk mark proposed principles as
+I have done above. Start with the word "Principle:" as the first item
+on a line. Mark the end of the proposal with a blank line. This will
+make it easy to extract proposed principles later. - Carl]
+
+The Joint Statement on Rights and Freedoms of Students
+(ftp.eff.org:pub/academic/student.rights) suggests these guidelines
+(which Central Michigan's policy violates.)
+
+"1. Except under extreme emergency circumstances, premises occupied
+by students and the personal possessions of students should not be
+searched unless appropriate authorization has been obtained. For
+premises such as residence halls controlled by the institution, an
+appropriate and responsible authority should be designated to whom
+application should be made before a search is conducted. The
+application should specify the reasons for he search and the objects
+or information sought. The student should be present, if possible,
+during the search. For premises not controlled by the institution,
+the ordinary requirements for lawful search should be followed."
+
+
+>An individual using Computer Services facilities must do so in the
+>knowledge that he/she is using University resources in support of
+>his/her work. The University owns everything stored in its facilities
+>unless it has agreed otherwise. Further, the University has the right
+>of access to the contents at any time for any purpose for which it has
+>a legitimate "need to know". The University will make all reasonable
+>efforts to maintain the confidentiality of the storage contents and to
+>safeguard the contents from loss, but cannot be held liable for the
+>inadvertent or unavoidable loss or disclosure of the contents.
+>Normally, the only "need to know" access to storage media contents
+>will be conducted by the Director of Computer Services, the Associate
+>Director of Computer Services (operations), or the Systems
+>Programmers.
+
+If University really owns the contents of the everything on the
+computer, then there is no confidentiality to maintain. The computer
+files may, however, now be covered by the Family Educational Rights
+and Privacy Act. (I doubt if Computer Services really indented that.)
+
+This search policy could be improved by replacing the "need to know"
+language with the more mature language of the University's general
+search policy.
+
+>...
+
+>_The facilities are provided without charge for purposes of academic
+>advancement and administrative data processing for faculty, staff, and
+>students of Central Michigan University. Use by others or for other
+>purposes is strictly prohibited unless specifically authorized in
+>writing by the Director of Computer Services._
+
+It sounds like Sys Programmer can decide for his or herself to search
+a faculty-created file, but that a faculty member must get written
+permission from the Directory of Computer Services before sending
+email to a friend.
+
+>Computer Services computing facilities are provided in support of
+>teaching and academic advancement and administrative data processing
+>at Central Michigan University. Any faculty member, staff member,
+>emeritus faculty/staff, or student having a current bona fide
+>connection with Central Michigan University is permitted, upon proper
+>validation by Computer Services, to use the instructional/research
+>portion of these facilities without charge regardless of whether or
+>not they are in a "computer-intensive" class or are teaching such a
+>class. The facilities available to the individual will be determined
+>by Computer Services based on intended use of the facilities by the
+>individual and the resources available at the time of validation.
+>Facilities are not provided for the use of spouses, parents, children,
+>or friends of validated users.
+>...
+
+Good.
+
+>...Detection of illegal usage or practices designed to operate to the
+>detriment of the user community will result in the withdrawal of
+>services to the individual determined to be at fault. Computer
+>Services will be the sole arbiter of this decision and services to the
+>individual will only be restored to the individual upon successful
+>appeal to the Director of Computer Services or his designees.
+>...
+
+I would suggest Computer Services policymakers look at Central
+Michigan's general disciplinary policy. Also, they should read the
+Joint Statement on Rights and Freedoms of Students section on
+"Procedural Standards in Disciplinary".
+
+The phrase "practices designed to operate to the detriment of the user
+community" is too vague.
+
+Principle: A reasonable user should be able to determine if his or her
+behavior will violate policy.
+
+This paragraph suggests that the only penalty for "practices designed
+to operate to the detriment of the user community" is permanent
+expulsion from the computer. This is too harsh.
+
+"[P]rocedural fair play requires that the student be informed of the
+nature of the charges against him, that he be given a fair opportunity
+to refute them" [Joint Statement]. The policy does not respect these
+rights.
+
+Also, due process requires that "[w]hen the misconduct may result in
+serious penalties and if the student questions the fairness of
+disciplinary action taken against him, he should be granted, on
+request, the privilege of a hearing before a regularly constituted
+hearing committee.
+...
+No member of the hearing committee who is otherwise interested in the
+particular case should sit in judgment during the proceeding." [Joint
+Statement]
+
+In other words, Computer Services asserts that it is the prosecutor
+and final judge. But, no department on campus has this authority; it
+is a violation of user due-process rights.
+
+Principle: Suspension or expulsion from a computer is a serious
+penalty. Users facing these penalties should be given due process
+protection similar to that given to those facing other serious
+penalties such as a formal disciplinary warning, a failing grade for
+cheating, or suspension from class.
+
+>_Special information regarding audit records on the IBM 3090 computer._
+
+>Any individual using Computer Services facilities must realize that
+>all mainframe computer systems maintain audit trail logs or log files
+>within the mainframe computer. Such information as the user
+>identification, date and time of the session, the software used, the
+>files used, the computer time, and storage used, the user account, and
+>other run-related information is normally available for diagnostic,
+>accounting, and load analysis purposes.
+
+>In the case of the IBM 3090, Computer Services normally retains the
+>information contained in these files for up to one year. Under certain
+>circumstances, this information is reviewed by the Computer Services
+>personnel outlined above, either at the request of an academic
+>department, or in situations where it is necessary to determine what
+>has occurred to cause a particular system problem at a particular
+>time.  For example, analysis of audit files may indicate why a
+>particular data file is being erased, when it was erased, and what
+>user identification has erased it. Inspection of audit records may be
+>used to dispel or confirm a professor's suspicions of academic
+>dishonesty.
+
+>...
+
+>Access to audit records on the IBM 3090 will only be performed by the
+>Computer Services personnel designated above. The review of audit
+>information will only be performed when there is a legitimate "need to
+>know" based on a request from an academic department, an Executive
+>Officer of Central Michigan University, or the Director of Computer
+>Services, or when such a review is deemed necessary in order to
+>maintain a satisfactory computing environment for the University
+>Community. In such cases, a written record will be maintained of the
+>occasion, containing the name of the person accessing the audit
+>records, the date and time of access, whose records were accessed, the
+>extent (date and time range) of the information retrieved, and the
+>circumstances occasioning the access. This record will be kept in the
+>Computer Services administrative manual files under the the
+>designation "IBM 3090 audit record accesses".
+>--- end quote ---
+
+The Family Educational Rights and Privacy Act regulates university
+records. It does not sound as if the log and the "audit record
+accesses" comply with the law.
+
+Also, the phrase "or when a review is deemed necessary in order to
+maintain a satisfactory computer environment" is a vague catch-all that
+would seem to permit review at any time. It does not even say who
+authorized to do the "deeming".
+
+Finally,
+
+Principle: "[P]olicies and procedures should be developed at each
+institution within the framework of general standards and with the
+broadest possible participation of the members of the academic
+community." [Joint Statement]
+
+Following this principle, the Central Michigan policy should be
+replaced by a policy created with the participation of users.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: kadie@eff.org (Carl M. Kadie)
+Date: Wed, 4 Sep 1991 00:30:30 GMT
+Message-ID: <1991Sep4.003030.2331@eff.org>
+References: <1991Sep2.161515.24831@eff.org> <1991Sep2.192241.1731@eff.org> <1563@ra.MsState.Edu>
+Subject: Computing Services Policy at Central Michigan University
+
+In article <1991Sep2.192241.1731@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+
+>>According to this paragraph, if a faculty member writes a journal
+>>article on a Computer Services computer, it becomes the property of
+>>Central Michigan. This is theft by Computer Services of property
+>>that rightfully belongs to the faculty member.
+
+>>As a practical matter, this paragraph is ridiculous. Is Computer
+>>Services claiming to own the copyright on user-created documents? If
+>>so, a faculty member who read this paragraph could not legally give a
+>>journal permission to publish the paper he or she wrote. If the
+>>faculty member did try to give a permission-to-copy, he or she would
+>>be guilty of fraud.
+
+fwp1@Jester.CC.MsState.Edu (Frank Peters) writes:
+[...]
+>     Copyright is not ownership.  Ownership is not copyright.
+[...]
+>Central Michigan University claims ownership of a particular copy of a
+>work stored on their media.   They claim that they can read it or move
+>it or remove it or modify it as necessary.  That is, they can do as
+>they wish with that particular copy of the work.
+
+I'm sorry for the mistake. I usually do know the difference between
+owning a copy and owning a copyright.
+
+Basic property rights include:
+  The right to sell (lease, etc)
+  The right to use (and to forbid the use of others)
+
+Are they really claiming the right to sell "their" copy of files
+created by users?
+
+Are they really claiming an unlimited right to edit user files and to
+forbid users from accessing "their own" files. Must a user ask
+permission before deleting a "university" file?
+
+I think that instead of claiming ownership, they would be wiser to get
+a license to do necessary system administration tasks. On most systems
+this license is implicit.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: SKAPUR@ccmail.sunysb.edu (Sanjay Kapur)
+Date: 3 Sep 91 06:41:00 GMT
+Message-ID: <202C75A18080B52F@ccmail.sunysb.edu>
+Subject: Computing Services Policy at Central Michigan University
+
+>From: kadie@eff.org (Carl M. Kadie)
+>
+>Summary: Central Michigan University Steals User Files
+>
+>This is a critique of the Computing Services Policy at Central
+>Michigan University. The policy as written gives Central Michigan
+>authority to steal user file. It also denies users their due process
+>rights. The policy should be replaced by a policy created with
+>participation of users.
+>
+
+I agree that policy should be made with the participation of users and I also 
+agree with most (though not all) of your critique of the policy. 
+
+I just have one major point:
+
+    Users at most schools don't give a damn about the computer policy.  They 
+    are simply not interested in spending the time it would take to come up
+    with a reasonable policy.  The problem at most places is apathy.
+
+If the above were not so, how has the Central Michigan policy survived?
+
+I would ask susbcribers to this newsgroup to conduct a highly unscientific and 
+random poll of the users of computers at their site and ask users the 
+following type of questions.  Please do not bias the sample group of users.  
+You will bias the sample by educating them about what the policy is or what 
+it should be before asking these questions:
+
+1) Do they know that there is a computer policy?
+2) Do they know what it says?
+3) Will they be willing to spend a few hours a week developing or improving 
+   such a policy?
+4) Do they know who all can read their files? Even protected files? Do they 
+   care?
+5) Do they protect their account by not sharing passwords?
+6) Do they know that there is a group of people who do systems work?
+7) Do they know what the systems staff does with the system?
+8) Are they dissatisfied with the way the systems staff does its work?
+
+I have talked with several hundred users over the past few years about these 
+topics and I have come across only two persons who answered all the questions 
+above positively.  (maybe they were afraid of admitting to 8) above to me, but 
+do you want someone, who is afraid of the systems staff, to make policy?) 
+Those two individuals who were initially interested in helping design a policy 
+purchased their own Personal Computers and lost all interest in developing a 
+policy also.  Maybe there are users who are interested in this at my campus, 
+I just have not been lucky enough in locating them.
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+From: kadie@eff.org (Carl M. Kadie)
+Date: Thu, 5 Sep 1991 16:12:30 GMT
+Message-ID: <1991Sep5.161230.19723@eff.org>
+References: <3FCB27CA9080B52F@ccmail.sunysb.edu>
+Subject: Computing Services Policy at Central Michigan University
+
+>>SKAPUR@ccmail.sunysb.edu (Sanjay Kapur) writes:
+>>[...]
+>>>Would it be possible for someone to come up with reasons that a University 
+>>>administrator can understand as to why the "the assumption that files are 
+>>>absolutely private" should be so?
+>>[...]
+
+Here are possible carrots.
+
+(This is speculation; I don't have enough experience to know if the
+world really works like this.)
+
+1. Idealism -- Many Sys Admin see computers as ways of making the
+world better. Because they feal that computer files ideally should be
+private, sys admins may support policy that offers some measure of
+protection. (They may also work to make the ideal closer to reality by
+supporting technical work in encryption and the like.)
+
+2. Better Relations -- Users have a better feeling about the computer
+if they know that privacy is the default.
+
+3. Professionalism -- If sys admins aspire to professionalism (like
+librarians and college teachers), they will likely develop a code of
+ethics that sometimes requires them to defend users against pressure
+from above. (A high school librarian would fight a request from the
+Principal to pull a book. A college teacher would fight a request from
+a Dean to change a student's grad.)
+
+- Carl
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: TK0JUT1@NIU.BITNET
+Date: 4 Sep 91 05:10:00 GMT
+Message-ID: <199109040532.AA06854@eff.org>
+Subject: Computing Services Policy at Central Michigan University
+
+There are already several grounds for such policies.
+
+1) The general privacy metaphors that already shape policy regarding
+   snooping in our office desks or file cabinets
+
+2) The spirit of the ECPA and other laws or policies that recognize that
+   one's *personal* files are entitled to be free from intrusion
+
+3) The spirit and logic of laws and policies that sanction system
+   intrusions exist in large part to protect the private files of the
+   community of users on that system.
+
+4) The general sense from the nets is that many, perhaps most,
+   universities already have such policies in place. Perhaps the problem,
+   judging from the comments of some in this group, is encouraging some
+   sysads to read those policies.
+
+Using only anecdotal evidence, it seems there are surprisingly few
+problems involving extreme cases of the kinds of abuse about which we are
+concerned. This, I suspect, is largely because most sysads are honorable
+and competent. In some ways, the discussion is proactive, because none of
+us have (as of yet) identified a serious problem resulting from file
+instrusion, ownership rights, or other problems that might emerge when
+rules don't match the behaviors they address. Of the university policies
+posted in the EFF and CuD archives, most seem well-intended (despite some
+occassionaly awkward wording). Perhaps, as somebody suggested, there is
+some red-herring dragging occuring here, because it seems that--for
+better or ill-the policies of most schools are an attempt to recognize
+and address potential problems. One value of this discussion is to make
+us more aware of the policies and (potential) limitations at our own
+institutions and share our insights with others.
+
+Jim Thomas
+
+From: kadie@eff.org (Carl M. Kadie)
+Date: Thu, 5 Sep 1991 18:10:39 GMT
+Message-ID: <1991Sep5.181039.22607@eff.org>
+References: <1991Aug23.145258.12240@eff.org>  <1991Aug31.162538.22121@mp.cs.niu.edu>
+Subject: Computer Policy in the Student Handbook
+
+I wrote:
+
+>>Can you give examples of situations in which a sys admin needs a great
+>>deal of flexibility? Perhaps we can propose some rules that are clear
+>>enough to satisfy me and flexible enough to satisfy you.
+
+rickert@cs.niu.edu (Neil Rickert) writes:
+
+[...]
+> I see a student has 50 processes running wild (our current per-user
+>   limit),
+>   and I see a faculty member has 3 processes very carefully 'nice'd. 
+>   I need the flexibility to decide that the student problem is 
+>   inconsequential, probably caused by a shell script named 'test' which does 
+> an 'if test ...', and I need the flexibility to kill two of the
+> professor's 
+> processes because, in spite of the 'nice', they are memory hogs and are
+>   thrashing so severely as to cause severe interference with other users.
+
+(These are great examples. Sorry, I've taken so long to respond.)
+
+I agree that a Sys Admin should be able to make these decisions.  Your
+purpose in killing the professor's jobs was to stop the system from
+thrashing. It was not to punish the professor. You did not act
+capriously.
+
+(You should of course tell the professor what you did. Otherwise
+the professor will likely just start the jobs up again.)
+
+Hopefully, a discussion with the professor will lead to some
+solution that will allow her to run her jobs without impacting
+the system so much (one job at a time, an account on a other machine,
+running at night, etc.)
+
+>   --
+
+>   I see student A has started a daemon which watches for new logins, and 
+>   does 'write's to them.  I see student B has started a daemon which watches 
+>   for new processes and attempts to 'kill' them.
+
+>   I need the flexibility to determine that student A has done something 
+>   abusive and anti-social, while student B has merely seen a neat looking 
+>   program named 'init', tried it to see what it does, then attempted to kill 
+>   it after realizing his mistake.  (Naturally I removed the world execute 
+>   permissions of 'init' after this happened).
+
+First, what rules might be broken?
+
+There might be a rule against harassment. Where "harassment" is
+knowingly sending unwanted personal communications on the computer.
+Person A would know his or her communications was unwanted if he or
+she had received notice (say, via email, or by being told).  Personal
+communications on the computer would include talk requests, email, and
+programs that wrote to the user's terminal.
+
+There might also be a rule against unauthorized changes to the status
+of computer jobs. User C and the system staff would be authorized to
+change User C's jobs. (User C might also authorize others.)
+
+If anyone (even you, the sys admin) complains that Person A is
+harassing. You could investigate. If A is off the system and you have
+reason to believe that A's deamon is causing the problem, you could
+kill or suspend it.
+
+(You should, of course, tell A what you did, otherwise A will likely
+just start the jobs up again.)
+
+You should send email to A asking for an explanation (or a meeting).
+Person A probably deserves an informal warning. If, after warnings, A
+continues to harass, A may deserve a formal warning or a short
+suspension from the computer.
+
+With person B, you can of course kill the 'init' process.  Email or a
+meeting with the person will probably convince you that person B did
+not intent to break the rule.
+
+>   --
+
+>   I need the flexibility to decide that a student who is 'telnet'ing to port 
+>   2000 as some place halfway across the country is violating our rules 
+>   against playing games in the middle of the day.  I need the flexibility to 
+>   decide that another student who is running a program called 'hangman' is 
+>   just working on an assignment in his programming class.
+
+I'm not fond of restrictions on what kind of program can be run. I'd
+much rather have limits on the effects of those programs (e.g. how
+much CPU time programs can use, etc.) Kind-of-program restrictions are
+as hard to enforce as topic restrictions on email.
+
+Most game playing can be detected accurately by the name of the
+process. Email and/or a meeting should take care of the problem.
+
+Some game playing is bound to go undected.
+
+But what about the other cases. I don't know the answer.
+
+What is worse, running a program of the wrong kind or official
+snooping to make sure that your program is not the wrong kind?
+
+Is there middle ground? At the U. of Illinois if they think that too
+many people are living in a dorm room, they give 24 hours notice that
+there will be an inspection.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+From: rickert@cs.niu.edu (Neil Rickert)
+Date: 5 Sep 91 20:57:47 GMT
+Message-ID: <1991Sep5.205747.17426@mp.cs.niu.edu>
+References: <1991Aug23.145258.12240@eff.org> 
+Subject: Computer Policy in the Student Handbook
+
+In article <1991Sep5.181039.22607@eff.org> kadie@eff.org (Karl Kadie) writes:
+>I wrote:
+>
+>>>Can you give examples of situations in which a sys admin needs a great
+>>>deal of flexibility? Perhaps we can propose some rules that are clear
+>>>enough to satisfy me and flexible enough to satisfy you.
+>
+>rickert@cs.niu.edu (Neil Rickert) writes:
+>
+>[...]
+>> I see a student has 50 processes running wild (our current per-user
+>>   limit),
+>>   and I see a faculty member has 3 processes very carefully 'nice'd. 
+>>   I need the flexibility to decide that the student problem is 
+>>   inconsequential, probably caused by a shell script named 'test' which does 
+>> an 'if test ...', and I need the flexibility to kill two of the
+>> professor's 
+>> processes because, in spite of the 'nice', they are memory hogs and are
+>>   thrashing so severely as to cause severe interference with other users.
+>
+>(These are great examples. Sorry, I've taken so long to respond.)
+>
+>I agree that a Sys Admin should be able to make these decisions.  Your
+>purpose in killing the professor's jobs was to stop the system from
+>thrashing. It was not to punish the professor. You did not act
+>capriously.
+>
+>(You should of course tell the professor what you did. Otherwise
+>the professor will likely just start the jobs up again.)
+
+  Naturally I informed him.
+
+>Hopefully, a discussion with the professor will lead to some
+>solution that will allow her to run her jobs without impacting
+>the system so much (one job at a time, an account on a other machine,
+>running at night, etc.)
+
+  In this case the professor had discussed it with me before starting the
+jobs, but it was difficult to estimate the impact which was more serious than
+at originally anticipated.
+
+>>   I see student A has started a daemon which watches for new logins, and 
+>>   does 'write's to them.  I see student B has started a daemon which watches 
+>>   for new processes and attempts to 'kill' them.
+>
+>>   I need the flexibility to determine that student A has done something 
+>>   abusive and anti-social, while student B has merely seen a neat looking 
+>>   program named 'init', tried it to see what it does, then attempted to kill 
+>>   it after realizing his mistake.  (Naturally I removed the world execute 
+>>   permissions of 'init' after this happened).
+>
+>First, what rules might be broken?
+>
+>There might be a rule against harassment. Where "harassment" is
+>knowingly sending unwanted personal communications on the computer.
+>Person A would know his or her communications was unwanted if he or
+>she had received notice (say, via email, or by being told).  Personal
+>communications on the computer would include talk requests, email, and
+>programs that wrote to the user's terminal.
+
+  In the particular case I have in mind, I found out about this from a
+complaint by another user.  The complainer had great difficulty logging
+in because the messages were interrupting prompts for terminal type, etc.
+I certainly considered that harrassment.  My action was to kill the job and
+send the offender a warning.
+
+>(You should, of course, tell A what you did, otherwise A will likely
+>just start the jobs up again.)
+
+  I would not normally kill a user's job without informing that user,
+most commonly by email.
+
+>With person B, you can of course kill the 'init' process.  Email or a
+>meeting with the person will probably convince you that person B did
+>not intent to break the rule.
+
+  In this case "person B" brought the matter to my attention, since his
+action prevented further use of the system by him.  But in this case I
+could joke with the student about him doing something dumb, instead of
+having to reprimand him.
+
+>>   I need the flexibility to decide that a student who is 'telnet'ing to port 
+>>   2000 as some place halfway across the country is violating our rules 
+>>   against playing games in the middle of the day.  I need the flexibility to 
+>>   decide that another student who is running a program called 'hangman' is 
+>>   just working on an assignment in his programming class.
+>
+>I'm not fond of restrictions on what kind of program can be run. I'd
+>much rather have limits on the effects of those programs (e.g. how
+>much CPU time programs can use, etc.) Kind-of-program restrictions are
+>as hard to enforce as topic restrictions on email.
+
+  You might not be fond of restriction.  But when a large proportion of our
+terminal ports are tied up by game players, and legitimate users with
+homework assignments due are thereby prevented from accessing the system,
+I must act.  Email warnings are always given first, and further action is
+only taken if the warnings are ignored.
+
+>What is worse, running a program of the wrong kind or official
+>snooping to make sure that your program is not the wrong kind?
+
+  Most system admins don't have the time or the patience to be "snooping"
+on what people are doing.  But they do have to monitor the system, look
+at process queues, mail queues, etc.  In the process of routine system
+monitoring they may observe abuse.  I don't consider that "snooping".
+
+>Is there middle ground? At the U. of Illinois if they think that too
+>many people are living in a dorm room, they give 24 hours notice that
+>there will be an inspection.
+
+ Note that in the (real) examples I gave, the only cases that I acted
+immediately were when there was an immediate impact on the system which
+interfered with other users.  Under any other circumstances giving notice
+should be standard procedure.  I presume that at U. of Illinois if they
+noticed smoke billowing from a dorm room, or if the sound level from
+a stereo was so high as to be intolerable to neighbors, they would not
+give 24 hours notice but would take some immediate action.
+
+-- 
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+  Neil W. Rickert, Computer Science               <rickert@cs.niu.edu>
+  Northern Illinois Univ.
+  DeKalb, IL 60115                                   +1-815-753-6940
+
+From: ecsvax!kotlas@uncecs.edu (Carolyn M. Kotlas)
+Date: 3 Sep 91 15:09:22 GMT
+Message-ID: <9109031509.AA21419@ecsvax.uncecs.edu>
+Subject: librarians vs. computer center staff
+
+Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+in Message-Id: <2F0D768BFC00965B@ccmail.sunysb.edu>
+~Subject: Re: Free Forum vs. Class-Work Only machine
+writes:
+
+> Also Systems staff (people like me) should get the same privileges as
+> Librarians do (e.g. most Universities give Librarians Faculty status 
+> and a 9 month academic year work schedule)
+
+Is this becoming the norm?  From my experience with the University of
+North Carolina, librarians put in a 12 month work year since their
+libraries are serving students year-round.  
+
+Also from my personal experience, systems staff would be well advised to
+check out the salary differences before they lobby to receive *all* the same
+privileges as university librarians.  Librarians' annual salaries here can
+average $5000 (or more) *less* than computer center personnel.  And
+educational requirements vary quite a bit too.  To get that lower
+salary, librarians *must* have a master's degree while the degree
+requirements for computer center staff may be less stringent.  
+(Although the job market here does make advanced degrees highly desirable
+for computer center job applicants.)
+-c-
+
+-- 
+Carolyn M. Kotlas      
+Information Resources
+UNC Chapel Hill Institute for Academic Technology 
+kotlas@uncecs.edu -- kotlas@ecsvax.bitnet
+
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Date: 6 Sep 91 11:47:35 GMT
+Message-ID: <9109061947.AA00162@dsacg2.dsac.dla.mil>
+Subject: Selection Policy for Computer Conferences?
+
+In reply to the mail from <ALILESTE@idbsu.idbsu.edu>...
+>Date:         Thu, 5 Sep 1991 16:41:21 CDT
+>Subject:      Selection Policy for Computer Conferences?
+>
+>Below the sig block are some comments on this memo.     dan
+>
+>************************************************************************
+>* Dan Lester                          Bitnet:   alileste@idbsu
+>* Associate University Librarian      Internet: alileste@idbsu.idbsu.edu
+>* Boise State University
+>* Boise, Idaho  83725                 You can be sure these ideas are my
+>* 208-385-1234                        own; no one else would have them.
+>************************************************************************
+>
+>----------------------------Original message----------------------------
+>>rom: kadie@eff.org (Carl M. Kadie)
+>>Subject: Wanted selection policy for NetNews
+>
+>
+>>Last week a computer administer at the University of Kentucky stated
+>>that his machine would be avoiding a popular newsgroups dealing with
+>>sex because he feared it was too controversial. In Canada, the
+>   Well, I disagree with him/her, but....
+
+Apparently Carl wasn't persuaded by those (myself included) who argued that
+"owners have rights, too."  He said he did in this newsgroup, (or at least he
+conceded the point), but actions do speak louder than words.  The action in
+question was the decision not to carry alt.sex.  The prevailing argument was
+that as the owner or owner's representative, the sysadmin had the right to
+determine what newsgroups were carried.  The users of the system have the
+right to enjoy unrestricted speech in e-mail and in the newsgroups carried by
+the system, but the owner/sysadmin has no obligation to carry any particular
+newsgroups or any of them.  the analogy used was that of an airline:  an
+airline must offer the same services to all its passengers and may not deny
+services to anyone for any reason, but it is not required to carry Passenger A
+to point B if the airline has no routes to Point B.  Similarly, owners should
+respect the rights of those participating in the groups carried by that site,
+but the owners are under no obligation to carry any particular newsgroups.
+This is _not_ censorship!!
+
+In all fairness, however, I would like to see the entirety of the original
+email, before making further comment.
+>
+>>published once a year in book form. Ironically, the University of
+>>Waterloo's library collects the books.).
+>   Inconsistencies like this abound in  all areas of selection or
+>censorship, in libraries or otherwise.
+>
+>
+>>I think a computer with Netnews *is* (in part) a library and should
+>>follow proper library selection (and deselection) policy. (Stanford
+>>fought a ban of the humor newsgroup by making this their official
+>>policy.) As a computer scientist, however, I don't have a good
+>>understanding of the details of selection.
+>    This is an interesting concept and not one I have run into before.
+>I agree that all "information management"  should operate under similar
+>or identical policies, but I imagine many of the "turf managers" involved
+>would disagree.  Although libraries and computer centers seem to be
+>gradually "merging" on campuses, many on both sides are either protective
+>of their empires or don't want to "mess with" the other side.
+>
+
+What about a private library, i.e., owned by private individuals who offer it
+for public use? (It may be a rare-document library, for example).  Is it
+"censorship" for the owner not to carry rare documents from Ancient Fubar
+because they contain material deemed pornographic?  It may be poor
+scholarship, but I hardly think it qualifies as "censorship."
+
+>>These are the formative years for computer media policy. It
+>>is very important that we formulate a good policy.
+>   No question about that, but such policies in libraries vary widely,
+>depending on local politics, local personalities, whether the institution
+>is public, private, or church supported (and what church, for that matter),
+>and so forth.  National guidelines or principles could be useful, just as
+>libraries have them for book/journal selection, but the local practices
+>will vary considerably.
+
+Of course good policy is needed.  I quite agree.  I'm quite unconvinced,
+however, that allowing owners of systems their First Amendment _as well as_
+property rights to select the newsgroups they will carry is in any way
+"censorship."
+
+
+Bob
+
+
+
+Bob Solon, rsolon@dsac.dla.mil
+Administrative Information Branch -- "We Code, You Explode!!"
+Directorate of Resource Management Systems (APCAPS)
+DLA Systems Automation Center, DSAC-BCC       (614) 238-8256  AV 850-8256
+
+From: kadie@eff.org (Carl M. Kadie)
+Date: Fri, 6 Sep 1991 21:55:31 GMT
+Message-ID: <1991Sep6.215531.21421@eff.org>
+References: <199109061901.AA15465@eff.org>
+Subject: Selection Policy for Computer Conferences?
+
+I wrote:
+
+>>I think a computer with Netnews *is* (in part) a library and should
+>>follow proper library selection (and deselection) policy. (Stanford
+>>fought a ban of the humor newsgroup by making this their official
+>>policy.) As a computer scientist, however, I don't have a good
+>>understanding of the details of selection.
+
+ALILESTE@idbsu.idbsu.edu writes:
+
+[...]
+>    This is an interesting concept and not one I have run into before.
+>I agree that all "information management"  should operate under similar
+>or identical policies, but I imagine many of the "turf managers" involved
+>would disagree.  Although libraries and computer centers seem to be
+>gradually "merging" on campuses, many on both sides are either protective
+>of their empires or don't want to "mess with" the other side.
+[...]
+
+I imagine that most universities will keep the administration of
+computer centers and libraries separate (for the foreseeable future).
+I hope that each group will learn from the other. I hope that
+library-run computers will follow good computer policy (backups,
+security, etc).  I hope that computer-center-run libraries such as
+Netnews will follow good library policy (selection, confidentiality,
+etc.)
+
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+------------------------------
+
+End of caf-talk Digest
+******************************
+
+>From deldelx Tue Sep 10 09:20:11 1991
+Status: R
+
+From: SKAPUR@ccmail.sunysb.edu (Sanjay Kapur)
+Date: 8 Sep 91 15:58:00 GMT
+Message-ID: <5BCA15E24E81324C@ccmail.sunysb.edu>
+Subject: Restricting access to newsgroups (was: Re: Academic Privacy
+
+>From: kadie@eff.org (Carl M. Kadie)
+>(Most) libraries restrict access to Playboy, not because it contains
+>pictures of nude women, but because experience has shown that it is
+>likely to get stolen.
+
+Do you really believe that? 
+
+My opinion of the reason cited by you for restricting access to Playboy is: 
+Hogwash.  Librarians, like all other human beings lie when asked difficult 
+questions.  That does not mean you have to believe their lies.
+
+The replacement cost of Playboy is low comapared to some scientific journals, 
+copies of which get stolen on a regular basis.  These journals are NOT 
+kept behind the counter.   Why can't the library have get two subscriptions to 
+Playboy? one to keep behind the counter and one to keep on the shelf if 
+interest in this magazine is high enough for it get stolen.  Libraries often 
+get more than one copy of an item in which interest is high.
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+

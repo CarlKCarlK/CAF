@@ -1,0 +1,251 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 28, 1992",
+      "historical_relevance": "medium",
+      "item_type": "editor note",
+      "notable_claims": [
+        "Student posting restrictions are viewed by some as ineffective compared to user education.",
+        "Rice University's Owlnet implemented a comprehensive set of computing policies, enforcement guidelines, and a System Administrator Statement of Ethics."
+      ],
+      "organizations": [
+        "EFF",
+        "Rice University",
+        "Cleveland Free-Net"
+      ],
+      "people": [
+        "Lorrie Ackerman",
+        "Carl M. Kadie",
+        "Paul W S KD3FU",
+        "Fred Welden",
+        "Stephen Trier",
+        "Alex Martelli"
+      ],
+      "summary": "This is a digest abstract for the Computers and Academic Freedom News issue ending June 28, 1992. It summarizes five discussions regarding student posting privileges, First Amendment language, anonymous newsgroup implementation at Cleveland Free-Net, strategies to combat information overload, and revised computing policies at Rice University's Owlnet.",
+      "title": "Abstract of CAF-News 02.31",
+      "topics": [
+        "student posting privileges",
+        "First Amendment",
+        "anonymous newsgroups",
+        "university computing policy",
+        "information overload"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "lorracks@wucs1.wustl.edu (Lorrie Ackerman)",
+      "item_count": 6,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n31",
+      "subject": "Article 0 -- Abstract of CAF-News 02.31",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "23 Jun 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Most US academic institutions maintain open access policies for students regarding network services.",
+        "Technical restrictions on posting are largely ineffective due to multiple entry points like telnet and mail gateways.",
+        "Computing centers exist to serve students who pay tuition, making restrictive access a failure of customer service."
+      ],
+      "organizations": [
+        "University of Nebraska Omaha",
+        "City University London",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Paul W Schleck",
+        "COLLIER M P",
+        "Carl Kadie"
+      ],
+      "summary": "Paul W. Schleck responds to a system administrator's request for technical methods to prevent students from posting to Usenet. Schleck argues against restricting student access, comparing it to banning all students from a library because some vandalize books. He advocates for user education and open access policies over technical censorship.",
+      "title": "Article 1--Re: Posting priviledges in educational establishments",
+      "topics": [
+        "Usenet",
+        "student access",
+        "network administration",
+        "academic freedom",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "23 Jun 92 16:52:37 GMT",
+      "from": "pschleck@odin.unomaha.edu (Paul W Schleck KD3FU)",
+      "item_count": 6,
+      "item_index": 1,
+      "message_id": "<pschleck.709318357@odin>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n31",
+      "subject": "Article 1--Re: Posting priviledges in educational establishments",
+      "to_or_newsgroups": "news.admin,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 24 Jun 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The original text of the First Amendment may have been phrased to avoid conflict with existing state laws during ratification.",
+        "The distinction between 'freedoms' and 'rights' in the First Amendment might suggest that speech and religion were not intended as absolute guarantees."
+      ],
+      "organizations": [],
+      "people": [
+        "Fred Welden"
+      ],
+      "summary": "Fred Welden analyzes the specific phrasing of the First Amendment, questioning why it forbids Congress from making laws rather than explicitly guaranteeing rights. He speculates on whether this distinction was intended to allow state-level restrictions or to distinguish 'freedoms' from 'rights'. The post reflects a broader discussion within the academic freedom community regarding the legal foundations of free speech.",
+      "title": "Article 2--Re: [UPI] Supreme Court strikes down 'hate crime' statutes",
+      "topics": [
+        "First Amendment",
+        "Free Speech",
+        "Constitutional Interpretation",
+        "Academic Freedom"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 24 Jun 1992 18:21:04 GMT",
+      "from": "sasafw@dobo.unx.sas.com (Fred Welden)",
+      "item_count": 6,
+      "item_index": 2,
+      "message_id": "<BqD4B4.2Lx@unx.sas.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n31",
+      "subject": "Article 2--Re: [UPI] Supreme Court strikes down 'hate crime' statutes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jun 25, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The Cleveland Free-Net implemented patched C News to support anonymous newsgroups.",
+        "Identifying information was removed from headers before reaching moderators to guarantee anonymity.",
+        "Law, Medical, Gay and Lesbian, and Environmental SIGs utilized these anonymous groups."
+      ],
+      "organizations": [
+        "Cleveland Free-Net",
+        "Case Western Reserve University"
+      ],
+      "people": [
+        "Stephen Trier",
+        "Douglas Jones"
+      ],
+      "summary": "Stephen Trier describes a technical implementation of anonymous newsgroups used by the Cleveland Free-Net (CFN). The system patched C News to strip identifying header information before articles reached moderators. This was utilized by various Special Interest Groups (SIGs) to ensure user privacy.",
+      "title": "Article 3--Re: Anonymous postings (was: [] More S/H)",
+      "topics": [
+        "anonymity",
+        "Usenet",
+        "C News",
+        "privacy",
+        "moderated newsgroups"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 25 Jun 1992 02:51:44 GMT",
+      "from": "sct@po.cwru.edu (Stephen Trier)",
+      "item_count": 6,
+      "item_index": 3,
+      "message_id": "<9206250251.AA04855@nextsun.INS.CWRU.Edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n31",
+      "subject": "Article 3--Re: Anonymous postings (was: []  More S/H)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Jun 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Information overload is as significant a problem for access to information as censorship.",
+        "Decentralized, user-driven content curation via 'metaposts' can replace the need for official group moderators."
+      ],
+      "organizations": [],
+      "people": [
+        "Alex Martelli",
+        "Tapani Tarvainen"
+      ],
+      "summary": "Alex Martelli responds to a discussion about information overload and censorship on Usenet. He proposes a decentralized system of 'metacommenting' where users can post keywords or evaluations of articles to separate groups, allowing other users to filter content based on trusted critics rather than relying on centralized moderation.",
+      "title": "Article 4--Re: would this be censorship?",
+      "topics": [
+        "Usenet",
+        "information overload",
+        "censorship",
+        "content filtering",
+        "moderation"
+      ]
+    },
+    "identity": {
+      "date": "25 Jun 92 09:23:38 GMT",
+      "from": "martelli@cadlab.sublink.org (Alex Martelli)",
+      "item_count": 6,
+      "item_index": 4,
+      "message_id": "<1992Jun25.092338.8704@cadlab.sublink.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n31",
+      "subject": "Article 4--Re: would this be censorship?",
+      "to_or_newsgroups": "news.admin,alt.censorship,alt.comp.acad-freedom.talk,news.future,news.groups",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June 27, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Rice University established a Student Advisory Committee to include student input in policy formulation and disciplinary proceedings.",
+        "Owlnet system administrators adopted a formal Statement of Ethics regarding user privacy and confidentiality.",
+        "Previous Rice policies required Vice President permission for students to send communications off-campus, though Owlnet later implemented blanket permission for educational purposes."
+      ],
+      "organizations": [
+        "Rice University",
+        "Owlnet",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Joseph A. Watters"
+      ],
+      "summary": "Carl Kadie shares updated computing policies for Owlnet at Rice University provided by Joseph A. Watters. The updates include a System Administrator Statement of Ethics and the creation of a Student Advisory Committee to handle policy review and disciplinary actions. The item also references previous critiques of Rice's restrictive off-campus communication policies.",
+      "title": "Article 5--Rice U. - Overview",
+      "topics": [
+        "university computing policy",
+        "student governance",
+        "sysadmin ethics",
+        "academic freedom",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 27 Jun 1992 18:17:53 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 6,
+      "item_index": 5,
+      "message_id": "<1992Jun27.181753.21585@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n31",
+      "subject": "Article 5--Rice U. - Overview",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,1925 @@
+Xref: eff comp.admin.policy:1695 alt.comp.acad-freedom.talk:4008
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!iWarp.intel.com|uunet!zaphod.mps.ohio-state.edu!hobbes.physics.uiowa.edu!news.iastate.edu!john
+From: john@iastate.edu (John Hascall)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr11.150009.6432@news.iastate.edu>
+Keywords: opinions welcome.......
+Sender: news@news.iastate.edu (USENET News System)
+Organization: Iowa State University, Ames, IA
+References: <1992Apr9.160725.7355@ms.uky.edu>
+Date: Sat, 11 Apr 1992 15:00:09 GMT
+Lines: 161
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+}I have been working on a "Student Access and Use Policy".  I've finally
+}managed to wrangle it into a manageable form.  I'd like to hear any com-
+}ments you may have.
+
+Well, here are my comments.  Well, actually my complaints.  If I
+left it out, I didn't have any questions about it.
+
+John
+My background (bias?) is:
+     ISU Comp Ctr Systems Software Engineer
+     Member of ISU Computor Advisory [to the Provost] Committee
+     Part-time graduate student
+}==============================================================================
+}DRAFT
+}
+}                Student Computing Access and Use Policy
+
+}                                          ... No disciplinary action will be
+}taken against students by the Engineering Computing Center; if such action
+}is contemplated, the matter will be remanded to the appropriate office.
+             [this appears to not be true, see below]
+
+}1.1   Use of restricted ECC facilities by those students outside the College
+}      of Engineering is prohibited.  [Paragraph 1.21u, CSC] 
+
+What about students not in the Engineering College but who are taking
+an Engineering Course?  Where do they fall?
+
+}1.2   Sharing your userid with any other person is prohibited.  [Paragraph
+}      1.21u, CSC]
+}
+}1.3   Using a userid which belongs to another user is prohibited, even if you
+}      have been issued a userid of your own.  [Paragraph 1.21u, CSC]
+
+We also have a rule of one userid per person -- it sounds like this is your
+situation, maybe that is worth saying explicitly.
+
+}The ECC Staff may, at a later date, establish specific policies to address
+}short-term problems or situations.  You are obligated to follow those short-
+}term directives and/or policies, just as you are obligated to follow this
+}policy.  You may also receive specific personal instructions from ECC Staff;
+}those instructions must be followed as well.  Therefore:
+
+Some assurance that these policies and/or instructions will also be in
+accordance with, and not superior to, University policy?
+
+}You are allocated a certain amount of disk space on ECC system for storage
+}of your files and data.  Each user has their own disk space; you have no need
+}to examine the disk space of other users.  The ECC Staff does not, and will
+}not, examine student files or data, except during normal computing
+}operations (e.g., making system backup tapes).  Therefore:
+
+An assurance that files/data `accidentally' seen will be not be divulged?
+
+}2.2   Attempts to evade or change resource quotas are prohibited.
+}      [Paragraphs 1.21a, 1.21h, and 1.21u, CSC]
+
+I assume you *are* allowed to change a quota by requesting a change from ECC?
+
+}While we do not place arbitrary limits on your use of ECC systems, it is quite
+}possible for you to consume a significant portion of the systems' resources. 
+}As a result, you may impede the work of other users.  If this should occur,
+}you will be notified by ECC staff.  Therefore:
+}
+}2.3   Continued impedance of other users through mass consumption of
+}      system resources, after receipt of a request to cease such activity, is
+}      prohibited.  [Paragraph 1.21a, CSC]
+
+How does someone who feels his consumption of resourses is warranted
+(necessary to their academic success) seek appeal?
+
+}Your access to ECC systems is based on your academic needs.  We cannot,
+}and will not, support "for-profit" operations.  Therefore:
+}
+}2.4   Use of ECC facilities and/or services for commercial purposes is
+}      prohibited.  [Paragraphs 1.21g and 1.21u, CSC]
+
+Definition of `for-profit'?  Is, for example, using misc.forsale allowed
+or not allowed.
+
+}ECC resources are dedicated to academic work.  At this time, we cannot
+}support game or recreational programs.  Therefore:
+}
+}2.5   The installation/execution of games and/or recreational programs on 
+}      ECC systems is prohibited. [Paragraph 1.21u, CSC]
+
+Definition of recreational?  News?  Only certain newsgroups?  E-mail?
+Talk?  IRC?  Playing MUD?  Writing MUD?  Writing a program not required
+in any class?  Fortune?  FTP?  Archie?  ...
+
+}Section 3: Electronic Mail Policy
+     :
+}3.4   All mailing lists with more than 10 members must be registered with
+}      the ECC staff. [Paragraph 1.21u, CSC]
+
+I'm sorry, this seems absolutely absurd.
+
+}It is important to note that the ECC staff will make arrangements for large
+}mailing lists; however, we will not support mailing lists whose subjects
+}violate University policy, State law, or Federal law.  (In any situation where
+}this is a possibility, the University Counsel will be asked for a decision.)
+
+How could the existence of a mailing list could be illegal?
+
+}Section 4: Network Use Policy
+    :
+}There are a limited number of network ports available to certain systems. 
+}It is possible to connect to other systems via ECC systems.  This misuse of
+}ECC systems may result in depriving other users of access to our systems. 
+}We cannot support use of computers outside of the ECC.  Therefore:
+}
+}4.2   Use of ECC systems and/or networks to connect to other systems, in
+}      evasion of the physical limitations of the remote system/network, is
+}      prohibited. [Paragraph 1.21a and 1.21u, CSC]
+
+I don't understand this.  For example, we have a system with 1 serial
+connection.  Is telneting to that system an "evasion of the physical
+limitations"???  Why is that banned???
+
+
+}Section 6: Incident Handling
+     :
+}In the event that you, knowingly or unknowingly, violate ECC or University
+}policy, you will be contacted by the ECC Staff.  This contact will usually take
+}the form of an electronic mail message.  It is your responsibility to follow
+}any instructions you may receive from ECC Staff, and to confirm your
+}receipt of those instructions.  If you believe that the instructions given to
+}you are unreasonable, you should immediately contact the Director of
+}Engineering Computing or the Assistant Dean of the College of Engineering. 
+}If you do not register your complaint with either the Director of Engineering
+}Computing or the Assistant Dean, it is expected that you will follow the
+}instructions given to you.  Therefore:
+}
+}6.1   Disregarding instructions of ECC Staff may result in the temporary
+}      revocation of your computing access.
+
+How do you know if they have even received your instructions (e-mail?).
+If, for example, I was not on the system for a week or so, tried to use
+the system some Saturday to complete a project due Monday morning and
+found I my access revoked because I had not followed instructions (that
+I never received) and my academic success was jepordized I would be furious.
+
+Also, in my mind this is punishment -- something you stated at the top
+would not happen.
+
+}If your access is temporarily revoked, you should immediately contact the
+}ECC Staff for an explanation of the situation.  In most cases, the revocation
+}will be lifted within 1 working day.  Quite often, temporary revocation is the
+}result of a minor, or apparently unintentional, violation of ECC or University
+}policy; such revocations will be lifted as soon as the ECC Staff discusses the
+}relevant policies with you.
+
+See above--this is unacceptable.
+
+}The ECC will abide by the decision of the Dean of Students.  If the Dean of
+}Students chooses not to bring disciplinary action against you, or if the
+}judicial proceedings are resolved in your favor, your complete access to ECC
+}facilities will be immediately restored.
+
+Access is restricted BEFORE the guilt of the student is determined?!?
+
+
+
+Xref: eff comp.admin.policy:1707 alt.comp.acad-freedom.talk:4018
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!widener!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: DRAFT Student Access/Use Policy
+Keywords: opinions welcome.......
+References: <1992Apr9.160725.7355@ms.uky.edu> 
+    <1992Apr11.150009.6432@news.iastate.edu>
+Message-ID: <1992Apr13.92643.3006@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+Date: Mon, 13 Apr 1992 13:26:43 GMT
+X-Bytes: 
+Lines: 213
+
+john@iastate.edu (John Hascall) writes:
+>morgan@ms.uky.edu (Wes Morgan) writes:
+>}I have been working on a "Student Access and Use Policy".  I've finally
+>}managed to wrangle it into a manageable form.  I'd like to hear any com-
+>}ments you may have.
+>
+>}                                          ... No disciplinary action will be
+>}taken against students by the Engineering Computing Center; if such action
+>}is contemplated, the matter will be remanded to the appropriate office.
+>             [this appears to not be true, see below]
+
+Hmmmm....I'll change "disciplinary action" to "PERMANENT disciplinary action".
+
+>}1.1   Use of restricted ECC facilities by those students outside the College
+>}      of Engineering is prohibited.  [Paragraph 1.21u, CSC] 
+>
+>What about students not in the Engineering College but who are taking
+>an Engineering Course?  Where do they fall?
+
+We usually handle this through the instructor; they give me a class roll, and
+I crank up the guest accounts.  I'll formalize a procedure and put it in the
+next draft.
+
+>}1.2   Sharing your userid with any other person is prohibited.  [Paragraph
+>}      1.21u, CSC]
+>}
+>}1.3   Using a userid which belongs to another user is prohibited, even if you
+>}      have been issued a userid of your own.  [Paragraph 1.21u, CSC]
+>
+>We also have a rule of one userid per person -- it sounds like this is your
+>situation, maybe that is worth saying explicitly.
+
+That is mentioned explicitly in the "rationale" section preceding these two
+points.  Are these two rules *that* unclear?  How should I rephrase them?
+
+>Some assurance that these policies and/or instructions will also be in
+>accordance with, and not superior to, University policy?
+>
+>An assurance that files/data `accidentally' seen will be not be divulged?
+
+You got it; suitable assurances will be in the next draft.
+
+>}2.2   Attempts to evade or change resource quotas are prohibited.
+>}      [Paragraphs 1.21a, 1.21h, and 1.21u, CSC]
+>
+>I assume you *are* allowed to change a quota by requesting a change from ECC?
+
+Yup; I'll put a formal procedure in the next draft.
+
+>}2.3   Continued impedance of other users through mass consumption of
+>}      system resources, after receipt of a request to cease such activity, is
+>}      prohibited.  [Paragraph 1.21a, CSC]
+>
+>How does someone who feels his consumption of resourses is warranted
+>(necessary to their academic success) seek appeal?
+
+Hmmmm......I guess I'll put a "Complaint/Appeal Policy" in the next draft.
+
+>}2.4   Use of ECC facilities and/or services for commercial purposes is
+>}      prohibited.  [Paragraphs 1.21g and 1.21u, CSC]
+>
+>Definition of `for-profit'?  Is, for example, using misc.forsale allowed
+>or not allowed.
+
+How about something like this?
+
+	"Use of ECC facilities and/or services for explicitly commercial
+	 purposes is prohibited.  ECC facilities and/or services may be 
+	 used for personal business, such as the sale of personal property; 
+	 such use must be within the other provisions of this policy.  ECC
+	 facilities may not be used on behalf of outside agencies."
+
+That would allow Joe Shmo to advertise his old Macintosh for sale, but not
+(in my mind) announce the current sales at his company, Bluegrass Computing.
+	 
+>}ECC resources are dedicated to academic work.  At this time, we cannot
+>}support game or recreational programs.  Therefore:
+>}
+>}2.5   The installation/execution of games and/or recreational programs on 
+>}      ECC systems is prohibited. [Paragraph 1.21u, CSC]
+>
+>Definition of recreational?  News?  Only certain newsgroups?  E-mail?
+>Talk?  IRC?  Playing MUD?  Writing MUD?  Writing a program not required
+>in any class?  Fortune?  FTP?  Archie?  ...
+
+True; I think the reference to "recreational" will be removed.  The
+provision prohibiting "network-based applications" will eliminate
+MUD/IRC/Netrek/etc. programs, so this provision can be safely rewritten.
+
+>}Section 3: Electronic Mail Policy
+>}3.4   All mailing lists with more than 10 members must be registered with
+>}      the ECC staff. [Paragraph 1.21u, CSC]
+>
+>I'm sorry, this seems absolutely absurd.
+
+My rationale behind this provision comes from several experiences:
+
+	1) I have had problems with users creating *massive* mailing
+	   lists (over 200 members) with the 'alias' function of mailx.
+	   One of these lists started shipping uuencoded images around.
+	   Chaos ensued.
+	   
+	2) Users have also created mailing lists of people they don't
+	   even know, in the hopes of meeting them. 
+
+	3) Several students have left this organization without informing
+	   their list members; as a result, I've been getting dozens of
+	   messages from users/postmasters complaining about "user unknown"
+	   email bounces.
+
+	4) Two users tried to import the entire UK "email phone book" into
+	   a mailing list.  There are over 6000 addresses in the "phone book";
+	   with the transcription errors that were made, it took me over two
+	   weeks to fix the errors, track it down and kill it.
+
+>}It is important to note that the ECC staff will make arrangements for large
+>}mailing lists; however, we will not support mailing lists whose subjects
+>}violate University policy, State law, or Federal law.  (In any situation where
+>}this is a possibility, the University Counsel will be asked for a decision.)
+>
+>How could the existence of a mailing list could be illegal?
+
+I know that this particular example has been bounced around for years, but
+what about a "child porn image list"?  What about a list that passes out
+credit card numbers?
+
+>}There are a limited number of network ports available to certain systems. 
+>}It is possible to connect to other systems via ECC systems.  This misuse of
+>}ECC systems may result in depriving other users of access to our systems. 
+>}We cannot support use of computers outside of the ECC.  Therefore:
+>}
+>}4.2   Use of ECC systems and/or networks to connect to other systems, in
+>}      evasion of the physical limitations of the remote system/network, is
+>}      prohibited. [Paragraph 1.21a and 1.21u, CSC]
+>
+>I don't understand this.  For example, we have a system with 1 serial
+>connection.  Is telneting to that system an "evasion of the physical
+>limitations"???  Why is that banned???
+
+UK uses an Ungerman-Bass network, in which each host has a finite number
+of ports.  When a "popular" system A's ports are all in use, users will 
+grab a port to another machine B, log in, and telnet to the system they
+*really* want to use (system A).  This action, in turn, limits the num-
+ber of ports to system B that are available for real work.  
+
+Very few systems on this campus use hard-wired terminals; the vast majority
+(over 90%,  in my estimation) of the connections are made through UBNet.  The
+folks who don't want to wait for access to system A are tying up all the ports
+on system B.  Right now (and for the past year or so), my systems are acting 
+as system B; my legitimate users are tired of it, and so am I.
+
+>How do you know if they have even received your instructions (e-mail?).
+
+Well, a quick check of the sendmail logs will indicate success/failure of
+delivery.  As far as I'm concerned, the fact that they didn't check their
+email doesn't absolve them of responsibility.  In the "real world", the
+Circuit Court doesn't care if you "didn't receive" their summons; they'll
+haul you in anyway.  What's the difference?
+
+>If, for example, I was not on the system for a week or so, tried to use
+>the system some Saturday to complete a project due Monday morning and
+>found I my access revoked because I had not followed instructions (that
+>I never received) and my academic success was jepordized I would be furious.
+
+Your access wouldn't be revoked unless the action(s) continued.  I thought
+I made that clear.  I thought that "Disregarding instructions" implied that
+the violations were continuing; I'll reword it in the next draft.
+
+Here's the scenario I envisioned (and the one that has occured several times):
+
+	1) User actions cause problems.
+	2) ECC sends email message to user.
+	3) Action continues.    
+	4) Temporary revocation.
+
+>}If your access is temporarily revoked, you should immediately contact the
+>}ECC Staff for an explanation of the situation.  In most cases, the revocation
+>}will be lifted within 1 working day.  Quite often, temporary revocation is the
+>}result of a minor, or apparently unintentional, violation of ECC or University
+>}policy; such revocations will be lifted as soon as the ECC Staff discusses the
+>}relevant policies with you.
+>
+>See above--this is unacceptable.
+
+What's the alternative?  I had a user who consistently crashed the system
+with a shell script that hosed out the ethernet card.  I sent THREE email
+messages; he kept running the script.  I tried to telephone him, but his num-
+ber wasn't listed.  What the heck am I supposed to do?
+
+>}The ECC will abide by the decision of the Dean of Students.  If the Dean of
+>}Students chooses not to bring disciplinary action against you, or if the
+>}judicial proceedings are resolved in your favor, your complete access to ECC
+>}facilities will be immediately restored.
+>
+>Access is restricted BEFORE the guilt of the student is determined?!?
+
+Yup, it sure is.  If I have evidence that a user is using one of the
+systems for cracking attempts on other systems, you'd better believe that
+I'm going to throw him into a "no network access" restricted shell until
+we know more.  (I should point out that NONE of the classes in Engineering
+require network access; therefore, this action will not restrict his class-
+work) 
+
+If I have evidence that a user is using other user directories as storage
+(in violation of resource quotas), you'd better believe that he's going to
+find himself in a restricted shell when next he logs in.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+
+Xref: eff comp.admin.policy:1708 alt.comp.acad-freedom.talk:4020
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!widener!iggy.GW.Vitalink.COM!pacbell.com!mips!zaphod.mps.ohio-state.edu!uwm.edu!ux1.cso.uiuc.edu!news.iastate.edu!john
+From: john@iastate.edu (John Hascall)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.142732.19822@news.iastate.edu>
+Keywords: opinions welcome.......
+Sender: news@news.iastate.edu (USENET News System)
+Organization: Iowa State University, Ames, IA
+References: <1992Apr9.160725.7355@ms.uky.edu> <1992Apr11.150009.6432@news.iastate.edu> <1992Apr13.92643.3006@ms.uky.edu>
+Date: Mon, 13 Apr 1992 14:27:32 GMT
+Lines: 135
+
+When last we left our intrepid explorers...
+morgan@ms.uky.edu (Wes Morgan) writes:
+}john@iastate.edu (John Hascall) writes:
+}>morgan@ms.uky.edu (Wes Morgan) writes:
+}>}I have been working on a "Student Access and Use Policy".  I've finally
+}>}managed to wrangle it into a manageable form.  I'd like to hear any com-
+}>}ments you may have.
+
+}>}1.2   Sharing your userid with any other person is prohibited.  [Paragraph
+}>}      1.21u, CSC]
+}>}
+}>}1.3   Using a userid which belongs to another user is prohibited, even if you
+}>}      have been issued a userid of your own.  [Paragraph 1.21u, CSC]
+}>We also have a rule of one userid per person -- it sounds like this is your
+}>situation, maybe that is worth saying explicitly.
+}That is mentioned explicitly in the "rationale" section preceding these two
+}points.  Are these two rules *that* unclear?  How should I rephrase them?
+
+Well, here at least, we have a number of people who keep asking for another
+userid for some purpose -- we don't do this.  This is what I was wondering
+about.
+
+}How about something like this?
+}
+}	"Use of ECC facilities and/or services for explicitly commercial
+}	 purposes is prohibited.  ECC facilities and/or services may be 
+}	 used for personal business, such as the sale of personal property; 
+}	 such use must be within the other provisions of this policy.  ECC
+}	 facilities may not be used on behalf of outside agencies."
+}
+}That would allow Joe Shmo to advertise his old Macintosh for sale, but not
+}(in my mind) announce the current sales at his company, Bluegrass Computing.
+
+Looks good to me.
+
+}>}Section 3: Electronic Mail Policy
+}>}3.4   All mailing lists with more than 10 members must be registered with
+}>}      the ECC staff. [Paragraph 1.21u, CSC]
+}>I'm sorry, this seems absolutely absurd.
+}My rationale behind this provision comes from several experiences:
+}
+}	1) I have had problems with users creating *massive* mailing
+}	   lists (over 200 members) with the 'alias' function of mailx.
+}	   One of these lists started shipping uuencoded images around.
+}	   Chaos ensued.
+
+	I can certainly understand this one.  Maybe its just "10" I
+	didn't like.  We have mail-lists for each course (for example:
+	math_123@iastate.edu).  Now we create these ourselves, but if
+	we didn't I sure wouldn't want to hear about all of them!
+
+}	3) Several students have left this organization without informing
+}	   their list members; as a result, I've been getting dozens of
+}	   messages from users/postmasters complaining about "user unknown"
+}	   email bounces.
+
+	You'll never shake this one....    :-(
+
+}>}It is important to note that the ECC staff will make arrangements for large
+}>}mailing lists; however, we will not support mailing lists whose subjects
+}>}violate University policy, State law, or Federal law.
+}>How could the existence of a mailing list could be illegal?
+}I know that this particular example has been bounced around for years, but
+}what about a "child porn image list"?  What about a list that passes out
+}credit card numbers?
+
+Well, it seems it is the use which is illegal, not the list.  Surely if
+I was to ask you (as my SysAdmin) to setup such a list I wouldn't ask to
+call it something like ``WeFondleLittleBoys@ms.uky.edu'', but rather
+something ordinary sounding like ``wflb@ms.uky.edu''.  But then again,
+maybe these people are really stupid...
+
+}UK uses an Ungerman-Bass network, in which each host has a finite number
+}of ports.  When a "popular" system A's ports are all in use, users will 
+}grab a port to another machine B, log in, and telnet to the system they
+}*really* want to use (system A).  This action, in turn, limits the num-
+}ber of ports to system B that are available for real work.  
+}Very few systems on this campus use hard-wired terminals; the vast majority
+}(over 90%,  in my estimation) of the connections are made through UBNet.  The
+}folks who don't want to wait for access to system A are tying up all the ports
+}on system B.  Right now (and for the past year or so), my systems are acting 
+}as system B; my legitimate users are tired of it, and so am I.
+
+Ah!  I can see we are very fortunate not to have such a thing.  Our serial
+network is an AT&T ISN (and much as I hate to praise them, it is nice).  In
+any event, serial is fading pretty fast here.  Looks like you don't have
+much choice but to have that rule.
+
+}>How do you know if they have even received your instructions (e-mail?).
+
+}As far as I'm concerned, the fact that they didn't check their
+}email doesn't absolve them of responsibility.  ...
+}Your access wouldn't be revoked unless the action(s) continued.  I thought
+}I made that clear.  I thought that "Disregarding instructions" implied that
+}the violations were continuing; I'll reword it in the next draft.
+}Here's the scenario I envisioned (and the one that has occured several times):
+}	1) User actions cause problems.
+}	2) ECC sends email message to user.
+}	3) Action continues.    
+}	4) Temporary revocation.
+
+I was thinking of things which can continue `passively'.  Like you created
+an 11-person mailing list, or whatever.
+
+}>}If your access is temporarily revoked, you should immediately contact the
+}>}ECC Staff for an explanation of the situation.  In most cases, the revocation
+}>}will be lifted within 1 working day.  Quite often, temporary revocation is the
+}>}result of a minor, or apparently unintentional, violation of ECC or University
+}>}policy; such revocations will be lifted as soon as the ECC Staff discusses the
+}>}relevant policies with you.
+
+}>See above--this is unacceptable.
+
+[examples omitted]
+
+I still have a real problem with possibly interferring with a student's
+academic success for `minor, or apparently unintentional, violation[s]'.
+Certainly if they are a real threat to the system or other users, then
+immediate action is called for.
+
+}>}The ECC will abide by the decision of the Dean of Students.  If the Dean of
+}>}Students chooses not to bring disciplinary action against you, or if the
+}>}judicial proceedings are resolved in your favor, your complete access to ECC
+}>}facilities will be immediately restored.
+
+}>Access is restricted BEFORE the guilt of the student is determined?!?
+
+Same comment as above.
+
+----
+Overall, I think you have made a really fine effort; I just like
+to play the devil's advocate.  ;-)
+
+Cheers,
+John
+
+
+Xref: eff comp.admin.policy:1709 alt.comp.acad-freedom.talk:4021
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.152305.18668@eff.org>
+Originator: kadie@eff.org
+Keywords: opinions welcome.......
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <1992Apr9.160725.7355@ms.uky.edu>      <1992Apr11.150009.6432@news.iastate.edu> <1992Apr13.92643.3006@ms.uky.edu>
+Date: Mon, 13 Apr 1992 15:23:05 GMT
+Lines: 82
+
+There is lots of good stuff in the policy. I especially like the
+references to general university policy and the tie in regular
+university disciplinary channels.
+
+The whole temporary/permanent access restriction/reduction is very,
+very complex and confusing. Here is a summary:
+
+A.
+Being suspected of violating a rule and
+  Not getting the ECC's email or
+  Not getting the ECC's email or
+  Not following the instructions of the ECC's email
+	-> temporary revocation
+
+B.
+Being suspected of violating a rule and
+In the opinion of the ECC staff immediate revocation is necessary
+        -> temporary revocation
+
+C.
+Being suspected of a significatant violation of a rule and
+The Dean of Students decides judicial proceedings are necessary
+        -> restricted access for the duration of the proceedings
+           The amount of restriction depends on the nature of the charges.
+
+It is open for abuse by the ECC staff. (I don't think that Wes Morgan
+would abuse "his own" policy, but others could). I think the procedure
+could be improved by mentioning in parts B and C that supensions and
+restrictions before a finding will only be imposed "for reasons
+relating to his physical or emotional safety and well being, or for
+reasons relating to the safety and well-being of students, faculty, or
+university property." [student.freedoms] This could be reenforced
+having the head of ECC OK such actions. (Similar to the OK required in
+the U. of Delaware policy).
+
+Part C is especially unclear about how the restiction "depends" on the
+nature of the charges. A staff member could read it and this that he
+or she is suppose to punish users before it has been determined that
+they have volated policy.
+
+Which gives me a chance to use a quote that I've been saving for
+weeks:
+
+   "No, no," said the Queen: "The sentence first -- the verdict
+    afterwards." -- Lewis Carroll, _Alice in Wonderland_.
+
+Finally, here are some notes on the wording of this section.
+
+=========================
+In the event that you, knowingly or unknowingly, violate ECC or University
+                                                 ^^^^^^^
+policy, you will be contacted by the ECC Staff.
+--
+This probably also applies if they merely appear to violate policy.
+The staff shouldn't assume that a violation has occured until
+after at speaking with the user.
+================
+"In the event that you, knowingly or unknowingly, violate ECC or
+University policy, you will be contacted by the ECC Staff."
+                   ^[replace with:]The ECC will try to contact you
+
+=======================
+"If you do not register your complaint with either the Director of
+                             ^^^^^^^^^
+Engineering Computing or the Assistant Dean, it is expected that you
+will follow the instructions given to you."
+--
+Contesting an accusation is not a "complaint".
+
+==============
+
+6.2   Temporary revocations of computing access will be dissolved within
+      one working day of the resolution of the violation.
+                                               ^^^^^^^^^^
+--
+There may not be a violation; it may only appear that way.
+
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+Xref: eff comp.admin.policy:1710 alt.comp.acad-freedom.talk:4022
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.154330.19059@eff.org>
+Originator: kadie@eff.org
+Keywords: opinions welcome.......
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <1992Apr9.160725.7355@ms.uky.edu>      <1992Apr11.150009.6432@news.iastate.edu> <1992Apr13.92643.3006@ms.uky.edu>
+Date: Mon, 13 Apr 1992 15:43:30 GMT
+Lines: 91
+
+Wes Morgan writes:
+
+>>}Section 3: Electronic Mail Policy
+>>}3.4   All mailing lists with more than 10 members must be registered with
+>>}      the ECC staff. [Paragraph 1.21u, CSC]
+[...]
+
+>My rationale behind this provision comes from several experiences:
+
+>	1) I have had problems with users creating *massive* mailing
+>	   lists (over 200 members) with the 'alias' function of mailx.
+>	   One of these lists started shipping uuencoded images around.
+>	   Chaos ensued.
+
+I think it would be better to prohibit this mailing list on the
+grounds of "substantial disruption", than not preapproved.
+
+>	2) Users have also created mailing lists of people they don't
+>	   even know, in the hopes of meeting them. 
+
+I don't think this is limited to lists of over size 10. Also, I don't
+see how preapproval will help, unless you are going to double check
+all the entries in the list.
+
+If a person complains about unwanted email, you should tell the sender
+to stop sending email to that person.
+
+>	3) Several students have left this organization without informing
+>	   their list members; as a result, I've been getting dozens of
+>	   messages from users/postmasters complaining about "user unknown"
+>	   email bounces.
+
+This must happen with regular email, too. Also, from what I know about
+list members, many will ignore notification anyway. How about just
+suggesting that departing students send a "change of address" message
+to their frequent email correspondents.
+
+>	4) Two users tried to import the entire UK "email phone book" into
+>	   a mailing list.  There are over 6000 addresses in the "phone book";
+>	   with the transcription errors that were made, it took me over two
+>	   weeks to fix the errors, track it down and kill it.
+
+Again, get them for "substantial disruption"
+
+>>}It is important to note that the ECC staff will make arrangements for large
+>>}mailing lists; however, we will not support mailing lists whose subjects
+>>}violate University policy, State law, or Federal law.  (In any situation where
+>>}this is a possibility, the University Counsel will be asked for a decision.)
+
+>I know that this particular example has been bounced around for years, but
+>what about a "child porn image list"?  What about a list that passes out
+>credit card numbers?
+
+These lists are already prohibited because they are illegal. Do you
+really want to take even partial responsibility for the lists that you
+do approve of? What if you give it an official University OK, and
+*then* it starts being used for credit cards?
+
+I'm enclosing a reference.
+
+- Carl
+
+The book _Law of the Student Press_ by the Student Press Law Center
+(1985,1988), p. 37:
+
+"Only two court cases have considered the liability question, and in
+both cases the courts found that the institution was free from
+liability because control was in the hands of the students."{33,34}
+
+...
+
+"Thus, despite arguments by administrators that they need to prevent
+libel, it appears that just the opposite is true: Where administrators
+have not exercised control over the content of student publications,
+the courts have refused to hold their schools responsible for libel
+appearing in such publication. If, however, administrators exercise
+the power of prior review, then the court will also hold them and
+their schools liable for the contents of such publications.
+Encouraging the establishment of a clear-cut separation between school
+administration and editor functions may also result in the reduction
+of libel suits, for potential plaintiffs will realize that substantial
+funds are beyond their reach.
+
+{33} _Mazart v. State_ 441 N.Y.S.2d 600 (1981)
+
+{34} _Milliner v. Turner_ 436 So.2d 1300 (La. App. 1983)
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+Xref: eff comp.admin.policy:1712 alt.comp.acad-freedom.talk:4028
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!widener!ukma!usenet.ins.cwru.edu!alpha.ces.cwru.edu!edguer
+From: edguer@ces.cwru.edu (Aydin Edguer)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.165107.6102@usenet.ins.cwru.edu>
+Keywords: opinions welcome.......
+Sender: news@usenet.ins.cwru.edu
+Nntp-Posting-Host: sentinel.ces.cwru.edu
+Organization: Computer Engineering and Science, Case Western Reserve University
+References: <1992Apr11.150009.6432@news.iastate.edu> <1992Apr13.92643.3006@ms.uky.edu> <1992Apr13.154330.19059@eff.org>
+Date: Mon, 13 Apr 92 16:51:07 GMT
+Lines:       33
+
+>>>}It is important to note that the ECC staff will make arrangements for
+>>>}large mailing lists; however, we will not support mailing lists whose
+>>>}subjects violate University policy, State law, or Federal law.
+>>>}(In any situation where this is a possibility, the University Counsel
+>>>}will be asked for a decision.)
+>
+>>I know that this particular example has been bounced around for years, but
+>>what about a "child porn image list"?  What about a list that passes out
+>>credit card numbers?
+>
+> These lists are already prohibited because they are illegal. Do you
+> really want to take even partial responsibility for the lists that you
+> do approve of? What if you give it an official University OK, and
+> *then* it starts being used for credit cards?
+>
+> I'm enclosing a reference.
+
+Your reference has no bearing on the situation as posed.  If you read your
+own reference, it refers to "administrators ... exercis[ing] control over
+the content of student publications".
+
+The ECC staff is _NOT_ exercising control over the content of the publication.
+The ECC staff is asking to exercise control over the creation of the
+publication.  This is similar to the position many schools have that
+only recognized student organizations can make use of school facilities.
+
+In order for your reference to have any bearing, the ECC staff would need
+to exercise "the power of prior review" on the messages posted to the lists
+they approve.  This is not what the ECC is asking for.
+
+Aydin Edguer
+Resident, Planet Earth
+
+Xref: eff comp.admin.policy:1713 alt.comp.acad-freedom.talk:4029
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.172930.21518@eff.org>
+Originator: kadie@eff.org
+Keywords: opinions welcome.......
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <1992Apr11.150009.6432@news.iastate.edu> <1992Apr13.92643.3006@ms.uky.edu> <1992Apr13.154330.19059@eff.org> <1992Apr13.165107.6102@usenet.ins.cwru.edu>
+Date: Mon, 13 Apr 1992 17:29:30 GMT
+Lines: 23
+
+Kadie writes:
+
+>> These lists are already prohibited because they are illegal. Do you
+>> really want to take even partial responsibility for the lists that you
+>> do approve of? What if you give it an official University OK, and
+>> *then* it starts being used for credit cards?
+
+edguer@ces.cwru.edu (Aydin Edguer) writes:
+
+>Your reference has no bearing on the situation as posed.  If you read your
+>own reference, it refers to "administrators ... exercis[ing] control over
+>the content of student publications".
+[...]
+
+You are probably right that preapproval of mailing lists would not
+increase legal libability. It might, however, increase extralegal
+pressure to suppress (legal) mailing lists. ("How come you approved
+*that* mailing list?").
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+#Start 28
+Xref: eff comp.admin.policy:1714 alt.comp.acad-freedom.talk:4032
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!widener!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: DRAFT Student Access/Use Policy
+Keywords: opinions welcome.......
+References: <1992Apr11.150009.6432@news.iastate.edu> 
+    <1992Apr13.92643.3006@ms.uky.edu> <1992Apr13.142732.19822@news.iastate.edu>
+Message-ID: <1992Apr13.142428.28852@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+Date: Mon, 13 Apr 1992 18:24:28 GMT
+X-Bytes: 
+Lines: 120
+
+john@iastate.edu (John Hascall) writes:
+>When last we left our intrepid explorers...
+
+Wading through University policy/procedure manuals is more like "Voyage
+of the Damned", but I'll take "intrepid explorers"....8)
+
+>Well, here at least, we have a number of people who keep asking for another
+>userid for some purpose -- we don't do this.  This is what I was wondering
+>about.
+>
+
+Ah, I see.  Nope, we only issue one userid per person.  That userid might
+represent accounts on several systems, depending on their use; however,
+"jbuser01" refers to Joe B User, regardless of the system.
+
+>}>}Section 3: Electronic Mail Policy
+>}>}3.4   All mailing lists with more than 10 members must be registered with
+>}>}      the ECC staff. [Paragraph 1.21u, CSC]
+>	We have mail-lists for each course (for example:
+>	math_123@iastate.edu).  Now we create these ourselves, but if
+>	we didn't I sure wouldn't want to hear about all of them!
+
+We don't create tham automatically, but they're available to every
+instructor on request (with submission of a class roll).
+
+Actually, I'd like to know about them.  It never hurts to have an additional
+"usage point" handy when you start compiling statistics.  8)
+
+>}	3) Several students have left this organization without informing
+>}	   their list members; as a result, I've been getting dozens of
+>}	   messages from users/postmasters complaining about "user unknown"
+>}	   email bounces.
+>
+>	You'll never shake this one....    :-(
+
+Maybe you misunderstood.  I'm talking about students who were RUNNING lists,
+not mere participants.  Think about getting 200 complaints about a mailing
+list that you didn't even know existed!  Ecch.
+
+>}>How could the existence of a mailing list could be illegal?
+>}I know that this particular example has been bounced around for years, but
+>}what about a "child porn image list"?  What about a list that passes out
+>}credit card numbers?
+>
+>Well, it seems it is the use which is illegal, not the list.  Surely if
+>I was to ask you (as my SysAdmin) to setup such a list I wouldn't ask to
+>call it something like ``WeFondleLittleBoys@ms.uky.edu'', but rather
+>something ordinary sounding like ``wflb@ms.uky.edu''.  But then again,
+>maybe these people are really stupid...
+
+Well, I know that I can't stop any particular person; if they really want
+to make it happen, they will.  This provision is there to give "Joe Warez"
+a dose of reality before he thinks about using our email to distribute his
+cracked programs.
+
+(By the way, I adminster machines for the College of Engineering, engr.uky.edu.
+The folks at ms.uky.edu were kind enough to issue a userid to me, but I'm not
+affiliated with them.)
+
+>I was thinking of things which can continue `passively'.  Like you created
+>an 11-person mailing list, or whatever.
+
+Well, action is "at the discretion of ECC staff".  8)
+
+I explicitly mention that warnings/directives would be given prior to
+account suspension in almost all cases.  I may need to clarify that a
+bit, but my only "quick draw" revocations have occured when I have found
+a user actively attempting to break security (or ignoring my direct in-
+structions).  Heck, I usually try at least two or three email messages
+for the routine stuff.
+
+>I still have a real problem with possibly interferring with a student's
+>academic success for `minor, or apparently unintentional, violation[s]'.
+>Certainly if they are a real threat to the system or other users, then
+>immediate action is called for.
+
+The last thing I want to do is lock a user out.  That's why restricted
+shells are so nice.  If a user is abusing email, I'll give him a restricted
+shell that lets him do everything but email.  If a user is abusing the
+network facilities, I'll give him a restricted shell that lets him do
+everything but telnet/ftp.
+
+We also provide C/FORTRAN/BASIC in our PC labs, so the student can always
+do his work there.
+
+>}>Access is restricted BEFORE the guilt of the student is determined?!?
+>
+>Same comment as above.
+
+Again, "restricted access" doesn't necessarily mean "you can't log in".
+I have found that the dextrous use of restricted shells can protect my
+systems WHILE allowing the student to complete his work.  
+
+>Overall, I think you have made a really fine effort; I just like
+>to play the devil's advocate.  ;-)
+
+Hey, John, that's why I posted the thing!  I wanted to give you folks a 
+chance to eyeball this thing before the users get their hands on it.  If
+nothing else, you force me to have logical defenses prepared for every
+clause; that's more than I can say for some policies (and policy admins)
+I've worked with/under in the past.
+
+By the way, some folks have asked (in email) where this is "going from here".
+Here's the way I'll be handling it:
+
+	1) Peer review #1 (via Usenet/email)
+	2) Peer review #2 (with several of the other computing shops on campus).
+	3) User review (I've got about 12 of my heavy student users lined up).
+	4) Administrative review (Dean's Office)
+	5) University Counsel (the legal eagles)
+
+Step 6 is actual implementation/distribution.  I plan on a yearly review.
+
+--Wes
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+Xref: eff comp.admin.policy:1715 alt.comp.acad-freedom.talk:4033
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!widener!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: DRAFT Student Access/Use Policy
+Keywords: opinions welcome.......
+References: <1992Apr11.150009.6432@news.iastate.edu> 
+    <1992Apr13.92643.3006@ms.uky.edu> <1992Apr13.152305.18668@eff.org>
+Message-ID: <1992Apr13.144306.3022@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+Date: Mon, 13 Apr 1992 18:43:06 GMT
+X-Bytes: 
+Lines: 78
+
+kadie@eff.org (Carl M. Kadie) writes:
+>
+>The whole temporary/permanent access restriction/reduction is very,
+>very complex and confusing. Here is a summary:
+>
+>It is open for abuse by the ECC staff. (I don't think that Wes Morgan
+>would abuse "his own" policy, but others could). I think the procedure
+>could be improved by mentioning in parts B and C that supensions and
+>restrictions before a finding will only be imposed "for reasons
+>relating to his physical or emotional safety and well being, or for
+>reasons relating to the safety and well-being of students, faculty, or
+>university property." [student.freedoms] This could be reenforced
+>having the head of ECC OK such actions. (Similar to the OK required in
+>the U. of Delaware policy).
+
+While I thought that the "University property" angle was rather obvious,
+I'll put something in the next draft.  I'll also put an express approval
+requirement in place.
+
+>Part C is especially unclear about how the restiction "depends" on the
+>nature of the charges. A staff member could read it and this that he
+>or she is suppose to punish users before it has been determined that
+>they have volated policy.
+
+Hmmmm....how about adding this?
+
+	"Any restrictions placed on your computing access must be 
+	 directly related to the charges filed against you.  Any
+	 restrictions must be approved by the Director of Engineering
+	 Computing prior to their initiation."
+
+That would (hopefully) prevent restriction of telnet/ftp access of a user 
+who was under plagiarism charges. (or the like)
+	
+
+>Which gives me a chance to use a quote that I've been saving for
+>weeks:
+>
+>   "No, no," said the Queen: "The sentence first -- the verdict
+>    afterwards." -- Lewis Carroll, _Alice in Wonderland_.
+
+Glad to give you the opportunity, Carl; it's isn't quite as weighty
+as your quote from William Douglas, but I like it.   8)
+
+>This probably also applies if they merely appear to violate policy.
+>The staff shouldn't assume that a violation has occured until
+>after at speaking with the user.
+
+OK, how about:
+	"In the event that you, knowingly or unknowingly, appear to have
+	 violated ECC or University policy, the ECC will attempt to con-
+	 tact you."
+
+>"If you do not register your complaint with either the Director of
+>                             ^^^^^^^^^
+>Engineering Computing or the Assistant Dean, it is expected that you
+>will follow the instructions given to you."
+>--
+>Contesting an accusation is not a "complaint".
+
+Agreed; I'll change it to "appeal".
+
+>6.2   Temporary revocations of computing access will be dissolved within
+>      one working day of the resolution of the violation.
+>                                               ^^^^^^^^^^
+>--
+>There may not be a violation; it may only appear that way.
+
+You're right.  How about changing "violation" to "problem" or "situation"?
+
+--Wes
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+Xref: eff comp.admin.policy:1718 alt.comp.acad-freedom.talk:4035
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.195228.24575@eff.org>
+Originator: kadie@eff.org
+Keywords: opinions welcome.......
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <1992Apr11.150009.6432@news.iastate.edu>      <1992Apr13.92643.3006@ms.uky.edu> <1992Apr13.152305.18668@eff.org> <1992Apr13.144306.3022@ms.uky.edu>
+Date: Mon, 13 Apr 1992 19:52:28 GMT
+Lines: 34
+
+>kadie@eff.org (Carl M. Kadie) writes:
+
+>>Part C is especially unclear about how the restiction "depends" on the
+>>nature of the charges. A staff member could read it and this that he
+>>or she is suppose to punish users before it has been determined that
+>>they have volated policy.
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+>Hmmmm....how about adding this?
+
+>	"Any restrictions placed on your computing access must be 
+>	 directly related to the charges filed against you.  Any
+>	 restrictions must be approved by the Director of Engineering
+>	 Computing prior to their initiation."
+[...]
+
+Let me make up a scenario. A user apperently sends a million lines of
+"Wow! I sure can waste paper" to the laser printer." This wastes about
+2000 pages of paper and $25 dollars worth of toner.
+
+You bring him/her up on charges. (At the very least he or she should
+have to pay for the waste and get a formal warning from the school.)
+
+The question is, should you also prohibit the user from using the
+printer while the case is pending? The policy as written seems to say
+yes. But to me this seems that punishment before establishing guilt
+(unless you really think the user is stupid enough to do it again
+while awaiting a University hearing.)
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+Xref: eff comp.admin.policy:1719 alt.comp.acad-freedom.talk:4036
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.200405.24990@eff.org>
+Originator: kadie@eff.org
+Keywords: opinions welcome.......
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <1992Apr11.150009.6432@news.iastate.edu>      <1992Apr13.92643.3006@ms.uky.edu> <1992Apr13.154330.19059@eff.org> <1992Apr13.150507.8230@ms.uky.edu>
+Date: Mon, 13 Apr 1992 20:04:05 GMT
+Lines: 28
+
+kadie@eff.org (Carl M. Kadie) writes:
+
+>These lists are already prohibited because they are illegal. Do you
+>really want to take even partial responsibility for the lists that you
+>do approve of? What if you give it an official University OK, and
+>*then* it starts being used for credit cards?
+[...]
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+>Hmmmm......you may have a point.
+
+One that I've mostly retracted.
+
+My central concern is that some users will be less likely to create
+mailing lists because of the hassle or embarrassment.
+
+Instead of *requiring* that mailing lists be set up by you, how about
+just *offering* such a set up mailing lists as a service to users?
+You can also tell them about "batch" priority mail. From my
+experience, as a user, the service that you offer would be welcome by
+many users. With such voluntary cooperation, your problems with user
+mailing list would be reduced.
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+Xref: eff comp.admin.policy:1720 alt.comp.acad-freedom.talk:4038
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!ckd
+From: ckd@eff.org (Christopher Davis)
+Subject: Re: DRAFT Student Access/Use Policy
+In-Reply-To: kadie@eff.org's message of Mon, 13 Apr 1992 19:52:28 GMT
+Message-ID: <CKD.92Apr13172604@loiosh.eff.org>
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: loiosh.eff.org
+Organization: Electronic Frontier Foundation Tech Central
+References: <1992Apr11.150009.6432@news.iastate.edu> <1992Apr13.92643.3006@ms.uky.edu>
+	<1992Apr13.152305.18668@eff.org> <1992Apr13.144306.3022@ms.uky.edu>
+	<1992Apr13.195228.24575@eff.org>
+Date: Mon, 13 Apr 1992 21:27:39 GMT
+Lines: 43
+
+ Carl> == Carl M. Kadie <kadie@eff.org> 
+
+ Wes> "Any restrictions placed on your computing access must be 
+ Wes> directly related to the charges filed against you.  Any
+ Wes> restrictions must be approved by the Director of Engineering
+ Wes> Computing prior to their initiation."
+
+ Carl> Let me make up a scenario. A user apperently sends a million lines of
+ Carl> "Wow! I sure can waste paper" to the laser printer." This wastes about
+ Carl> 2000 pages of paper and $25 dollars worth of toner.
+
+ Carl> You bring him/her up on charges. (At the very least he or she should
+ Carl> have to pay for the waste and get a formal warning from the school.)
+
+ Carl> The question is, should you also prohibit the user from using the
+ Carl> printer while the case is pending? The policy as written seems to say
+ Carl> yes. But to me this seems that punishment before establishing guilt
+ Carl> (unless you really think the user is stupid enough to do it again
+ Carl> while awaiting a University hearing.)
+
+I would say that a restriction like "can only print 100 pages a week"
+would be a reasonable reaction to that sort of abuse, without
+completely prohibiting the user from using the printer(s).  Restrictions
+are not necessarily all-or-nothing affairs.
+
+I, personally, find the policy Wes is creating to be fair to both the
+users and the system administration/staff: a tough compromise under the
+circumstances of a university community.  (I have the enviable situation
+of having a small, private user base rather than a large and continually
+changing set of users; this allows informal problem-solving to go much
+farther than it might in a larger community.  Of course, the fact that
+it's hard to get face-to-face meetings with users who are in different
+time zones can also hinder the process... ;-)
+
+(And, of course, I've never had problems with Carl printing too much on
+our printers; I don't think he's ever printed *anything* on our
+printers, and he's certainly never been by to pick it up... ;-)
+
+--
+Christopher Davis <ckd@eff.org> |    ECONOMIC OBSERVATIONS DEPARTMENT
+System Manager & Postmaster     |  "There's always something going out of
+Electronic Frontier Foundation  |      business in Central Square."
++1 617 864 0665  NIC: [CKD1]    |   -Rita Marie Rouvalis <rita@eff.org>
+
+Xref: eff comp.admin.policy:1726 alt.comp.acad-freedom.talk:4041
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr14.151655.19264@eff.org>
+Originator: kadie@eff.org
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <1992Apr11.150009.6432@news.iastate.edu> <1992Apr13.92643.3006@ms.uky.edu> 	<1992Apr13.152305.18668@eff.org> <1992Apr13.144306.3022@ms.uky.edu> 	<1992Apr13.195228.24575@eff.org> <CKD.92Apr13172604@loiosh.eff.org>
+Date: Tue, 14 Apr 1992 15:16:55 GMT
+Lines: 75
+
+Carl> == Carl M. Kadie <kadie@eff.org> 
+
+Carl> Let me make up a scenario. A user apperently sends a million lines of
+Carl> "Wow! I sure can waste paper" to the laser printer." This wastes about
+Carl> 2000 pages of paper and $25 dollars worth of toner.
+
+Carl> You bring him/her up on charges. (At the very least he or she should
+Carl> have to pay for the waste and get a formal warning from the school.)
+
+Carl> The question is, should you also prohibit the user from using the
+Carl> printer while the case is pending? The policy as written seems to say
+Carl> yes. But to me this seems that punishment before establishing guilt
+Carl> (unless you really think the user is stupid enough to do it again
+Carl> while awaiting a University hearing.)
+
+ckd@eff.org (Christopher Davis) writes:
+
+>I would say that a restriction like "can only print 100 pages a week"
+>would be a reasonable reaction to that sort of abuse, without
+>completely prohibiting the user from using the printer(s).  Restrictions
+>are not necessarily all-or-nothing affairs.
+[...]
+
+On eff.org this might be wise. For one thing, your ability to
+discipline users is much weaker than a university's.
+
+But in a university context and assuming you are not going to put this
+restriction on everyone and assuming that this was not part of a
+punishment imposed by the university authorities, this restriction
+seems more like a punishment than a necessary action to protect the
+system.
+
+A necessary action to protect the system is more like:
+  A user complains that a giant print job is tying up the printer
+  The operator confirms this
+               kills the print job
+               sees that the user who submitted it is no longer signed in
+               gets authorization to disable that user's ability to print
+               disables the user's ability to print
+               sends email to the user telling what happened
+
+Disabling printing is necessary because the sys admins think the print
+job is likely to be resubmitted.
+
+However, once the matter is discussed with the user, the print job is
+not likely to be resubmitted. A restriction placed only on the user
+now, seems more like a punishment.
+
+ON THE OTHER HAND,
+this doesn't mean that you shouldn't do it.
+
+There is nothing in the law or in the principles of academic freedom
+that says that minor punishments can only be imposed by the university
+Judical Committee (there may or may not be something in the University
+code). Such punishments are OK (in my opinion), if
+
+1) they really are minor (Restricting use of the printer, or telnet,
+or a game, for week or two, such that classwork is not effected, is,
+IMHO, minor. Even short suspension from the computer or longer
+restictions to services, is not, IMHO, minor).
+
+2) they are imposed after the user gets a chance to speak
+
+3) appeals are possible, the user is told how to appeal, punishment is
+delayed if the user decides to appeal.
+
+4) (opinional?) A report is given to users and the university every so
+often (once a semester?) summarizing the punishments that were imposed
+that period.
+
+- Carl
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+Xref: eff comp.admin.policy:1727 alt.comp.acad-freedom.talk:4043
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!widener!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: DRAFT Student Access/Use Policy
+Keywords: opinions welcome.......
+References: <1992Apr13.152305.18668@eff.org> 
+    <1992Apr13.144306.3022@ms.uky.edu> <1992Apr13.195228.24575@eff.org>
+Message-ID: <1992Apr14.112802.7109@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+Date: Tue, 14 Apr 1992 15:28:01 GMT
+X-Bytes: 
+Lines: 42
+
+kadie@eff.org (Carl M. Kadie) writes:
+>
+>>	"Any restrictions placed on your computing access must be 
+>>	 directly related to the charges filed against you.  Any
+>>	 restrictions must be approved by the Director of Engineering
+>>	 Computing prior to their initiation."
+>
+>Let me make up a scenario. A user apperently sends a million lines of
+>"Wow! I sure can waste paper" to the laser printer." This wastes about
+>2000 pages of paper and $25 dollars worth of toner.
+>
+>You bring him/her up on charges. (At the very least he or she should
+>have to pay for the waste and get a formal warning from the school.)
+
+Actually, I'm laid back enough that I wouldn't even press charges on
+something like this.  Of course, none of my users have ever done any-
+thing this stupid.  8)
+
+>The question is, should you also prohibit the user from using the
+>printer while the case is pending? The policy as written seems to say
+>yes. But to me this seems that punishment before establishing guilt.
+
+Well, there are aspects of the disciplinary process that cannot be
+adequately codified.  The determination of "adequate" restriction is possibly
+the most subjective part of the entire process.  In this particular
+scenario, I'd slap a page limit on the user (say, 30 pages/day).  As
+an alternative, his use of dot-matrix and/or line printers could be
+unrestricted, while the laser printers are made unavailable.
+
+I would hope that the approval requirement for restrictions would 
+prevent this sort of problem.
+
+>(unless you really think the user is stupid enough to do it again
+>while awaiting a University hearing.)
+
+Well, you never know..........8)
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+Xref: eff comp.admin.policy:1728 alt.comp.acad-freedom.talk:4044
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!widener!ukma!morgan
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: DRAFT Student Access/Use Policy
+References: <1992Apr13.195228.24575@eff.org>> 
+    <CKD.92Apr13172604@loiosh.eff.org> <1992Apr14.151655.19264@eff.org>
+Message-ID: <1992Apr14.120017.15683@ms.uky.edu>
+Date: Tue, 14 Apr 1992 16:00:17 GMT
+Organization: The Puzzle Palace, UKentucky
+X-Bytes: 
+Lines: 64
+
+kadie@eff.org (Carl M. Kadie) writes:
+>
+>(opinional?) A report is given to users and the university every so
+>often (once a semester?) summarizing the punishments that were imposed
+>that period.
+
+Actually, I've been thinking about this aspect of the policy.  I think
+that a "policy history" would be extremely valuable in handling future
+violations.  I'd like to be able to reference past incidents, for ques-
+tions such as "Has this happened before?" and "How was it handled in
+the past?".  I'm considering a "sanitized" notebook, with names removed.
+A typical entry might be:
+
+-------------------------------------------------------------------------
+~Date: 4/14/92
+
+Incident: User attempting to crack passwords
+
+Situation: On 4/14/92, examination of /usr/adm/sulog revealed that the
+	   user was making extensive use of the su(1) command.  The en-
+	   tries in /usr/adm/sulog indicated that the user was attempting
+	   to access several different userids, none of which were his own.
+	   The conclusion was reached that the user was attempting to
+	   determine the passwords for other userids.
+
+Violation: Sections X.X, Y.Y, and Z.Z of the ECC Access and Use Policy.
+	   Sections A.A, A.B, and A.C of the Code of Student Conduct.
+
+Actions:   The user's access was immediately revoked.  The relevant in-
+	   formation was forwarded to the Dean of Students for possible
+	   disciplinary action.  The user was contacted through his
+	   Department Chairman.
+
+	   When the user contacted ECC, he was informed that the Dean
+	   of Students was considering disciplinary action.  The user
+	   was directed to the Dean of Students' office for further
+	   information about the disciplinary process.  Pending the
+	   Dean of Students' decision, the user's access was restored;
+	   however, he was placed in a restricted shell (rsh(1)), which
+	   prevented him from accessing either the su(1) command or the
+	   directories of other users.
+
+Resolution:The Dean of Students chose to issue a written reprimand.  After
+	   the conclusion of the proceedings, the user's access was restored
+	   to its original state.
+
+Reference: Judicial Board Proceeding #92-04-01
+--------------------------------
+
+I would think that such a notebook would be invaluable in the implementation
+of consistent restrictions/revocations.  It seems that many shops decide on
+restrictions/revocations in a rather cavalier, "off the cuff" manner; a refer-
+ence such as this might help prevent that.
+
+While this "sanitized" version should be available for public review, the
+specifics of each case should be protected by the "student records privacy"
+laws/regulations/procedures.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+Xref: eff comp.admin.policy:1730 alt.comp.acad-freedom.talk:4045
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Path: eff!kadie
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr14.215153.7178@eff.org>
+Originator: kadie@eff.org
+Keywords: opinions welcome.......
+Sender: usenet@eff.org (NNTP News Poster)
+Nntp-Posting-Host: eff.org
+Organization: The Electronic Frontier Foundation
+References: <1992Apr13.152305.18668@eff.org>      <1992Apr13.144306.3022@ms.uky.edu> <1992Apr13.195228.24575@eff.org> <1992Apr14.112802.7109@ms.uky.edu>
+Date: Tue, 14 Apr 1992 21:51:53 GMT
+Lines: 29
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+
+[...]
+>Well, there are aspects of the disciplinary process that cannot be
+>adequately codified.  The determination of "adequate" restriction is possibly
+>the most subjective part of the entire process.  In this particular
+>scenario, I'd slap a page limit on the user (say, 30 pages/day).  As
+>an alternative, his use of dot-matrix and/or line printers could be
+>unrestricted, while the laser printers are made unavailable.
+[...]
+
+I'm not saying that such a restriction is wrong, only that you should
+recognize them for what it are, punishments. Computer Center imposed
+punishments should be minor (major punishments should require more
+formality), imposed only after giving the user his or her say, subject
+to appeal, etc.
+
+I think your draft policy could be improved by separating the two
+kinds of restrictions (restictions as minor punishment vs.
+restrictions to prevent likely harm to the system or to people).
+
+Without this separation, it is possible to punish users without due
+process (in my opinion, this is exactly what happened at Ohio State
+U.)
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+Path: eff!iWarp.intel.com|uunet!seismo!darwin.sura.net!mips!news.cs.indiana.edu!bsu-cs!bsu-ucs.uucp!yang.earlham.edu!allens
+From: allens@yang.earlham.edu (Allen Smith)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr17.124403.17032@yang.earlham.edu>
+Date: 17 Apr 92 17:44:03 GMT
+References: <1992Apr9.160725.7355@ms.uky.edu>
+Organization: Earlham College, Richmond, Indiana
+Lines: 419
+
+In article <1992Apr9.160725.7355@ms.uky.edu>, morgan@ms.uky.edu (Wes Morgan) writes:
+> The basic University policy for student conduct is the Code of Student
+> Conduct, as interpreted in Student Rights and Responsibilities.  Copies of
+> this document are available from the Office of the Dean of Students. 
+> Enforcement of those policies is the exclusive province of the Dean of
+> Students; the Engineering Computing Center will decide if policy violations
+> should be forwarded to the Dean of Students.  No disciplinary action will be
+> taken against students by the Engineering Computing Center; if such action
+> is contemplated, the matter will be remanded to the appropriate office.
+
+	Good; computing center staff shouldn't be in charge of 
+disciplinary action (that's for the college judicial system).
+
+> 
+>  
+> Section 1: General Access Policies
+> 
+> Each student in the College of Engineering is entitled to use the facilities of
+> the Engineering Computing Center.  We believe that computing services are
+> an essential part of your engineering education; our mission is to provide
+> those services to you.
+> 
+> Engineering Computing Center facilities are developed and maintained solely
+> for the use of Engineering students.  Some facilities are essentially
+> unrestricted; for instance, anyone may walk into an ECC PC Laboratory and
+> use the computer systems there.  However, some facilities and/or services
+> require the use of an individual userid.  Access to those facilities and/or
+> services is restricted to Engineering students, therefore:
+> 
+> 1.1   Use of restricted ECC facilities by those students outside the College
+>       of Engineering is prohibited.  [Paragraph 1.21u, CSC] 
+
+	Acceptable, given the purpose of the center.
+
+> 
+> Your userid is issued solely for your use; you are not permitted to share your
+> userid with others, regardless of their status within or without the
+> University.  Therefore:
+> 
+> 1.2   Sharing your userid with any other person is prohibited.  [Paragraph
+>       1.21u, CSC]
+> 
+> 1.3   Using a userid which belongs to another user is prohibited, even if you
+>       have been issued a userid of your own.  [Paragraph 1.21u, CSC]
+
+	Um.. someone can't use another's account? Doesn't this prohibit 
+looking at an account to check out problems someone's having?
+> 
+> Students in the College of Engineering may receive their own userid from the
+> ECC Staff.  If students outside of the College of Engineering have a
+> legitimate need for access to ECC systems, they may request their own
+> userid.  Applicants should contact the ECC Staff for further assistance.
+> 
+> The status of Engineering students is validated through the Engineering
+> Student Records Office; the status of faculty, staff, and guest users is
+> validated throught the appropriate Dean or Department Chairman.  Long-
+> term access to ECC systems is only granted to Engineering users.  Users
+> outside the College of Engineering will only receive temporary access to ECC
+> systems.  Therefore:
+> 
+> 1.4   Applying for an ECC userid under false pretenses is a punishable
+>       disciplinary offense.  [Paragraph 1.21r, CSC]
+
+	Acceptable.
+> 
+> The ECC Staff may, at a later date, establish specific policies to address
+> short-term problems or situations.  You are obligated to follow those short-
+> term directives and/or policies, just as you are obligated to follow this
+> policy.  You may also receive specific personal instructions from ECC Staff;
+> those instructions must be followed as well.  Therefore:
+> 
+> 1.5   Failure to comply with directions of ECC Staff acting in the
+>       performance of their duties is a punishable disciplinary offense. 
+>       [Paragraph 1.21h, CSC]
+> 
+
+	Hmm... might want to make sure that such directions only apply to 
+things that the ECC has the authority to tell someone to do.
+> 
+> 
+> Section 2: General Use Policy
+> 
+> An essential aspect of academic freedom is student privacy.  Within the
+> bounds set within this policy and subsequent announcements, you are free
+> to use ECC facilities in any manner you wish.  A wide range of services and
+> facilities are available to you, and we encourage you to use all of them.
+> 
+> If you are granted certain rights as a user of ECC systems, it is reasonable to
+> expect you to respect the rights of other users.  
+> 
+> You are allocated a certain amount of disk space on ECC system for storage
+> of your files and data.  Each user has their own disk space; you have no need
+> to examine the disk space of other users.  The ECC Staff does not, and will
+> not, examine student files or data, except during normal computing
+> operations (e.g., making system backup tapes).  Therefore:
+> 
+> 2.1   Deletion, examination, copying, or modification of files and/or data
+>       belonging to other users without their prior consent is prohibited. 
+>       [Paragraphs 1.21a, 1.21m, and 1.21q, CSC]
+
+	What about running someone else's programs without their permission?
+> 
+> You may be assigned a quota, or limit, on the system resources you may
+> consume.  Exceeding your quota(s) may impede the work of other users. 
+> Therefore:
+> 
+> 2.2   Attempts to evade or change resource quotas are prohibited.
+>       [Paragraphs 1.21a, 1.21h, and 1.21u, CSC]
+
+	Might want to stick in "change without ECC permission" to this; 
+otherwise, you're prohibiting someone asking for a larger quota.
+> 
+> Some ECC systems give you the ability to communicate with other users. 
+> Such communication may not always be welcomed by the other users; in
+> fact, it may interfere with their work.  Therefore:
+> 
+> 2.2   Continued interference with other users, after receipt of a request to
+>       cease such activity, is prohibited.  [Paragraph 1.21a, CSC]
+
+	Good. If someone has an automated program, though, it may continue 
+such interference (i.e., a mistaken placement on a mailing list) even 
+after the account has received a request to stop. Same is true of the rule 
+below, so be sure to look at when the PERSON received the request as 
+opposed to the account.
+> 
+> While we do not place arbitrary limits on your use of ECC systems, it is quite
+> possible for you to consume a significant portion of the systems' resources. 
+> As a result, you may impede the work of other users.  If this should occur,
+> you will be notified by ECC staff.  Therefore:
+> 
+> 2.3   Continued impedance of other users through mass consumption of
+>       system resources, after receipt of a request to cease such activity, is
+>       prohibited.  [Paragraph 1.21a, CSC]
+> 
+> Your access to ECC systems is based on your academic needs.  We cannot,
+> and will not, support "for-profit" operations.  Therefore:
+> 
+> 2.4   Use of ECC facilities and/or services for commercial purposes is
+>       prohibited.  [Paragraphs 1.21g and 1.21u, CSC]
+
+	What about using a commercial service through ECC for the purpose 
+of Engineering?
+> 
+> ECC resources are dedicated to academic work.  At this time, we cannot
+> support game or recreational programs.  Therefore:
+> 
+> 2.5   The installation/execution of games and/or recreational programs on 
+>       ECC systems is prohibited. [Paragraph 1.21u, CSC]
+
+	Understandable.
+> 
+> Section 3: Electronic Mail Policy
+> 
+> Electronic mail is one of the most beneficial services provided by the ECC. 
+> It enables you to communicate with other users, both here and around the
+> world.  The ECC encourages you to use electronic mail for both academic and
+> social activities.  However, there are several means by which electronic mail
+> may be abused.
+> 
+> Electronic mail is a personal medium; it represents a conversation between
+> you and another user.  As such, the ECC will not attempt to regulate the
+> content of your electronic mail.  The ECC accepts no responsibility for the
+> content of electronic mail you receive.  If you receive a piece of electronic
+> mail which you consider offensive, the ECC will not become involved in the
+> dispute.  You are reminded that the University does have policies against
+> racism, sexism, and sexual harassment; if necessary, you may direct your
+> problems to the appropriate University office.
+> 
+> Whenever you send electronic mail, your name and userid are included in
+> each mail message.  You are responsible for all electronic mail originating
+> from your userid.  Therefore:
+> 
+> 3.1   Forgery (or attempted forgery) of electronic mail messages is
+>       prohibited.  [Paragraph 1.21u, CSC]
+> 
+> Electronic mail belongs to the recipient.  A user's mailbox is treated in the
+> same manner as any other file belonging to that user.  Therefore:
+> 
+> 3.2   Attempts to read, delete, copy, or modify the electronic mail of other
+>       users are prohibited.  [Paragraphs 1.21a, 1.21m, and 1.21q, CSC]
+> 
+> Each user has a finite amount of disk space reserved for their electronic
+> mail.  We believe that electronic mail is a necessary tool in computing. 
+> Therefore:
+> 
+> 3.3   Deliberate interference with the ability of other users to send/receive
+>       electronic mail is prohibited.  [Paragraph 1.21a, CSC]
+> 
+> When single messages are dispatched to numerous users, you are using a
+> mechanism known as a mailing list.  The mailing list mechanism can be very
+> useful in your academic work; however, large mailing lists can place a serious
+> burden on the electronic mail system.  Therefore:
+> 
+> 3.4   All mailing lists with more than 10 members must be registered with
+>       the ECC staff. [Paragraph 1.21u, CSC]
+> 
+> It is important to note that the ECC staff will make arrangements for large
+> mailing lists; however, we will not support mailing lists whose subjects
+> violate University policy, State law, or Federal law.  (In any situation where
+> this is a possibility, the University Counsel will be asked for a decision.)
+
+	You say above that the ECC isn't responsible for the contents of 
+private mail. But here you say that you will judge subjects on other 
+criteria than application to the ECC's purpose (Engineering 
+teaching/learning). Why not simply say that you will not allow large-scale 
+mailing lists which aren't on Engineering subjects?
+	Furthermore, University policy, State law, and Federal law are not 
+supposed to violate the Constitution- specifically the First Amendment. 
+Therefore, simple discussion (other than the types forbidden above as 
+non-wished by the recipient) should not be forbidden on the basis of 
+subject matter, other than such subject matter's being non-Engineering related.
+> 
+> Section 4: Network Use Policy
+> 
+> Many ECC systems are connected to local, regional, national, and worldwide
+> networks.  These networks allow you to access facilities and services
+> provided by computing operations around the world.  Naturally, the ECC
+> encourages you to use these facilities; however, some restrictions must be
+> place on your use.
+> 
+> With thousands of computer systems joined by networks, it is possible to
+> attempt to gain unauthorized access to those systems.  Therefore:
+> 
+> 4.1   Use of ECC systems and/or networks in attempts to gain unauthorized
+>       access to remote systems is prohibited.  Any such attempts will be
+>       reported to the administrators of the remote systems.  [Paragraph
+>       1.21u, CSC]
+> 
+> There are a limited number of network ports available to certain systems. 
+> It is possible to connect to other systems via ECC systems.  This misuse of
+> ECC systems may result in depriving other users of access to our systems. 
+> We cannot support use of computers outside of the ECC.  Therefore:
+> 
+> 4.2   Use of ECC systems and/or networks to connect to other systems, in
+>       evasion of the physical limitations of the remote system/network, is
+>       prohibited. [Paragraph 1.21a and 1.21u, CSC]
+
+	In evasion of the physical limitations of the remote 
+system/network? What in the world are you meaning? And why are you 
+(apparantly) attempting to forbid access to outside email and Usenet, 
+given that some groups, etc. are useful for Engineering?
+> 
+> Some computer systems offer recreational services, which are accessible from
+> remote sites through the network(s).  The ECC does not have sufficient
+> network resources to support such activities.  In addition, use of ECC
+> services for such purposes may prevent other users from accessing ECC
+> systems.  Therefore:
+> 
+> 4.3   Use of ECC systems and/or networks to access recreational services
+>       provided by other sites is prohibited.  [Paragraphs 1.21a and 1.21u,
+>       CSC]
+
+	Understandable.
+> 
+> There are many sites which provide electronic archive services; some of the
+> programs available from those archives are network-based applications.  It
+> is essential that the ECC maintain control and management capabilities over
+> the network.  Therefore:
+> 
+> 4.4   With the exception of classwork assignments, network-based
+>       applications will not be installed on ECC systems without the
+>       knowledge and consent of the ECC Staff.  [Paragraph 1.21u, CSC]
+> 
+> 
+	Understandable.
+> 
+> 
+> Section 5: System Security Policy
+> 
+> While the ECC encourages you to learn as much as possible about computing
+> and computing systems, we have certain obligations which we must honor.
+> 
+> The operating systems used on ECC systems are copyrighted works; we do
+> not have the right to copy system files or install them on other systems.  In
+> fact, copying system files is a violation of copyright law.  Therefore:
+> 
+> 5.1   The copying of system files is prohibited.  [Paragraphs 1.21f and 1.21u,
+>       CSC]
+> 
+> (For the purposes of this policy, any files which do not specifically belong to
+> a particular Engineering user are system files.  Files belonging to specific
+> users are protected under rule 2.1)
+> 
+> Some programs and/or files on ECC systems are in the public domain; these
+> files may be copied and distributed freely.  Any such files will be clearly
+> marked as "public domain".  If you are unsure about the status of a particular
+> program or file, contact the ECC staff.
+
+	Understandable, given legal liabilities.
+> 
+> Each user of ECC systems is authenticated through the use of a password. 
+> This "password protection" is an integral part of the system.  Therefore:
+> 
+> 5.2   Decryption of system or user passwords is prohibited.  [Paragraphs
+>       1.21a and 1.21u, CSC]
+
+	Good. Seems to go under using someone's account w/out their 
+permission, but still a good thing to have.
+> 
+> Many copyrighted programs are used on ECC systems.  We have secured
+> licenses for the use of these programs.  Those licenses do not allow us to
+> make unauthorized copies of the software.  Therefore:
+> 
+> 5.3   The copying of copyrighted materials, such as third-party software,
+>       without the express written permission of the owner or the proper
+>       license, is prohibited.  [Paragraphs 1.21f and 1.21u, CSC]
+> 
+> When presented with improper data, some computing systems and/or
+> programs may "crash".  A system/program crash prevents other users from
+> accessing the system/program until the problem is remedied.  Therefore:
+> 
+> 5.4   Intentional attempts to "crash" ECC systems or programs are
+>       punishable disciplinary offenses.  [Paragraphs 1.21a, 1.21p, and 1.21u,
+>       CSC]
+
+	Good.
+> 
+> When you are issued a userid, you are granted a certain set of privileges. 
+> There are higher levels of privilege; these levels are restricted to ECC Staff. 
+> These higher privileges, if misused or abused, may cause damage to both
+> hardware and software; in fact, they may render the system unusable. 
+> Therefore:
+> 
+> 5.5   Any attempts to secure a higher level of privilege on ECC systems are
+>       punishable disciplinary offenses.  [Paragraphs 1.21g 1.21p, and 1.21u,
+>       CSC]
+> 
+	Might want to make an exception so that people aren't forbidden 
+from ASKING for a higher level of privilege?
+> 
+> 
+> Section 6: Incident Handling
+> 
+> In the event that you, knowingly or unknowingly, violate ECC or University
+> policy, you will be contacted by the ECC Staff.  This contact will usually take
+> the form of an electronic mail message.  It is your responsibility to follow
+> any instructions you may receive from ECC Staff, and to confirm your
+> receipt of those instructions.  If you believe that the instructions given to
+> you are unreasonable, you should immediately contact the Director of
+> Engineering Computing or the Assistant Dean of the College of Engineering. 
+> If you do not register your complaint with either the Director of Engineering
+> Computing or the Assistant Dean, it is expected that you will follow the
+> instructions given to you.  Therefore:
+> 
+> 6.1   Disregarding instructions of ECC Staff may result in the temporary
+>       revocation of your computing access.
+
+	Keep in mind what I said above about neccessary time for the 
+PERSON's reception of the message as opposed to the account's.
+> 
+> If your access is temporarily revoked, you should immediately contact the
+> ECC Staff for an explanation of the situation.  In most cases, the revocation
+> will be lifted within 1 working day.  Quite often, temporary revocation is the
+> result of a minor, or apparently unintentional, violation of ECC or University
+> policy; such revocations will be lifted as soon as the ECC Staff discusses the
+> relevant policies with you.
+> 
+> 6.2   Temporary revocations of computing access will be dissolved within
+>       one working day of the resolution of the violation.
+> 
+> We feel that, in most situations, a temporary revocation, and the dialogue
+> which follows, is preferable to an automatic request for disciplinary action.
+> 
+> It is important to note that it is your obligation to contact ECC in the event
+> that your computing access is revoked.  
+
+	Why isn't it the ECC's responsibility?
+> 
+> A situation may occur in which, in the opinion of the ECC staff, immediate
+> revocation is necessary; in such a situation, you may not receive advance
+> notice of the problem.  These cases will be handled in the same manner as
+> any other temporary revocation; you should contact the ECC staff as soon
+> as possible, so that the revocation may be dissolved.
+
+	In some cases, this could simply be done through shutting down the 
+process/program rather than the entire account, and leaving a message to 
+the person on the subject. Keep this option in mind.
+> 
+> If the ECC believes that you have committed a significant violation of ECC
+> or University policy, the matter will be remanded to the Dean of Students for
+> disciplinary procedures under the Code of Student Conduct.  If the Dean of
+> Students decides that judicial proceedings are necessary, the ECC will
+> provide a restricted form of computer access, so that you may continue your
+> academic work during the judicial process.  
+
+	Would the time between the Dean's decision and the time of ECC 
+remandation be a period in which the acces was revoked? If so, then an 
+innocent (due to an honest mistake by ECC) person may have their access 
+revoked for a period longer than a day due to the Dean's offices' having 
+more stuff to work on than just this.
+> 
+> 6.3   If the Dean of Students initiates disciplinary action against you, the
+>       ECC will provide sufficient computing access for the completion
+>       and/or continuation of your academic work.  This access may be
+>       limited in scope, depending on the nature of the charges against you.
+> 
+> The ECC will abide by the decision of the Dean of Students.  If the Dean of
+> Students chooses not to bring disciplinary action against you, or if the
+> judicial proceedings are resolved in your favor, your complete access to ECC
+> facilities will be immediately restored.
+> 
+> Section 7: Avoiding Violations
+> 
+> 7.1   Any attempt to violate the provisions of this policy may result in
+>       disciplinary action, regardless of the success or failure of the attempt.
+>       [Paragraph 1.21u and 1.21v, CSC]
+> 
+> The best means of avoiding policy violations is communication with the ECC
+> Staff.  If you believe that your use of ECC systems may violate this policy,
+> you should discuss the matter with the ECC Staff before initiating any
+> action.  The ECC may be able to assist you in your work by increasing your
+> resource quotas or making additional computing systems available to you. 
+> If you have any doubts about the propriety of your actions, it is your
+> responsibility to discuss the matter with the ECC Staff.
+> -- 
+>  morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+>  morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+>  morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+>         "I was going to rip your head off, but I'm past that now."
+

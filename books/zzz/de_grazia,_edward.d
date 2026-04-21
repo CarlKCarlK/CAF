@@ -1,0 +1,17 @@
+@BOOK{de:grazia::edward,
+         Author = "De Grazia, Edward",
+         Title = "Girls lean back everywhere: the law of obscenity and  the assault on genius",
+         Edition = "1st",
+         Publisher = "Random House",
+         Address = "New York",
+         Year = "1992",
+         COL = "xvi, 814 p. ;$25 cm.",
+         NOB = "Includes bibliographical references (p. :773:-781)  and index.",
+         SBN = "039457611X :$$$30.00 FPT U.S.A. ($$37.50 Canad)",
+         LON = "(WaOLN)8909639",
+         LON = "ocm22707937",
+         CAL00 = "KF4775$.D44 1992",
+         DDCFL = "344.73/0547$347.304547$20",
+         Subject = "Censorship--United States; Law and literature; Obscenity (Law)--United States",
+	Notes = "On-line review includes timeline"
+}

@@ -1,0 +1,1499 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.65 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 65
+
+
+----------------------------------------------------------------------
+
+From: shade@ice.cc.mcgill.ca (Leslie Regan Shade)
+Subject: Article 0 -- Abstract of CAF-News 02.65
+
+Topics:
+
+   1      deals with a continuation of some of the issues surrounding
+               alleged child pornography posted by a Cornell student to the
+               Usenet
+   2-3    discusses when and if it is appropriate for a sysadmin or
+               superuser to cancel someone else's articles
+   4      reviews the status of the Mark Lehrer/Akron BBS case
+   5-7    deal with an advisory from the Computer Emergency Response Team
+               (CERT), which dealt with the  legality of "keystroke
+               monitoring" under US law
+   8-9    deal with a "joke" chain letter disseminated at the University of
+               Nebraska at Omaha;is it indeed a "chain letter"; and what
+               should be the appropriate response, if any, to such letters
+   10-11  about the recent Appeals court decision which declared the child
+               pornography law unconstitutional
+   12     about a Secret Service Raid at at Texas Tech  Univ., where the SS
+               alleged that the seized computers from the dorm room were used
+               to steal software over the Internet
+
+
+Abstract:
+
+[Best of December, 1992
+
+============================= KEY ================================
+The words after the numbers are a short PARAPHRASE of the article, NOT
+AN OBJECTIVE SUMMARY and not necessarily our opinions.  The selection
+and paraphrases are based on earlier abstracts by Aaron, Henry, Karl,
+and me.
+==================================================================
+
+Note 1 deals with a continuation of some of the issues surrounding
+alleged child pornography posted by a Cornell student to the Usenet.
+
+1. "You may have inside information, but the only public statment was
+that a.b.p.e was cut simply because a single article in it was being
+investigated." Now it's true that "Cornell is not obliged to respect
+academic freedom. [...] But if the university desires to follow
+academic freedom then it must refrain from removing resources at the
+merest hint of questionable legality. Cornell is not obligated to
+subscribe to Playboy. But if they do have a subscription, and there is
+a protest against it, academic freedom forbids them to cancel the
+subscription."
+	<1992Dec2.160210.5928@news.columbia.edu>
+
+Note 2-3 discusses when and if it is appropriate for a sysadmin or
+superuser to cancel someone else's articles.
+
+2.  "By screening articles and newsgroups the University may *increase* its
+liability. (Aside: Elimination of liability should not be the University's
+only goal.)"
+	<Byr9Kv.7wB@cs.uiuc.edu>
+
+3.  Perhaps these are valid exceptions, but really, "the question of
+canceling other people's articles boils down to a question of
+ownership and authority.  By the time something has propagated it is
+outside of the sphere of authority of anyone but the individual admins
+of the systems the article is stored on.  [... In] almost all other
+cases I would consider someone canceling articles as a violation of
+*my* domain of authority: my newsspool.  If you cancel an article that
+you consider illegal, for example, it makes me want to say: 'Hey, what
+are you doing?  Do you have a warrant?  Who gave you the authority to
+mess with data stored on my disks?'  I mean, how would you feel if you
+had some pirated software on your PC, and your neighbor were to just
+walk into your home and start erasing it?  I believe that in the the
+USA at least that's even more illegal than software piracy."
+	<ByuG25.A5v@mtholyoke.edu> 
+
+Note 4 reviews the status of the Mark Lehrer/Akron BBS case:
+
+4.  "You may already know about the BBS 'sting' six months ago in Munroe
+Falls, OH for "disseminating matter harmful to juveniles." Those charges were
+dropped for lack of evidence. Now a trial date of 1/4/93 has been set after
+new felony charges were filed, although the pretrial hearing revealed no
+proof that *any* illegal content ever went out over the BBS, nor was *any*
+found on it."  (A summary of the Akron BBS case follows.)
+	<921202164908_71756.2116_DHG64-1@CompuServe.COM>
+
+Notes 5-7 deal with an advisory from the Computer Emergency
+Response Team (CERT), which dealt with the  legality of
+"keystroke monitoring" under US law.
+
+5.  I'm enclosing "information from the United States Department of
+Justice, General Litigation and Legal Advice Section, Criminal
+Division, regarding keystroke monitoring by computer systems
+administrators, as a method of protecting computer systems from
+unauthorized access." 18 U.S.C. 2510 (1986). It states that such
+surveillance "may be defensible" but "the statute does not expressly
+authorize such monitoring." It recommends that if system
+administrators plan to engage in such monitoring, that the system
+include a banner at login that warns that users may be monitored.
+	<1992Dec8.041023.4125@eff.org>
+
+6. An NSI Security Manager discusses the relationship between  CERT
+"...one of many teams who provide security information and incident
+handling services to a particular constituency" and its umbrella
+organization, FIRST (the Forum of Incident Response and Security
+Teams)"...which comprises response teams from many different companies,
+government agencies (both US and non-US),universities, vendors, etc."
+In regard to CERT's authority to recommend policy and/or procedures in the
+legal arena, it was stated that [CERT] "merely reported to their
+constituency the result of their discussions with the US DoJ. The crux of
+the message is that if you ever hope to use keystroke logs against someone
+who cracks your machine, you better warn the sucker they're being
+recorded..."
+	<14DEC199215163611@nssdca.gsfc.nasa.gov>
+
+7.  "CERT is recommending unilateral announcement of 'all users may be
+monitored all the time, with no negotiation and no negotiated policy of
+watching/monitoring only on 'probable cause'".  As Net Citizens, we should
+not cooperate with CERT, and we should "see if something can be done to
+get some of the CERT's functions implemented in a way that respects
+freedom and people's rights..."
+	<1992Dec18.100254.4122@nntp.hut.fi>
+
+Notes 8-9 deal with a "joke" chain letter disseminated at the University
+of Nebraska at Omaha;is it indeed a "chain letter"; and what should be the 
+appropriate response, if any, to such letters?
+
+8.  A wave of chain letter mania is sweeping the University of
+Nebraska at Omaha. A new login message has been instituted which warns
+that sending a chain letter on may result in "loss of account
+privileges." The text of the joke chain letter is included. "The new
+policy seems to skate dangerously close to censorship and
+prior-restraint (what exactly *is* a 'chain- letter?')."
+	<pschleck.724051408@cwis>
+
+9.   [Sys admin involved in the 'joke chain letter' controversy] "I
+believe strongly in rights to academic freedom; to that end, I've put
+considerable time and effort into making the resources of the Internet
+available to as many people here as possible.  That belief is one of
+the reasons we maintain a full news feed under pressure to limit what
+we carry (the type of pressure to which Universities in our system
+have caved in)." However, the joke chain letter is an issue of
+"resource abuse" rather than censorship.
+	<cwis.724110716@cwis>
+
+Notes 10-11 are about the recent Appeals court decision which declared the
+child pornography law unconstitutional.
+
+10.  The Wall Street Journal reported that "the Ninth U.S. Circuit Court of
+Appeals ruled, in US vs X-Citement Video Inc., (CA No. 89-50556), that the
+sections of the Protection of Children Against Sexual Exploitation Act of
+1977 that deal with distribution, transportation, and receipt of sexually
+explicit materials are invalid on First Amendment grounds.  The court let
+stand the prohibition on the production of child pornography."  "This
+ruling...may help to remove sysop worries about someone posting such
+material on their system without their knowledge, or about network nodes
+being liable for  material passing through them."
+	<1992Dec17.232618.19727@netcom.com>
+
+11. [A member of the California bar]: "This is likely to be good news for
+sysops and site admins, since (as with video distribution or rental/sales)
+there is no reason to charge site admins with actual knowledge of the
+contents of any given article that passes through (or is stored on) a
+site... for BBS and Usenet sites that simply carry a large number of
+newsgroups,including the erotica images groups, there is no implication
+that the site is engaged in active distribution of child pornography if a
+small number of articles are later learned to contain material unlawful
+under the Act."
+	<921217.37008063@robbe-grillet.postmodern.com>
+
+Note 12  is about a Secret Service Raid at at Texas Tech  Univ., where the
+SS alleged that the seized computers from the dorm room were used to steal
+software over the Internet.
+
+12. The Secret Service seized computers from a dorm room at Texas Tech
+University, alleging the equipment was used to steal software over the
+Internet.  The three men involved were not arrested, but they are
+expected to be charged with computer crime, interstate transport of
+stolen property, and copyright infringement.  Texas Tech computer
+operators contacted the Secret Service after noting credit information
+in the software that was filling their data storage devices.  Although
+the USSS normally doesn't pursue software piracy, they do pursue using
+"using electronic access devices such as passwords in the commission
+of a crime".  The current investigation falls under a revision of
+copyright laws which allow felony charges to be brought against anyone
+who pirates more than 10 copies of copyrighted software.
+    <fwd.BzMzto.HC5@cs.uiuc.edu>
+
+-Leslie Regan Shade]
+
+
+Contents:
+
+                104  >ALERT RE POSTINGS AND COR<>CCESS TO ALT.*.*.EROTICA HIER
+Carl M. Kadie   178  >Libel by computer user -> liability by sysadmins?
+Jurgen Botz      61  >Canceling other people's postings
+David Lehrer    207  Akron BBS trial update!
+Carl M. Kadie   103  CERT and the Dept. of Justice on keystroke monitoring
+NSI S Manager    85  Incident Response Teams (<>stice on keystroke monitoring)
+Jyrki Kuoppala   93  >CERT and the Dept. of Justice on keystroke monitoring
+Paul W S KD3FU   88  Joke "Chain-Letter" Distributed at UN-Omaha
+Campus Service   49  >Chain letters?
+John Nagle       27  Appeals court declares ch<>rnography law unconstitutional
+Michael C. Berch 64  >
+Joe Abernathy    83  File 2--Secret Service Raids Dorm
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Associate Editor: Leslie Regan Shade (shade@ice.cc.mcgill.ca)
+Associate Editor: Henry E. Hardy (seraphim@ais.org)
+Associate Editor: Karl Barrus (elee9sf@Menudo.UH.EDU)
+Associate Editor: Bruce Umbaugh (BDU100F@oduvm.cc.odu.edu)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Dec  2 16:57:42 1992
+Newsgroups: news.admin.misc
+Subject: Article 1--Re: ALERT RE POSTINGS AND CORNELL ACCESS TO ALT.*.*.EROTICA HIER
+Message-ID: <1992Dec2.160210.5928@news.columbia.edu>
+Date: 2 Dec 92 16:02:10 GMT
+
+In article <1992Dec2.055703.10745@tc.cornell.edu> mdw@theory.TC.Cornell.EDU (Matt Welsh) writes:
+>
+[talking about acad freedom as it applies to Cornell and a.b.p.e]
+
+>I have spoken with some of those responsible for the restriction of the 
+>alt.*.erotica newsgroups here at Cornell. I don't believe that the _only_ 
+>reason these groups were cut off was because of legal investigation.
+
+   You may have inside information, but the only public statment was that
+a.b.p.e was cut simply because a single article in it was being investigated.
+There are plenty of good reasons for dropping a.b.p.e, but I see no sign that
+it was anything other than the investigation the caused it's removal.
+
+> I know 
+>that if I was responsible for the newsstand here, and was aware that it was 
+>being directly abused (illegally so), that the easiest and most effective way 
+>to deal with the problem is to simply cut off the newsgroup. Cornell is in 
+>NO WAY obligated to provide those newsgroups to the Cornell community, in the 
+>same way that it's not obligated to carry 'Playboy' in the circulars at the 
+>undergrad library.
+>
+   Cornell is not obliged to respect academic freedom. So your statment is
+true. But if the university desires to follow academic freedom then it must
+refrain from removing resources at the merest hint of questionable legality.
+Cornell is not obligated to subscribe to Playboy. But if they do have a
+subscription, and there is a protest against it, academic freedom forbids them
+to cancel the subscription.
+
+>Furthermore, the alt.*.erotica newsgroups aren't an educational resource.
+
+   Care to defend this assertion? Do you just mean that you don't value the
+groups, so they can't be valuable to anyone else? I have used a.b.p.e for
+educational purposes, and I'm sure there are many other who have as well.
+
+[...]
+>
+>It seems that you liken the cutting off of the erotica groups here to the
+>banning of an 'obscene' book in a campus library. I think the lamp of
+>academia can shine on without the erotica newsgroups being made available
+>here.
+
+   Can the lamp shine without talk.politics.*?  How about talk.rape? Since 
+rape is an inherently offensive subject, could the university cut all groups
+that occasionally have a rape discussion?
+   Who makes and keeps the list of subjects that it is acceptable to ban?
+
+   Do you object to comparing usenet to a library? There are plenty of
+people at every site that value the net. Unless you consider it a valueless
+toy, then you have to come to terms with a real group selection policy. If
+you accept that usenet has value, then you should select groups the same
+way a library does. Or a similar as you can get. A.b.p.e is valued at every
+site that gets it. It shouldn't be removed frivilously.
+
+
+> You're looking at it the wrong way: Cornell has ZERO obligation to
+>provide these groups. Do you scream and yell because de.fahrvegnugen isn't
+>available at your site? I doubt it. 
+>
+  Big difference. If you refuse de.* you are saying that you percieve a lack
+of interest among your users. As long as you are willing to accept input
+from the students, refusing a newgroup is not in any way a violation of
+academic freedom.
+  But when it comes to removing an availible resource, you have more 
+perameters to consider. If the thing is unused, you can remove it. If you
+cannot afford the thing, you can remove it. But you can't remove a popular
+thing just because you want to.
+
+>Seriously, however, I think the point is not that this is restricting access
+>to information. You have to look at it from the news and system admin's
+>point of view, which is that their systems are involved in something which
+>is causing quite an upset, at least with the legal authorities.
+
+   But this situation happens for books and music and art all the time. 
+Sometimes you just have to stand up for what you believe in. If institutions
+like universities won't do this, who will?
+   Remember that we are not talking about anything severe like obeying a
+court order. We are talking about closing a popular resourse due to the
+possibility that it may have been used for a crime in the past.
+
+> I wouldn't
+>want to have to constantly police the actions of my users to ensure that
+>they wern't breaking the law. It's simply too much of a pain to deal with 
+>those groups in this situation, and the primary concern of a system 
+>administrator is the system, not the political garbage that surrounds the
+>information propagated on it. 
+>
+   Then I would suggest a new career choice. Work for a company of the CIA
+rather than a university. Academic freedom doesn't allow you to take the
+easy way out all the time.
+   BTW, academic freedom also tells you that you cannot police the actions
+of your users.
+
+DanZ
+
+-- 
+This article is for entertainment purposes only. Any facts, opinions,
+narratives or ideas contained herein are not necessarily true, and do
+not necessarily represent the views of any particular person.  
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec  4 17:29:40 1992
+Newsgroups: misc.legal,alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 2--Re: Libel by computer user -> liability by sysadmins?
+Message-ID: <Byr9Kv.7wB@cs.uiuc.edu>
+Date: Fri, 4 Dec 1992 22:10:07 GMT
+
+wales@kona.cs.ucla.edu (Rich Wales) writes:
+
+>Could someone summarize for me the current state of affairs in cases
+>where the system administrators of a university computer facility are
+>(or are not) held responsible for the actions of a user accused of
+>making libelous statements via news or e-mail?
+[...]
+
+[A Computers and Academic Freedom (CAF) FAQ. Info about the CAF
+mailing lists/newsgroups is enclosing. - Carl]
+
+=============== ftp.eff.org:pub/academic/faq/netnews.liability ===============
+q: Does a University reduce its likely liability by screening Netnews
+for offensive articles and newsgroups?
+
+a: Not necessarily. By screening articles and newsgroups the
+University may *increase* its liability.
+
+(Aside: Elimination of liability should not be the University's
+only goal.)
+
+According to the book _Law of the Student Press_ (in reference student
+newspapers), "Only two court cases have considered the liability
+question, and in both cases the courts found that the institution was
+free from liability because control was in the hands of the
+students.{33,34} ... Thus, despite arguments by administrators that
+they need to prevent libel, it appears that just the opposite is true:
+Where administrators have not exercised control over the content of
+student publications, the courts have refused to hold their schools
+responsible for libel appearing in such publication. If, however,
+administrators exercise the power of prior review, then the court will
+also hold them and their schools liable for the contents of such
+publications.  Encouraging the establishment of a clear-cut separation
+between school administration and editor functions may also result in
+the reduction of libel suits, for potential plaintiffs will realize
+that substantial funds are beyond their reach.  ...  {33} _Mazart v.
+State_ 441 N.Y.S.2d 600 (1981) {34} _Milliner v. Turner_ 436 So.2d
+1300 (La. App. 1983)"
+
+The recent _Cubby v. Compuserve_ decision also suggests that a
+no-screening policy may be best. The judge wrote: "CompuServe has no
+more editorial control over such a publication than does a public
+library, bookstore or newsstand, and it would be no more feasible for
+CompuServe to examine every publication it carries for potentially
+defamatory statements than it would be for any other distributor to do
+so."
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+academic/student.freedoms.aaup
+=================
+* Student Freedoms (AAUP)
+
+Joint Statement on Rights and Freedoms of Students -- This is the main
+U.S. statement on student academic freedom.
+
+=================
+academic/speech-codes.aaup
+=================
+* Speech Codes (AAUP)
+
+On Freedom of Expression and Campus Speech Codes Expression - An
+official statement of the American Association of University
+Professors (AAUP)
+
+It says in part: "On a campus that is free and open, no idea can be
+banned or forbidden.  No viewpoint or message may be deemed so hateful
+or disturbing that it may not be expressed."
+
+=================
+law/cubby-v-compuserv
+=================
+* Expression -- Liability -- Cubby v. Compuserv
+
+Report of a federal district court case which said CompuServe could
+not be held liable for the defamatory content because it exercised no
+editorial control.
+
+=================
+law/student-publications.misc
+=================
+* Expression -- Offensive -- Student Publications -- Misc
+
+Quotes from the book _Law of the Student Press_ by the Student Press
+Law Center (1985,1988). They say that four-letter words are protected
+speech, that public universities are not likely to be liable for
+publications that they for which they do not control the contents, and
+that the _Hazelwood_ decision does not apply to universities.
+
+=================
+faq/netnews.reading
+=================
+* Netnews -- Policies on What Users Read
+ 
+q: Should my university remove (or restrict) Netnews newsgroups
+because some people find them offensive? If it doesn't have the
+resources to carry all newsgroups, how should newsgroups be selected?
+ 
+a: Material should not be restricted just because it is offensive to
+...
+
+=================
+faq/netnews.writing
+=================
+* Netnews -- Policies on What Users Write
+ 
+q: Should my university allow students to post to Netnews?
+ 
+a: Yes. Free inquiry and free expression are an important part of a
+...
+
+=================
+faq/censorship-and-harassment
+=================
+* Censorship And Harassment
+ 
+q: Must/should universities ban material that some find offensive
+(from Netnews facilities, email, libraries, and student publications,
+etc) in order to comply with antiharassment laws?
+ 
+a: No. The federal courts have said that harassing speech is different
+...
+
+=================
+caf
+=================
+* About the CAF mailing lists (and newsgroups)
+
+A description of the comp-academic-freedom-talk mailing list. It is a
+free-forum for the discussion of questions such as: How should general
+principles of academic freedom (such as freedom of expression, freedom
+to read, due process, and privacy) be applied to university computers
+and networks? How are these principles actually being applied? How can
+the principles of academic freedom as applied to computers and
+networks be defended?
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/academic/student.freedoms.aaup
+  pub/academic/academic/speech-codes.aaup
+  pub/academic/law/cubby-v-compuserv
+  pub/academic/law/student-publications.misc
+  pub/academic/faq/netnews.reading
+  pub/academic/faq/netnews.writing
+  pub/academic/faq/censorship-and-harassment
+  pub/academic/caf
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/academic student.freedoms.aaup
+send acad-freedom/academic speech-codes.aaup
+send acad-freedom/law cubby-v-compuserv
+send acad-freedom/law student-publications.misc
+send acad-freedom/faq netnews.reading
+send acad-freedom/faq netnews.writing
+send acad-freedom/faq censorship-and-harassment
+send acad-freedom caf
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec  6 13:21:45 1992
+From: jbotz@mtholyoke.edu (Jurgen Botz)
+Subject: Article 3--Re: Canceling other people's postings
+Message-ID: <ByuG25.A5v@mtholyoke.edu>
+Date: Sun, 6 Dec 1992 15:22:53 GMT
+
+In article <Byu0sG.9nD@unix.amherst.edu> twpierce@unix.amherst.edu (Tim Pierce) writes:
+>In article <BytKE2.MGw@mtholyoke.edu> jbotz@mtholyoke.edu (Jurgen Botz) writes:
+>
+>>In article <1992Dec4.211934.8997@pica.army.mil> drears@claudius.pica.army.mil (Dennis G Rears ) writes:
+>>>I am the moderator for comp.society.privacy and recently found
+>>>a posting that I did not approve.
+>>
+>>This is the *only* valid reason for canceling
+>>someone elses post.
+>
+>Ooh ... gonna get yourself in trouble there, I bet. :-)
+>
+>Suppose I find that someone else has forged an article in my name?
+
+8-)  Ok, I'll back off from that claim a bit.  I think forgeries are
+better handled with a follow-up exposing the forgery as such, but I
+certainly wouldn't flame someone for canceling a post that was forged
+in their name.  However, canceling a forgery in *your* name isn't really
+canceling someone else's article!  It's canceling an article that was
+purportedly from you anyway, so it's not really opposed to what I was
+getting at when I stated that the only time that it's appropriate for
+a third party to cancel a post is in the case of a moderator canceling
+unapproved articles to his/her group.
+
+Another reader sent me mail suggesting that it is appropriate to
+cancel "illegal" posts, but there I would beg to differ...  what's
+illegal, and where?  This horse has been beaten to death just recently
+over the "pedophilia" posts in a.b.p.e, and I think that regardless of
+one's individial position in this issue, the issue needs to be addressed
+in a more general way and not on a case-by-case basis by self-appointed
+net.police canceling posts.
+
+Mainly the question of canceling other people's articles boils down to
+a question of ownership and authority.  By the time something has
+propagated it is outside of the sphere of authority of anyone but the
+individual admins of the systems the article is stored on.  The rest
+is net.convention and the cooperative spirit of the net: Since the
+article is owned by the author, the author has somewhat of an implicit
+license to cancel the article, and moderators have an implicit license
+over what happens in the group which they moderate.  These are things
+that I agreed to by joining my system to the net... however in almost
+all other cases I would consider someone canceling articles as a
+violation of *my* domain of authority: my newsspool.  If you cancel an
+article that you consider illegal, for example, it makes me want to
+say: "Hey, what are you doing?  Do you have a warrant?  Who gave you
+the authority to mess with data stored on my disks?"  I mean, how would
+you feel if you had some pirated software on your PC, and your neighbor
+were to just walk into your home and start erasing it?  I believe that in
+the the USA at least that's even more illegal than software piracy.
+
+--
+Jurgen Botz                  |   Internet: JBotz@mtholyoke.edu
+Academic Systems Consultant  |     Bitnet: JBotz@mhc.bitnet
+Mount Holyoke College        |      Voice: (US) 413-538-2375 (daytime)
+South Hadley, MA, USA        | Snail Mail: J. Botz, 01075-0629
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec  2 11:57:05 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: 71756.2116@compuserve.com (David Lehrer)
+Subject: Article 4--Akron BBS trial update!
+Message-ID: <921202164908_71756.2116_DHG64-1@CompuServe.COM>
+Date: Wed, 2 Dec 1992 16:49:08 GMT
+
+Akron BBS trial update: Dangerous precedents in sysop prosecution
+
+You may already know about the BBS 'sting' six months ago in Munroe
+Falls, OH for "disseminating matter harmful to juveniles." Those
+charges were dropped for lack of evidence. Now a trial date of
+1/4/93 has been set after new felony charges were filed, although
+the pretrial hearing revealed no proof that *any* illegal content
+ever went out over the BBS, nor was *any* found on it.
+
+For those unfamiliar with the case, here's a brief summary to date.
+In May 1992 someone told Munroe Falls police they *thought* minors
+could have been getting access to adult materials over the AKRON
+ANOMALY BBS. Police began a 2-month investigation. They found a
+small number of adult files in the non-adult area.
+
+The sysop says he made a clerical error, causing those files to be
+overlooked. Normally adult files were moved to a limited-access
+area with proof of age required (i.e. photostat of a drivers
+license).
+
+Police had no proof that any minor had actually accessed those
+files so police logged onto the BBS using a fictitious account,
+started a download, and borrowed a 15-year old boy just long enough
+to press the return key. The boy had no knowledge of what was going
+on.
+
+Police then obtained a search warrant and seized Lehrer's BBS
+system. Eleven days later police arrested and charged sysop Mark
+Lehrer with "disseminating matter harmful to juveniles," a
+misdemeanor usually used on bookstore owners who sell the wrong
+book to a minor. However, since the case involved a computer,
+police added a *felony* charge of "possession of criminal tools"
+(i.e. "one computer system").
+
+Note that "criminal tool" statutes were originally intended for
+specialized tools such as burglar's tools or hacking paraphenalia
+used by criminal 'specialists'. The word "tool" implies deliberate
+use to commit a crime, whereas the evidence shows (at most) an
+oversight. This raises the Constitutional issue of equal protection
+under the law (14'th Amendment). Why should a computer hobbyist be
+charged  with a felony when anyone else would be charged with a
+misdemeanor?
+
+At the pretrial hearing, the judge warned the prosecutor that
+they'd need "a lot more evidence than this" to convict. However the
+judge allowed the case to be referred to a Summit County grand
+jury, though there was no proof the sysop had actually
+"disseminated", or even intended to disseminate any adult material 
+"recklessly, with knowledge of its character or content", as the
+statute requires. Indeed, the sysop had a long history of
+*removing* such content from the non-adult area whenever he became
+aware of it. This came out at the hearing.
+
+The prosecution then went on a fishing expedition. According to the
+Cleveland Plain Dealer (7/21/92)
+
+    "[Police chief] Stahl said computer experts with the Ohio
+Bureau of Criminal Identification and Investigation are reviewing
+the hundreds of computer files seized from Lehrer's home. Stahl 
+said it's possible that some of the games and movies are being
+accessed in violation of copyright laws."
+
+Obviously the police believe they have carte blanche to search
+unrelated personal files, simply by lumping all the floppies and
+files in with the computer as a "criminal tool." That raises
+Constitutional issues of whether the search and seizure was legal.
+That's a precedent which, if not challenged, has far-reaching
+implications for *every* computer owner.
+
+Also, BBS access was *not* sold for money, as the Cleveland Plain
+Dealer reports. The BBS wasn't a business, but rather a free
+community service, running on Lehrer's own computer, although extra
+time on the system could be had for a donation to help offset some
+of the operating costs. 98% of data on the BBS consists of
+shareware programs, utilities, E-mail, etc.
+
+The police chief also stated:
+
+    "I'm not saying it's obscene because I'm not getting into that
+battle, but it's certainly not appropriate for kids, especially
+without parental permission," Stahl said.
+
+Note the police chief's admission that obscenity wasn't an issue at
+the time the warrant was issued.
+
+
+Here the case *radically* changes direction. The charges above were
+dropped. However, while searching the 600 floppy disks seized along
+with the BBS, police found five picture files they think *could* be
+depictions of borderline underage women; although poor picture
+quality makes it difficult to tell.
+
+The sysop had *removed* these unsolicited files from the BBS hard
+drive after a user uploaded them. However the sysop didn't think to
+destroy the floppy disk backup, which was tossed into a cardboard
+box with hundreds of others. This backup was made before he erased
+the files off the hard drive.
+
+The prosecution, lacking any other charges that would stick, is
+using these several floppy disks to charge the sysop with two new
+second-degree felonies, "Pandering Obscenity Involving A Minor",
+and "Pandering Sexually Oriented Matter Involving A Minor" (i.e. 
+kiddie porn, prison sentence of up to 25 years).
+
+The prosecution produced no evidence the files were ever
+"pandered". There's no solid expert testimony that the pictures
+depict minors. All they've got is the opinion of a local
+pediatrician.
+All five pictures have such poor resolution that there's no way to
+tell for sure to what extent makeup or retouching was used. A
+digitized image doesn't have the fine shadings or dot density of a
+photograph, which means there's very little detail on which to base
+an expert opinion. The digitization process also modifies and
+distorts the image during compression.
+
+The prosecutor has offered to plea-bargain these charges down to
+"possession" of child porn, a 4'th degree felony sex crime
+punishable by one year in prison. The sysop refuses to plead guilty
+to a sex crime. Mark Lehrer had discarded the images for which the
+City of Munroe Falls adamantly demands a felony conviction. This
+means the first "pandering" case involving a BBS is going to trial
+in *one* month, Jan 4th.
+
+The child porn statutes named in the charges contain a special
+exemption for libraries, as does the original "dissemination to
+juveniles" statute (ORC # 2907.321 & 2). The exemption presumably
+includes public and privately owned libraries available to the
+public, and their disk collections. This protects library owners
+when an adult item is misplaced or loaned to a minor. (i.e. 8 year
+olds can rent R-rated movies from a public library).
+
+Yet although this sysop was running a file library larger than a
+small public library, he did not receive equal protection under the
+law, as guaranteed by the 14'th Amendment. Neither will any other
+BBS, if this becomes precedent. The 'library  defense' was allowed
+for large systems in Cubby versus CompuServe, based on a previous
+obscenity case (Smith vs. California), in which the Supreme Court
+ruled it generally unconstitutional to hold bookstore owners liable
+for content, because that would place an undue burden on bookstores
+to review every book they carry, thereby 'chilling' the
+distribution of books and infringing the First Amendment.
+
+If the sysop beats the bogus "pandering" charge, there's still
+"possession", even though he was *totally unaware* of what was on
+an old backup floppy, unsolicited in the first place, found unused
+in a cardboard box. "Possession" does not require knowledge that
+the person depicted is underage. The law presumes anyone in
+possession of such files must be a pedophile. The framers of the
+law never anticipated sysops,or that a sysop would routinely be
+receiving over 10,000 files from over 1,000 users.
+
+The case could set a far ranging statewide and nationwide precedent
+whether or not the sysop is innocent or guilty, since he and his
+family might lack the funds to fight this--after battling to get
+this far.
+
+These kinds of issues are normally resolved in the higher courts--
+and *need* to be resolved, lest this becomes commonplace anytime
+the police or a prosecutor want to intimidate a BBS, snoop through
+users' electronic mail, or "just appropriate someone's computer for
+their own use."
+
+You, the reader, probably know a sysop like Mark Lehrer. You and
+your family have probably enjoyed the benefits of BBS'ing. You may
+even have put one over on a busy sysop now and then.
+
+In this case; the sysop is a sober and responsible college student,
+studying computer science and working to put himself through
+school. He kept his board a lot cleaner than could be reasonably 
+expected, so much so that the prosecution can find very little to
+fault him for.
+
+
+*Important*  Please consider a small contribution to ensure a fair
+trial and precedent, with standards of evidence upheld, so that
+mere possession of a computer is not grounds for a witch hunt.
+
+These issues must not be decided by the tactics of a 'war of
+attrition'; *however far* in the court system this needs to go. For
+this reason, an independent, legal defense trust fund has been set
+up by concerned area computer users, CPA's, attorneys,etc.
+
+     Mark Lehrer First Amendment Legal Defense Fund
+                         (or just:  MLFALDF)
+     Lockbox No. 901287
+     Cleveland, OH  44190-1287
+
+*All* unused defense funds go to the Electronic Frontier
+Foundation, a nonprofit, 501c3 organization, to defend BBS's and
+First Amendment rights.
+
+Help get the word out. If you're not sure about all this, ask your
+local sysops what this precedent could mean, who the EFF is--and
+ask them to keep you informed of further developments in this case. 
+Please copy this file and send it to whoever may be interested. 
+This case *needs* to be watchdogged.
+
+Please send any questions, ideas or comments directly to the sysop:
+
+Mark Lehrer
+CompuServe: 71756,2116   InterNet: 71756.2116@compuserve.com
+Modem: (216) 688-6383    USPO: P.O. Box 275           
+                               Munroe Falls, OH  44262
+
+
+
+------------------------------
+
+From caf-talk Caf Dec  7 23:10:34 1992
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 5--CERT and the Dept. of Justice on keystroke monitoring
+Message-ID: <1992Dec8.041023.4125@eff.org>
+Date: Tue, 8 Dec 1992 04:10:23 GMT
+
+ From CERT Coordination Center
+     Software Engineering Institute
+     Carnegie Mellon University
+     Pittsburgh, PA 15213-3890
+
+-----------------------------------------------------------------------------
+
+The CERT Coordination Center has received information from the United States
+Department of Justice, General Litigation and Legal Advice Section, Criminal
+Division, regarding keystroke monitoring by computer systems administrators,
+as a method of protecting computer systems from unauthorized access.
+
+The information that follows is based on the Justice Department's advice
+to all federal agencies.  CERT strongly suggests adding a notice banner
+such as the one included below to all systems.  Sites not covered by U.S.
+law should consult their legal counsel.
+
+-----------------------------------------------------------------------------
+
+    The legality of such monitoring is governed by 18 U.S.C. section 2510
+    et seq.  That statute was last amended in 1986, years before the words
+    "virus" and "worm" became part of our everyday vocabulary.  Therefore,
+    not surprisingly, the statute does not directly address the propriety
+    of keystroke monitoring by system administrators.
+
+    Attorneys for the Department have engaged in a review of the statute
+    and its legislative history.  We believe that such keystroke monitoring
+    of intruders may be defensible under the statute.  However, the statute
+    does not expressly authorize such monitoring.  Moreover, no court has
+    yet had an opportunity to rule on this issue.  If the courts were to
+    decide that such monitoring is improper, it would potentially give rise
+    to both criminal and civil liability for system administrators.
+    Therefore, absent clear guidance from the courts, we believe it is
+    advisable for system administrators who will be engaged in such
+    monitoring to give notice to those who would be subject to monitoring
+    that, by using the system, they are expressly consenting to such
+    monitoring.  Since it is important that unauthorized intruders be given
+    notice, some form of banner notice at the time of signing on to the
+    system is required.  Simply providing written notice in advance to only
+    authorized users will not be sufficient to place outside hackers on
+    notice.
+
+    An agency's banner should give clear and unequivocal notice to
+    intruders that by signing onto the system they are expressly consenting
+    to such monitoring.  The banner should also indicate to authorized
+    users that they may be monitored during the effort to monitor the
+    intruder (e.g., if a hacker is downloading a user's file, keystroke
+    monitoring will intercept both the hacker's download command and the
+    authorized user's file).  We also understand that system administrators
+    may in some cases monitor authorized users in the course of routine
+    system maintenance.  If this is the case, the banner should indicate
+    this fact.  An example of an appropriate banner might be as follows:
+
+
+
+       This system is for the use of authorized users only.
+       Individuals using this computer system without authority, or in
+       excess of their authority, are subject to having all of their
+       activities on this system monitored and recorded by system
+       personnel.
+
+       In the course of monitoring individuals improperly using this
+       system, or in the course of system maintenance, the activities
+       of authorized users may also be monitored.
+
+       Anyone using this system expressly consents to such monitoring
+       and is advised that if such monitoring reveals possible
+       evidence of criminal activity, system personnel may provide the
+       evidence of such monitoring to law enforcement officials.
+
+
+
+-----------------------------------------------------------------------------
+Each site using this suggested banner should tailor it to their precise
+needs.  Any questions should be directed to your organization's legal
+counsel.
+
+-----------------------------------------------------------------------------
+The CERT Coordination Center wishes to thank Robert S. Mueller, III,
+Scott Charney and Marty Stansell-Gamm from the United States Department
+of Justice for their help in preparing this Advisory.
+
+-----------------------------------------------------------------------------
+If you believe that your system has been compromised, contact the CERT
+Coordination Center or your representative in FIRST (Forum of Incident
+Response and Security Teams).
+
+Internet E-mail: cert@cert.org
+Telephone: 412-268-7090 (24-hour hotline)
+           CERT personnel answer 7:30 a.m.-6:00 p.m. EST(GMT-5)/EDT(GMT-4),
+           on call for emergencies during other hours.
+
+CERT Coordination Center
+Software Engineering Institute
+Carnegie Mellon University
+Pittsburgh, PA 15213-3890
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec 14 15:40:44 1992
+From: tencati@nssdca.gsfc.nasa.gov (NSI Security Manager +1-202-434-4541)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 6--Incident Response Teams (WAS: Re: CERT and the Dept. of Justice on keystroke monitoring)
+Message-ID: <14DEC199215163611@nssdca.gsfc.nasa.gov>
+Date: 14 Dec 92 20:16:00 GMT
+
+In article <jpe.723993622@ee.egr.duke.edu>, jpe@ee.egr.duke.edu (John P. Eisenmenger) writes...
+>jkp@cs.HUT.FI (Jyrki Kuoppala) writes:
+
+>>As responsible net.citizens who value both security and privacy we
+>>should set up public mailing addresses, archives and cooperative
+>>groups to provide functions like collection of computer security
+>>information and distribute information about them.  I think I can help
+>>arrange for some ftp/gopher space and mailing addresses on
+>>nic.funet.fi, if that is needed.
+> 
+>That's funny.  Isn't that exactly what CERT is?
+> 
+>-John
+> 
+Good Question! The answer is YES and NO. CERT is one of many teams who
+provide security information and incident handling services to a
+particular constituency. DARPA funded the CERT at the SEI of Carnegie-
+Mellon University to provide an incident response team for those
+Internet sites who don't have a team of their own. Their constituency
+is therefore quite vast.
+
+There is an umbrella organization called FIRST (the Forum of Incident
+Response and Security Teams) which comprises response teams from many
+different companies, government agencies (both US and non-US),
+universities, vendors, etc. 
+
+*ANY* entity that has its own computer security response effort can
+apply for membership in FIRST and benefit from the interaction with
+other response teams. 
+
+On the Internet, there are certainly many users and organizations that
+have no internal security efforts. For those groups, the CERT receives
+money from DARPA to provide certain services.
+
+It would be inappropriate for the CERT to handle incidents for other
+organizations, like NASA, DoD, DoE (to name a few) which have their
+own funding sources for internal computer security incident response
+efforts, as well as non-US entities, for which CERT has no authority 
+or charter. The mechanism for all these individual teams to 
+"interoperate" is FIRST, which was formalized a little over a year
+ago to address this very issue. The CERT/CC is one of the founding
+and charter members of FIRST. However, they are an equal partner with
+all the other member FIRST organizations.
+
+The CERT also appears to have the most budget (or at least a very 
+healthy one) ergo they can provide many services, which makes them
+the most visible. 
+
+At a recent steering committee meeting of FIRST, a letter from the
+U.S. Dept. of Justice regarding the legal issues surrounding keystroke
+monitoring was passed from the FIRST Secretariat to the steering
+committee members. Based upon the information contained in the letter,
+CERT took the initiative of contacting the Justice Department, going
+over the details of the letter, and composing their advisory. The CERT
+has no authority to recommend policy or procedures in the legal arena.
+They merely reported to their constituency the result of their 
+discussions with the US DoJ. The crux of the message is that if you 
+ever hope to use keystroke logs against someone who cracks your 
+machine, you better warn the sucker they're being recorded (it also 
+protects YOU against charges of wiretapping). The information in the
+CERT bulletin isn't the end-all solution - but it is a start. More
+will follow as the DoJ figures out all the technological
+ideosyncracies of networked computer systems. 
+
+More information about FIRST can be obtained by sending email to the
+secretariat at first-sec@first.org. A current list of FIRST members
+and their constituencies can be obtained by sending an email message
+to docserver@first.org with the body of the message reading: send
+first-contacts.
+
+
+Ron Tencati
+Security Manager
+NASA Science Internet
+
+------------------------------------------------------------------------------
+NASA Science Internet (TCP/IP & DECnet)| NSI/IP: Tencati@Nssdca.Gsfc.Nasa.Gov
+Security and Incident Response Office  | NSI/SPAN: NCF::TENCATI/15548::TENCATI
+Suite 950                              | Tele - +1-202-434-4541
+700 Thirteenth St., NW                 | FAX  - +1-202-434-4599
+Washington, D.C. 20005; USA            | Beeper +1-800-759-7243, Pin:5460866
+------------------------------------------------------------------------------
+
+
+------------------------------
+
+From caf-talk Caf Dec 18 06:19:02 1992
+Newsgroups: comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.privacy,alt.society.civil-liberty
+From: jkp@cs.HUT.FI (Jyrki Kuoppala)
+Subject: Article 7--Re: CERT and the Dept. of Justice on keystroke monitoring
+Message-ID: <1992Dec18.100254.4122@nntp.hut.fi>
+Date: Fri, 18 Dec 1992 10:02:54 GMT
+
+In article <1992Dec16.192639.12991@eecs.nwu.edu>, mack23@avalon (Chris Walsh) writes:
+>In article <1992Dec14.180915.13795@cc.ic.ac.uk> cmaae47@imperial.ac.uk writes:
+>>
+>>Though property rights come into it, they are not the only issue.
+>
+>I'll say!  Various posters have asserted that "If you work for WidgetCo,
+>and WidgetCo owns your workstation, plus the associated networking infra-
+>structure, then its is OBVIOUS that WidgetCo can monitor your keystrokes."
+>
+>True.  But folks, not every workstation belongs to a commercial firm!  If
+>the CERT advisory were directed solely at such organizations, I'd have no
+>beef with it.  The fact, however, is that it had a far broader audience.
+
+Yes, it is for a broad audience.
+
+Earlier I said that property rights are not an issue wrt the CERT
+advisory, and that it was not related to companies.  This was based on
+my mistaken reading of the advisory - as it was based on the U.S. Dept
+of justice advice (order?) to all federal agencies, I though that the
+"all systems" on the advisory referred to "all federal systems".
+However, it appears I was mistaken - when I asked CERT about this the
+answer was that CERT expanded the scope of the advisory and thus it
+seems that CERT really means _all_ systems, no matter whether private,
+public, government-owned, etc.
+
+A part of my argumentation was based on this misunderstanding of the
+advisory (for example the claim where I said that property rights are
+not involved).  I apologize for the resulting failure of
+communication.  However, my argumentation still applies for systems of
+federal agencies and many education sites.
+
+For privately owned commercial and hobby sites property rights do
+apply, and whether the property rights override privacy rights depends
+is mostly a matter of opinion.  Where I live, I have the impression
+that privacy right overrides property rights at least in the case of
+the company monitoring private phone calls from company to elsewhere
+even if the company pays the bill.  It is a bit unclear whether it is
+legal for the company to get the ID information, ie. what number was
+called, how long was spoken and when etc. but in practice I think
+companies do get such information and the courts probably wouldn't
+judge against this.  Also, as a personal opinion I tend to think
+that's not a big privacy problem, as long as the workers know what the
+situation is and the last few numbers are blanked out as the habit
+apparently is - but that it is an unreasonable invasion of privacy to
+monitor the contents of the calls.  For work-related calls I think
+it's negotiatable, also at certain environments monitoring all calls
+might be defensible (places with highly confidential information).
+
+I hope this clears some of the issues wrt property rights.  I sure
+don't think there's any _absolute_ right to privacy on company
+equipment, and dependig on the situation there may be nothing wrong
+with even a policy of "all users are watched all the time" especially
+if policy also "company business only" as long as it is negotiated
+with and accepted by the workers.  But what CERT is doing is
+recommending unilateral announcement of "all users may be monitored
+all the time", with no negotation and no negotiated policy of
+watching/monitring only on "probable cause".
+
+Thus, I think the CERT advisory is thus even more offensive and
+disrespectful of privacy than I originally thought, since they
+recommend the taking away of a reasonable expectation of privacy and
+thus all means to fight intrusions of privacy from users on _all_
+systems, not just those in U.S. federal agenices.
+
+I have communicated about this with CERT, and they don't seem to think
+my interpretation of the advisory is incorrect.  Thus it seems that
+CERT really supports measures like this, and I repeat and clarify my
+proposal that if it continues to do so, people who value privacy
+rights should not cooperate with CERT and we as net.citizens should
+see if something can be done to get some of the CERT's functions
+implemented in a way that respects freedom and people's rights, and
+also see if a message can be posted to comp.security.announce
+announcing the recommendation not to cooperate with CERT, the reason
+for it, and possible alternatives what to do instead of communicating
+with CERT wrt security holes, vulnerabilities etc.
+
+I don't know who does CERT's policy decisions and how one might
+influence them via other means (possibly organizations like the EFF
+and CPSR could work on this) but I do think the most simple thing to
+do about an organization doing something you seriously disapprove of
+is to stop all support and cooperation with it and suggest others do
+the same.
+
+//Jyrki
+
+PS. I think someone said on a newsgroup that CERT has distributed a
+hacked telnetd which is equipped for monitoring incoming telnet
+sessions, which I understood to mean logging the contents of the
+session.  I happened to mention this to CERT, and according to the
+answer CERT does not distribute such a program.
+
+
+------------------------------
+
+From caf-talk Caf Dec 11 01:01:07 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: pschleck@cwis.unomaha.edu (Paul W Schleck KD3FU)
+Subject: Article 8--Joke "Chain-Letter" Distributed at UN-Omaha
+Message-ID: <pschleck.724051408@cwis>
+Date: Fri, 11 Dec 1992 05:23:28 GMT
+
+WARNING!
+
+The following is a joke "chain-letter" that was received by several
+individuals at the University of Nebraska at Omaha.  It is posted here
+for informational purposes in the context of reasoned debate on
+Computers and Academic Freedom resulting from UNO's resulting general
+ban on the originating or relaying of "chain-letters."
+
+You will either find it extremely offensive or extremely funny.
+
+This is your last chance to hit "N" to skip the rest.
+
+Well, maybe second-to-last...
+
+
+WITH SEX ALL THINGS ARE POSSIBLE
+ 
+This paper has been sent to you for good luck.  The original has been
+worn out from having passed through the hands of so many people.  It
+had travelled around the world 69 times [Dear Reader: please help
+keep this count current.  If this letter falls into your hands after just
+completing one more circuit of the world, please add one to the
+count.]
+
+The luck has now been sent to you.  You will experience great sex
+within four days of receiving this letter, provided you send it on!
+Since the copy must tour the world, you must make twenty copies and
+send them to others.  This is no joke.  Send no money.  Send copies
+to people who need to get laid within 96 hours.
+
+After he passed this letter on, a Montana Spinach Control Officer got
+his penis stuck in a cow-milking machine and had the longest series
+of ograsms of his life.  John Elliot tried to pick up a prositute,
+but, because he broke the chain, was picked up by the police instead.
+When they searched his home, they found magazines of little boys which
+they showed to his neighbours.  In a suburb of Paris, Don Loray's
+trousers were ripped by an unsatisfied erection, 51 days after
+failing to circulate the letter.  However, before this happened, a condom
+machine gave him three condoms for the price of one.  (was this the
+consolation prize?)
+
+Do note the following:  Hebert Pudstrom received the chain in 1953.
+He asked his secretary to make twenty copies and send them out.  A
+few days later he encountered her in a red-light district making
+more than he had every paid her at work.  General George Patton,
+who sent the letter on, saw what he thought was a quarter in the
+street.  When he bent down to pick it up, a beautiful woman in a
+miniskirt walked by, and he got a great view.  His aide, Colonel
+Roger Bumswiver, who did not pass on the letter, tried to pick up
+a similar object but was fucked up the ass by a desperate gay when
+he bent over.  Heywood Daddit, an unemployed chicken choker, received
+the letter and forgot that it had to leave his hands within 96 hours.
+His wife then went bowling with his best friend and never returned.
+Later, after finding the letter again, he mailed twenty copies.  A
+few days later he got a wife and discovered that his old wife, who
+he thought was wonderful, had made love to him like a dead salmon
+for all these years!  Alan Fairchild received the letter and, not
+believing, threw the letter away.  Nine days later he spilled hot
+coffee in his crotch.
+
+In 1987 the letter received by a young woman in Texas was faded and
+barely readable, so she did not realize that this paragraph applied
+to her.  She promised herself she would retype the letter and send
+it on, but she put it aside to do later.  She was plagued with
+problems including herpes and other venereal diseases she contracted
+in her futile attempts to find Mr. Right in a singles bar.  The letter
+did not leave her hands in 96 hours.  She finally typed the letter
+and found a man with a 10-inch penis.
+
+You must distribute at least twenty copies within 96 hours of
+receiving this letter.  Those who do will find their love lives more
+fulfilling.  Those who do not will be doomed to one-night stands with
+mechanical devices.
+Enjoy...
+
+
+-- 
+
+   
+
+	who knows???
+
+
+
+
+
+
+------------------------------
+
+From caf-talk Caf Dec 11 18:02:04 1992
+Newsgroups: uno.cwis,alt.comp.acad-freedom.talk
+From: cwis@cwis.unomaha.edu (Campus Wide Information Service)
+Subject: Article 9--Re: Chain letters?
+Message-ID: <cwis.724110716@cwis>
+Date: Fri, 11 Dec 1992 21:51:56 GMT
+
+kadie@eff.org (Carl M. Kadie) writes:
+>I read the joke chain letter. I don't think it is a chain letter (any
+>more than a toy car is car). Thus, I don't think the new prohibition
+>even covers the specific material they want to ban.
+
+	Hi.  Please allow me to introduce myself:  I'm the bad guy in this
+scenario (i.e. the system administrator).  I believe strongly in rights to
+academic freedom; to that end, I've put considerable time and effort into
+making the resources of the Internet available to as many people here as
+possible.  That belief is one of the reasons we maintain a full news feed
+under pressure to limit what we carry (the type of pressure to which
+Universities in our system have caved in).
+	In light of those beliefs, believe me when I say it's not clear to me
+how this situation fits into a violation of those rights.
+
+
+>[...] Here is what I think they should have done:
+>
+> 1) Announced that this joke letter is going around
+> 2) Ask people to be considerate about what they email to others
+> 2) Remind people of the University's rules about harassment
+
+	I don't even think it's necessary to go into much detail; the bottom
+line is that the purpose of the letter is to enjoy as large a distribution
+as possible.  Mailing it to recipients one or twenty at a time is far less
+efficient than posting it to a newsgroup and effecting site-wide (or possibly
+world-wide) distribution.  That is, after all, the purpose of news:  to annoy
+as many people as possible at once with one's opinions.
+
+	Content aside, since the distribution mechanism specifically chosen
+was far from the optimum available, we are now looking at a resource abuse
+issue.  The policy on our campus (to which users here are required to agree
+before obtaining an account) specifically prohibits resource abuse.  Further,
+the same policy prohibits non-academic use of the system.  We have been very
+generous to date with our interpretation of what constitutes academic use;
+if you can explain to me the academic purpose of that letter, I would be very
+interested in hearing about it.
+
+
+	All that aside, I'm not sure I see any difference between the method
+you suggested and the one we used.
+
+	Mike
+---
+Michael S. McMahon, System Manager             Computing & Data Communications
+cwis@unomaha.edu                               University of Nebraska at Omaha
+
+
+------------------------------
+
+From caf-talk Caf Dec 17 21:20:38 1992
+From: nagle@netcom.com (John Nagle)
+Subject: Article 10--Appeals court declares child pornography law unconstitutional
+Message-ID: <1992Dec17.232618.19727@netcom.com>
+Date: Thu, 17 Dec 1992 23:26:18 GMT
+
+     The Ninth U.S. Circuit Court of Appeals ruled, in US vs X-Citement
+Video Inc., (CA No. 89-50556), that the sections of the Protection of
+Children Against Sexual Exploitation Act of 1977 that deal with 
+distribution, transportation, and receipt of sexually explicit 
+materials are invalid on First Amendment grounds.  The court let stand the 
+prohibition on the production of child pornography.
+
+     This ruling needs to be looked at more closely, but it may help to
+remove sysop worries about someone posting such material on their system
+without their knowledge, or about network nodes being liable for 
+material passing through them.  This is a step forward, because it was
+one of the very few real legal risks a US sysop had to face, and now
+it appears to be dead. Do the lawyers out there agree with this analysis?
+
+     Producing child pornography remains illegal, which is reasonable.
+
+					John Nagle
+
+
+Source: Wall Street Journal, 17DEC92, p. B10 (Western edition)
+
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec 17 23:10:02 1992
+Newsgroups: alt.censorship,news.admin.policy,comp.org.eff.talk
+From: mcb@presto.ig.com (Michael C. Berch)
+Subject: Article 11--Re: Appeals court declares child pornography law unconstitutional
+Message-ID: <921217.37008063@robbe-grillet.postmodern.com>
+Date: 18 Dec 92 02:23:13 GMT
+
+In the referenced article, nagle@netcom.com (John Nagle) writes:
+>      The Ninth U.S. Circuit Court of Appeals ruled, in US vs X-Citement
+> Video Inc., (CA No. 89-50556), that the sections of the Protection of
+> Children Against Sexual Exploitation Act of 1977 that deal with 
+> distribution, transportation, and receipt of sexually explicit 
+> materials are invalid on First Amendment grounds.  The court let stand the 
+> prohibition on the production of child pornography.
+> 
+>      This ruling needs to be looked at more closely, but it may help to
+> remove sysop worries about someone posting such material on their system
+> without their knowledge, or about network nodes being liable for 
+> material passing through them.  This is a step forward, because it was
+> one of the very few real legal risks a US sysop had to face, and now
+> it appears to be dead. Do the lawyers out there agree with this analysis?
+> 
+>      Producing child pornography remains illegal, which is reasonable.
+
+I have not read the opinion, but I am very gratified by the decision.
+I am proceeding on the basis of radio news reports (until I can get to
+my New York Times) and understand that the key issue was that the
+defendants (video store operators?) could not be deemed to have actual
+knowledge of the underage status of the performer.  (This was the Traci
+Lords case, by the way.)   Presumably the actual producers of such
+material could be deemed to have actual knowledge since they could
+easily require acceptable proof of age directly from the performers.
+(In the case of Traci Lords, though, what should the outcome be when
+the performer actively misleads the producer by furnishing false proof
+of age?  An acquittal, in my opinion.)
+
+This is likely to be good news for sysops and site admins, since (as
+with video distribution or rental/sales) there is no reason to charge
+site admins with actual knowledge of the contents of any given article
+that passes through (or is stored on) a site.  This even to some degree
+reflects the fact pattern of the X-Citement Video case, since these
+defendants were manifestly *not* involved in an actual child
+pornography "ring" but were simply distributing mainstream sexually
+explicit material in which a particular performer, much later, was
+learned to have been underage by a couple of years.  Similarly, for
+BBS and Usenet sites that simply carry a large number of newsgroups,
+including the erotica images groups, there is no implication that the
+site is engaged in active distribution of child pornography if a small
+number of articles are later learned to contain material unlawful
+under the Act.   If upheld, this would seem to indicate that there is
+no overall duty to inquire and that knowledge of the status of the
+performers/models will not be construed merely from possession of the
+material.  
+
+My understanding is that the Dept of Justice plans to appeal to the
+U.S. Supreme Court, and it would be a fair bet that they will take the
+case since it involves a declaration of unconstitutionality of a very
+visible Federal statute.  If another Court of Appeals now comes to a
+different point of view it's pretty much a given that the Supremes
+would take the case for a full decision and opinion.
+
+--
+Michael C. Berch
+Member of the California Bar
+mcb@presto.ig.com / mcb@net.bio.net
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Dec 21 20:35:53 1992
+From: Joe.Abernathy@HOUSTON.CHRON.COM(Joe Abernathy)
+Subject: Article 12--File 2--Secret Service Raids Dorm
+Message-Id: <fwd.BzMzto.HC5@cs.uiuc.edu>
+
+Federal Agents Raid Dorm, Seize Computer Equipment
+By JOE ABERNATHY Copyright 1992, Houston Chronicle
+
+The Secret Service has raided a dorm room at Texas Tech University,
+seizing the computers of two Houston-area students who allegedly used
+an international computer network to steal computer software.
+
+Agents refused to release the names of the two area men and a third
+from Austin, who were not arrested in the late-morning raid Monday at
+the university in Lubbock. Their cases will be presented to a grand
+jury in January.
+
+They are expected to be charged with computer crime, interstate
+transport of stolen property and copyright infringement.
+
+"The university detected it," said Resident Agent R. David Freriks of
+the Secret Service office in Dallas, which handled the case. He said
+that Texas Tech computer system operators contacted the Secret Service
+when personal credit information was found mixed with the software
+mysteriously filling up their fixed-disk data storage devices.
+
+The raid is the first to fall under a much broader felony definition
+of computer software piracy that could affect many Americans. This
+October revision to the copyright law was hotly debated by computer
+experts, who contended that it sets the felony threshold far too low.
+
+Agents allege that the three used a chat system hosted on the Internet
+computer network, which connects up to 15 million people in more than
+40 nations, to make contacts with whom they could trade pirated
+software. The software was transferred over the network, into Texas
+Tech's computers, and eventually into their personal computers. The
+Secret Service seized those three personal computers and associated
+peripherals which an agent valued at roughly $5,000.
+
+The software Publishers Association, a software industry group
+chartered to fight piracy, contends that the industry lost $1.2
+billion in sales in 1991 to pirates.
+
+Although these figures are widely questioned for their accuracy,
+piracy is widespread among Houston's 450-plus computer bulletin
+boards, and even more so on the global Internet.
+
+"There are a lot of underground sites on the Internet run by
+university system administrators, and they have tons of pirated
+software available to download -- gigabytes of software," said Scott
+Chasin, a former computer hacker who is now a computer security
+consultant. "There's no way that one agency or authority can go
+through and try to sweep all the bad software off the Internet,
+because the Internet's too big."
+
+The mission of the Secret Service does not normally include the
+pursuit of software piracy, but rather the use of "electronic access
+devices" such as passwords in the commission of a crime. This gives
+the service purview over many computer and telecommunications crimes,
+which often go hand-in-hand, with occasional bleedover into other
+areas.
+
+Freriks said that the investigation falls under a revision of the
+copyright laws that allows felony charges to be brought against anyone
+who trades more than 10 pieces of copyrighted software -- a threshold
+that would cover many millions of Americans who may trade copies of
+computer programs with their friends.
+
+"The ink is barely dry on the amendment, and you've already got law
+enforcement in there, guns blazing, because somebody's got a dozen
+copies of stolen software," said Marc Rotenberg, director of Computer
+Professionals for Social Responsibility, in Washington, D.C. "That was
+a bad provision when it was passed, and was considered bad for
+precisely this reason, giving a justification for over-reaching by law
+enforcement."
+
+Freriks noted that the raid also involved one of the first uses of an
+expanded right to use forfeiture against computer crime, although he
+was unable to state from where this authority evolved after a civil
+rights lawyer questioned his assertion that it was contained in the
+copyright law revision.
+
+"One of our complaints has always been that you catch 'em, slap 'em on
+the wrist, and then hand back the smoking gun," he said. "Now all that
+equipment belongs to the government."
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

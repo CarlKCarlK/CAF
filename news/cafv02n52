@@ -1,0 +1,1301 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.52 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 52
+
+
+----------------------------------------------------------------------
+
+From: fnixon@sol.utc.edu (John F. Nixon)
+Subject: Article 0 -- Abstract of CAF-News 02.52
+
+Topics:
+
+   1-10   about the screening of GIF files by system administrators, and the
+               proper response to complaints concerning images displayed by
+               others in public
+   11     about the posting of political information in a mass mailing
+   12     discusses making sysadmins the first contact for harassment
+               complaints
+
+
+Abstract:
+
+[Week ending October 25, 1992
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, or QUOTES from them, NOT AN OBJECTIVE SUMMARY and
+not necessarily my opinion.
+===============================================================
+
+
+Notes 1-10 are about the screening of GIF files by system administrators,
+and the proper response to complaints concerning images displayed by others
+in public.
+
+1. A discussion of the appropriateness of screening GIF files is
+continued from earlier postings. "... it's certainly not as binary as
+'good' vs.  'bad'..." There are issues of copyright, creativity,
+originality.  "... there's no original creativity here, it's just
+someone's facility with a sampler/scanner."
+    <antjcb.719474222@gsusgi1.gsu.edu>
+
+2. "... in a working shop our [system administrator's] job is to
+facilitate use of our systems." Some sysadmins have policy
+responsibility, some do not, but all sysadmins shoulder some social
+responsibility. "... I would not want to be a system user or citizen
+of a world in which EVERY small decision was engraved in stone in an
+official policy."
+    <BETSYS.92Oct19102229@ra.cs.umb.edu>
+
+3. One occasionally has policies against viewing certain material on
+University equipment, and the University subscribes to all available
+newsgroups. Sometimes the best way to deal with this is "not dealing
+at all". "The question is not of suppressing it, but of making users
+(by non-suppressive means!) to abandon... misuse by themselves."
+    <1992Oct19.102507.15648@rz.uni-karlsruhe.de>
+
+4. "Why do [users] want *.pictures? ... It is *getting them for free* or at
+least the feeling of that. ... Cost of transmission and storage *is* an
+issue. And users... should become aware of it."
+    <1992Oct19.113827.17687@rz.uni-karlsruhe.de>
+
+5. A sysadmins job is to do what management wants. "Management should
+be making the policy decisions, not the [system] administrators
+[regarding rules for viewing images on company equipment]."
+    <70@ocdis01.UUCP>
+
+6. "The line between prohibited sexual harassment and protected
+expression is very, very fine. ... No one should try to enforce the
+rules unless they are authorized by the procedures." An excerpt from
+the UIUC Code on Campus Affairs is provided as an example of who might
+be authorized to take action.
+    <1992Oct19.175336.24090@eff.org>
+
+7. Complaints should be resolved in an informal way if possible. However,
+"In many cases a sysadmin has supervisory responsibility over people who are
+not technically under his or her control. ... At the least, they should be
+able to direct users to a more appropriate means of complaint."
+    <1992Oct20.150640.1599@news.columbia.edu>
+
+8. Excerpts from a brochure issued by the President's Office at UK are
+listed in which sexual harassment is defined to be conduct which
+interfers with an individual's work, or creates an offensive working
+or academic environment.  The display of sexually explicit material
+must be justified by a compelling educational purpose to be
+permissable in the public University environment.  "It is the
+responsibility of each of us to prevent sexual harassment and to
+respond appropriately to such illegal behavior when it occurs." How
+should a sysadmin act in the face of such direction?
+    <1992Oct20.131432.2258@ms.uky.edu>
+
+9. The definition of sexual harassment at UK in unconstitutional in the US.
+What is an appropriate response? Not illegal prior review. References are
+provided to relevant material.
+    <1992Oct20.192932.21030@m.cs.uiuc.edu>
+
+10. Regarding the actions to be taken by sysadmins over complaints "What about
+informally saying `I've received some complaints about this; could we find
+some way for you to do it without bothering others?'" Informal attempts to
+resolve problems should preceed the application of bureaucracy.
+    <1992Oct21.83754.29551@ms.uky.edu>
+
+Note 11 is about the posting of political information in a mass mailing.
+
+11. Two issues: is the user being punished for promoting a viewpoint and is the
+user receiving due process. If the mailer is a student, is the action against
+the student kept confidential in compliance with FERPA. References provided
+for these points.
+    <1992Oct23.050254.20807@m.cs.uiuc.edu>
+
+Note 12 discusses making sysadmins the first contact for harassment complaints.
+
+12. "If the person you go to with a complaint does not understand the situation
+surrounding the complaint, they will not be in a ... position to offer
+reasonalble advi[c]e or take reasonable action." There are dangers in
+ignoring the problem as trivial, or in responding in a draconian manner, if
+a fist contact isn't aware of the complexities of the issues.
+    <1992Oct23.193222.2611@news.columbia.edu>
+
+- John F. Nixon]
+
+
+Contents:
+
+J.C.Burns        40  >Facist Systems
+E Schwartz       47  >
+Olaf Titz        58  >
+Olaf Titz        90  >
+Bob Johnson      33  >
+Carl M. Kadie    55  >
+Daniel Zabetakis 54  >
+Wes Morgan      146  Problems with Images, (was Re: Facist Systems)
+Carl M. Kadie   200  >
+Wes Morgan       35  >
+Carl M. Kadie   209  >UNIX users' rights? What are they?
+Daniel Zabetakis 44  harrasment/acad-freedom and the sysadmin, again.
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: John F. Nixon (fnixon@sol.utc.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Oct 19 02:41:20 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: antjcb@gsusgi2.gsu.edu (J.C.Burns)
+Subject: Article 1--Re: Facist Systems
+Message-ID: <antjcb.719474222@gsusgi1.gsu.edu>
+Date: Mon, 19 Oct 1992 05:57:02 GMT
+
+
+Carl M. Kadie responds to my critique of taking up space with GIFs of any
+kind...
+ 
+>So you are trying to preseve the medium for what you see as "good"
+>material by suppressing what you see as "bad" material. I believe this
+>to be a very counterproductive strategy.
+ 
+I'm not sure I'm even talking 'material' here--and it's certainly not as
+binary as 'good' vs. 'bad'--I'm just talking about a waste of space, a waste
+of a person's time, and a content-free exchange of information over a public
+system that taxpayers fund and universities and others have struggled to
+establish.
+ 
+>If you really believed it was content and idea free, then why would
+>bother to suppress it? Because of the copyright or disk use? Do you
+>apply the same standards to Snoopy picture?
+ 
+Yes, I guess I would apply the same standards to a scanned-in, copyrighted
+Snoopy picture. Even setting aside the concerns about reproducing
+copyrighted material illegally (CNN got in trouble with this a few years
+back whenthey used a shot from Time magazine in one of their on-air news
+graphics), there is a question of worth and originality. This is about as
+bad as the current unsavory trend of digital sampling in music--there's no
+original creativity here, it's just someone's facility with a
+scanner/sampler. As muchg of a Star Trek fan as I am, I think a bunch of
+GIFs from the show are your basic big waste of time. Again, you'd get a
+better copy of them if you just bought a Star Trek book (there are
+gazillions) or taped one of the shows (for home use, not for distribution.)
+I guess it bothers me in a greater way as a waste of bandwidth. pictures,
+even with a lot of compression, eat up a lot of bandwidth. Shouldn't they be
+worth the trouble?
+ 
+--jcburns
+---------
+The pictures, accounts, and descriptions in this message are not
+the property of Major League Baseball.
+
+
+------------------------------
+
+From caf-talk Caf Oct 19 11:17:05 1992
+From: betsys@cs.umb.edu (Elizabeth Schwartz)
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+Subject: Article 2--Re: Facist Systems
+Message-ID: <BETSYS.92Oct19102229@ra.cs.umb.edu>
+Date: 19 Oct 92 15:22:29 GMT
+
+In article <1992Oct18.224407.220@m.cs.uiuc.edu> kadie@herodotus.cs.uiuc.edu (Carl M. Kadie) writes:
+
+C>>Under the U. of Illinois policy, which I think is typical, you do not
+C>>have the responsibility or authority to seek an informal solution.
+C>>This responsibility and authority belongs to secretary's supervisor
+
+D>>   Fine. Except that computers are often in a grey area of responsability.
+D>>The secretaries may work for another person, but use machines that I am
+D>>responsable for. So to some degree, I am thier supervisor.
+
+D>>Realistically, if a user comes to you with a complaint, and you do
+D>>nothing (even to redirect them) then you aren't doing your job
+D>>regardless of what it is.
+
+C>Realistically, if you act outside your authority, you aren't doing
+C>your job regardless of what it is.
+
+Realistically, in a working shop our job is to facilitate use of our
+systems. Some sysadmins, such as myself, DO have responsibility for
+making policy. Others may not have that responsibility, but ARE
+responsible for facilitating use of the system. As professionals, we
+are usually the ones with experience dealing with the social issues
+around the computer as well, and it is not at all out of place for us
+to suggest to a user, even one who is high above us in rank, what a
+fair or effective solution might be to a computer use problem. 
+  A lot of this depends on the "corporate culture" of your workplace.
+However, all real jobs require informal problem solving. It helps to
+have a back-up of written policies to cover the BIG stuff, but
+real-world problems arise faster than you can codify the solutions,
+and real-world solutions involve talking to each other and making
+informal decisions.
+   I admire Carl's dedication, but I would not want to be a system
+user or a citizen of a world in which EVERY small decision was
+engraved in stone in an official policy. Freedom, to me, involves
+keeping rules and regulations in check. Not eliminating them, but
+keeping them small and simple and clear. In my ideal world, you
+resolve the disputes by talking to people, not by going down a
+checklist.  
+  Probably why I am a sysadm and not a lawyer.
+--
+System Administrator                  Internet: betsys@cs.umb.edu
+MACS Dept, UMass/Boston               BITNET:ESCHWARTZ%UMBSKY.DNET@NS.UMB.EDU
+100 Morrissy Blvd                     Staccato signals
+Boston, MA 02125-3393                      of constant information....
+
+
+------------------------------
+
+From caf-talk Caf Oct 19 11:28:14 1992
+From: S_TITZ@iravcl.ira.uka.de (Olaf Titz)
+Subject: Article 3--Re: Facist Systems
+Message-ID: <1992Oct19.102507.15648@rz.uni-karlsruhe.de>
+Date: Mon, 19 Oct 1992 10:25:07 GMT
+
+In <1992Oct18.214535.3839@m.cs.uiuc.edu> kadie@herodotus.cs.uiuc.edu writes:
+
+>  antjcb@gsusgi2.gsu.edu (J.C.Burns) writes:
+>  
+>  [...]
+>  >the more we preserve the network and University systems as
+>  >facilitators for thinking and creating, the better off we are.
+>  
+>  So you are trying to preseve the medium for what you see as "good"
+>  material by suppressing what you see as "bad" material. I believe this
+>  to be a very counterproductive strategy.
+
+I believe it is a counterproductive strategy to view all things in
+black and white. J.C. did not talk of suppressing those things but
+merely questioned their use WRT an academic environment. And such
+questioning is indeed an integral part of academic freedom, IMHO.
+
+My experience with that whole issue is the more you take it as a
+matter of legal battles and 'religious' crusades, the more you get in
+trouble with it. Here we have a) a policy that explicitly forbids
+viewing Playboy-type material on University screens and b) we run all
+available newsgroups. Nobody cares much, and most are thinking this is
+the best way to deal with it: not dealing at all. (If someone now
+asks, 'how fit a) and b) together?', he probably has not understood
+me.)
+
+>  >I too, am a strong free speech advocate and would oppose CENSORSHIP
+>  >of ideas expressed on the network with my dying breath--but this
+>  >isn't ideas here, it's scanned-in crap from magazines which are sans
+>  >content to begin with.
+>  
+>  If you really believed it was content and idea free, then why would
+>  bother to suppress it? Because of the copyright or disk use? Do you
+>  apply the same standards to Snoopy picture?
+
+The question is not of suppressing it, but of making users (by
+non-suppressive means!) to abandon overuse and misuse by themselves. I
+think the pure technical possibility of distributing gigabytes of
+digitized Playmates by USENET does not constitute any *need* to do so.
+I strongly oppose censorship in any form, and I think if users think
+of it as necessary to have those pictures on their disks, well, may
+they, but I keep the right to ask them why. And if they answer
+'because of academic freedom', I keep the right to ask them if *that*
+is the most valuable part of academic freedom, in their view.
+
+MfG,
+        Olaf
+-- 
+    o     Olaf Titz - comp.sc.student - univ of karlsruhe - germany
+ _ /<_    s_titz@iravcl.ira.uka.de - uknf@dkauni2.bitnet - praetorius@irc
+(_)>(_)   +49-721-60439 - did i forget something?
+One frequently hears horror expressed that a 2M byte machine may have 400K
+ devoted to its operating system... - Fred Brooks (1975)
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Oct 19 11:28:17 1992
+From: S_TITZ@iravcl.ira.uka.de (Olaf Titz)
+Subject: Article 4--Re: Facist Systems
+Message-ID: <1992Oct19.113827.17687@rz.uni-karlsruhe.de>
+Date: Mon, 19 Oct 1992 11:38:27 GMT
+
+In <1992Oct18.215005.22960@news.columbia.edu> dan@cubmol.bio.columbia.edu writes:
+
+>  In article <antjcb.719440726@gsusgi1.gsu.edu> antjcb@gsusgi2.gsu.edu (J.C.Burns) writes:
+>...
+>  >to keep images of these sort off of their systems. Commercial questions
+>  >aside, the more we preserve the network and University systems as
+>  >facilitators for thinking and creating, the better off we are.
+>  > 
+>     Try translating this into a rea;l policy, and you run into trouble. Do
+>  you want to ban all image traffic? All recreational image traffic? Or just
+>  all offensive image traffic? How will your rules be constructed?
+
+Maybe it's a problem of thinking and attitudes that you are always
+crying for a everything-gets-regulated policy engraved in stone.
+Common sense, on the other hand, seems to be a thing either forgotten
+or expilcitly dismissed for the sake of writing rules :-(
+
+>     If GIF's are banned from being transmitted by NNTP, what about e-mail?
+>  How will you stop mailing lists? Will you stop people from bringing in
+>  pictures on floppies? Will you examine all files to determine if they break
+>  the rules?
+
+Right, it is not possible to stop these things.
+
+>  >I respect the sysops who admonish the folks who do this sort of thing--men,
+>  >darn near universally--to develop some maturity and some common sense about
+>  >what the network is there for.
+>  
+>     This sort of comment always makes me chuckle. What is the net here for?
+>  I mean really? In my view, the net is an experiment to see what it is here
+>  for. The hardware of the net is totally open. You can do anything with it that
+>  you want. Set up your own personal hierarchy? Sure, no problem.
+
+You *can* do so, but does this mean that this constitutes a sufficient
+justification? Part of that 'experiment' is to find *uses* for the
+net, not only technical possibilities, IMHO.
+
+>     The fact of the matter is that pornography is fantastically popular. The
+>  sex groups are always at the top of the readership list. The picture groups
+>  would be at the very top if more sites could handle the traffic. If you ask
+>  people what they want in a computer net, the answer is alt.sex and
+>  alt.sex.pictures.  This is in fact what the net is telling us. 
+
+Why do they want *.pictures?
+
+1. It is the sexiness of the *use of a computer* for any purpose,
+combined with the content of the pictures (I don't challenge their
+high popularity anyway) that makes them even more attractive. You
+mentioned that 'Wow, that high graphics resolution' argument. And do
+you think this is *nothing* of childish? I doubt so.
+
+2. It is *getting them for free* or at least the feeling of that.
+('Why spend $$$ on a Playboy when the university has the stuff on
+disks anyway?')
+
+3. They probably feel more comfort in downloading 'just bits and
+bytes' than in buying explicit material where they can be seen by
+others...
+
+>...
+>    Cost? I wonder how much it would cost for everyone who gets 10 gifs to
+>  go out and buy a magazine? I actually don't think there could be a more
+>  cost effective way of distributing pictures. Of course, there is the issue
+>  of who pays for it, but we won't talk about that now :-)
+
+But exactly *that* is the issue here. We had recently (in Germany)
+much pressure on universities to censor 'un-academic' newsgroups
+*based on the costs*. You can this express as 'Universities provide
+students with free porn from tax $$$'. Imagine that headline in your
+local newspaper and then try to protect academic freedom :-(
+
+Cost of transmission and storage *is* an issue. And users,
+*especially* if being granted net access for free, should become aware
+of it. Sooner or later they come into positions where cost has to be
+considered. 
+
+
+MfG,
+        Olaf
+-- 
+    o     Olaf Titz - comp.sc.student - univ of karlsruhe - germany
+ _ /<_    s_titz@iravcl.ira.uka.de - uknf@dkauni2.bitnet - praetorius@irc
+(_)>(_)   +49-721-60439 - did i forget something?
+One frequently hears horror expressed that a 2M byte machine may have 400K
+ devoted to its operating system... - Fred Brooks (1975)
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Oct 19 12:44:40 1992
+From: unknown@unknown (Bob Johnson)
+Newsgroups: comp.admin.policy
+Subject: Article 5--Re: Facist Systems
+Message-ID: <70@ocdis01.UUCP>
+Date: 19 Oct 92 15:10:33 GMT
+
+In article <1992Oct18.162528.16374@news.columbia.edu> dan@cubmol.bio.columbia.edu (Daniel Zabetakis) writes:
+>   Two secretaries share a PC. One has set up a screen saver that clears
+>the screen to a pornographic image after ten minutes. The other secretary
+>comes to you and tells you that they are very offended. What do you do?
+
+You tell the secretary to complain to her boss, who will either be the
+other secretary's boss or will be his/her peer.  They'll argue and hammer
+out the issues.  Then, IF you should be involved, YOUR boss will tell you
+to take some action.  Let's face the facts here, folks.  A system admin's
+job is to do whatever management tells him/her to.  Step over that line
+too many times, and they're gonna find someone who's easier to control.
+
+Management should be making the policy decisions, not the administrators.
+If management is unable or unwilling to make policy, then we should provide
+input, or push them to either make policy or delegate it to us.  But we're
+not ./God, and if the truth be known, most of us don't want the legal and
+ethical hassles that go with the territory.  It's easy to take the high
+ground when you're arguing hypothetically, but reality ain't so pretty
+most of the time.  
+
+Usually, when an administrator turns "fascist", it's simply an exercise 
+in CYA.  You know that something is going to turn into a problem sooner
+or later, so you try to put an end to it before it becomes a major issue.
+As a previous poster said, "The view's different from down here in the
+sewer works".
+
+Bob Johnson, Systems Administrator
+Tinker AFB, Oklahoma
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Oct 19 13:53:44 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 6--Re: Facist Systems
+Message-ID: <1992Oct19.175336.24090@eff.org>
+Date: Mon, 19 Oct 1992 17:53:36 GMT
+
+================================================================
+Let me try to summarize my position:
+
+The line between prohibited sexual harassment and protected expression
+is very, very fine. Because of this, universities have set up careful
+procedures for enforcement of sexual harassment rules. No one should
+try to enforce the rules unless they are authorized by the procedures.
+To consider one sceniero, if a user complains to the sys admin of
+sexual harassment via the computer, the sys admin should refer to user
+to the sexual harassment procedure rather than trying to fix the
+problem him or herself.
+================================================================
+
+Details:
+
+A supervisor, in the sense used by the U. of Illinois policy, is not
+just someone who from time-to-time tells you what you can and cannot
+do. Sometimes, in my capacity as on-line archivist for my research
+group, I tell my advisor what to do. This doesn't make me his
+supervisor (in the sense used by policy).
+
+I'm sorry if it sounded like I was saying that only a supervisor *can*
+or *should* or should give advice. I believe than anyone *can* give
+advice and, if they know what they are talking about, *should* give
+advice.
+
+A supervisor (in the sense used by the policy) is different, however.
+A supervisor *must* give advice. Here is the Illinois policy:
+
+============================================================================
+An excerpt from the University of Illinois at Urbana-Champaign Code on
+Campus Affairs and Handbook of Policies and Regulations Applying to
+All Students:
+
+"Individuals who believe they have been harassed sexually should first
+seek the advice of their academic dean, their supervisor, the dean of
+students, the assistant chancellor and director of affirmative action,
+the director of affirmative action -- academic, the directory of
+affirmative action -- staff, or the ombudsman, in order to determine
+whether there can be a satisfactory informal resolution to the matter.
+If such is not possible, individuals should utilize appropriate and
+existing grievance procedures for claims of discrimination. The person
+of initial contact (one of the campus representative mentioned above)
+will advise on steps to be taken to begin this process.  Grievants
+shall follow procedures outlined in the following documents for the
+groups indicated: [List of procedures document and where to find them
+for faculty, students, etc.]"
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Oct 20 12:03:48 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: dan@cubmol.bio.columbia.edu (Daniel Zabetakis)
+Subject: Article 7--Re: Facist Systems
+Message-ID: <1992Oct20.150640.1599@news.columbia.edu>
+Date: Tue, 20 Oct 1992 15:06:40 GMT
+
+In article <1992Oct20.010246.3406@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>dan@cubmol.bio.columbia.edu (Daniel Zabetakis) writes:
+>
+>[...]
+>>If a user puts a porno-screen saver on one of your PC's, you will
+>>tell other users to complain to thier boss, and wait for it to go
+>>around through your boss back to you before taking action? You'll get
+>>fired for incompetance.
+>[...]
+>
+>(Maybe I'm not clear on the scenario.) No student PC lab that I know
+>of wants users to leave any program running after they are done with
+>the machine. If the user has left the machine, the sys admin certainly
+>has the authorty to remove a screen saver. This doesn't require, the
+>sys admin to define "porn" or decide what is and isn't sexual
+>harassment.
+>
+   The scnenario is not the same as the first proposed. I was responding
+to a person who said that it wasn't the sysadmins responsability to take
+any action in the face of user complaints without specific direction from
+higher authority. So I gave an example that I think would be clear to most
+sysadmins. 
+  Many (most?) computer systems (loosly defined) are not as formally comtrolled
+as an undergrad serving system will need to be. In the bio department here
+at CU, we don't have much formal comtrol. If someone wants to put software
+on a public PC, noone will stop them.
+  I think our situation is at one end of the spectrum. Our official sysadmin
+(it ain't me) is "in charge" of all the PC's in the department. Each user
+can put whatever software they want on the machine, but everyone calls the
+sysadmin when there is a problem (and will expect him to get the software
+to work).
+  There are several PC's that are not clearly controlled by any person. They
+are what I mean by public. Noone other than the sysadmin has any authority
+over those machines, but anyone feels they could put software on them. If the
+harrasment complaint arose around one of these, then I think the syadmin
+would have the responsability to seek a resolution. He may remove the screen
+saver, or ask the user to remove it. If the user refuses, or reinstalls it, then
+I think there would need to be a formal complaint.
+
+  My point is this. In many cases a sysadmin has supervisory responsability
+over people who are not technically under his or her control. In dealing with
+potential harassment, sysadmin need to be flexable. At the least, they should
+be able to direct users to more appropriate means of complaint.
+
+danZ
+
+-- 
+    "I think it is a little premature to attribute the failures of American
+     foriegn policy to Carl Kadie."
+                                                     -Mike Godwin
+This article for entertainment purposes only.
+
+
+------------------------------
+
+From caf-talk Caf Oct 20 14:02:06 1992
+Newsgroups: comp.admin.policy
+Path: m.cs.uiuc.edu!ux1.cso.uiuc.edu!uwm.edu!zaphod.mps.ohio-state.edu!cs.utexas.edu!wupost!ukma!morgan
+From: morgan@engr.uky.edu (Wes Morgan)
+Subject: Article 8--Problems with Images, (was Re: Facist Systems)
+References: <1992Oct17.191914.25611@midway.uchicago.edu>
+Message-ID: <1992Oct20.131432.2258@ms.uky.edu>
+Organization: University of Kentucky Engineering Computing Center
+Sender: morgan@ms.uky.edu (Wes Morgan)
+Date: Tue, 20 Oct 1992 17:14:32 GMT
+Lines: 141
+
+alee@midway.uchicago.edu wrote:
+>I hear posts on here describing whether this should be allowed or that.
+>Look, does viewing nudes on a computer pose any security problems for the
+>system? No! It doesn't! The system admins sole purpose should be to make the
+>system more efficient for the users, and cure any security problems.
+>
+>If admins go beyond the line where they're not supposed to go, (like suggesting
+>not viewing nudes on a computer), then the system has become facist. It no
+>longer serves the people, rather only the admins.
+
+Interestingly, I just received (in today's mail) a brochure from the Presi-
+dent's Office (the University President, not the White House), entitled
+"Sexual Harassment is Prohibited and Illegal - A guide for Faculty, Staff
+and Students".  Let me share a few excerpts.....
+
+{begin quote}
+UK>Sexual harassment - a form of sexual discrimination - include unwelcome 
+UK>sexual advances, requests for sexual favors, or other verbal or physical 
+UK>actions of a sexual nature when:
+UK>
+UK>[...]
+UK>
+UK>- Such conduct substantially interferes with an individual's work or academic
+UK>  performance or creates an intimidating, hostile or offensive working or 
+UK>  academic environment.
+UK>
+UK>University of Kentucky Administrative Regulation A.R.II-1.1-9, November 1984
+{end quote}
+
+OK, so our Admin Regs specify that conduct in a "working or academic environ-
+ment" may consititute sexual harassment.
+
+Are there examples?  Yes, the very next paragraph states (in part):
+
+{begin quote}
+UK>Harassment may also arise from behavior which has the effect of creating an
+UK>intimidating, hostile or offensive educational or working environment.  In
+UK>this regard, the following types of acts are examples of impermissible sexual
+UK>harassment:
+UK>
+UK>[...]
+UK>
+UK>- display of sexually explicit materials in the work place or its use in the
+UK>  classroom without a compelling educational purpose.
+{end quote}
+
+I think we can all agree that a public computing lab is a "work place"; in
+some cases, it may also serve as a classroom (many of our professors teach
+classes in the public labs on occasion; other students are allowed to use 
+any facilities unused during the class).
+
+Note the use of the phrase "compelling educational purpose".  The use of
+the word "compelling" indicates (to me, anyway) that the educational needs
+of the student/instructor must OVERRIDE the nature of the material.  I don't
+believe a GIF-viewing user would have such a "compelling educational purpose", 
+UNLESS such viewing was required for coursework or research AND could not be
+conducted in a more private working environment.
+ 
+A recent poster asked about "a workstation in an office".  I don't consider
+office PCs/workstations as "public work places" by default.  If a professor
+(or anyone with a PC/Mac/workstation in their private office) chooses to view
+or display potentially offensive material, it's their choice; my responsibility
+does not extend to such "private" working environments.  (I might point out
+that some visitors to the office might be offended; I believe that I should
+inform my users of such things as a friend, not as an authority figure.)
+
+Finally, one more quote, from the President of the University:
+
+{begin quote}
+UK>It is the responsibility of each of us to prevent sexual harassment and to
+UK>respond appropriately to such illegal behavior when it occurs.
+{end quote}
+
+The President of the University just told me, as an employee, that I have
+the responsibility to PREVENT sexual harassment.  That would seem to indicate
+that some level of control must be established BEFORE any offense occurs.
+That's a tall order.  How should I handle it?
+
+Well, I'm responsible for a certain subset of the academic and working en-
+vironments of my users, namely the public labs and the computer systems which
+I administer.   I see several options:
+
+	1- I can just sit back and wait for a complaint.  Given the fact that
+	   many people will not, for whatever reason, lodge official complaints,
+	   this is unacceptable; the damage is done before a complaint is ever
+	   lodged.
+
+	2- I can start an "active" ban on such material; I could root through
+	   user files, searching for potentially harassing material.  This is
+	   absolutely unacceptable!
+
+	3- I can coordinate cases of "compelling educational purpose" with
+	   users BEFORE problems occur.  Most of our policies have provisions
+	   for exceptions; I see no reason for this one to be different.  If
+	   a class required the viewing of such material(s), I could set up
+	   a PC/Mac/workstation that faces the wall (to prevent incidental
+	   viewing or offense).
+ 
+	4- I can establish a simple policy that prohibits the viewing of sexu-
+	   ally explicit material in public labs without prior coordination.  
+	   Informing the users of this policy removes me from "active" enforce-
+	   ment, and violators can be handled by the established due process 
+	   system of the University.
+
+	5- I can "troll through" the labs every day, rendering judgements
+	   "on the fly" about the suitability of the displays I see.  This
+	   is unworkable (I have other responsibilities too), ineffective
+	   (some of our facilities are open 24 hours, and they are unstaffed
+	   at night), and far too dependent on my personal taste.
+
+I believe that options 3 and 4, taken together, provide the best environment
+for my users.  I should certainly make every effort to serve the educational
+needs of my users, but (as stated in our University policy) those needs must
+be COMPELLING before the general public's "freedom from harassment" may be
+overridden.
+
+Here's a final comment; the original poster said:
+
+>If admins go beyond the line where they're not supposed to go, (like suggesting
+>not viewing nudes on a computer), then the system has become facist. It no
+>longer serves the people, rather only the admins.
+
+In many cases, the admins serve as agents of the users.  When we go into 
+budget meetings, I'm certainly asking for money and facilities for my users.
+When I establish resource limits, I'm trying to distribute the resources 
+among my users.  When I implement a policy to prevent sexual harassment,
+I'm trying to maintain a better working and academic environment for my users.
+
+"Academic freedom" does not equal a "blank check"; the rights of ALL users of
+public facilities must be considered.  As the admin, that's my responsibility;
+I have to manage our facilities in a fashion that respects EVERYONE'S rights
+under the established policies/laws of the University, this State, and the 
+nation.
+
+--Wes
+
+-- 
+MORGAN@UKCC         |       Wes Morgan       |        ...!ukma!ukecc!morgan 
+morgan@ms.uky.edu   | Engineering  Computing |   morgan@wuarchive.wustl.edu
+morgan@engr.uky.edu | University of Kentucky | JWMorgan@dockmaster.ncsc.mil
+  Mailing list for AT&T StarServer S/E  - starserver-request@engr.uky.edu
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Oct 20 15:43:34 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 9--Re: Problems with Images, (was Re: Facist Systems)
+Message-ID: <1992Oct20.192932.21030@m.cs.uiuc.edu>
+Date: Tue, 20 Oct 1992 19:29:32 GMT
+
+morgan@engr.uky.edu (Wes Morgan) writes:
+
+[...]
+>Interestingly, I just received (in today's mail) a brochure from the Presi-
+>dent's Office (the University President, not the White House), entitled
+>"Sexual Harassment is Prohibited and Illegal - A guide for Faculty, Staff
+>and Students".  Let me share a few excerpts.....
+
+UK>Sexual harassment - a form of sexual discrimination - include [...]
+UK>verbal actions of a sexual nature when [... s]uch conduct [...]
+UK>creates an [...] offensive [...] academic environment.
+
+This part of the definition is unconstitutional. [References enclosed]
+
+UK>In this regard, the following types of acts are examples of
+UK>impermissible sexual harassment: [...]  - display of sexually
+UK>explicit materials in the work place or its use in the classroom
+UK>without a compelling educational purpose.
+
+What is "sexually explicit"? Bare breast? Bare other parts? We have
+several nude statues on the grounds of U. of Illinois. The grounds are
+also a work place for the grounds keepers. The statues are not there
+for any compelling educational purpose. Are they then, under the U. of
+Kentucky rule, impermissible sexual harassment?
+
+The policy also seems to apply the same standards to University
+employees as customers (i.e. students). I believe this is legally
+incorrect.
+
+UK>It is the responsibility of each of us to prevent sexual harassment and to
+UK>respond appropriately to such illegal behavior when it occurs.
+
+So a grounds keeper can, on his or her own initiative, remove any nude
+statues that he or she sees?
+
+But what is the "appropriate response"? What is the U. of Kentucky
+procedure for alledged sexual harassment? It surely doesn't include
+suppressing behavior that a staff members thinks is sexual harassment,
+but really is not.
+
+>The President of the University just told me, as an employee, that I have
+>the responsibility to PREVENT sexual harassment.  That would seem to indicate
+>that some level of control must be established BEFORE any offense occurs.
+>That's a tall order.  How should I handle it?
+
+Not by illegal prior review. Don't take the President's words to
+seriously. Most sexual harassment policies are make by trustees or
+senate, not by Presidents.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+law/cohen-v-california.1
+=================
+* Expression -- Offensive -- Cohen v. California -- 1
+
+Definition of "fighting words"; why no right not to be offended
+
+The definition of fighting words from _Chaplinsky v. New Hampshire_
+and then _Cohen v. California_. Also, says quotes the Supreme Court
+saying that there is no universal right to not hear offensive
+expression.
+
+=================
+law/cohen-v-california.2
+=================
+* Expression -- Offensive -- Cohen v. California -- 2
+
+Netnews article with reference _Cohen v. California_, "in which the
+court ruled that Cohen's jacket, which stated "Fuck the Draft" was a
+protected form of free speech, even though he wore it in a county
+courthouse."
+
+=================
+law/cohen-v-california.3
+=================
+* Expression -- Offensive -- Cohen v. California -- 3
+
+Here are excerpts from several Supreme Court decisions inclusing
+_Cohen v. Calfiornia_. They say that offensive public expression is
+protected if those offended can "effectively avoid further bombardment
+of their sensibilities simply by averting their eyes."
+
+=================
+law/doe-v-u-of-michigan
+=================
+* Expression -- Hate Speech -- Doe v. U of Michigan
+
+This is Doe v. University of Michigan. In this widely referenced
+decision, the district judge down struck the University's rules
+against discriminatory harassment because the rules were found to be too
+broad and too vague.
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+* Expression -- Hate Speech -- UWM Post v. U Of Wisconsin
+
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+=================
+law/rust-v-sullivan
+=================
+* Expression -- Gag Rule -- Rust v. Sullivan
+
+The decision and decent for the so-called abortion information gag
+rule case. The decision explicitly mentions universities as a place
+where free expression is so important that gag rules would not be
+allowed.
+
+=================
+law/young-conservatives-v-sau
+=================
+* Expression -- Offensive -- Young Conservatives v. SAU
+
+A UPI story that tells how Stephen F. Austin University originally
+banned a groups "sexist" flyers, but when challenged, the ban was
+lifted and a cash settlement was given to the students whose
+free-speech was violated by the ban.
+
+=================
+law/meritor-v-vinson
+=================
+* Expression -- Harassment -- Meritor v. Vinson
+
+This is Meritor Savings Bank FSB v. Vinson. This is the Supreme Court
+decision that recognized illegal sexual harassment in the form of a
+"hostile environment" at the work place. It is referenced in the two
+university speech code decisions.
+
+=================
+law/student-publications.misc
+=================
+* Expression -- Offensive -- Student Publications -- Misc
+
+Quotes from the book _Law of the Student Press_ by the Student Press
+Law Center (1985,1988). They say that four-letter words are protected
+speech, that public universities are not likely to be liable for
+publications that they for which they do not control the contents, and
+that prior review is generally forbidden.
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/law/cohen-v-california.1
+  pub/academic/law/cohen-v-california.2
+  pub/academic/law/cohen-v-california.3
+  pub/academic/law/doe-v-u-of-michigan
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/rust-v-sullivan
+  pub/academic/law/young-conservatives-v-sau
+  pub/academic/law/meritor-v-vinson
+  pub/academic/law/student-publications.misc
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/law cohen-v-california.1
+send acad-freedom/law cohen-v-california.2
+send acad-freedom/law cohen-v-california.3
+send acad-freedom/law doe-v-u-of-michigan
+send acad-freedom/law uwm-post-v-u-of-wisconsin
+send acad-freedom/law rust-v-sullivan
+send acad-freedom/law young-conservatives-v-sau
+send acad-freedom/law meritor-v-vinson
+send acad-freedom/law student-publications.misc
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Oct 21 08:40:44 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: morgan@engr.uky.edu (Wes Morgan)
+Subject: Article 10--Re: Problems with Images, (was Re: Facist Systems)
+Message-ID: <1992Oct21.83754.29551@ms.uky.edu>
+Date: Wed, 21 Oct 1992 12:37:54 GMT
+
+kadie@herodotus.cs.uiuc.edu (Carl M. Kadie) wrote:
+>As far as what you should do, I suggest
+>    Post the sexual harassment policy.
+>    Post examples of likely violations (and identify the authority
+>       who says that the example is a likely violation).
+>    Be ready to refer anyone who complains to the appropriate authority.
+>    
+>The things I don't think ordinary university staff should do are
+>    Compel or intimidate someone to cease an activity because you
+>       think that activity might (or is) sexual harassment.
+
+What about informally saying "I've received some complaints about this;
+could we find some way for you to do it without bothering others?"  I'd
+also mention (informally) that the offended parties have the right to file
+a formal complaint, but that I would have no part in any such complaint.
+
+I think that I and any given user, as adults, should be able to at least
+attempt an informal solution before getting involved in the bureaucracy.
+
+>    Punish someone for what you think might (or is) sexual harassment.
+
+I would NEVER punish a user for sexual harassment without direction from
+the appropriate University authority; as I said in an earlier posting, I
+can't claim to hold the definitive outline of "sexual harassment".
+
+--Wes
+
+-- 
+MORGAN@UKCC         |       Wes Morgan       |        ...!ukma!ukecc!morgan 
+morgan@ms.uky.edu   | Engineering  Computing |   morgan@wuarchive.wustl.edu
+morgan@engr.uky.edu | University of Kentucky | JWMorgan@dockmaster.ncsc.mil
+  Mailing list for AT&T StarServer S/E  - starserver-request@engr.uky.edu
+
+
+------------------------------
+
+From caf-talk Caf Oct 23 01:21:07 1992
+Newsgroups: comp.unix.admin,alt.comp.acad-freedom.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 11--Re: UNIX users' rights? What are they?
+Message-ID: <1992Oct23.050254.20807@m.cs.uiuc.edu>
+Date: Fri, 23 Oct 1992 05:02:54 GMT
+
+[Disclaimer: I'm not a lawyer. This is just a layman's opinion.]
+
+(In the context of a state university:)
+
+There are two issues:
+
+1)
+  Is the user being punished for his or her viewpoint,
+          (such punishment would be illegal)
+   or for being disruptive, (punishment would be OK)
+   or for using a forum is a way that is in practice not allowed?
+                           (punishment would be OK)
+
+ [If pro-Clinton mass mailings have been allowed in the past,
+   you're home free.
+  If mass mailings are allowed, but have never been "controversial"
+   before, you've got a good case.
+  If all mass mailings in the past have been subject to warnings
+    or discipline, you better start apologizing.]
+
+2) Is the user receiving due process?
+
+  [If the user didn't get chance for a hearing
+    or won't have a chance for appeal, then he or she probably is not
+    getting due process. (The user may not want a formal
+    hearing, if he or she can get an informal warning instead.)]
+
+[3). If all else, fails is the action against the student
+  being kept confidential. If not, the department is likely
+  in violation of the FERPA.]
+
+I'm enclosing a lot of references on these two(three) points.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+law/constraints.constitutional
+=================
+* Constitution -- Public University -- Constraints
+
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_ by Partrica A. Hollander, D. Parker Young, and Donald D.
+Gehring.  (College Administration Publication, 1985).  Discusses the
+constitutional constraints on public universities including the
+requires for freedom of expression, freedom against unreasonable
+searches and seizures, due process, specific rules.
+
+=================
+law/doe-v-u-of-michigan
+=================
+* Expression -- Hate Speech -- Doe v. U of Michigan
+
+This is Doe v. University of Michigan. In this widely referenced
+decision, the district judge down struck the University's rules
+against discriminatory harassment because the rules were found to be too
+broad and too vague.
+
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+* Expression -- Hate Speech -- UWM Post v. U Of Wisconsin
+
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+
+=================
+law/student-publications.misc
+=================
+* Expression -- Offensive -- Student Publications -- Misc
+
+Quotes from the book _Law of the Student Press_ by the Student Press
+Law Center (1985,1988). They say that four-letter words are protected
+speech, that public universities are not likely to be liable for
+publications that they for which they do not control the contents, and
+that the _Hazelwood_ decision does not apply to universities.
+
+=================
+law/clergy-v-chicago-board-of-ed
+=================
+* Expression -- On Campus -- Clergy v. Chicago Board of Ed
+
+Excerpt from the ACLU Handbook _The Rights of Students_ 3rd Edition,
+1988 about access to school facilities by students and outsiders. It
+says if use by students is not disruptive, use should be allowed.
+Also, "if any facility is made available to one group, the school may
+not then deny other groups the opportunity to use that facility."
+
+=================
+law/tinker_v_des_moines
+=================
+* Expression -- On Campus -- Tinker v. Des Moines
+
+Excerpt from the ACLU Handbook _The Rights of Students_ (3rd edition)
+by Janet R. Price, Alan H. Levine, and Eve Cary. It says that school
+cannot prohibit students from handing literature such as underground
+newspapers on school property.
+
+=================
+law/tinker_v_des_moines.2
+=================
+* Expression -- On Campus -- Tinker v. Des Moines -- 2
+
+A few excerpts from the majority decision in _Tinker v. Des Moines
+Independent Community School District_ (1969). It concerned
+non-disruptive political expression in schools. The Supreme Court held
+that two students had the right to wear black armbands to school as a
+protest against the Vietnam War.
+
+=================
+law/san-diego-committee-v-gov-bd
+=================
+* Expression -- Public Forum -- Overview -- San Diego Committee v. Gov Bd
+
+Excerpts from San Diego Committee v.  Governing Bd., 790 F.2d 1471.  A
+decision by an appellate court that applied the Supreme Court's Public
+Forum Doctrine (to a school newspaper).
+
+=================
+law/goss-v-lopez.fischer
+=================
+* Due Process -- When Required -- Goss v. Lopez -- Fischer
+
+Comments from _Teacher's and the Law_, 3rd edition, by Louis Fischer,
+et al. Published in 1991 by Longman. It reports that the Supreme Court
+says that some modicum of due process is necessary unless the matter
+is trivial or there is an emergency.
+
+=================
+law/goss-v-lopez.mnookin
+=================
+* Due Process -- When Required -- Goss v. Lopez -- Mnookin
+
+Comments from _In the Interest of Children_, R. Mnookin (Ed.),
+Franklin E.  Zimring and Rayman L.  Solomon (Contrib. Authors). It
+reports that the Supreme Court says that some modicum of due process
+is necessary unless the matter is trivial or there is an emergency.
+
+=================
+law/ferpa
+=================
+* Privacy -- School Records -- FERPA -- Excerpts
+
+Excerpts from _College and University Student Records: A Legal
+Compendium_, Edited by Joan E. Van Tol, 1989. Details the Family
+Education Rights and Privacy Act's (Buckley Amendment's) provisions on
+directory information.
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/law/constraints.constitutional
+  pub/academic/law/doe-v-u-of-michigan
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/student-publications.misc
+  pub/academic/law/clergy-v-chicago-board-of-ed
+  pub/academic/law/tinker_v_des_moines
+  pub/academic/law/tinker_v_des_moines.2
+  pub/academic/law/san-diego-committee-v-gov-bd
+  pub/academic/law/goss-v-lopez.fischer
+  pub/academic/law/goss-v-lopez.mnookin
+  pub/academic/law/ferpa
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/law constraints.constitutional
+send acad-freedom/law doe-v-u-of-michigan
+send acad-freedom/law uwm-post-v-u-of-wisconsin
+send acad-freedom/law student-publications.misc
+send acad-freedom/law clergy-v-chicago-board-of-ed
+send acad-freedom/law tinker_v_des_moines
+send acad-freedom/law tinker_v_des_moines.2
+send acad-freedom/law san-diego-committee-v-gov-bd
+send acad-freedom/law goss-v-lopez.fischer
+send acad-freedom/law goss-v-lopez.mnookin
+send acad-freedom/law ferpa
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Oct 20 14:02:06 1992
+From: dan@cubmol.bio.columbia.edu (Daniel Zabetakis)
+Newsgroups: comp.admin.policy
+Subject: Article 12--harrasment/acad-freedom and the sysadmin, again.
+Message-ID: <1992Oct23.193222.2611@news.columbia.edu>
+Date: 23 Oct 92 19:32:22 GMT
+
+
+    There is one other reason that I think a sysadmin may be a good first
+contact for harassment complaints. If the person you go to with a complaint
+does not understand the situation surrounding the complaint, then they will
+not be in a good position to offer reasonable advise or take reasonable
+action. In many cases, the 'proper' person to take the complaint to may
+have _no_ knowledge of the computer systems involved in a computer related
+harassment complaint.
+    It is very important that the person making descisions about harassment
+be well informed. But since many rules I have seen about harassment mention
+confidentiality, this may not be the case. Columbia's policy states that
+initial contacts (at least) will be so confidential that no notes will be
+made. Can we be sure that such a person will seek out all facts regarding
+the situation?
+
+   What is the danger?  I think there are two problems. One is that 
+harassment complaints might be ignored if the person in authority doesn't
+understand the situation. I can easily imagine many of the proffessors
+here telling a harassment victim "Just don't read e-mail anymore!" regardless
+of whether is was neccessary for the victims work or not.
+  The second problem is on the other side of the issue. In many departments,
+the people with the power to make changes to the system (ie have the grant)
+may not understand fully the way systems work. Going to this person with
+a complaint may generate snap rules that are very bad for academic freedom.
+I can easily imagine a committee of professors here making up rules like
+"All e-mail must be specifically related to [short list of projects]".
+
+   I am not saying that sysadmins are always resonsable for harassment 
+complaints. I am saying that there are benifits in some cases to having
+a sysadmin involved. Most harassment policies (including the U Ill.
+policy that Carl likes to quote) emphasize informal solutions. This means
+solutions found outside of the normal grievance procedured (or does it?).
+I see no reason why a sysadmin shouldn't be involved in an informal
+solution if both the victim and the sysadmin feel it is appropriate.
+   Specifically excluding sysadmins from the group who can deal with
+harassment complaints will (IMHO) create more problems than it could solve.
+
+DanZ
+
+-- 
+    "I think it is a little premature to attribute the failures of American
+     foriegn policy to Carl Kadie."
+                                                     -Mike Godwin
+This article for entertainment purposes only.
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

@@ -1,0 +1,947 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.12 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 12
+
+
+----------------------------------------------------------------------
+
+From: ag3j+@andrew.cmu.edu (Adam C. Gross)
+Subject: Article 0 -- Abstract of CAF-News 02.12
+
+[Week ending March 8, 1992
+
+[This is issue #12. Issues #13, #14, #17, and #18 are in production.]
+
+Correction: To get the bibliography on database security mentioned in
+issue #16, send email to archive-server@eff.org. Include the line:
+
+send acad-freedom/books pernul,_g
+
+- Carl]
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+ 
+Notes 1-5 are about SWITCH's policy of not carrying certain newsgroups
+ 
+1. "SWITCH may be a private organization, but as information provider 
+to institutions of higher education they have a moral responsibility to
+_not_ use their position to manipulate which information the public is
+exposed to and which it isn't."
+    <1992Mar2.025634.13544@mtholyoke.edu>
+ 
+2.  "The right to publish what we want is important, but the right not
+to be told by others what you *must* publish or transmit is of equal 
+importance.  These two rights are the two sides of freedom of expression."
+    <1992Mar02.082931.21643@clarinet.com>
+ 
+3.  "In addition to banning some usenet newsgroups, SWITCH is also blocking
+packets to the local eunet chapter (chuug).  We have to route most
+packets from Zurich to Geneva and back to Zurich.  Others go as far as
+Amsterdam, and, yes, still others go to the USA and come back (hee
+hee).  SWITCH is blocking nntp, telnet and ftp to local sites connected
+to eunet."
+    <1992Mar2.135005.14877@neptune.inf.ethz.ch>
+ 
+4.  "And when a USENET feed decides that it will not carry certain
+newsgroups, you are free to get your own feed from somewhere else. It
+isn't convenient, it isn't as cheap, maybe, but nobody said that USENET
+had to be convenient and cheap. And it certainly isn't censorship."
+    <1992Mar3.003102.27987@talon.ucs.orst.edu>
+ 
+5. [A user from Switzerland] "Can the government (or a governmental
+organisation) decide on anarbitrary basis to cut some perfectly legal
+newsgroups and let others pass freely?"
+    <1992Mar3.184031@litsun.epfl.ch>
+ 
+Notes 6-9 are about game and IRC policies in light of U of Cincinnati
+move to terminate accounts of users who telnet to "game" and IRC hosts.
+ 
+6. "Yes, the users have to become responsible with the use of the resources
+and get involved in policy-making. But the administrators should help
+in this process by asking for input, opening policy meetings, and by
+acting less arbitrarily upon the users they are trying to serve."
+    <1992Mar1.230835.9357@ms.uky.edu>
+ 
+7. A student defends the right to telnet to foriegn hosts because it is
+often for valid academic reasons.
+    <199203022336.AA12510@eff.org>
+ 
+8. "If I was asked to hire a programmer I would much rather hire someone who
+was familiar with the resources available on the net, becoming familiar
+with them involves using it for recreation as well as work."
+    <1992Mar6.042104.14586@wpi.WPI.EDU>
+ 
+9. "In my opinion, users should participate in the development of policy.
+Also, unless you want to set up a formal "computer-infractions judical
+committee", you should should tie into regular university judicial
+procedures."
+    <1992Mar7.195213.17699@m.cs.uiuc.edu>
+
+Notes 10-11 are about configuring your email reader to filter out
+messages from certain individuals. 
+
+10. A technique for filtering using elm is explained.
+    <1992Mar5.164036.26921@sunb10.cs.uiuc.edu>
+ 
+11. Another techinque for filtering, using HM, is explained.
+    <1992Mar6.021936.5715@m.cs.uiuc.edu>
+ 
+- Adam]
+ 
+
+
+
+
+
+In this issue:
+
+Jurgen Botz      58  >Censorship and bigotry come up strong in Switzerland
+Brad Templeton   46  >
+Mitchell Wyle   156  >
+John Stanley     38  >
+Guy Genilloud    52  >
+Sean Casey       30  >Why I hate IRC
+John Schultz     30  >Telnet Censorship
+Lawrence Foard   55  >
+Carl M. Kadie   172  >Why I hate IRC
+Brygg Ullmer     36  >Is there a way I can block-out certain e-mail?
+Mike Schwager    24  >
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Mar  2 00:00:00 1992
+Newsgroups: ch.general,ch.network,epfl.general,news.admin,eunet.news
+From: jbotz@mtholyoke.edu (Jurgen Botz)
+Subject: Article 1--Re: Censorship and bigotry come up strong in Switzerland
+Message-ID: <1992Mar2.025634.13544@mtholyoke.edu>
+Date: Mon, 2 Mar 1992 02:56:34 GMT
+ 
+In article <1992Feb29.005416.19540@clarinet.com> brad@clarinet.com (Brad Temple
+ton) writes:
+>Please people, while I do not approve of what SWITCH is planning, it is
+>not censorship and they are not censors.   What they are doing is dumb and
+>capricious, but if you've ever seen actual censorship, then you wouldn't
+>demean the word by using it to refer to a private entitiy's refusal to
+>transmit material they don't like.
+ 
+Sorry Brad, I have to strongly disagree.  I don't see how the censoring
+agent has to be a government (I assume that's what you by not ``private'')
+for the act of withholding information which is deemed ``objectionable''
+by some arbitrary standards to be called censorship.  Would you not call
+it censorship if a University you attended quietly kept certain books off
+the shelves?  In many countries private Universities may have the right to
+do that, but makes it no more ethical.  SWITCH may be a private organization,
+but as information provider to institutions of higher education they have
+a moral responsibility to _not_ use their position to manipulate which
+information the public is exposed to and which it isn't.
+ 
+Just because certain totalitarian governments (some of which are defunct
+now ;-) have made a mission out of completely rewriting history and mis-
+information their populace doesn't mean that nothing else deserves that
+label.  What is being done by Switch is helping to create the kind of
+atmosphere in which reactionary thought thrives -- and _that_ can ultimately
+lead to ``official'' fascism.  Yes, that may seem like an exaggeration,
+and yes, very similar things are happening in the USA and many other places.
+But I oppose them there, too, and cry ``foul'' when I see them because by
+calling these things by their proper names one can sometimes draw enough
+public attention to them that they get nipped in the bud _before_ they get
+chance to blossom into more unwieldy evils.
+ 
+Be it done by national authorities or private organizations, the act
+of whitholding information in a capricious manner and according to
+arbitrary and unpopular standards of ``objectionability'' IS
+CENSORSHIP.  There don't have to be brown-shirts or death squads
+enforcing the policy and making sure that the information doesn't flow
+>from other sources to call it censorship. In many cases the same
+effect is accomplished bureaucratic big-headedness and deliberate
+misinformation about the facts.  For examples SWITCH's claim that all
+the ``banned'' newsgroups are ``against Swiss law,'' even though it
+can't possibly be true, might be enough to convince the administrators
+of SWITCH's member institutions that they had better not allow
+secondary feeds which contain those groups.  Smacks of deliberate mis-
+information to me, and even if it _were_ pure ignorance, that wouldn't
+be a very good excuse.
+ 
+Call it censorship... no, SCREAM ``censorship,'' and maybe the heat will
+get turned up enough under the SWITCH administrator's butts that
+they'll realize that modern western society does not take lightly to some
+bureacrats's deciding what is and what is not appropriate for them to read.
+-- 
+Jurgen Botz                  |   Internet: JBotz@mtholyoke.edu
+Academic Systems Consultant  |     Bitnet: JBotz@mhc.bitnet
+Mount Holyoke College        |      Voice: (US) 413-538-2375 (daytime)
+South Hadley, MA, USA        | Snail Mail: J. Botz, 01075-0629
+
+
+------------------------------
+
+From caf-talk Caf Mar  2 00:00:00 1992
+Newsgroups: ch.general,ch.network,epfl.general,news.admin,eunet.news
+From: brad@clarinet.com (Brad Templeton)
+Subject: Article 2--Re: Censorship and bigotry come up strong in Switzerland
+Date: Mon, 02 Mar 1992 08:29:31 GMT
+Message-ID: <1992Mar02.082931.21643@clarinet.com>
+ 
+In article <1992Mar2.025634.13544@mtholyoke.edu> jbotz@mtholyoke.edu (Jurgen Bo
+tz) writes:
+>Sorry Brad, I have to strongly disagree.  I don't see how the censoring
+>agent has to be a government (I assume that's what you by not ``private'')
+ 
+>Would you not call
+>it censorship if a University you attended quietly kept certain books off
+>the shelves?
+ 
+No, it isn't censorship, but it's very close, since Universities are
+very much like communities, and their administrations perform governmental
+functions.  (If the schools are not indeed government funded.)  However, the
+main reason it is close is that it is almost impossible under existing academic
+rules for ordinary students to just pick up and switch Universities without
+tremendous cost. 
+ 
+And the reason for this is that censorship (in the sense of the word we're
+using here) is the use of force/violence to control the flow of information.
+(Or, more commonly, the threat of violence, which is the use of violence.)
+ 
+This is why only governments can do it.  For others to do it is illegal.
+(Though if Vinnie and Guido were to visit me and say they would break my
+legs if I post this message, I would call it censorship.)
+ 
+There is real censorship in the world, even in the free countries of the
+world.  Books are banned.  Broadcasting licences are threatened with
+termination.  Art galleries are closed down.  Record store owners and
+recording stars have charges filed against them.  BBSs and computers are
+confiscated.
+ 
+THIS is censorship and this is evil.  What SWITCH is planning is bad, but
+it is insignificant, puny, nothing, when compared to censorship.
+ 
+>Call it censorship... no, SCREAM ``censorship,'' and maybe the heat will
+>get turned up enough under the SWITCH administrator's butts that
+ 
+No, you'll make everybody think you're over-reacting, and that you don't
+realize that freedom of the press rightly belongs to those who own the
+press.   The right to publish what we want is important, but the right not
+to be told by others what you *must* publish or transmit is of equal 
+importance.  These two rights are the two sides of freedom of expression.
+-- 
+Brad Templeton, ClariNet Communications Corp. -- Sunnyvale, CA 408/296-0366
+
+
+------------------------------
+
+From caf-talk Caf Mar  2 00:00:00 1992
+From: wyle@inf.ethz.ch (Mitchell Wyle)
+Newsgroups: ch.general,ch.network,epfl.general,news.admin,eunet.news
+Subject: Article 3--Re: Censorship and bigotry come up strong in Switzerland
+Message-ID: <1992Mar2.135005.14877@neptune.inf.ethz.ch>
+Date: 2 Mar 92 13:50:05 GMT
+ 
+I haven't posted to this thread for a while...
+ 
+ 
+<1992Mar02.082931.21643@clarinet.com> 
+brad@clarinet.com (Brad Templeton) writes:
+ 
+>What SWITCH is planning is bad, but
+>it is insignificant, puny, nothing, when compared to censorship.
+ 
+There is no plan; SWITCH cut off all the groups quite some time ago.
+One moment the groups were there, and the next minute they were gone.
+Some people call such policy administrative fiat.  Others think that
+Fiat is an Italian car.
+ 
+Earlier in this discussion (when it was still local to Switzerland), I
+was arguing Brad's point that SWITCH's action is not censorship.  I
+quoted from Chip Salzenberg's intro article, posted every month to
+news.announce.newusers with the title ``Subject:  What is Usenet?''
+ 
+``Usenet is not a right.
+ 
+    ``Some people misunderstand their local right of "freedom of speech"
+    to mean that they have a legal right to use others' computers to
+    say what they wish in whatever way they wish, and the owners of
+    said computers have no right to stop them.
+ 
+    ``Those people are wrong.  Freedom of speech also means freedom not
+    to speak.  If I choose not to use my computer to aid your speech,
+    that is my right.  Freedom of the press belongs to those who own
+    one.
+ 
+``Usenet is not a public utility.
+ 
+    ``Some Usenet sites are publicly funded or subsidized.  Most of
+    them, by plain count, are not.  There is no government monopoly
+    on Usenet, and little or no government control.
+ 
+``Usenet is not an academic network.
+ 
+    ``It is no surprise that many Usenet sites are universities,
+    research labs or other academic institutions.  Usenet originated
+    with a link between two universities, and the exchange of ideas
+    and information is what such institutions are all about.  But the
+    passage of years has changed Usenet's character.  Today, by plain
+    count, most Usenet sites are commercial entities.
+ 
+Later in the section entitled ``THE CAMEL's NOSE'' Chip writes:
+ 
+``Property rights being what they are, there is no higher authority on
+Usenet than the people who own the machines on which Usenet traffic is
+carried.  If the owner of the machine you use says, "We will not carry
+alt.sex on this machine," and you are not happy with that order, you
+have no Usenet recourse.  What can we outsiders do, after all?
+ 
+``That doesn't mean you are without options.  Depending on the nature of
+your site, you may have some internal political recourse.  Or you
+might find external pressure helpful.  Or, with a minimal investment,
+you can get a feed of your own from somewhere else. Computers capable
+of taking Usenet feeds are down in the $500 range now, and
+UNIX-capable boxes are going for under $2000, and there are at least
+two UNIX lookalikes in the $100 price range.
+ 
+``No matter what, though, appealing to "Usenet" won't help.  Even if
+those who read such an appeal are sympathetic to your cause, they will
+almost certainly have even less influence at your site than you do.
+ 
+``By the same token, if you don't like what some user at another site is
+doing, only the administrator and owner of that site have any
+authority to do anything about it.  Persuade them that the user in
+question is a problem for them, and they might do something -- if they
+feel like it, that is.
+ 
+``If the user in question is the administrator or owner of the site from
+which she posts, forget it; you can't win.  If you can, arrange for
+your newsreading software to ignore articles from her; and chalk one
+up to experience.''
+ 
+SWITCH owns and runs SWITCH machines.  They can carry what they want.
+If the owner of your machine wants to get the banned groups, he can
+either go through SWITCH (convince them to feed your machine) or buy a
+feed from chuug.  Such feeds are not expensive.
+ 
+Apparantly the people at the Swiss federal institute of technology in
+Laussanne (and in other places downstream of SWITCH) are going to
+Hawaii and other international sites to nntp the banned groups.
+Perhaps SWITCH will block port 119 in retaliation.  Or, maybe SWITCH
+banned the groups in order to INCREASE network traffic  (if 2,000
+individuals nntp directly to Hawaii and Ohio instead of reading news
+locally on their machines...) Conspiracy theories don't seem likely in
+this case.
+ 
+Another fact Brad and other late-comers to this discussion might want
+to consider is that SWITCH blocked port 25 out of Switzerland for quite
+some time.  SMTP is not a politically acceptable protocol and very
+buggy x.400 software needed testing.  You can't imagine how terrible
+e-mail service was at that time or how many thousands of sys-admin
+hours were invested in that fiasco.  Eventually, SWITCH backed down and
+allowed port 25 packets to flow.  I personally would not be surprized
+to see smtp turned off again (on a whim).
+ 
+In addition to banning some usenet newsgroups, SWITCH is also blocking
+packets to the local eunet chapter (chuug).  We have to route most
+packets from Zurich to Geneva and back to Zurich.  Others go as far as
+Amsterdam, and, yes, still others go to the USA and come back (hee
+hee).  SWITCH is blocking nntp, telnet and ftp to local sites connected
+to eunet.
+ 
+% ping chsun.chuug.ch
+chsun.chuug.ch is alive
+ 
+[ ping works  ]
+ 
+ 
+ 
+% finger poole@chsun.chuug.ch
+[chsun.chuug.ch]
+Login name: poole                       In real life: Simon Poole
+Directory: /users/poole                 Shell: /bin/csh
+On since Feb 20 10:38:30 on ttyp0 from magnolia
+2 days 19 hours Idle Time
+Mail last read Mon Mar  2 14:29:20 1992
+No Plan.
+ 
+[ port 79 is open ]
+ 
+ 
+% telnet chsun.chuug.ch
+Trying 146.228.10.15 ...
+telnet: connect: Host is unreachable
+ 
+[ port 23 is blocked ]
+ 
+% ftp chsun.chuug.ch
+ftp: connect: Host is unreachable
+ 
+[ ports 20 and 21 seem closed ]
+ 
+% telnet chsun.chuug.ch stmp
+Connected to chsun.chuug.ch.
+Escape character is '^]'.
+ 
+220 chsun.chuug.ch Sendmail 5.65c8/1.34 ready at Mon, 2 Mar 1992 14:36:11 +0100
+ 
+ 
+[ Hmmmm, port 25 does not seem to be blocked at the moment. ]
+ 
+ 
+% telnet chsun.chuug.ch nntp
+Trying 146.228.10.15 ...
+telnet: connect: Host is unreachable
+ 
+[ ...but port 119 is :-)    I wonder why?]
+
+
+
+------------------------------
+
+From caf-talk Caf Mar  3 00:00:00 1992
+From: stanley@skyking.OCE.ORST.EDU (John Stanley)
+Newsgroups: ch.general,ch.network,epfl.general,news.admin,eunet.news
+Subject: Article 4--Re: Censorship and bigotry come up strong in Switzerland
+Message-ID: <1992Mar3.003102.27987@talon.ucs.orst.edu>
+Date: 3 Mar 92 00:31:02 GMT
+ 
+In article <1992Mar2.182036.24919@den.mmc.com> hull@den.mmc.com (Jeff Hull) wri
+tes:
+>Censorship is preventing people from seeing something.  ...
+>
+>Please, people, remember that words start as a tool for communicating
+>ideas but they become tools with which we reason.  When we misuse
+>words, we make communication more difficult and wind up making
+>reasoning more difficult or even impossible.
+ 
+Then stop misusing the word censorship.
+ 
+Censorship is the act of an official to prohibit things.
+ 
+It is NOT the act of a private group who decides not to provide
+something. It is NOT the act of a newspaper when they decide not to
+print a letter. It is NOT the act of a government when they refuse to
+pay for the generation or production of something.
+ 
+When a University chooses not to put a certain book on the shelves of
+the local library, they have not censored that book. You are quite free
+to call the publisher and buy it yourself or go to another library. You
+will not be arrested for posession of that book just because the
+University hasn't bought a copy of it. It is NOT censorship.
+ 
+When the NEA decides not to fund a certain work of art, it is not
+censorship.  It does not prohibit the artist from garnering private
+support, and does not  prohibit him from displaying his work when it is
+finished.
+ 
+And when a USENET feed decides that it will not carry certain
+newsgroups, you are free to get your own feed from somewhere else. It
+isn't convenient, it isn't as cheap, maybe, but nobody said that USENET
+had to be convenient and cheap. And it certainly isn't censorship.
+
+
+
+
+------------------------------
+
+From caf-talk Caf Mar  4 00:00:00 1992
+From: genillou@litsun.epfl.ch (Guy Genilloud)
+Newsgroups: ch.general,ch.network,epfl.general,news.admin,eunet.news
+Subject: Article 5--Re: Censorship and bigotry come up strong in Switzerland
+Message-ID: <1992Mar3.184031@litsun.epfl.ch>
+Date: 3 Mar 92 17:40:31 GMT
+ 
+ 
+I have to apologize to all of you who don't understand French.
+I made a mistake using xrn and I sent a message to the world that I intended
+to send to epfl.general only.
+ 
+Basically, in my preceding message, I was saying that Brad Templeton was 
+(probably) right about censorship: a private company can refuse to pass 
+information without that being called censorship.
+ 
+But SWITCH is not any private company. SWITCH will do whatever the governmental
+organisations ask it to do. Moreover, SWITCH made a proposal to pass any
+newsgroup
+requested by a University, as long as the University takes
+"responsibility" for 
+it. The problem is now with Universities.
+ 
+So now, the question in Switzerland is:
+ 
+Can the government (or a governmental organisation) decide on an
+arbitrary basis 
+to cut some perfectly legal newsgroups and let others pass freely?
+ 
+As a citizen, I would answer NO, on the ground that this could allow the 
+government to filter out information it does not like and to promote 
+information it likes. After all, a governement can not give subsidies to some 
+Newspapers (directly or indirectly) and refuse those subsidies to other 
+Newspapers (although of course no Newspaper has a right to receive subsidies).
+ 
+I am not legal person, so I may be wrong. The law may be unclear or different
+on this point. In that case, I think it should be changed (Swiss citizens can c
+hange the constitution if they want to). 
+ 
+I would appreciate if someone could provide authoritative information 
+regarding these matters for both Switzerland and United States.
+ 
+ 
+Guy Genilloud
+-------------------------------------------------------------------------------
+-
+DI - LIT                             (Laboratoire d'informatique technique)
+EPFL                                 (Ecole Polytechnique Federale de Lausanne)
+CH-1015 Lausanne-Ecublens 
+SWITZERLAND 
+ 
+internet: genilloud@litsun.epfl.ch
+X.400:    C=CH; A=ARCOM; P=SWITCH; O=EPFL; OU=LITSUN; S=GENILLOUD
+tel = (+41 21) 693 46 57   fax = (+41 21) 693 46 60
+-------------------------------------------------------------------------------
+-
+
+
+------------------------------
+
+From caf-talk Caf Mar  2 00:00:00 1992
+Newsgroups: comp.unix.admin
+From: sean@ms.uky.edu (Sean Casey)
+Subject: Article 6--Re: Why I hate IRC
+Message-ID: <1992Mar1.230835.9357@ms.uky.edu>
+Date: Mon, 2 Mar 1992 04:08:35 GMT
+ 
+an288@cleveland.Freenet.Edu (Mark Hittinger) writes:
+ 
+[regarding shutting down controversial services]
+ 
+|I wouldn't feel guilty about doing these things because they can get together
+|and send a petition to your bosses.  If they believe so strongly that it is
+|their right than they certainly can and should fight for it.  If they will
+|not take the appropriate political steps then they are not really serious.
+ 
+Why not ask students why they don't get together and send a petition?
+ 
+I can tell you why; because most of them are convinced it won't make
+any difference. These kids come out of high school and still have
+authority stamped all over their behinds. Most of the college people I
+know don't even conceive of trying to change the system until 
+their last year, and then they're too busy trying to graduate to get
+involved.
+ 
+I don't think lack of involvement implies a lack of seriousness.
+ 
+Yes, the users have to become responsible with the use of the resources
+and get involved in policy-making. But the administrators should help
+in this process by asking for input, opening policy meetings, and by
+acting less arbitrarily upon the users they are trying to serve.
+ 
+Sean
+
+
+
+------------------------------
+
+From caf-talk Caf Mar  2 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: C491153@UMCVMB.missouri.edu (John Schultz)
+Subject: Article 7--Re: Telnet Censorship
+Message-ID: <199203022336.AA12510@eff.org>
+Date: Mon, 2 Mar 1992 23:33:19 GMT
+ 
+mpd@anomaly.sbs.com (Michael P. Deignan) writes:
+>bd671@cleveland.Freenet.Edu (Christopher P. Harr) writes:
+>>   Recently here at the Universtiy of Cincinnati, my home University
+>>we have had system administrators kill accounts of people who connected to
+>>port numbers whether it be IRC, MUD's MUSHES, MUSES etc. There are
+also people
+>>who lost their accounts for telnetting to certain foriegn hosts, even though
+>>they had permission to telnet there.
+>Good for them! Its about time students realize that the computer systemis
+>for Academics and not for their personal leisure time. Buy an Atari 260 if
+>you want leisure material.
+ 
+Hold on a minute here.  I have an account I telnet to, but it's not for
+leisure use only.  I have a guest account on the FSF machines, (and I'm
+very appreciative of the fact) so that I can get a little Unix experienc
+while I'm in college.  My school only has Unix on a few machines and you
+have to be in the right classes (mainly CS - which I'm not) to have
+access to.  I'm very happy that MIT has seen fit to give out guest
+accounts of this type.  Now, students have no reason to whine about
+IRC and MUD access, but I think if you have an account on another system
+then you should be able to access it.
+ 
+John Schultz (caffeine abuser)  !  ABC killed Laura Palmer
+c491153@umcvmb.bitnet           !  Macintosh-free and proud of it!
+c491153@umcvmb.missouri.edu     !  Subscriber to the hacker ethic
+
+
+
+
+------------------------------
+
+From caf-talk Caf Mar  6 00:00:00 1992
+From: entropy@wintermute.WPI.EDU (Lawrence C. Foard)
+Newsgroups: alt.censorship
+Subject: Article 8--Re: Telnet Censorship.
+Message-ID: <1992Mar6.042104.14586@wpi.WPI.EDU>
+Date: 6 Mar 92 04:21:04 GMT
+ 
+In article <1992Mar4.161917.3977@ac.dal.ca> finneyrc@ac.dal.ca writes:
+>The problem with games on academics computers is that there is usually NEVER
+>enough computers/terminals/workstation to meet the needs of all students to
+>allow one for each.
+ 
+If you can't even handle your academic users its time to add some more
+systems. I have trouble believing that your computer labs are full 24 hours
+a day, if they are I'm glad I don't go there :-)
+ 
+>Here at my university, GAME playing is strickly
+>NOT ALLOWED because of the above reason. 
+ 
+How do you define a game? Does rn count? Does IRC count? Do muds count?
+ 
+I use IRC, rn and muds both for recreation and as a source of information,
+if you need to know something quickly IRC is the fastest way to find someone
+who knows. There are also significant advantages to knowing people outside
+of the local area in your field, the net provides a resource infinitly
+better than the library since you don't have to wait 2 years for information
+to appear. 
+ 
+Being aware of Linux not only helps me personally, but will also save money
+for the project I'm working on since we can put some equipment to more
+productive use rather than having to purchase additional workstations. The
+amount my "game" playing costs WPI doesn't approach the amount it is saving
+them...
+ 
+>If anyone is found playing games
+>then all computer access is revoked (or so they say..).
+ 
+If I was asked to hire a programmer I would much rather hire someone who
+was familiar with the resources available on the net, becoming familiar
+with them involves using it for recreation as well as work.
+ 
+>If anyone wishes
+>to play games then I suggest they save up their pennies (I know that this is
+>hard) and buy a personal computer for home use (or get back into the board
+>games). 
+ 
+Most students can't afford the $350/month for the leased line and UUNET
+connection...
+ 
+>I don't really approve of the rules but I do see the fairness in
+>preventing non-academic use on non-academic machines.
+ 
+I assume this is a typo?
+-- 
+Disclaimer: Opinions are based on logic rather than biblical "fact".   ------
+This is a mutated signature virus, if you don't put it in your .sig    \    /
+file you may lose your job, your dog may be run over, and you may die.  \  /
+If you repent and add the .sig you may win the lottery and get laid.     \/ 
+
+
+
+------------------------------
+
+From caf-talk Caf Mar  7 00:00:00 1992
+Newsgroups: comp.unix.admin,alt.comp.acad-freedom.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 9--Re: Why I hate IRC
+Message-ID: <1992Mar7.195213.17699@m.cs.uiuc.edu>
+Date: Sat, 7 Mar 1992 19:52:13 GMT
+ 
+lindahl@arrisun3.uta.edu (Charlie Lindahl) writes:
+ 
+[...]
+>So, "fascist" arguments aside, I believe that we must first have 
+>published policies on usage before we can bash IRC abusers (or other 
+>network users). If the network is still abused, then the users 
+>cannot claim ignorance of the rules, and can be properly disciplined 
+>(net access cut off) if necessary. 
+[...]
+ 
+How long will access be cut off? Will the student or faculty user be
+able to ask for an informal hearing? a formal hearing? Will the
+discipline be imposed before a hearing establishes that an offense
+actually took place. Who decides when discipline is warrented? (i.e.
+who is authorized by your university to discipline student and faculty
+users?) Can users appeal discipline decisions? Will they be informed
+of this right? Will users participate in the development and
+application of the policy?
+ 
+ 
+In my opinion, users should participate in the development of policy.
+Also, unless you want to set up a formal "computer-infractions judical
+committee", you should should tie into regular university judicial
+procedures. I'm enclosing a FAQ on policy making. It includes a list
+of references to on-line material.
+ 
+- Carl
+ 
+=============== ftp.eff.org:pub/academic/faq/policy ===============
+q: What guidance is there for creating or evaluating a computer policy?
+ 
+a: The first thing to do is to get a copy of your university's Student
+Code. It often protects student and staff freedom of expression,
+privacy, and due process rights. It is not just a piece of paper; it
+is part of the legal contract between student and university. Any new
+policy must be consistent with this policy.
+ 
+You may also find the unofficial, draft Statement on Computers and
+Academic Freedom (CAF) useful. Also the CAF Archive contains the
+policies of many schools, some with critiques.
+ 
+Finally, you may wish to look at the CAF Law archive. Speech
+restrictions at public universities have been struck down consistently
+by recent federal courts. Also, the courts require due process before
+serious punishments can be applied to students.
+ 
+- Carl Kadie
+ 
+ANNOTATED REFERENCES
+ 
+(All these documents are available on-line. Access information follows.)
+ 
+=================
+caf-statement
+=================
+This is an attempt to codify the application of academic freedom to
+academic computers. It reflects our seven months of on-line discussion
+about computers and academic freedom. It covers free expression, due
+process, privacy, and user participation.
+ 
+Comments and suggestions are very welcome (especially when posted to
+CAF-talk). All the documents referenced are available on-line.
+ 
+=================
+policies/README
+=================
+Computer Policy and Critiques Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+ 
+This is a collection of the computer policies of many schools and
+networks. The collection also includes critiques of some of the
+policies.
+ 
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.4). It is in directory "pub/academic/policies".
+For email access, send email to archive-server@eff.org. Include the
+line:
+  send other-comp-policies <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+ 
+For more information, to make contributions, or to report typos
+contact Carl Kadie (kadie@eff.org). Directory "widener" contains
+additional policies (but not critiques).
+ 
+=================
+widener/README
+=================
+This directory is a mirror of ftp.cs.widener.edu:pub/cud/schools/*.
+It is a collection of the computer polices of many schools. For a
+description of the file see file "widener/Index". Also see directory
+"policies".
+ 
+=================
+law/README
+=================
+CAF Law Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+ 
+This is an on-line collection of law related to computers and academic
+freedom. It includes both case law and legislation.
+ 
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.4). It is in directory "pub/academic/law".
+For email access, send email to archive-server@eff.org. Include the
+line:
+      send caf-law <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+ 
+For more information or to make contributions, contact Carl Kadie
+(kadie@eff.org).
+ 
+=================
+law/uwm-post-v-u-of-wisconsin
+=================
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference between protected
+offensive expression and illegal harassment. It even mentions email.
+ 
+It concludes: "The founding fathers of this nation produced a
+remarkable document in the Constitution but it was ratified only with
+the promise of the Bill of Rights.  The First Amendment is central to
+our concept of freedom.  The God-given "unalienable rights" that the
+infant nation rallied to in the Declaration of Independence can be
+preserved only if their application is rigorously analyzed.
+ 
+The problems of bigotry and discrimination sought to be addressed here
+are real and truly corrosive of the educational environment.  But
+freedom of speech is almost absolute in our land and the only
+restriction the fighting words doctrine can abide is that based on the
+fear of violent reaction.  Content-based prohibitions such as that in
+the UW Rule, however well intended, simply cannot survive the
+screening which our Constitution demands."
+ 
+ 
+=================
+law/goss-v-lopez.fischer
+=================
+Comments from _Teacher's and the Law_, 3rd edition, by Louis Fischer,
+et al. Published in 1991 by Longman. It reports that the Supreme Court
+says that some modicum of due process is necessary unless the matter
+is trivial or there is an emergency.
+ 
+=================
+=================
+ 
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+ 
+  send acad-freedom caf-statement
+  send other-comp-policies README
+  send widener-collected-comp-policies README
+  send caf-law README
+  send caf-law uwm-post-v-u-of-wisconsin
+  send caf-law goss-v-lopez.fischer
+ 
+The files are also available via anonymous ftp from ftp.eff.org
+(192.88.144.4) as file(s):
+  pub/academic/caf-statement
+  pub/academic/policies/README
+  pub/academic/widener/README
+  pub/academic/law/README
+  pub/academic/law/uwm-post-v-u-of-wisconsin
+  pub/academic/law/goss-v-lopez.fischer
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Mar  5 00:00:00 1992
+Newsgroups: uiuc.cs.problems
+From: ullmer@suna3.cs.uiuc.edu (Brygg Ullmer)
+Subject: Article 10--Re: Is there a way I can block-out certain e-mail?
+Message-ID: <1992Mar5.164036.26921@sunb10.cs.uiuc.edu>
+Date: Thu, 5 Mar 1992 16:40:36 GMT
+ 
+In <1992Mar3.013144.3462@m.cs.uiuc.edu> soufi@m.cs.uiuc.edu (Khaled S. Soufi) w
+rites:
+ 
+>I was wondering if anyone out there knows of any simple (?!) way to
+>block-out certain people (addresses) from sending e-mail to me!  I
+>guess I can write a little utility that can search my mail file and
+>delete all messages that came from undesirable addresses but is there
+>anything better than that?  Thanks in advance for any *wise*
+>suggestion.
+ 
+Yes... you can use the filter program, if elm has been installed on your
+system.  If you haven't run elm before, run it once so that it can create
+the appropriate directories in your account.  Then, you have filter invoked
+by the reception of new mail by putting "| /usr/local/bin/filter" (with the
+quotes) in your .forward file (the directory may be different from system
+to system; type "which filter" to get the appropriate directory).  Finally,
+you set up a filter-rules file in your .elm directory, which might contain
+the following:
+ 
+if (from contains "unwanted-person-name") then save unwanted.message 
+#alternatively, replace "save unwanted..." with "delete"
+if (always) then leave
+ 
+Be sure to check your filter-rules out for proper working order by
+running "filter -n < sample.msg" on both messages which should be deleted and
+messages which should be saved (including the header); filter will tell
+you what
+it would do with the message if run with the current filter-rules.
+ 
+Check the filter man page for more information.
+ 
+Brygg Ullmer
+
+
+
+------------------------------
+
+From caf-talk Caf Mar  5 00:00:00 1992
+Newsgroups: uiuc.cs.problems
+From: schwager@cs.uiuc.edu (Mike Schwager)
+Subject: Article 11--Re: Is there a way I can block-out certain e-mail?
+Message-ID: <1992Mar6.021936.5715@m.cs.uiuc.edu>
+Date: Fri, 6 Mar 1992 02:19:36 GMT
+ 
+In article <1992Mar3.013144.3462@m.cs.uiuc.edu>, soufi@m.cs.uiuc.edu (Khaled S.
+ Soufi) writes:
+|> I was wondering if anyone out there knows of any simple (?!) way to
+|> block-out certain people (addresses) from sending e-mail to me!  I
+|> guess I can write a little utility that can search my mail file and
+|> delete all messages that came from undesirable addresses but is there
+|> anything better than that?  Thanks in advance for any *wise*
+|> suggestion.
+ +------------------------------------+--------------------------+
+ 
+I suggest using MH.  There are manuals in the library.  Basically, you can crea
+te a .forward file that looks like this:
+ 
+"| /local/lib/mh/slocal -user schwager"
+ 
+and then you can have a mail delivery file that looks like this:
+ 
+>from nastyperson qpipe ?: "/bin/cat > /dev/null 2>&1"
+addr schwager qpipe ?: "/local/lib/mh/rcvstore +Sysadm"
+ 
+Automagic!
+ 
+Many more configuration options are available.
+-Mike
+
+
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

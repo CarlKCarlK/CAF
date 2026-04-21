@@ -1,0 +1,231 @@
+Anyone who can ftp to eff.org can also do a fuzzy full text search on
+the CAF archive using "wais".
+
+If you already know what WAIS is, here is the comp-acad-freedom.src
+record:
+
+(:source 
+   :version  3 
+   :ip-address "192.77.172.4"
+   :ip-name "wais.eff.org"
+   :tcp-port 210
+   :database-name "comp-acad-freedom"
+   :cost 0.00 
+   :cost-unit :free 
+   :maintainer "wais@eff.org"
+   :description "Files relating to the Computers & Academic Freedom lists.
+
+Includes computer usage policies, bibliographies, archives of old
+discussion, and much more.
+"
+)
+
+Some popular wais programs (clients) include "swais" and "xwais".
+Your site may already have these installed. If not, you can
+access a client at Thinking Machines via telnet. Just telnet
+to quake.think.com. Login as "wais".
+
+In addition to the "comp-academic-freedom" server, there are servers
+for recent Supreme Court decisions, for FAQ's, for EFF, for the bible,
+etc, etc.
+
+Here is some additional information from alt.wais.
+
+- Carl
+
+=====================================
+>From: brewster@quake.think.com (Brewster Kahle)
+>Newsgroups: comp.infosystems.wais,alt.wais
+>Subject: Re: WAIS FAQ part 0 of n: getting started
+>Message-ID: <BREWSTER.92May8180435@quake.think.com>
+>Date: 8 May 92 23:04:35 GMT
+
+
+In article <1992May6.140734.20789@klaava.Helsinki.FI> tolvanen@klaava.Helsinki.FI (Martti Tolvanen) writes:
+
+   Path: think.com!ames!olivea!uunet!mcsun!news.funet.fi!hydra!klaava!tolvanen
+   From: tolvanen@klaava.Helsinki.FI (Martti Tolvanen)
+   Newsgroups: comp.infosystems.wais,alt.wais
+   Date: 6 May 92 14:07:34 GMT
+   References: <1992May5.205022.262@msen.com> <1992May6.105809.9153@rdg.dec.com>
+   Organization: University of Helsinki
+   Lines: 6
+   Xref: think.com comp.infosystems.wais:4 alt.wais:731
+
+   Where does one find the WAIS client that runs under UNIX (related to GNU
+   Emacs?)
+
+   -- 
+   Martti Tolvanen, Dept. Biochem., Univ. Helsinki, Finland
+   tolvanen@cc.helsinki.fi
+
+
+it is in the unix release:
+
+
+	   New Unix Internet Release (Beta 3 Release) Available
+		 	   September 16, 1991
+
+Thank you for the interest in WAIS.  The servers on Quake (including the
+directory of servers) has 70k requests from over 1100 different hosts all
+over the world (18 countries) in a couple of months.  There are now 70
+servers including one in Norway, one in Australia, poetry, recipies,
+comp.sources, as well as a Connection Machine serving all sorts of things.
+
+There are are a few mailing lists on this subject that you might want to be
+on: 
+	wais-interest: only announcements like this (1 a month or so)
+	wais-discussion: moderated mailings every 1 or 2 weeks.  Good
+			stuff including all on wais-interest.
+	wais-talk: unmoderated for implementors and interactive discussions.
+Requests to wais-<foo>-request@think.com.  Archives available from
+wais server: wais-discussion or anonymous ftp from quake.think.com.
+
+A bibliography of available written materials and resources is available
+from /pub/wais/wais-discussion/bibliography.txt@quake.think.com (ftp) or 
+WAIS server wais-discussion-archive.src, or on request from Barbara@think.com.
+
+Jonathan Goldman pulled the most recent release together (with help from
+developers all over the world, see below):
+Highlights of modifications (see the release for the full report)
+	Overall: make it more portable, and small enhancements
+Thank you to all that have contributed bug reports and suggestions.  There
+are no concrete plans for the next release.
+
+Overview of components:
+In this release is source code for:
+ * Server code:  There is code to index text and picture files.
+ * Protocol code: based on Z39.50-1988 using the internet.
+ * Clients code: User interfaces for contacting servers
+	* GNU emacs interface
+	* simple shell interface 
+	* Mac interface (in separate WAIStation file)
+	* tool kit for making your own interfaces
+	* X interface
+ * Directory of servers: This is be a network service that lists
+	existing servers and how to contact them.
+ * A Connection Machine server with some patent information, the CIA
+	factbook, and some Biomedical abstracts, info-mac, risks, etc 
+	to serve as example servers.  
+
+Other components available elsewhere:
+ NeXT release: 	/wais/WAIStation-NeXT-1.0.tar.Z@think.com
+ Telnet access: telnet quake.think.com login wais
+ DOS: 		/pub/wais/UNC/wais-dos*@samba.oit.unc.edu
+ Motif: 	/public/wais/motif-a1.tar.Z@think.com
+ IBM RS6000:	/pub/misc/wais-8-b3-dist.tar.Z@ftp.ans.net
+ SunView: 	/pub/wais/sunsearch.src.*.tar.Z@samba.oit.unc.edu
+ VMS: 		pub/wais/UNC/vms-client
+
+The public servers that are currently advertized are:
+
+Biology:
+ biology-journal-contents.src
+ biosci.src 			Molecular-biology.src
+
+Usenet and internet archives:
+ comp.graphics.src		comp.admin.src
+ comp.db.src			comp.emacs.src
+ comp.multi.src			comp.archives.src
+ rec.pets.src			comp.sources.src
+ usenet-science.src 
+ user-contrib-cookbook.src 	usenet-cookbook.src
+ homebrew.src
+ info-mac.src 			sun-spots.src
+
+Frequently Asked Questions:
+ NeXT.FAQ.src		 	unix.FAQ.src
+ ibm.pc.FAQ.src			mac.FAQ.src
+
+Connection Machine info:
+ CM-applications.src
+ CM-tech-summary.src 
+ CM-fortran-manual.src	 	CM-paris-manual.src
+ CM-star-lisp-docs.src		CMFS-documentation.src
+
+Books:
+ jargon.src
+ bible.src			koran.src
+ sample-books.src
+ MIT-algorithms-bug.src 	MIT-algorithms-exercise.src 
+ MIT-algorithms-suggest.src
+ 
+Libraries:
+ online-libraries.src
+ tmc-library.src
+
+Misc: 
+ open_systems_calendar.src	matrix_news.src
+ astro-images-gif.src 		astro-images-fits.src
+ nsf-bulletins.src
+ midi.src
+ unimelb-research.src (Australia!)
+ supreme-ct.src
+ NIH-Guide.src
+ UNTComputerDoc.src
+ US-Gov-Programs.src
+ UiO_Publications.src (Norway!)
+ cosmic-abstracts.src		cosmic-programs.src
+ directory-of-servers.src
+ eff-documents.src		eff-talk.src
+ empire.src 			empire20.src
+ internet-documents.src		internet-drafts.src
+ internet-resource-guide.src	internet-rfcs.src
+ patent-sampler.src
+ poetry.src
+ risks-digest.src
+
+ sample-pictures.src
+ unix-manual.src
+ wais-discussion-archives.src	wais-docs.src
+ wall-street-journal-sample.src
+ weather.src
+ world-factbook.src
+
+
+The first "Digital Librarians", I think it would be safe to say are the
+maintainers of these servers:
+	Geir.Pedersen@use.uio.no
+	abc@banjo.concert.net
+	ang@theory.lcs.mit.edu
+	art@think.com
+	billy@unt.edu
+	biosci@genbank.bio.net
+	brewster@think.com
+	chris@cosmic1.cosmic.uga.edu
+	fullton@lambada.oit.unc.edu
+	ephraim@think.com
+	gordon@think.com
+	jcurran@nnsc.nsf.net
+	jonathan@think.com
+	jsq@tic.com
+	root@next2.oit.unc.edu
+	rvc@ariel.its.unimelb.EDU.AU
+	uriw@microworld.media.mit.edu
+	wais@eff.org
+	wais@talon.UCS.ORST.EDU
+	waisp@quake.think.com
+	weather-server@quake.think.com
+
+The release is available from Think.com via anonymous FTP in
+/public/wais/wais-8-b3.tar.Z and WAIStation-0-62.sit.hqx.
+
+Bugs to bug-wais@think.com or to me.
+
+For the bug fixes, thanks to:
+Garrett A. Wollman <wollman@emily.uvm.edu>
+Simon E Spero <ses@ccgr.technion.ac.il>
+<simon@liasun1.epfl.ch>
+kent@parc.xerox.com,
+Michael Haberler (mah@parrot.prv.univie.ac.at) and to
+gcardwel@uci.edu for bug fixes to the last release.
+
+
+-brewster and the wais crew
+
+"Paper and flesh are fleeting media for the treasures that are ideas."
+
+Brewster Kahle					Thinking Machines Corporation
+Brewster@Think.com				1010 El Camino Real
+Project Leader					Menlo Park, CA 94025
+Wide Area Information Servers			415-329-9300x228

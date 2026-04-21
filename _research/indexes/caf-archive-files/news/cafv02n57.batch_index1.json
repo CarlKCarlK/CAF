@@ -1,0 +1,507 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 22, 1991",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Cornell University restricted access to the alt.binaries.picturesb.erotica hierarchy following an FBI investigation.",
+        "University of Wisconsin-Eau Claire threatened to revoke a student's internet privileges based on requests from newsgroup owners.",
+        "Critics argue that labeling internet access as a 'privilege' does not remove due process requirements for students."
+      ],
+      "organizations": [
+        "Cornell University",
+        "Southwest Missouri State University",
+        "University of Wisconsin-Eau Claire",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Aaron Barnhart",
+        "Robert McElwaine",
+        "M. Stuart Lynn"
+      ],
+      "summary": "This digest summarizes several incidents regarding academic computer freedom, including an FBI raid at Cornell University over child pornography and the subsequent restriction of specific Usenet hierarchies. It also reports on restrictive systems administration at Southwest Missouri State University and threats to revoke internet privileges for a student at the University of Wisconsin-Eau Claire. Additionally, it references professional ethics codes for librarians and information professionals regarding censorship and privacy.",
+      "title": "Abstract of CAF-News 02.57",
+      "topics": [
+        "censorship",
+        "systems administration",
+        "due process",
+        "Usenet",
+        "academic freedom",
+        "internet privileges"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "barnhart@ddsw1.mcs.com (Aaron Barnhart)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 0 -- Abstract of CAF-News 02.57",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 1992",
+      "historical_relevance": "medium",
+      "item_type": "article",
+      "notable_claims": [
+        "The FBI investigated the use of graphics imaging technology to transmit illegal photos over Netnews.",
+        "Cornell experienced three major computer abuse investigations between 1988 and 1992."
+      ],
+      "organizations": [
+        "FBI",
+        "Cornell University",
+        "UPI"
+      ],
+      "people": [
+        "David Blumenthal",
+        "Mark Pilgrim",
+        "Robert Morris Jr."
+      ],
+      "summary": "The FBI investigated a Cornell University student for allegedly transmitting child pornography via computer bulletin boards and Netnews. The report notes this as the third major investigation involving abuse of Cornell's computer systems in four years. It references previous incidents including the creation of a computer virus and the 1988 Morris worm.",
+      "title": "FBI probes computer child porn at Cornell",
+      "topics": [
+        "law enforcement",
+        "computer crime",
+        "academic networks",
+        "child pornography"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 21 Nov 1992 18:44:53 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<1992Nov21.184453.4548@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 1--[UPI] \"FBI probes computer child porn at Cornell\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-11-18",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Cornell's official newsstand blocked access to the a.b.p.e hierarchy to prevent potential violations of U.S. Code Section 2252.",
+        "Illegal content was allegedly being redistributed from sources within the United States, including potentially Cornell."
+      ],
+      "organizations": [
+        "Cornell University",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "M. Stuart Lynn",
+        "Carl Kadie"
+      ],
+      "summary": "M. Stuart Lynn, Vice President for Information Technologies at Cornell University, announced the immediate blocking of access to the alt.binaries.pictures.erotica newsgroup hierarchy. The action was taken due to concerns that GIF files circulating in those groups may have violated U.S. Code Section 2252 regarding the sexual exploitation of minors. Lynn noted that some of these files may have originated from Cornell or other academic institutions.",
+      "title": "ALERT RE POSTINGS AND CORNELL ACCESS TO ALT.*.*.EROTICA HIERARCHY",
+      "topics": [
+        "censorship",
+        "network administration",
+        "legal compliance",
+        "Usenet",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 18 Nov 1992 20:28:32 GMT",
+      "from": "M. Stuart Lynn <msl1@cornell.edu>",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<1992Nov18.202832.1951@mail.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 2--ALERT RE POSTINGS AND CORNELL ACCESS TO ALT.*.*.EROTICA HIERARCHY",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 20, 1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "The FBI executed a search warrant for evidence of interstate transport of child pornography via computer.",
+        "Cornell University blocked access to the alt.binaries.pictures.erotica newsgroup following the investigation."
+      ],
+      "organizations": [
+        "FBI",
+        "Cornell University",
+        "Department of Justice",
+        "Department of Public Safety"
+      ],
+      "people": [
+        "J. Allison Archbold",
+        "Roger Clancy",
+        "Joe Pavone",
+        "Marjorie W. Hodges",
+        "Linda Grace-Kobas",
+        "Scott C. Hamilton",
+        "Eric Scheirer"
+      ],
+      "summary": "The FBI searched a Cornell University sophomore's residence hall room as part of an investigation into the distribution of child pornography via international computer networks. In response to the incident, Cornell University discontinued access to the newsgroup alt.binaries.pictures.erotica. The university also launched its own investigation regarding potential violations of the Campus Code of Conduct.",
+      "title": "FBI SEARCHES STUDENT'S ROOM FOR PORNOGRAPHY",
+      "topics": [
+        "law enforcement",
+        "censorship",
+        "child pornography",
+        "network access",
+        "academic conduct"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 20 Nov 1992 08:16:55 GMT",
+      "from": "escheire@sunlab.cit.cornell.edu (Eric Scheirer)",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<9211201816.AA21284@dahlia.cit.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 3--The FBI takes a trip to Cornell...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 20, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Cornell Code of Conduct Section J of Article II of Title 3 is considered too vague.",
+        "There was a lack of established 'jurisdictional understanding' between the university and local officials regarding simultaneous legal and campus actions."
+      ],
+      "organizations": [
+        "Cornell University",
+        "FBI"
+      ],
+      "people": [
+        "Eric Scheirer",
+        "Marjorie W. Hodges"
+      ],
+      "summary": "Eric Scheirer discusses an FBI investigation at Cornell University involving a student and potentially illegal imagery on Usenet. He critiques the vagueness of the Cornell Code of Conduct regarding 'trafficking' and questions whether university policy allows for simultaneous criminal and campus disciplinary actions.",
+      "title": "Re: The FBI takes a trip to Cornell...",
+      "topics": [
+        "academic freedom",
+        "law enforcement",
+        "university policy",
+        "Usenet",
+        "computer abuse"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 20 Nov 1992 10:34:57 GMT",
+      "from": "escheire@sunlab.cit.cornell.edu (Eric Scheirer)",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<9211202036.AA12053@crocus.cit.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 4--Re: The FBI takes a trip to Cornell...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 21, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The closure of the a.p.b.e newsgroup was likely due to its erotic content rather than legal necessity.",
+        "Downloading files based on subject headings without prior knowledge of illegal content should not constitute a crime."
+      ],
+      "organizations": [
+        "Cornell University",
+        "FBI",
+        "EFF"
+      ],
+      "people": [
+        "J. S. Greenfield",
+        "Eric Scheirer",
+        "Marjorie W. Hodges"
+      ],
+      "summary": "J. S. Greenfield critiques Cornell University's decision to shut down the Usenet group alt.porn.big.everything (a.p.b.e) following an FBI investigation into child pornography. He argues that shutting down a forum due to the actions of individuals is an overreach and suggests the closure was motivated by the erotic nature of the content. The discussion highlights the tension between law enforcement, university conduct codes, and digital freedom of expression.",
+      "title": "Re: The FBI takes a trip to Cornell...",
+      "topics": [
+        "academic freedom",
+        "censorship",
+        "Usenet",
+        "child pornography laws",
+        "university policy"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 21 Nov 1992 17:00:10 GMT",
+      "from": "greeny@eff.org (J S Greenfield)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<1992Nov21.170010.3289@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 5--Re: The FBI takes a trip to Cornell...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 21, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Cornell restricted a.p.b.e on official servers to demonstrate cooperation with the FBI.",
+        "The CS department maintained its own hierarchy where the restricted groups remained available, creating a disparity in access between students and faculty/staff.",
+        "University administration may have confused the nature of the newsgroup due to a lack of knowledge about Usenet forums."
+      ],
+      "organizations": [
+        "Cornell University",
+        "FBI",
+        "Electronic Frontier Foundation (EFF)",
+        "Cornell Information Technologies"
+      ],
+      "people": [
+        "Eric Scheirer",
+        "J.S. Greenfield",
+        "Marjorie W. Hodges"
+      ],
+      "summary": "A discussion regarding the FBI investigation of a student at Cornell University and the university's subsequent decision to shut down access to the Usenet group alt.porn.best.erotica (a.p.b.e) on official servers. The exchange debates whether restricting an entire newsgroup is a justified response to illegal content or an overreach based on administrative ignorance of the forum.",
+      "title": "Re: The FBI takes a trip to Cornell...",
+      "topics": [
+        "Usenet censorship",
+        "academic freedom",
+        "computer abuse policy",
+        "law enforcement",
+        "child pornography laws"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 21 Nov 1992 08:20:02 GMT",
+      "from": "escheire@sunlab.cit.cornell.edu (Eric Scheirer)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<9211211820.AA14627@crocus.cit.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 6--Re: The FBI takes a trip to Cornell...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 18, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Students at SMSU were required to obtain a sponsor's signature for mainframe internet access.",
+        "University administration viewed MUCKing as an unserious use of computer resources.",
+        "Administrative responses to bandwidth congestion included threats to remove student internet access entirely."
+      ],
+      "organizations": [
+        "Southwest Missouri State University"
+      ],
+      "people": [
+        "Chris Meadows",
+        "Carl Kadie"
+      ],
+      "summary": "Chris Meadows reports restrictive internet policies at Southwest Missouri State University, including rumors of total student lockout and requirements for sponsor signatures to access the mainframe. He describes administrative efforts to force students off list servers and a general disapproval of MUCKing as a non-serious use of resources. The post highlights the tension between university resource management (e.g., bandwidth issues from large FTP transfers) and student academic freedom.",
+      "title": "Query: Can Universities limit network access &/or 'spy' on u",
+      "topics": [
+        "network access",
+        "academic freedom",
+        "internet censorship",
+        "resource management",
+        "MUCKing"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 18 Nov 92 07:36:37 GMT",
+      "from": "cmeadows@nyx.cs.du.edu (Chris Meadows)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<1992Nov18.073637.22768@mnemosyne.cs.du.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 7--Re: Query: Can Universities limit network access &/or 'spy` on u",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 18, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Internet access is compared to essential utilities like running water and electricity in an academic context."
+      ],
+      "organizations": [
+        "Southwest Missouri State University",
+        "Iowa State University Computation Center"
+      ],
+      "people": [
+        "John Hascall",
+        "Chris Meadows"
+      ],
+      "summary": "In response to a student's concern about restricted Internet access at Southwest Missouri State University, John Hascall suggests that students should treat network connectivity as a primary criterion for choosing a university. He argues that making Internet access a demand during the admissions process will force universities to recognize it as an essential utility.",
+      "title": "Article 8--Re: Query: Can Universities limit network access &/or 'spy` on u",
+      "topics": [
+        "network access",
+        "university policy",
+        "digital utilities",
+        "student rights"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 18 Nov 1992 18:04:32 GMT",
+      "from": "john@iastate.edu (John Hascall)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<BxxBJq.BpH@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 8--Re: Query: Can Universities limit network access &/or 'spy` on u",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Sat, 21 Nov 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Alternative student newspapers in the 1980s forced mainstream campus press to be more accountable.",
+        "Students could potentially create independent, subscription-based Unix boards to bypass restrictive university network policies."
+      ],
+      "organizations": [],
+      "people": [
+        "Aaron Barnhart",
+        "Carl M. Kadie",
+        "Chris Meadows"
+      ],
+      "summary": "Aaron Barnhart responds to a discussion about restrictive university computer policies by drawing a parallel to the alternative student press movement of the 1980s. He suggests that students facing miserly computing services might consider establishing independent Unix boards with news and mail capabilities via subscriptions.",
+      "title": "Article 9--Re: Query: Can Universities limit network access &/or 'spy` on u",
+      "topics": [
+        "network access",
+        "student activism",
+        "alternative infrastructure",
+        "university computing"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 21 Nov 1992 07:32:31 GMT",
+      "from": "barnhart@ddsw1.mcs.com (Mr. Aaron Barnhart)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<By22A8.HyA@ddsw1.mcs.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 9--Re: Query: Can Universities limit network access &/or 'spy` on u",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-11-16",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Revoking internet privileges may violate due process rights.",
+        "Expulsion from a communications medium is not a typical university sanction."
+      ],
+      "organizations": [
+        "University of Wisconsin - Eau Claire",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Charles J. Brenner"
+      ],
+      "summary": "Carl Kadie critiques a threat by the University of Wisconsin - Eau Claire to revoke a user's Internet privileges due to unwanted postings. Kadie argues that labeling network access as a 'privilege' does not exempt the university from providing due process. He expresses concern that expulsion from a communications medium is an atypical and potentially improper university sanction.",
+      "title": "Re: [alt.dreams] McElwaine's postings",
+      "topics": [
+        "due process",
+        "internet access",
+        "academic freedom",
+        "university sanctions"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 16 Nov 1992 16:11:14 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<1992Nov16.161114.15845@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 11--Re: [alt.dreams] McElwaine's postings (was Re: THE DIVINE MASTERS, and Dreams)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-11-16",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The author posits that system administrators will eventually require professional ethics codes similar to those of librarians.",
+        "ALA and ASIS codes provide frameworks for resisting censorship and protecting user privacy."
+      ],
+      "organizations": [
+        "American Library Association",
+        "American Society for Information Science",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie shares the ethics codes of the American Library Association and the American Society for Information Science. He suggests that as system administrators professionalize, they may need similar distinctions between public and private sector ethical frameworks.",
+      "title": "Public & Corporate Librarian Ethics Codes",
+      "topics": [
+        "professional ethics",
+        "system administration",
+        "information science",
+        "censorship",
+        "privacy"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 16 Nov 1992 18:59:43 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<1992Nov16.185943.18940@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n57",
+      "subject": "Article 12--Public & Corporate Librarian Ethics Codes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,571 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 12, 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "Public school officials may search students based on 'reasonable grounds' per Supreme Court decisions.",
+        "The draft Statement on Computers and Academic Freedom does not specifically address high school students.",
+        "University of Kentucky was developing a draft Student Access and Use Policy in early 1992."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Kentucky",
+        "ACLU"
+      ],
+      "people": [
+        "Fred Nixon",
+        "Carl M. Kadie",
+        "William W. Arnold",
+        "Elizabeth M. Reid",
+        "Paul Joslin",
+        "Adam C. Gross",
+        "Michael Hart"
+      ],
+      "summary": "This is a digest abstract summarizing various discussions on digital privacy and academic freedom. Key topics include the ethics of monitoring student LAN use in high schools, draft student access policies at the University of Kentucky, and the intersection of email privacy with academic cheating investigations.",
+      "title": "Abstract of CAF-News 02.17",
+      "topics": [
+        "email privacy",
+        "student monitoring",
+        "LAN privacy",
+        "academic cheating",
+        "library confidentiality",
+        "free speech"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "fnixon@sol.utc.edu (Fred Nixon)",
+      "item_count": 14,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 0 -- Abstract of CAF-News 02.17",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "There was a general consensus that Postmasters and System Administrators possess the technical ability to examine any email on their systems.",
+        "Students overwhelmingly opposed email monitoring, comparing it to the legal protections of first-class physical mail.",
+        "System administrators often justified monitoring as necessary for preventing illegal activity or system damage.",
+        "Some respondents predicted that public-key cryptography would eventually make the issue of postmaster access technically impossible."
+      ],
+      "organizations": [
+        "University of Melbourne",
+        "University of Mississippi"
+      ],
+      "people": [
+        "Simon Gregory"
+      ],
+      "summary": "A student at the University of Melbourne conducted a global survey via Usenet to gather opinions on email privacy and the ethics of postmaster monitoring. The results highlight a divide between students, who generally opposed monitoring, and system administrators, who often viewed it as a pragmatic necessity for security. The article discusses whether email should be legally treated like traditional mail and explores the potential for cryptography to render policy debates obsolete.",
+      "title": "ELECTRONIC MAIL ETHICS - Questionnaire Summary on EMAIL PRIVACY",
+      "topics": [
+        "email privacy",
+        "system administration",
+        "ethics",
+        "surveillance",
+        "cryptography"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 6 Apr 1992 06:02:39 GMT",
+      "from": "simong@mullian.ee.mu.OZ.AU (simon alexander gregory)",
+      "item_count": 14,
+      "item_index": 1,
+      "message_id": "<simong.702540159@munagin>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 1--EMAIL PRIVACY SUMMARY",
+      "to_or_newsgroups": "",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 25 Mar 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Broadcasting regulations do not apply to the internet.",
+        "The judicial basis for FCC content regulation is based on spectrum scarcity (Red Lion Broadcasting v. FCC) and pervasiveness (FCC v. Pacifica Foundation).",
+        "There is no court case or statute applying FCC restrictions on indecency to the Internet as of March 1992."
+      ],
+      "organizations": [
+        "EFF",
+        "FCC"
+      ],
+      "people": [
+        "Mike Godwin",
+        "Clyde Price"
+      ],
+      "summary": "Mike Godwin responds to an inquiry regarding the legality of using profanity on the internet. He argues that FCC broadcasting regulations do not apply to the net because the scarcity and pervasiveness arguments used for radio and TV are not applicable. He asserts that there is no statute or case law extending content restrictions on indecency to the Internet.",
+      "title": "Article 2--Re: Your police at work for you!",
+      "topics": [
+        "First Amendment",
+        "Internet Law",
+        "Content Regulation",
+        "Indecency"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 25 Mar 1992 19:53:14 GMT",
+      "from": "mnemonic@eff.org (Mike Godwin)",
+      "item_count": 14,
+      "item_index": 2,
+      "message_id": "<1992Mar25.195314.6998@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 2--Re: Your police at work for you!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "9 Apr 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The 'WATCH' function in LAN ASSIST allows users to monitor others without their knowledge.",
+        "Faculty members who are not network administrators were using surveillance tools on students."
+      ],
+      "organizations": [
+        "Indiana Academy for Science Mathematics and Humanities",
+        "Ball State University",
+        "EFF"
+      ],
+      "people": [
+        "Bryan Strawser"
+      ],
+      "summary": "Bryan Strawser reports that faculty members at the Indiana Academy for Science Mathematics and Humanities used 'LAN ASSIST' software to monitor students' computer screens, sometimes without their knowledge. The author contrasts this with Ball State University's VaxCluster, where monitoring typically notifies the user unless a security violation is suspected. The post seeks advice on the legality and ethics of such surveillance in an academic setting.",
+      "title": "Privacy on Novell Lans",
+      "topics": [
+        "privacy",
+        "surveillance",
+        "academic freedom",
+        "network monitoring",
+        "Novell NetWare"
+      ]
+    },
+    "identity": {
+      "date": "9 Apr 92 17:55:38 GMT",
+      "from": "00bestrawser@bsu-ucs.uucp (Bryan Strawser)",
+      "item_count": 14,
+      "item_index": 3,
+      "message_id": "<1992Apr9.125538.5968@bsu-ucs.uucp>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 3--Privacy on Novell Lans",
+      "to_or_newsgroups": "alt.privacy,comp.org.eff.talk,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 10, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Monitoring students for grading or instructional understanding is legitimate, while arbitrary monitoring of student activity is not.",
+        "System administrators should be viewed similarly to telephone repair personnel with a professional obligation to keep user data secret.",
+        "Targeted tracking of specific user text to determine thoughts on a topic is an unacceptable invasion of privacy."
+      ],
+      "organizations": [],
+      "people": [
+        "Harold Peach",
+        "Bryan Strawser"
+      ],
+      "summary": "Harold Peach discusses the ethics of monitoring users on Novell Local Area Networks (LANs). He distinguishes between legitimate pedagogical or technical monitoring and invasive surveillance. He argues that system administrators should have a professional obligation to maintain secrecy regarding information encountered during troubleshooting.",
+      "title": "Privacy on Novell Lans",
+      "topics": [
+        "privacy",
+        "network monitoring",
+        "academic freedom",
+        "system administration ethics"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 10 Apr 1992 21:00:23 GMT",
+      "from": "hgpeach@ms.uky.edu (Harold Peach)",
+      "item_count": 14,
+      "item_index": 4,
+      "message_id": "<1992Apr10.170023.7720@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 4--Re: Privacy on Novell Lans",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "11 Apr 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "UCLA computer science Mac lab officials monitored all email to prevent students from sharing code",
+        "Students were notified that mail was not private through an academic honesty statement"
+      ],
+      "organizations": [
+        "UCLA"
+      ],
+      "people": [],
+      "summary": "A user describes the monitoring of email within a UCLA computer science Mac lab to prevent cheating. The author notes that lab officials openly admit to reading all mail and that students were informed of this lack of privacy via an academic honesty statement.",
+      "title": "Privacy on Novell Lans",
+      "topics": [
+        "privacy",
+        "email monitoring",
+        "academic integrity",
+        "computer labs"
+      ]
+    },
+    "identity": {
+      "date": "11 Apr 92 19:17:28 GMT",
+      "from": "ygoland@edison.seas.ucla.edu (The Jester)",
+      "item_count": 14,
+      "item_index": 5,
+      "message_id": "<6682@lee.SEAS.UCLA.EDU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 5--Re: Privacy on Novell Lans",
+      "to_or_newsgroups": "alt.privacy,comp.org.eff.talk,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 11, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Personal files on university computers should have the same privacy protections as personal files in physical university-assigned spaces.",
+        "Private computer communications should be afforded the same protections as telephone communications."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "ACLU"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie provides legal references and a draft statement regarding privacy rights for users of academic computers. He draws parallels between physical searches in schools and the digital privacy of files and communications on university systems. The post promotes an unofficial draft 'Statement on Computers and Academic Freedom' intended to codify these protections.",
+      "title": "Privacy on Novell Lans",
+      "topics": [
+        "privacy",
+        "academic freedom",
+        "student rights",
+        "digital search and seizure"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 11 Apr 1992 00:06:27 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 14,
+      "item_index": 6,
+      "message_id": "<1992Apr11.000627.23277@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 6--Re: Privacy on Novell Lans",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 11, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Personal files in university home directories should have the same privacy protection as physical files in a student's desk.",
+        "Private computer communications should be treated with the same protections as telephone communications.",
+        "The draft CAF statement is intended as a document of moral rights rather than legal rights."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Julia Kogan"
+      ],
+      "summary": "Carl Kadie discusses a draft of the unofficial Statement on Computers and Academic Freedom (CAF). He argues that personal files and communications on university computers should receive privacy protections equivalent to physical office spaces and telephone calls. The exchange clarifies that while the draft focuses on university students' moral rights, its principles regarding communication privacy could be applied more broadly.",
+      "title": "Privacy on Novell Lans",
+      "topics": [
+        "privacy",
+        "academic freedom",
+        "university policy",
+        "digital communications"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 11 Apr 1992 15:45:21 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 14,
+      "item_index": 7,
+      "message_id": "<1992Apr11.154521.768@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 7--Re: Privacy on Novell Lans",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 9, 1992",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Student privacy is described as an essential aspect of academic freedom.",
+        "The ECC staff commits to not examining student files or data except during normal computing operations.",
+        "Computing access should be maintained, even in a restricted form, for students facing disciplinary action to ensure academic work can continue."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "Engineering Computing Center"
+      ],
+      "people": [
+        "Wes Morgan"
+      ],
+      "summary": "Wes Morgan shared a draft computing access and use policy for the University of Kentucky's Engineering Computing Center (ECC). The document outlines rules regarding userid sharing, resource quotas, and network usage, explicitly linking these rules to the university's Code of Student Conduct. It emphasizes student privacy as an essential aspect of academic freedom while prohibiting commercial use and recreational gaming.",
+      "title": "DRAFT Student Access/Use Policy",
+      "topics": [
+        "acceptable use policy",
+        "student privacy",
+        "academic freedom",
+        "computing ethics"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 9 Apr 1992 20:07:25 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 14,
+      "item_index": 8,
+      "message_id": "<1992Apr9.160725.7355@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 8--DRAFT Student Access/Use Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": true
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 11, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The draft policy prohibits the installation of 'recreational programs' without defining if this includes news, email, or IRC.",
+        "The draft requires all mailing lists with more than 10 members to be registered with staff.",
+        "The draft allows for temporary revocation of computing access before a student is found guilty of a violation by the Dean of Students."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "Engineering Computing Center"
+      ],
+      "people": [
+        "John Hascall",
+        "Wes Morgan"
+      ],
+      "summary": "John Hascall provides a critical critique of a draft 'Student Computing Access and Use Policy' proposed by Wes Morgan. Hascall challenges the policy's vague definitions of 'recreational' use, its restrictions on mailing lists, and the lack of due process regarding the revocation of system access.",
+      "title": "Article 9--Re: DRAFT Student Access/Use Policy",
+      "topics": [
+        "acceptable use policy",
+        "student rights",
+        "academic freedom",
+        "computing resource management",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 11 Apr 1992 15:00:09 GMT",
+      "from": "john@iastate.edu (John Hascall)",
+      "item_count": 14,
+      "item_index": 9,
+      "message_id": "<1992Apr11.150009.6432@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 9--Re: DRAFT Student Access/Use Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-04-10",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Computer evidence can be used to frame students if accounts are compromised by third parties.",
+        "Honor Council members may lack the technical expertise to properly evaluate computer-based evidence.",
+        "Providing forensic evidence from backup tapes imposes a significant time burden on network officials."
+      ],
+      "organizations": [],
+      "people": [
+        "Prentiss Riddle"
+      ],
+      "summary": "Prentiss Riddle discusses a university Honor Council case where students were accused of collusion based on network backup tapes and email logs. The author highlights the risks of digital frame-ups, the difficulty of non-technical judges interpreting computer evidence, and the burden placed on system administrators to provide forensic data.",
+      "title": "Article 10--Risks of academic cheating by computer",
+      "topics": [
+        "academic integrity",
+        "digital forensics",
+        "honor codes",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "riddle@hounix.org (Prentiss Riddle)",
+      "item_count": 14,
+      "item_index": 10,
+      "message_id": "<b.199204101431.AA12742@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 10--Risks of academic cheating by computer",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "10 Apr 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Libraries generally do not keep records or logs of the specific materials patrons check out once returned.",
+        "Library systems typically protect patron privacy by refusing to disclose titles of checked-out items to third parties."
+      ],
+      "organizations": [
+        "Iowa State University"
+      ],
+      "people": [
+        "Michael Hart",
+        "Carl M. Kadie"
+      ],
+      "summary": "Michael Hart contributes to a discussion regarding Usenet censorship by comparing digital access and privacy to traditional library practices. He argues that libraries historically protect patron privacy by not maintaining logs of specific materials accessed. This serves as a counter-argument or analogy for the expected privacy of users accessing information via computer networks.",
+      "title": "Re: USENET Censorship at Iowa State University",
+      "topics": [
+        "Usenet censorship",
+        "privacy",
+        "library science",
+        "information access"
+      ]
+    },
+    "identity": {
+      "date": "10 Apr 92 10:51:14 GMT",
+      "from": "mhart@blackjack.dt.navy.mil (Michael Hart)",
+      "item_count": 14,
+      "item_index": 11,
+      "message_id": "<mhart.702903074@blackjack>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 11--Re: USENET Censorship at Iowa State University",
+      "to_or_newsgroups": "comp.society",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Apr 10, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Counter-demonstrations intended to 'drown out' speeches are viewed by some as hypocritical attempts to deprive others of free speech rights."
+      ],
+      "organizations": [
+        "University of Cincinnati",
+        "The Ohio State University College of Medicine",
+        "Queer Nation"
+      ],
+      "people": [
+        "Paul A Prior",
+        "Paul Marchant",
+        "William December Starr",
+        "Robb Schecter"
+      ],
+      "summary": "A discussion among users regarding a planned counter-demonstration against the KKK at the University of Cincinnati. The participants debate whether 'confrontational' tactics and shouting down speakers constitute an exercise of free speech or an attempt to deprive others of their First Amendment rights.",
+      "title": "Article 12--Re: Help stop the KKK",
+      "topics": [
+        "freedom of speech",
+        "First Amendment",
+        "counter-demonstration",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 10 Apr 1992 18:48:52 GMT",
+      "from": "pprior@magnus.acs.ohio-state.edu (Paul A Prior)",
+      "item_count": 14,
+      "item_index": 12,
+      "message_id": "<1992Apr10.184852.26771@magnus.acs.ohio-state.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 12--Re: Help stop the KKK",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "April 12, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Proposed legislation would define trafficking in pornography as sex discrimination, a civil offense subject to triple damages.",
+        "Opponents claim the provision is a 'stealth' measure that requires no proof of harm."
+      ],
+      "organizations": [
+        "Boston Globe",
+        "Feminist Anti-Censorship Task Force"
+      ],
+      "people": [
+        "Lawrence C Foard",
+        "Thomas C. Palmer, Jr.",
+        "Nan C. Hunter",
+        "William December Starr"
+      ],
+      "summary": "A discussion regarding a proposed Massachusetts bill that would define the production and distribution of pornography as sex discrimination. The post highlights concerns from the Feminist Anti-Censorship Task Force about the lack of proof of harm required for complaints. The author expresses concern that such legislation could threaten the survival of Usenet.",
+      "title": "Article 13--frightening law",
+      "topics": [
+        "censorship",
+        "pornography laws",
+        "sex discrimination",
+        "Usenet",
+        "free expression"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 12 Apr 1992 05:57:44 GMT",
+      "from": "entropy@yaya (Lawrence C Foard)",
+      "item_count": 14,
+      "item_index": 13,
+      "message_id": "<1992Apr12.055744.3899@wpi.WPI.EDU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n17",
+      "subject": "Article 13--frightening law",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

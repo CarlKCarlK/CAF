@@ -1,0 +1,545 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 26, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Academic computer policies should be consistent with general university codes and the Joint Statement on Rights and Freedoms of Students.",
+        "Personal files in home directories deserve the same privacy protections as physical files in a university-assigned office or desk.",
+        "The principles of intellectual freedom used by libraries, such as the Library Bill of Rights, should apply to information materials on computers."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl M. Kadie presents a draft statement intended to codify the application of academic freedom principles to university computer systems. The document organizes these as 'principles' (axioms) and 'interpretations' (theorems), drawing heavily from existing library standards and student rights statements. It specifically addresses due process for account suspension, privacy of home directories, and the protection of electronic publications from censorship.",
+      "title": "Draft Statement on Computers and Academic Freedom (CAF)",
+      "topics": [
+        "academic freedom",
+        "computer policy",
+        "digital privacy",
+        "censorship",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 26 Oct 1991 21:07:22 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "<1991Oct26.210722.29271@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Draft Statement on Computers and Academic Freedom (CAF)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Oct 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Waterloo banned rec.humor.funny in December 1988 due to pressure from an MIT graduate student.",
+        "A university committee reported in May 1991 that administrations should not make non-financial decisions about what people can read on campus.",
+        "Dr. John McCarthy previously helped reverse a similar newsgroup ban at Stanford."
+      ],
+      "organizations": [
+        "University of Waterloo",
+        "Stanford AI Lab"
+      ],
+      "people": [
+        "Jonathan Richmond",
+        "Douglas Wright",
+        "J. Alan George",
+        "John McCarthy",
+        "Johnny Wong",
+        "Carl Kadie"
+      ],
+      "summary": "The University of Waterloo lifted a long-standing ban on several Usenet newsgroups, including rec.humor.funny and alt.sex, which had been implemented in 1988. The reversal followed the recommendations of a university committee that concluded administrations should not make non-financial decisions regarding content access. The process was influenced by student efforts and an invited talk by Dr. John McCarthy.",
+      "title": "Waterloo ban on rec.humor.funny finally lifted",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "3 Oct 91 06:03:46 GMT",
+      "from": "funnyr@looking.on.ca (Funny Guy)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<1991Oct03.060346.5082@looking.on.ca>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Waterloo ban on rec.humor.funny finally lifted",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "17 Oct 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "WWU banned specific newsgroups after media coverage of pornographic files at other universities",
+        "WWU administration required a professor's request to reinstate the groups, despite not requiring such requests for other newsgroups"
+      ],
+      "organizations": [
+        "Western Washington University",
+        "University of Washington",
+        "Central Washington University",
+        "Seattle PI"
+      ],
+      "people": [
+        "Jeff Wandling"
+      ],
+      "summary": "Jeff Wandling reports the removal of alt.sex and alt.binary.pictures.erotica newsgroups from Western Washington University's USENET database. The action followed media reports regarding pornographic files at the University of Washington and a demotion at Central Washington University. While UofW declined to ban such material, WWU's Vice Provost for information and communication classified it as 'junk mail' to justify the ban.",
+      "title": "alt.sex",
+      "topics": [
+        "censorship",
+        "USENET",
+        "academic freedom",
+        "internet policy"
+      ]
+    },
+    "identity": {
+      "date": "17 Oct 91 18:11:38 GMT",
+      "from": "jeff@henson.cc.wwu.edu (Jeff Wandling)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1991Oct17.181138.9478@henson.cc.wwu.edu>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "alt.sex",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 13, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The conflict between users and sysadmins often arises from differing perceptions of system robustness versus fragility.",
+        "University charges against Brack lacked specific pairings of alleged actions with the rules violated.",
+        "Posting 'fuck you' to alt.flame is protected speech and not obscene."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "Academic Computing Services (ACS)",
+        "EFF",
+        "SUNY Stony Brook"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Steven Brack",
+        "Sanjay Kapur",
+        "William Murray"
+      ],
+      "summary": "Carl Kadie critiques the disciplinary charges brought by Ohio State University's Academic Computing Services (ACS) against student Steven Brack. Kadie argues that the conflict stems from a communication breakdown between system administrators and users, where accidental technical errors were interpreted as malice. He highlights issues regarding due process, freedom of expression on newsgroups, and the lack of clear rules pairing alleged actions with specific violations.",
+      "title": "Re: The rules that Ohio State U. alleges that Steven Brack violated",
+      "topics": [
+        "due process",
+        "system administration",
+        "academic freedom",
+        "computer abuse",
+        "user policy"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 13 Oct 1991 15:06:13 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1991Oct13.150613.14818@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Re: The rules that Ohio State U. alleges that Steven Brack violated",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "26 Oct 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "University computing policies should be consistent with the institution's general search and seizure procedures for students.",
+        "Suspending computing privileges during an investigation may violate the principle of 'innocent until found guilty'.",
+        "Faculty and student digital files should have privacy protections equivalent to physical files in university-assigned offices or dormitories."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "UCLA",
+        "SEASnet"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl M. Kadie critiques the computing use policies of UCLA's SEASnet, arguing that they lack clarity regarding noncommercial personal use and conflict with broader university standards for student privacy. He advocates for aligning system administrator search powers and account suspensions with established academic freedom protections and due process. The post emphasizes that computer files should receive the same privacy protections as physical possessions in university spaces.",
+      "title": "Re: Ucla's Use Policies",
+      "topics": [
+        "acceptable use policies",
+        "digital privacy",
+        "due process",
+        "academic freedom",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "26 Oct 91 07:28:43 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<199110261528.AA24204@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "[eff.mail.ethics-l]  Re: Ucla's Use Policies",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Tue, 22 Oct 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "University newsgroup facilities may be classified as 'limited public forums' under the Public-Forum Doctrine.",
+        "Content-based prohibitions in limited public forums must be narrowly drawn to effectuate a compelling state interest."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Mr. Grau"
+      ],
+      "summary": "Carl Kadie challenges a university administrator's decision to punish a student for posting content deemed inappropriate or pornographic. Kadie argues that the university newsgroup facility constitutes a 'limited public forum' and that censoring such speech violates both campus codes of conduct and First Amendment rights.",
+      "title": "Re: yahweh is good posting",
+      "topics": [
+        "censorship",
+        "First Amendment",
+        "limited public forum",
+        "sexual harassment policies",
+        "university resources"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 22 Oct 1991 21:12:59 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1991Oct22.211259.5178@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Re: yahweh is good posting",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "31 Oct 91",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Unmoderated newsgroups at universities function as free-speech forums.",
+        "Selective enforcement of newsgroup charters may be prohibited under the San Diego Committee v. Governing Bd precedent.",
+        "Newsgroup charters are social contracts enforced by social pressure rather than government policing."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Mark Eckenwiler",
+        "Gene Spafford"
+      ],
+      "summary": "Carl Kadie argues that unmoderated Usenet newsgroups hosted by universities should be treated as free-speech forums. He contends that newsgroup charters are social contracts rather than legally enforceable boundaries, and that selective enforcement of such charters by state universities would likely violate legal precedents.",
+      "title": "Re: yahweh is good posting",
+      "topics": [
+        "Usenet",
+        "free speech",
+        "academic freedom",
+        "newsgroup charters",
+        "moderation"
+      ]
+    },
+    "identity": {
+      "date": "31 Oct 91 16:14:05 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<kadie.688925645@herodotus.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Re: yahweh is good posting",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Tue, 29 Oct 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators may enforce viewpoint discrimination if it is codified in a newsgroup charter.",
+        "The administrator believes free speech does not require users to tolerate harassment within specific group contexts."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "An anonymous system administrator responds to queries regarding the enforcement of Usenet newsgroup charters. The admin asserts that they would enforce charter rules—including those involving viewpoint or sexual discrimination—if notified of violations, provided the group was approved by Usenet rules. The discussion highlights the tension between free speech and the prevention of harassment in early networked academic environments.",
+      "title": "Re: off-topic notes (was yahweh is good posting)",
+      "topics": [
+        "Usenet",
+        "system administration",
+        "academic freedom",
+        "content moderation",
+        "newsgroup charters"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 29 Oct 1991 15:05:56 GMT",
+      "from": "kadie@eff.org (Anonymous)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1991Oct29.150556.5266@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Re: off-topic notes (was yahweh is good posting)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 24 Oct 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Off-topic posts that can be filtered by kill files likely do not meet the threshold for 'substantial interference with the rights of others'.",
+        "University disciplinary rules against disruptive action may be applied to digital behavior if it impedes university operations."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Aydin Edguer"
+      ],
+      "summary": "Carl Kadie discusses the application of University of Illinois rules regarding 'disruptive or coercive action' to network behavior. He argues that off-topic posts do not constitute substantial interference with others' rights if they can be managed via kill files. The post includes a detailed excerpt of university disciplinary codes used to define disruptive conduct.",
+      "title": "Re: off-topic notes (was yahweh is good posting)",
+      "topics": [
+        "network censorship",
+        "university policy",
+        "disruptive conduct",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 24 Oct 1991 01:46:33 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<1991Oct24.014633.28623@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Re: off-topic notes (was yahweh is good posting)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 18, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Computation centers may use library policies as a basis for newsgroup access policies to prevent complaints."
+      ],
+      "organizations": [
+        "Iowa State University Computation Center",
+        "University of Washington",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "John Hascall",
+        "Thomas Dowling",
+        "Carl M. Kadie"
+      ],
+      "summary": "John Hascall discusses the intersection of library collection policies and Usenet newsgroup access at universities. He argues that computation centers should adopt established library policies to justify their content management decisions to complainants.",
+      "title": "Re: USENET censorship strikes University of Washington!",
+      "topics": [
+        "Usenet",
+        "censorship",
+        "library policy",
+        "academic freedom",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 18 Oct 1991 02:53:06 GMT",
+      "from": "john@iastate.edu (John Hascall)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<1991Oct18.025306.11694@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Re: USENET censorship strikes University of Washington!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 2, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Anonymous FTP archives function as a new type of library.",
+        "The NSF should adopt policies based on long-standing library and academic experience to embrace free expression."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "National Science Foundation",
+        "American Library Association"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie argues that anonymous FTP archives should be treated as a new type of library and governed by established academic and library principles. He advocates for the National Science Foundation (NSF) to adopt policies based on the Library Bill of Rights to protect free expression and renounce content restrictions. The post specifically addresses the removal of controversial materials from university servers due to pressure or perceived NSF rules.",
+      "title": "Re: Acceptable Use Policies",
+      "topics": [
+        "Acceptable Use Policies",
+        "censorship",
+        "FTP archives",
+        "intellectual freedom",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 2 Oct 1991 22:55:12 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1991Oct2.225512.3857@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Re: Acceptable Use Policies (Was Re: Bill's... )",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-11-01",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Judge Leisure ruled CompuServe lacks editorial control over its publications",
+        "Pre-screening content (as done by Prodigy) may increase a provider's legal liability for defamatory messages"
+      ],
+      "organizations": [
+        "CompuServe",
+        "Prodigy",
+        "International Business Machines Corp.",
+        "Sears, Roebuck & Co.",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "This item shares excerpts from a news story regarding a court ruling that CompuServe is not liable for defamatory content on its network. The ruling compares the service provider to a public library or bookstore rather than an editor. It notes that services like Prodigy, which pre-screened content, might face different legal standards.",
+      "title": "CompuServe Isn't Liable for Contents of its Network",
+      "topics": [
+        "intermediary liability",
+        "free speech",
+        "electronic networks",
+        "defamation"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 1 Nov 1991 19:52:46 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1991Nov1.195246.13037@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "CompuServe Isn't Liable for Contents of its Network",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "9 Oct 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators in K-12 environments should balance content control with the educational value of Internet services.",
+        "Supervision of youth on the net should be the responsibility of parents and instructors rather than the network provider."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Joe Abernathy"
+      ],
+      "summary": "The author argues against broad censorship of Usenet newsgroups in K-12 educational environments, suggesting that instructors and parents should provide supervision rather than system administrators blocking content. The post emphasizes that denying access to the Internet's resources would harm students' educational benefits. It also notes that 'alt' groups were not carried by all sites at the time.",
+      "title": "Re: So what is the answer?",
+      "topics": [
+        "K-12 education",
+        "Internet censorship",
+        "Usenet",
+        "academic freedom",
+        "parental supervision"
+      ]
+    },
+    "identity": {
+      "date": "9 Oct 91 03:13:54 GMT",
+      "from": "halcyon!ralphs@sumax.seattleu.edu",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<VH6i02w164w@halcyon.com>",
+      "source_kind": "news",
+      "source_path": "news/october_1991",
+      "subject": "Re: So what is the answer?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,569 @@
+<HEAD>
+<TITLE> Computers and Academic Freedom News</TITLE>
+<BODY>
+<h1>
+<img src="http://www.eff.org/CAF/cafnews.gif">
+</A> <b>Computers and Academic Freedom News</b></h1> <p>
+
+<A NAME="21tkf8$4cd@access1.speedway.net">  Re: [comp.org.eff.talk]  Re: Student suspended : : Case 2 memoranda</a>
+
+<pre>
+Newsgroups: alt.comp.acad-freedom.talk,comp.org.eff.talk
+Subject:  Re: [comp.org.eff.talk]  Re: Student suspended : : Case 2 memoranda
+Date: 13 Jul 1993 01:24:40 -0500
+Message-ID: <21tkf8$4cd@access1.speedway.net>
+In article <1993Jul11.203418.22529@news.cs.indiana.edu> alyoung@kiwi.ucs.indiana.edu (amy lynn young-leith) writes:
+>In article <1993Jul5.150228.23719@nntpxfer.psi.com> Chris@csbh.com writes:
+>
+>Before I comment, might I ask that you trim your posts to <80
+>characters? 
+
+Yes, Chris, please do!
+
+>
+>Hogwash.  I would define "common sense" in relation to file access as
+>that a file is "ok" to access if you do so accordingly to it's
+>system/user set protections.  Which means that if a file is world
+>read, then anyone who can log onto that system has the "right" to read
+>it.  Hacking into protected files, however, is not a "right."  
+>
+>Protections are there for a REASON.  If a user/system doesn't want a
+>file to be accessed, you set the protection for owner only.  If you do
+>so otherwise, it is an invite to others to use/manipulate it as the
+>protections allow, barring any specific systemwide policy that is
+>cleary stated every time you log on.  
+
+Well, Amy, some users don't know that their files are world-readable.
+There is a policy for this:  "users shall not obtain copies of other
+users' files"
+
+However, I am claiming the file I accessed ("/etc/passwd") is NOT a
+user file, but rather a system file (which Chris agrees with me).
+But, UH claims that "root" is another user and that the above policy
+holds, and that I violated it.  Though, if I printed the /etc/motd
+file, I have a feeling they wouldn't have even flinched.  Sad, eh?
+
+>
+>>In this case, the person doesn't claim ignorance and the difference is one of
+>>policy.  According to what they told him, the 'acceptable use' is to access ONLY
+>>files that are 'his.'  If this policy is not written, explained or burned into
+>>the computer screen, then it is not reasonable.  Curiosity is natural.  It is not
+>>presumed that you can't access 'anything outside of your files.'
+>
+>How, exactly, was this policy set forth, and how were the users
+>informed of this? 
+>
+
+UH Support Services (specifically, Tom Monroe) claims that he
+authorized me to get only "my files" for a two-hour period.
+He said that he would turn my computer account on for two hours, and I
+was under the impression that I had general access & authorization
+(under the UH computing guidelines & policies), like everyone else.
+I had planned on getting a print out of MENUDO users for two weeks
+prior to this, and since they were kicking me off the system (with no
+possible general unix access in the future), I printed the user list.
+
+The "policy set forth" was verbal and there
+was no strict, limited access or authorization given or conveyed by Mr.
+Monroe.   It is simply a made up story to cover their asses -- to cover
+their ignorance, because the original concern was that the printout of 
+the "/etc/passwd" file had encrypted passwords, which it did not.
+
+The original charge was that I "printed out the password file"
+which is not true, because it is not a "password" file -- it is a user
+list!  Also, the "SUBJ:" field in the referral to the Dean of Students
+says "Security report concerning Mr. Henderson's violations on 4-22-93
+against the computer use policies."  You tell me...
+
+>amy
+>-- 
+
+Now, Amy, you are right in saying that ACCESS = AUTHORIZATION, if and
+only if there are no policies AGAINST printing particular file(s).
+
+ACCESS + NON-PROHIBITION = AUTHORIZATION
+
+In my case -- at UH -- there is only that policy saying "To respect the
+privacy of other users; for example, users shall not intentionally seek
+or reveal information on, obtain copies of, or modify files, tapes, or
+passwords belonging to other users, or misrepresent others, unless
+explicitly authorized to do so by those users."
+
+People 'cat' and 'grep' the "/etc/passwd" file ALL THE TIME, and it is
+NOT a disrespect to the privacy of the user "root".  
+
+------------------------------
+
+I have received my "appeal hearing" decision from Dean Munson.
+It's bad.  Real bad.
+First, he fails to point out which computer policy is in violation.
+And second, I doubt he did an investigation.  He doesn't know jack
+about unix, and I'm suffering due to his (and others') ignorances.
+
+There are so many traces of selective enforcement, prejudice, and
+improper due process, that if I am able to finance a lawsuit, they'll
+definitely lose.
+
+For the very little of what I've actually done on their systems, the
+punishments they've given are WAY uncalled for.  They think I'll be
+another student who stands aside and takes the punishment -- but
+they've got another thing coming.  I'll squash their asses in court.
+
+And for the "educational mission" of the Dean of Students at UH:
+
+						It's bullshit.
+
+
+-- 
+James Henderson on Speedway Free Access -- (10288)-1-503-520-2222
+djkc@speedway.net
+</pre>
+<A NAME="21r6r9$s2a@uniwa.uwa.edu.au">  FREEDOM OF EXPRESSION ON INTERNET - SOME PEOPLE DON'T LIKE IT</a><pre>
+Newsgroups: aus.flame,aus.aarnet,alt.comp.acad-freedom.talk,soc.culture.soviet
+Subject:  FREEDOM OF EXPRESSION ON INTERNET - SOME PEOPLE DON'T LIKE IT
+Date: 12 Jul 1993 08:19:53 GMT
+Message-ID: <21r6r9$s2a@uniwa.uwa.edu.au>
+
+[The following unpublished letter was sent to the "Australian" newspaper
+on July 9. It is about the issue of freedom of expression on the Internet
+network in Australia. It appears that conservative academics who hold
+the strings would rather not see us children having some fun. They don't
+like it when people call each other names and they would rather put an end to
+it. Hold your wrists out, boys and girls, the grumpies want to teach you
+a lesson and take away your net access if you've been naughty. ]
+
+
+
+==============================================================================
+
+
+RE: Electronic mail / Internet  inquiry at UNSW 
+
+
+Dear Editor,
+
+According to an article by Fiona Harari (Weekend Australian, June 26-27), "the 
+University of NSW has launched an investigation into the implications of 
+electronic mail following a spate of claims of sexual, racial and defamatory 
+abuse during the last six months".
+
+The concern, according to the convenor, Professor Hiller (head of the 
+Department of Computer Science), is that since "messages are regularly sent to 
+lists of people, it increases the possibility that some comments - by being 
+sent in written form to large numbers of people - will be construed as 
+defamatory".
+
+There is no doubt his observation is true, of course, since more people of 
+sensitive dispositions are being reached. His concern, unfortunately, is 
+disturbing in the way it extends beyond that of a disinterested party.
+
+Professor Hiller notes further that "publishing normally has some sort of 
+checks on it. But there are no checks on this".
+
+Drawing analogies between publishing on paper and mailing to a list is bound 
+to give implausible results: there is a world of difference between the 
+two. Moreover, his view that checks are necessary on computer network users 
+shows that he has misapprehended the way the free computer network can, and 
+has been, successfully running itself.
+
+Writing to a list is not equivalent to publishing because every user can write 
+to a list with great ease. There is no analogy with newspaper column space 
+constraints, for instance, that could empower one individual over another. One 
+simply learns to reply in a suitable way, at any length one wants, in the 
+appropriate public forum. 
+
+The inanity of abusive interchange is nowhere better understood than on the 
+computer network. Private information on the network carries no weight: it is 
+as ephemeral and insignificant as it is free to disseminate. Even when the 
+user inadvertently admits the truth of accusations, their admission is itself 
+hard to believe.
+
+Writing that "so and so is a liar and a cheat" is actually uninteresting and 
+only gains significance if a user chooses to call in outside authorities who 
+more often than not do not understand the ephemeral nature of the network.
+
+The medium offers unprecedented opportunity to exercise one's intelligence and 
+democratic choice in a public forum. The option to ignore abuse is available 
+to every user at the press of a button.  
+
+Using a killfile, it is easy to organize oneself so that various kinds of 
+messages are deleted automatically. One need never know of messages from a 
+particular user, group of users, organization, even country. 
+
+If one is afraid of reading particular words, one need never know of messages 
+containing them. They can even be returned to the sender automatically.
+
+Of course, it is a lot harder to prevent others from speaking ill of oneself, 
+from thinking whatever they might.  But this does not stop people from wishing 
+they could and trying to force their conceited and bloody-minded Utopian 
+vision on others.
+
+Dr. Olsberg, a member of the working party, is in no doubt as to the inquiry's 
+aims: "to make people behave more considerately and responsibly towards 
+colleagues".
+
+Haven't we heard this line often enough in recent years? What is it about 
+Australian bureaucracy and academia that produces these authoritarian yearnings?
+Have things become so comfortable that truly open debate is now considered 
+unnecessary in Australia?
+
+The value of a free computer network has been proven elsewhere. During the 
+putsch in the Soviet Union in August 1991, while other media faced crack-downs 
+at the hands of pro-Communist authorities, the sheer insidiousness of the 
+computer network ensured continued free dissemination of information between 
+dozens of cities in the ex-Soviet Union as well as with the outside world.
+
+The extent of its success can be measured by the fact that after Yeltsin had 
+proclaimed his decrees, they were available only hours later even in Perth. 
+
+In prudish Australia, the computer network community is  faced with another 
+kind of authoritarian backlash, instigated by dim-witted bureaucratic types 
+with the help of sociologists. 
+
+Instead of intelligence and democratic choice, they prefer a culture where 
+dobbing in, even on dubious grounds, is handsomely rewarded.
+
+There is no reason why laws of defamation, harrassment or discrimination should 
+be extended to the electronic medium. Although the world is at their 
+fingertips, the individual has no power because everybody on the network has 
+equal right of access (apart from organization managers).
+
+There is no reason why using other peoples' log-on accounts to send abuse 
+should lend substance to the abusive message. The question of blame or legal 
+liability should not even arise, unless the misuse has serious consequences 
+for the organization's computer facility, a point which is already a standard 
+question of propriety.
+
+Hiller, Olsberg and their ilk want to give power to those in whose hands it 
+will be misused, while at the same time they piously pretend to be doing good. 
+
+The new medium of the electronic computer network is the freest mode of 
+communication. There is no reason why it should not stay that way.
+
+
+
+Yours faithfully,
+
+
+
+
+John Wojdylo
+Mt. Pleasant, Western Australia
+wojdylo@maths.uwa.oz.au
+
+
+
+=============================================================================
+
+
+
+If you would care to express your view on the matter, write snailmail to:
+
+
+		Professor J. Hiller
+		Dept. of Computer Science
+		The University of New South Wales
+		PO Box 1
+		Kensington, NSW 2033
+		Australia
+
+
+
+An email address will be forthcoming shortly.
+
+
+
+
+</pre>
+<A NAME="JMC.93Jul12120923@SAIL.Stanford.EDU">  Re: FREEDOM OF EXPRESSION ON INTERNET - SOME PEOPLE DON'T LIKE IT</a><pre>
+Newsgroups: rec.arts.books,aus.general,news.admin.policy,aus.politics
+From: jmc@SAIL.Stanford.EDU (John McCarthy)
+Subject:  Re: FREEDOM OF EXPRESSION ON INTERNET - SOME PEOPLE DON'T LIKE IT
+Message-ID: <JMC.93Jul12120923@SAIL.Stanford.EDU>
+Date: 12 Jul 1993 19:09:23 GMT
+The following seems relevant to the Australian controversy.
+
+Attempt at Censorship of Electronic Libraries at Stanford University
+
+by John McCarthy, Professor of Computer Science, Stanford University
+
+
+Here is the sequence of events in the rhf flap at Stanford.
+
+1. Brad Templeton, who operates Looking Glass Software in Waterloo,
+Ontario, Canada, finds the unmoderated Usenet newsgroup rec.humor too
+raunchy and establishes a competing moderated rec.humor.funny, abbreviated
+rhf.  This was probably in 1988.  His policy is to encrypt ethnic
+jokes and jokes about sex so that any reader who finds such
+jokes offensive need not decrypt them.  In an unmoderated newsgroup,
+all submissions are automatically submitted.  Moderated groups
+have editors who select what is included.
+
+2. A civil engineering graduate student Jonathan Richmond at M.I.T. in
+late 1988 finds a joke in rhf racist and attacks Templeton.  The joke
+was:
+
+     "A Jew and a Scotsman have dinner.  At the end of the dinner
+     the Scotsman is heard to say, 'I'll pay.' The newspaper headline
+     next morning says, 'Jewish ventriloquist found dead in
+     alley.' "
+
+(Templeton later remarked that this was a joke he would have
+encrypted, but he forgot.)
+
+3. Richmond gets no satisfaction or sympathy from Templeton, from
+Usenet people or from his fellow Jews.  Israelis say, "What kind of a
+Jew are you to get excited about that?"  Scots don't object either.
+
+4. A newspaper columnist in Waterloo, where Templeton lives, succeeds
+in raising a flap at the University of Waterloo.  Politicians
+get in the act, attacking racism.  The University President
+bans rhf and bans its distribution via University computer system.
+
+5. Compromise in Waterloo. University gets only G-rated jokes, and
+Templeton finds another Usenet distribution point.
+
+6. June Genis mentions the flap to John Sack of Stanford Data Center
+in December 1988 or January 1989.
+
+7. Stanford Administration secretly gurgles for two months, when
+Vice-President for Information Resources Robert Street makes two
+underlings ban the file and take responsibility.  The President
+of the University is involved in the censorship decision, because
+the matter was taken up in a University administrative group.
+
+8. I hear about it from a graduate student whose advice was solicited
+about how to delete exactly one newsgroup and organize an email
+petition.  It gets about 100 electronic signatures including June
+Genis, who had mentioned the matter in the first place.  The Computer
+Science Department faculty unanimously opposes the ban at Academic
+Information Resources and the Stanford Data Center and continues rhf
+on Deparmental computers.  The computer science students also vote to
+oppose it.
+
+9.  Bay Area newspapers write stories and a few editorials
+unsympathetic to the ban even though some of the initial stories
+babble about 3,000 racist jokes.
+
+     Remark: This is in contrast to Canada.  I think that lack of
+     a formal Bill of Rights there makes officials less inhibited
+     about banning forms of expression.  American officials are
+     inhibited by the tradition of the First Amendment, even when
+     they are not legally bound by it.  American newspapers are
+     also more inclined to be absolutist about freedom of
+     expression.
+
+10. President Donald Kennedy of Stanford refers issue to Academic Senate.
+
+11. The Academic Senate Steering Committee asks its Committee on Libraries
+for a recommendation.
+
+12. The Committee on Libraries says that electronic media shouldn't be
+treated differently from print media, and the policy is universality
+tempered only by cost.  Here is their statement.
+
+	Office Memo, Stanford University Libraries
+	date: April 12, 1989
+	To: The Steering Committee of the Academic Senate  via Arthur Coladarci
+	From: Joan Krasner, Secretary, C-Lib
+
+     The following is an excerpt from the minutes of the April
+     10th meeting of C-Lib which considered the matter of
+     computer bulletin boards on campus.  The Preamble to the
+     Statement on Academic Freedom (1974) states that
+     ``Expression of the widest range of viewpoints should be
+     encouraged, free from institutional orthodoxy and from
+     internal or external coercion.''  It is the view of the
+     Academic Council Committee on Libraries that this statement
+     pertains to materials received on computer bulletin boards
+     on campus.  Acquisition and access to information in new
+     forms should be subject only to financial limits and other
+     standard criteria of collection such as the useful life of
+     the materials, storage capacity, etc.  - approved by
+     Academic Council Commmittee on Libraries, April 10, 1989.
+     XC: Gerald Gillespie [chairman of C-Lib]
+
+13. The Steering Committee of the Senate asks Street if he wants to
+back down or have the issue debated in the Senate.
+
+14. Street and Kennedy back down and restore rhf with grumpy remarks
+about the Committee on Libraries not considering all the issues
+and expressing abhorrence of racism.
+
+15. No further flap on this issue at Stanford up to 1993 June.
+
+16. Further flaps occurred in 1990 about the alt hierarchy of Usenet
+newsgroups at the University of Waterloo and in Norway.
+
+17. By 1991 the situation at Waterloo had been resolved so as
+to subscribe to all newsgroups.  I don't know about Norway.
+
+
+--
+John McCarthy, Computer Science Department, Stanford, CA 94305
+*
+He who refuses to do arithmetic is doomed to talk nonsense.
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>
+<A NAME="1993Jul13.053140.20294@eecs.nwu.edu">  Re: FREEDOM OF EXPRESSION ON INTERNET (*example*)</a><pre>
+Newsgroups: rec.arts.books,news.admin.policy
+From: kat@hook.eecs.nwu.edu (Katerina Nickolopoulos)
+Subject:  Re: FREEDOM OF EXPRESSION ON INTERNET (*example*)
+Message-ID: <1993Jul13.053140.20294@eecs.nwu.edu>
+Date: Tue, 13 Jul 1993 05:31:40 GMT
+In article <1993Jul12.215207.18006@waikato.ac.nz> 16blue@waikato.ac.nz writes:
+[tidbits about NZ "60 minutes," etc deleted]
+
+>What I'm interested to know are the following:
+>- Have such cases occurred in other countries?
+>- If so - What has happened as a result? 
+>	- pleb retort
+
+
+This thread is scarily coming close to describing what has been happening
+this past week with our listserv list/newsgroup "bit.listserv.hellas",
+which is a discussion list, in Greek, of all Greek interests: politics,
+sports, music, poetry, etc.  To those of us actively involved/subscribed,
+it has become more of a family than anything, being as we hold semi-annual
+get-togethers, local parties, and what-have-you.  The majority of the
+"members" of the list know each other personally, and if you can believe
+it, the five-year history of the "List" (as we call it) has even seen a 
+marriage and another engagement, too!  It is a godsend for those of us
+(like me) who have little other interaction with our fellow Greeks, and even
+more so for the students actually from Greece, here for graduate study.
+
+The past month one of our main topics of conversation, per se, was 
+over the moderation, restrictions, and general lack of privacy on a 
+machine at the Democritus National Research Center in Athens.  The 
+system administrator, Dr. Vassilis Georgiou, went so far as to close,
+without warning, the accounts of approximately 5 or 6 dial-up users
+for the sole reason that they were part of the "Hellas List" and 
+supported the complaints (and monitored their mail after their accounts
+were closed).  Last week, Dr. Georgiou sent mail to the system
+administrators of Brown U., American U., and Univ. of Georgia (the 
+three nodes of the List) claiming that he was suing the schools for
+allowing us to "libel, slander, defame his character" and cause him
+"great emotional stress, and problems with his family and friends."
+The result being that the three schools decided within a day to close
+this list down completely.  Luckily, we acted fast, and explained the
+situation to them, so that 2/3 nodes relented.  
+
+For years, the Turks and Skopjians (historically ethnic "enemies" of 
+Greece) have tried to shut down our List with such methods as
+sending fake mails and complaints to the sysadmins, thereby creating
+problems for them, leading to general frustration with the administration
+of our discussion List.  Then, in one day, one of our supposed "own" 
+does it on his own, with one nasty, false mail.
+
+A group of us are in the process of writing letters to administrators,
+newspapers, and the like, but isn't it awful to think about how
+much damage can be done, without even a fair chance at explanation?
+As for the result, that remains to be seen.
+
+That, at least, is one story for you, pleb...
+
+Kat Nickolopoulos
+
+--
+
+        <<I believe that imagination is stronger than knowledge.
+              That myth is more potent than history.
+              That dreams are more powerful than facts.
+              That hope always triumphs over experience.
+              That laughter is the only cure for grief.
+              And I believe that love is stronger than death.>>
+
+                              - Storyteller's Creed
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>
+<A NAME="1993Jul15.044102.9347@usage.csd.unsw.OZ.AU">  Re: FREEDOM OF EXPRESSION ON INTERNET - SOM</a><pre>
+Newsgroups: aus.aarnet
+From: herm@newt.phys.unsw.edu.au (Herman H. Fredriksson)
+Subject:  Re: FREEDOM OF EXPRESSION ON INTERNET - SOM
+Message-ID: <1993Jul15.044102.9347@usage.csd.unsw.OZ.AU>
+Date: Thu, 15 Jul 1993 04:41:02 GMT
+In article <21vs3jINNqc4@dubhe.anu.edu.au> cwj@cs.anu.edu.au writes:
+>In article kk2@uniwa.uwa.edu.au, wojdylo@maths.uwa.oz.au (INFIDEL) writes:
+>	>
+>	>
+>	>Here is the text of the article in the "Weekend Australian", June 26-27,
+>	>which outlines the nature of the inquiry happening at UNSW at the moment.
+> ... lines deleted ...
+>
+>	>At the same time, a code of behaviour now has to be signed by anyone
+>	>gaining access to the university's system, in which they promise to act
+>	>respectfully and not use abusive language in the process.
+>
+>Can someone at UNSW please post the contents of this "code of behaviour" with
+>respect to "use of abusive language" in their use of computers?
+
+Please keep in mind the following only applies to the use of the computers
+in the School of Computer Science and Engineering at UNSW and other
+departments have their own goals/rules/ideals.
+
+>
+
+Here is some revelent excerpts from a document all computer students
+should sign and hand to their tutor or the School Office... its been
+around since at least 91.. perhaps earlier.
+
+----------------
+ Important Advice for Students..
+
+[...]
+
+1. Resposible Use of Laboratories  
+
+	 The workstation and PC laboratories are well-equipeed and usually
+comfortable areas in which to work.... [...].. Be advised that the following
+are prohibited:
+
+    * Smoking, eating or drinking in the labs. The equipment is far too 
+susceptible to allow exceptions.
+    * Attempting to interfere with the equipment in any way. Vandalism, theft
+or wilful damage will be referred to the police.
+    * Tampering  with others' accounts in any way, including trying to thwart
+the system security, setting password traps, or other antisocial behaviour.
+    * Using the facilities for commercial purposes, or for preparing racist
+or other offensive material.
+    * Using the equipment for recreational purposes when workstations are
+in demand by legitimate users.
+    * Using other student's accounts in order to gain access privileges or
+booking tokens to which one is not entitled.
+    * Not complying with a directive by the laboratory supervisors or other
+staff.
+
+Users found indulging in such activities will be subject to disciplinary
+action. Minor breaches will result in suspension of the user's account for
+one week. Serious or repeated offences can result (and has resulted) in
+students being excluded from the University. The is not meant to imply that
+you can't experiment with the network facilities - experimentation is one
+way to learn and is perfectly all right. As long as you avoid interfering with
+other users, and report any problems that you uncover, you will be
+discharging your responsibilities rappropriately.
+
+2. Originality of Assignment Submissions..[..etc.. stuff regarding  
+assessment..]
+
+[..]
+---------------
+That is it... I wonder if this differs greatly from other institutions.
+It seems to encourage use of network facilities as long as you do so
+in a responsible manner.
+
+Cheers,
+-- 
+//////////////////////////////////////////////////////////////
+//    Herman H. Fredriksson <herm@newt.phys.unsw.edu.au>    //
+//   University of New South Wales, Kensington, Australia   //
+//////////////////////////////////////////////////////////////
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+</pre>

@@ -1,0 +1,1449 @@
+
+
+M E M O R A N D U M
+
+FROM:     Fred Greguras, fmg@fwpa.com, Fenwick & West of Palo Alto, CA 
+          John Black, jb@fwpa.com, Fenwick & West of Palo Alto, CA
+DATE:     March 6, 1995
+RE:       UPDATE ON CURRENT STATUS OF U.S. EXPORT ADMINISTRATION 
+                REGULATIONS ON SOFTWARE EXPORTS
+
+
+                       TABLE OF CONTENTS
+
+
+I.   INTRODUCTION                                        
+
+II.  OTHER APPLICABLE REGULATIONS                        
+     A.   International Traffic in Arms Regulations      
+     B.   Office of Foreign Assets Control               
+
+III. EAR LICENSES FOR SOFTWARE                           
+     A.   General License GTDA                           
+     B.   General License GTDU                           
+     C.   General License GTDR                           
+     D.   General License GLX                            
+     E.   General License GNSG                           
+     F.   Validated License                              
+     G.   End-Use Prohibitions                           
+     H.   Lists of Prohibited Customers                  
+
+IV.  THE STRUCTURE OF THE EAR CONTROLS ON SOFTWARE       
+     A.   Determining General License Eligibility        
+     B.   Mass-Marketed Software--The General
+            Software Note                            
+     C.   Operating Systems                              
+            Real Time Operating Systems                 
+            Other Operating Systems                     
+     D.   Other Software                                 
+            IC CAD Software                             
+            Printed Circuit Board CAD Software          
+            Other CAD Software                          
+            Other Software Controls                     
+            LAN/WAN Software                            
+            Multimedia Products                         
+     E.   Software with Encryption Capability            
+            EAR vs. ITAR Jurisdiction                   
+            State Department Licensing Policy           
+            DES-Based Encryption                        
+            Non DES-Based Encryption                    
+            EAR Requirements                            
+            Clipper Chip Standard                       
+     F.   Access to Software by Foreign Nationals        
+     G.   Maintenance Deliverables                       
+            Telephone Consultation and Manuals          
+            Bug Fixes                                   
+            Enhancements                                
+            Remote Access Maintenance                   
+     H.   Storage Media                                  
+     I.   Resales/Reexports                              
+     J.   Restrictions on Iran and Syria                 
+     K.   South Africa                                   
+
+V.   CONTRACTUAL REQUIREMENTS                            
+     A.   Suggested Language for GTDU Agreements         
+     B.   Suggested Language for GTDR Agreements         
+
+VI.  CONCLUSION                                          
+
+EXHIBIT:   A.  The General Software Note                 
+
+
+I.   INTRODUCTION
+
+     This memorandum updates our previous reports on the same 
+subject.  Over the last few years, the Bureau of Export 
+Administration ("BXA") of the Department of Commerce has 
+implemented sweeping changes to the U.S. export licensing 
+requirements for software under the Export Administration 
+Regulations ("EAR") (15 CFR Parts 768 - 799).  The export 
+controls on software are integrated into the Commerce Control 
+List ("CCL") along with those for hardware and technology rather 
+than addressed separately outside of the list.  The net effect is 
+that requirements for software have been relaxed which has 
+benefited international software distribution, particularly for 
+mass-marketed software.
+
+II.  OTHER APPLICABLE REGULATIONS
+
+     A.   International Traffic in Arms Regulations
+
+          The International Traffic in Arms Regulations ("ITAR") 
+(22 CFR parts 120 - 130) also contain certain software export 
+licensing requirements.  ITAR controls exports of software 
+related to items specially designed for military use on the 
+United States Munitions List ("USML").  ITAR controls software 
+which "includes but is not limited to the system functional 
+design, logic flow, algorithms, application programs, operating 
+systems and support software for design, implementation, test, 
+operation, diagnosis, and repair" of equipment controlled by the 
+USML.  In addition, USML Category XIII specifically controls 
+cryptographic software for encoding and decoding.
+
+          Except for Canada in most cases, exports of software 
+controlled by ITAR require a validated export license issued by 
+the Office of Defense Trade Controls ("DTC") of the State 
+Department.  With respect to Canada, most software for 
+unclassified defense items is excluded from the validated license 
+requirement.  Companies that export software controlled on the 
+USML must also register with DTC.
+
+          The ITAR controls on encryption features are often 
+encountered in software export transactions.  Section IV.E 
+describes these controls.  Even though many of the controls are 
+unilaterally imposed by the U.S., it is unlikely that they will 
+be relaxed any time soon.
+
+     B.   Office of Foreign Assets Control
+
+          The Office of Foreign Assets Control ("OFAC") (31 CFR 
+parts 500-585) of the Treasury Department imposes a substantially 
+complete export embargo on Cuba, Iraq, Libya, North Korea and 
+Yugoslavia.  The EAR, however, does not reflect the embargo on 
+Iraq and Yugoslavia.  Generally speaking, all software exports to 
+Iraq and Yugoslavia and other OFAC-embargoed countries must be 
+licensed or otherwise authorized by OFAC.  There is a presumption 
+of denial for such license applications except for certain 
+humanitarian exports.  
+
+          The term "embargoed destinations," as used throughout 
+this report, means Cuba, Iraq, Libya, North Korea, Yugoslavia 
+(i.e., Serbia and Montenegro) and certain parts of Croatia and 
+Bosnia-Hercegovina.
+
+III. EAR LICENSES FOR SOFTWARE
+
+     Under the CCL, software is treated as software, not as 
+technical data or hardware.  In all sections of the EAR except 
+the CCL, however, the term "technical data" is understood to 
+include software unless otherwise specified.  Thus, for example, 
+when EAR Section 779.4 authorizes exports of eligible "technical 
+data" it is intended to authorize exports of both technical data 
+and software.
+
+     All software continues to be "controlled" by the EAR.  The 
+control issue is what type of export license is needed.  A 
+separate export license is needed for the media on which software 
+is delivered such as a diskette or CD-ROM.  Only the export 
+license for software is needed in the case of Internet or other 
+network delivery.
+
+     EAR part 779 defines the export licenses available for 
+software:  General License GTDA, General License GTDU, General 
+License GTDR and the validated export license.  In addition, Part 
+771 defines two additional general licenses:  GLX and GNSG.  
+General License G-DEST is almost always available for the export 
+of the media.  The general licenses are critical to international 
+software distribution since they authorize exports and reexports 
+by meeting regulatory conditions rather than by obtaining 
+specific written U.S. authorization.  A general license can be 
+implemented easily and quickly.  A validated license requires 
+more time and cost.
+
+     The currently available export licenses are described below.  
+General restrictions on exports for prohibited end uses and 
+customers are then discussed.  Thereafter, this report explains 
+how these licenses apply to specific software products under 
+various export scenarios.
+
+     A.   General License GTDA
+
+          General License GTDA, Technical Data Available to All 
+Destinations, (Section 779.3) primarily authorizes exports of 
+software generally available to the public or public domain 
+software to all countries.  This license is limited to software 
+that is available to the public at a price that does not exceed 
+the cost of reproduction and distribution.  It does not authorize 
+exports of most commercial software, including mass-marketed 
+software available in retail stores, because the price of such 
+software normally exceeds the cost of its reproduction and 
+distribution.  Such mass-marketed software is eligible for export 
+under GTDU as described below.
+
+     B.   General License GTDU
+
+          Technically speaking, the terminology "General License 
+GTDU" is merely an abbreviation for "General License GTDR without 
+a written assurance.  EAR Section 779.4(b) gives exporters the 
+option of using the term "General License GTDU" to describe GTDR 
+without a written assurance in an attempt to reduce confusion.  
+For the purpose of this report, "GTDU" is used to represent GTDR 
+without a written assurance and "GTDR" to represent GTDR with a 
+written assurance.  Exporters may use the term "GTDU" for all 
+purposes, including reporting the export license authorization on 
+a Shipper's Export Declaration.
+
+          General License GTDU generally authorizes exports to 
+all destinations except the embargoed destinations.  A 
+substantial number of categories of software are eligible for 
+this general license and are described below under Mass-Marketed 
+Software, Operating Systems and Maintenance Deliverables.  In 
+addition, GTDU is the "bucket" export license.  Software not 
+requiring any other type of export license is eligible for export 
+under GTDU.
+
+     C.   General License GTDR
+
+          General License GTDR authorizes exports of eligible 
+software to the free world countries (i.e., Country Groups T and 
+V excluding the PRC, Iran, Iraq, Syria and Yugoslavia).  A 
+validated license is required to export GTDR eligible software to 
+all other countries except for Canada which requires no export 
+license.  
+
+          The GTDR authorization is contingent upon the exporter 
+obtaining a written assurance from the recipient of the software 
+prior to exporting the software.  The EAR does not provide the 
+specific text of the written assurance that must be obtained from 
+the foreign recipient of the software.  The assurance is a 
+statement signed by the recipient which gives assurances that the 
+recipient will not reexport the software or any direct product of 
+the software to the former Soviet Union, certain former East Bloc 
+nations, the PRC, or Country Groups S (Libya) and Z (Cuba and 
+North Korea).  The assurance may be contained in a stand-alone 
+letter, as part of a larger commercial agreement, or in any other 
+written form.  The exporter may accept either a fax or an 
+original signed copy.  An oral assurance is not acceptable.  When 
+the assurance is part of an agreement, the assurance provision 
+must survive the expiration or termination of the agreement.
+
+     D.   General License GLX
+
+          General License GLX was established on April 4, 1994, 
+to relax U.S. export controls toward the former Warsaw Pact 
+countries in conjunction with the decision of the 17-country 
+Coordinating Committee on Multilateral Export Controls ("COCOM") 
+to disband effective March 31, 1994.  GLX authorizes exports to 
+the PRC and Country Groups Q, W, and Y (i.e., Albania, Armenia, 
+Azerbaijan, Belarus, Bulgaria, Cambodia, Estonia, Georgia, 
+Kazakhstan, Kyrgyzstan, Laos, Latvia, Lithuania, Moldova, 
+Mongolia, Romania, Russia, Tajikistan, Turkmenistan, Ukraine, 
+Uzbekistan and Vietnam).  GLX may not be used for any export 
+destined to a military end-use or end-user.  GLX authorizes 
+exports of a subset of the software eligible under GTDR, but 
+there is no written assurance requirement for GLX.  For example, 
+the scope of telecommunications software and with encryption 
+features is as broad under General License GLX as under GTDR but 
+no written assurance is needed.  In effect, it is easier to 
+export such software to Russia than to France.
+
+     E.   General License GNSG
+
+          General License GNSG was established on March 9, 1994, 
+to authorize the export of certain software controlled for 
+nuclear nonproliferation purposes to the 26 members of the 
+Nuclear Suppliers Groups ("NSG") multilateral export control 
+regime (i.e., Australia, Austria, Belgium, Bulgaria, Czech 
+Republic, Denmark, Finland, France, Germany, Greece, Hungary, 
+Ireland, Italy, Japan, Luxembourg, the Netherlands, Norway, 
+Poland, Portugal, Romania, Russia, Slovak Republic, Spain, 
+Sweden, Switzerland, and the United Kingdom).  Canada is also a 
+member of the NSG but GNSG is not required for Canada because 
+GNSG-eligible software does not require any export license for 
+Canada.
+
+     F.   Validated License
+
+          The validated export license is used when there are no 
+general licenses available for a specific transaction.  The 
+validated export license is a license for which the exporter must 
+submit an application requesting specific BXA approval.  If 
+approved, the BXA will issue a written license authorizing the 
+specific transaction described in the application.  In certain 
+cases, BXA may attach conditions to the approved license.  For 
+example, an approved validated license to export software to 
+Pakistan may specify "Not to be used by/for nuclear 
+end-users/uses."
+
+          To apply for a validated license the exporter must 
+complete the application form (Form BXA-622P) and submit it to 
+the Office of Export Licensing of BXA.  The license application 
+should describe the proposed export transaction in sufficient 
+detail to allow the licensing official(s) reviewing the 
+application to fully understand the technical capabilities of the 
+software and the nature of the end-use and end-user of the 
+software.  Depending on the capabilities of the software and the 
+sensitivity of the proposed country of destination, BXA may 
+approve exports to a distributor who will distribute the software 
+within an identified sales territory to unidentified end-users.  
+
+          It normally takes between three weeks and four months 
+for a validated license application to be approved.  This wide 
+variance in processing time is due to the corresponding variance 
+in the sensitivity of the destination and products proposed in 
+license applications and that, in certain instances, an 
+application may be reviewed by several different government 
+agencies and bureaus.  For example, a license application for the 
+export of software controlled under ECCN 6D22B for the use of 
+certain gravity meters to France could be routinely approved 
+within three weeks with only BXA reviewing the application.  On 
+the other hand, a license application to export the same ECCN 
+6D22B software to the PRC or Pakistan could take four months to 
+be approved or denied.  A license application to export such 
+software to the PRC or Pakistan would likely be reviewed by the 
+Departments of Commerce, State, and Defense, the Arms Control and 
+Disarmament Agency and the intelligence community.
+
+     G.   End-Use Prohibitions
+
+          The Iraq war heightened concern in the Congress, the 
+Administration and the public about the threat of the 
+proliferation of missiles and nuclear, chemical and biological 
+weapons.  The revelations that certain Western and even U.S. 
+companies had sold products to missile and nuclear, chemical and 
+biological weapons related end-users in Iraq (prior to the war), 
+Libya and other volatile countries further pointed out a need for 
+stricter export controls to prevent the proliferation of weapons 
+of mass destruction and the missiles to deliver them.  In the 
+face of this emerging threat, the U.S. imposed end-use export 
+controls that are based on a fundamentally different approach 
+than the traditional CCL approach.
+
+          Under the traditional approach, to determine the 
+licensing requirements for a given product, the exporter compares 
+the performance specifications and functions of its product to 
+the CCL.  Once the ECCN has been determined, the exporter 
+determines whether the product is eligible for a general license 
+or requires a validated license for any specific country.  
+End-use controls, on the other hand, operate on the principle 
+that any product that will be exported for use in a prohibited 
+end-use requires a validated license without regard to the ECCN.
+
+          Under the EAR, no software may be exported (except 
+under GTDA) when the exporter knows that it will be directly used 
+in any activities related to the development or production of 
+nuclear weapons, chemical/biological weapons or missiles in a 
+long list of countries of concern in Asia, Africa, South America, 
+and the Middle East.  Thus, even if an exporter determines that 
+its software is eligible for export under GTDU, GTDR, GLX or GNSG 
+it may not export that software if it knows the software will be 
+used in a heavy water plant in India or a missile development 
+project in Iran.  This prohibition does not cover application 
+software for the administrative activities of such a facility, 
+such as word processing or accounting software packages.
+
+          Exporters must develop procedures to ensure compliance 
+with these end-use/end-user based restrictions.  Such procedures 
+must be fundamentally different from the standard procedures for 
+comparing a software package to the CCL to determine general 
+license eligibility.  Because this new focus is based on the 
+nature of a customer rather than the nature of the product to be 
+exported, a U.S. exporter must secure the honest cooperation of 
+sales and marketing personnel who have the most direct contacts 
+with potential customers.  These end-use/end-user based 
+restrictions require procedures that ensure that, if something 
+suspicious arises during a transaction, responsible personnel 
+will make all reasonable efforts to determine the reason for the 
+suspicious factor.  If it is determined that a potential customer 
+is involved in nuclear, chemical or biological weapons or missile 
+related activities, no exports should be made to the potential 
+customer.
+
+     H.   Lists of Prohibited Customers
+
+          Another shift in the focus of U.S. export controls is 
+the Treasury Department's rapidly expanding list of Specially 
+Designated Nationals ("SDNs") of embargoed countries.  This list 
+includes thousands of companies and individuals throughout the 
+world (including the U.S. and Western Europe) that OFAC has 
+defined to be agents of the governments of Cuba, Iraq, Libya, 
+North Korea or Yugoslavia.  U.S. companies are strictly 
+prohibited from  participating in any transaction involving any 
+of these entities, regardless of the software or other product 
+involved.  Dealing with a SDN of Libya, for example, is 
+considered to be dealing with the Government of Libya and is 
+strictly prohibited.
+
+          BXA also continues to publish its own list of 
+prohibited companies and individuals--the Table of Denial Orders 
+("TDO").  U.S. exporters are strictly prohibited from 
+participating in exports of any items involving any entity on the 
+TDO.  TDO parties are located throughout the world, including in 
+the United States and Europe.  Recently there has been a 
+significant increase in the number of companies and individuals 
+being added to the TDO.
+
+          An exporter should implement a procedure for screening 
+its existing customer lists and all new customers against the SDN 
+list and the TDO.  Once a screening is implemented, an exporter 
+must implement a procedure for keeping these lists current.
+
+
+IV.  THE STRUCTURE OF THE EAR CONTROLS ON SOFTWARE
+
+     One of the first actions for all software exporters is to 
+determine the Export Control Classification Numbers ("ECCN") in 
+the CCL that describe the software.
+
+     Rather than beginning with the first page and reading the 
+entire CCL to determine the ECCN for a particular software 
+package, an exporter can focus its search by becoming familiar 
+with two basic concepts related to the structure of the new CCL.  
+First, the new CCL is divided into 10 general categories numbered 
+from 1 to 0 as follows:
+
+     1 -- Materials
+     2 -- Materials Processing
+     3 -- Electronics
+     4 -- Computers
+     5 -- Telecommunications and Cryptography
+     6 -- Sensors
+     7 -- Avionics and Navigation
+     8 -- Marine Technology
+     9 -- Propulsion Systems and Transportation Equipment
+     0 -- Miscellaneous
+
+     Second, each of these 10 general categories is divided into 
+five groups of products, identified by the letters A through E as 
+follows:
+
+     A -- Equipment, Assemblies, and Components
+     B -- Production and Test Equipment
+     C -- Materials
+     D -- Software
+     E -- Technology
+
+     The first character of an ECCN identifies in which of the 
+above general categories the ECCN falls.  Thus, any ECCN that 
+begins with "4" is in general category 4--Computers.  The second 
+character identities in which of the above groups within the 
+general category the ECCN falls.  Thus, all ECCNs which control 
+software have the letter "D" as their second character.  With 
+these concepts in mind, one can readily recognize ECCN 4D01A as 
+an entry which controls computer software.
+
+     More than one ECCN in the CCL can describe a particular 
+software package.  When that is the case, the export licensing 
+requirements for the software are determined by the most 
+restrictive ECCN.  For example, assume that a certain UNIX 
+operating system is described by both ECCN 4D96G and ECCN 5D03A.  
+Since ECCN 5D03A imposes the more restrictive licensing 
+requirements, the UNIX operating system would be subject to its 
+licensing requirements.  
+
+     A.   Determining General License Eligibility
+
+          Once an exporter identifies the ECCN for a software 
+package, the exporter determines whether the software is eligible 
+for export under GTDU, GTDR or GNSG by looking at the GTDU, GTDR 
+and GNSG paragraphs in each ECCN.
+
+          When the ECCN states "GTDU: Yes," the software 
+controlled by that ECCN is eligible for export under GTDU to all 
+countries except the embargoed destinations.  In certain ECCNs, 
+the GTDU paragraph may exclude additional countries or certain 
+types of software from eligibility under GTDR without a written 
+assurance.  
+
+          When the ECCN states "GTDR: Yes," the software 
+controlled by that ECCN is eligible for export under GTDR to all 
+countries in Country Groups T and V, excluding the PRC, Iran, 
+Iraq, Syria and Yugoslavia.  In certain ECCNs, the GTDR paragraph 
+may exclude additional countries or certain types of software 
+from eligibility under GTDR.
+
+          When the ECCN states "GNSG:  Yes," the software 
+controlled by that ECCN is eligible for export under GNSG to 
+Australia, Austria, Belgium, Bulgaria, Czech Republic, Denmark, 
+Finland, France, Germany, Germany, Greece, Hungary, Ireland, 
+Italy, Japan, Luxembourg, the Netherlands, Norway, Poland, 
+Portugal, Romania, Russia, Slovak Republic, Spain, Sweden, 
+Switzerland, and the United Kingdom.  In certain ECCNs, the GNSG 
+paragraph may exclude certain types of software from eligibility 
+under controlled by an ECCN that ends with the letter "A" (e.g.,) 
+to Bulgaria, Poland, Romania or Russia.
+
+          Many types of software will fall into one of the GTDU 
+bucket ECCNs such as ECCN 4D96G since it will not be covered by 
+any other specific ECCN.  ECCN 4D96G, for example, controls, 
+"Other software specially designed or modified for the 
+development, production or use of computer equipment or 
+materials, n.e.s."  The abbreviation "n.e.s." stands for "not 
+elsewhere specified."  Thus, ECCN 4D96G controls all software 
+that is not specifically controlled in any other software ECCN in 
+Category 4 in the CCL.  For example, since ECCNs 4D01A, 4D02A, 
+and 4D03A do not specifically describe and control a Fortran 
+compiler, such software would fall into the ECCN 4D96G bucket 
+because it is not elsewhere specified.  Every category in the CCL 
+(except Category 0) has an xD96G bucket that controls software 
+that is "not elsewhere specified" within that category.  Software 
+classified under an xD96G bucket is eligible for export under 
+GTDU.
+
+          There are no GLX eligibility paragraphs in any ECCNs.  
+While GLX eligibility is based on the ECCN for the software in 
+question, the EAR and CCL use a different approach to defining 
+eligibility.  Software is eligible for export under GLX if it 
+satisfies either one of these criteria:
+
+          (1)  It is controlled by an ECCN listed in Supplement 
+No. 1 to Part 771; or
+
+          (2)  It is described by an Advisory Note in the CCL 
+that indicates likelihood of approval for:
+
+               (i)  "Country Groups QWY and the PRC,"
+
+               (ii) "The PRC," or
+
+               (iii)     Specified destinations in Country Group 
+Y.
+
+          Those Advisory Notes that apply only to Country Groups 
+Q or W may not be used to determine GLX eligibility.  In 
+addition, GLX is not available for items that the ECCN "Reason 
+for Control" paragraph identifies as being controlled for missile 
+technology ("MT"), nuclear nonproliferation ("NP") or foreign 
+policy ("FP") reasons to the recipient country.
+
+          Importantly, as discussed below, even when software is 
+in an ECCN that does not authorize exports under GTDR, GNSG or 
+GTDU, the software may be eligible for export under GTDU based on 
+several definitional authorizations for mass-marketed software, 
+operation software and software bug fixes.
+     B.   Mass-Marketed Software--The General Software Note
+
+          The General Software Note ("GSN") in Supplement No. 2 
+to EAR Section 799.1 is an important element of the CCL.  
+(Exhibit A contains the actual text of the GSN.)  The GSN 
+authorizes exports under GTDU of mass-marketed software sold 
+through retail sources that is "generally available to the 
+public" to all countries except Iran, Syria and the embargoed 
+destinations.  The GSN should not be confused with the 
+longstanding and unchanged General License GTDA for software that 
+is "publicly available." 
+
+          The GSN is not based on the functionalities or 
+performance specifications of the software except that it does 
+not apply to software under the jurisdiction of another set of 
+regulations such as ITAR.  To determine if software satisfies the 
+GSN criteria for being "generally available to the public," the 
+exporter only needs to know how the software is sold.  For the 
+purposes of the GSN and the EAR in general, the word "sold" means 
+"licensed or sold."
+
+          The first GSN criteria is that the software must be 
+sold "without restriction" from stock from retail sources such as 
+stores, phone order or mail order.  If, for example, software X 
+is sold through retail store Y, software X satisfies this 
+requirement, even when the export in question is not a retail 
+transaction and even when store Y is not the exporter.  
+Furthermore, the retail selling points do not have to be located 
+in the U.S.  Software X is eligible under the GSN if it is sold 
+through a retail source in Hong Kong or anywhere else in the 
+world.
+
+          Requiring a customer to sign a license agreement prior 
+to delivering the software is not a restriction that eliminates 
+GSN eligibility.  Software that is sold only with bundled 
+hardware is "restricted" and is not eligible under the GSN. 
+Software that is sold both with bundled hardware and without 
+bundled hardware is eligible under the GSN.
+
+          The second GSN criteria is that the software must be 
+designed for installation by the user without substantial support 
+from the supplier.  Most software distributed through retail 
+sources satisfies this criteria.  Software that is designed for 
+user installation satisfies this criteria even if, for example, 
+the user may call a toll-free phone number for assistance during 
+installation.
+
+          The GSN applies to all software under the jurisdiction 
+of the EAR and overrules the licensing requirements described in 
+an ECCN.  Any software on the CCL is eligible for export under 
+GTDU if it satisfies the requirements of the GSN, even software 
+in an ECCN that requires a validated license for all 
+destinations.  For example, anti-virus software is controlled 
+under ECCN 5D13A which states "GTDR: Yes" and "GTDU: No."  If the 
+anti-virus software satisfies the requirements of the GSN, 
+however, it is eligible for export under GTDU to all countries 
+except Iran, Syria and the embargoed countries.
+
+          The export controls for a software product which is a 
+combination of software packages is determined by the sales 
+characteristics of the finished unit.  The finished unit itself 
+must satisfy the GSN criteria in order to qualify as a 
+mass-market software package.  
+
+          The GSN does not apply to software with encryption 
+capability that is controlled by ITAR.  When determining whether 
+software is eligible for export under the GSN, exporters must 
+confirm that the software does not have encryption capability 
+that would cause it to be under ITAR jurisdiction.  Most other 
+countries do not restrict exports of mass-marketed software on 
+the basis of the type of an encryption feature.  This unilateral 
+U.S. control is a competitive disadvantage for U.S. companies.
+
+     C.   Operating Systems
+
+          Exporters should consider three approaches when 
+determining the requirements for an operating system.  First, the 
+"Operation Technical Data/Operation Software" provisions in EAR 
+Section 779.4(b)(1) authorize most exports of operating systems 
+in object code when destined for use on computers known to be 
+legally exported or reexported (under either a validated or 
+general license).  Second, when an operating system is being 
+exported in source code or for use on unknown computers, the 
+exporter must identify the ECCN for the operating system to 
+determine the licensing requirements.  Finally, a mass-marketed 
+operating system that satisfies the GSN criteria is eligible for 
+export under GTDU regardless of the ECCN that controls it or its 
+eligibility under the "Operation Technical Data/Operation 
+Software" authorization.
+
+          The "Operation Technical Data/Operation Software" 
+authorization permits exports of operating system software under 
+GTDU provided that:
+
+           
+              It is the minimum necessary to operate a computer 
+              that has been or will be legally exported or 
+              reexported; and 
+
+          
+              It is in object code.
+
+When both of these conditions are met, an operating system may be 
+exported under GTDU to all countries even if it is controlled 
+under an ECCN (e.g., 4D01A or 4D03A) that states "GTDU: No."
+
+          When operating systems are being exported for general 
+distribution to unknown end-users and the exporter does not know 
+that they will be used on computers legally exported or 
+reexported, the exporter must identify the ECCN for the operating 
+system to determine the export licensing requirements.  
+Similarly, when an operating system will be exported in source 
+code, its licensing requirements will be determined by its ECCN.  
+ECCNs 4D01A, 4D93F and 4D03A are the primary ECCNs that control 
+operating systems and are described in more detail below.  
+
+          Real-Time Operating Systems.  ECCN 4D03A controls 
+operating systems specially designed for real-time processing 
+equipment which guarantees a "global interrupt latency time" of 
+less than 20 microseconds.  Such real-time operating systems are 
+eligible for GTDR with written assurance.  Based on the 
+definition of "global interrupt latency time" and the requirement 
+that the operating system must guarantee 20 microseconds or less, 
+as a practical matter, few real-time operating systems may be 
+controlled under ECCN 4D03A.  "Global interrupt latency time" 
+does not necessarily mean the same thing as the term "latency 
+time" that certain companies may use.  Furthermore, while certain 
+operating systems may have a global interrupt latency time of 
+less than 20 microseconds, in certain instances, the time for 
+lower priority interrupts may exceed 20 microseconds so that the 
+time is not guaranteed.  A real-time operating system with global 
+interrupt latency times that are greater than and less than 20 
+microseconds does not guarantee less than 20 microseconds.  
+Real-time operating systems that do not guarantee less than 20 
+microseconds are eligible for export under GTDU unless they are 
+controlled for other reasons by an ECCN (e.g., 4D01A) that 
+requires GTDR.
+
+          ECCN 4D93F controls operating systems for real-time 
+processing equipment that guarantees a "global interrupt latency 
+time" of less than 30 microseconds and greater than or equal to 
+20 microseconds.  The same rules of interpretation apply to ECCN 
+4D93F as described above for ECCN 4D03A.  Software controlled by 
+ECCN 4D93F requires a validated export license for Iran, Syria 
+and the embargoed countries (unless another GTDU authorization is 
+available) and is eligible for GTDU for all other countries.
+
+          Other Operating Systems.  ECCN 4D01A controls software 
+"specially designed" for the use of controlled computers (e.g., 
+computers with a Composite Theoretical Performance ("CTP") 
+greater than 260 million theoretical operations per second).  An 
+operating system is not "specially designed" for use on a 
+controlled computer if it will operate on both controlled and 
+uncontrolled computers.  For example, since most UNIX operating 
+systems will operate on both uncontrolled computers (i.e., CTP 
+less than 260) and controlled computers (i.e., CTP greater than 
+260), such UNIX operating systems are not controlled by ECCN 
+4D01A and may be exported under GTDU.  On the other hand, an 
+operating system specially designed for use on a supercomputer 
+(i.e., CTP or 1500 or more) likely would not be designed for use 
+on a computer with a CTP of less than 260.  Thus, such an 
+operating system would be controlled under ECCN 4D01A and is 
+eligible for export under GTDR.  ECCN 4D01A also controls most 
+operating systems for optical computers, neural computers and 
+systolic array computers.
+
+          ECCN 4D03A controls operating system software exported 
+in source code form for multi-data-stream processing (e.g., 
+parallel processing) computers.  When an operating system for 
+multi-data-stream processing computers is exported in object 
+code, it is not controlled by ECCN 4D03A and would be eligible 
+for export under GTDU unless it is controlled by ECCN 4D01A.  
+Thus, the ECCN for an operating system for a supercomputer that 
+utilizes multi-data-stream processing depends on whether it is 
+exported in source or object code form.  In object code, it would 
+be controlled under ECCN 4D01A.  In source code, the 
+supercomputer operating system would be controlled under ECCN 
+4D03A.  
+
+          In determining the ECCN for an operating system, 
+exporters must also determine whether it performs any 
+telecommunications functions (e.g., dynamic adaptive routing) 
+that are controlled under a 5Dxxx ECCN such as 5D03A.  Finally, 
+the exporter must also determine whether the operating system 
+performs any data encryption functions that would cause it to be 
+controlled under the ITAR or ECCN 5D13A.  
+
+          Operating systems controlled by ECCNs 4D01A or 4D03A 
+eligible for export under General License GTDR.  Operating 
+systems controlled by ECCNs 5D03A or 5Dl3A are eligible for 
+export under GTDR and GLX.  Software not controlled by ECCNs 
+4D01A, 4D03A, 5D03A, or 5D13A, is usually classified under bucket 
+category ECCN 4D96G and is eligible for export under GTDU.
+
+     D.   Other Software
+
+          Over the past several years the U.S. government has 
+relaxed the licensing requirements for certain types of software.  
+Many types of software formerly requiring a written assurance or 
+a validated license are now eligible for export under GTDU.
+
+          IC CAD Software.  The export licensing requirements for 
+software for the computer aided design of integrated circuits 
+have been significantly relaxed.  ECCN 3D03A controls computer 
+aided design software for integrated circuits only if it provides 
+any of the following:
+
+              design or circuit verification rules, or
+    
+              simulation of the physically laid out circuit, or
+
+              lithographic processing simulators for design.
+
+          Software controlled by ECCN 3D03A is eligible for 
+export under GTDR to free world countries, excluding Iran and 
+Syria, and requires a validated license for all other countries 
+(except Canada for which no license is required).  IC CAD 
+software not controlled by ECCN 3D03A is usually classified under 
+ECCN 3D96G and is eligible for export under GTDU.
+
+          Printed Circuit Board CAD Software.  Software for the 
+computer aided design of printed circuit boards is now usually 
+classified under ECCN 3D96G and is eligible for export under 
+GTDU.
+
+          Other CAD Software.  The CCL contains many entries that 
+control software that is specially designed for the computer 
+aided design of equipment that is specifically controlled in the 
+CCL.  Generally speaking, each category in the CCL has one or 
+more software ECCNs that control software specially designed for 
+the computer aided design of equipment and other items controlled 
+under the same category.  In most cases, such software is 
+eligible for export under GTDR.
+
+          For example, ECCN 6D01A controls software specially 
+designed for the computer aided design of optics controlled under 
+ECCN 6A04A, lasers controlled under ECCN 6A05A, radar controlled 
+under ECCN 6A08A, and measurement systems controlled under ECCN 
+6B08A.  The term "specially designed" limits the scope of the 
+control on CAD software imposed by an ECCN such as 6D01A.  For 
+example, ECCN 6D01A would not control general purpose optics CAD 
+software that could be used to design optics both controlled and 
+decontrolled under 6A04A.  The intent is to control software 
+which has specific characteristics or functions that provide a 
+unique capability to design optics controlled under 6A04A.
+
+          Other Software that Formerly Required a Written 
+Assurance or Validated License.  Many of the types of software 
+that formerly required a written assurance or a validated license 
+have been decontrolled to GTDU status.  ECCN 4D03A, however, 
+continues to require a written assurance or, for countries not 
+eligible under GTDR, a validated export license for these types 
+of software:
+
+              Operating system software, software development 
+              tools, and compilers specially designed for multi 
+              data stream processing equipment, in source code;
+         
+              Expert systems or software for expert systems 
+              inference engines providing both:
+    
+              -    Time dependent rules; and
+              
+              -    Primitives to handle the time characteristics 
+                   of the rules and the facts.
+
+Certain types of software have been decontrolled to the GTDU 
+level for most countries but continue to require a validated 
+license for Iran, Syria and the embargoed countries.  These types 
+of software include:
+
+              Program proof and validation software; and
+         
+              Software for the automatic generation of source 
+              code from external sensors.
+
+          LAN, WAN, and Telecommunications Software.  Over the 
+past several years there have been important relaxations in the 
+controls on LAN/WAN software.  The primary ECCNs for controlled 
+telecommunications software are ECCNs 5D01A, 5D02A, and 5D03A.  
+Generally speaking, ECCN 5D03A is the most of important of these 
+because it covers a larger portion of software that is actually 
+exported.  5D03A controls software that performs advanced routing 
+functions such as datagram, fast select, dynamic adaptive routing 
+and software for extremely high speed data transmission.  The 
+export controls on LAN, WAN, and telecommunications software are 
+rarely a problem because software controlled by ECCNs 4D01A, 
+4D02A, 5D03A, is eligible for export under GTDR and GLX.  Such 
+software requires a validated license only for Iran, Syria and 
+the embargoed countries.
+
+          Data encryption is another important consideration for 
+both LAN and WAN software.  A wide range of LAN and WAN software 
+provide encryption capability--either to ensure the security of 
+data resident on a network or to ensure the security of data 
+transmitted over a network.  Encryption capabilities may subject 
+the software to stricter export licensing requirements under 
+either the EAR or ITAR.  An analysis of the export licensing 
+requirements for software with encryption capability is described 
+below.
+
+          Multimedia Products.  Multimedia titles, authoring 
+tools and other products which are mass-market products are 
+eligible for export under GTDU pursuant to the GSN.  Titles which 
+are primarily reference works, mass-market or otherwise, will 
+almost always be eligible for export under GTDU or even GTDA in 
+some instances.
+
+
+ E.   Software with Encryption Capability
+
+          There is a growing demand in today's security conscious 
+business world to ensure the security and integrity of data.  
+Because of this demand, an increasing number of commercial 
+software packages are now using a wide range of encryption 
+functions.
+
+          Encryption is a means for transforming data in order to 
+hide its information content, prevent its undetected 
+modification, or prevent its unauthorized use.  Encryption is 
+defined as the transformation of information using one or more 
+secret parameters (e.g., crypto variables) and/or associated key 
+management.  Importantly, encryption does not include functions 
+limited to "fixed" data compression or coding techniques.  The 
+term "fixed" means that the coding or compression algorithm 
+cannot accept externally supplied parameters (e.g., cryptographic 
+or key variables) and cannot be modified by the user.  For 
+example, software that compresses data to reduce the disk space 
+required for its storage is not encryption.
+
+          Two issues must be considered in evaluating the export 
+licensing requirements for any software that performs any data 
+encryption or decryption functions.  The first issue is to 
+determine whether the software is under the jurisdiction of the 
+EAR or ITAR.  Thereafter, the licensing requirements must be 
+determined under the appropriate regulations.
+
+          EAR vs. ITAR Jurisdiction.  As a starting point, an 
+exporter of software with an encryption feature should presume 
+that its software is controlled by ITAR.  ITAR has jurisdiction 
+over all software with data encryption capability except 
+commercial software with encryption limited to these functions:
+
+     (A)  Decryption-only capability for encrypted proprietary 
+         software, fonts or other computer-related proprietary 
+         information for the purpose of maintaining vendor 
+         control over such information;
+
+     (B)  Restricted to calculating a Message Authentication Code 
+         (MAC) or similar result to assure no alteration of text 
+         has taken place, or to authenticate users, but does not 
+         allow for encryption of data, text or other media other 
+         than that needed for authentication;
+
+     (C)  Restricted to protecting passwords and personal 
+         identification numbers ("PIN") or similar data to 
+         prevent unauthorized access to computing facilities, 
+         but does not allow for encryption of files or text, 
+         except as directly related to the password and PIN 
+         protection;
+
+     (D)  Specifically designed and limited to the issuance of 
+         cash or traveler's checks, acceptance of deposits, 
+         account balance reporting and similar financial 
+         functions; and
+
+     (E)  Software for personalized smart cards restricted for 
+         uses described in paragraphs (A) through (D) above.
+
+          Commercial software with encryption capability limited 
+to the above five functions has been transferred to EAR 
+jurisdiction.  Software that performs encryption functions 
+other than those listed in (A) through (E) is presumed to be under 
+the jurisdiction of ITAR.  Software that performs one of the 
+functions in (A) through (E) above as well as additional 
+encryption functions would be under the jurisdiction of ITAR.  
+For example, a software package that encrypts passwords as well 
+as data files on a hard disk would be presumed to be under ITAR 
+jurisdiction.
+
+          In addition, the State Department has established a 
+policy under which it will consider transferring to EAR 
+jurisdiction mass-market software which satisfies both of these 
+criteria:
+
+           
+              The software uses RSA Data Security, Inc.'s RC2 or 
+              RC4 algorithms with a key size fixed at 40 bits; 
+              and
+
+           
+              Encryption is not the primary function of the 
+              software.
+
+          On a product-by-product basis, the State Department 
+will consider written requests to transfer specific products that 
+satisfy these two criteria to EAR jurisdiction through a 
+procedure known as a commodity jurisdiction determination.  
+Commodity jurisdiction determinations are normally initiated by 
+an exporter who is seeking to convince the State Department to 
+transfer software to EAR jurisdiction.
+
+          Finally, the State Department, which has the sole 
+authority to determine the export licensing jurisdiction of a 
+product, controls all software in source code form with 
+encryption capability under ITAR jurisdiction even if the 
+encryption functions are limited to those identified in (A) 
+through (E) above or it is mass market software using the RC2 or 
+RC4 algorithms.
+
+          State Department Licensing Policy.  All encryption 
+software under ITAR jurisdiction requires a validated export 
+license for all countries except Canada.  ITAR does not authorize 
+general license exports.  Furthermore, such encryption software 
+requires a validated license even if it is mass-marketed software 
+available through retail sources or available at no cost over 
+Internet.  The State Department imposes stricter controls on 
+exports of Data Encryption Standard ("DES") based software than 
+on non-DES based encryption.
+
+          DES-Based Encryption.  The State Department will 
+approve individual licenses for exports of DES based encryption 
+only to financial institutions and subsidiaries of U.S. 
+companies.  All end-users must be specifically identified on the 
+license application.  In certain instances, however, the State 
+Department will approve limited distribution agreements that 
+authorize resale/reexport to unidentified end-users in a 
+pre-specified sales territory.  The distributor must report all 
+sales to the State Department after they occur.
+
+          Non-DES Based Encryption.  The State Department will 
+approve individual licenses for exports only to acceptable 
+end-users (as determined by the State Department) specifically 
+identified on the license application and located in acceptable 
+countries.  In certain instances, the State Department will 
+approve distribution agreements authorizing resales or reexports 
+to acceptable countries specified on the license application.  
+The distributor must report sales after they occur.
+
+          The State Department policy of severely limiting 
+distribution of DES based software for the encryption of data 
+files hinders the establishment of international distribution 
+networks.  The less restrictive controls on non-DES based 
+software have caused some exporters to use a non-DES encryption 
+algorithm so that their software will benefit from a more lenient 
+export licensing policy.
+
+          EAR Requirements.  Software with limited encryption 
+functions under EAR jurisdiction is, in most cases, classified 
+under ECCN 5D13A.  ECCN 5D13A does not control software that 
+provides these two (and no other) encryption functions:
+
+           
+              Decryption functions specially designed to allow 
+              the execution of copy-protected software, provided 
+              the decryption functions are not user-accessible; 
+              and
+
+           
+              Certain encryption functions in certain 
+              personalized smart cards.
+
+Such software is controlled by either ECCN 5D95F or another more 
+restrictive ECCN in the CCL based on the other functions of the 
+software.
+
+          When software performs functions that are controlled 
+under another ECCN on the CCL, in addition to encryption 
+functions controlled under ECCN 5D13A, such software is 
+classified under ECCN 5D13A.  For example, an operating system 
+for a supercomputer would normally be classified under ECCN 
+4D01A.  If, however, that supercomputer operating system also 
+encrypts passwords, it would be classified under ECCN 5D13A.
+
+          Software controlled by ECCN 5D13A is eligible for 
+export under General License GTDR to Country Groups T and V 
+excluding the PRC, Iran, Iraq, Syria and Yugoslavia, and under 
+General License GLX to the PRC and Country Groups Q, W and Y.  
+ECCN 5D13A software requires a validated license for all other 
+countries (except Canada for which no license is required).  
+
+          Importantly, however, encryption software controlled 
+under ECCN 5D13A is eligible for export under GTDU if it is 
+mass-marketed software that satisfies the GSN requirements.  As 
+indicated, most other countries do not restrict exports of 
+mass-marketed software on the basis of the type of encryption 
+feature.  This is a competitive disadvantage for U.S. companies.
+
+          Clipper Chip Standard.  In early 1994, the DOC 
+announced that the Clipper Chip is the U.S. government encryption 
+standard and that the government will do everything in its power 
+to encourage use in the private sector and the international 
+community.  There has not yet been any export control impact but 
+it seems likely that "encouragement" may come, in part, from 
+relaxed export controls when the Clipper Chip is used.
+
+     F.   Access to Software by Foreign Nationals
+
+          The EAR provides that the source code (but not the 
+object code) of software may be "exported" without it being 
+actually transmitted or shipped out of the U.S.  The State 
+Department interprets ITAR the same way.  The release of software 
+source code to a foreign national in the U.S. is an export to the 
+home country of the foreign national.  The release of source code 
+to a person who has permanent resident status (a "green card" 
+holder) is not an export.
+
+          Therefore, for example, if a PRC national on a 
+nonimmigrant visa such as an H-1 or L-1 is hired to work on a 
+software development project in the U.S., the employer must 
+analyze the export licensing requirements for the software for 
+which the employee will have access to the source code.  If the 
+PRC national will be working on a project to develop relational 
+database software, the source code normally would be exportable 
+to the PRC national under GTDU.  If the PRC national will be 
+working on a project developing integrated circuit CAD software 
+and will have access to source code that simulates the physical 
+layout of a circuit, the employer must obtain a validated export 
+license prior to allowing the PRC national to have access.
+
+          This requirement usually creates a significant burden 
+on hiring foreign nationals from Iran, Syria and the embargoed 
+destinations, and to a lesser extent the PRC and former Warsaw 
+Pact Countries, to work on a project to develop software 
+controlled under the EAR.  The burden may often be prohibitive 
+because the U.S. Government often will not approve license 
+applications authorizing foreign nationals from these countries 
+to have access to controlled source code.
+
+          The burden is not as great for hiring foreign nationals 
+from other countries.  Most controlled software is eligible for 
+export under General License GTDR to foreign nationals from 
+Country Groups T and V, excluding the PRC, Iran, Iraq, Syria and 
+Yugoslavia.  Therefore, normally all an employer must do is 
+obtain a signed GTDR written assurance from the foreign national 
+from a GTDR eligible country.
+
+     G.   Maintenance Deliverables
+
+          The export licensing requirements for software 
+maintenance deliverables such as telephone consultation, bug 
+fixes and software updates are an important business planning 
+issue.  The quality and timing of support services are extremely 
+important in international markets.  Advance planning should 
+occur to avoid any export licensing impediments.
+
+          Telephone Consultation and Manuals.  Generally 
+speaking, telephone consultation and manuals that assist 
+customers in installing, using, and maintaining previously 
+exported software are eligible for export under GTDU as 
+"Operation Technical Data" as defined in EAR Section 779.4(b)(1).  
+To qualify as "Operation Technical Data" the manuals and 
+consultation may be provided only for software that has been 
+legally exported or reexported to the customer under either a 
+general license (or a permissive reexport) or a validated license 
+(or written reexport authorization).
+
+          The primary limitation in the definition of "Operation 
+Technical Data" is that manuals and consultation may include only 
+that information that is required to ensure safe and efficient 
+use of the product.  "Operation Technical Data" does not include 
+development or production related information.
+
+          Bug Fixes.  Software updates generally fall into two 
+categories for export licensing purposes:
+         
+          
+              Updates that fix bugs in previously exported 
+              software; or 
+         
+              Updates that add features or enhancements to 
+              previously exported software.
+
+          EAR Section 779.4(b)(3) authorizes exports of software 
+bug fixes under GTDU.  To be eligible, the bug fixes must be 
+limited to the correction of errors in software that was legally 
+exported or reexported to the current customer under either a 
+general license (or a permissive reexport) or a validated license 
+(or written reexport authorization).
+
+          Enhancements.  Software updates that add features or 
+enhancements to previously exported software are not considered 
+to be bug fixes.  The requirements for such updates are based on 
+the functions of the additional features or enhancements.  For 
+example, an update that adds an enhanced IC physical layout 
+simulation function controlled under ECCN 3D03A is eligible for 
+export under GTDR to most free world countries and requires a 
+validated license for other countries.  Thus, the export of such 
+an update would not present an export licensing problem for most 
+free world countries provided the original GTDR written assurance 
+is worded broadly enough to cover updates.  The written assurance 
+should also cover other maintenance deliverables such as 
+technical assistance that may require a written assurance.
+
+          The export licensing burden for updates to software to 
+countries for which a validated license is required may be 
+significantly minimized if the exporter includes software updates 
+and enhancements on its export license application for the 
+original software package.  In most cases, BXA does not require a 
+detailed description of the updates and enhancements.  The term 
+"software updates and enhancements" is usually acceptable but the 
+exporter should be prepared to provide additional detail if 
+requested.  In addition, the exporter should also include any 
+other possible maintenance deliverables requiring a validated 
+license on its original export license application.
+
+          Remote Access Maintenance.  Software exporters often 
+may provide updates to previously exported software via remote 
+access over a telecommunications link rather than delivering the 
+update on a tape or diskette.  For example, a company may export 
+a process control software package that includes encrypted source 
+code so that the customer may not access the source code.  When 
+the exporter desires to update the software, it merely 
+communicates with the computer on which the software is resident, 
+decrypts the source code, and makes the update.
+
+          Several instructive export licensing issues arise in 
+this remote access maintenance scenario.  First, the export of a 
+software package that includes encrypted source code does not 
+necessarily raise the issue of exporting software with encryption 
+or decryption capability.  There is no specific export licensing 
+requirement for the export of encrypted source code.  Rather 
+there are specific export licensing requirements for software 
+that performs encryption or decryption.  Second, in the above 
+example, the U.S. exporter retains the capability to decrypt the 
+source for updating on the U.S. side of the telephone connection.  
+Therefore, the exporter does not export the decryption 
+capability.
+
+          Third, even though the software update is not exported 
+on a tangible media such as tape or diskette, there is an export 
+of the software update over the telephone lines.  The export 
+licensing requirements of the electronic export are based on the 
+nature of the update.  If the update is a bug fix, then the 
+update is eligible for export under GTDU.  If, however, the 
+update adds new features or enhances existing features, its 
+licensing requirements are based on the functions of the 
+additional features or enhancements as discussed above.
+
+
+H.   Storage Media
+
+          The media on which software or a multimedia product is 
+exported is also subject to export licensing requirements 
+separate from the requirements for the software.  Thus, for 
+example, when exporting software on a floppy disk, an exporter 
+may use General License  G-DEST for all destinations except the 
+embargoed destinations for the export of the floppy disk, and 
+GTDA, GTDU, GTDR, GLX, GNSG or a validated license for the 
+software.
+
+          Generally speaking, all standard, commercial media 
+(e.g., floppy diskette, magnetic tape, and CD-ROM) which contain 
+software are eligible for export under G-DEST to all countries 
+except the embargoed destinations.
+
+          Most ROMs are also eligible for export under G-DEST to 
+all countries except the embargoed destinations.  EEPROMs with 
+either of these characteristics, however, are classified under 
+ECCN 3A01A:
+
+          Exceeding 16 Mbit per package for flash memory types; 
+         or
+
+           
+              Exceeding either of the following limits for all 
+              other EEPROM types:
+
+               --   4 Mbit per package; or
+
+               -- 
+                   1 Mbit per package and having a maximum 
+                   access time of less than 80 ns.
+
+          Such EEPROMs are eligible for export to most free world 
+countries under General License GFW (EAR Section 771.23) and 
+require a validated license for non-GFW eligible countries.  
+EEPROMs not classified under ECCN 3A01A generally are eligible 
+for export under G-DEST to all countries except the embargoed 
+destinations.
+
+     I.   Resales/Reexports
+
+          Both resales and reexport controls are crucial in 
+planning international software distribution strategy.  The new 
+regulations impact favorably on international distribution by 
+expanding the availability of the permissive reexport exception 
+to obtaining specific written U.S. authorization.  Where BXA 
+relaxed the export licensing requirements for software, the 
+reexport licensing requirements were also relaxed.  Thus, for 
+example, the relaxation of licensing requirements for exports of 
+mass-marketed software and IC CAD software applies equally to 
+reexports.
+
+          Reexports of U.S. software are subject to nearly the 
+same requirements as exports.  The EAR defines "reexport" as the 
+shipment of a product from one foreign destination to another.  
+"Resale" covers the shipment of a product from one party to 
+another in the same foreign country. "Shipment" includes the 
+electronic transmission of software.  The overseas distributor 
+may resell (license) software in its own country without U.S. 
+authorization unless the software was exported from the United 
+States under a validated license that expressly prohibited resale 
+or the resale involves a denied party or a prohibited 
+proliferation activity.
+
+          The controls on exports generally apply equally to 
+reexports.  For example, an overseas distributor of U.S. software 
+eligible for export under GTDR must obtain a written assurance 
+from its customers prior to reexporting the software.  To 
+reexport such software to the former Soviet Union, East Bloc, the 
+PRC and any other destinations not eligible under GTDR, the 
+reexporter must obtain prior written U.S. reexport authorization.  
+An overseas distributor of software eligible for export under 
+GTDU may freely reexport such software to all GTDU eligible 
+destinations.  
+
+          The EAR also authorizes a wide range of permissive 
+reexports of U.S. origin software from former COCOM member 
+countries and certain other countries to the former Soviet Union, 
+the PRC, Eastern Europe, Laos, Vietnam and Cambodia.  All 
+software controlled in an ECCN identified by the code letter "A" 
+suffix (excluding software subject to crime controls described in 
+Section 776.14 of the EAR) is eligible for this permissive 
+reexport provision.  This new provision authorizes reexports from 
+Australia, Belgium, Canada, Denmark, France, Federal Republic of 
+Germany, Greece, Italy, Japan, Luxembourg, the Netherlands, 
+Norway, Portugal, Turkey, and the United Kingdom, provided the 
+reexport is made in accordance with the conditions of an export 
+authorization from the government of the applicable country.
+
+     J.   Restrictions on Iran and Syria
+
+          Over the past several years, BXA has tightened its 
+controls on exports of software to Iran and Syria.  The General 
+Software Note is not available.  General License GTDR may not be 
+used for exports of technology and software to Iran and Syria.  
+In addition, there are many ECCNs which authorize exports under 
+GTDU to all countries except Iran, Syria and the embargoed 
+destinations.  The GTDU paragraph in such ECCNs normally reads 
+"GTDU: Yes, except Iran and Syria."
+
+     K.   South Africa
+
+          BXA has eliminated the requirement for a validated 
+license for all software (except GTDA eligible software) destined 
+for the apartheid enforcing entities and military and police in 
+South Africa.  The requirement for the additional GTDR written 
+assurance against retransfer of U.S. software to these entities 
+has also been eliminated.
+
+V.   CONTRACTUAL REQUIREMENTS
+
+     The only specific EAR requirements for contractual 
+provisions for software agreements are the written assurances for 
+GTDR.  These are required as a condition of being eligible for 
+the general license.  The EAR requires that the GTDR written 
+assurance obligation survive the termination or expiration of the 
+software agreement in order to ensure compliance with the direct 
+product element of the assurance.
+
+     For transactions which do not involve GTDR, contractual 
+provisions in international software agreements range from the 
+very terse to the extremely wordy.  At the terse end is a 
+provision that indicates that both parties will comply with all 
+applicable laws including, but not limited to, U.S. export 
+controls.  At the wordy extreme, there can be literally pages of 
+export control provisions.  The legal reason for having 
+additional language in an agreement is to help demonstrate that 
+the exporter's duty of care is being met, particularly since end 
+use is important in the licensing determination.  Such language 
+is not required but it may support your legal position.
+
+     With mass market software there is either no agreement of 
+any type or a shrinkwrap license of some type.  Also, more 
+software will be delivered by Internet or other network in which 
+no formally signed agreement is possible.
+
+     Generally speaking, when a U.S. domestic party is delivering 
+software to another U.S. domestic party, there is no need for an 
+export control provision in the agreement, even when it is known 
+that the U.S. recipient will be exporting the software.  The 
+exception is that the software may not be delivered domestically 
+if the supplier knows or has reason to know it will be illegally 
+exported.
+
+     Many foreign recipients of U.S. technical data and software 
+are concerned about overbroad and imprecise contractual export 
+restrictions proposed by U.S. exporters, particularly the GTDR 
+written assurance that applies to the reexport of the software 
+itself and the direct product of the software.  U.S. exporters 
+frequently require recipients to sign the GTDR written assurance 
+rather than doing the analysis necessary to determine whether the 
+software is eligible under GTDU instead of GTDR.  The primary 
+country concern of recipients is the PRC, which is a prohibited 
+destination under GTDR but eligible under GTDU.
+
+     A.   Suggested Language for GTDU Agreements
+
+          For agreements involving software exported under GTDU, 
+the following contractual provision may be used:
+
+          "[Both parties] acknowledge and agree that all 
+documentation and other technical information and software 
+delivered hereunder ("Technical Data") are subject to export 
+controls imposed by the U.S. Export Administration Act of 1979, 
+as amended (the "Act"), and the regulations promulgated 
+thereunder.  [Recipient] agrees not to export or reexport, 
+directly or indirectly, any Technical Data without complying with 
+the Act and the regulations thereunder.  [Recipient] certifies 
+that neither the Technical Data nor its direct product is 
+intended to be (a) shipped or exported to certain parts of 
+Bosnia-Hercegovina, certain parts of Croatia, Cuba, Iraq, Libya, 
+North Korea, Yugoslavia, (Serbia and Montenegro) or to any other 
+embargoed country to which the U.S. has prohibited shipment, or 
+(b) used for any purposes prohibited by the Act or regulations, 
+including without limitation nuclear proliferation or 
+chemical/biological weapons or missiles."
+
+     B.   Suggested Language for GTDR Agreements
+
+          The following provision may be used for agreements 
+involving software exported under GTDR:  
+
+         "[Both parties] acknowledge and agree that all 
+    documentation and other technical information and software 
+    delivered hereunder ("Technical Data") are subject to export 
+    controls imposed by the U.S. Export Administration Act of 
+    1979, as amended (the "Act"), and the regulations 
+    promulgated thereunder.  [Recipient] agrees not to export or 
+    reexport, directly or indirectly, any Technical Data without 
+    complying with the Act and the regulations thereunder.  
+    [Recipient] certifies that neither the Technical Data nor 
+    its direct product:
+    
+         (a)  will be used for any purposes prohibited by the 
+    Act or regulations, including without limitation nuclear 
+    proliferation or chemical/biological weapons or missiles; 
+    and
+    
+         (b)  will be shipped or exported either directly or 
+    indirectly to Albania, Armenia, Azerbaijan, Belarus, certain 
+    parts of Bosnia-Hercegovina*, Bulgaria, Cambodia, certain 
+    parts of Croatia*, Cuba, Estonia, Georgia, Iraq*, Iran*, 
+    Kazakhstan, Kyrgyszstan, Laos, Latvia, Libya, Lithuania, 
+    Moldova, Mongolia, the People's Republic of China, North 
+    Korea, Romania, Russia, Syria*, Tajikistan, Turkmenistan, 
+    Ukraine, Uzbekistan, Vietnam, Yugoslavia* (Serbia and 
+    Montenegro) or to any other country to which the U.S. has 
+    prohibited shipment."
+
+     The asterisked (*) countries are not technically required 
+under GTDR but arise from other requirements such as OFAC.  They 
+are included in the list to be certain the country restrictions 
+are effectively communicated to the recipient.
+
+VI.  CONCLUSION
+
+     The EAR imposes a complex set of licensing requirements for 
+software exports based on the performance capabilities of the 
+software, its destination and other transaction specific facts.  
+Many software packages may be exported virtually world-wide under 
+GTDU.  The relatively strict export licensing requirements for 
+software with encryption capability, however, imposes a 
+significant burden on the growing range of commercial software 
+that contains security features.  This is unlikely to change in 
+the near future.
+
+     At the same, the new focus on prohibited end-uses and lists 
+of prohibited customers have added a new layer of complexity to 
+compliance.  Knowing your products has always been a key element 
+of compliance with U.S. export licensing requirements.  Knowing 
+your customer now must be an equally important element of 
+compliance procedures.
+                           EXHIBIT A
+
+     THE GENERAL SOFTWARE NOTESupplement No. 2 to EAR 799.1
+
+General Software Note:  General License GTDR, without written 
+assurance, is available for release of software that is generally 
+available to the public by being:
+
+     a.   Sold from stock at retail selling points without 
+restriction by means of:
+
+          1.   Over the counter transactions;
+          2.   Mail order transactions, or
+          3.   Telephone call transactions:  and
+
+     b.   Designed for installation by the user without further 
+substantial support by the supplier.
+
+     General License GTDA is available for software that is 
+publicly available.
+
+     The General Software Note does not apply to exports of 
+"software" controlled by other agencies of the U.S. Government 
+(see Section 770.10 of this subchapter).
+
+     The phrase "without restriction" clarifies that software is 
+not "generally available to the public" if it is to be sold only 
+with bundled hardware generally available to the public.  
+Software that is both bundled with hardware and "generally 
+available to the public" does qualify for General License GTDR 
+without a written assurance. 
+
+
+
+
+
+
+Copyright (c) 1995 Fenwick & West. Permission is 
+granted to distribute this article freely for educational and non-
+commercial purposes, provided that this copyright notice appears on all 
+such copies distributed.
+
+
+
+********************************************************************
+Sandy Jane Wong, M.P.A.
+Write Wavelength
+"Conveying the pragmatics of electronic networks"
+Ph: 415-851-7233
+EMail: sandy@oikoumene.batnet.com
+
+

@@ -1,0 +1,923 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.18 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 18
+
+
+----------------------------------------------------------------------
+
+From: emr@ariel.ucs.unimelb.edu.au (Elizabeth M. Reid)
+Subject: Article 0 -- Abstract of CAF-News 02.18
+
+[Week ending April 19, 1992
+
+  [The draft policy discussed in issue 2.17 will (if finalized and
+  accepted) apply only to the U. of Kentucky's Engineering Computer
+  Center, not to the whole campus. The discussion continues this
+  week. - Carl]
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Notes 1-5 discuss Wes Morgan's draft Student Access/Use Policy for the
+University of Kentucky's Engineering Computer Center (ECC).
+
+1. Carl Kadie says, with respect to a sysadmin's monitoring the
+creation of mailing lists by users: "Do you really want to take even
+partial responsibility for the lists that you do approve of? What if
+you give it an official University OK, and *then* it starts being used
+for credit card [fraud]?"
+    <1992Apr13.154330.19059@eff.org>
+
+2. "Any restrictions placed on your computing access must be directly
+related to the charges filed against you.  Any restrictions must be
+approved by the Director of Engineering Computing prior to their
+initiation... In the event that you, knowingly or unknowingly, appear
+to have violated ECC or University policy, the ECC will attempt to
+contact you."
+    <1992Apr13.144306.3022@ms.uky.edu>
+
+3. That he monitors the creation of mailing lists by his users does
+not mean that a sysadmin is exercising prior review over (and
+therefore taking responsibility for) the subsequent contents of that
+list.
+    <1992Apr13.150507.8230@ms.uky.edu>
+
+4. Punishments meted out by the ECC are acceptable provided that they
+are minor, that they are not imposed before the user has a chance to
+speak, that appeals are possible and that reports of disciplinary
+actions, and the reason for them, taken by the ECC are made available
+to all users.  More severe punishments should only be imposed by the
+university Judicial Committee.
+    <1992Apr14.151655.19264@eff.org>
+
+5. "I think that a 'policy history' would be extremely valuable in
+handling future violations.  I'd like to be able to reference past
+incidents, for questions such as 'Has this happened before?' and 'How
+was it handled in the past?'.  I'm considering a 'sanitized' notebook,
+with names removed."
+    <1992Apr14.120017.15683@ms.uky.edu>
+
+
+Notes 6 to 8 concern the Equal Employment Opportunity Comission's
+(EEOC's) sexual harassment rules, and whether its definition of
+harassment is too broad.
+
+6. "Whiloe working, a group of users and another consultant were
+engaged in conversation with me. Topics included masturbation, sex,
+feminism, and religion. A user overheard some thing I said, most of
+which she found offensive... I have been informed that making comments
+that "are sexual, or could be construed as sexist" are grounds for a
+sexual harrassment charge."
+    <FXBL_3C@ais.org>
+
+7. "You are yet another victim of the _fantastic_ expansion of the 
+term 'sexual harassment'."
+    <32660026@hpmwmat.HP.COM>
+
+8. Part of the EEOC's definition of sexual harassment is that it
+creates a "hostile, intimidating, or offensive working environment".
+This is a very vague definition, and a potentially dangerous one.
+    <1992Apr16.154842.29800@lmpsbbs.mot.com>
+
+
+Notes 9 to 12 address the issue of a sysadmin's right (or otherwise)
+to log outgoing telnet sessions in the interests of security.
+
+9. "Yes, I have the root password, yes I *could* invade people's
+privacy, but I'm a professional and I don't.  If you don't trust the
+people with root to respect your privacy (or at least to respect the
+policies of your site concerning privacy), then fire your SysAdmin and
+get one that you can trust."
+    <73966@netnews.upenn.edu>
+
+10. "Order and freedom are mutually exclusive for the most part...
+monitoring all users to make sure they are not trying to do anything
+wrong is an invasion of privacy."
+    <1992Apr14.191146.29321@murdoch.acc.Virginia.EDU>
+
+11. "The ability to monitor everyone does not mean that you should; in
+this respect, I do not think telnet logging - including ones not
+originating at your site, as the original poster also wanted to do -
+should occur until a break-in is suspected."
+    <1992Apr15.205702.29713@murdoch.acc.Virginia.EDU>
+
+12. "One should consider the overall chilling effect of the
+monitoring.  What effect will it have on the users--and the
+institution--as a whole?"
+    <1992Apr16.035456.6200@ms.uky.edu>
+
+- Elizabeth]
+
+
+In this issue:
+
+Carl M. Kadie    94  >DRAFT Student Access/Use Policy
+Wes Morgan       80  >
+Wes Morgan       64  >
+Carl M. Kadie    78  >
+Wes Morgan       66  >
+Shawn FitzGerald 45  A neat story, and a question.
+Mike Powell      36  >
+Bronis Vidugiris 52  >
+C H Buchholtz    40  >logging outgoing telnet s<> to catch 'hackers' (summary)
+Steven P. Miale  35  >
+Steven P. Miale  41  >ethics of logging telnet <>(was Re: logging outgoing...)
+Sean Casey       19  >
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Apr 13 00:00:00 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 1--Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.154330.19059@eff.org>
+Date: Mon, 13 Apr 1992 15:43:30 GMT
+
+Wes Morgan writes:
+
+>>}Section 3: Electronic Mail Policy
+>>}3.4   All mailing lists with more than 10 members must be registered with
+>>}      the ECC staff. [Paragraph 1.21u, CSC]
+[...]
+
+>My rationale behind this provision comes from several experiences:
+
+>	1) I have had problems with users creating *massive* mailing
+>	   lists (over 200 members) with the 'alias' function of mailx.
+>	   One of these lists started shipping uuencoded images around.
+>	   Chaos ensued.
+
+I think it would be better to prohibit this mailing list on the
+grounds of "substantial disruption", than not preapproved.
+
+>	2) Users have also created mailing lists of people they don't
+>	   even know, in the hopes of meeting them. 
+
+I don't think this is limited to lists of over size 10. Also, I don't
+see how preapproval will help, unless you are going to double check
+all the entries in the list.
+
+If a person complains about unwanted email, you should tell the sender
+to stop sending email to that person.
+
+>	3) Several students have left this organization without informing
+>	   their list members; as a result, I've been getting dozens of
+>	   messages from users/postmasters complaining about "user unknown"
+>	   email bounces.
+
+This must happen with regular email, too. Also, from what I know about
+list members, many will ignore notification anyway. How about just
+suggesting that departing students send a "change of address" message
+to their frequent email correspondents.
+
+>	4) Two users tried to import the entire UK "email phone book" into
+>	   a mailing list.  There are over 6000 addresses in the "phone book";
+>	   with the transcription errors that were made, it took me over two
+>	   weeks to fix the errors, track it down and kill it.
+
+Again, get them for "substantial disruption"
+
+>>}It is important to note that the ECC staff will make arrangements for large
+>>}mailing lists; however, we will not support mailing lists whose subjects
+>>}violate University policy, State law, or Federal law.  (In any situation where
+>>}this is a possibility, the University Counsel will be asked for a decision.)
+
+>I know that this particular example has been bounced around for years, but
+>what about a "child porn image list"?  What about a list that passes out
+>credit card numbers?
+
+These lists are already prohibited because they are illegal. Do you
+really want to take even partial responsibility for the lists that you
+do approve of? What if you give it an official University OK, and
+*then* it starts being used for credit cards?
+
+I'm enclosing a reference.
+
+- Carl
+
+The book _Law of the Student Press_ by the Student Press Law Center
+(1985,1988), p. 37:
+
+"Only two court cases have considered the liability question, and in
+both cases the courts found that the institution was free from
+liability because control was in the hands of the students."{33,34}
+
+...
+
+"Thus, despite arguments by administrators that they need to prevent
+libel, it appears that just the opposite is true: Where administrators
+have not exercised control over the content of student publications,
+the courts have refused to hold their schools responsible for libel
+appearing in such publication. If, however, administrators exercise
+the power of prior review, then the court will also hold them and
+their schools liable for the contents of such publications.
+Encouraging the establishment of a clear-cut separation between school
+administration and editor functions may also result in the reduction
+of libel suits, for potential plaintiffs will realize that substantial
+funds are beyond their reach.
+
+{33} _Mazart v. State_ 441 N.Y.S.2d 600 (1981)
+
+{34} _Milliner v. Turner_ 436 So.2d 1300 (La. App. 1983)
+
+- Carl
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Apr 13 00:00:00 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Article 2--Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.144306.3022@ms.uky.edu>
+Date: Mon, 13 Apr 1992 18:43:06 GMT
+
+kadie@eff.org (Carl M. Kadie) writes:
+>
+>The whole temporary/permanent access restriction/reduction is very,
+>very complex and confusing. Here is a summary:
+>
+>It is open for abuse by the ECC staff. (I don't think that Wes Morgan
+>would abuse "his own" policy, but others could). I think the procedure
+>could be improved by mentioning in parts B and C that supensions and
+>restrictions before a finding will only be imposed "for reasons
+>relating to his physical or emotional safety and well being, or for
+>reasons relating to the safety and well-being of students, faculty, or
+>university property." [student.freedoms] This could be reenforced
+>having the head of ECC OK such actions. (Similar to the OK required in
+>the U. of Delaware policy).
+
+While I thought that the "University property" angle was rather obvious,
+I'll put something in the next draft.  I'll also put an express approval
+requirement in place.
+
+>Part C is especially unclear about how the restiction "depends" on the
+>nature of the charges. A staff member could read it and this that he
+>or she is suppose to punish users before it has been determined that
+>they have volated policy.
+
+Hmmmm....how about adding this?
+
+	"Any restrictions placed on your computing access must be 
+	 directly related to the charges filed against you.  Any
+	 restrictions must be approved by the Director of Engineering
+	 Computing prior to their initiation."
+
+That would (hopefully) prevent restriction of telnet/ftp access of a user 
+who was under plagiarism charges. (or the like)
+	
+
+>Which gives me a chance to use a quote that I've been saving for
+>weeks:
+>
+>   "No, no," said the Queen: "The sentence first -- the verdict
+>    afterwards." -- Lewis Carroll, _Alice in Wonderland_.
+
+Glad to give you the opportunity, Carl; it's isn't quite as weighty
+as your quote from William Douglas, but I like it.   8)
+
+>This probably also applies if they merely appear to violate policy.
+>The staff shouldn't assume that a violation has occured until
+>after at speaking with the user.
+
+OK, how about:
+	"In the event that you, knowingly or unknowingly, appear to have
+	 violated ECC or University policy, the ECC will attempt to con-
+	 tact you."
+
+>"If you do not register your complaint with either the Director of
+>                             ^^^^^^^^^
+>Engineering Computing or the Assistant Dean, it is expected that you
+>will follow the instructions given to you."
+>--
+>Contesting an accusation is not a "complaint".
+
+Agreed; I'll change it to "appeal".
+
+>6.2   Temporary revocations of computing access will be dissolved within
+>      one working day of the resolution of the violation.
+>                                               ^^^^^^^^^^
+>--
+>There may not be a violation; it may only appear that way.
+
+You're right.  How about changing "violation" to "problem" or "situation"?
+
+--Wes
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+
+------------------------------
+
+From caf-talk Caf Apr 13 00:00:00 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Article 3--Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr13.150507.8230@ms.uky.edu>
+Date: Mon, 13 Apr 1992 19:05:07 GMT
+
+kadie@eff.org (Carl M. Kadie) writes:
+>Wes Morgan writes:
+>
+>>>}Section 3: Electronic Mail Policy
+>>>}3.4   All mailing lists with more than 10 members must be registered with
+>>>}      the ECC staff. [Paragraph 1.21u, CSC]
+>
+>These lists are already prohibited because they are illegal. Do you
+>really want to take even partial responsibility for the lists that you
+>do approve of? What if you give it an official University OK, and
+>*then* it starts being used for credit cards?
+
+Hmmmm......you may have a point.
+
+>
+>I'm enclosing a reference.
+>
+>If, however, administrators exercise
+>the power of prior review, then the court will also hold them and
+>their schools liable for the contents of such publications.
+
+Well, I wouldn't be exercising "prior review".  Here's how it would
+work (I've already tested this method -- it works):
+
+	1) User asks for mailing list.
+
+	2) I set up a pointer to an address file, WHICH IS OWNED AND
+           MAINTAINED by the user.  The user is also designated as the
+	   owner of the list, using the standard "maillist-owner" and 
+	   "maillist-request" aliases.  If user "jbuser01" comes to me
+	   and asks me to set up a mailing list named "snarf", here's
+	   all I have to do (sendmail admins take note):
+
+		In the master alias file (mine is /usr/lib/aliases):
+
+		snarf: :include:/usr4/students/jbuser01/snarflist
+		snarf-request: jbuser01
+		snarf-owner: jbuser01
+
+	   Whenever a piece of mail comes in for "snarf@engr.uky.edu",
+	   the mail system consults the file "snarflist" in jbuser01's
+	   directory; he owns the file, and I'm out of the loop.
+
+	3) The user runs the list, adding and deleting members and
+	   handling the distribution.
+
+The sum total of my participation is the addition of the necessary lines
+in the master alias file.  I wouldn't have any input at all to the contents
+of the list.
+
+To me, this is similar to starting a college newspaper.  I give them office
+space and a means of delivery; the rest of it is theirs.  Would this consti-
+tute "prior review"?  What if I eliminate the involvement of the University
+Counsel and just create any mailing list upon request, using this system?
+Would that eliminate any potential liability?
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+
+------------------------------
+
+From caf-talk Caf Apr 14 00:00:00 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 4--Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr14.151655.19264@eff.org>
+Date: Tue, 14 Apr 1992 15:16:55 GMT
+
+Carl> == Carl M. Kadie <kadie@eff.org> 
+
+Carl> Let me make up a scenario. A user apperently sends a million lines of
+Carl> "Wow! I sure can waste paper" to the laser printer." This wastes about
+Carl> 2000 pages of paper and $25 dollars worth of toner.
+
+Carl> You bring him/her up on charges. (At the very least he or she should
+Carl> have to pay for the waste and get a formal warning from the school.)
+
+Carl> The question is, should you also prohibit the user from using the
+Carl> printer while the case is pending? The policy as written seems to say
+Carl> yes. But to me this seems that punishment before establishing guilt
+Carl> (unless you really think the user is stupid enough to do it again
+Carl> while awaiting a University hearing.)
+
+ckd@eff.org (Christopher Davis) writes:
+
+>I would say that a restriction like "can only print 100 pages a week"
+>would be a reasonable reaction to that sort of abuse, without
+>completely prohibiting the user from using the printer(s).  Restrictions
+>are not necessarily all-or-nothing affairs.
+[...]
+
+On eff.org this might be wise. For one thing, your ability to
+discipline users is much weaker than a university's.
+
+But in a university context and assuming you are not going to put this
+restriction on everyone and assuming that this was not part of a
+punishment imposed by the university authorities, this restriction
+seems more like a punishment than a necessary action to protect the
+system.
+
+A necessary action to protect the system is more like:
+  A user complains that a giant print job is tying up the printer
+  The operator confirms this
+               kills the print job
+               sees that the user who submitted it is no longer signed in
+               gets authorization to disable that user's ability to print
+               disables the user's ability to print
+               sends email to the user telling what happened
+
+Disabling printing is necessary because the sys admins think the print
+job is likely to be resubmitted.
+
+However, once the matter is discussed with the user, the print job is
+not likely to be resubmitted. A restriction placed only on the user
+now, seems more like a punishment.
+
+ON THE OTHER HAND,
+this doesn't mean that you shouldn't do it.
+
+There is nothing in the law or in the principles of academic freedom
+that says that minor punishments can only be imposed by the university
+Judical Committee (there may or may not be something in the University
+code). Such punishments are OK (in my opinion), if
+
+1) they really are minor (Restricting use of the printer, or telnet,
+or a game, for week or two, such that classwork is not effected, is,
+IMHO, minor. Even short suspension from the computer or longer
+restictions to services, is not, IMHO, minor).
+
+2) they are imposed after the user gets a chance to speak
+
+3) appeals are possible, the user is told how to appeal, punishment is
+delayed if the user decides to appeal.
+
+4) (opinional?) A report is given to users and the university every so
+often (once a semester?) summarizing the punishments that were imposed
+that period.
+
+- Carl
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Apr 14 00:00:00 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Article 5--Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr14.120017.15683@ms.uky.edu>
+Date: Tue, 14 Apr 1992 16:00:17 GMT
+
+kadie@eff.org (Carl M. Kadie) writes:
+>
+>(opinional?) A report is given to users and the university every so
+>often (once a semester?) summarizing the punishments that were imposed
+>that period.
+
+Actually, I've been thinking about this aspect of the policy.  I think
+that a "policy history" would be extremely valuable in handling future
+violations.  I'd like to be able to reference past incidents, for ques-
+tions such as "Has this happened before?" and "How was it handled in
+the past?".  I'm considering a "sanitized" notebook, with names removed.
+A typical entry might be:
+
+-------------------------------------------------------------------------
+Date: 4/14/92
+
+Incident: User attempting to crack passwords
+
+Situation: On 4/14/92, examination of /usr/adm/sulog revealed that the
+	   user was making extensive use of the su(1) command.  The en-
+	   tries in /usr/adm/sulog indicated that the user was attempting
+	   to access several different userids, none of which were his own.
+	   The conclusion was reached that the user was attempting to
+	   determine the passwords for other userids.
+
+Violation: Sections X.X, Y.Y, and Z.Z of the ECC Access and Use Policy.
+	   Sections A.A, A.B, and A.C of the Code of Student Conduct.
+
+Actions:   The user's access was immediately revoked.  The relevant in-
+	   formation was forwarded to the Dean of Students for possible
+	   disciplinary action.  The user was contacted through his
+	   Department Chairman.
+
+	   When the user contacted ECC, he was informed that the Dean
+	   of Students was considering disciplinary action.  The user
+	   was directed to the Dean of Students' office for further
+	   information about the disciplinary process.  Pending the
+	   Dean of Students' decision, the user's access was restored;
+	   however, he was placed in a restricted shell (rsh(1)), which
+	   prevented him from accessing either the su(1) command or the
+	   directories of other users.
+
+Resolution:The Dean of Students chose to issue a written reprimand.  After
+	   the conclusion of the proceedings, the user's access was restored
+	   to its original state.
+
+Reference: Judicial Board Proceeding #92-04-01
+--------------------------------
+
+I would think that such a notebook would be invaluable in the implementation
+of consistent restrictions/revocations.  It seems that many shops decide on
+restrictions/revocations in a rather cavalier, "off the cuff" manner; a refer-
+ence such as this might help prevent that.
+
+While this "sanitized" version should be available for public review, the
+specifics of each case should be protected by the "student records privacy"
+laws/regulations/procedures.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+
+------------------------------
+
+From caf-talk Caf Apr 16 00:00:00 1992
+Newsgroups: soc.men
+From: chungkuo@ais.org (Shawn FitzGerald)
+Subject: Article 6--A neat story, and a question.
+Message-ID: <FXBL_3C@ais.org>
+Date: Mon, 13 Apr 92 17:21:58 GMT
+
+I work in a computer lab at a community college in Michigan. Whiloe working,
+a group of users and another consultant were engaged in conversation with
+me. Topics included masturbation, sex, feminism, and religion. A user
+overheard some thing I said, most of which she found offensive. It should be
+noted that I did not start this conversation, in addition I also tried to
+quite it down when it seemed to be getting too loud. I am now in Deep Doo
+Doo, or at least there is a very real potential for me to be in said Doo
+Doo.
+
+Addmitedly, as far as proffesional conduct is concerned, I probably should
+not have openly discussed masturbation while working (why not though?).
+However, I have been informed that making comments that "are sexual, or
+could be construed as sexist" are grounds for a sexual harrassment charge. I
+do not know who my accuser is, nor have I ever spoken to her. Yet, according
+to some people around here (faculty of the college, and my supervisors), the
+simple fact that this woman was in the room is reason enough to "get me."
+
+(Oh, it should also be noted that this particular computer lab isn't a
+typical one in which everyone sits at their cold terminal and utters not a
+word. And where 'consualtants' do little more than fix printer mis-feeds. In
+this lab, people actualy talk. There's a certain sense of camraderrie [sic?]
+among both the users and the consultants. There is often discussion going on
+about a great many things.)
+
+Hopefully this will not get me expelled. My supervisors have basically told
+me to 'be carefull.' However, I can't help but be totaly pissed off. Not at
+this woman (whomever she may be), but that SHE'S TECHNICALLY RIGHT. 
+
+I'd like to know if there is some place FTPable that archives sexual
+harrassment policies. I can't believe saying something that "offends"
+somebody in a room, when you've NEVER spoken to them or even know who they
+are can be termed 'sexual harrassment.'\
+
+"Oh, and if I offended you I'm sorry, but maybe you needed to be offended.
+Well, here's my apology and one more thing. FUCK YOU!!"
+    --Suicidal Tendancies
+
+-- 
+   Shawn FitzGerald           |   chungkuo@ais.org
+   (Rational Romantic         |   University of Michigan
+    Mystic Cynical Idealist)  |   Computing Club
+"I love you so I keep dreaming . . ." -Bananas, _The House of Blue Leaves_
+
+
+------------------------------
+
+From caf-talk Caf Apr 16 00:00:00 1992
+From: mikep@hpmwtd.HP.COM (Mike Powell)
+Date: Tue, 14 Apr 1992 03:55:19 GMT
+Subject: Article 7--Re: A neat story, and a question.
+Message-ID: <32660026@hpmwmat.HP.COM>
+Newsgroups: soc.men
+
+
+	I'm sorry to hear about this situation....  If I have a clear
+	picture of the events by your message, then you are yet another
+	victim of the _fantastic_ expansion of the term 'sexual harassment'.
+
+	Ten years ago, it usually meant that a person had to perform some
+	sexual act (or tolerate one) in order to maintain good standing
+	at work, or even to retain one's job.
+
+	These days, all you need to do is say something or own/display
+	something having even the _slightest_ connection to sexuality, near
+	any sexually-hyper-sensitive woman.  (as we all know, it is genetically
+	impossible for a man to be sexually harassed).
+
+	You are probably a far greater victim of harassment.... although
+	hardly anyone will notice becuse the harassment is not sexual, and
+	secondly, you are a man.
+	
+	On a related topic:
+
+	Many people seem to have a difficult time understanding the 
+	difference betueen something that is sexist, and something of a 
+	sexual nature that is uncomfortable or offensive.  They are two
+	TOTALLY different subjects, and yet many folks get confused.
+
+	I'm sorry that I cannot provide you with answers to your specific
+	questions though....   Good luck.
+
+	Apologies for the generalizations.... insert exceptions where
+	appropriate.
+
+	-Mike-
+
+
+
+------------------------------
+
+From caf-talk Caf Apr 16 00:00:00 1992
+Newsgroups: soc.men
+From: bhv@areaplg2.corp.mot.com (Bronis Vidugiris)
+Subject: Article 8--Re: A neat story, and a question.
+Date: Thu, 16 Apr 1992 15:48:42 GMT
+Message-ID: <1992Apr16.154842.29800@lmpsbbs.mot.com>
+
+In article <FXBL_3C@ais.org> chungkuo@ais.org (Shawn FitzGerald) writes:
+
+)I'd like to know if there is some place FTPable that archives sexual
+)harrassment policies. I can't believe saying something that "offends"
+)somebody in a room, when you've NEVER spoken to them or even know who they
+)are can be termed 'sexual harrassment.'\
+
+No - but they are all pretty much the same.  Typically they come from
+the EEOC boilerplate verbatim.
+
+The usual keywords are 'hostile, intimidating, or offensive working
+environment'.  Which is of course _very_ vague.  
+
+The full-boat definition is:
+
+Unwelcome sexual advances, requests for sexual favors, and other verbal or
+physical conduct of a sexual nature constitue sexual harassment when (1)
+submission to such conduct is mae either explicitly or implicitly a term or
+condition of an individual's employment, (2) submission to or rejection of
+such conduct by an individual is use as the basis for employment decisions
+affecting such an individual, or (3) such conduct has the purpose or effect
+of unreasonably interferring with an individual's work performance or
+creating an intimidating, hostile, or offesnive working environment.
+
+You can find some of the rampant paranoia that is currently going on in the
+industry about this topic in a (somewhat) recent article in 'Industry Week'. 
+This paranoia is most likely fueled by a spate of recent court decisions,
+though the details of the decisions are not documented well in the article.
+
+The history of this language is also interesting.  The legislation on which
+it was allegedly based was the Civil Rights act of 1964.  This legislation
+says absolutely NOTHING about 'hostile environments'.  What it says is more
+along the lines of the following:
+
+Title VII of the Civil Rights Act of 1964 makes it "an unlawful employment
+practice for an employer ... to discriminate against any individual with
+respect to his compensation, terms, conditions, or privileges of employment,
+because of such individual's race, color, religion, sex, or national origin."
+42 U.S.C. s 2000e-2(a)(1).
+
+The EEOC argued for the current broad interpretation (based on work by
+McKinnon, co-author of the much discussed 'anti-pornography' ordanance)
+though Clarance Thomas probably deserves his share of the 'credit', being the
+head of the EEOC at the time.  The courts bought this interpretation, and it
+is now the effective law of the land.  I believe the ACLU is challenging it
+in its current form as a violation of the first ammendment (freedom of
+speech) - arguing (correctly IMO) that federal law (which is what Title VII
+is) should not impose content/value judgement restrictions (such as
+'offensive') on speech.
+
+
+------------------------------
+
+From caf-talk Caf Apr 14 00:00:00 1992
+From: chip@eniac.seas.upenn.edu (Charles H. Buchholtz)
+Newsgroups: comp.unix.programmer,comp.admin.policy
+Subject: Article 9--Re: logging outgoing telnet sessions to catch 'hackers' (summary)
+Message-ID: <73966@netnews.upenn.edu>
+Date: 14 Apr 92 14:13:21 GMT
+
+Followups sent to comp.admin.policy; this is no longer a Unix
+programming issue.  I hope I left in enough context for new people.
+
+spm2d@topaz.cs.Virginia.EDU (Steven P. Miale) writes:
+>l1ngo@copper.denver.colorado.edu (Swift) writes:
+>>Let me clarify this. I only intended to log which hosts a user connects to.
+>>Usually, this is all that's needed to find a hacker (at the very least, it
+>>narrows down the list of "suspects").
+>
+>I don't believe that is any of your business. Where someone telnets to,
+>who they send mail to, etc., should not be logged. Your plan sounds
+>an awful lot like "Big Brother" to me.
+
+We log sendmail, rlogin, and telnet connections, but I don't know who
+my users send mail to, etc.  I don't look in those logs for the same
+reason that I don't look through people's home directories or read
+their mail.  Yes, I have the root password, yes I *could* invade
+people's privacy, but I'm a professional and I don't.  If you don't
+trust the people with root to respect your privacy (or at least to
+respect the policies of your site concerning privacy), then fire your
+SysAdmin and get one that you can trust.
+
+We do use those logs.  For instance, when I get a message from a
+SysAdmin from another site who says, "someone cracked an account on
+our machine last night, they logged in to foobar.cc.bigschool.edu as
+fnord at 1:26AM", I can grep through the logs and determine which
+account on my machine was used.
+
+By using grep and awk on these log files, I can get the information I
+need to "protect and serve" my customers, with minimal invasion of
+their privacy.  My job is to provide the services that my customers
+want, and most of them want their accounts to be secure.
+
+
+Charles H. Buchholtz       Systems Programmer     chip@seas.upenn.edu
+	      School of Engineering and Applied Science
+		      University of Pennsylvania
+
+
+------------------------------
+
+From caf-talk Caf Apr 15 00:00:00 1992
+Newsgroups: comp.unix.programmer,comp.admin.policy
+From: spm2d@uvacs.cs.Virginia.EDU (Steven P. Miale)
+Subject: Article 10--Re: logging outgoing telnet sessions to catch 'hackers' (summary)
+Message-ID: <1992Apr14.191146.29321@murdoch.acc.Virginia.EDU>
+Date: Tue, 14 Apr 1992 19:11:46 GMT
+
+In article <vijay.703271720@cdsun.fnal.gov>, vijay@cdsun.fnal.gov (Vijay Gurbani) writes:
+> >>I don't believe that is any of your business. Where someone telnets to,
+> >>who they send mail to, etc., should not be logged. Your plan sounds
+> >>an awful lot like "Big Brother" to me.
+> 
+> Stretching my license analogy, just having a license to drive does not give
+> the licensee (account holder) the right to speed, and/or disregard traffic
+> protocols. If they do, they are held accountable to the police (system
+> maintainer). How does the police make sure that the licensee holds up his/her
+> end? By snooping (radar guns, hiding in an alley, etc) of course! Now would
+> you say that the police was violating your rights by shooting his radar gun
+> in your direction!?!
+
+No, but I WOULD say the policeman was violating my rights if the government
+required me to put a detector in my car that would indicate when and where
+I was going at all times. The analogy you are shooting for is something
+along the lines of "intermittent monitoring", but a logs and history files
+are constant monitoring, a very different idea, more like Big Brother than
+root.
+
+Yes, by constantly monitoring people you'd catch all the speeders, but
+you would take away their rights at the same time. Order and freedom
+are mutually exclusive for the most part.
+At the same time, monitoring all users to make sure they are not trying
+to do anything wrong is an invasion of privacy; and plus, there is always
+a way to circumvent security.
+
+-- 
+Steven Miale - spm2d@virginia.edu   | Backwards compatibility is backward.
+Undergraduate Researcher            |
+Department of Computer Science      |
+University of Virginia              |
+
+
+------------------------------
+
+From caf-talk Caf Apr 15 00:00:00 1992
+Newsgroups: comp.unix.programmer,comp.admin.policy
+From: spm2d@uvacs.cs.Virginia.EDU (Steven P. Miale)
+Subject: Article 11--Re: ethics of logging telnet destinations (was Re: logging outgoing...)
+Message-ID: <1992Apr15.205702.29713@murdoch.acc.Virginia.EDU>
+Date: Wed, 15 Apr 1992 20:57:02 GMT
+
+shandon@cats.ucsc.edu (Timothy Daniel Kolar) says:
+
+> This leads to the reasonable idea that you only start tracking telnets
+> when someone at another site reports an attack from your site.  However,
+> if you trust your system administrator (and you had better) then having
+> logs that aren't looked at until a problem arises is about the same thing.
+
+No, they are very different things. 
+Investigating a crime after it has taken place is standard policy;
+however, surveilance without motive is not.
+If the police want to watch me, or the FBI wishes to tap my phone, it
+is my understanding that they have to suspect me of a crime BEFORE
+they start logging.
+
+You seem to feel that it is fine whether or not you are being accused;
+I do not. The ability to monitor everyone does not mean that you
+should; in this respect, I do not think telnet logging - including
+ones not originating at your site, as the original poster also
+wanted to do - should occur until a break-in is suspected.
+
+> |> Also, the safety of user's data is most easily secured with backups...
+> 
+> 	Safety also entails protecting the information from 
+> unauthorized access (ironically, backups make that harder instead of
+> easier).  
+How so?
+
+A reasonably secure system can be had by making sure people don't pick
+poor passwords, and making sure people don't give them out. I doubt there
+have been a lot of systems broken into that had adequate security measures.
+
+Followups directed to comp.admin.policy.
+
+-- 
+Steven Miale - spm2d@virginia.edu   | Backwards compatibility is backward.
+Undergraduate Researcher            |
+Department of Computer Science      |
+University of Virginia              |
+
+
+------------------------------
+
+From caf-talk Caf Apr 16 00:00:00 1992
+Newsgroups: comp.admin.policy
+From: sean@ms.uky.edu (Sean Casey)
+Subject: Article 12--Re: ethics of logging telnet destinations (was Re: logging outgoing...)
+Message-ID: <1992Apr16.035456.6200@ms.uky.edu>
+Date: Thu, 16 Apr 1992 03:54:56 GMT
+
+
+Despite the "rightness" and "wrongness" of logging these things, one
+should consider the overall chilling effect of the monitoring. What
+effect will it have on the users--and the institution--as a whole?
+
+One might compare and contrast it to other forms of monitoring such as
+license plate scans to see where you go, audit trails such as
+recording your every command, etc.
+
+It would be a good idea to study how these things affect the minds of
+non-criminals, and weigh the overall effect with the security gained.
+
+Sean
+
+-- 
+                  |``Wind, waves, etc. are breakdowns in the face of the
+Sean Casey        | commitment to getting from here to there. But they are the
+sean@s.ms.uky.edu | conditions for sailing -- not something to be gotten rid
+U of KY, Lexington| of, but something to be danced with.''
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

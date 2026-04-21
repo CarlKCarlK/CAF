@@ -1,0 +1,527 @@
+
+From wiliki!tim Sat Sep 05 10:58:55 HST 1992
+Path: wiliki!tim
+~From: tim@wiliki.eng.hawaii.edu (Tim Brown)
+~Newsgroups: info.policy
+~Subject: COE Computer Policy
+Message-ID: <1992Aug20.190217.10863@wiliki.eng.hawaii.edu>
+~Date: 20 Aug 92 19:02:17 GMT
+Approved: tim@wiliki.eng.hawaii.edu (Tim Brown)
+Organization: University of Hawaii, College of Engineering
+~Lines: 580
+
+		   COLLEGE OF ENGINEERING COMPUTER FACILITY POLICY
+		     ON COMPUTER USAGE AND USER RESPONSIBILITIES
+
+
+			    University of Hawaii at Manoa
+			       College of Engineering
+
+
+
+
+
+
+	 GENERAL INFORMATION
+
+	 The College of Engineering (COE) maintains an extensive  collection
+	 of computer hardware and software for use by its students, faculty,
+	 and staff in fulfilling  their  educational  and  research  duties.
+	 Students  will  find these facilities essential for keeping up with
+	 what is happening in the College and for completing their Engineer-
+	 ing  course  work.  The  main concentration of this equipment is in
+	 Holmes 244 and COE students, faculty, and  staff  can	access	this
+	 equipment on a first come first serve basis by presenting a current
+	 UH student ID card.
+
+	 Each student and  faculty  member  in	Engineering  and  all  staff
+	 members  whose  duties require computer access are given an account
+	 on Wiliki, the College of  Engineering's  HP9000/870  central	com-
+	 puter.  These accounts also allow access to the COE's ten HP works-
+	 tations in Holmes 244. Through these systems, users have the  abil-
+	 ity  to  use electronic mail and the COE's Information System (is),
+	 access the  Internet  (a  nationwide  computer  network),  and  run
+	 Engineering packages such as Spice, Mapinfo, and ANSYS.
+
+	 Wiliki and the workstations are multi-user computer systems and  as
+	 such  require	responsible  behavior on the part of all users. This
+	 document lays out your rights and  responsibilities  in  having  an
+	 account  on such a system. Those who cannot fulfill their responsi-
+	 bilities as users of a multi-user system will have  their  accounts
+	 suspended  or	terminated, thus it is essential that you understand
+	 what is expected of you. Please remember that an account on  Wiliki
+	 is  a	privilege  granted  to	you  as a student, faculty, or staff
+	 member in the College of Engineering, not a right, and its  contin-
+	 ued  use is dependent upon responsible behavior on the part of you,
+	 the user.
+
+	 GENERAL USER RESPONSIBILITIES
+
+	      In the practice of their profession,  engineers  must  perform
+	 _________________________
+	 August 6, 1992
+
+
+
+
+
+
+
+
+
+
+					- 2 -
+
+
+	      under a  standard  of  professional  behavior  which  requires
+	      adherence  to  the  highest  principles  of ethical conduct on
+	      behalf of the public, clients, employers and the profession.
+
+	      Engineers shall be guided in all their professional  relations
+	      by the highest standards of integrity.
+
+	      Engineers shall avoid all conduct or practice which is  likely
+	      to discredit the profession.
+
+
+			       --Code of Ethics for Engineers
+
+
+	 As a shared resource among hundreds of people it is important	that
+	 Wiliki function as smoothly as possible with minimal disruptions of
+	 service and fair access for all. This means that each user has  the
+	 following responsibilities while using this system:
+
+	 1. Do not interfere with the work of other system users.
+
+	      This means that you must	not  send  unsolicited	messages  to
+	      other  users'  terminal  screens or engage in other activities
+	      which prevent them from accomplishing their work.  Second, you
+	      may  not	attempt  to  obtain  the passwords of other users or
+	      alter their files in any way, even if they should accidentally
+	      leave  their  accounts accessible either by failing to log out
+	      or altering their protections. Any user found in possession of
+	      other  user's  passwords, copying another's files without per-
+	      mission, using another's account,  or  repeatedly  interfering
+	      with  the  work  of  others  will have his/her COE access ter-
+	      minated.
+
+	      Should you find someone has left a  terminal  without  logging
+	      out  of their account, please log them out and notify the sys-
+	      tem manager of the user's name by sending electronic  mail  to
+	      "sysman" on Wiliki. (You can determine who the user is by typ-
+	      ing "whoami" at the terminal before logging them out).
+
+	      Finally, when you are working in	Holmes	244,  work  quietly,
+	      keep  conversations  at  a low volume, and help to maintain an
+	      environment conducive to work.
+
+	 2. Do not unnecessarily tie up system resources.
+
+	      If you are running a program which makes very heavy CPU  usage
+	      (e.g.  a	large  number crunching program) on Wiliki or the HP
+	      workstations, you should lower the priority of this program so
+	      that  it does not slow down the system for other users, or you
+	      should run the program between midnight and  7am	when  system
+	      usage is light. (For details on lowering process priority type
+	      "man nice" on Wiliki or see one of the Lab Monitors).   System
+	      management  reserves  the right to terminate any process which
+	      affects the overall performance of the system.
+
+
+
+
+
+
+
+
+
+					- 3 -
+
+
+	      Avoid excessive disk  utilization.  We  have  several  hundred
+	      users  on  Wiliki.  If you have files you are not using and do
+	      not anticipate a need for in the near  future,  please  either
+	      compress	them  down  (type  "man  tar"  and "man compress" on
+	      Wiliki or see a Lab Monitor for more details) or copy them  to
+	      diskette	and remove them from the system. If you receive mes-
+	      sages from the system about being above quota, please  try  to
+	      drop  your disk usage below the level requested in the message
+	      as soon as possible. We recognize that there are times when it
+	      is  necessary  to exceed the limits temporarily, but if you do
+	      so, you should return to your allowed quota  in  a  reasonably
+	      short  period of time. If an individual user stays above quota
+	      for too long, the system management may move some  of  his/her
+	      files to temporary storage.
+
+	      COE facilities are intended for educational and research	pur-
+	      poses  and  these have higher priority than other types of use
+	      (e.g., game playing or reading electronic news).	If  you  are
+	      using  a	terminal for games or for reading news and there are
+	      other users waiting, you are expected to yield the terminal to
+	      them.  As  a  matter  of courtesy in situations like this, you
+	      should give up the terminal voluntarily without having  to  be
+	      asked.
+
+	 3. Do not allow others to use your account and report	unauthorized
+	 access.
+
+	      Your COE account is issued solely for your use. Under no	cir-
+	      cumstances should you allow ANY other person to access it. Use
+	      of another user's account or  loaning  account  privileges  to
+	      others   is  prohibited  and  will  result  in  loss  of	your
+	      privileges with the COE.
+
+	      You are further  required  to  notify  the  system  management
+	      immediately  of  any  unauthorized access to your account (for
+	      example, if you find your files missing or  changed,  or	find
+	      someone  else logged into your account from another terminal).
+	      You may do this by sending mail to "sysman" on  Wiliki  or  by
+	      seeing  one  of the Lab Monitors in Holmes 244 and asking them
+	      to pass the information on to the  system  management.  It  is
+	      essential  that  such  access  be detected and the responsible
+	      person located to ensure that system security on Wiliki is not
+	      compromised which could result in the loss of everyone's files
+	      or interference with normal operation of the system. If you do
+	      find  someone  has accessed your account, change your password
+	      immediately and then check with the Lab Monitors on what other
+	      steps  you should take (e.g., checking network files, checking
+	      protections on your files, etc.).
+
+	 4. Do not make copies of any software from COE machines for use  on
+	 other computers.
+
+	      Unless the documentation EXPLICITLY states otherwise, you  may
+	      NOT  copy  any  software	from  COE  machines  for use on home
+
+
+
+
+
+
+
+
+
+					- 4 -
+
+
+	      machines or any other machines  on  or  off  campus.  The  COE
+	      operates most of its software and hardware under very restric-
+	      tive licenses, the violation  of	which  have  serious  conse-
+	      quences for the College. Any user who copies licensed software
+	      will be denied further access to COE machines and may be	sub-
+	      ject to legal action by the software manufacturers. Similarly,
+	      the use of illegal or unauthorized software on COE machines is
+	      prohibited.
+
+	 5. Do not use your account for any commercial endeavors.
+
+	      COE facilities, including hardware,  software,  and  networks,
+	      are  intended  exclusively  for  educational and research pur-
+	      poses. Any commercial use of COE facilities is prohibited.
+
+	 6. Guard your password carefully and change it frequently.
+
+	      Passwords guessed or determined by watching users log  in  are
+	      still  the most common means by which accounts are penetrated.
+	      Users can help to prevent this by the following measures:
+
+	      a.   Never give out your password to anyone else.  NOTE:	this
+		   includes  the  system  management.  No  legitimate system
+		   manager will ever ask you for your password.
+
+	      b.   Do not type your password while someone else watches you.
+
+	      c.   Change your password frequently with  the  "passwd"	com-
+		   mand.
+
+	      d.   Never use a password based on  personal  reference  data,
+		   e.g.,  names  of family members, birthdates, social secu-
+		   rity numbers, etc.
+
+	      e.   Never use a password which would occur in a dictionary.
+
+	      f.   Use passwords with combinations of upper and  lower	case
+		   letters and special characters. For example, cat9Frog, or
+		   big!Apple. Pass phrases, made from the  first  letter  of
+		   each  word  of  a  phrase, with the addition of a special
+		   characters are an especially good choice (e.g., "Lucy  in
+		   the sky with diamonds" becomes "!LitswD").
+
+	 7. Always cooperate with requests from  the  system  administrators
+	 for information about
+		 your computing activities.
+
+	      From time to time,  the  system  administrators  may  find  it
+	      necessary  to ask you why you are consuming resources, whether
+	      you were logged in at a particular time, or some other  infor-
+	      mation  about  your use of the system. If asked, please assist
+	      them in whatever way you can. Their only reasons for  request-
+	      ing  this information will be to pursue possible security vio-
+	      lations, close security loopholes, and see to the  fair  usage
+
+
+
+
+
+
+
+
+
+					- 5 -
+
+
+	      of the facility by all users.
+
+	 8. Report any security flaws immediately.
+
+	      All multi-user  systems  have  security  flaws.  You  may  NOT
+	      exploit  such  flaws  in	any way. The only acceptable course,
+	      should you detect such a flaw, is  to  notify  the  management
+	      immediately  by sending email to "sysman" on Wiliki. Trying to
+	      explore the flaw on your own, testing it out to see its extent
+	      or  effect,  is  unethical and unacceptable because the system
+	      management has no way to distinguish curious exploration	from
+	      malicious exploitation. If you wish to help the system manage-
+	      ment track down bugs, contact them  and  volunteer  your	ser-
+	      vices.
+
+	 MISUSE OF COMPUTING RESOURCES AND PRIVILEGES
+
+	 Misuse of computing resources and privileges includes, but  is  not
+	 restricted to, the following:
+
+	      +    Attempting  to  modify  or  remove  computer   equipment,
+		   software, or peripherals without proper authorization.
+
+	      +    Accessing computers, computer software, computer data  or
+		   information,  or  networks  without proper authorization,
+		   regardless  of  whether  the  computer,  software,  data,
+		   information,  or network in question is owned by the Col-
+		   lege (That is, if you abuse the  networks  to  which  the
+		   College belongs or the computers at other sites connected
+		   to those networks, the College will treat this matter  as
+		   an abuse of your COE computing privileges).
+
+	      +    Sending fraudulent computer mail or breaking into another
+		   user's electronic mailbox.
+
+	      +    Violating any software license  agreement  or  copyright,
+		   including  copying or redistributing copyrighted computer
+		   software,  data,  or  reports  without  proper,  recorded
+		   authorization.
+
+	      +    Harassing or threatening other users or interfering	with
+		   their access to the College's computing facilities.
+
+	      +    Taking advantage of another user's naivete or  negligence
+		   to  gain  access to any computer account, data, software,
+		   or file other than your own.
+
+	      +    Encroaching on others' use  of  the	College's  computers
+		   (e.g.,  sending  frivolous  or excessive messages, either
+		   locally or off-campus; printing excess  copies  of  docu-
+		   ments,  files,  data, or programs; willfully writing pro-
+		   grams to tie up resources; modifying  system  facilities,
+		   operating  systems,	or  disk  partitions;  attempting to
+		   crash a College computer; damaging or vandalizing College
+
+
+
+
+
+
+
+
+
+					- 6 -
+
+
+		   computing  facilities,  equipment,  software, or computer
+		   files).
+
+	      +    Disclosing or removing proprietary information, software,
+		   printed  output  or	magnetic  media without the explicit
+		   permission of the owner.
+
+	      +    Reading other users' data, information,  files,  or	pro-
+		   grams  on  a  display  screen,  as printed output, or via
+		   electronic means, without the  owner's  explicit  permis-
+		   sion.
+
+	 In addition, some of the above actions may constitute criminal com-
+	 puter	abuse,	which  may be punishable under State or Federal sta-
+	 tutes.
+
+	 Unless specifically authorized by a class instructor,	all  of  the
+	 following  uses  of  a  computer are violations of the University's
+	 guidelines for academic honesty and are punishable as acts of	pla-
+	 giarism:
+
+	      +    Copying a computer file that contains  another  student's
+		   assignment and submitting it as your own work.
+
+	      +    Copying a computer file that contains  another  student's
+		   assignment  and  using it as a model for your own assign-
+		   ment.
+
+	      +    Working together on an assignment, sharing  the  computer
+		   files   and	submitting  that  file,  or  a	modification
+		   thereof, as your own individual work.
+
+	 SYSTEM ADMINISTRATOR'S RESPONSIBILITIES
+
+	 The system administrators' use of the College's computing resources
+	 is  governed  by  the same guidelines as any other user's computing
+	 activity. However a system administrator has  additional  responsi-
+	 bilities  to  the users of the network, site, system, or systems he
+	 or she administers:
+
+	      +    A system administrator ensures that all users of the sys-
+		   tems,  networks,  and  servers that he or she administers
+		   have access to  the	appropriate  software  and  hardware
+		   required for their College computing.
+
+	      +    A system administrator is responsible for the security of
+		   a system, network, or server.
+
+	      +    A system administrator must make sure that  all  hardware
+		   and	software  license agreements are faithfully executed
+		   on all systems, networks, and servers for which he or she
+		   has responsibility.
+
+	      +    A system administrator must take  reasonable  precautions
+
+
+
+
+
+
+
+
+
+					- 7 -
+
+
+		   to guard against corruption of data or software or damage
+		   to hardware or facilities.
+
+	      +    A system administrator must treat information  about  and
+		   information stored by the system's users as confidential.
+
+	 In the case where a system administrator has  reasonable  cause  to
+	 believe that system response, integrity, or security is threatened,
+	 a system administrator is authorized to access the files and infor-
+	 mation necessary to find and resolve the situation.
+
+	 CONSEQUENCES OF MISUSE OF COMPUTING PRIVILEGES
+
+	 Abuse of computing privileges is subject to disciplinary action. If
+	 system administrators of the COE Computer Facility have strong evi-
+	 dence of misuse of computing resources, and if that evidence points
+	 to the computing activities or the computer files of an individual,
+	 they have the obligation to pursue any  or  all  of  the  following
+	 steps to protect the user community:
+
+	      +    Notify the user's instructor, department chair, or super-
+		   visor of the investigation.
+
+	      +    Suspend or restrict the user's computing privileges	dur-
+		   ing	the  investigation. A user may appeal such a suspen-
+		   sion or restriction	first  with  the  system  management
+		   (send  mail	to "sysman" on Wiliki and request a meeting)
+		   and, if this is insufficient to resolve the	matter,  may
+		   subsequently  petition  for	reinstatement  of  computing
+		   privileges through the COE Assistant Dean.
+
+	      +    Inspect the user's files, diskettes, and/or tapes. System
+		   administrators must be certain that the trail of evidence
+		   leads to the user's	computing  activities  or  computing
+		   files  before  inspecting  the  user's  files. The system
+		   administrators shall maintain a  written  record  of  the
+		   reasoning  and  evidence  which justifies inspection of a
+		   user's files.
+
+	      +    Refer the matter for processing through  the  appropriate
+		   University	department.   This  would  be  the  Dean  of
+		   Engineering or the Dean of Students in the case  of	stu-
+		   dent  abuse	and  the  UH personnel office in the case of
+		   staff or faculty abuse.
+
+	 Disciplinary action may include the loss  of  computing  privileges
+	 and  other disciplinary actions. It should be understood that these
+	 regulations do not preclude enforcement under the laws and  regula-
+	 tions	of  the State of Hawaii, any municipality or county therein,
+	 and/or the United States of America.
+
+	 NOTE TO STUDENT USERS: Students whose	accounts  are  suspended  or
+	 removed  should be aware that this may make completion of Engineer-
+	 ing coursework difficult or impossible. However, this will  not  be
+
+
+
+
+
+
+
+
+
+					- 8 -
+
+
+	 grounds  for  restoration of an account. All students must read and
+	 understand the policies in this document and  understand  that  the
+	 consequences	of   their   violation	include  loss  of  computing
+	 privileges which may seriously affect their ability to continue  as
+	 students in Engineering.
+
+	 NOTE ON PRIVACY OF FILES: Under  normal  circumstances  the  system
+	 administrators  will  NOT  access  a  user's files. However, should
+	 there be reasonable cause to  believe	that  an  account  has	been
+	 compromised  or  is  being  used  in a manner inconsistent with the
+	 above policy, examination of files by the administrators is permit-
+	 ted.
+
+	 As a general rule, users of the system should be aware  that  files
+	 and electronic mail are not secure on the COE systems or the Inter-
+	 net. Even if the administrators do not access a user's files, there
+	 is  always  the  possibility of a security flaw that allows another
+	 user access to anyone's files. Similarly, mail sent  electronically
+	 may  be  intercepted  at  any number of points along the way to its
+	 destination and mail  files  at  either  end  are  not  necessarily
+	 secure.   Users  should keep this in mind and NEVER store confiden-
+	 tial, sensitive, or potentially embarrassing information  on  these
+	 systems.  No one can give you a guarantee of the confidentiality of
+	 files on COE systems and the College makes no such claims of confi-
+	 dentiality.
+
+	 Furthermore, in a multi-user environment of this type	the  College
+	 can  make  no	guarantees about the integrity or protection of pro-
+	 grams and data stored on its systems. Users are cautioned  to	make
+	 frequent  backups  of important files to diskettes or on other sys-
+	 tems to which they have access.
+
+	 QUESTIONS OR COMMENTS
+
+	 Any questions of interpretation of or comments regarding this	pol-
+	 icy	   should	be	 mailed       electronically	  to
+	 "sysman@wiliki.eng.hawaii.edu" or surface mailed to:
+
+		 System Management
+		 College of Engineering Computer Facility
+		 2540 Dole Street
+		 Honolulu, Hawaii 96822
+
+	 ACKNOWLEDGEMENTS
+
+	 This policy draws heavily on the policy of the UCLA  SEASnet  which
+	 in  turn was adapted from those of numerous other policies, includ-
+	 ing but not limited to those of: the Columbia	University  Computer
+	 Science  Department,  the  California	Institute of Technology, the
+	 UCLA department of Computer Science Academic  Honesty	Policy,  the
+	 University of Delaware's Guide to Responsible Computering, and com-
+	 ments	from  SUNY-Albany,  University	of  Washington,   Washington
+	 University   (St.   Louis),   Indiana	University,  Michigan  State
+	 University, the University of New Mexico and the Smithsonian Insti-
+	 tute.
+

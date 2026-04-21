@@ -1,0 +1,538 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 31, 1993",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Cornell University announced it would disconnect computers used to transmit material violating university policies or laws.",
+        "The Software Publishers Association reached a $130,000 settlement with the University of Oregon for copyright infringement.",
+        "Debate occurred over whether government entities like UC Berkeley are obligated to release public information in electronic form."
+      ],
+      "organizations": [
+        "Cornell University",
+        "UC-Berkeley",
+        "University of Oregon",
+        "Software Publishers Association",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Aaron Barnhart",
+        "Carl Kadie",
+        "Wes Morgan"
+      ],
+      "summary": "This abstract summarizes three key debates regarding academic freedom and computing: Cornell University's policy on disconnecting computers used to transmit prohibited material, UC Berkeley's refusal to provide an electronic class schedule to a student, and the Software Publishers Association's copyright infringement settlement with the University of Oregon.",
+      "title": "Article 0 -- Abstract of CAF-News 03.04",
+      "topics": [
+        "network policy",
+        "censorship",
+        "public information",
+        "software copyright",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "barnhart@ddsw1.mcs.com (Aaron Barnhart)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 0 -- Abstract of CAF-News 03.04",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 28, 1993",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "The university reserves the right to disconnect both university-owned and non-university-owned computers from its networks for policy or law violations.",
+        "Network access may be temporarily closed for files containing obscene or offensive material pending judiciary procedures."
+      ],
+      "organizations": [
+        "Cornell University",
+        "University Assembly"
+      ],
+      "people": [
+        "M. Stuart Lynn",
+        "Ray Oglesby",
+        "Henry DeVries",
+        "Eric Scheirer"
+      ],
+      "summary": "Cornell University introduced a new electronic communications policy allowing the university to disconnect computers used to transmit material violating laws or university codes. The policy was prompted by incidents involving child pornography and hate speech. Faculty expressed concerns regarding the qualifications of officials making value judgments on speech and the potential for 'trigger-happy' administration.",
+      "title": "Cornell changes computer speech policy",
+      "topics": [
+        "academic freedom",
+        "computer speech policy",
+        "network censorship",
+        "hate speech",
+        "obscenity"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 28 Jan 1993 04:14:08 GMT",
+      "from": "escheire@sunlab.cit.cornell.edu (Eric Scheirer)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<9301281414.AA18924@rose.cit.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 1--Cornell changes computer speech policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 28, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Cornell's policy allows disconnecting entire systems (regardless of ownership) for individual violations.",
+        "System administrators are unqualified to make subjective value judgments on obscenity or offensive material.",
+        "Applying local university policies to global network resources is a serious mistake."
+      ],
+      "organizations": [
+        "Cornell University",
+        "University of Kentucky"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Eric Scheirer",
+        "Henry DeVries"
+      ],
+      "summary": "Wes Morgan critiques a new Cornell University policy that allows the university to disconnect computers from its network if they transmit material violating policies or laws. Morgan argues that such broad powers force system administrators into the role of censors and judges, potentially disrupting essential services for innocent users. He highlights the difficulty of applying local 'community standards' to global networks like Usenet and Gopher.",
+      "title": "Re: Cornell changes computer speech policy",
+      "topics": [
+        "censorship",
+        "network access",
+        "system administration",
+        "academic freedom",
+        "community standards"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 28 Jan 1993 15:11:32 GMT",
+      "from": "morgan@engr.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<C1KKv9.99M@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 2--Re: Cornell changes computer speech policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 28, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Federal courts distinguish between harassing speech and offensive speech.",
+        "State universities cannot constitutionally base campus speech restrictions on EEOC rules.",
+        "Offensive public expression is protected if those offended can avoid it by averting their eyes."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Cornell University",
+        "University of Wisconsin",
+        "University of Michigan"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie critiques a new computer speech policy at Cornell University, arguing that defining harassment as access to offensive material justifies censorship. He provides an EFF FAQ and legal references to distinguish between protected offensive speech and illegal harassment in academic settings. The post emphasizes that First Amendment protections generally prevent state universities from banning offensive content on networks like Netnews.",
+      "title": "Re: Cornell changes computer speech policy",
+      "topics": [
+        "censorship",
+        "harassment",
+        "academic freedom",
+        "Netnews",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 28 Jan 1993 23:01:50 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1993Jan28.230150.10298@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 3--Re: Cornell changes computer speech policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "January 29, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Cornell reported an increase in sexual harassment cases attributed to national trends and increased awareness.",
+        "High-tech harassment included the use of offensive electronic mail, screen savers, computer graphics, and sounds."
+      ],
+      "organizations": [
+        "Cornell University",
+        "Office of Equal Opportunity (OEO)"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie provides context for Cornell University's decision to restrict access to files containing obscene or offensive material on computer networks. He cites a report from the Office of Equal Opportunity indicating an increase in 'high-tech harassment,' including offensive emails and screen savers. The item highlights the intersection of campus sexual harassment policies and the regulation of digital speech.",
+      "title": "Cornell changes computer speech policy",
+      "topics": [
+        "computer speech policy",
+        "high-tech harassment",
+        "academic freedom",
+        "network censorship"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 29 Jan 1993 02:41:54 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1993Jan29.024154.13975@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 4--Re: Cornell changes computer speech policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 25, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The Registrar's refusal to release a file based on the risk of users relying on outdated information is presented as a valid management decision.",
+        "Unilateral release of institutional data without maintenance obligations can create administrative burdens for the source institution."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "UC Berkeley"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Eric Hollander"
+      ],
+      "summary": "Wes Morgan critiques an action by Eric Hollander, who unilaterally posted the UC Berkeley Schedule of Classes to the internet after being denied a copy by the Registrar. Morgan argues that providing outdated information without official quality control is a misuse of information and can hinder institutional operations. The exchange highlights early conflicts between student-led 'information freedom' initiatives and university administrative control over data accuracy.",
+      "title": "Article 5--Re: [ucb.org.csua, et al.] The Schedule of Classes",
+      "topics": [
+        "information access",
+        "data integrity",
+        "academic administration",
+        "digital archives"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 25 Jan 1993 15:42:59 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<C1F2Bo.4u9@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 5--Re: [ucb.org.csua, et al.]  The Schedule of Classes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 25, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "UC Berkeley is a unit of government obligated to release public information",
+        "The university punished a student for exercising the right to publish public data",
+        "The disciplinary action was based on the content of the extracted data rather than the physical act of accessing it"
+      ],
+      "organizations": [
+        "UC Berkeley",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie critiques UC Berkeley for failing to publish a class schedule online and subsequently punishing a student who extracted and published the data. Kadie argues that as a government entity, the university had a moral and legal obligation to release the information. He suggests the student's physical actions with hardware were only deemed offenses because of the nature of the data retrieved.",
+      "title": "Article 6--The Schedule of Classes",
+      "topics": [
+        "academic freedom",
+        "freedom of information",
+        "student rights",
+        "data access"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 25 Jan 1993 18:15:30 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1993Jan25.181530.2273@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 6--The Schedule of Classes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Jan 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The university was disingenuous in claiming a transgression was about disconnecting cables when the primary concern was the release of information.",
+        "Publicly available information does not automatically grant an unrestricted right to republish or aggregate that data without privacy concerns."
+      ],
+      "organizations": [
+        "University of California, Berkeley",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Brian Harvey",
+        "Carl M. Kadie",
+        "Eric"
+      ],
+      "summary": "Brian Harvey discusses a dispute regarding the university's control over the publication of online class schedules and the disciplinary actions taken against an individual named Eric. Harvey argues that while the university's initial limited release of data was not necessarily censorship, it was disingenuous for the administration to frame the transgression as a technical issue (disconnecting cables) rather than a dispute over information release.",
+      "title": "Article 7--Re: The Schedule of Classes",
+      "topics": [
+        "academic freedom",
+        "information privacy",
+        "censorship",
+        "university administration"
+      ]
+    },
+    "identity": {
+      "date": "25 Jan 1993 22:42:27 GMT",
+      "from": "bh@anarres.CS.Berkeley.EDU (Brian Harvey)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1k1qcj$bs9@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 7--Re: The Schedule of Classes",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,ucb.org.csua,ucb.org.ocf,ucb.english,talk.environment,comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 26, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The dissemination of student directory information is regulated by the Family Education Rights and Privacy Act."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of California, Berkeley"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Brian Harvey"
+      ],
+      "summary": "Carl Kadie responds to Brian Harvey regarding the definition of public information in the context of university schedules. Kadie argues that student directory information is subject to specific regulations under the Family Education Rights and Privacy Act (FERPA).",
+      "title": "Article 8--Re: The Schedule of Classes",
+      "topics": [
+        "student privacy",
+        "FERPA",
+        "public information",
+        "academic records"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 26 Jan 1993 01:29:00 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<1993Jan26.012900.10083@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 8--Re: The Schedule of Classes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 26, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Information in a phone book is not copyrightable per the Feist case, only its particular arrangement is."
+      ],
+      "organizations": [
+        "EFF",
+        "Stanford University"
+      ],
+      "people": [
+        "Mike Godwin"
+      ],
+      "summary": "Mike Godwin responds to a discussion regarding the copyrightability of databases. He cites the U.S. Supreme Court's Feist case to argue that factual information in a phone book is not copyrightable, though its specific arrangement may be.",
+      "title": "Article 9--Re: The Schedule of Classes",
+      "topics": [
+        "copyright",
+        "databases",
+        "fair use",
+        "legal precedents"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 26 Jan 1993 19:00:21 GMT",
+      "from": "mnemonic@eff.org (Mike Godwin)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<1993Jan26.190021.23744@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 9--Re: [ucb.org.csua, et al.]  Re: The Schedule of Classes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "28 Jan 93",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The government should have the same policies for releasing information in electronic form as they do for paper.",
+        "Distributing information via FTP should be as legal and protected as printing it in a newspaper."
+      ],
+      "organizations": [
+        "EFF",
+        "Data Research Associates, Inc"
+      ],
+      "people": [
+        "Sean Donelan",
+        "HOLT A D"
+      ],
+      "summary": "Sean Donelan argues that government and academic institutions should release information in electronic format if it is already available on paper. He contends that the potential for electronic data to become outdated does not justify withholding it, comparing the legitimacy of FTP sites to that of newspapers.",
+      "title": "Article 10--Re: The Schedule of Classes",
+      "topics": [
+        "electronic records",
+        "government transparency",
+        "FTP",
+        "information access"
+      ]
+    },
+    "identity": {
+      "date": "28 Jan 93 15:06:56 CST",
+      "from": "sean@cobra.dra.com",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1993Jan28.150656.80@cobra.dra.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 10--Re: The Schedule of Classes",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 29, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Software Publishers Association filed over 100 lawsuits since 1989.",
+        "The University of Oregon paid a $130,000 settlement for copyright infringement."
+      ],
+      "organizations": [
+        "Software Publishers Association",
+        "University of Oregon",
+        "Cornell University"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie discusses reports of the Software Publishers Association (SPA) targeting universities for software misuse and copyright infringement. The post highlights a $130,000 settlement against the University of Oregon, cited as the first such suit against a public college. Kadie questions whether these enforcement actions involved unconstitutional 'fishing expedition' searches of university computers.",
+      "title": "Article 11--SPA vs. Universities",
+      "topics": [
+        "software piracy",
+        "copyright infringement",
+        "academic freedom",
+        "search and seizure",
+        "university computing"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 29 Jan 1993 02:32:58 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1993Jan29.023258.13875@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 11--SPA vs. Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 29, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The SPA filed a suit alleging piracy against the University of Oregon's Continuation Center.",
+        "The university settled the suit because it was cheaper than litigating.",
+        "There was no search warrant, raid, or audit of every file on every computer at the university."
+      ],
+      "organizations": [
+        "University of Oregon",
+        "Software Publishers Association",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Jim Thomas",
+        "Carl M. Kadie",
+        "Peter Swan"
+      ],
+      "summary": "Jim Thomas clarifies the nature of a legal dispute between the Software Publishers Association (SPA) and the University of Oregon's Continuation Center. He states that the matter was settled out of court to avoid litigation costs rather than as an admission of piracy. He further denies reports that the SPA conducted a raid or audit of university computers.",
+      "title": "Article 12--Re: SPA vs. Universities",
+      "topics": [
+        "software piracy",
+        "legal settlements",
+        "academic freedom",
+        "software audits"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 29 Jan 1993 03:37:35 GMT",
+      "from": "tk0jut1@mp.cs.niu.edu (jim thomas)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1993Jan29.033735.30819@mp.cs.niu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n04",
+      "subject": "Article 12--Re: SPA vs. Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

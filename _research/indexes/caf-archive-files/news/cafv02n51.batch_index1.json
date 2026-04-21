@@ -1,0 +1,539 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 18, 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "Rice University's computer policy allows searches and disclosure without authorization or notification.",
+        "A call for votes was issued to move academic freedom newsgroups from the 'alt' hierarchy to the 'comp.society' hierarchy.",
+        "Some argue that treating students as inherent security risks creates an un-academic climate in computing installations."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Rice University",
+        "Mankato State University"
+      ],
+      "people": [
+        "Aaron Barnhart",
+        "Carl M. Kadie"
+      ],
+      "summary": "This is a digest abstract summarizing twelve items related to academic computing and freedom. Key topics include the display of erotic material in labs, restrictive computer policies at Rice University and Mankato State, and the systemic discrimination against students by system administrators.",
+      "title": "Article 0 -- Abstract of CAF-News 02.51",
+      "topics": [
+        "academic freedom",
+        "computer policy",
+        "censorship",
+        "student rights",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Aaron.D.Barnhart@gagme.chi.il.us (Aaron Barnhart)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 0 -- Abstract of CAF-News 02.51",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 12, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Florida State eliminated the VP for Computing and Information Resources to allow individual colleges to determine their own needs.",
+        "Several institutions (Bradley U, Babson College, CSU Dominguez Hills) merged library and computer services into single administrative units.",
+        "Some universities are experimenting with placing computing under the jurisdiction of Library/Media Services or a Dean of Educational Resources."
+      ],
+      "organizations": [
+        "Florida State University",
+        "Cornell Medical Library",
+        "Shawnee State University",
+        "California State University Dominguez Hills",
+        "Bradley University",
+        "University of Wisconsin-Parkside",
+        "St. Mary's University",
+        "University of Michigan-Dearborn",
+        "University of Michigan Business School",
+        "Babson College"
+      ],
+      "people": [
+        "P. Partello"
+      ],
+      "summary": "A summary of responses regarding the organizational structure of computing services at various small-to-medium sized campuses. The reports highlight a trend toward merging computer centers with libraries or educational resource departments, as well as some shifts toward decentralized departmental control.",
+      "title": "Article 1--academic computing",
+      "topics": [
+        "academic computing",
+        "university administration",
+        "IT organizational structure",
+        "library and computing merger"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 12 Oct 1992 10:59:41 GMT",
+      "from": "P_PARTELLO@UNHH.UNH.EDU",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<199210121907.AA23324@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 1--academic computing",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "13 Oct 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Public display of computer images is typically governed by the same rules as physical posters or calendars.",
+        "The presence of a file should not be considered offensive if non-company text files are permitted."
+      ],
+      "organizations": [
+        "Digital Transmission Systems, Inc."
+      ],
+      "people": [
+        "Pete Hardie",
+        "Patrick Larkin"
+      ],
+      "summary": "A discussion regarding the acceptable use of commercial computer storage for 'offensive' images. Pete Hardie argues that the mere presence of image files is not offensive, comparing it to the presence of controversial text files, and suggests using disk quotas rather than censorship to manage space.",
+      "title": "Article 2--Re: Display of nudes",
+      "topics": [
+        "acceptable use policy",
+        "system administration",
+        "digital content moderation",
+        "disk space management"
+      ]
+    },
+    "identity": {
+      "date": "13 Oct 92 14:13:59 GMT",
+      "from": "phardie@nastar.uucp (Pete Hardie)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1992Oct13.141359.4701@nastar.uucp>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 2--Re: Display of nudes",
+      "to_or_newsgroups": "comp.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-10-14",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The display of nude pictures in a university office or public terminal room may be classified as sexual harassment.",
+        "Banning the reading of materials that a library already carries is considered censorship."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Marc VanHeyningen",
+        "Carl M. Kadie"
+      ],
+      "summary": "A discussion regarding whether system administrators should ban the display of nude images in public computer terminal rooms. The exchange contrasts the legality of possessing such materials (comparing them to library collections) with the potential for sexual harassment via public display. Marc VanHeyningen argues that banning the viewing of available material constitutes censorship.",
+      "title": "Article 3--Re: Display of nudes",
+      "topics": [
+        "censorship",
+        "sexual harassment",
+        "acceptable use policy",
+        "public terminals"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 14 Oct 1992 03:15:55 -0500",
+      "from": "\"Marc VanHeyningen\" <mvanheyn@mango.ucs.indiana.edu>",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1992Oct14.034619.6797@news.cs.indiana.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 3--Re: Display of nudes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 14, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The visible presence of erotic images should not be considered sexual harassment independent of content, context, or intent.",
+        "Definitions of harassment applied to CRTs and offices need more nuance than the broad definitions common in 1992."
+      ],
+      "organizations": [],
+      "people": [
+        "Mitch Pravatiner",
+        "Daniel Zabetakis"
+      ],
+      "summary": "Mitch Pravatiner responds to a discussion regarding the display of erotic imagery in libraries and workspaces. He argues that the mere visibility of such images should not be considered sexual harassment per se. He advocates for a more nuanced definition of harassment that considers content, context, and intent, specifically when applied to CRTs (computer screens).",
+      "title": "Article 4--Re: Display of Nudes",
+      "topics": [
+        "sexual harassment",
+        "academic freedom",
+        "workplace environment",
+        "digital displays"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 14 Oct 1992 19:24:42 GMT",
+      "from": "U15289@UICVM.UIC.EDU (Mitch Pravatiner)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<199210142013.AA03362@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 4--Re: Display of Nudes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 15 Oct 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The visual impact of a workstation screen is compared to that of physical media in libraries to determine thresholds for harassment."
+      ],
+      "organizations": [
+        "Amherst College",
+        "Columbia University",
+        "Indiana University"
+      ],
+      "people": [
+        "Tim Pierce",
+        "Daniel Zabetakis"
+      ],
+      "summary": "Tim Pierce contributes to a debate regarding whether displaying nude images on computer workstations constitutes an offensive working environment. He argues that such displays are comparable to viewing explicit material in a university library or A/V lab and should not automatically be classified as harassment.",
+      "title": "Article 5--Re: Display of nudes",
+      "topics": [
+        "acceptable use policy",
+        "sexual content",
+        "harassment",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 15 Oct 1992 02:20:54 GMT",
+      "from": "twpierce@unix.amherst.edu (Tim Pierce)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<Bw556v.Jr2@unix.amherst.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 5--Re: Display of nudes",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 14, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "AARNet proscribed alt.sex* and alt.drugs at the request of the US end of the satellite link.",
+        "The ban extended to all AARNet links, including interstate connections.",
+        "Censorship was driven by a desire to avoid media backlash regarding taxpayer funding of adult content."
+      ],
+      "organizations": [
+        "AARNet",
+        "University of Queensland",
+        "University of Melbourne",
+        "UUnet"
+      ],
+      "people": [
+        "Elizabeth M. Reid",
+        "John Lamp",
+        "Robert Elz",
+        "Andrew M. Jones"
+      ],
+      "summary": "Users discuss the censorship of Usenet newsgroups alt.sex* and alt.drugs on AARNet, the official Australian academic and research network. The ban was reportedly requested by the US end of the satellite link to avoid controversy over taxpayer funding of 'obscene' content. The discussion highlights how technical routing and cross-posting were used to bypass these restrictions.",
+      "title": "Newsgroups not received in Australia",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "network policy",
+        "academic freedom",
+        "internet history"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 14 Oct 1992 06:36:35 GMT",
+      "from": "root@cltr.uq.oz.au (Hulk Hogan)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1992Oct14.063635.13759@cltr.uq.OZ.AU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 6--Re: Newsgroups not received in Australia.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 15, 1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "The Rice University policy allowing sys-admins to disclose files when they 'believe' laws were violated may violate FERPA and ECPA.",
+        "Personal files on university computers should have the same privacy protections as personal files in university-assigned physical spaces.",
+        "Private computer communications should be afforded the same protections as private telephone communications."
+      ],
+      "organizations": [
+        "Rice University",
+        "Electronic Frontier Foundation",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Mike Godwin"
+      ],
+      "summary": "Carl Kadie critiques the Rice University System Administrator Statement of Ethics, arguing that its standards for disclosing protected files are too weak. He suggests that digital files and communications should receive the same privacy protections as physical offices and telephone calls. The piece advocates for authorization, notification, and documentation requirements for system administrator access to user data.",
+      "title": "Re: Rice U. - \"System Administrator Statement of Ethics\"",
+      "topics": [
+        "privacy",
+        "system administration",
+        "academic freedom",
+        "university policy",
+        "digital ethics"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 15 Oct 1992 13:53:54 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1992Oct15.135354.17230@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 7--Re: Rice U. - \"System Administrator Statement of Ethics\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 15, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The assumption that students are the primary security risk leads to an un-academic climate and systemic discrimination against them.",
+        "Security restrictions imposed on all students following a single incident are often not restored once the culprit is found."
+      ],
+      "organizations": [
+        "University of Karlsruhe"
+      ],
+      "people": [
+        "Olaf Titz"
+      ],
+      "summary": "Olaf Titz critiques a forum post that attributed a security breach on an IBM PC to 'a student' without evidence. He argues that the tendency to blame students for security risks creates a discriminatory academic climate where innocent students are denied rights and privileges. The post advocates for treating security incidents as actions by individuals rather than targeting a specific group.",
+      "title": "Article 8--Discriminatory thoughts (Re: HELP - was: IBM password)",
+      "topics": [
+        "academic freedom",
+        "student rights",
+        "computer security",
+        "discrimination"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 15 Oct 1992 14:29:15 GMT",
+      "from": "S_TITZ@iravcl.ira.uka.de (Olaf Titz)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<1992Oct15.142915.293@rz.uni-karlsruhe.de>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 8--Discriminatory thoughts (Re: HELP - was: IBM password)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-10-15",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Existing 'alt' versions of these newsgroups had an estimated July readership of 29,000 and 9,000 respectively.",
+        "The proposed charter sought to define how general principles of academic freedom apply specifically to university computers and networks."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Jyrki Kuoppala",
+        "Carl Kadie"
+      ],
+      "summary": "Jyrki Kuoppala issued a call for votes to establish two formal Usenet newsgroups dedicated to academic freedom on computers and networks. The proposed groups, comp.society.acad-freedom.news and comp.society.acad-freedom.talk, aimed to discuss the application of free expression, privacy, and due process to university computing environments.",
+      "title": "Article 9--CFV: comp.society.acad-freedom.{news,talk}",
+      "topics": [
+        "Usenet",
+        "academic freedom",
+        "network policy",
+        "digital rights"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 15 Oct 1992 23:52:33 GMT",
+      "from": "Jyrki Kuoppala <jkp@cs.hut.fi>",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<Bw6szM.639@uunet.uu.net>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 9--CFV: comp.society.acad-freedom.{news,talk}",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "16 Oct 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Policy is driven by an institution's specific mission rather than a universal 'one size fits all' approach.",
+        "The publication of lists of banned materials (like Carl Kadie's) may be viewed as an inquisitorial tactic that contradicts the values of tolerance and dissent."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "MTEK International, Inc."
+      ],
+      "people": [
+        "Bud Hovell",
+        "Dave Hayes",
+        "Carl Kadie"
+      ],
+      "summary": "Bud Hovell argues against the propriety of Carl Kadie's 'BANNED' list of computer materials, questioning whether such tactics are appropriate even in the pursuit of academic freedom. Hovell contends that institutional policy should be driven by a specific mission rather than universal standards and rejects the idea that all users have equal standing in policy debates. He suggests that diversity in administrative decisions is a natural result of differing institutional missions.",
+      "title": "Article 10--Re: Banned Computer Material 1992",
+      "topics": [
+        "academic freedom",
+        "computer policy",
+        "censorship",
+        "institutional mission",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "16 Oct 92 15:54:54 GMT",
+      "from": "bud@mtek.com (Bud Hovell)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1992Oct16.155454.11788@mtek.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 10--Re: Banned Computer Material 1992",
+      "to_or_newsgroups": "comp.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "18 Oct 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators often face pressure from management to prioritize mundane tasks over security.",
+        "Liability concerns (CYA) drive restrictive content policies on institutional networks.",
+        "The use of employer-owned equipment justifies the imposition of rules that would not apply in a private home."
+      ],
+      "organizations": [
+        "Georgia Institute of Technology",
+        "University of Chicago",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Vincent Fox",
+        "Steele Alloy"
+      ],
+      "summary": "A system administrator responds to a user's claim that restricting content like nudity on computers is 'fascist.' The author argues that administrators must balance user desires with employer mandates and legal liability (CYA), noting that workplace equipment is subject to different rules than personal property. He highlights the tension between technical staff who prefer liberal policies and the managers/lawyers who control funding and policy.",
+      "title": "Article 11--Re: Facist Systems",
+      "topics": [
+        "system administration",
+        "acceptable use policy",
+        "academic freedom",
+        "legal liability",
+        "workplace censorship"
+      ]
+    },
+    "identity": {
+      "date": "18 Oct 92 04:03:40 GMT",
+      "from": "gt1111a@prism.gatech.EDU (Vincent Fox)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<71625@hydra.gatech.EDU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 11--Re: Facist Systems",
+      "to_or_newsgroups": "comp.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 18, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Mankato State University's policy prohibited using userids to send messages or play games.",
+        "Restrictive computer policies may be counterproductive to producing employable graduates."
+      ],
+      "organizations": [
+        "Mankato State University",
+        "Iowa State University Computation Center"
+      ],
+      "people": [
+        "John Hascall",
+        "Leonard J. Schmidt"
+      ],
+      "summary": "John Hascall critiques Mankato State University's restrictive computer usage policy, which limited student access to specifically authorized instructor tasks. Hascall argues that prohibiting random experimentation and personal communication (e-mail) hinders the development of skilled graduates. He contrasts this with Iowa State University's approach, where self-directed learning is encouraged.",
+      "title": "Re: Mankato State University's policy on Academic Computer Usage",
+      "topics": [
+        "acceptable use policy",
+        "academic freedom",
+        "computer literacy",
+        "student access"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 18 Oct 1992 21:15:18 GMT",
+      "from": "john@iastate.edu (John Hascall)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<BwC5pJ.5sB@news.iastate.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n51",
+      "subject": "Article 12--Re: Mankato State University's policy on Academic Computer Usage",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,17 @@
+@BOOK{downs::donald:alexander,
+         Author = "Downs, Donald Alexander",
+         Title = "The new politics of pornography",
+         Publisher = "University of Chicago Press",
+         Address = "Chicago",
+         Year = "1989",
+         COL = "xxiv, 266 p. ;$24 cm.",
+         NOG = "Includes index.",
+         NOB = "Bibliography: p.",
+         SBN = "0226161625$$$42.0",
+         LON = "(WaOLN)4758792",
+         LON = "ocm19921598",
+         CAL0 = "KF9444$.D69 1989",
+         DDCF = "344.73/0547$347.304547$20",
+         Subject = "Obscenity (Law)--Minnesota--Minneapolis; Obscenity (Law)--Indiana--Indianapolis; Obscenity (Law)--United States; Pornography--Minnesota--Minneapolis; Pornography--Indiana--Indianapolis; Pornography--United States",
+	 Note = {Format: a book}
+}

@@ -1,0 +1,1043 @@
+Computers and Academic Freedom News
+Vol. 01, No. 40
+
+[Week ending Dec 1, 1991
+   [The guest editor this week is Benjamin Gross. For information
+    on being a guest editor, send email to archive-server@eff.org.
+    Include the line:  send acad-freedom call-for-guest-editors
+    - Carl Kadie]
+
+========================== KEY ==================================
+The words after the numbers are a short PARAPHRASE/SUMMARY of the
+article, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+=================================================================
+
+Note 1 Discusses system administratiors that ban or restrict IRC.
+
+1. (a sysadmin) "Certainly, denying IRC access unilaterally hurts the
+concientious, fair minded IRC users who don't unfairly monopolise these
+resources, but how on earth do you cheaply implement a fairer policy?
+(Suggestions greatfully appreciated!)' and "IRC has a >0 cost and a >0 benefit,
+and presently the benefits outweigh the cost so I provide IRC services. If the
+balance changes adversely, I'll limit the service or remove it completely."
+    <sean.691053922@coombs>
+
+Notes 2-5 are discussing the benefits and problems of system accounting.
+
+2. (Carl M. Kadie) "Use of 'ps -aux' should not be severely restricted because
+it allows users and sys admin to see the amount of computer resources being
+used as they are being used. This allows high-CPU runaway jobs to be identified
+and stopped before they waste more resources (e.g. fixman).  This allows users
+to make intelligent decisions about when and where to run new jobs. This allows
+peer pressure to be applied to users who use an unfair amount of resources for
+the given situation."
+    <1991Nov25.162134.6865@eff.org>
+
+3. (Carl M. Kadie) Defends his position that users should have access to ps
+against (Steven Brack) who says it is not one users place to decide what
+process other users can execute.  Carl says "if I see that you have what looks
+like a run away process, I can send you and/or the sys admin email. Why should
+I be the one doing this? Because, I'm the one who wants the cycles. The sys
+admin isn't logged into the computer, or isn't paying close attention. You may
+have logged off or started work on another task, not realizing that your job is
+still running."
+    <1991Nov25.213447.14114@eff.org>
+
+4. (Wes Morgan) States that he does not believe ps and other accounting
+measures are an invasion of privacy, because the computer is a publicly
+avaliable resource. Since the computer account is provided by the university
+and "your use of a given computer system affects all other users of that
+system," "then the need for this information becomes apparent." He states that
+the users real information, at least a minimun of the real name, must be
+avaliable so that they can be contacted, otherwise the user loses the benefits
+of effective electronic communication."
+    <1991Nov26.232012.2924@ms.uky.edu>
+
+5. (Jim Thompson) "I rejected, and continued to reject, the notion that ps is
+"privacy-invasive"; if anything, I tried to put the burden where it belongs: on
+those who wish to protect every bit and byte of information regarding
+themselves." Although, "users have a right to know, up front, what information
+about them might be disclosed, and how -- even if they have no choice about
+some of it, for example their real name being associated with their uid via
+finger."
+    <9111271314.AA02555@se33.wg2.waii.com>
+
+Note 6 is a staff member from ACS at OSU.
+
+6. (ACS employee) States that he will not condone or condem the ACS policy,
+but, "that Ugly rumours about censorship at ACS are ridiculous." "Opinion -
+can't prove it - but my experience is ACS is filled with people who strongly
+believe in electronic freedom, open computing, call it what you will." and "We
+brought usenet & e-mail to the masses here. We fought for it, we are fighting
+for it." Also, "some people regarded as villains here are trying hard to make
+computing more open and useful on campus. The major limitation is money - or
+put another way people at the very top of osu & state gov't have to see
+computing as basic part of education. We do."
+    <1991Nov25.165500.11219@magnus.acs.ohio-state.edu>
+
+Note 7 is on the Alt.sex flap at U of Iowa.
+
+7. (Doug Jones) reports "Today's Daily Iowan, Monday Nov. 25, 1991,
+has joined the fray.  On the top of page 3A, on the left, is the headline 'UI
+Computer Files Contain Pornography', followed by the same kind of incisive
+reporting of the alt.sex newsgroups that we have become used to from the print
+media.  The article does mention that the "pornography" is carried by USENET,
+but no mention is made of other material on USENET.  The article indicates that
+the U of I computers contain "over 70,000 pages" of pornography, which is
+nonsense -- this is roughly the total number of postings that have been
+delivered to Iowa's machines over USENET, but nobody at the DI seems to have
+noticed that things get deleted on a regular basis."
+    <9300@ns-mx.uiowa.edu>
+
+Notes 8-9 are about restricting personal use of the universities computers.
+
+8. (A student) Says that he believe that there should be a distinction
+of the diffrent kinds of recreational computer use, "those that have have an
+arguable nexus to the communication of ideas and those that do not (by which I
+refer principally to computer games)." This especialy applies to general use
+computers and sites.
+    <199111252159.AA14818@eff.org>
+
+9. (Carl M. Kadie) says "The policy could be improved by applying the "game
+policy" to all noncommercial personal use." "In other words, instead of banning
+nongame, noncommercial personal use, SEASnet should at least allow nongame,
+noncommercial personal use on the same basis that it allows game playing." and
+"I was not suggesting *adding* a restriction; I was suggesting *removing* a
+restriction."
+    <1991Nov25.223548.15641@eff.org>
+
+Note 10 is a site manager has problems with gamers and would like suggestions.
+
+10.(Site manager) "I manage 8 student computing sites with about 500 machines
+(PC, MAC, NeXT) and I'm having more and more trouble with gamers, especially
+IRCers and MUDers." and "Our policy states that the sites are primarily for
+academic work.  If all the machines are full when a person comes in to do a
+paper, all the gamers are booted for a period of time.  This is getting to be a
+major headache for my staff.  How do you all handle it?"
+    <1991Nov27.215410.18938@ux1.cso.uiuc.edu>
+
+11. (Carl M. Kadie) Enclosed is a first draft of a bibilography on Computers
+and Academic Freedom.
+
+!---------------------> Guest editor: Benjamin Gross <------------------------!
+! Mail to: b-gross@uiuc.edu      /!\    NeXT mail: bgross@sumter.cso.uiuc.edu !
+! No matter where you go, there you are.   --Buckaroo Bonzai--                !
+!-------------> Reality is only for those who lack imagination. <-------------!
+!--> Disclaimer:  I speak only on my own behalf,  all opinions are my own. <--!
+
+]
+
+In this issue:
+
+Sean Batt        42  >Sysadmins banning IRC...
+Carl M. Kadie    39  >System Accounting: Fascist Tool?
+Carl M. Kadie    59  >
+Wes Morgan      193  >
+Jim Thompson     63  >
+Terry N Reeves   59  I am from ACS at OSU
+Douglas W Jones  32  Alt.sex flap at U of Iowa
+U15289@UICVM    100  On "Personal Use" restrictions
+Carl M. Kadie    25  >
+Declan Fleming   12  Gaming
+Carl M. Kadie   161  CAF bibliography
+
+
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the line:
+  send acad-freedom README
+
+Disclaimer: This CAF-news was compiled by a guest editor or by me,
+Carl M. Kadie. It is not an EFF publication. The views I express and
+editorial decisions I make are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From: sean@coombs.anu.edu.au (Sean Batt)
+Subject:  Re: Sysadmins banning IRC...
+Message-ID: <sean.691053922@coombs>
+Date: 25 Nov 91 07:25:22 GMT
+
+G'Day all,
+
+Scott's got it right, you know: IRC doesn't have very much academic
+respectability and hence has a low priority when it comes to resource
+allocation. In an environment where computing resources are finite,
+system administrators really must be able to restrict or deny access
+to apparently unproductive programs like IRC, or talk, or news or even
+mail. Sysadmins, remember, often have a clearer picture of overall
+resource usage than do their users.
+
+Around assignment deadline time in the undergraduate terminal rooms
+here, for example, I've seen people queue for terminals some of which
+were being used to run IRC. Certainly, denying IRC access unilaterally
+hurts the concientious, fair minded IRC users who don't unfairly
+monopolise these resources, but how on earth do you cheaply implement
+a fairer policy? (Suggestions greatfully appreciated!)
+
+I have some sympathy for the view of the sysadmins who see IRC as a
+security risk. Unfortunately it would seem that IRC has been
+indirectly responsible for two counts of electronic trespassing (read
+cracking) at my site. I've provided a guest account for people to use
+IRC, and tried quite hard to stop malicious use of that service, but
+I've still been able to track a copy of my passwd file on uunet to a
+guest user. (Doesn't that just rot your socks? Sheesh! Try and be nice
+and someone still takes advantage of you.)
+
+Balancing that however, I've found IRC to be a very valuable service,
+both professionally and personally; I've "met" some really nice people
+and recieved advice on how to clean up after a crack (1/2 :-), for
+example.
+
+So IRC has a >0 cost and a >0 benefit, and presently the benefits
+outweigh the cost so I provide IRC services. If the balance changes
+adversely, I'll limit the service or remove it completely.
+
+Sean (a.k.a. MupBear)
+--
+------------- Sean Sebastian Batt - sean@coombs.anu.edu.au --------  .______. 
+-------- Coombs Computing Section - Telephone: +61 6 249 3296 -----  | Damn |\
+-- Australian National University - GPO Box 4 Canberra City 2601 --  | Fine |/
+-------------------------------------------------------------------  `------'
+-------------------
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: System Accounting: Fascist Tool?
+Message-ID: <1991Nov25.162134.6865@eff.org>
+References: <9111251523.AA05399@uoftcse.cse.utoledo.edu>
+Date: Mon, 25 Nov 1991 16:21:34 GMT
+
+How about this as a statement for debate:
+
+Resolved: Use of the Unix "ps" command should be severely restricted
+for the sake of user privacy.
+
+Believe it or not, I'm going to take the negative position and defend
+"ps".
+
+-------
+
+Use of "ps -aux" should not be severely restricted because it allows
+users and sys admin to see the amount of computer resources being used
+as they are being used. This allows high-CPU runaway jobs to be
+identified and stopped before they waste more resources (e.g. fixman).
+This allows users to make intelligent decisions about when and where
+to run new jobs. This allows peer pressure to be applied to users who
+use an unfair amount of resources for the given situation.
+
+As an example of all the points. Suppose, a class of 10 students must
+run their program on 5 big test cases. If one student program has a
+bug that puts it into an endless loop, "ps -aux" will give the sys
+admin and other users a chance to notice the run away program. With
+"ps -aux" a student may notice that no one else is running big
+programs on the computer and decide that it would be OK to run all
+five of his or her programs at once. If he or she was wrong about
+being the only one needs to run big programs, other students, using
+"ps", will be able to identify who is hogging the CPU. They can then
+send email to the effect, "hey, there are others of us here, too.  How
+about running just one program at a time?"
+
+With "ps", the computer is a shared resource. Without "ps" the
+computer is a PC with an unpredictable CPU rate.
+
+- Carl
+p.s. I like "top" even better than "ps".
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+>From f1 Wed Dec 11 16:34:59 1991
+>From e1 Wed Dec 11 16:28:37 1991
+>From dec__1_1991 Wed Dec 11 16:02:40 1991
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: System Accounting: Fascist Tool?
+Message-ID: <1991Nov25.213447.14114@eff.org>
+References: <9111252053.AA09129@uoftcse.cse.utoledo.edu>
+Date: Mon, 25 Nov 1991 21:34:47 GMT
+
+
+kadie@eff.org (Carl M. Kadie) writes:
+
+>: Use of "ps -aux" should not be severely restricted because it allows
+>: users and sys admin to see the amount of computer resources being used
+>: as they are being used. This allows high-CPU runaway jobs to be
+>: identified and stopped before they waste more resources (e.g. fixman).
+>: This allows users to make intelligent decisions about when and where
+>: to run new jobs. This allows peer pressure to be applied to users who
+>: use an unfair amount of resources for the given situation.
+
+
+brack@uoftcse.cse.utoledo.edu (Brack) writes:
+
+
+>	It is not the users place to decide what processes are allowed
+>	to be executed by other users.  That is a function of the 
+>	sysadmin (remember the concierge theory?).  I don't want
+>	anyone who does a ps -a to know what I'm doing.  If I want\
+>	people to know, I'll tell them, but I don't want information
+>	private to me to be given to anyone who asks without my permission.
+[...]
+
+>	What good would it do the other users to see his/her runaway
+>	process?  The only ones who can stop it are the student &
+>	the admin, in any case.
+[...]
+
+Well, if I see that you have what looks like a run away process, I can
+send you and/or the sys admin email. Why should I be the one doing
+this? Because, I'm the one who wants the cycles. The sys admin isn't
+logged into the computer, or isn't paying close attention. You may
+have logged off or started work on another task, not realizing that
+your job is still running.
+
+>	Basic system load information would tell users what they need to
+>	know, without revealing private information.
+[...]
+
+At the very least, I want to know how much load each user is putting
+on the system. If five users are each running five cpu-bound jobs,
+causing my cpu-bound job to run slowly, I won't say anything. If,
+however, one user is running five cpu-bounds jobs, causing my one
+cpu-bound jobs to run slowly, I may send that user email asking that
+he or she, say, lower the priorty of his or her jobs.
+
+Why should he or she cooperate with me? Because, tomorrow he or she
+may want to send me a similar note.
+
+Without per-user load information, cooperation is very unlikely.
+Knowing the program being run (g++, Lisp, etc) is also helpful, but
+not as important.
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: System Accounting: Fascist Tool?
+Message-ID: <1991Nov26.232012.2924@ms.uky.edu>
+Date: 26 Nov 91 23:20:12 GMT
+References: <9111261414.AA19022@se33.wg2.waii.com> <1991Nov26.161123.7594@eff.org>
+
+kadie@eff.org (Carl M. Kadie) writes:
+>thompson@se01.wg2.waii.com (Jim Thompson) writes:
+>>I would also add that, in the interest of protecting those who aren't
+>>unix-savvy, the sysadmin powers-that-be have an *obligation* to their users to
+>>inform them of ps, its dangers, and how
+>>to protect against them.  (And probably
+>>also about lpq or lpstat.)
+
+"dangers"?  "dangers"??!!
+
+The length of the list of "privacy-invading" programs/utilities continues
+to amaze me.  In this thread, various posters have condemned:
+
+	-- who
+	-- finger
+	-- ps
+	-- lpq/lpstat
+	-- acctcom 
+
+How far is this going to go?  Are you folks going to speak against the 
+inclusion of date/time stamps in electronic mail?  After all, those lines
+tell people which machine you used for email and when you used it; horrors!
+
+Let's refute these 5 sample cases on an individual basis:
+
+Note: These rebuttals are based on the academic model; corporate or
+      private systems are completely outside of this model.  Users of
+      academic systems are using University resources, which makes their
+      usage a public matter, in my opinion.
+
+	-- who
+	Con: It's nobody's business whether or not I'm logged in!
+	Pro: Many users check who before starting large jobs.  If
+	     they see, say, 6 people from their class logged in,
+	     they may not want to run their huge fortran program
+	     at that time.
+
+	     Many users have discovered that their passwords were
+	     compromised by checking who.
+
+	-- finger
+	Con: It's nobody's business when I last read my mail!
+	     It's nobody's business if I use a pseudonym!
+	Pro: When people receive unrequested email or messages,
+	     finger is the first step in identifying the source.
+	     When admins (or professors, or bureaucrats) need information
+	     about a user, finger is often the first stop.  In official
+	     matters, pseudonyms are unacceptable.
+	     When users are trying to contact each other, finger is often
+	     a first step ("Did he have a chance to read the mail I sent?")
+
+	-- acctcom
+	Con: It's nobody's business what I use the computer for!
+	Pro: Many systems are intended solely for academic use.
+	     acctcom can be an indicator of possible abuses of the
+	     system.
+	     While the "academic use" condition is usually very broad,
+	     many sites have a strict "not for profit/private business"
+	     policy.  acctcom can be an indicator of possible abuses.
+	     On systems with fees/charges, many department heads/managers
+	     use accounting tools to enforce system policies
+
+	-- ps (and w and top, as well)
+	Con: It's nobody's business what my processes are doing!
+	Pro: Many users schedule their work based on the system load.
+	     If their jobs are not completed within the norms, users
+	     usually use ps to get a general picture of the system.
+	     Sysadmins use ps for gross system optimization.
+	     Many classes (especially in CS/EE) use system monitoring
+	     tools such as ps to demonstrate "how real systems are used".
+
+	-- lpq/lpstat
+	Con: It's nobody's business what I print!
+	Pro: User schedule their printing based on the system load.
+	     Some systems charge for printing; lpq/lpstat become valuable
+	     tools for department heads/managers, who do not normally have
+	     sysadmin privileges.
+	     
+>Maybe we have an outline of a confidentially policy for the Statement
+>on Computers and Academic Freedom.
+
+>Information about users should not be disclosed to outsiders except
+>under the conditions specified under Federal law.
+
+If the system contains such information, it should certainly be protected.
+Examples of this would be SSNs, home addresses, and the like.  Of course,
+my systems only say "User jbfoo01 is John B Foo, and he's a Mechanical
+Engineering student"; that's hardly private information.
+
+>2. Email and news reading
+>
+>Library confidentially policy applies to use of email, Netnews,
+>anonymous archives, and similar media. This limits the collection,
+>retention, and dissemination of personally-identified use records.
+
+Yes and no; I've often been asked for my name and position when using
+public library facilities, such as PC labs, microfiche machines, and
+other semi-controlled facilities.  I'm sure that those records still
+exist.  I would point out that those records merely state that I was
+using a microfiche machine; they don't say anything about the individual
+fiches I was perusing.  That's an important distinction, which I'll talk
+about later in this posting.
+
+
+>3. User control 
+>
+>Unless there is a good reason, information about a user
+>should either be confidential or under each users control.
+
+Nope.  I don't buy this one.  There is nothing wrong with disseminating
+how my systems are used.  I don't see anything wrong with seeing that
+jbfoo01 was running "vi junk.f".  If he's protected his files from other
+users, what "private information" is being revealed here?  "junk.f" might
+(or might not) be a Fortran program, which he might (or might not) be 
+building for a class.  It might actually be a love letter to his girlfriend
+Flo.  Assuming that information belonging to users (i.e., files) are protected
+by privacy policy, I don't see anything wrong with making the typical "ps"
+information available.
+
+>e.g. "The 'ps' command is allowed because (we think) it
+>enables better cpu and memory sharing on computers."
+>(Not "Because if you don't like you can use a PC.")
+
+OK, you asked for it:
+
+"We do not find the normal Unix command set invasive of user privacy.
+ Therefore, we have chosen to make the default installation of Unix
+ available to you.  You can find more information in the online help
+ files or in the printed manuals in room XXX."
+
+
+>b) Users should be informed of what kind of information might
+>disclosed (i.e. if you signed on, when you last read mail, how much
+>CPU you are using, what command you have run in the last 2 days) and
+>to what kind of person (i.e. sys admins, other users, anyone on the
+>Net, etc)
+
+Carl, you just added 5-10 pages to my policy statement with this 
+statement.  Is it really necessary?  In 15 years of working with 
+computers (the last 5 as a full sysadmin, with assistance experience 
+prior to that), I have never heard a single complaint about these 
+facilities.  
+
+By the way, would you like to try explaining all of these commands
+to incoming freshmen with zero large-system experience?  They don't
+even know what a "process" is, much less what the status would be!
+(for you non-Unix types, "ps" stands for "process status")
+
+Rather than
+arbitrarily promoting privacy screens, let's nail down the reasons
+by which these standards should be imposed.  So far, all I've seen
+is "It's nobody's business!". 
+
+Remember, this thread started with a user who didn't want to have 
+his real name attached to a user account on a University system, 
+which was given to him at the expense of said University.  Can 
+you imagine trying to manage a system where all the
+usernames were tied to pseudonyms?   Suppose that "finger al3w" resulted
+in "Name: The Zorkmeister"; wasn't that helpful?  Sheesh.  Suppose that
+someone's faculty advisor is trying to get in touch with you; I guess
+he just loses, eh?  No, you lose, because you are making it impossible
+for people to use the system effectively to contact you.
+
+Please, let's nail down the need before we start finding
+solutions.
+
+>What are all the ways that information is disclosed, say,
+>   on a Unix system? (finger, ps, top, ...) Hasn't
+>   someone somewhere already documented theses?
+
+Yup, it's freely available to any user in almost any Unix text I've
+ever seen.  The online man pages and printed manual for your particular
+system are the best place to start.
+
+
+In conclusion, the computer is a tool; it's applications are much like
+those of an audio/visual lab.  The a/v lab needs to know if you are
+using the microfilm machine.  They don't need to know what you're using
+it *for*, but they need to know that you're using it.  The computer lab
+users need know if you are using ANSYS; they don't need to know what you're
+using it FOR, but they need to know that you're using it.
+
+If you approach a computer system as a collection of tools (just like
+the a/v lab is a collection of tools), then the need for this information
+becomes apparent.  Your use of a given computer system affects all other
+users of that system, just like your use of the microfilm machine affects
+all the other users of the a/v lab.  What's the difference?
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+-------------------
+
+From: thompson@se01.wg2.waii.com (Jim Thompson)
+Subject: Re: System Accounting: Fascist Tool?
+Message-ID: <9111271314.AA02555@se33.wg2.waii.com>
+Sender: thompson@se01.wg2.waii.com
+References: <1991Nov26.232012.2924@ms.uky.edu>
+Date: 27 Nov 91 13:14:08 GMT
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+> kadie@eff.org (Carl M. Kadie) writes:
+> >thompson@se01.wg2.waii.com (Jim Thompson) writes:
+> >>I would also add that, in the interest of protecting those who aren't
+> >>unix-savvy, the sysadmin powers-that-be have an *obligation* to their users to
+> >>inform them of ps, its dangers, and how
+> >>to protect against them.  (And probably
+> >>also about lpq or lpstat.)
+> 
+> "dangers"?  "dangers"??!!
+
+To privacy.  I guess "dangers" is a bit extreme, though; perhaps "risks" would
+have been a better choice.  But the point is the same: a careless or ignorant
+user can, under certain circumstances, reveal things about himself.
+
+> 
+> The length of the list of "privacy-invading" programs/utilities continues
+> to amaze me.  In this thread, various posters have condemned:
+> 
+> 	-- who
+> 	-- finger
+> 	-- ps
+> 	-- lpq/lpstat
+> 	-- acctcom 
+
+You implicitly lump in with these "various posters".  Please.  I did not
+condemn ps, I merely presented a few facts and (admittedly contrived)
+examples.  I rejected, and continued to reject, the notion that ps is
+"privacy-invasive";  if anything, I tried to put the burden where it belongs:
+on those who wish to protect every bit and byte of information regarding
+themselves.
+
+> >b) Users should be informed of what kind of information might
+> >disclosed (i.e. if you signed on, when you last read mail, how much
+> >CPU you are using, what command you have run in the last 2 days) and
+> >to what kind of person (i.e. sys admins, other users, anyone on the
+> >Net, etc)
+> 
+> Carl, you just added 5-10 pages to my policy statement with this 
+> statement.  Is it really necessary?  In 15 years of working with 
+> computers (the last 5 as a full sysadmin, with assistance experience 
+> prior to that), I have never heard a single complaint about these 
+> facilities.  
+
+It shouldn't be necessary to add 5-10 pages to your policy statement.  That
+is, you needn't give new users a lesson in ps, lpq, ad nauseam -- just point
+out the specific commands, what sort of information they reveal, refer the
+users to the man pages, and let them RTFM.
+
+I can appreciate that you've never had problems with these commands at UK, but
+remember that Carl is formulating a general statement to be used as a guide
+for making policy at any given academic computing site (correct me if I've got
+this wrong, please, Carl).  As such, I think that the statement should include
+a recommendation that users be informed of the privacy issues.  Users have a
+right to know, up front, what information about them might be disclosed, and
+how -- even if they have no choice about some of it, for example their real
+name being associated with their uid via finger.
+
+--
+ Jim Thompson - thompson@se01.wg2.waii.com  |     Conjunction Junction,
+ Western Geophysical Exploration Products   |     what's your function?
+ Houston, Texas                             |  
+-------------------
+
+From: treeves@magnus.acs.ohio-state.edu (Terry N Reeves)
+Subject: I am from ACS at OSU
+Message-ID: <1991Nov25.165500.11219@magnus.acs.ohio-state.edu>
+Sender: news@magnus.acs.ohio-state.edu
+Nntp-Posting-Host: top.magnus.acs.ohio-state.edu
+Distribution: usa
+Date: Mon, 25 Nov 1991 16:55:00 GMT
+
+
+Well, I bet that subject got some attention! I can hear the boos and hisses 
+from here!
+
+DISCLAIMER This is not ACS, just me. All of this is purely personal opionion.
+No one "made" me say that or even asked me to. I just think its a good idea,
+as I think I am in somewhat hostlile territory. Please don't bother
+defending yourself - if you feel the need you are too sensitive :-)
+
+First here is proof that we are READING this discussion and that we CAN post.
+Ugly rumours about censorship at ACS are ridiculous.  
+
+Of course we can't talk about (well, you know, what can't talk about... )
+[recurses infinately] that's the law.
+
+Now with regards to policy. A question. I would like to read an actual
+approved, in force  for a fairly long time, policy of a university that this 
+group, especially Karl, approves of, or mostly approves of.
+ Note it must be in actual use. Theoretical policies are untested and somewhat
+well, theoretical. Anyone got one by ftp or post here or e-mail to me?
+
+This is a sincere question folks not some sort of cynical remark.
+I have been reading here since may/june and I think such things have been 
+mentioned and I want to find one.
+
+I am not going to defend ACS policy. Those at the top have choosen not to
+ (if they are reading this, and I think they are). There has been no
+announcement to this effect folks, they just have not done it. I could answer
+some attacks, I might agree with others, but frankly I don't really think it's
+my place. I am not the policy maker. That's who your argument is with.
+
+Naturally, as an ACS staffer it is part of my job to point out ways we can
+improve, and work for better service to the campus. I do have some
+suggestions of my own about policy. But rather than post them here I will
+make them internally. It would be rather odd, I think, for me to give them
+a first airing here, or even post them at all when the people I need
+to persuade are all in the building with me.
+
+Opinion - can't prove it - but my experience is ACS is filled with people 
+who strongly believe in electronic freedom, open computing, call it what you
+will.
+	We brought usenet & e-mail to the masses here. We fought for it, we are
+fighting for it. 
+	Some people regarded as villains here are trying hard to make computing
+more open  and useful on campus. The major limitation is money - or put
+another way people at the very top of osu & state gov't have to see computing
+as basic part of education. We do.
+
+
+	
+	
+
+
+-- 
+ _____________________________________________________________________________
+|                   That's my story, and I'm sticking to it!                  |
+|_____________________________________________________________________________|
+| Public Sites micro software support |   treeves@magnus.ACS.OHIO-STATE.EDU   |
+-------------------
+
+From: jones@pyrite.cs.uiowa.edu (Douglas W. Jones,201H MLH,3193350740,3193382879)
+Subject: Alt.sex flap at U of Iowa
+Message-ID: <9300@ns-mx.uiowa.edu>
+Date: 25 Nov 91 18:27:40 GMT
+Sender: news@ns-mx.uiowa.edu
+Followup-To: alt.comp.acad-freedom.talk
+
+Today's Daily Iowan, Monday Nov. 25, 1991, has joined the fray.
+
+On the top of page 3A, on the left, is the headline "UI Computer Files
+Contain Pornography", followed by the same kind of incisive reporting
+of the alt.sex newsgroups that we have become used to from the print
+media.  The article does mention that the "pornography" is carried by
+USENET, but no mention is made of other material on USENET.  The article
+indicates that the U of I computers contain "over 70,000 pages" of
+pornography, which is nonsense -- this is roughly the total number of
+postings that have been delivered to Iowa's machines over USENET, but
+nobody at the DI seems to have noticed that things get deleted on a
+regular basis.
+
+Appearing as it does on top of the recent flap about movie Taxi Zum Klo,
+this will certainly put more pressure on the University of Iowa to censor
+things on campus.  In the case of the movie, the local county attourny
+has decided that it is "non pornographic but one scene contains depiction
+of sexual exploitation of a minor, and that scene must be edited out in
+any showing of the movie."
+
+One consequence of the Taxi Zum Klo flap is that the state legislature
+will probably review the current exemptions from the "sexual exploitation
+of a minor" laws that applies to educational institutions and public
+libraries.  As currently written, the Iowa law allows for educational
+use of such material in such institutions, and the law may be rewritten
+to forbid this.  (So, if I wanted to teach a course on the impact of
+pornography on the sexual development of children in modern western society,
+I wouldn't be able to use these materials under the proposed changes to the
+law.)
+					Doug Jones
+					jones@cs.uiowa.edu
+-------------------
+
+From: U15289@UICVM.uic.edu
+Subject: On "Personal Use" restrictions
+Message-ID: <199111252159.AA14818@eff.org>
+Sender: U15289@UICVM.uic.edu
+Date: 25 Nov 91 20:06:41 GMT
+
+     In an October 26 posting to comp-academic-freedom-talk, Carl Kadie
+commented on the policies of the SEASnet system at UCLA:
+
+>1. The policy says:
+>
+>>*	Use of SEASnet's Computing Facilities
+>>	Use of SEASnet's computing facilities, including
+>>	hardware, software, and networks is restricted to the
+>>	purposes for which SEASnet accounts are assigned. These
+>>	uses are limited to research and educational purposes.
+>>	Any personal or commercial use of SEASnet equipment is
+>>	prohibited.
+>
+>But then:
+>
+>>	*	Game Playing
+>>		Various games are available on the system.
+>>		however, you must not play games when other
+>>		users need a terminal for any other activity. If
+>>		you are playing games, you must log out whenever
+>>		users are waiting, and offer them your terminal.
+>>		it is not ethical or polite to stay logged in
+>>		until the person waiting asks you to log out, or
+>>		to expect a waiting user to wait for you to
+>>		finish playing.
+>
+>Isn't game playing an example of personal use? Isn't much email use
+>personal? If the members of a student organization (say, the sailing
+>club) keep the the club roster on-line, isn't that a personal use?
+>How about if someone accesses the library computer to find a book on
+>bicycle repair?
+>
+>The policy could be improved by applying the "game policy" to all
+>noncommercial personal use.
+
+     I strongly disagree that limitations on the use of games, _qua_ games,
+should be extended to other "noncommercial personal use" (hereinafter referred
+to as "NPU"); I find the prospect of blanket restrictions on NPU _per se_
+even more disquieting.
+
+     Admittedly, more of an argument can be made for such a policy on the
+in-house system of an individual academic unit (which it is my impression that
+SEASnet is, on the assumption of it being an acronym for "School of Engineer-
+ing and Applied Science" or something to that effect) than on a system run
+for general use by an all-campus computer center.  It is also possible to
+enforce such a policy more efficaciously in the former case than in the
+latter.  (But, as I shall discuss below, all-campus installations are not
+immune to having blanket NPU restrictions at least nominally in effect.)
+
+     It gives me pause, as I think it should to all readers of this mailing
+list, that posting, or reading the postings of others, to comp-academic-freedom
+-talk itself would apparently be a technical violation of such policies,
+inasmuch as it presumably is not being done in the service of specific course-
+work or research.  The same goes for reading, or posting to, the lion's share
+of newsgroups on USENET/NETNEWS, as well as--of course--much if not most email
+correspondence, and the other examples which Carl cites at the end of his own
+comment on the SEASnet policy.
+
+    As mentioned above, broad prohibitions on NPU do occur at all-campus
+computer centers.  For instance:
+
+>The following uses of computers supported by Academic Computing Services,
+>including public microcomputers, are specifically approved:
+> [...]
+>D. Personal computing for the improvement of computing literacy and not asso-
+>   ciated with a scheduled class.  Such "improvement of computing literacy"
+>   must be consistent with Loyola's mission of education, research, and
+>   health care.  _This category of use must not be used to justify activities
+>   such as personal correspondence of personal business._   [Emphasis added.]
+>
+>   This means that once a computer skill associated with a resource is
+>   learned, that resource may only be used for instruction or research.
+(Source:  Loyola University of Chicago, "Information Systems Computing Policy,
+Policy No. 1:  Authorized Uses of Public Academic Computing Facilities," 1984)
+
+    At my own institution, a recent document states that account suspension is
+possible for "frequent frivolous use of computing resources," which is enumer-
+ated separately from "playing computer games," also given as a cause of action.
+(Source:  University of Illinois at Chicago Computer Center, "Penalties for
+Misuse of UIC Computing Resources," 1991)  This presents serious questions of
+vagueness and overbreadth, over and above any specific chilling effects it
+may have--at least in theory--on benign noncurricular uses of an all-campus
+system.
+
+     To be sure, the policy Carl seemed to be speaking favorably of simply
+posited a moral responsibility for those using a system for noncurricular
+applications at a given moment to yield to those desiring to use it for
+curricular ones, in the event of a shortage of available workstations, rather
+than declaring noncurricular uses actionable _per se_.  Even so, I think it
+is crucial to draw a distinction between those activities that have an argu-
+able nexus to the communication of ideas and those that do not (by which I
+refer principally to computer games).  I remain uncomfortable with any formal
+policy statement which draws invidious distinctions between activities in the
+former group which do not happen to have a clear curricular connection, and
+those that do, at least in the case of systems intended for general campus
+use.
+
+                                             Mitch Pravatiner
+                                             Internet: U15289@uicvm.uic.edu
+-------------------
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: On "Personal Use" restrictions
+Message-ID: <1991Nov25.223548.15641@eff.org>
+References: <199111252159.AA14818@eff.org>
+Date: Mon, 25 Nov 1991 22:35:48 GMT
+
+One small clarification of my suggestion to UCLA.
+
+The UCLA SEASnet policy says:
+   "Any personal ... use of SEASnet equipment is prohibited."
+And,
+   "Various games are available on the system. 
+	however, you must not play games when other
+	users need a terminal for any other activity."
+
+I said:
+   "The policy could be improved by applying the "game policy" to all
+		noncommercial personal use."
+
+In other words, instead of banning nongame, noncommercial personal
+use, SEASnet should at least allow nongame, noncommercial personal use
+on the same basis that it allows game playing.
+
+In other, other words, I was not suggesting *adding* a restriction; I
+was suggesting *removing* a restriction.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+From: declan@ux1.cso.uiuc.edu (Declan J. Fleming)
+Subject:  Gaming
+Message-ID: <1991Nov27.215410.18938@ux1.cso.uiuc.edu>
+Date: Wed, 27 Nov 1991 21:54:10 GMT
+
+Hi.  I manage 8 student computing sites with about 500 machines (PC, MAC, NeXT)
+and I'm having more and more trouble with gamers, especially IRCers and MUDers.
+
+Our policy states that the sites are primarily for academic work.  If all the
+machines are full when a person comes in to do a paper, all the gamers are 
+booted for a period of time.  This is getting to be a major headache for my
+staff.  How do you all handle it?
+
+
+Declan J. Fleming
+U of Ill
+-------------------
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: CAF bibliography
+Message-ID: <1991Nov24.005758.19865@eff.org>
+Date: Sun, 24 Nov 1991 00:57:58 GMT
+
+=================
+bibliography
+=================
+
+This is an unorganized list of books related to Computers and Academic
+Freedom.
+
+In the future, this list should be organized by
+* putting listings in standard form
+* referencing CAF notes that reference these books
+* annotating the listing with brief comments
+
+---------------------
+ACLU's Handbook on the _Rights of Authors and Artists_ (1984).
+
+ACLU handbook _The Rights of Teachers_, revised edition, by David
+Rubin, 1984
+
+_A Practical Guide to Legal Issues Affecting College Teachers_ by
+Partrica A. Hollander, D. Parker Young, and Donald D.  Gehring.
+(College Administration Publication, 1985).
+
+_School Discipline and Student Rights: an advocate's manual_ by Paul
+Weckstein, revised edition, 1982, Center for Law and Education.
+
+_The Redefinition of the Exclusionary Rule as to Student Procedural
+Due Process in High Education_. A monograph from the Office of the
+General Counsel [of Southern Illinois University] by Dr. Larry L.
+French, General Counsel, 1977.
+
+_Procedural due process guidelines for disciplinary hearings resulting
+in suspension or expulsion in higher education_ by Ernest T. Buchanan
+III. Published by Education/Law Research Associates, 1972
+
+_Teacher's and the Law_, 3rd edition, by Louis Fischer, et al.
+Published in 1991 by Longman.
+
+_In the Interest of Children_, R. Mnookin (Ed.), Franklin E.  Zimring
+and Rayman L.  Solomon (Contrib. Authors).
+
+_The First Amendment Book_ by Robert J. Wagmam
+
+ACLU's Handbook _The Right of Students_ 3rd Edition
+by Janet.  R. Price, Alan H. Levine, and Eve Cary.
+
+_Due Process for School Officials: A Guide for the Conduct of
+Administrative Proceedings_ by Edgar H. Bittle (1986)
+
+_Public Schools Law: Teachers' and Students' Rights_ 2nd
+Ed. by Martha M. McCarthy and Nelda H. Cambron-McCabe, published in
+1987 by Allyn and Bacon, Inc.
+
+_Law of the Student Press_ by the Student Press Law Center (1985,1988)
+
+_50 Ways to Fight Censorship & Important Facts to Know about Censors_
+by Dave Marsh. Published by Thunder's Mouth Press in 1991>
+
+_American Library Laws_ (5th edition)
+
+_Cuckoos Egg_
+
+_Prelude to Foundation_
+
+_American Psycho_
+
+_The Joy of Lesbian Sex_
+
+_SpyCatcher_
+
+_Libraries, Erotica, and Pornography_
+
+_Censorship, Libraries, and the Law_
+
+_A Book of French Quotations_, Norbert
+
+Dorothy L. Sayers, _Busman's Honeymoon_
+
+_Constitutional Law_ by William Lockhart
+
+_The Dictionary of Computer Terms_ (2nd Ed.), by Barron's
+
+_Anarchist Handbook_
+
+_The Freedom to Publish_ edited by Haig A. Bosmajian. Published by
+Neal-Schuman Publishers 1989
+
+_The Freedom to Read Books, Films, and Plays_ edited by Haig A. Bosmajian
+
+_Freedom of Religion_ edited by Haig A. Bosmajian
+
+_Freedom of Expression edited by Haig A. Bosmajian
+
+_Academic Freedom_ edited by Haig A. Bosmajian
+
+ALA Policy Manual
+
+_Intellectual Freedom Manual_ Third Edition, published by the American
+Library Association.
+
+343.730998P782T   POOL, ITHIEL DE SOLA, 1917-
+TECHNOLOGIES OF FREEDOM$ CAMBRIDGE, MASS.   82-24498
+
+Academic Freedom and Catholic Higher Education by Annarelli.
+
+Policy Documents and Reports by the AAUP
+
+KF4225.A59B45   BICKEL, ROBERT D.
+THE COLLEGE ADMINISTRATOR AND THE COURTS$ ASHEVILLE, N.C.   79-107650
+
+379.14C686      THE COLLEGE STUDENT AND THE COURTS $ASHEVILLE, N.C   76-648745
+1929528              1   ADDED:  790609   SER 
+
+379.1402H71L   HOLLANDER, PATRICIA.
+LEGAL HANDBOOK FOR EDUCATORS $BOULDER, COLO   77-26092
+
+PN4748.D44S871989   SUSSMAN, LEONARD R.
+POWER, THE PRESS AND THE TECHNOLOGY OF FREEDOM$ NEW YORK, N.Y.   89-16806
+
+KF2750.G67X   GORA, JOEL M.   THE RIGHTS OF REPORTERS$ NEW YORK   74-21647
+3504663   1974       1   ADDED:  890304
+
+025.21878R272C   REICHMAN, HENRY, 1947-
+CENSORSHIP AND SELECTION$ CHICAGO, ILL.   88-16815
+
+025.213B393   MICHIGAN LIBRARY ASSOCIATION. INTELLECTUAL FREEDOM COMMITTEE.
+BEFORE AND AFTER THE CENSOR$ MICHIGAN   
+
+QA76.9M65F671990   FORESTER, TOM.   COMPUTER ETHICS$ OXFORD, UK   89-28265
+581358   1990       1   ADDED:  901227
+
+016.37914T43S   TICE, TERRENCE N
+STUDENT RIGHTS, DECISIONMAKING, AND THE LAW $WASHINGTON   77-985494
+
+KF4175.Z9F55   FISCHER, LOUIS,1924-   TEACHERS AND THE LAW$ NEW YORK   80-23394
+515737   1981       2   ADDED:  810815
+
+KF4243.H41986   HENDRICKSON, ROBERT M.
+THE COLLEGE, THE CONSTITUTION, AND THE CONSUMER STUDENT$ WASHINGTON, D.C.
+
+KF4243S881983      STUDENT AFFAIRS AND THE LAW $SAN FRANCISCO   82-84204
+376685   1983       1   ADDED:  840209
+
+174P238EA   PARKER, DONN B.
+ETHICAL CONFLICTS IN INFORMATION AND COMPUTER SCIENCE, TECHNOLOGY, AND BUSINESS
+$ WELLESLEY, MASS.   89-38890         318040   1990       1   ADDED:  910627
+
+025.21878AM35W
+:AMERICAN LIBRARY ASSOCIATION. OFFICE FOR INTELLECTUAL FREEDOM.:
+WORKBOOK FOR SELECTION POLICY WRITING$ CHICAGO   
+
+Z658.U5F571984   MCCOY, RALPH E. (RALPH EDWARD), 1915-
+THE FIRST FREEDOM TODAY$ CHICAGO   84-461
+
+Z658.U5F571984   MCCOY, RALPH E. (RALPH EDWARD), 1915-
+THE FIRST FREEDOM TODAY$ CHICAGO   84-461
+
+*Charter 19 book
+*interlibrary loan book
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+-------------------
+
+

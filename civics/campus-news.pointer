@@ -1,0 +1,33 @@
+Newsgroups: alt.comp.acad-freedom.talk,misc.misc,alt.news-media,comp.infosystems.gopher,alt.activism
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject:  Gopher access to *new* campus newspaper articles
+Message-ID: <C1tzp7.IK8@cs.uiuc.edu>
+Date: Tue, 2 Feb 1993 17:10:18 GMT
+
+If you have access to gopher, you can read new campus newspaper
+articles. The articles come from many sources, but most are from the
+U. of Illinois, the U. of Minnesota, and the U. of Texas.
+
+To see them, try the command:
+
+gopher gopher.eff.org 5070
+
+Then choose
+
+   "What's New in newspapers? (e.g.: 1 day 2 hours ago) <?>"
+
+Then type, for example, "one day ago".
+
+You will see all the newspaper articles that have been added to my
+"whatsnew" list in the last 24 hours.
+
+
+OPTIONAL
+
+The last item you will see will look something like this:
+
+   "**Bookmark for future new "newspapers" items (19930202161247 gophe../"
+
+This is a timestamp. Save the it as a bookmark. The next time you want
+to see what newspaper articles are new, simply view the bookmark (and
+save the new timestamp as a bookmark).

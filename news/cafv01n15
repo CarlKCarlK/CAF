@@ -1,0 +1,901 @@
+Computers and Academic Freedom (news version)
+June 1991
+Vol. 1, No. 15
+Editor: Carl M. Kadie (kadie@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your
+note will appear immediately on the caf-talk mailing list and in
+the alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is academic/news. Previous special issues are available as files June
+and May.
+
+[SPECIAL ISSUE: The Best of June
+
+This issues starts with reports of user abuse at Ohio State and in
+industry and a report of sys admin abuse at the University of
+Kentucky. The next note shows what can happen when users are denied
+due process; they may take matters into their own hands causing much
+more serious problems. A note by William Murray attributes most
+user/sys admin conflict to honest differences in how each perceive
+computer systems.
+
+Two notes discuss graphics files of naked people. The notes argue that
+University's can not prohibit such files without violating the rights
+of their student. Library policy with regard to pictures of naked
+people and the issue of sexual harassment are considered.
+
+The final six notes tell how to make things run smoothly. Users and
+sys admins should give each other the benefit of the doubt; "ALL
+problems of abuse etc. come about due to lack of communications
+between the Systems staff and the users." An experienced sys admin
+reports that it is almost never necessary to suspend users. Another
+reports that user participation in policy making really works. Both
+of these observations are supported by the Joint Statement on the
+Rights and Freedoms of Students.
+
+In this issue:
+
+sbrack           98
+duke!crm@mcnc   101  War story and some thoughts....
+morgan           43  Have you walked the proverbial mile?
+mojo!russotto    52
+William Murray  116  -
+kadie            53  -
+kadie            54  >publicly-readable "adult"<>tate University CIS Policies)
+kadie            17  >How to back a user into a corner
+Sanjay Kapur     27  Users and Systems staff interaction
+Sanjay Kapur     41  Account suspensions and o<>enial of services in practice.
+cgd              49  >Due process and computer policies (was OSU Policies)
+kadie            56  >FYI: Re: Canceling someone else's article
+junger@cwru      31  >Punishment
+
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+From: sbrack
+Just another expatriate MAGNUS user...  8)
+Message-ID: <us7132w164w@bluemoon.uucp>
+References: <u1VZ31w164w@bluemoon.uucp>
+Date: Tue, 04 Jun 91 15:03:41 EDT
+
+csmith writes:
+> sbrack writes:
+> 
+> >         Seriously, if you want to know interesting facts about magnus &
+> >         Ohio State, e-mail me.
+> 
+> We're listening ...  <grin>
+
+        Well, I had an account on HPUXA, OSU's predecessor to MAGNUS.
+        I had news & mail access, along with a UNIX command shell.
+        It was much like having my own UNIX box.  I could write & run
+        programs on it, I could up- & down-load files from all over the
+        world (through the InterNet), & I could gain experience in how
+        large machine operating systems work.
+        
+        I made two mistakes.  First, I ran a command called "fixman,"
+        which I, by default, had permission to run.  This command
+        reformatted the manual pages (like help files) on HPUXA.  I
+        thought it only worked on my manual pages, but the command
+        instead reformatted the manual pages for the entire system.
+        OSU was not pleased 8).  I had a meeting wherein I basically 
+        agreed not to do it again, & to only run a small selection
+        of commands.
+
+        I did that.  But, I got into trouble on news.  HPUXA recieves
+        about the same news groups that bluemoon does.  They cut out
+        some groups, like alt.sex.pictures, but the pretty much allow
+        a large number of news groups.  Well, I was having an argument
+        with a man in alt.flame.  He posted an article to a group
+        called control (which is where cancel messages & other news
+        "control" messages are supposed to go.)  I posted a followup
+        to that article.  What I did not notice until too late was that
+        the author of the original article had set followups to go to
+        3 or 4 completely inappropriate newsgroups.  My followup contained
+        some "not so polite" language, & OSU's systems people received
+        e-mail about my crossposted article.  When I finally heard whwt
+        had happened, my account had been suspended, so I couldn't even
+        cancel my original article.
+
+        I had another meeting.  This time I was told I would not be
+        getting my account back.  Period.  No dicussion at all.
+        So, I was just a little bit upset that I had lost my account
+        over a prank pulled by someone half-a-continent away.  I
+        posted an article in news.admin, from another InterNet account
+        I had at Ohio State, detailing what had happened, & asking their
+        opinions.  I thanked those that agreed with me (my e-mail ran
+        about 10 to 1 in my favor), & attempted to persuade those that
+        didn't to my point of view.  Owing to several less-than-scrupulous
+        people, the discussion degenerated into a flame war.  I was called
+        "an ME freshman who thinks he has the world by the sensitive
+         appendages" by Karl Klienpaste, OSU's resident net.god.  That
+        was not exactly the epitome of proper conduct, but because of his
+        reputation, he was allowed to get away with it.  Shortly
+        thereafter, I realized it was a losing battle, packed it in, &
+        left the debate in news.admin.  At about the same time, I was
+        denied access to my engineering workstation account, which I had
+        been using for news & mail, as well as classwork.  Not having
+        access to that account would have made it impossible to pass
+        my engineering course.
+
+        I got that account back, after calling everyone from my prof to
+        the Dean of the college of Engineering.  We finally agreed that
+        I could have my account back, provided I did not access news or 
+        mail, or any other "non-class-related" fuctions, from that
+        account.  I didn't, & instead started using bluemoon for mail
+        & news.  (No FTP or telnet, though 8()
+
+        OSU's people have harrassed my friends who were using (with my
+        permission) my account at Denver University.  These people jumped
+        to the conclusion that I was using these accounts, rather than
+        simply letting others do so.  OSU suspended three of my friends
+        acounts, & sent a letter "warning" about me to another.
+
+        If you wish to get Ohio State's perspective on this matter,
+        you may write to the parties involved on the OSU side:
+
+        Bob Dixon               rdixon@magnus.acs.ohio-state.edu
+        Bill Miller            bmiller@magnus.acs.ohio-state.edu
+        Clifford Collins      ccollins@magnus.acs.ohio-state.edu
+        Bob DeBula                bobd@magnus.acs.ohio-state.edu
+        Karl Kleinpaste           karl.kleinpaste@osc.edu
+
+        I guarantee that they won't have anything good to say about me,
+        but their responding to what I say about the situation is the
+        only way those of you who are interested can gain an unbiased
+        view of the situation.
+
+
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+| Steven S. Brack                             The Ohio State University |
+|                                                                       |
+|"I may not agree with what you say, but I will fight to the death for  |
+|                      your right to say it."                           |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Date: 20 Jun 91 04:20:53 GMT
+Message-Id: <677391652@macbeth.cs.duke.edu>
+Organization: Duke University Computer Science Dept.; Durham, N.C.
+From: duke!crm@mcnc.org
+References: , <1991Jun19.222310.490@miavx2.ham.muohio.edu>
+Subject: War story and some thoughts....
+
+
+Years ago, I was working on a project on a nice new Vax 780, first year
+it was available.  (I *said* "years ago....") Since we were working on
+a VAX, we had this great new innovation -- email.  We started working
+on the specification, exchanging all our fragments of specification via
+email.
+
+One day the whole system ran out of disk space.  The system supported
+our project and several administrative types.  I logged on,
+unsuspecting, and found that my mail archive had been deleted.
+
+I notified the system staff, and at first they wouldn't admit that
+anything had happened.  Then they said they had lost the file and
+coudn't recover it.  Then they finally admitted they had deleted the
+file because they thought it was too big; they didn't want me taking up
+space with archived mail.
+
+Notice what happened here:
+
+1. System administrator wants to preserve services for others
+2. System administrator takes drastic action on own authority
+3. System administrator buggers someone who was using the system
+   according to what few published policies there were at the time, and
+   doing useful work in a way the administrator didn't consider.
+4. System administrator trys to cover own ass.
+
+As it happened, this was in industry, not in The Academy.  The project
+was paying for something like 75 percent of the VAX.  Result:
+
+5. System administrator lost appeal for unemployment insurance:
+   termination was for cause.
+
+Unfortunately, in a University, if a student gets buggered by the
+staff, there is rarely any effective recourse; this is all the more
+reason that an honorable man would attempt to bend over backwards in
+order not to cause unnecessary injury.
+
+What appears to *me* is that the real issue for system administrators,
+especially at universities, is this:
+
+1.  You are there to help the users do work on the system; they are the
+reason for your existence.  (If you don't believe this, cancel a *faculty
+member's* account to "get their attention.")  It is easy to forget while
+administering things to beat the band, that the objective is for
+*everyone* to have access needed.  Not everyone but the trouble makers,
+*everyone*.  It behooves us doing system admin to try to remember this.
+
+(Try to recall Fred (?) Cohen, who found it difficult to do the original
+technical work on viruses because once people learned he *could* build
+them, they refused to let him onto their systems.)
+
+2.  Students, especially undergraduates, sometimes do foolish things,
+sometimes do stupid things, sometimes even screw things up.  (I
+discovered the fact that running out the file space can completely lock
+up 2.xBSD systems by writing a too-big file from a background process,
+many years ago.  Up to then, I'd always dealt with systems that didn't
+think crashing was an error message.  It was hardly malicious.) If they
+knew what they were doing they wouldn't *be* students.  You as system
+administrator will sometimes need to remonstrate with them.
+
+The force you use *must* be measured.  If someone is giving someone
+else's terminal the crabs, then mention to them that this is antisocial
+behavior, as much fun as it might be.  THEN see if THEY do it again.
+
+Don't assume that if anyone's terminal gets the crabs, it must have been
+the same person.  If it happens several times, wonder if your security
+set up is at fault.  Or set some kind of instrumentation to make certain
+who is doing it.  Remember one of the great advances of human thought:
+"Innocent until proven guilty beyond a reasonable doubt."
+
+3.  Using the admin power to lock someone's account is about as forceful
+as it is possible to be; this power *must* be reserved for problems that
+appear to really seriously affect the security of the system.  Even
+then, you ought to make sure that someone has the authority to release
+the lock, and that this person is accessible, and that *part of their
+job description* is to deliver remonstrance and mercy at the same time.
+(If I'd have gotten my account locked on Friday night after my screwup,
+with problem sets due Monday morning, and the staff member who could
+release it was out of town over the weekend, *I* would be sore wroth.
+But would the Dean intervene for me with a professor?  How about the
+system administrator?  Likely as not, from Sanjay's responses and
+others, they'd say "you deserved it.")
+
+In many academic situations, losing the use of the computer for a full
+week is tantamount to expulsion; both out of a desire to behave
+honorably, and out of a sense for your own -- financial, because the U
+will drop you like a hot rock if a lawsuit looks like it will succede,
+and physical, because a distraught young college student who is going to
+have to face Dad may take *any* foolish step -- safety, you must be
+very certain that you aren't using that power maliciously.
+
+4.  In general, *good* system administration is as close to invisible as
+possible; if you find your self dealing with irate users very often, the
+problem is more likely yours than theirs.
+
+
+
+-- 
+	 Charlie Martin (...!mcnc!duke!crm, crm@cs.duke.edu)
+	    13 Gorham Place/Durham, NC 27705/919-383-2256
+
+Date: 18 Jun 91 21:47:26 GMT
+Message-Id: <1991Jun18.214726.15504@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+From: cs.utexas.edu!asuvax!ukma!morgan@uunet.uu.net
+Subject: Have you walked the proverbial mile?
+
+
+You know, I've been reading this discussion group since its inception,
+and a question has occured to me.
+
+Large amounts of animal dung have been heaped upon system administrators
+in these discussions.  How many of you are, or have been, system admini-
+strators in any capacity?
+
+Most system administrators have been on the other side of this fence;
+we were users before we were administrators.  Can any of the partici-
+pants in these discussions make the opposite claim?  Unless you've
+been an administrator (a PC BBS, network, mail admin, news admin,
+or whatever), how can you "put horns" on all of us?
+
+I think that users would find it educational to spend a few days
+"hanging around" with the administrators.  You could watch us
+cringe when some user starts 8 background jobs, bringing the sys-
+tem to a crawl while 20 other users are currently active.  You could 
+hear us groan as someone decides to print 10 copies of their thesis 
+instead of spending a few dollars at the copy shop.  You could listen
+in as users walk in and say "You *have* to give me 15 Mb of disk space."  
+You could hear us delicately handle an irate user who demands that we
+purchase documentation in their native language because "the English
+ones are too hard to understand."   You could learn as we explain
+to a user that he shouldn't give his password out to all his friends.
+
+None of the scenarios in the previous paragraph are fictitious; they
+have all happened *to me* in the last year, some of them several times.
+
+If you spent some time with a system administrator, you'd learn that
+we're usually too busy to waste time persecuting individual users.  It
+takes a certain skill to juggle the needs of thousands of users.  While
+you may have had problems with one or two of us, don't start issuing
+blanket condemnations until you've walked that mile in our shoes.
+
+Wes
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+    Curator of the benchmark archives at wuarchive.wustl.edu <128.252.135.4>
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 4 Jun 91 16:09:47 GMT
+Message-Id: <1991Jun4.160947.7193@eng.umd.edu>
+Organization: College of Engineering, Maryversity of Uniland, College Park
+From: mojo!russotto@mimsy.umd.edu
+
+References <1991Jun3.165946.12637@eff.org>, <1991Jun3.173550.13928@eff.org>, <1991Jun3.232500.24850@ms.uky.edu>
+Subject : Re: Ohio State University CIS Policies
+
+In article <1991Jun3.232500.24850@ms.uky.edu> morgan@ms.uky.edu (Wes Morgan) writes:
+>In article <1991Jun3.173550.13928@eff.org> kadie@eff.org (Carl Kadie) writes:
+>>
+>>The fatal flaw in the policies is the lack of any notion of due
+>>process. It looks like a student or a faculty member could be
+>>suspending or expelled from the computer system at the whim of sys
+>>admin without recourse to a formal hearing.
+>>
+>
+>Why, oh why, is *everything* turning into a "formal" or "due
+>process" situation?  We've never had any problem with a student
+>that wasn't solved with a face-to-face conversation.  I've 
+>stopped chain letters, obscene files, and email flood wars with
+>a simple "please drop by to see me" message.  Sure, users have
+>been locked out here; this only occurred when the student ignored
+>several requests to come in for a meeting.  I haven't had to lock
+>anyone out yet; those few occurances were several years ago.
+>
+>I realize that "due process" is a student right; however, aren't
+>we getting just a bit too stringent in its application?  Heck, 
+>I guess I'll have to schedule a hearing to kill user processes
+>that are using > 75% of the available system, since it's their
+>final project and I'm infringing their rights.
+>
+>Let's step back, take a deep breath, and look at this from a
+>new perspective, shall we?
+
+I was barred from use of the computer systems at the UMCP computer science
+center without warning.  The message put up when I attempted to log on told
+me to talk to "the System Administrator", whoever the heck that might be. So
+I called the guy I knew logged on as 'root'---  he told me that I had been
+locked out by a different guy, the "accounts administrator".  I talked to this
+'accounts administrator', who told me that he had heard reports that I had
+been 'bothering people' (by messing with X-windows), but that to get my account
+back, I would have to talk to the 'system administrator'.  I talked to him
+again, and was sent back to the 'accounts administrator', who sent me
+back to the 'system administrator'.  I got sick of the obvious runaround, and
+went and applied for a number of new accounts under phony names.  Eventually,
+they brought me to the judicial programs office or having all those accounts,
+and I was found responsible for 'theft of services'.
+
+If there had been some sort of due process in the first place, perhaps I
+wouldn't have had such trouble.  Informal stuff only works when both sides are
+trying for a real solution-- not when the side with more power only wants to
+avoid what they percieve as a problem by getting rid of the student involved.
+--
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+     .sig under construction, like the rest of this campus.
+
+Date: Sat, 29 Jun 91 16:00 GMT
+From: William Hugh Murray <0003158580@mcimail.com>
+Subject: 
+Message-Id: <85910629160058/0003158580NB2EM@mcimail.com>
+
+>       "A toy shouldn't break just because a child plays with it."
+
+There is an underlying problem here that is contributing to the tension
+between student users and system administrators.
+
+While I am  content to believe that innocent students have been
+victimized by system administrators suffering from megalomania,  I do
+not believe that the few documented cases of megalomania can be the
+cause of all this furor.  Instead, I suggest that the tension results
+from expected differences in perception of the situation.
+
+The student knows that systems are robust.  "Pac-Man" never broke.
+"King's Quest" never broke.  You could push as hard as you wanted to; it
+never broke.  You could not get out of the "land." It did not break.
+Yet.  Push!  Problems are related to hardware and software, not users.
+The rules of the game are implicit in the game.  If you can do it, it is
+legitimate.  The way you "win the game" is to explore the land to its
+outermost boundaries.
+
+The system administrator knows that systems are fragile.  Most have come
+about by elaboration of earlier systems.  They were not designed of a
+piece.  Even when we do a major upgrade, we often include function from
+earlier systems, usually as an accomodation to users.  This
+functionality often includes gratuitous generality and flexibility.  The
+systems have often been extended to support user populations which are
+much larger and less orderly than the ones for which the systems were
+conceived.  The result is systems which are not as robust as might be
+indicated or expected for their current use and user populations.  The
+system administrator knows this.
+
+Each also knows different things about the consequences.  The system
+administrator knows that there are hundreds of users out there waiting
+for the prompt.  If they do not see it, they are at least anxious, many
+are panicky, and some are justified.  Unless you contain the damage
+early, you may never completely recover.  You may not recover without
+disruption.
+
+The student believes that "Ctrl-Alt-Del" will fix most anything.  The
+consequences, whatever they may be, are limited.  While intellectually
+he may understand differently, deep down inside, where he knows how to
+feel hungry and grow fingernails, he knows that they are limited.  Much
+of what the student "knows" he learned in single user systems.  He does
+not appreciate multi-user systems.
+
+All system intrusions and many accidents are preceeded by anomalous
+behavior.  There are warnings.  As a security consultant, I participate
+in many "post-mortems."  It is rare to see a system failure caused by
+user behavior in which there were no warnings.  System administrators
+know this from experience.  They have learned that the "way to win the
+game" is to be on the alert for such behavior and nip it in the bud.
+
+The student insists "judge me by my motive," not by my behavior alone.
+Of course, his motive is usually benign; perhaps a little mischievous,
+but never malicious.  Most often he was "merely exploring" or seriously
+"experimenting." He believes that in the academic community, these
+motives sanction anything.  (In reality, academic experimentation
+involves controls to which this behavior does not pretend.)  But no
+matter, whatever else he intended, he did not intend to break the
+system.
+
+The administrator says "I cannot know your motive in advance unless you
+tell me about.  If it is innocent, tell me; if it were innocent, you
+would have told me.  At best, I can only know about your motive in
+hindsight.  Your motive is not relevant; the system is fragile and you
+can break it without intent.  It is not your sandbox; there are other
+interests to be protected.  I must react on a timely basis to the
+behavior that I see.  Others will have to deal with motive after the
+fact.
+
+And here is the nub of the tension.  The administrator and the student
+are looking at the same behavior but from very different perspectives.
+Each projects onto the other things that the other cannot know about.
+The student expects the administrator to appreciate and be tolerant of
+his motive.  The administrator expects the student to appreciate the
+vulnerability of the system, the extent of the consequences of breakage,
+and the reponsibility of the administrator to the majority user
+population.
+
+The student expects the administrator to act as good parent, with
+tolerance, restraint and deliberation.  The administrator feels pressure
+to act immediately to contain the behavior before it gets out of
+control.  Some of you may recognize this dilemma as similar to a basic
+one between children and parents.
+
+The student knows the source of the behavior and intends to do
+no harm.  The administrator does not know the source or the intent, but
+has learned to expect the worst.
+
+The student sees the system as a toy; his toy.  He believes it to be
+robust, but even the strongest toys break.  No big deal; he was only
+playing.  He did not intend to break it.  There are always more toys.
+What is all the excitement about?  That guy must be out to get him.
+It must be personal.  What other explaination can there be?
+
+The administrator sees the system as a piece of the infrastructure, as
+capital equipment.  He has tried to make it sufficiently robust to
+withstand normal use, but he knows its complexity makes that a risky
+effort at best.  He knows that it is no one's toy and that playing with
+it puts it at unneccessary risk.  (Even the best toys will break if hit
+with a big enough hammer.)  He knows that it can be broken without
+intent.  He knows that the consequences of breakage are grave, perhaps
+or partially irremedial, and not related to the motive of the breaker.
+Its not personal.  He is only doing his job.
+
+Each sees his view as eminently reasonable; almost everyone that he
+knows holds the same view.  Indeed, each is likely to conclude that, as
+even-handed as I have tried to be, I really agree with him.
+
+I do not argue for either of these views, but simply that they are the
+origins of the tension.  It may be that this tension is so intrinsic to
+the situation that it cannot be alleviated; I do not believe so.  Rather
+I believe that the problem can be dealt with by the kind of prior
+understanding and agreement that I have earlier proposed here.
+
+William Hugh Murray
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Sat, 8 Jun 1991 02:51:46 GMT
+Message-Id: <1991Jun8.025146.16881@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+
+References <ABRAHAM.91Jun6210025@thiele.iesd.auc.dk>, <JGREELY.91Jun7130139@mo, <JGREELY.91Jun7182341@morganucodon.cis.ohio-state.edu>
+Subject : Re: publicly-readable "adult" gifs (was Re: Ohio State University CIS Policies)
+
+>In article <1991Jun7.180227.4515@eff.org> kadie@eff.org (that's me) writes:
+
+>>Can you be more specific? What rules? What law?
+
+jgreely@morganucodon.cis.ohio-state.edu (J Greely) writes:
+
+>The university's sexual harrassment rules, and the state law on making
+>"pornography" available to minors (we *do* get some).
+[...]
+>[I]n the specific case of R-
+>or X-rated graphic images, we care about the file permissions.
+[...]
+
+(I'll respond with two notes.)
+
+So the question is where does free expression end and harassment
+begin?
+
+Just as I have a right to speak, write, listen, and read; so, I also
+have a right not to speak, not to write, not to listen, and not read.
+The denial of my right not to listen or my right to to read is
+harassment.
+
+Thus, a campus meeting or rally by American's Against the Left-Handed
+(AALH) does not harass me because I don't have to attend the meeting
+and I can avoid the rally.
+
+On the other hand, if AALH members following me home, calling me a
+"dirty lefty", I am being harassed.
+
+Similarly, if you look at a picture of a nude person or show that
+picture with someone who wants to see it, no one is harassed.
+
+When, you display that picture in the office or on an unwilling
+person's X-terminal, you are harassing the unwilling people who
+must view the picture.
+
+You cannot harass me merely by setting file permissions such that
+others can view material that I find offensive.
+
+Finally, I note that Ohio State subscribes to Playboy magazine. (They
+really do; I checked). By collecting these pictures of nude people,
+the library harasses no one. Allowing you to see the pictures,
+harasses no one. On the other hand, if you photocopy the pictures and
+put them on an unwilling person's desk, you harass that person.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Tue, 11 Jun 1991 00:23:31 GMT
+Message-Id: <1991Jun11.002331.13159@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+Subject: Re: publicly-readable "adult" gifs (was Re: Ohio State University CIS Policies)
+
+[Reposted from comp.admin.policy - Carl]
+~From: jfraser@magnus.acs.ohio-state.edu (Jane Fraser)
+
+In article <1991Jun8.200358.13482@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>Refering to OSU's subscription to Playboy ...
+>
+>jgreely@morganucodon.cis.ohio-state.edu (J Greely) writes:
+>[...]
+>>I know; I checked too, before I posted.  I didn't have a chance to ask
+>>how they regulate access, although I note that it's currently recieved
+>>in the rare books room, which requires you to give your ID when
+>>requesting materials.
+>[...]
+>
+>It's my impression that materials such as Playboy are kept in places
+>such as the Rare Book room to protect the magazine from the reader,
+>not the reader from the magazine. (Playboy is prone to be stolen; a
+>vulnerable not shared by GIF files).
+>
+>Perhaps a real-life librarian can set Mr. Greely and me straight (just
+>send e-mail to caf-talk@eff.org).
+>-- 
+>Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+>
+
+I happened to have lunch today with Bill Studer, Director of the
+Libraries here at Ohio State.  Playboy is available only by
+temporarily trading your student/faculty/staff ID for it, but anyone
+may read it.  The only age limit imposed would be that the person
+would have to be able to reach the counter to present his/her ID. :-)
+
+The librarians assembled (most of the OSU Library administration) were
+strong in their remarks that librarians everywhere believe in
+unregulated access to library materials.
+
+By the way, the OSU Library is believed to be the only place with a
+complete collection of Hustlers.  Someone in sociology needed them for
+research and used research funding to assemble the back collection.
+The researcher gave it to the library on condition that they maintain
+a subscription to keep the collection up-to-date.
+
+Jane M. Fraser
+Co-Director
+CAST, Center for Advanced Study in Telecommunications
+The Ohio State University
+210 Baker Systems, 1971 Neil Avenue
+Columbus, OH 43210
+614-292-4129
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Tue, 18 Jun 1991 22:53:45 GMT
+Message-Id: <1991Jun18.225345.5510@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <1991Jun18.180021.28193@eff.org>
+Subject: Re: How to back a user into a corner
+
+Here is a rewrite of my original note, less the sarcasm.
+
+If you are a user having a run in with the local sys admin over some
+minor infraction, you may be tempted to make some grand gesture. If
+this gesture involves more rule infractions, don't do it.
+
+You have a right to protest and appeal an unfair rule or punishment;
+you do not have a right violate an unfair rule or punishment.
+
+More often than not, a user is given a serious punishment not
+for his or her original offense, but rather for some follow-up
+infraction.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Date: Thu, 20 Jun 1991 02:25 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Subject: Users and Systems staff interaction
+Message-Id: <2E8DFD2EDC217F86@ccmail.sunysb.edu>
+X-Organization: State University of New York, Stony Brook
+
+
+I have been a Systems Administrator now for about seven years.  
+
+I consider users to be the reason I have a job.  I do my best to avoid any 
+action that might constitute even a minor annoyance to even one user.  I also 
+do not want a user to annoy/harrass another user.  
+
+On the other hand, I do not mind being "harrassed" by users.  In fact, I do 
+not consider it harrassment at all and I believe helping users in using the 
+system properly is a major portion of my job.  I have yet to meet a user who 
+has continued to abuse the system after being instructed in how to use the 
+computer system properly, and after being advised of the reasons for certain 
+restrictions.   I find that these restrictions can be at times frustrating to 
+a user and understanding the reasons behind these restrictions eases the 
+frustration.  At times users actually support the restrictions.
+
+My experience has taught me that ALL problems of abuse etc. come about due to 
+lack of communications between the Systems staff and the users.  Direct access 
+to the systems staff who actually manage the system in addition to access to a 
+front office (e.g. an accounts offoce, a user support office, Student 
+assistants) has to be a central element of any policy.
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+Date: Thu, 20 Jun 1991 02:26 EDT
+From: Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>
+Subject: Account suspensions and other denial of services in practice.
+Message-Id: <2EAE2FFB1C217F86@ccmail.sunysb.edu>
+X-Organization: State University of New York, Stony Brook
+
+I would like to make the following statements just in case someone assumes 
+I am out to make life miserable for users:
+
+I have been a system administrator now for seven years.
+
+The main reason I suspend an account is when the account runs out of 
+allocated funds.  I do not have any role in allocating new funds.  For all 
+practical purposes the supension is automatic.
+
+The only other time I have suspended accounts was when the Internet and 
+DECnet worms were around. I suspended those accounts who had Username the 
+same as the Password.  Those account were reactivated as soon as the user 
+changed the password.  Notices of this action were posted in quite a few 
+places.  This was the only time accounts were suspended to get the user's
+attention.  New security software on VMS does not allow simple passwords 
+anymore and so this is no longer an issue.
+
+The only reasons I have deleted an account are 1) because the person was no 
+longer associated with the University or 2) account owner sent a request 
+verified by phone by me to have their account deleted or 3) the person 
+paying for the account (not the user) requested its deletion.  The third type 
+of deletion is done after the user is notified and asked to find a new source 
+of funds to which the account can be charged and the user is unable to do so 
+within a reasonable period of time.  In all cases, if the user wants, the 
+files are archived for the user.
+
+The only method I have used to delete users' file is by automatic purge of old 
+log and listing files and previous versions of files after they get old (end of 
+semester), automatic purge of old mail that has not been refiled and automatic 
+purge of scratch areas.  We also do weekly backup of the whole system and 
+daily incremental backups that we keep for more than three months in case 
+someone needs a purged file.
+
+I would like to know if any of the above are "wrongful" denials of service.
+
+
+  Sanjay Kapur                        |Internet:    Sanjay.Kapur@sunysb.edu
+  Systems Staff, Computing Services,  |Bitnet:      SKAPUR@USB
+  State University of New York,       |SPAN/HEPnet: 44132::SKAPUR
+  Stony Brook, NY 11794-2400          |Phone:(516)632-8029, FAX:(516)632-8046
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Sat, 8 Jun 1991 10:35:30 GMT
+Message-Id: <CGD.91Jun8023530@monsoon.ocf.Berkeley.EDU>
+Organization: UCB Open Computing Facility
+From: stanford.edu!agate!agate!cgd@uunet.uu.net
+References: , <1991Jun4.160947.7193@eng.umd.edu>, <Z9c2316w164w@bluemoon.uucp>
+Subject: Re: Due process and computer policies (was OSU Policies)
+
+In article <1991Jun8.035801.11343@mailer.cc.fsu.edu> otto@fsu1.cc.fsu.edu (John Otto) writes:
+
+   In article <1991Jun6.200457.7743@eff.org>, kadie@eff.org (Carl Kadie) writes...
+
+   >In the past, I have tried to argue for due process and participation
+   >rights with appeals to idealism and authority (e.g the Joint Statement
+   >on Rights and Freedoms of Students).
+
+   >This thread of conversation highlights the pragmatic reasons for
+   >supporting these rights. Due process gives the disgruntled user a
+   >nondestructive path. It may also helps keep the policy enforcer honest
+   >(to use an expression from poker).  User participation in the
+   >formulation and application of policy gives the policy a feeling of
+   >legitimacy. It also helps fight us vs. them attitudes.
+
+   No. That's not adequate.  What happens with "student participation in the 
+   setting of policy" is that only brown nosers get appointed to the policy 
+   committee.  Even among large groups of students (student governments), 
+   problems have arisen recently with the imposition of political correctness 
+   doctrines.
+
+You say that "only brown nosers get appointed to the policy committee."
+
+I don't think this is true, especially where the students have any say in
+who represents them on the policy committee.  And if the general body
+of students (or users) has no say, then it cannot be said that they
+really participate, or are represented.
+
+I honestly don't think that comments on the wonderful subject of
+"political correctness" (the topic amuses me...) are relevant to this
+discussion - in some things, such as academics, and funding situations,
+arguments can probably be made in favor of PC or against.
+However, in the world of computers, i've yet to see an opinion biased
+by race, creed, color, etc - it simply is not relevant.
+
+If you will attempt to argue that students who *ARE* *REPRESENTED* by
+peers on a policy-making committe (or whatever) are not better off
+(in most cases) than if they were not represented, well, let's just say
+that i'll be very amused.
+
+cgd
+UCB OCF Staff - Though these are my words, and mine alone...
+--
+<          Chris G. Demetriou          | "Everybody's playing the game,       >
+<         cgd@ocf.berkeley.edu         |  But nobody's rules are the same.    >
+<          ...!ucbvax!ocf!cgd          |  Nobody's on nobody's side." - Chess >
+<=============================================================================>
+< Annoyance for hire.  Name a time.  Name a place.  Name a target.  I'm there.>
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Mon, 3 Jun 1991 16:16:30 GMT
+Message-Id: <1991Jun3.161630.10523@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <D2086C338020038B@ccmail.sunysb.edu>
+Subject: Re: FYI: Re: Canceling someone else's article
+
+SKAPUR@ccmail.SUnysb.EDU (Sanjay Kapur) writes:
+[...]
+>I agree that a formal hearing should be required before expulsion from the 
+>general university or departmental computer system.
+
+>Do you agree that suspending computing privileges pending a formal expulsion 
+>hearing is a responsible and required excercise of the powers of a System 
+>Administrator?
+
+To quote the Joint Statement on Rights and Freedoms of Students (JSRFS):
+
+"C. Status of Student Pending Final Action
+
+  Pending action on the charges, the status of a student
+should not be altered, or his right to be present on the
+campus and to attend classes suspended, except for
+reasons relating to his physical or emotional safety and
+well being, or for reasons relating to the safety and well-being
+of students, faculty, or university property."
+
+>Do you also agree that if the hearing finds the student guilty, this finding 
+>should be put in the individual's permanent record (transcript) and, depending 
+>on the incident, may even lead to expulsion from the University itself?
+
+Quoting the JSRFS: 
+
+"To minimize the risk of improper disclosure, academic and
+disciplinary record should be separate, and the conditions of access
+to each should be set forth in an explicit policy statement.
+Transcripts of academic records should contain only information about
+academic status."
+
+So, I don't think that *any* disciplinary info should be on a
+student's academic transcript. On the other hand, computer infractions
+are no less important than other infractions, and so should be treated
+the same (possibly leading to expulsion from the University).
+
+>Can we build an archive site which contains the complete text of University 
+>policies ?  
+
+I encourage everyone to get a copy of their university's student code.
+And if the typing or scanning muse hits you, please email to me
+whatever you feel like putting on-line.
+
+>University Policies may state freedom of expression 
+>as a goal in the first paragraph, but, by the time you get to the 187th (say) 
+>paragraph, they normally have thirty (say) limitations on it.  Also local and 
+>federal laws sometimes override general University Policy making the general 
+>policy null and void while leaving the Computing policy intact.
+
+I haven't seen this. Can you give examples?
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+From: junger@cwru.cwru.edu
+Message-Id: <9106142225.AA03883@eff.org>
+Date: 14 Jun 91 18:21:00 EST
+Subject: Re: Punishment
+Cc: junger@cwru.cwru.edu
+
+	Once again the question of due process confronts us.  It is
+one thing to suspend a student's account when he is apparently doing
+something that puts the system at risk, until the matter can be
+straightened out.  It is something quite different to expel a student
+from the system as a punishment.  
+	Suspensions of the first sort must, of course, be done by
+those responsible for the system, but they should never be punitive and
+they should only be for the amount of time necessary to straighten the
+matter out.
+	I do not see how it can ever be an appropriate punishment for a
+student to be permanently expelled from a computer system (or a library) if 
+access to the system (or library) is necessary for the student's course work.
+I am sure that it is never appropriate for computer system administrators
+to be the one who punish students, or anyone else.  Punishment is
+a matter within the jurisdiction of deans of students, student honor courts,
+and similar institutions, not systems administrators.
+	It may, of course, be appropriate for systems adminsitrators to
+file complaints against a student who is accused of violating the rules
+relating to computers, but the ststems administrators should only
+serve as complaining witnesses not as judges, and the student who
+is accused is entitled to due process in such a case.
+	The real difficulty is getting the faculty and administrators
+who are not sophisticated in the ways of computers to understand
+that there is no significant distinction, as far a punishment of
+students is concerned, between access to academic libraries and access
+to academic computers.
+
+Peter D. Junger
+Law School
+Case Western Reserve University
+------
+
+

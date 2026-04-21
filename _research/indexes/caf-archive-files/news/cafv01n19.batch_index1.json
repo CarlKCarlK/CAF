@@ -1,0 +1,444 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 30, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Non-technical students rarely read brochures explaining how to use chmod to protect files.",
+        "System administrators may act as a buffer between users and faculty/bureaucrats who seek to restrict access or monitor students.",
+        "Running programs to detect cheating in homework without student consent is considered wrong by the author.",
+        "Enforcement of privacy policies against superusers is nearly impossible because they can browse files without leaving traces."
+      ],
+      "organizations": [
+        "State University of New York, Stony Brook"
+      ],
+      "people": [
+        "Sanjay Kapur",
+        "Bill Dugan"
+      ],
+      "summary": "Sanjay Kapur discusses the tensions between system administration and user privacy on university computers. He argues that relying on users to secure their own files via chmod is ineffective for non-technical students and highlights the role of sysadmins in protecting students from faculty surveillance, such as automated cheating detection software.",
+      "title": "Re: Legislating searches",
+      "topics": [
+        "privacy",
+        "system administration",
+        "academic freedom",
+        "surveillance",
+        "file permissions"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "<EA7AC0D5E0A0C34A@ccmail.sunysb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Re: Legislating searches",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 30, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Accessing user files without established probable cause is viewed by some as a disregard for individual privacy rights.",
+        "Some system administrators believe that emergencies can justify snooping into file contents to sustain operations.",
+        "There is a perspective that users should assume they have no privacy on institutional systems."
+      ],
+      "organizations": [
+        "State University of New York, Stony Brook"
+      ],
+      "people": [
+        "Sanjay Kapur",
+        "John Otto"
+      ],
+      "summary": "A discussion between system administrators regarding the ethics of administrator access to user files. John Otto argues that accessing files without probable cause is a violation of privacy rights and should require third-party oversight. Sanjay Kapur counters that emergencies may necessitate such access and warns users that they should not expect privacy by default on institutional systems.",
+      "title": "Re: Administrator Access (Was Re: Ohio State)",
+      "topics": [
+        "administrator access",
+        "user privacy",
+        "ethics",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Sanjay Kapur <SKAPUR@ccmail.sunysb.edu>",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<F6CC482F00A0CD74@ccmail.sunysb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Re: Administrator Access (Was Re: Ohio State)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 30, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Default account configurations (umask 077) can protect non-technical users who do not read policy brochures or know how to use chmod."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Christopher Davis",
+        "Sanjay Kapur",
+        "Bill Dugan"
+      ],
+      "summary": "A discussion regarding the protection of user files on university systems from unauthorized access or searches. Christopher Davis suggests implementing a default umask of 077 during account creation to ensure privacy by default for non-technical users.",
+      "title": "Re: Legislating searches",
+      "topics": [
+        "file permissions",
+        "privacy",
+        "umask",
+        "university computing",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "ckd@eff.org (Christopher Davis)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<CKD.91Jul30120804@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Re: Legislating searches",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "The student admitted to being part of an 'elite group of hackers/phreakers'.",
+        "UGA officials chose Student Judiciary proceedings over criminal charges.",
+        "The sentence included a two-quarter suspension and probated expulsion."
+      ],
+      "organizations": [
+        "University of Georgia",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Rita Rouvalis",
+        "Michael Covington",
+        "Carl M. Kadie"
+      ],
+      "summary": "A University of Georgia student was sentenced to a two-quarter suspension by the Student Judiciary after emailing the /etc/passwd file from the Athena system to an external hacker. The university opted for internal disciplinary action via the Student Judiciary rather than pursuing criminal charges. The author argues that the process provided fair due process and served as a measured response compared to contemporary 'hacker hysteria'.",
+      "title": "student suspended for mailing passwords at U. of Georgia",
+      "topics": [
+        "student discipline",
+        "hacking",
+        "academic freedom",
+        "computer security",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<1991Jul30.013420.19111@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "student suspended for mailing passwords at U. of Georgia",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-07-31",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Public university relationships are contractual rather than 'in loco parentis'.",
+        "Student newspapers at public institutions generally cannot be censored prior to publication.",
+        "Teachers and administrators at public institutions are generally considered public officials regarding search and seizure laws.",
+        "A student's right to attend college is considered a 'property' right requiring due process before deprivation."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Partrica A. Hollander",
+        "D. Parker Young",
+        "Donald D. Gehring"
+      ],
+      "summary": "Carl Kadie shares a summary of legal principles regarding the authority of public universities based on a 1985 guide. The text outlines students' First Amendment rights, protections against unreasonable searches and seizures, and due process requirements under the Fourteenth Amendment. It emphasizes that the relationship between public universities and students is contractual rather than 'in loco parentis'.",
+      "title": "Authority of Public Universities",
+      "topics": [
+        "academic freedom",
+        "constitutional law",
+        "student rights",
+        "due process",
+        "public universities"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<1991Jul30.202126.7529@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-07-31",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The relationship between public universities and students is now viewed as contractual rather than 'in loco parentis'.",
+        "Student enrollment creates a property interest that triggers constitutional guarantees at public institutions.",
+        "Teachers acting within their employment scope are agents of the institution, making the institution liable for their acts."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie shares excerpts from a legal guide regarding the shift in public university authority from 'in loco parentis' to a contractual relationship. The text argues that students have contractual and constitutional rights based on tuition payments and institutional catalogs. It also discusses how teachers act as agents of the institution, potentially creating liability for breach of contract.",
+      "title": "Authority of Public Universities",
+      "topics": [
+        "academic freedom",
+        "student rights",
+        "institutional liability",
+        "contract law"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<1991Jul31.144939.23532@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Re: Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 31, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Constitutional rights to free expression do not automatically grant a right to use university computing resources without permission.",
+        "System administrators may justify searching user files if evidence of misconduct is found in public directories or via one-user complaints.",
+        "Clear, specific codes of conduct are necessary for students to adequately prepare a defense against charges of policy violation."
+      ],
+      "organizations": [
+        "Duke University"
+      ],
+      "people": [
+        "John P. Eisenmenger"
+      ],
+      "summary": "John P. Eisenmenger discusses the tension between students' First Amendment rights and a university's right to control its computing resources. He argues that while free expression is vital, it does not grant students the right to use university CPU and storage for non-educational purposes without permission. He advocates for the creation of clear, fair computing policies and honor codes to govern resource usage.",
+      "title": "Re: Authority of Public Universities",
+      "topics": [
+        "academic freedom",
+        "computing policy",
+        "resource allocation",
+        "First Amendment",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "jpe@egr.duke.edu (John P. Eisenmenger)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<1489@cameron.egr.duke.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Re: Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "August 2, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "There was a perceived need for a 'thorough and fair computing policy' template for universities."
+      ],
+      "organizations": [
+        "EFF",
+        "Duke University",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "John P. Eisenmenger"
+      ],
+      "summary": "In response to a suggestion by John P. Eisenmenger, Carl Kadie supports the creation of a template for fair computing policies at universities. The exchange highlights an early effort among academic users to standardize equitable computing guidelines. Kadie suggests delaying the project until September when more faculty and students return to campus.",
+      "title": "Authority of Public Universities",
+      "topics": [
+        "computing policy",
+        "academic freedom",
+        "university governance"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<1991Jul31.165703.25469@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Re: Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "2 Aug 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Creating a universal computing policy is ineffective as each institution must decide its own.",
+        "RFC 1244 provides a useful framework for the questions institutions must ask when developing security policies."
+      ],
+      "organizations": [],
+      "people": [
+        "Aydin Edguer"
+      ],
+      "summary": "Aydin Edguer responds to a discussion regarding the creation of computing policy guides for universities. He suggests using RFC 1244 as a framework for identifying key security and access questions rather than attempting to draft a universal policy. Edguer argues that individual institutions must determine their own policies but should apply them fairly and impartially.",
+      "title": "Re: Authority of Public Universities",
+      "topics": [
+        "computing policy",
+        "academic freedom",
+        "system administration",
+        "RFC 1244"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "edguer@alpha.ces.cwru.EDU (Aydin Edguer)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<9108021514.AA12751@charlie.CES.CWRU.Edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Re: Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Aug 91",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Explaining the reasoning behind specific computer policies helps users agree to them willingly and reduces attempts to circumvent rules."
+      ],
+      "organizations": [
+        "University of Maryland"
+      ],
+      "people": [
+        "Leanne Phillips",
+        "John P. Eisenmenger"
+      ],
+      "summary": "Leanne Phillips responds to a list of suggested components for university computer policy guides. Phillips suggests adding a section that explains the reasoning behind each specific policy to increase user compliance and reduce spiteful attempts to bypass rules.",
+      "title": "Re: Authority of Public Universities",
+      "topics": [
+        "computer policy",
+        "governance",
+        "academic freedom",
+        "user compliance"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "phillips@syrinx.umd.edu (Felan shena Thoron'edras)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<9223@umd5.umd.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Re: Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1991-08-02",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Proposed computing policies should define the rights, responsibilities, and authority of both users and administrators.",
+        "The role of 'system administrator' is inconsistently defined across institutions, often split among various technical and administrative staff."
+      ],
+      "organizations": [
+        "Florida State University",
+        "Duke University",
+        "Carnegie Mellon University"
+      ],
+      "people": [
+        "John Otto",
+        "John P. Eisenmenger"
+      ],
+      "summary": "The post discusses the creation of a computing policy guide for public universities, including proposed sections on user rights and administrative authority. John Otto comments on the varying nature of the 'system administrator' role across different institutions and how this affects policy implementation.",
+      "title": "Re: Authority of Public Universities",
+      "topics": [
+        "computing policy",
+        "system administration",
+        "academic governance",
+        "user rights"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "otto@fsu1.cc.fsu.edu (John Otto)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<1991Aug2.203613.8760@mailer.cc.fsu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv01n19",
+      "subject": "Re: Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

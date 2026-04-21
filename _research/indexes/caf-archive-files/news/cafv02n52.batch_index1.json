@@ -1,0 +1,542 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "October 25, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "System administrators often face a conflict between following management policy and facilitating user access.",
+        "The line between prohibited sexual harassment and protected expression is described as 'very, very fine'.",
+        "Some argue that the University of Kentucky's definition of sexual harassment may be unconstitutional in the US.",
+        "Informal resolution of complaints is preferred over immediate bureaucratic or draconian responses by sysadmins."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Illinois at Urbana-Champaign (UIUC)",
+        "University of Kentucky (UK)",
+        "Columbia University",
+        "University of Massachusetts Boston (umb.edu)"
+      ],
+      "people": [
+        "John F. Nixon",
+        "Carl M. Kadie",
+        "William W. Arnold",
+        "Elizabeth M. Reid",
+        "Paul Joslin",
+        "Adam C. Gross",
+        "Mark C. Sheehan",
+        "Aaron Barnhart",
+        "J.S. Greenfield"
+      ],
+      "summary": "This digest summarizes discussions regarding the role of system administrators in moderating content, specifically focusing on the screening of GIF files and handling harassment complaints. It explores the tension between administrative policy, free expression, and the legal definitions of sexual harassment in university environments. Additionally, it touches upon due process and FERPA compliance when users are penalized for posting political information.",
+      "title": "Abstract of CAF-News 02.52",
+      "topics": [
+        "system administration",
+        "content moderation",
+        "sexual harassment",
+        "academic freedom",
+        "FERPA",
+        "digital censorship"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "fnixon@sol.utc.edu (John F. Nixon)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 0 -- Abstract of CAF-News 02.52",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 19, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Images and GIFs consume significant bandwidth on public university systems",
+        "Reproducing scanned images may violate copyright laws",
+        "Non-textual media without original creativity is a waste of shared network resources"
+      ],
+      "organizations": [],
+      "people": [
+        "J.C. Burns",
+        "Carl M. Kadie"
+      ],
+      "summary": "J.C. Burns argues against the use of GIFs and scanned images on public, taxpayer-funded university systems. He contends that such files waste bandwidth and disk space while lacking original creativity or educational value. The exchange highlights early tensions between technical resource constraints and the freedom to share non-textual media.",
+      "title": "Article 1--Re: Facist Systems",
+      "topics": [
+        "bandwidth",
+        "network resources",
+        "copyright",
+        "GIFs",
+        "university systems"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 19 Oct 1992 05:57:02 GMT",
+      "from": "antjcb@gsusgi2.gsu.edu (J.C.Burns)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<antjcb.719474222@gsusgi1.gsu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 1--Re: Facist Systems",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Oct 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Real-world computer use problems arise faster than they can be codified into official policy.",
+        "Professional system administration involves managing social issues and suggesting fair solutions regardless of rank."
+      ],
+      "organizations": [
+        "UMass/Boston",
+        "University of Illinois"
+      ],
+      "people": [
+        "Elizabeth Schwartz",
+        "Carl M. Kadie"
+      ],
+      "summary": "Elizabeth Schwartz argues against a rigid adherence to official policy in system administration, advocating for informal problem-solving and professional discretion. She contends that sysadmins should facilitate system use through communication rather than relying solely on codified checklists or hierarchical authority.",
+      "title": "Article 2--Re: Facist Systems",
+      "topics": [
+        "system administration",
+        "institutional policy",
+        "professional ethics",
+        "informal governance"
+      ]
+    },
+    "identity": {
+      "date": "19 Oct 92 15:22:29 GMT",
+      "from": "betsys@cs.umb.edu (Elizabeth Schwartz)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<BETSYS.92Oct19102229@ra.cs.umb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 2--Re: Facist Systems",
+      "to_or_newsgroups": "comp.admin.policy,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 19, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Questioning the use of university systems for non-academic material is an integral part of academic freedom.",
+        "The technical ability to distribute large amounts of data via USENET does not justify the need to do so."
+      ],
+      "organizations": [
+        "University of Karlsruhe",
+        "University of Illinois at Urbana-Champaign",
+        "Georgia State University"
+      ],
+      "people": [
+        "Olaf Titz",
+        "J.C. Burns",
+        "Carl Kadie"
+      ],
+      "summary": "A discussion regarding the tension between academic freedom and the use of university network resources for non-academic content, specifically digitized adult magazines. Olaf Titz argues that questioning the misuse of resources is a part of academic freedom and suggests that technical capability does not create a need for distribution.",
+      "title": "Article 3--Re: Facist Systems",
+      "topics": [
+        "academic freedom",
+        "network policy",
+        "censorship",
+        "acceptable use"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 19 Oct 1992 10:25:07 GMT",
+      "from": "S_TITZ@iravcl.ira.uka.de (Olaf Titz)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1992Oct19.102507.15648@rz.uni-karlsruhe.de>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 3--Re: Facist Systems",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 19, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The presence of pornography on university networks can be used as a political lever to pressure universities into broader censorship based on cost and public funding.",
+        "Technical openness of the network does not automatically justify all uses of that network within an academic institution."
+      ],
+      "organizations": [
+        "University of Karlsruhe"
+      ],
+      "people": [
+        "Olaf Titz",
+        "J.C. Burns"
+      ],
+      "summary": "A discussion regarding the tension between open network access and university policies on 'un-academic' content, specifically pornography. Olaf Titz argues that allowing such content can jeopardize academic freedom by providing critics with arguments that tax-funded universities are subsidizing non-educational material.",
+      "title": "Article 4--Re: Facist Systems",
+      "topics": [
+        "academic freedom",
+        "network censorship",
+        "university policy",
+        "internet ethics"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 19 Oct 1992 11:38:27 GMT",
+      "from": "S_TITZ@iravcl.ira.uka.de (Olaf Titz)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1992Oct19.113827.17687@rz.uni-karlsruhe.de>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 4--Re: Facist Systems",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "19 Oct 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators' roles are to execute management's directives.",
+        "Management, not administrators, should make policy decisions.",
+        "Restrictive administration is often a defensive mechanism (CYA) by staff."
+      ],
+      "organizations": [
+        "Tinker AFB"
+      ],
+      "people": [
+        "Bob Johnson",
+        "Daniel Zabetakis"
+      ],
+      "summary": "Bob Johnson responds to a hypothetical scenario regarding offensive content on shared computers. He argues that system administrators should defer policy and ethical decisions to management to avoid professional risk. He suggests that 'fascist' administration is often a result of 'CYA' (cover your assets) behavior to prevent larger issues.",
+      "title": "Article 5--Re: Facist Systems",
+      "topics": [
+        "system administration",
+        "acceptable use policy",
+        "management vs administration",
+        "professional ethics"
+      ]
+    },
+    "identity": {
+      "date": "19 Oct 92 15:10:33 GMT",
+      "from": "unknown@unknown (Bob Johnson)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<70@ocdis01.UUCP>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 5--Re: Facist Systems",
+      "to_or_newsgroups": "comp.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-10-19",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The line between prohibited sexual harassment and protected expression is very fine.",
+        "System administrators should refer users to official sexual harassment procedures rather than fixing the problem themselves."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie discusses the intersection of sexual harassment policies and protected expression on university computer systems. He argues that system administrators should refer complaints to established university procedures rather than attempting to resolve them independently. The post includes an excerpt from the University of Illinois at Urbana-Champaign's policy regarding grievance procedures for sexual harassment.",
+      "title": "Article 6--Re: Facist Systems",
+      "topics": [
+        "sexual harassment",
+        "university policy",
+        "system administration",
+        "academic freedom",
+        "protected expression"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 19 Oct 1992 17:53:36 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1992Oct19.175336.24090@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 6--Re: Facist Systems",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 20, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Sysadmins may have supervisory responsibility over users not technically under their control.",
+        "Informal departmental computer environments often lack formal controls on software installation."
+      ],
+      "organizations": [
+        "Columbia University",
+        "EFF"
+      ],
+      "people": [
+        "Daniel Zabetakis",
+        "Carl M. Kadie"
+      ],
+      "summary": "Daniel Zabetakis discusses the role and responsibility of system administrators in managing public computers and addressing harassment complaints. He argues that sysadmins often have supervisory responsibilities over users who are not their direct reports and must be flexible in resolving disputes. The discussion contrasts formal institutional control with more informal departmental practices.",
+      "title": "Article 7--Re: Facist Systems",
+      "topics": [
+        "system administration",
+        "sexual harassment",
+        "computer policy",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 20 Oct 1992 15:06:40 GMT",
+      "from": "dan@cubmol.bio.columbia.edu (Daniel Zabetakis)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<1992Oct20.150640.1599@news.columbia.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 7--Re: Facist Systems",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 20, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Public computing labs are considered 'work places' subject to university sexual harassment regulations.",
+        "The display of sexually explicit materials in a classroom or workplace is impermissible without a 'compelling educational purpose'.",
+        "System administrators may act as agents for the collective user base rather than as oppressive authorities when enforcing safety and harassment policies."
+      ],
+      "organizations": [
+        "University of Kentucky Engineering Computing Center"
+      ],
+      "people": [
+        "Wes Morgan"
+      ],
+      "summary": "A system administrator discusses the tension between user freedom and university sexual harassment policies regarding sexually explicit images in public computing labs. He argues that academic freedom is not a 'blank check' and that administrators must balance individual liberties with the need to maintain a non-hostile environment. He proposes establishing clear policies for public spaces while maintaining privacy for personal workstations.",
+      "title": "Article 8--Problems with Images, (was Re: Facist Systems)",
+      "topics": [
+        "acceptable use policy",
+        "sexual harassment",
+        "academic freedom",
+        "system administration",
+        "public computing labs"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 20 Oct 1992 17:14:32 GMT",
+      "from": "morgan@engr.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<1992Oct20.131432.2258@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 8--Problems with Images, (was Re: Facist Systems)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 20, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "University policies prohibiting 'offensive academic environments' may be unconstitutional.",
+        "Content-based prohibitions on speech in universities often fail constitutional screening.",
+        "Prior review of expression to prevent harassment is generally forbidden."
+      ],
+      "organizations": [
+        "University of Illinois",
+        "University of Kentucky",
+        "Electronic Frontier Foundation (EFF)"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Wes Morgan"
+      ],
+      "summary": "Carl Kadie critiques a University of Kentucky sexual harassment policy, arguing that its definitions of 'offensive academic environment' and 'sexually explicit materials' are unconstitutionally vague. He provides an extensive list of legal precedents from the EFF archive to distinguish between illegal harassment and protected offensive expression. The discussion highlights early concerns regarding speech codes on university campuses and their application to digital and physical environments.",
+      "title": "Article 9--Re: Problems with Images, (was Re: Facist Systems)",
+      "topics": [
+        "speech codes",
+        "sexual harassment policy",
+        "First Amendment",
+        "academic freedom",
+        "legal precedents"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 20 Oct 1992 19:29:32 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<1992Oct20.192932.21030@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 9--Re: Problems with Images, (was Re: Facist Systems)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 21, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Computing staff should not punish users for sexual harassment without direction from university authorities.",
+        "Informal attempts to resolve complaints may be preferable to immediate bureaucratic involvement."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie"
+      ],
+      "summary": "Wes Morgan and Carl Kadie discuss the proper role of university computing staff in handling sexual harassment on campus systems. They debate whether administrators should intervene informally or strictly defer to official university authorities to avoid overstepping their bounds.",
+      "title": "Article 10--Re: Problems with Images, (was Re: Facist Systems)",
+      "topics": [
+        "sexual harassment",
+        "system administration",
+        "university policy",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 21 Oct 1992 12:37:54 GMT",
+      "from": "morgan@engr.uky.edu (Wes Morgan)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1992Oct21.83754.29551@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 10--Re: Problems with Images, (was Re: Facist Systems)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Oct 23, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Punishment for a user's viewpoint is illegal in the context of a state university.",
+        "Content-based prohibitions on expression are generally unable to survive constitutional screening.",
+        "Due process is required for student disciplinary actions unless the matter is trivial or an emergency."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie provides a layman's legal framework for evaluating the rights of UNIX users at state universities, focusing on whether disciplinary actions are based on viewpoint or disruption. He emphasizes the importance of due process and student privacy under FERPA. The post includes an extensive list of annotated legal references regarding free speech, hate speech, and public forums available via the EFF archive.",
+      "title": "Article 11--Re: UNIX users' rights? What are they?",
+      "topics": [
+        "UNIX users' rights",
+        "academic freedom",
+        "free speech",
+        "due process",
+        "FERPA",
+        "public universities"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 23 Oct 1992 05:02:54 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1992Oct23.050254.20807@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 11--Re: UNIX users' rights? What are they?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "23 Oct 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Lack of technical knowledge in administrators can lead to 'snap rules' that harm academic freedom.",
+        "Non-technical authorities may dismiss harassment by suggesting victims simply stop using email regardless of work necessity."
+      ],
+      "organizations": [
+        "Columbia University",
+        "University of Illinois"
+      ],
+      "people": [
+        "Daniel Zabetakis",
+        "Carl Kadie",
+        "Mike Godwin"
+      ],
+      "summary": "Daniel Zabetakis argues that system administrators should be involved in handling computer-related harassment complaints due to their technical expertise. He warns that non-technical authorities may either ignore harassment or implement overly restrictive system rules that stifle academic freedom. The author advocates for the inclusion of sysadmins in informal resolution processes.",
+      "title": "Article 12--harrasment/acad-freedom and the sysadmin, again.",
+      "topics": [
+        "harassment",
+        "academic freedom",
+        "system administration",
+        "institutional policy"
+      ]
+    },
+    "identity": {
+      "date": "23 Oct 92 19:32:22 GMT",
+      "from": "dan@cubmol.bio.columbia.edu (Daniel Zabetakis)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1992Oct23.193222.2611@news.columbia.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n52",
+      "subject": "Article 12--harrasment/acad-freedom and the sysadmin, again.",
+      "to_or_newsgroups": "comp.admin.policy",
+      "truncated_for_model": false
+    }
+  }
+]

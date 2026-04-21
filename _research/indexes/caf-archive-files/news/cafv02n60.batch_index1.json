@@ -1,0 +1,475 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Cornell University removed the alt.binaries.pictures.erotica newsgroup following an FBI raid on a student dorm.",
+        "Steven Brack's expulsion from Ohio State University was criticized for a lack of due process and failure to provide findings of fact.",
+        "The University of Wisconsin-Eau Claire threatened to revoke Internet privileges as a sanction for posting 'canned prefabricated materials'.",
+        "Some university departments restricted student network access (ftp, telnet, email) citing system strain on Vax gateways."
+      ],
+      "organizations": [
+        "Cornell University",
+        "Ohio State University",
+        "University of Wisconsin-Eau Claire",
+        "Ball State University",
+        "University of North Texas",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Aaron Barnhart",
+        "Steven Brack",
+        "Robert McElwaine",
+        "Carl Kadie",
+        "John Bridge",
+        "Stuart Lynn"
+      ],
+      "summary": "This digest summarizes several cases regarding academic computing policies, including an FBI raid at Cornell University and the expulsion of a student from Ohio State University. It explores themes of due process in system privilege revocation, the management of sexual harassment via sysadmin policy, and varying institutional approaches to network access. The item also highlights a model computer policy from the University of North Texas.",
+      "title": "Abstract of CAF-News 02.60",
+      "topics": [
+        "due process",
+        "FBI raids",
+        "network access",
+        "system administration policy",
+        "academic freedom",
+        "sexual harassment"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "barnhart@ddsw1.mcs.com (Aaron Barnhart)",
+      "item_count": 11,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 0 -- Abstract of CAF-News 02.60",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 20, 1992",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "The FBI executed a search warrant for evidence of interstate transport of child pornography via computer.",
+        "Cornell University blocked access to the alt.binaries.pictures.erotica newsgroup following the investigation."
+      ],
+      "organizations": [
+        "FBI",
+        "Cornell University",
+        "Department of Justice",
+        "Department of Public Safety"
+      ],
+      "people": [
+        "J. Allison Archbold",
+        "Roger Clancy",
+        "Joe Pavone",
+        "Marjorie W. Hodges",
+        "Linda Grace-Kobas",
+        "Scott C. Hamilton",
+        "Eric Scheirer"
+      ],
+      "summary": "The FBI searched a Cornell University sophomore's residence hall room as part of an investigation into the distribution of child pornography via international computer networks. In response to the alleged activity, Cornell University discontinued access to the newsgroup alt.binaries.pictures.erotica. The university also launched its own investigation regarding potential violations of the Campus Code of Conduct.",
+      "title": "FBI SEARCHES STUDENT'S ROOM FOR PORNOGRAPHY",
+      "topics": [
+        "law enforcement",
+        "censorship",
+        "child pornography",
+        "network access",
+        "academic conduct"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 20 Nov 1992 08:16:55 GMT",
+      "from": "escheire@sunlab.cit.cornell.edu (Eric Scheirer)",
+      "item_count": 11,
+      "item_index": 1,
+      "message_id": "<9211201816.AA21284@dahlia.cit.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 1--The FBI takes a trip to Cornell...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 20, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Cornell Code of Conduct Section J of Article II of Title 3 is considered too vague.",
+        "There was a perceived lack of 'jurisdictional understanding' between the university and local officials regarding simultaneous legal and campus actions."
+      ],
+      "organizations": [
+        "Cornell University",
+        "FBI"
+      ],
+      "people": [
+        "Eric Scheirer",
+        "Marjorie W. Hodges"
+      ],
+      "summary": "Eric Scheirer discusses an FBI investigation at Cornell University involving a student and potentially illegal imagery on Usenet. He critiques the vagueness of the Cornell Code of Conduct regarding 'trafficking' and questions whether university policy allows for simultaneous criminal and campus disciplinary actions.",
+      "title": "Re: The FBI takes a trip to Cornell...",
+      "topics": [
+        "academic freedom",
+        "university policy",
+        "Usenet",
+        "law enforcement",
+        "student conduct"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 20 Nov 1992 10:34:57 GMT",
+      "from": "escheire@sunlab.cit.cornell.edu (Eric Scheirer)",
+      "item_count": 11,
+      "item_index": 2,
+      "message_id": "<9211202036.AA12053@crocus.cit.cornell.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 2--Re: The FBI takes a trip to Cornell...",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 24, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The FBI searched a Cornell student's room and detained them for distributing child pornography.",
+        "Cornell students had previously been arrested in connection with computer viruses."
+      ],
+      "organizations": [
+        "Cornell University",
+        "FBI"
+      ],
+      "people": [
+        "Jiro Nakamura",
+        "Stuart Lynn",
+        "Rod Keller"
+      ],
+      "summary": "A discussion regarding an FBI investigation and search of a student's room at Cornell University related to the distribution of child pornography via the alt.* erotica hierarchy. The author defends the actions of system administrator Stuart Lynn and expresses a desire for Cornell to move past its reputation as a source of viruses and illicit content.",
+      "title": "ALERT RE POSTINGS AND CORNELL ACCESS TO ALT.*.*.EROTICA HIER",
+      "topics": [
+        "law enforcement",
+        "academic computing",
+        "child pornography",
+        "system administration",
+        "network abuse"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 24 Nov 1992 12:57:48 GMT",
+      "from": "jiro@shaman.com",
+      "item_count": 11,
+      "item_index": 3,
+      "message_id": "<1992Nov24.125748.19653@shaman.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 3--Re: ALERT RE POSTINGS AND CORNELL ACCESS TO ALT.*.*.EROTICA HIER",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 2, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Steven Brack was allegedly expelled from OSU for posting the word 'fuck' to an open newsgroup.",
+        "The University of Illinois subcommittee on student conduct may have violated quorum requirements and witness questioning rights."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "University of Illinois at Urbana-Champaign",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Steven Brack",
+        "Bryan Savage",
+        "Nancy Desmond"
+      ],
+      "summary": "Carl Kadie discusses failures of due process in student disciplinary actions at Ohio State University and the University of Illinois. He highlights a case where a student was expelled from OSU potentially for posting profanity to a newsgroup. The post argues that secret hearings prevent the identification of systemic procedural unfairness.",
+      "title": "Article 4--Due process at state universities",
+      "topics": [
+        "due process",
+        "student rights",
+        "academic freedom",
+        "online speech",
+        "disciplinary procedures"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Nov 1992 17:05:12 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 4,
+      "message_id": "<Bx3M4p.51M@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 4--Due process at state universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 8, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The OSU disciplinary panel issued a finding of violation without providing a formal written decision or rationale.",
+        "The Office of Academic Affairs reportedly found no violations of academic policy in Brack's case, yet the disciplinary panel still found him in violation of university rules.",
+        "Brack was prohibited from directly questioning witnesses or introducing documentary evidence during his hearing."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "Academic Computing Services (ACS)",
+        "University of Maryland at College Park"
+      ],
+      "people": [
+        "Steven S. Brack",
+        "Wiley Hodges",
+        "John Bridge"
+      ],
+      "summary": "Steven S. Brack describes his disciplinary experience at Ohio State University (OSU) following a complaint about posting profanity to a newsgroup. He alleges a lack of due process, claiming he was unable to call witnesses or introduce evidence that Academic Computing Services (ACS) had permitted his actions. The case highlights the tension between university computing policies and academic freedom/due process.",
+      "title": "Steven S. Brack case",
+      "topics": [
+        "academic freedom",
+        "due process",
+        "university computing policy",
+        "disciplinary action",
+        "newsgroups"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 8 Nov 1992 07:08:40 GMT",
+      "from": "sbrack@jupiter.cse.UTOLEDO.edu (Steven S. Brack)",
+      "item_count": 11,
+      "item_index": 5,
+      "message_id": "<9211081708.AA22877@jupiter.cse.utoledo.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 5--(none)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 16, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Labeling Internet access a 'privilege' does not remove due process requirements.",
+        "Expulsion from a communications medium is not a typical university sanction."
+      ],
+      "organizations": [
+        "University of Wisconsin - Eau Claire",
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Charles J. Brenner",
+        "McElwaine"
+      ],
+      "summary": "Carl Kadie responds to a statement by Charles J. Brenner of the University of Wisconsin-Eau Claire regarding the potential revocation of a user's Internet privileges. Kadie argues that labeling network access as a 'privilege' does not exempt the university from due process requirements. He expresses concern that expulsion from a communications medium is an atypical university sanction.",
+      "title": "Re: [alt.dreams] McElwaine's postings",
+      "topics": [
+        "due process",
+        "internet access",
+        "academic freedom",
+        "university sanctions"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 16 Nov 1992 16:11:14 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 6,
+      "message_id": "<1992Nov16.161114.15845@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 7--Re: [alt.dreams] McElwaine's postings (was Re: THE DIVINE MASTERS, and Dreams)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 2, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Companies can be held liable for sexual harassment regardless of whether the company knew the behavior was occurring.",
+        "Over-prioritizing lawsuit avoidance leads to 'draconian, fascist policies' and ridiculous restrictions on users."
+      ],
+      "organizations": [
+        "Rice University",
+        "Owlnet"
+      ],
+      "people": [
+        "Joseph A. Watters",
+        "John Hascall"
+      ],
+      "summary": "Joseph A. Watters discusses the tension between implementing draconian system policies to avoid sexual harassment lawsuits and preserving user rights. He argues that system administrators should seek clear guidance from their institutions on risk tolerance rather than unilaterally imposing extreme restrictions. The discussion highlights the role of sysadmins in balancing legal liability with academic and user freedoms.",
+      "title": "Article 8--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "system administration",
+        "institutional liability",
+        "user rights",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Nov 1992 19:57:05 GMT",
+      "from": "jaw@owlnet.rice.edu (Joseph A. Watters)",
+      "item_count": 11,
+      "item_index": 7,
+      "message_id": "<Bx3u36.GCx@rice.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 8--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 2, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators may face personal or institutional legal risk if they mishandle sexual harassment complaints.",
+        "Informal arbitration of sexual behavior complaints is risky and can lead to formal EEOC complaints."
+      ],
+      "organizations": [
+        "Rice University",
+        "Owlnet"
+      ],
+      "people": [
+        "Joseph A. Watters",
+        "Elizabeth Schwartz"
+      ],
+      "summary": "Joseph A. Watters advises a system administrator on the legal risks of handling sexual harassment complaints in university computer labs. He argues that administrators should avoid informal arbitration and instead refer such matters to supervisors or EEO officers to protect the institution from lawsuits.",
+      "title": "Article 9--Re: Preventing Sexual Harassment?",
+      "topics": [
+        "sexual harassment",
+        "system administration",
+        "university policy",
+        "legal liability"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Nov 1992 23:00:55 GMT",
+      "from": "jaw@owlnet.rice.edu (Joseph A. Watters)",
+      "item_count": 11,
+      "item_index": 8,
+      "message_id": "<Bx42LK.J20@rice.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 9--Re: Preventing Sexual Harassment?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "25 Nov 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "State legislators' perceptions of resource stewardship can influence university computing policies.",
+        "Open access to network resources like VAX clusters contributes significantly to campus-wide computer literacy."
+      ],
+      "organizations": [
+        "Ball State University",
+        "University Computing Services"
+      ],
+      "people": [
+        "Andrew J. Templin",
+        "Herb Stahlke"
+      ],
+      "summary": "A discussion between a University Computing Services director and a student/staff member at Ball State University regarding the influence of state legislators on network policy. Herb Stahlke expresses concern that non-academic use of VAX clusters could lead to funding cuts, while Andrew Templin argues against allowing politicians to dictate system usage, suggesting that open access increases campus computer literacy.",
+      "title": "Article 11--Re: State legislatures and acad-f policy",
+      "topics": [
+        "funding",
+        "censorship",
+        "state legislatures",
+        "network policy",
+        "computer literacy"
+      ]
+    },
+    "identity": {
+      "date": "25 Nov 92 22:06:35 GMT",
+      "from": "nosilla@bsu-cs.bsu.edu (Andrew J. Templin)",
+      "item_count": 11,
+      "item_index": 9,
+      "message_id": "<3205@bsu-cs.bsu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 11--Re: State legislatures and acad-f policy",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "November 29, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "Access to University computer resources is considered a privilege granted by the University.",
+        "University computer resources shall be used solely for legitimate University-related purposes.",
+        "The policy applies to all users, including faculty, staff, and students."
+      ],
+      "organizations": [
+        "University of North Texas"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "This item provides the full text of the University of North Texas's Computer Resources Security Policy. The policy defines 'University computer resources' broadly to include centrally administered systems, departmental systems, and personal computers. It establishes that access is a privilege rather than a right and mandates that resources be used solely for legitimate University-related purposes.",
+      "title": "University of North Texas Computer Policy",
+      "topics": [
+        "acceptable use policy",
+        "computer security",
+        "institutional governance",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 29 Nov 1992 09:25:42 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 11,
+      "item_index": 10,
+      "message_id": "<9211292125.AA01321@herodotus.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n60",
+      "subject": "Article 12--University of North Texas Computer Policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": true
+    }
+  }
+]

@@ -1,0 +1,1139 @@
+
+Computers and Academic Freedom (news version)
+Vol. 01, No. 34
+
+[Week ending October 27, 1991
+
+There is a backlog of CAF-news. To catch up, I will be publishing one
+issue a day all this week. For information on how to receive only the
+CAF-news abstract, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom caf
+
+The words after a number are a short paraphrase of the article, not
+necessarily my opinion.
+
+Notes 1-2 are about policy statements.
+
+1. Draft Statement on Computers and Academic Freedom -- This is an
+attempt to codify the application of academic freedom to academic
+computers. It reflects our seven months of on-line discussion about
+computers and academic freedom.
+    <1991Oct26.210722.29271@eff.org>
+
+2. README file for the Computer Policy and Critiques Archive -- This
+is a collection of the computer policies of many schools. The
+collection also includes critiques of some of the policies. To get the
+newest version of the README file, send email to
+archive-server@eff.org. Include the line:
+  send other-comp-policies README
+
+    <1991Oct26.175424.26881@eff.org>
+
+Notes 3-7 are about the "yehweh" posting, a violent and sexually
+explicit story that was posted to the soc.women newsgroup apparently by
+a student of the University of Illinois at Chicago (UIC).
+
+3. (UIC sys admin:) Sorry about the posting. I've taken action to
+prevent such postings in the future. The note was not protected speech
+because "it can be considered as a generalized form of sexual
+harassment".
+    <9110221943.AA27573@herodotus.cs.uiuc.edu>
+
+4. (Addressed to the UIC sys admin:) "[Y]ou overstepped the bounds of
+your authority when you punished the student for his expression." The
+speech in the note, although offensive, was Constitutionally
+protected. "Statements in a free-speech forum such as soc.women [cannot]
+constitute sexual harassment."  Moreover, you are not authorized by
+your university to decide sexual harassment cases.
+    <1991Oct22.211259.5178@eff.org>
+
+5. (The student from whom's account the note was posted:) "Maybe it was
+a breakin,a forgery,or I left my terminal unattended, but I DIDN'T
+POST IT!!!"
+    <9110252158.AA17812@herodotus.cs.uiuc.edu>
+
+6. (Student at another school:) My legal advisors say that private BBS
+owners might be responsible for the notes their users post.  By
+analogy, University sys admins might be responsible for their user's
+postings. I would be willing sue. "It would be lovely if the
+democratically determined newsgroup charters ..., finally had some
+teeth."
+    <9110262137.AA21310@herodotus.cs.uiuc.edu>
+
+7. (Addressed to the previous poster:) "There is a vast difference
+between a *private* bbs that one may join or refuse to join because of
+the rules, and a university that has a written policy of allowing the
+free exchange of ideas." "You decided to read it and you should have
+stopped when you'd read enuff to know what it is. And then flamed it,
+and set your followups to alt.flame or /dev/null." A call for
+newsgroup charters with teeth is a call for net.police.
+    <9110271907.AA24778@herodotus.cs.uiuc.edu>
+
+Notes 8-11 are about newsgroup policy.
+
+8. "I see the unmoderated Usenet and Altnet newsgroups as free-speech
+forums. Their charters state the intended focus of the forum, not the
+legal boundaries. The penalty for moving too far from the focus,
+should, in my opinion, be social disapproval, not official
+punishment."
+    <1991Oct23.210725.19475@eff.org>
+
+9. Postings to the net, like other expressive actions, should only be
+punished if they cause substantial interference with the rights of
+others. A few off-topic posts do not constitute substantial
+interference. Enclosed are the general rules my school has against
+disruptive and coercive action.
+    <1991Oct24.014633.28623@eff.org>
+
+10. How about on-line disclaimers that reminds users that they may find
+material in Usenet newsgroups that offends them? Also that the user,
+not site, is not responsible for what users reads and writes to the
+net.
+    <1991Oct23.210321.283@ms.uky.edu>
+
+11. A judge has said that 'a steady stream of unwelcome messages over
+an electronic mail system' can constitute harassment.
+    <9110231905.AA03782@herodotus.cs.uiuc.edu>
+
+Notes 12-13: Miscellaneous
+
+12. The Alt.sex.* hierarchy was killed on PSUVM, Penn State's main
+general purpose computer..
+    <9110231820.AA03361@herodotus.cs.uiuc.edu>
+
+13. UCLA's Computer Use Policy could be improved with better privacy
+protection and the elimination of procedures that allow users to
+be punished for rule infractions before it is determined that infractions
+have actually occurred.
+    <199110261528.AA24204@eff.org>
+
+- Carl]
+
+
+In this issue:
+
+Carl M. Kadie   149  Draft Statement on Computers and Academic Freedom (CAF)
+Carl M. Kadie   152  README file for Computer Policy and Critiques Archive
+Barry Grau       23  [soc.women, et al.] yahweh is good posting
+Carl M. Kadie   117  >yahweh is good posting
+U53482@uicvm      8  [alt.sex, et al.] I didn't do it.
+Amy Gorin        56  [alt.acad.freedom.talk, e<>ing reams, lets look at cases)
+Char Aznabul     59  [soc.women] Re: YAHWEH is<>ing reams, lets look at cases)
+Carl M. Kadie    37  Official punishment of of<>s (was yahweh is good posting)
+Carl M. Kadie    75  >off-topic notes (was yahweh is good posting)
+Wes Morgan       45  Online disclaimers?
+Tim W Smith      17  [misc.legal, et al.] Harassment via Email
+Gregory G Nagy   11  [alt.sex, et al.] Re: alt.sex.* make NBC News
+Carl M. Kadie   155  [eff.mail.ethics-l] Re: Ucla's Use Policies
+
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the line:
+  send acad-freedom README
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct26.210722.29271@eff.org>
+Date: Sat, 26 Oct 1991 21:07:22 GMT
+
+This is an attempt to codify the application of academic freedom to
+academic computers. It reflects our seven months of on-line discussion
+about computers and academic freedom. It is made up of two kinds of
+statements. The first, labeled as principles, are premises. The
+second, labeled as interpretations, are conclusions drawn from the
+principles.
+
+The two kinds of statements can be thought of as axioms and theorems.
+An axiom (principle) is most likely to be criticized for being
+unreasonable. A theorem (interpretation) is mostly likely to be
+criticized for not following from the principles.
+
+Comments and suggestions are very welcome (especially when posted to
+CAF-talk). On the documents referenced are available on-line. Access
+information is at the end of this note.
+
+- Carl
+
+-------------------------------------------
+I. General
+
+Principle: The principles of academic freedom apply to academic
+computer systems. Computer polices should be consistent with general
+university codes and widely accepted statements on academic freedom
+such as the Joint Statement on Rights and Freedoms of Students.
+
+II. Policy Formulation
+
+Interpretation: "The institution has an obligation to clarify those
+standards of behavior which it considers essential to its educational
+mission and its community life. These general behavioral expectations
+and the resultant specific regulations should represent a reasonable
+regulation of [user] conduct, but the [user] should be as free as
+possible from imposed limitations that have no direct relevance to his
+education. Offenses should be as clearly defined as possible and
+interpreted in a manner consistent with the aforementioned principles
+of relevance and reasonableness. Disciplinary proceedings should be
+instituted only for violations of standards of conduct formulated with
+significant [user] participation and published in advance through such
+means as a [user] handbook or a generally available body of
+institutional regulations." [Joint Statement]
+
+II. Student and Faculty Discipline
+
+Principle: Suspension or expulsion from a computer is a serious
+penalty. Users facing these penalties should be given due process
+protection similar to that given to those facing other serious
+penalties such as a formal disciplinary warning, a failing grade for
+cheating, or suspension from class.
+
+Interpretation: "Pending action on the charges, the status of a [user]
+should not be altered, or his [or her] right to be present on the
+campus and to attend classes [and use computers] suspended, except for
+reasons relating to his physical or emotional safety and well being,
+or for reasons relating to the safety and well-being of students,
+faculty, or university property." [Joint Statement]
+
+III. Privacy
+
+Principle: Personal files on university's computers (for example,
+files in a user's home directory) should have the same privacy
+protection as personal files in university-assigned space in an
+office, lab, or dormitory (for example, files in a graduate student's
+desk). Private communications via computer should have the same
+protections as private communications via telephone.
+
+IV. Computer Expression
+
+Interpretation: "Academic institutions exist for the transmission of
+knowledge, the pursuit of truth, the development of students, and the
+general well-being of society. Free inquiry and free expression are
+indispensable to the attainment of these goals its members of the
+academic community, students should be encouraged to develop the
+capacity for critical judgment and to engage in a sustained and
+independent search for truth." [Joint Statement]
+
+Principle: The principles of intellectual freedom developed by
+libraries should be applied to the administration of information
+material on computers. These principles are explained in such American
+Library Association documents as the Library Bill of Rights, the
+Freedom to Read Statement, and the Intellectual Freedom Statement.
+
+Interpretation: Computer sites that offer newsgroups should select
+newsgroups the way that traditional libraries select magazines and
+books.
+
+Interpretation: "Every [academic computer] system should have a
+comprehensive policy on the selection of [information] materials."
+[ALA Workbook for Selection Policy Writing]
+
+Interpretation: "Materials should not be proscribed or removed because
+of partisan or doctrinal disapproval" [Article 2, Library Bill of
+Rights].
+
+Principle: The principles of academic freedom applicable to student
+and faculty publication in traditional media, apply to student and
+faculty publication in computer media.
+
+Interpretation: An article or note posted by a student to a newsgroup
+is a student publication.
+
+Interpretation: "Student publications [and the publications of other
+users] are a valuable aid in establishing and maintaining an
+atmosphere of free and responsible discussion and of intellectual
+exploration on the campus.  They are a means of bringing [...]
+concerns to the attention of the faculty and the institutional
+authorities and of formulating [...] opinion on various issues on the
+campus and in the world at large." [Joint Statement]
+
+Interpretation: "The institutional control of campus facilities should
+not be used as a device of censorship." "[User publications] should be
+free of censorship and advance approval of copy ..." [Joint Statement]
+
+Interpretation: "All university published and financed [user]
+publications should explicitly state [...] that the opinions there
+expressed are not necessarily those of the college, university, or
+student body. [Joint Statement]
+
+-----------------------
+References
+
+Documents may be accessed via ftp (see the first line after the
+document title). They may also be accessed via email.  Send email to
+archive-server@eff.org. In the body of your note include the second
+line after the document title.
+
+Joint Statement on Rights and Freedom of Students
+  ftp.eff.org:pub/academic/student.rights
+  send acad-freedom student.rights
+
+Library Bill of Rights
+  ftp.eff.org:pub/academic/library/bill-of-rights.ala
+  send library-policies bill-of-rights.ala
+
+Freedom to Read Statement
+  ftp.eff.org:pub/academic/library/freedom-to-read.ala
+  send library-policies freedom-to-read.ala
+
+Intellectual Freedom Statement
+  ftp.eff.org:pub/academic/library/int-freedom.ala
+  send library-policies int-freedom.ala
+
+CAF Archive's README file
+  ftp.eff.org:pub/academic/README
+  send acad-freedom README
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+Xref: eff alt.comp.acad-freedom.talk:1571 comp.admin.policy:1047 soc.college:1219
+From: kadie@eff.org (Carl M. Kadie)
+Subject: README file for Computer Policy and Critiques Archive
+Message-ID: <1991Oct26.175424.26881@eff.org>
+Date: Sat, 26 Oct 1991 17:54:24 GMT
+
+=================
+README
+-----------------
+Computer Policy and Critiques Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Freedom Foundation (EFF) Archive]]
+
+This is a collection of the computer policies of many schools. The
+collection also includes critiques of some of the policies.
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/policies".
+For email access, send email to archive-server@eff.org. Include the
+line:
+  send other-comp-policies <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact Carl Kadie (kadie@eff.org). Directory "widener" contains
+additional policies (but not critiques).
+
+=================
+acs.ohio-state.edu.critique
+-----------------
+Critique of "Policy on Abuse of Computers and Networks for The Office
+of Academic Computing at The Ohio State University"
+
+=================
+acs.ohio-state.edu
+-----------------
+Policy on Abuse of Computers and Networks for The Office of Academic
+Computing at The Ohio State University (Critiqued)
+
+=================
+bostonu.edu.critique
+-----------------
+Critique of the ethics policy for Boston University Information Technology
+
+
+=================
+bostonu.edu
+-----------------
+Ethics policy for Boston University Information Technology
+(Critiqued)
+
+=================
+cc.columbia.edu
+-----------------
+The old policy for Columbia University's Center for Computing
+Activities. They are working on a new policy.
+
+=================
+cis.ohio-state.edu.critique
+-----------------
+Critique for the appropriate use, mail (and netnews), disk, and
+printer policy for the computers labs of OSU's Computer and
+Information Science Department
+
+=================
+cis.ohio-state.edu
+-----------------
+The appropriate use, mail (and netnews), disk, and printer
+policy for the computers labs of OSU's Computer and Information
+Science Department (Critiqued)
+
+=================
+cleveland.freenet.edu.critique
+-----------------
+Critique of the Cleveland Freenet's "adult netnews" policy.
+
+=================
+cleveland.freenet.edu
+-----------------
+~From: morgan@ms.uky.edu (Wes Morgan)
+[...]
+'In light of the long discussion about "adult" netnews material, I
+thought it informative to let you know how the Cleveland Freenet (at
+Case Western Reserve University) is handling the situation.  The
+following is the new policy for access to "adult" discussion groups.'
+[...]
+(Critiqued)
+
+=================
+cmich.edu.critique
+-----------------
+Critique of "Everything You Ever Wanted To Know About Computing
+Services At Central Michigan University (And Were Afraid To Ask)"
+
+=================
+cmich.edu
+-----------------
+Excerpts from "Everything You Ever Wanted To Know About Computing
+Services At Central Michigan University (And Were Afraid To Ask)",
+Computer Services Document No. CSVD0092. It is given to new users.
+(Critiqued)
+
+=================
+dal.ca
+-----------------
+Guide to responsible computing at Dalhousie University (in Halifax,
+NS, Canada)
+
+=================
+ncsa.uiuc.edu.critique
+-----------------
+Critique of the email policy for the National Center for Supercomputer
+Applications, a department of the University of Illinois at
+Urbana-Champaign
+
+=================
+ncsa.uiuc.edu
+-----------------
+Email policy for the National Center for Supercomputer Applications,
+a department of the University of Illinois at Urbana-Champaign
+(Critiqued)
+
+=================
+pitt.edu
+-----------------
+The University of Pittsburgh Guidelines for Ethical Use from "User's
+Guide to Academic Computing" and Computer Access and Use policy
+
+=================
+seas.ucla.edu.critique
+-----------------
+Critique of computer policy for UCLA's SEASnet
+
+=================
+seas.ucla.edu
+-----------------
+Computer policy for UCLA's SEASnet (Critiqued)
+
+=================
+staff.cc.purdue.edu
+-----------------
+Staff policy for Purdue University's Computing Center
+
+=================
+watmath.waterloo.edu
+-----------------
+Policy of the University of Waterloo's Mathematics Faculty Computing Facility
+
+=================
+=================
+Last update
+Sat Oct 26 13:51:48 EDT 1991
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: Barry Grau <U42054@uicvm.uic.edu>
+Date: Monday, 21 Oct 1991 16:22:01 CDT
+Subject: [soc.women, et al.]     yahweh is good posting
+Message-ID: <9110221943.AA27573@herodotus.cs.uiuc.edu>
+
+I'm sorry about the "yahweh is good posting". I have discussed the posting
+with its author, explained to him why it was inappropriate for him to post
+it where he did, taken action to prevent his posting such articles in the
+short term and informed him that if he continues we will take longer term
+action.
+
+While I support freedom of speech, an individual's right to use his own
+resources to publish pornography and individuals' rights to read pornography,
+using University resources to publish pornography in a forum in which it
+can be considered as a generalized form of sexual harrassment is certainly
+not a protected freedom of speech.
+
+
+
+                                             Barry Grau
+                                             Interim Manager of User Services
+                                             Computer Center
+                                             Univ of Illinois - Chicago
+                                             U42054@UICVM - Bitnet
+                                             U42054@UICVM.CC.UIC.EDU - Internet
+                                             312/996-6798 - Phone
+                                             312/996-6834 - FAX
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: yahweh is good posting
+Message-ID: <1991Oct22.211259.5178@eff.org>
+Followup-To: alt.comp.acad-freedom.talk,soc.women,alt.sex,alt.censorship
+References: <9110221943.AA27573@herodotus.cs.uiuc.edu>
+Date: Tue, 22 Oct 1991 21:12:59 GMT
+
+Mr. Grau,
+
+I realize that you received many complaints about the yahwey article.
+While, I do not support the ideas in the article, but I do support the
+right of the author to post it. I think you overstepped the bounds of
+your authority when you punished the student for his expression.
+
+You write:
+
+>I'm sorry about the "yahweh is good posting". I have discussed the posting
+>with its author, explained to him why it was inappropriate for him to post
+>it where he did, taken action to prevent his posting such articles in the
+>short term and informed him that if he continues we will take longer term
+>action.
+
+>While I support freedom of speech, an individual's right to use his own
+>resources to publish pornography and individuals' rights to read pornography,
+>using University resources to publish pornography in a forum in which it
+>can be considered as a generalized form of sexual harrassment is certainly
+>not a protected freedom of speech.
+
+Please review your contractual and Constitutional obligations as an
+agent of the University.
+
+You are contractually constrained by your "Code on Campus Affairs". I
+don't know exactly what yours says, but at the Urbana campus, where I
+am a student, it says:
+
+"STATEMENT ON INDIVIDUAL RIGHTS
+ I. Preamble
+ A student at the University of Illinois at the Urbana-Champaign campus
+ is a member of the University community of which all members have at
+ least the rights and responsibilities common to all citizens, free from
+ institutional censorship;"
+
+ ...
+
+"III. Campus Expression
+ A. Discussion and expression of all views is permitted within the
+ University subject only to requirements for the maintenance of order.
+  [...]
+ B. Members and organizations in the University community may invite
+ and hear any persons of their own choosing, subject only to reasonable
+ requirements on time, place, and manner for use of University facilities.
+ C. The campus press and media are to be free of censorship. The editors
+ and managers shall not be arbitrarily suspended because of student,
+ faculty, administration, alumni, or community disapproval of editorial
+ policy or content."
+
+ ...
+
+"VI. Student Affairs 
+ [...]
+ B. Freedom of Inquiry and Expression
+ 1. Students and student organizations should be free to examine and to
+ discuss all questions of interest to them, and to express opinions
+ publicly and privately. [...]
+ 2. Students should be allowed to invite and hear any person of their
+ own choosing. [...] The University's control of campus facilities should
+ not be used as a device of censorship. It should be made clear to the
+ academic and larger community that sponsorship of guest speakers
+ does not necessarily imply approval or endorsement of the views expressed
+ either by the sponsoring group or the institution."
+
+Constiutionally, you are also constrained by the First (and 14th)
+Amendments.  The University's newsgroup facility (like the student
+newspaper) is a "limited public forum" under the Supreme Court'
+Public-Forum Doctrine (alt.sex and soc.women are limited in the sense
+that only people with computer accounts can access it.)
+
+Here are is the law for limited public forums:
+
+[Quotes are from the decision "San Diego Committee v. Governing Bd.,
+790 F.2d 1471 (1986)". Quotes within quotes are from the Supreme
+Court.]
+
+'"[C]ontent-based prohibition must be narrowly drawn to effectuate a
+compelling state interest."'
+
+"Having established a limited public forum [the school] cannot, absent
+a compelling governmental interest, exclude speech otherwise within
+the boundaries of the forum ...."
+
+"Thus the identical broad free speech rights attach to [traditional]
+and [limited] types of public forums, [ref] although in the latter
+type of forums those broad rights apply only within the particular
+boundaries of the specific forum that has been established."
+
+For more details see the "Computers and Academic Freedom News" (vol.
+1, no. 25). It is available via anonymous ftp it from
+ftp.eff.org:pub/academic/news/cafn01n25. Or send email to
+archive-server@eff.org. Include the line:
+  send caf-news cafn01n25
+
+Finally, concerning the justification that you are enforcing
+University rules against sexual harassment. First, I do not think that
+statements in a free-speech forum such as soc.women can constitute
+sexual harassment. I note that the Supreme Court overturned such
+campus speech restrictions at the Univerisity of Michigan. Second, if
+the rules for the Chicago campus are anything like the rules for the
+Urbana-Champaign campus, you have no authority to punish students who
+sexually harass.  Such punishment can occur only after a due process
+as spelled out in documents such as "Administrative Procedures for
+Complaints and Grievances of Discrimination and of Sexual Harassment
+-- Students"
+
+
+Please withdraw your punishment and your threat of further
+punishments.
+
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: U53482@uicvm.uic.edu
+Subject: [alt.sex, et al.]  I didn't do it.
+Date: 24 Oct 91 23:47:14 GMT
+Message-ID: <9110252158.AA17812@herodotus.cs.uiuc.edu>
+
+Sorry about the posting, but my subject line says it all.  I did NOT post that
+article.  I got off work after 10:00, (left school @ 3:30 or thereabouts) and
+got home around 11:00.  I ate dinner, took a shower, went to bed, got up, went
+to school, and found out that my account was suspended because I sent to you!
+Maybe it was a breakin,a forgery,or I left my terminal unattended, but I DIDN'T
+POST IT!!!  So don't flame me no more.  Also, I don't know why my account was
+opened, could someone please tell me why?
+
+From: gorin@media.mit.edu (Amy Gorin)
+Subject: [alt.acad.freedom.talk, et al.]  Re: YAHWEH is good! (instead of quoting reams, lets look at cases)
+Message-ID: <9110262137.AA21310@herodotus.cs.uiuc.edu>
+Date: 26 Oct 91 01:43:23 GMT
+
+In article <4926@sun13.scri.fsu.edu> stricher@masig3.ocean.fsu.edu (Char Aznabul) writes:
+>Stacy Johnson writes
+
+>+ That's fine, but the KKK and the Nazi Party do not seize African
+>+ American and Jewish newsletters, print their stories in them anonymously,
+>+ and then distribute them to the AA and Jewish readers.  And I would
+>+ think they would be sued if they did. 
+>
+>Mixing apples and oranges is fine if you're mixing fruit juices. 
+>However, this makes no sense to me at all. Perhaps you can explain
+>to me how soc.women is even remotely similar to a newsletter. I
+>can see making that analogy with soc.feminisim or any other
+>moderated newsgroup, but an *unmoderated* newsgroup???
+
+According to my legal advisors, there are two ways in which the courts have
+handled questions like this---1 - by applying or extending laws regarding 
+private mail between individuals (in which case the sysadmin is considered
+the postmaster), and 2 - by applying the laws regarding publications (in
+which case the sysadmin is considered the publisher).  These cases have
+been largely in regards private bbs's.  However, sysops HAVE been sued 
+successfully, and they do have the right to control the content of postings.
+Universities are a different type of legal entity, but e-mail laws have been
+applied, and there is no reason to think publication laws wouldn't be.
+
+People have decried the pulling of an account without due process as
+censorship.  When I offered to provide due process they said it would
+never fly.  I'm not sure why they didn't just say that in first place.
+In spite of the reams of legal paperwork posted to the net in the last
+few days, I don't think we are going to be able to determine the
+legality of the actions without a test case.  As I have said before,
+I'm willing to file one.  Leave it to the courts to decide.
+
+Personally, to the people who use the kill-file arguement:  Readers of
+soc.women had already used News technology to choose the topics they wished
+to see---by subscribing to soc.women and not alt.evil.  There was no 
+indication in the header of the article that its topic would be offensive, 
+and, (unless SHe has a better ai parser than state-of-the-art), the only 
+way a reader of soc.women would have known not to read that article was 
+to read it.  The author used the News system to deliberately target readers
+who were most likely to find the article offensive, just as much as someone
+who parses a kill-file and then sends its owner articles on the subjects
+listed there.
+
+Please don't respond by posting excerpts from policy statements.  If you
+wish to provide full xerox copies to my lawyer, write me for an address.
+
+It would be lovely if the democratically determined newsgroup charters 
+(listed in news.announce-newusers, last time I checked), finally had 
+some teeth.
+
+
+-- 
+-------------------------------------------------------------------------------
+"There's always 'hang around the fort' Indians" - Native American protester at
+Atlanta Braves game, asked about Indians who manufacture souveneir tomahawks.
+
+From: stricher@masig3.ocean.fsu.edu (Char Aznabul)
+Subject: [soc.women]  Re: YAHWEH is good! (instead of quoting reams, lets look at cases)
+Message-ID: <9110271907.AA24778@herodotus.cs.uiuc.edu>
+Date: 26 Oct 91 17:43:23 GMT
+
+Amy Gorin writes
+
++ According to my legal advisors, there are two ways in which the courts have
++ handled questions like this---1 - by applying or extending laws regarding 
++ private mail between individuals (in which case the sysadmin is considered
++ the postmaster), and 2 - by applying the laws regarding publications (in
++ which case the sysadmin is considered the publisher).  These cases have
++ been largely in regards private bbs's.  However, sysops HAVE been sued 
++ successfully, and they do have the right to control the content of postings.
++ Universities are a different type of legal entity, but e-mail laws have been
++ applied, and there is no reason to think publication laws wouldn't be.
+
+There is a vast difference between a *private* bbs that one may join
+or refuse to join because of the rules, and a univeristy that has a 
+written policy of allowing the free exchange of ideas. Even if they 
+are totally repugnent.
+
+Applying publication laws would appear to be stretching the imagination.
+For instance, *who* publishes soc.women? I mean, when I go out and
+print up 5000 copies of "Char's guide to FSU's women", it's my name on
+the beast, my money in the hole. 
+
+Netnews falls between the two, and at the moment, IMHO, falls between
+the cracks. It isn't *private* email and it isn't published (by a
+single entity) either.
+
++ legality of the actions without a test case.  As I have said before,
++ I'm willing to file one.  Leave it to the courts to decide.
+
+Oh, well, so much for netnews...
+
++ Personally, to the people who use the kill-file arguement:  Readers of
++ soc.women had already used News technology to choose the topics they wished
++ to see---by subscribing to soc.women and not alt.evil.  There was no 
++ indication in the header of the article that its topic would be offensive, 
++ and, (unless SHe has a better ai parser than state-of-the-art), the only 
++ way a reader of soc.women would have known not to read that article was 
++ to read it.  The author used the News system to deliberately target readers
++ who were most likely to find the article offensive, just as much as someone
++ who parses a kill-file and then sends its owner articles on the subjects
++ listed there.
+
+*chortle*chortle*chortle* This is rich! You were forced to read the
+*whole* thing? *smirk* Amy, I never saw the original article! Why?
+I saw "Yahweh" and assumed it was a religious posting. I don't read
+those outside of .christian groups. I read enuff to know I didn't 
+want to keep reading it. You decided to read it and you should have
+stopped when you'd read enuff to know what it is. And then flamed
+it, and set your followups to alt.flame or /dev/null.
+
++ It would be lovely if the democratically determined newsgroup charters 
++ (listed in news.announce-newusers, last time I checked), finally had 
++ some teeth.
+
+Look out folks, here come the net.police. Note the followup.
+
+Char - the price one pays for having the government insure your saftey at
+       all times is your freedom.
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Official punishment of off-topic posts (was yahweh is good posting)
+Message-ID: <1991Oct23.210725.19475@eff.org>
+References: <1991Oct23.182731.17656@eng.umd.edu> <9110231918.AA20269@sentinel.CES.CWRU.Edu>
+Date: Wed, 23 Oct 1991 21:07:25 GMT
+
+Aydin Eduer raises an important question: What can/should university
+sys admins do to encourage on-topic posts.
+
+[I'll address other issues in Aydin Eduer's note, in a second
+article.]
+
+edguer@alpha.ces.cwru.edu (Aydin Edguer) writes:
+
+>The user got his wrist slapped not because of the content but where the
+>content was placed.  If the content had been placed in an appropriate
+>place, no one would even have noticed.  It would have been no "better" to
+>post a question about sendmail in soc.women.  It is outside the scope
+>of the limited public forum.  And yes, I do send mail to users who make
+>this type of mistake.
+
+>You and Carl have both said that unmoderated groups are public forums.
+>What neither of you have realized is that even public forums have rules.
+>No, there are no net-police to arrest you for disturbing the peace, no,
+>there are no jails to put you in for creating a public nuisance, but
+>make no mistake that there are rules agreed to by consensus and there
+>are and should be consequences for violating this social contract.
+
+I see the unmoderated Usenet and Altnet newsgroups as free-speech
+forums. Their charters state the intended focus of the forum, not the
+legal boundaries. The penalty for moving too far from the focus,
+should, in my opinion, be social disapproval, not official punishment.
+
+Authors should have the final word on which free-speech forum(s) they
+post to. The university should not be in the business of labeling
+articles with the officially appropriate newsgroups. Such labeling is
+a form of censorship.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: off-topic notes (was yahweh is good posting)
+Message-ID: <1991Oct24.014633.28623@eff.org>
+References: <1991Oct23.233034.24688@eff.org> <9110240013.AA20625@sentinel.CES.CWRU.Edu>
+Date: Thu, 24 Oct 1991 01:46:33 GMT
+
+
+edguer@alpha.ces.cwru.edu (Aydin Edguer) writes:
+
+[...]
+>Okay, we have set a lower bound of 1 article and an upper bound of
+>100K/5 minutes as disruptive enough to "censor" a user.  Now try to
+>write a fair regulation....
+[...]
+
+The U. of Illinois at UC has rules against disruptive and coercive
+action. (I think these are Trustee's rules. If so, they apply at U. of
+Illinois at Chicago, too.)
+
+The standard is substantial interference with the rights of others.
+Penalties can be imposed after (and only after) a disciplinary
+process.
+
+If a user does not post many more notes than other users and if his or
+her posts can be killed with kill files, I do not think that off-topic
+posts constitute substantial interference with the rights of others.
+
+Here are the potentially relevant parts of the rules:
+
+---start quote---
+
+Conduct for which students are subject to discipline or expulsion
+include, without limitation, knowingly engaging in disruptive or
+coercive action. Disruptive or coercive action include the following:
+
+(1) Participation in a disruptive or coercive demonstration. A
+demonstration is disruptive or coercive if it substantially impedes
+University operations, or substantially interferes with the rights of
+others, or takes place on premises or at times where students are not
+authorized to be. There is no requirement that University authorities
+order students to cease participation in a disruptive or coercive
+demonstration.
+
+[... (2) use of force or violence ...]
+
+(3) Unauthorized entry to or use of property or facilities owned or
+controlled by the University.
+
+[... (4) physical abuse ...]
+
+[... (5) endangering the safety or health of others ...]
+
+[... (6) Theft and vandalism ...]
+
+(7) Failure to comply with direction of a member or agent of the
+University acting in the performance of her or his duty in connection
+with a potential or actual disorder.
+
+(8) Any conduct which substantially threatens or interferes with the
+maintainence of appropriate order and discipline in the operation of
+the University, or any conduct on University property or in connection
+with a University activity which invades the rights of others. Without
+excluding other situation, examples include shouting, noisemaking,
+obstruction and other disruptive actions designed or intended to
+interfere with or prevent meetings, assemblies, classes or other
+scheduled or routine University operations or activities.
+
+(9) Inciting, aiding, or encouraging others to engage in a disruptive
+or coercive action.
+
+When, through the disciplinary process, a student is found to have
+knowingly engage in a disruptive or coercive action, as above defined,
+the penalty will be dismissal or, upon a finding that substantial
+mitigating circumstances exist, suspended dismissal or other sanctions
+or coercive actions.
+[....]
+ -----end quote---
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Online disclaimers?
+Message-ID: <1991Oct23.210321.283@ms.uky.edu>
+Date: 23 Oct 91 21:03:21 GMT
+Article-I.D.: ms.1991Oct23.210321.283
+
+
+We've discussed some ramifications, both legal and ethical, of carrying
+Usenet news.  Many people have spoken of "news contracts", documents
+signed by each Usenet participant at a given site which would explain
+the obligations incurred (or not incurred) by both the user and the
+site itself.
+
+Since most of us don't really want to float more paperwork into the
+bureaucratic morass, what about an online disclaimer?  I was thinking
+about something like this, which would be displayed every time the
+news reading/posting software is invoked:
+
+----------------sample online disclaimer--------------------
+This program accesses Usenet, a worldwide news and information system.
+This system is one of tens of thousands participating in Usenet.
+
+Usenet consists of discussion areas, or "newsgroups", covering a wide
+range of topics.  You will find newsgroups for almost every topic you
+can name.  Each newsgroup has participants from around the world.
+
+Sometimes, you may find material in Usenet newsgroups that offends you.
+That is a personal matter, and this site is not responsible in any way
+for the material you read here.  
+
+Your contributions to Usenet are your own responsibility.  This site
+assumes no resposibility for the material you post.  If you post any
+information that violates the law, you are responsible; this site will
+not support you.
+
+This site will not prevent you from reading Usenet, nor will it prevent
+you from contributing.  The responsibility is yours.
+
+By executing this program and participating in Usenet, you acknowledge
+that you bear the responsibility for your actions.
+----------------------end online disclaimer--------------------------
+
+Would something such as this help defuse the "outraged user" syndrome,
+at least from an administrator's viewpoint?
+
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+From: ts@cup.portal.com (Tim W Smith)
+Subject: [misc.legal, et al.]  Harassment via Email
+Message-ID: <9110231905.AA03782@herodotus.cs.uiuc.edu>
+Date: 23 Oct 91 14:15:52 GMT
+
+replaced with "..." in an attempt to not be too blatent about
+copyright violations...):
+
+	"A Seattle judge has agreed that ...Bill Gates has been the
+	 victim of harassment.  ...In what may be one of the first cases
+	 of high-tech harassment, a former Microsoft saleswoman Monday
+	 was ordered to stay from Microsoft -- and Gates -- both physically
+	 and electronically.  Microsoft said Joan Brewer had been sending
+	 Gates a steady stream of unwelcome messages over an electronic
+	 mail system.  Brewer earlier had claimed that she...was the
+	 victim of harassment,...EEOC dismissed her complaint.  Now
+	 King County District Judge William Roarty has told Brewer any
+	 contact she makes with Microsoft must be through the company's
+	 legal department."
+
+							Tim Smith
+
+From: nagy@moria.endor.cs.psu.edu (Gregory G Nagy)
+Subject: [alt.sex, et al.]  Re: alt.sex.* make NBC News
+Message-ID: <9110231820.AA03361@herodotus.cs.uiuc.edu>
+Date: Wed, 23 Oct 1991 07:43:36 GMT
+
+     The Alt.sex.* heirarchy was killed on PSUVM, Penn State's main
+general purpose computer. (The CS computers still get it, obviously :)
+It was said that they were removed as a cost-cutting measure but  
+may also be due to the fact of certain postings originating from that
+machine (eg The Jim Whitehead and BIFF posts.)
+
+--
+Greg Nagy                           "...Barq's doesn't bite.. Barq's HAS
+nagy@endor.cs.psu.edu			bite!"     -Barq's ad
+ggn100@psuvm.psu.edu
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: [eff.mail.ethics-l]  Re: Ucla's Use Policies
+Message-ID: <199110261528.AA24204@eff.org>
+Sender: kadie
+Date: 26 Oct 91 07:28:43 GMT
+Approved: usenet@eff.org
+
+
+
+It seems like a pretty good policy. I especially like that it covers
+both users and sys admins. Also, it lays out clear rules and
+disciplinary procedures. And, it acknowledges the user's privacy.
+
+I think it could be improved (perhaps with the participation of users)
+by clarifying the prohibition against noncommercial personal use.
+Also, procedure by which a sys admin is authorized to search user
+files should be made clear and it should be made consistent with the
+University's general search procedures (or its telephone search
+procedures).  Finally, users should not be punished for rule
+infractions until and unless it is determined such infractions have
+occurred.
+
+I will discuss each of these points in turn.
+
+1. The policy says:
+
+>*	Use of SEASnet's Computing Facilities
+>	Use of SEASnet's computing facilities, including
+>	hardware, software, and networks is restricted to the
+>	purposes for which SEASnet accounts are assigned. These
+>	uses are limited to research and educational purposes.
+>	Any personal or commercial use of SEASnet equipment is
+>	prohibited.
+
+But then:
+
+>	*	Game Playing
+>		Various games are available on the system.
+>		however, you must not play games when other
+>		users need a terminal for any other activity. If
+>		you are playing games, you must log out whenever
+>		users are waiting, and offer them your terminal.
+>		it is not ethical or polite to stay logged in
+>		until the person waiting asks you to log out, or
+>		to expect a waiting user to wait for you to
+>		finish playing.
+
+Isn't game playing an example of personal use? Isn't much email use
+personal? If the members of a student organization (say, the sailing
+club) keep the the club roster on-line, isn't that a personal use?
+How about if someone accesses the library computer to find a book on
+bicycle repair?
+
+The policy could be improved by applying the "game policy" to all
+noncommercial personal use.
+
+2. The policy says:
+
+>		In very unusual circumstances when system
+>response, integrity or security is threatened, as outlined
+>above, a system administrator is authorized to access files and
+>information necessary to find and resolve the situation.
+
+And:
+
+>1.5.4. Consequences of Misuse of Computing Privileges
+>	Abuse of computing privileges is subject to disciplinary
+>action. If system administrators of SEASnet have strong evidence
+>of misuse of computing resources, and if that evidence points to
+>the computing activities or the computer files of an individual,
+>they have the obligation to pursue any or all of the following
+>steps to protect the user community:
+...
+>	*	Inspect the user's files, diskettes, and/or
+>		tapes. System administrators must be certain that the
+>		trail of evidence leads to the user's computing
+>		activities or computing files before inspecting
+>		the user's files.
+
+Faculty and student files on university's computers should have the
+same privacy protection as personal files in university-assigned space
+in an office or dormitory space (for example, files in a graduate
+student's desk).
+
+I don't know what the exact rules are at UCLA, but the Joint Statement
+on Rights and Freedoms of Students, the main statement of academic
+freedom for students says:
+
+"B. Investigation of Student Conduct
+  1. Except under extreme emergency circumstances, premises occupied
+by students and the personal possessions of students should not be
+searched unless appropriate authorization has been obtained. For
+premises such as residence halls controlled by the institution, an
+appropriate and responsible authority should be designated to whom
+application should be made before a search is conducted. The
+application should specify the reasons for he search and the objects
+or information sought. The student should be present, if possible,
+during the search. For premises not controlled by the institution,
+the ordinary requirements for lawful search should be followed."
+[ftp.eff.org:pub/academic/student.rights]
+
+The policy could be improved by making the computer search procedure
+consistent the University's general search procedure. This will likely
+mean having sys admins get search authorization from a higher
+authority.
+
+3. The policy also authorizes sys admins to:
+
+>	*	Suspend or restrict the user's computing
+>		privileges during the investigation. A user may
+>		appeal such a suspension or restriction and
+>		petition for reinstatement of computing
+>		privileges through the SEAS Associate Dean of
+>		Student Affairs or the SEAS Associate Dean of
+>		Computing.
+
+This is inconsistent with the principle of innocent until found guilty.
+It is most likely inconsistent with the general policies of UCLA.
+The Joint Statement says:
+
+"C. Status of Student Pending Final Action
+  Pending action on the charges, the status of a student should not be
+altered, or his right to be present on the campus and to attend
+classes suspended, except for reasons relating to his physical or
+emotional safety and well being, or for reasons relating to the safety
+and well-being of students, faculty, or university property."
+
+The policy could be improved by authorizing summary computer
+suspension only "for reasons relating to the safety of ... university
+property." Perhaps, such computer suspensions should be authorized
+by a higher authority.
+
+I hope the UCLA community will work together to improve the policy. I
+hope faculty and student users are given a chance to participate in
+policy making. As the Joint Statement says: "The responsibility to
+secure and to respect general conditions conductive to the freedom to
+learn is shared by all members of the academic community. Each college
+and university has a duty to develop policies and procedures which
+provide and safeguard this freedom. Such policies a procedures should
+be developed at each institution within the framework of general
+standards and with the broadest possible participation of the members
+of the academic community."
+
+RESOURCES
+
+Every University has a Student Code that spells out the University's
+general policies. This Code is not just a document; it is a legal
+contract between students and the University. New policies must be
+consistent with the Code.
+
+The Computers and Academic Freedom Archive is available via anonymous
+ftp from ftp.eff.org. It is in directory pub/academic. The archive is
+also available via email. For information on email access, send email
+to archive-server@eff.org. Include the lines "help" and "index".
+
+The Computers and Academic Freedom on-line discussion is available as
+newsgroups alt.comp.acad-freedom.talk and alt.comp.acad-freedom.news.
+It is also available in mailing list form. For information on the
+mailing list, send email to archive-server@eff.org. Include the line:
+  send acad-freedom caf
+
+- Carl Kadie
+
+

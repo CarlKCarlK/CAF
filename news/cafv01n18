@@ -1,0 +1,869 @@
+Computers and Academic Freedom (news version)
+July 28, 1991
+Vol. 1, No. 18
+Editor: Carl M. Kadie (kadie@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your
+note will appear immediately on the caf-talk mailing list and in
+the alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is academic/news. Best-of-the-month issues are available as files
+April, May, and June.
+
+Disclaimer: CAF-news is compiled and published by me, Carl M. Kadie.
+It is not an EFF publication. The views I express and editorial
+decisions I make are my own.
+
+[The first four notes address the question "Under what conditions
+should a user's computer files be searched?" Helen C. O'Boyle reports
+that when faculty and students at Virginia Commonwealth University
+asked that "emergency searches" be reported to the user with 24 hours,
+the computer staff refused. Other notes list the (general) search
+policies of the Joint Statement on Rights and Freedoms of Students,
+the U.S. Bill of Rights, the Code of the University of Illinois, and a
+proposed law on computer searches.
+
+The final four notes discuss cases. There is a report that at Wayne
+State University the official "Student Due Process Policy" was
+completely ignored. A student at Ohio State, who was once expelled
+from ACS/IRCC computers, offers a reminder that we are only getting
+Steven Brack's side of the story. In the next note, I critique as new
+Ohio State ACS computer policy because it seems to permit computer
+expulsions without due process. In the final note, a student tells how
+he quit Hamline University after he was expelled from the computer
+with notice, explanation, or recourse. - Carl]
+
+In this issue:
+
+helen            62 
+kadie            28  Ethics of "Peeking;" requirement to notify subject
+kadie            47  -
+xanadu!hibbert  230  Proposed law on computer searches
+jp               69  
+Mark Verber      75  >Ohio State (who does a new law prof see for net access?)
+kadie           180  >Ohio State ACS policy
+whir             66  Hamline Univ shuts off ac<>nt w/o notice or stated reason
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 24 Jul 91 01:01:24 GMT
+Message-Id: <17183@life.ai.mit.edu>
+Organization: The Internet
+From: wupost!usc!samsung!think.com!snorkelwacker.mit.edu!ai-lab!wookumz.gnu.ai.mit.edu!helen@uunet.uu.net
+
+References <1991Jul19.181817.5287@murdoch.acc.Virginia.EDU>, <6620@gazette.bcm.tmc.edu>, <23.Jul.91.155137.81@cogsci.cog.jhu.edu>
+~Subject: Re: Administrator Access (Was Re: Ohio State)
+
+In article <23.Jul.91.155137.81@cogsci.cog.jhu.edu> wjb@cogsci.cog.jhu.edu writes:
+>In article <6620@gazette.bcm.tmc.edu> rick@pavlov.ssctr.bcm.tmc.edu (Richard H. Miller) writes:
+>>What I would like to see is a rule that under normal circumstances, the
+>>system administrator is not allowed to access the contents of users' 
+>>data w/o permission but, in an emergency, the site administrator is allowed
+>>to do it but must inform the affected user(s) as soon as practical. 
+>
+>	As both a system administrator and a user this seems quite
+>reasonable to me.  The only thing I would add is that if a users' data has
+>been accessed as a result of an emergency situation that the user must be
+>informed of that access after the emergency has been alleviated or a fixed
+>time period has passed. (a week or two?).  The user should also be informed
+>what emergency required this action.  This would probably even cover
+>investigating possible "crackers" as that would seem to be an emergency
+>situation.
+>
+>				Bill Bogstad
+
+And that is exactly the policy that was proposed at VCU, pursuant to
+faculty concern over the academic computing staff browsing student mail
+and obvoius text files for purposes of content review.  It was vetoed by
+the AC staff with the explanation that it made it impossible to do their
+work (must be nice to be able to veto any rule you don't like before it
+becomes part of a policy!).  The "notification" period in this case was
+24 hours, which may have been a bit extreme.  However, AC objected not
+on the grounds of 24 hours being too narrow a window, but on the grounds
+that it was impractical to (1) agree to stay out of user files to begin
+with and (2) notify affected users each time an emergency access took
+place.
+
+The "browsing" incident had two primary policy- related results:
+	1.  Faculty tried to institute the rule about file access by
+	    admins, unsuccessfully.
+	2.  Admins IMMEDIATELY removed read permission from the 
+	    process accounting file so that in the future, no student
+	    would be able to, through careful matching of file access
+	    times (via stat) and process accounting file entries (a
+	    small C program did the job nicely) determine who had last
+	    accessed certain of their files, and what commands they
+	    used on them.
+
+The process accounting file is unreadable by students to this day.
+Requests to make it readable have been repeatedly denied.  I guess I
+can see some reasons for wanting a "secret" pacct file, but as far as
+I'm concerned, it sure doesn't do much for an academic computing dept's
+reputation to institute that policy immediately after a student used that
+data to catch dept personnel doing something which met with WIDESPREAD
+disapproval.  (Again, note the differences possible between perception
+and reality)
+
+IMHO, it's this kind of incident which makes students want to be less
+than open with system administrators.  In exchange for being forthright
+enough to admit to the administrators how the access-tracking had been
+done so precisely, the students got a read-restricted process accounting
+files for themselves and the rest of the (uninvolved) university.
+--
+Helen C. O'Boyle          | Disclaimer:  just a VCU grad student in no
+isy5hob@cabell.vcu.edu    |              way speaking for the University
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Thu, 25 Jul 1991 15:26:14 GMT
+Message-Id: <1991Jul25.152614.11476@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <50910725144205.0003158580NA1EM@mcimail.com>
+Subject: Ethics of "Peeking;" requirement to notify subject
+
+Here is what the Joint Statement says about searches:
+
+[From AAUP Policy Documents and Reports, 1977 Edition]
+
+                        Joint Statement on Rights and Freedoms
+                                      of Students
+
+[...]
+
+B. Investigation of Student Conduct
+
+
+  1. Except under extreme emergency circumstances, premises occupied
+by students and the personal possessions of students should not be
+searched unless appropriate authorization has been obtained. For
+premises such as residence halls controlled by the institution, an
+appropriate and responsible authority should be designated to whom
+application should be made before a search is conducted. The
+application should specify the reasons for he search and the objects
+or information sought. The student should be present, if possible,
+during the search. For premises not controlled by the institution,
+the ordinary requirements for lawful search should be followed.
+
+[...]
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Thu, 25 Jul 1991 15:36:49 GMT
+Message-Id: <1991Jul25.153649.11765@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <50910725144205.0003158580NA1EM@mcimail.com>
+Subject: Ethics of "Peeking;" requirement to notify subject
+
+Here are the University of Illinois' and the U.S. Constitution's rules
+for searches:
+
+{I think University rules concerning assigned office space provide the
+best model of how disk space and e-mail should be treated. - Carl}
+
+"IV. Privacy
+
+A. Members of the University community have the same rights of
+privacy as other citizens and surrender none of those rights by
+becoming members of the academic community. These rights of privacy
+extend to residence hall living. Nothing in University regulations or
+contracts shall give University officials authority to consent to a
+search by police or other government officials of offices assigned or
+living quarters leased to individuals except in response to a properly
+executed search warrant or search incident to an arrest.
+
+B. When the University seeks access to an office assigned or living
+quarters leased to an individual to determine compliance with
+provisions of applicable multiple-dwelling unit laws, ordinances, and
+regulations, or for improvement or repairs, the occupant shall be
+notified of such action not less that twenty-four hours in advance.
+There may be entry without notice in emergencies where imminent
+danger to life, safety, health, or property is reasonably feared and
+for custodial service.
+
+C. The University may not conduct or permit a search of an office
+assigned or living quarters leased to an individual except in
+response to a properly executed search warrant or search incident to
+an arrest."
+
+{The 4th Amendment:}
+
+"The right of the people to be secure in their persons, houses,
+papers, and effects, against unreasonable searches and seizures, shall
+not be violated, and no Warrants shall issue, but upon probable cause,
+supported by Oath or affirmation, and particularly describing the
+place to be searched, and the persons or things to be seized."
+
+{A government institution, such as this University can not ignore
+these protections just because it owns the facilities [Mancusi v.
+DeForte 392 U.S. 364, 368 (1967); Gillard v. Schmidt 579 F.2d 825, 829
+(3d Cir. 1978)] - Carl}
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+Date: Fri, 26 Jul 91 15:14:01 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9107262014.AA00439@m.cs.uiuc.edu>
+Subject: FYI: Proposed law on computer searches
+
+Date: Thu, 25 Jul 91 14:53:15 PDT
+From: xanadu!hibbert@uunet.UU.NET
+Subject: Proposed law on computer searches
+
+Don Ingraham was one of the prosecutors who talked at the Conference on
+Computers Freedom and Privacy in March.  At the last session, he said he would
+write and propose new guidelines for prosecutors to follow that would take into
+account the concerns that were brought up at the conference.  Last month, he
+gave a talk at the first meeting of the Berkeley SIG on Freedom, Privacy, and
+Technology (affiliated with BMUG and CPSR-Berkeley).  He mentioned at that
+point that he had a draft, and I later asked him for a copy.  When I asked him
+if I could redistribute it, he not only gave me permission, but encouraged me
+to do so.
+
+If you have suggestions on how to improve the draft, or if you represent a
+relevant group (CPSR, EFF, ACLU, and ACM come to mind) and would like to offer
+Don official support, he'd very much like to hear from you.  Don isn't
+electronically connected, so you'll have to send him fax or paper mail, or call
+him on the phone.  If there is interesting discussion here, I'll tell him about
+it, but I don't promise to show him every word.
+
+What follows is first Don Ingraham's summary, then the draft bill, and finally
+his commentary on what it means, and what he'd like to have happen with it.
+This is an important proposal, and it looks like quite a good law.
+                                                                      Chris
+        hibbert@xanadu.com              uunet!xanadu!hibbert
+
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+               PROPOSAL FOR PENAL CODE SECTION 1538.6:
+                   ELECTRONICALLY STORED MATERIAL.
+
+    Revised 11 June 1991
+    Donald G. Ingraham, Assistant District Attorney, Alameda County,
+    1225 Fallon Street, Oakland CA 94612 4292  (415) 272-6232  fax 271-5157
+
+   The following is a proposal to add to the existing search warrant provisions
+of the Penal Code some particular restraints on the issuance of warrants which
+are required by federal law; it would also establish controls on the
+examination of electronically stored evidence seized in the course of a
+criminal investigation, and empower the Attorney General to monitor and
+regulate compliance with this law.
+
+There are four main aspects:
+   first, it recognizes the existing restraints of federal law, in particular
+the Privacy Protection Act (42 USC 2000aa) portion of the Civil Rights Act, and
+also chapter 212 of the Electronic Communications Privacy Act (18 USC 2700 et
+seq) dealing with stored electronic communications.  The portion of the ECPA
+which addresses the interception of electronic communications is covered by
+existing law.
+   second, it establishes the Attorney General of California in a monitoring
+and regulatory function, not unlike the function now performed in regard to
+criminal offender record information.  In the following text, references to
+federal law appear in parentheses.
+   third, it establishes criteria for the inventory and analysis of
+electronically stored evidence, and affords the person from whom it was seized
+and other interested parties standing and information to present their
+interests and concerns to the issuing magistrate.
+   fourth, it balances law enforcement's necessary investigative authority with
+the privacy and personal interests of persons affected by the investigation.
+
+   This topic is of such significance that it is suggested there be a specific
+legislative declaration such as this:
+
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+Legislative finding:
+
+    The legislature finds that investigation and prosecution of crimes in which
+computers are involved engenders a risk to other rights, including those to
+conduct a business, to publish, and to conduct private communications.  This
+section clarifies existing requirements of the federal Electronic
+Communications Privacy Act and the Privacy Protection Act, and also invests the
+Attorney General with authority to regulate the analysis and examination of
+electronic media seized under the authority of this chapter.
+
+Addition to Chapter 3, Search Warrants, Title XII, Special Proceedings
+of a Criminal Nature, California Penal Code.
+
+Section 1536.5
+
+   A search warrant for computer-related material cannot be authorized except
+in compliance with the following restraints.  All electronically stored
+material seized, under a search warrant or otherwise, shall be retained and
+analyzed as follows:
+
+  [a] if the content is reasonably apparently identifiable as intended for
+publication, a search warrant may be authorized only if the affidavit to that
+warrant specifically provides probable cause that the material is contraband or
+the fruits of a crime or things otherwise criminally possessed, or is property
+designed or intended for use, or which is or has been used as, the means of
+committing a criminal offense.
+     (This is directly from Title 42 USC 2000aa(7).]
+
+  [b] if examination of electronically stored communications indicates that any
+particular file is a communication intended to be private and neither party
+thereto is named as a subject of the search warrant, and the material has been
+in such storage for under 180 days, the investigating officer may not continue
+the analysis nor proceed further without obtaining a search warrant for stored
+electronic communication, as defined by regulations issued by the Attorney
+General.
+       (This is adapted from Title 18 USC 2703: the term
+        'search warrant for stored electronic communication'
+        appears in that Title as a term of art.]
+
+ [c] within five court days of any seizure of stored electronic material, the
+investigating officer will file a supplement to the inventory required by
+section 1537 which will list all electronic material with all available
+specificity, including but not limited to file names then identified, and
+indicate what procedures for analysis are being taken.  A copy of that and any
+subsequent inventories will be furnished to the subject of the search warrant.
+A further supplement will be filed with the issuing magistrate every tenth
+court day thereafter until all electronic material has been analyzed.  A copy
+of all such inventories will be part of the court record and open to public
+inspection.
+
+ [d] Electronic stored media will be analyzed as expeditiously as possible and
+in the following order: first, material recognizably necessary to the conduct
+of legitimate business and private communications; second, material
+recognizably central to the crime under investigation; third, material
+reasonably suspected of relating to the crime under investigation.  The
+magistrate shall direct the investigating office or prosecutor to return or
+copy such material to the owner, providing a receipt for the court record.
+
+ [e] After the filing of the initial inventory, any person who has reason to
+believe that he or she would be unfairly adversely affected in business or
+communications by the retention or analysis of the seized electronic material
+may petition the issuing magistrate for a hearing to demonstrate that the
+proposed retention and/or analysis would result in significant injury to a
+legitimate purpose.
+
+          [This provision expands upon existing Calif PC
+          1538.5, but is specific to electronic media; there
+          is no known federal counterpart.  The provision
+          for return by DA, receipt to Court, regular
+          accounting and standing to others affected is not
+          fantasy: we did as much in our Draper prosecution
+          with mutually beneficial effect.]
+
+  [f] The Attorney General shall establish regulations for the seizure,
+examination, and disposition of electronic material obtained in the process of
+criminal investigations consistent with the intent of this section that
+intrusion and disruption be as minimal as the requirements of an investigation
+permit, and in keeping with federal regulation.
+
+          [This section empowers the Attorney General to
+          keep computer related criminal investigations by
+          our law enforcement agencies consistent with
+          federal law, without the need to go to the
+          legislature to accommodate changes in the federal law.]
+
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+     Comment, primarily intended for prosecutors, but open to all
+
+  This is the draft of a bill on search warrants for electronically stored
+material, which will probably be introduced next session: I need to line up AG
+and other support for it to fly.  To put the idea in context, please be aware
+that Penal Code 1538.5 covers review of searches and is the basis of our
+traverse motions.  It seemed the logical place to put this, rather than in our
+Computer Crime section-502- or under privacy.
+
+  The idea is to get a legislative purpose statement, and then flag areas of
+concern and potential federal liability:
+
+  (a) flags the First Amendment Privacy Protection Act, 42 USC
+
+2000aa, which addresses : ... any work product materials possessed by a person
+reasonably believed to have a purpose to disseminate to the public a newspaper,
+book, broadcast, or other similar form of public communication, in or affecting
+interstate or foreign commerce.." which I try to boil down by the phrase
+"intended for publication", adding a prefatory qualification, that it be
+"reasonably apparently identifiable" as such.  The federal act makes no such
+allowance, although I cannot imagine a court imposing it: as it now reads it is
+rather like forbidding us to open any cabinet that may contain more than one
+paper clip, at our peril.
+
+    (b) does the same flagging as to Chapter 212, Electronic Communications
+Privacy Act, 18 USC 2700 et seq, again clarifying that it does not apply if one
+of the parties is already named in the warrant.  This would assume that the
+possibility of electronically stored communications was anticipated by the
+warrant, which should always be the case.  The legislative history is barren on
+this, but what standing would an intruder have to object?
+
+    (c) through (e) create something new, not in the federal law.  This
+basically is a response to the main complaint about the usual investigation,
+which is that the gear and files disappear into the maw of the eagle, and are
+seldom if ever heard from again.  Having someone say "we're working on it"
+every other month is not what I think James Madison had in mind.  I think that
+such limbo should not be imposed, assuming that it ever is, and the best way to
+keep that from happening would be to require a regular accounting and progress
+report.  This would not only be reasonable, but it would also accomplish two
+other boons: it would give us a need to keep our investigation going instead of
+watching our resources get reassigned, and it should forestall more draconian
+controls if this perception gets any more widespread.  We did exactly this when
+we prosecuted John "Captain Crunch" Draper, and it worked well.  I wouldn't try
+to process evidence any other way.
+
+   (f) would empower our Attorney General to establish regulations for the
+search of electronically stored material much as the AG now sets the policies
+on confidentiality and privacy of Criminal Offender Record Information/"rap
+sheets".  Going by administrative regulation rather than by way of additional
+legislation guarantees that we will not stray from federal rules, which should
+keep civil rights prosecutions of prosecutors per 42 USC 1983 at a minimum.
+
+
+    What is needed to bring this about?
+
+    The basic hope is to have it debugged and ready to submit by October: ready
+to submit means, among other things, that we have some organized support from
+concerned citizens.  The immediate hope is that both law enforcement and civil
+libertarians will see the wisdom of structuring what is now not as structured
+and be willing to support it.  The idea is to keep it clean and simple; if
+glitches later develop, we could amend it again, but the essential aspect at
+this point is to get legislative recognition of the fact that search warrants
+for electronic material are already different from search warrants for other
+things.  If we do that, and can get the Attorney General to agree, it should
+fly.  My fondest hope is that come October I could represent to the appropriate
+legislator that the AG, the CDAA, the ACLU, the CPSR, and the academic and
+business communities thought this a heck of an idea, and in their view
+essential.
+   In summary, and in particular regard to the concerns of prosecutors like me,
+this proposal would avoid the need to develop an electronic privacy measure in
+California by adopting the federal law, and giving the Attorney General the
+responsibility to keep up with its amendments through the California Code of
+Regulations.  Two other states, Utah and Florida, have crafted their own
+versions of the federal Electronic Communications Privacy Act; that independent
+course risks inconsistencies and uncertainties as the judicial process
+construes the ECPA.  The enactment of this proposal would avoid that, while at
+the same time providing all available guidelines to law enforcement and to
+citizens concerned with the freedom to use computer technology and with
+electronic privacy, who are, after all, a significant portion of the People in
+whose behalf we prosecutors are privileged to appear.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Mon, 22 Jul 91 16:02:27 GMT
+Message-Id: <1991Jul22.160227.12830@tygra.Michigan.COM>
+Organization: CAT-TALK Conferencing Network, Detroit, MI
+From: zaphod.mps.ohio-state.edu!hobbes.physics.uiowa.edu!news.iastate.edu!sharkey!tygra!jp@uunet.uu.net
+
+References <1991Jul17.171651.14481@cs.umb.edu>, <1991Jul17.233857.27897@mailer.cc.fsu.edu>, <1991Jul18.142812.21327@ms.uky.edu>
+~Subject: Wayne State Just Ignores Student Rights (was Re: Ohio State)
+
+In article <1991Jul18.142812.21327@ms.uky.edu> morgan@ms.uky.edu (Wes Morgan) writes:
+"
+"A brief examination of the current "Student Rights and Responsibilities"
+"(which stays in my desk as a reference), reveals a complete description
+"of the procedures for implementation *and* appeal of University actions
+"against students.
+"
+"I would think that most Universities make a document such as this 
+"available to all students, either via surface mail or during the
+"student's advising/registration/enrollment procedures.
+"
+"
+
+You know, all of the rules and student rights policies and "rights to a 
+fair hearing" make no difference when the entire chain of command summarily
+ignores those rights.
+
+I know of a case at Wayne State University, in Detroit where that has 
+happened. 
+
+Students with greivances go first to their department head, then to the
+deans office. The student has a RIGHT under the "Student Due Process
+Policy" to have a formal hearing and to be able to call witnesses. Those
+witnesses, if employees or students of the University, are compelled to
+be there. 
+
+In  this particular case (involving computer access), the Ombusdman's 
+office ran into a brick wall at EVERY step of the procedure!!
+
+   * The department head didn't want to hear about it. He said
+     "go see the Dean". 
+
+   * The Dean said she could do nothing and refused to schedule
+     a hearing.
+
+   * The Vice Provost didn't know what the hell the Ombusdman was
+     talking about. "Due process policy? Never heard of such a
+     thing!"
+
+   * The matter was taken to the Board of Governors, since it was
+     their policy which was being circumvented. It didn't get past
+     their executive secretary who just referred it back to the
+     Ombudsman's Office for resolution.
+
+It seems that at Wayne State University, there is a shadow policy 
+which goes along with the Due Process Policy. This shadow policy
+must be a set of rules outlining how the various departments are 
+to avoid actually implementing the Due Process Policy. The result:
+(last I heard): Litigation will begin in the courts this autumn if
+the University fails to respect the student(s) rights after being
+given one last chance.
+
+The moral of the story: BEWARE: It doesn't matter how finely crafted
+your "Students Rights and Responsibilities Policy" is: There is 
+often a conspiracy of "good old boys" who have an unwritten agreement
+to "help each other out" and avoid having to answer for their crimes. 
+In the case of Wayne State University, the corruption runs the entire
+chain of command, from the departmental level right on up to the 
+Board of Governors.
+
+-- 
+CAT-TALK Conferencing System   |  "Buster Bunny is an abused | E-MAIL:
++1 313 343 0800 (USR HST)      |   child. Trust me - I'm a   | jp@Michigan.COM
++1 313 343 2925 (TELEBIT PEP)  |   professional..."          | 
+********EIGHT NODES*********** |   -- Roger Rabbit           | 
+
+Date: Thu, 25 Jul 91 10:51:58 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9107251551.AA14954@m.cs.uiuc.edu>
+Subject: FYI: Re: Ohio State (who does a new law prof see for net
+
+Path: m.cs.uiuc.edu!wupost!zaphod.mps.ohio-state.edu!cis.ohio-state.edu!pacific.mps.ohio-state.edu!verber
+From: verber@pacific.mps.ohio-state.edu (Mark Verber)
+Newsgroups: comp.admin.policy
+Subject: Re: Ohio State (who does a new law prof see for net access?)
+Message-ID: <VERBER.91Jul25110411@pismo.mps.ohio-state.edu>
+Date: 25 Jul 91 15:04:11 GMT
+References: <1991Jul11.145817.9405@eff.org> <1991Jul11.153712.9886@eff.org>
+	<16945@life.ai.mit.edu> <1991Jul15.141516.20768@eng.umd.edu>
+	<1991Jul15.203851.7073@visix.com> <26125@well.sf.ca.us>
+Organization: Ohio State University; Physics Department
+Lines: 74
+In-reply-to: hank@well.sf.ca.us's message of 16 Jul 91 03:25:21 GMT
+
+People...
+
+I am getting really tired of the thread about "Ohio State" policies.
+First of all, that title is misleading because it is not Ohio State
+policies, but the policies of the computer center (ACS).  Secondly the
+student in question certainly given a biases accounting, and the staff
+at ACS aren't permited to get their biases (but balancing
+perspective), so everyone is shooting in the dark.  If you want to
+continue this thread why don't you start talking about the abstract
+issues, because that is what you are doing right now.  You are just
+pretending the issues you are concerned about are being played out at
+OSU.  The "facts" in this case that people have been throwing around
+are more like opinions and impressions.  Third, while I have done more
+that my share of battling the what was the "evil empire's" crazy
+policies, but I have found the ACS originization at OSU to be getting
+more and more reasonable.  I don't like seeing ACS' name getting
+dragged through the mud when it is clear that they are trying very
+hard to cope with a lot of changes and improve the services that they
+are delivering to our campus.
+
+I am in general a hater of bureaucracy.  But in the 13 years I have
+been around OSU I have come to appreciate grudgingly the way things
+work.  OSU does have an ombudsman.  While not perfect, I have seen the
+ombudsman get action.  I have even seem tenured profs getting the axe
+from proceedings that were started by the ombudsman.
+
+Many, many years ago I was banned by IRCC (what ACS used to be
+called).  While they over-reacted, the bureaucracy (a mandatory
+meeting with my chairman) cooled them out.  I was banned for an
+indeterminant period of time.  Later, I not only got my account back,
+but 'wheel' privs (it was a -20) when it was clear that I had learned
+my lesson and I was in need of an account for work.  Not that the IRCC
+people from the first conflict were happy with me getting an account,
+but they did install it.  They follow the rules religiously.
+
+> Seeing all the OSU discussion encourages me to inquire, for an old
+> friend who's a new teacher at OSU's law school, and wants net access
+> (and relevant handholding). Sounds like the school's got a lot of
+> systems -- who should she inquire of? Local phone number/name there?
+
+The system that Steven Brack was removed from (magnus) sole purpose in
+life is for students and staff to read and send electronic mail and
+news.  Anyone can get a free account provided they are associated with
+the university, and agree to the policies for the machines.  Your
+friend could walk over to the ACS service desk, show them his staff
+id, and get an account and their getting-started guide.
+
+BTW: This is one of the reasons that the policies on magnus are so
+restrictive.  If everyone on campus requested an account as they are
+permitted, there would be 60,000 acounts.  Right now they have a mere
+3114 accounts.  ACS has limited resources.  They have to be "fair", eg
+they can't give better service to any particular group for individual
+for fear of someone crying "foul", so they offer the best service
+they think they can afford to give to everyone.  The result is what
+seems to most of us to be overly restrictive.
+
+Finally, I would like to second Amanda Walker's resentment of:
+
+> what seems to be a common characterization of sysadmins as
+> self-serving tools of "the administration." When I worked for OSU
+> CIS, I and the rest of the staff spent a lot of time and effort
+> defending our users from the onslaught of stupid bureaucracy.
+
+Many of the privileges we all enjoy right now we have because sysadm
+and system staff fought for those privileges.  Relatively free mail,
+news, and Internet access at OSU were initially driven by the system
+staff at OSU/CIS.
+
+If it weren't for serious elisp kill algorithm for GNUS I wouldn't
+bother reading this news group.  To much noise, not enough substantive
+discussion.
+
+Disgusted,
+Mark
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Fri, 26 Jul 1991 15:38:10 GMT
+Message-Id: <1991Jul26.153810.5953@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <1991Jul24.041012.1592@eff.org>
+Subject: Re: Ohio State ACS policy
+
+This is a critique of a policy that was recently posted to the
+alt.comp.acad-freedom.talk newsgroup. Everything in quotes ("") is
+from the Joint Statement on Rights and Freedoms of Students.
+
+>                  Policy on Abuse of Computers and Networks
+>                      The Office of Academic Computing
+>                          The Ohio State University
+>                            Approved June 6, 1990
+
+It doesn't say. But policy "should be developed at each institution
+within the framework of general standards and with the broadest
+possible participation of the members of the academic community." In
+other words, this policy should be consistent with the University's
+general policies and should be developed with the help of the system's
+users.
+
+>The use of computers and computer networks in no wat exempts us from the
+>nominal requirements of ethical behavior in the University community.  Use
+>of a computer network that is shared by many users imposes certain
+>obligations.
+>In particular, data, software, and computer capacity have value and must be
+>treated accordingly.
+
+>Legitimate use of a computer or computer network does not extend to whatever
+>we are capable of doing with it.  Although some rules are built into the
+>computer's operating system, these restrictions do not limit completely what
+>we can do and see.  We are responsible for our actions whether or not the
+>rules are built into the system, and whether or not we can circumvent those
+>rules.
+
+Agreed.
+
+>The following specific principles of computer and network systems operated
+>under the direction of the Office of Academic Computing are applicable to Ohio
+>State students, faculty, staff, and contract employees.  As users we must:
+
+>	o  Respect the privacy and rules governing the use of any
+>	   information accessible through the computer system or
+>	   network, even when that information is not securely
+>	   protected.
+
+The policy could be improved by mentioned that ACS will respect
+the privacy and freedom of expression of its users.
+
+>	o  Respect the ownership of proprietary software.  For example,
+>	   do not make unauthorized copies of such software for your
+>	   own use, even when that software is not physically protected
+>	   against copying.
+
+>	o  Respect the finite capacity of systems, and limit your own
+>	   use so as not to interfere unreasonably with the activity of
+>	   other users.
+
+What is unreasonable? Who decides? Is any warning given?
+
+>	o  Respect the procedures established to manage the use of the
+>	   system.
+
+What procedures? How are they decided? Are they posted?
+
+
+>Those who cannot accept these standards of behavior may be denied access to
+>the relevant computer systems and networks.
+
+Will they be expelled from the computer forever? Can they ask for a
+hearing? Are the standards every made explicit? Who decides that
+the user cannot accept the standards? Is there any due process
+build in? Are students told of their rights?
+
+This policy lacks due process protections. The gist of the policy
+seems to be that 'if we decide that you break a rule (that we created,
+and you may not even know about), we can expel you from the computer
+forever.'
+
+Note that (at most schools) faculty can not (by themselves) expel a
+students from a class. It would be very strange of nonacademic
+University employees could (by themselves) expel students from a
+computer.
+
+Here are excerpts from the Joint Statement about due process.
+
+"      VI. Procedural Standards in Disciplinary
+                     Proceedings
+
+  In developing responsible student conduct, disciplinary
+proceedings play a role substantially secondary to
+example, counseling, guidance, and admonition. At the same
+time, educational institutions have a duty and the
+corollary disciplinary powers to protect their educational
+purpose through the setting of standards of scholarship and
+conduct for the students who attend them and through
+the regulation of the use of institutional facilities. In the
+exceptional circumstances when the preferred means fail
+to resolve problems of student conduct, proper procedural
+safeguards should be observed to protect the student from
+the unfair imposition of serious penalties."
+
+"The jurisdictions of faculty or student judicial bodies,
+the disciplinary responsibilities of institutional officials and the
+regular disciplinary procedures, including the student's right to
+appeal a decision, should be clearly formulated and communicated in
+advance."
+
+"In all situations, procedural fair play requires that the student be
+informed of the nature of the charges against him, that he be given a
+fair opportunity to refute them, that the institution not be arbitrary
+in its actions, and that there be provision for appeal of a decision."
+
+"The institution has an obligation to clarify those standards of
+behavior which it considers essential to its educational mission and
+its community life. [...] Offenses should be as clearly defined as
+possible and interpreted in a manner consistent with the
+aforementioned principles of relevance and reasonableness.
+Disciplinary proceedings should be instituted only for violations of
+standards of conduct formulated with significant student participation
+[...]."
+
+"2. Students detected or arrested in the course of serious violations
+of institutional regulations, or infractions of ordinary law, should
+be informed of their rights. No form of harassment should be used by
+institutional representatives to coerce admissions of guilt or
+information about conduct of other suspected persons."
+
+"C. Status of Student Pending Final Action
+
+  Pending action on the charges, the status of a student
+should not be altered, or his right to be present on the
+campus and to attend classes suspended, except for
+reasons relating to his physical or emotional safety and
+well being, or for reasons relating to the safety and well-being
+of students, faculty, or university property."
+
+"When the misconduct may result in serious penalties and if the
+student questions the fairness of disciplinary action taken against
+him, he should be granted, on request, the privilege of a hearing
+before a regularly constituted hearing committee."
+
+>Violators may also be subject to
+>penalties under the regulations of the University and under laws of the State
+>of Ohio or the United States of America to the extent applicable.
+
+
+>I have read the above conditions and agree to abide by these standards.
+
+>Signature: ________________________________________________ Date: ____________
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu
+I do not represent EFF; this is just me.
+
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 26 Jul 91 23:29:39 GMT
+Message-Id: <5493@orbit.cts.com>
+Organization: Orbit TimeSharing [orb], Minneapolis, Mn.
+From: snorkelwacker.mit.edu!bu.edu!stanford.edu!msi.umn.edu!cs.umn.edu!quest!orbit!whir@world.std.com
+Subject: Hamline Univ shuts off account w/o notice or stated reason
+
+
+This tale tells more of traditional institutional politics (and
+its inertia), I guess, than of how technology is pushing rights
+and liberties.  I have been a reader and sometime speaker in the
+Usenet since 1984, having had access at a big government place.
+I've been getting back to school and found them open to making
+papers in a Unix environment and keeping access to this
+community.
+
+Last fall i began an MALS (liberal studies not library science)
+at Hamline U and approached the computer people about a Unix
+machine and account.  "Sure, we have this new Sequent, it's
+primarily used for administration, but there's a math professor
+who is interested in those packages and is getting them.  And we
+are going to connect to the Internet in a couple weeks."  And it
+was a fine semester, even though the Internet connection wasn't
+made until the very end of it.  Everyone was friendly including
+the to-be-mentioned cheese.
+
+Before the next semester began I approached (perhaps the wrong
+guy and at the wrong time) the system administrator's boss, as I
+was steered, because my schedule had changed and I was wondering
+about getting printout.  He was miffed that `word processing' was
+happening on his machine, I was flabbergasted -- I wondered what
+constituted word processing.  That evening i found, without any
+notice, that my account had been disabled.
+
+I did meet shortly thereafter with the previously quite
+congenial, ow completely mute system administrator and his (the)
+director of computing and telecommunications services.  To make a
+long story short, no one else at Hamline was competent nor
+willing to listen to my case.  The only person who new what kind
+of issue this was was the math professor, who no one would call.
+Before the end he took it on himself to see the MALS director,
+who "was like a brick wall."  I did find after repeated searches
+that Hamline has an ombud, a good listener though ineffectual.
+(BTW, early on when no one was listening, I refused to pay my
+tuition until someone would.  I found the ombud and withdrew from
+Hamline a couple days too late as far as they are concerned.
+They have now threatened collection...)
+
+What happened?  It seems pretty clear that this Unix-naive guy
+above the system administrator was uncomfortable with the
+combination of Internet, administration parts of the file system
+and a user who wasn't using a mainframe in the manner that
+computers were used before communication merged.  Other accounts
+were given to novices shortly after I was disconnected.  The
+teacher, of course, retains his account.  I did hear second-hand
+noises about putting my files on tape or letting *me* back on
+when they got things "set up," in some undefined period.  But
+between the lines clearly and singly was, "We don't trust you."
+It was for this reason and a deaf administration that I withdrew.
+
+
+I will in a matter of days no longer be at this address,
+returning to the net about Sept 7, most likely as
+whir@csd4.csd.uwm.edu.  If someone would keep a file of any
+follow-ups generated I'd appreciate it.  Mail will also, I think,
+be held at allard@max.bnl.gov.  Thanks are to Wojciech.
+
+
+
+
+ooooooooooooootter#spoon in bowl
+!!!!!!!!!!!!&   RooM    &
+!!!!!!!!!!!!R   oooo    M
+
+

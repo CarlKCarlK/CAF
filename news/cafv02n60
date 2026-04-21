@@ -1,0 +1,1597 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.60 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 60
+
+
+----------------------------------------------------------------------
+
+From: barnhart@ddsw1.mcs.com (Aaron Barnhart)
+Subject: Article 0 -- Abstract of CAF-News 02.60
+
+Topics:
+
+   1-3    review the big story of the month, an FBI raid on a student dorm
+               that led to removal of the alt.binaries.pictures.erotica
+               newsgroup on systems at Cornell University
+   4-5    review the case of Steven Brack, a student at Ohio State
+               University whose behavior on OSU systems led to his expulsion
+   6-7    discuss the revoking of system privileges from Robert McElwaine, a
+               student at the University of Wisconsin-Eau Claire
+   8-9    discuss sexual harassment policy generally, and how it relates to
+               sysadmin policy specifically
+   10-11  give two schools' very different approaches to net access
+   12     provides a model academic systems policy (in the editor's opinion)
+
+
+Abstract:
+
+[Best of November, 1992
+
+============================= KEY ================================
+The words after the numbers are a short PARAPHRASE of the
+article, NOT AN OBJECTIVE SUMMARY and not necessarily our opinions.
+==================================================================
+
+Notes 1-3 review the big story of the month, an FBI raid on a student
+dorm that led to removal of the alt.binaries.pictures.erotica
+newsgroup on systems at Cornell University.
+
+1.	"Federal officials said they were investigating whether the
+student used an electronic scanner to transmit child pornography onto
+a computer file and send the pictures through an international
+computer bulletin board."
+	<9211201816.AA21284@dahlia.cit.cornell.edu>
+
+2.	So were Cornell officials justified in shutting down the
+"bulletin board" (the a.b.p.e. newsgroup) so quickly?  "I do think
+their rapid action demonstrates their ignorance as to the actual
+nature of a.p.b.e."  By contrast, Cornell folks are very familiar with
+local newsgroup cu.general, and would certainly not shut *it* down
+under similar circumstances: "If someone were to start posting
+binaries, in particular child pornograpy there, I think they would be
+much more likely to deal with the person individually."  Also bear in
+mind Cornell wanted to demonstrate "cooperation with the FBI in the
+matter," and didn't feel obliged to preserve a.b.p.e. "simply by
+virtue of having *some* protected speech content in [it.]"
+	<9211202036.AA12053@crocus.cit.cornell.edu>
+
+3.	A student was arrested and his dorm searched by the FBI in
+connection with possible illegal materials he had been posting to
+a.b.p.e.  "According to the Cornell Daily Sun report I read, his
+neighbours were altogether unsurprised that he was caught for this
+particular crime. I have found Stuart Lynn to not be an overly zealous
+system administrator. His reaction to the virus (where again students
+were arrested) and to this incidence (which involves the Feds) was
+exactly what was warranted."
+	<1992Nov24.125748.19653@shaman.com>
+
+Notes 4-5 review the case of Steven Brack, a student at Ohio State
+University whose behavior on OSU systems led to his expulsion.
+
+4.	Carl Kadie: "Talking with him via the Net and on the phone, I
+was astounded at how sloppy OSU was with due process. For example,
+they didn't even tell him what he was charged with until he asked.
+Then they listed things he was accused of doing and (vague) rules that
+we was accused of breaking but would not say which action(s) they
+thought violated which rule(s). Finally, when he was expelled, they
+listed only the rules they had determined he had violated but included
+no 'finding of fact' as to which actions they had determined he had
+actually done."
+	<Bx3M4p.51M@cs.uiuc.edu>
+
+5.	Steven Brack: "There was never a formal decision issued by the
+[disciplinary] panel, only a finding that I violated said provisions
+of OSU's rules. [...] I was not allowed to call witnesses from ACS
+[Acad. Comp.  Services], nor to compel any witnesses to testify, no
+matter what their relation to the case.  (Prof. John Bridge, who
+brought the complaint about my posting the word 'fuck' to a newsgroup,
+for example.)  I was not allowed to put questions to the witnesses,
+but rather could only suggest questions to the panel. I was not
+allowed to introduce documentary evidence that would have shown that
+ACS gave me permission to do everything I did.  Matters of ACS
+procedures, including the lack of published rules, were likewise off
+limits.  Despite this, the hearing lasted over 5 hours, one of the
+longest they could remember, with my closing argument taking over 30
+minutes, including interruptions by the chair, when he thought I was
+saying things that weren't 'at issue.'"
+	<9211081708.AA22877@jupiter.cse.utoledo.edu>
+
+Notes 6-7 discuss the revoking of system privileges from Robert McElwaine,
+a student at the University of Wisconsin-Eau Claire.
+ 
+6.	McElwaine is apparently guilty of posting "canned
+prefabricated materials" to numerous newsgroups and mailing lists,
+generating so many complaints that the school's director of computing
+services has now decreed: "If, after being requested [by a mailing
+list or newsgroup's 'owner'] to stop, he [McElwaine] continues to send
+his materials The University of Wisconsin - Eau Claire will take steps
+revoke his Internet privileges."
+	<1992Nov6.065819.22603@gnosys.svle.ma.us>
+
+7.	Carl Kadie: "I worry, since explusion from a communications
+medium is not a typical university sanction. (Typical sanctions
+include things like informal warnings, formal warnings, university
+suspensions.) I note that labeling Internet access a "privilege" does
+not remove due process requirements."
+	<1992Nov16.161114.15845@eff.org>
+
+Notes 8-9 discuss sexual harassment policy generally, and how it relates
+to sysadmin policy specifically.
+
+8.	"The point that we as system administrators and managers must
+address is the following: is our task in this arena to do everything
+possible to avoid a lawsuit against the company or university no
+matter how ludicrous, but technically possible, the scenario; or is
+our task to manage the system in a reasonable way, doing our best to
+balance the rights and resposibilities of all the users in accordance
+with company or university policies?"
+	<Bx3u36.GCx@rice.edu>
+
+9.	And so, tempting though it may be for a sysadmin to step in
+and arbitrate "complaints of unwelcome behavior of a sexual nature
+(some user displaying sexually oriented images on their screen in a
+public lab, for example), I think your options are much more limited
+if you wish to reduce the possibility that the university, and perhaps
+you personally, will be named in a sexual harassment lawsuit."  In
+fact, your *only* option in this situation is "Refer the matter to my
+supervisors."
+	<Bx42LK.J20@rice.edu>
+
+Notes 10-11 give two schools' very different approaches to net access.
+
+10.	"Basically the situation is this: We have a department on
+campus called 'Academic Computer Center' which is in charge of the
+universities Vax.  This Vax is the gateway on campus to BitNet and the
+Internet.  However, student accounts on the machine cannot access
+networks.  Ie, 'ftp', 'telnet', 'rlogin 'rsh', and Internet email are
+denied to these accounts.  [...] The reason I had heard for ACC not
+giving networking access was that it would put too much strain on the
+Vax, despite the fact that all the other departmen with machines (like
+mine) are using the vax for the network gateway."  Right.  Making a
+Vax a *gateway* would kill it.
+	<4so4TB5w164w@cellar.org>
+
+11.	From another Ball State employee: "I, and many others, have
+benefited greatly as a result - the use of EMail results in a terrific
+amount of idea exchange, etc. The net result of this is that there is
+more computer literacy on this campus than any other campus I have
+ever seen."  And interestingly, "in 99% of the complaints I have
+heard, the user wants special privileges ABOVE AND BEYOND the normal
+privs granted."  Which is not to say that the legislature doesn't have
+a "valid point," since "they DO grant the funding."
+	<3205@bsu-cs.bsu.edu>
+
+Note 12 provides a model academic systems policy (in the editor's opinion).
+
+12.  This is a very long and thorough policy on computing at the
+University of North Texas which establishes a committee, three titles,
+and an ombudsman's position for computing, defines the roles of
+everybody in the academic community w.r.t. computing, establishes
+sanctions for faculty, staff, and students who don't comply, and even
+offers official definitions of terms such as "workstation" and
+"computer installation."
+	<9211292125.AA01321@herodotus.cs.uiuc.edu>
+
+
+- Aaron Barnhart]
+
+
+Contents:
+
+Eric Scheirer    92  The FBI takes a trip to Cornell...
+Eric Scheirer    86  >
+jiro@shaman.com  37  >ALERT RE POSTINGS AND COR<>CCESS TO ALT.*.*.EROTICA HIER
+Carl M. Kadie    74  Due process at state universities
+Steven S. Brack  94  (none)
+Gary S. Trujillo 82  McElwaine's postings (was<>HE DIVINE MASTERS, and Dreams)
+Carl M. Kadie    57  >[alt.dreams] McElwaine's <>E DIVINE MASTERS, and Dreams)
+Joseph Watters   85  >Preventing Sexual Harassment?
+Joseph Watters   58  >
+                 56  >Query: Can Universities l<>rk access &/or 'spy` on users
+Andrew Templin   76  >State legislatures and acad-f policy
+Carl M. Kadie   453  University of North Texas Computer Policy
+
+
+Computers and Academic Freedom News:
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@eff.org)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+Associate Editor: Mark C. Sheehan (sheehan@unixpop.ucs.indiana.edu)
+Associate Editor: Aaron Barnhart (barnhart@ddsw1.mcs.com)
+Associate Editor: Leslie Regan Shade (shade@ice.cc.mcgill.ca)
+Associate Editor: Henry E. Hardy (seraphim@ais.org)
+Associate Editor: Karl Barrus (elee9sf@Menudo.UH.EDU)
+Associate Editor: Bruce Umbaugh (BDU100F@oduvm.cc.odu.edu)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Archivist:        J.S. Greenfield (greeny@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, Mark C.
+Sheehan, or Carl M. Kadie). It is not an EFF publication. The views an
+editor expresses and editorial decisions he or she makes are his or
+her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Nov 20 13:17:21 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: escheire@sunlab.cit.cornell.edu (Eric Scheirer)
+Subject: Article 1--The FBI takes a trip to Cornell...
+Message-ID: <9211201816.AA21284@dahlia.cit.cornell.edu>
+Date: Fri, 20 Nov 1992 08:16:55 GMT
+
+
+
+>>> ALERT ON POSTINGS TO AND CORNELL ACTION REGARDING
+>>> ALT.BINARIES.PICTURES.EROTICA
+>>
+>> First of all, is this a joke? A forgery? Or do you just like sounding
+>> like a paranoid fool in public?
+>
+>I seem to recall from last year (when a Mac virus was released by some
+>Cornell students) that a number of (other) Cornell students complained
+>that Mr. Lynn had a tremendous tendency to overeact...
+
+Well, now we know what this is all about...
+
+Taken without permission from the _Cornell Daily Sun_ of 20 November:
+
+--
+
+FBI SEARCHES STUDENT'S ROOM FOR PORNOGRAPHY
+
+By J. Allison Archbold
+
+The FBI search of a Cornell sophomore's residence hall room Wednesday
+was the first stage of an investigation into the alleged distribution
+of child pornography via an international computer network.
+
+Federal officials said they were investigating whether the student used
+an electronic scanner to transmit child pornography onto a computer file
+and send the pictures through an international computer bulletin board.
+
+According to Roger Clancy, a supervisory special agent in the FBI's
+Albany division, the agents executed the search warrant, supported by a
+sealed affidavit.
+
+While the contents of the affidavit were not revealed, federal
+officials said the warrant authorized agents to search for possession
+of child pornography and evidence of interstate transport by computer
+of child pornography.
+
+Several residents of Clara Dickson Hall said five or six FBI agents
+took photographs of Dickson room 5593, dusted for fingerprints, and
+rummaged through the resident's belongings, confiscating several items
+during the two-hour search Wednesday afternoon.
+
+Clancy would not disclose what was seized or whether other Cornell 
+students were involved.  He said agents are currently focusing on
+sifting through the items confiscated during the search.
+
+Clancy emphasized that the government was only just beginning the
+investigation and added that any arrests from the case would not 
+come for several weeks or months.
+
+"Generally speaking, our office and the Department of Justice take an
+aggressive approach to child pornography investigation," said Joe
+Pavone, the chief assistant U.S. attorney for the Northern District of
+New York, which ordered the investigation.
+
+Marjorie W. Hodges J.D. '91, judicial administrator, said her office is
+pursuing its own investigation.  The student may have violated a Campus
+Code of Conduct status that forbids "trafficking, for profit or
+otherwise, in goods and services, when incompatible with the interest
+of the University and the Cornell community."  She would not comment
+any further on the case.
+
+According to Linda Grace-Kobas, a University spokesperson, Cornell was
+first informed of the alleged illegal activity on Nov. 11 by an
+administrator of another computer network who suspected that a student
+might be transmitting "material involving the sexual exploitation of
+minors."  Due to the nature of the alleged crimes, the University
+notified the U.S. Attorney.
+
+Cornell has since discontinued access to the `NetNews newsgroup'
+(alt.binaries.pictures.erotica) which was used for the distribution of
+the material.
+
+Investigator Scott C. Hamilton of the Department of Public Safety
+said his office was collaborating in the investigation, acting as a
+liaison between the federal agents and the University.  Although he 
+was present during the room search, he would not comment further on 
+the case.
+
+----
+Eric Scheirer - Sun Undergrad Lab Consultant - escheire@sunlab.cit.cornell.edu
+
+Any opinions expressed above are mine alone, and are not intended to 
+represent views of the Cornell CS Dept, or Cornell Information Technologies --
+I don't even work for CIT!
+
+
+
+
+------------------------------
+
+From caf-talk Caf Nov 20 15:36:52 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: escheire@sunlab.cit.cornell.edu (Eric Scheirer)
+Subject: Article 2--Re: The FBI takes a trip to Cornell...
+Message-ID: <9211202036.AA12053@crocus.cit.cornell.edu>
+Date: Fri, 20 Nov 1992 10:34:57 GMT
+
+
+Here are some thoughts I have on this...
+
+First, I think that the action taken by Cornell regarding Usenet in general
+was refreshingly slight.  It would have been all-too-easy to restrict access
+to the whole alt hierarchy, or even all of Usenet, during the "interim"
+period during which investigations are occurring.
+
+Also, note that this is NOT, as yet anyway, a computer abuse case.  It is
+strictly a felony investigation, and possible related Cornell investigation
+(see below).  
+
+Some comments from around campus seem to indicate that the student population
+thinks that such an investigation is "too harsh".  I think that what the
+FBI is concerned about, and rightly so in my view, is the possibility that
+the student, or people connected to the student in some way, were the 
+people behind the camera for the photography.
+
+I think that the charge of _being the one with the scanner_ is much more
+serious that one of just downloading and/or viewing the pictures.  It's
+the difference between "trafficking" or "transporting" and "possessing",
+IMHO.
+
+
+Criticisms I have:
+
+> Marjorie W. Hodges J.D. '91, judicial administrator, said her office is
+> pursuing its own investigation.  The student may have violated a Campus
+> Code of Conduct status that forbids "trafficking, for profit or
+> otherwise, in goods and services, when incompatible with the interest
+> of the University and the Cornell community."  She would not comment
+> any further on the case.
+
+This is Section J of Article II of Title 3 of the Cornell Code of Conduct.
+It is far, far, far too vague.  Further, Article II of Title 1 seems to 
+exclude the possibility of simultaneous University and criminal action.
+
+In part:
+
+   A. The following basic principles and policies will apply in
+      situations where misconduct violates both the law and University
+      conduct regulations:
+
+      1. The following kinds of offenses are adjudicated in the courts:
+         all felonies...
+
+      2. When the University Administration determines that other misconduct
+         does not constitute a serious breach of the law, and that the
+         interests of justice would be served, it shall seek to handle such
+         misconduct within the University jurisdiction...
+
+      4. Policies covering conduct that violates both the law and University
+         regulations, where feasible, should be based on jurisdictional
+         understandings and procedures jointly developed and periodically
+         reviewed by University and local officials.  To the maximum extent
+         feasible, jurisdictional understandings shall be made known to the
+         Cornell community.
+
+As far as I know, there has been no such "jurisdictional understanding"
+developed for these issues.
+
+---
+
+Interested parties who want to peruse the Cornell Code of Conduct can
+get at it via internet, on the CUINFO information service.  Do 
+   "telnet cornellc.cit.cornell.edu 300"
+on Unix systems, or the equivalent for specifying port 300 on others.
+
+Once in CUINFO, type "admin government code" to get there.  You can do
+it all on separate lines if you like; CUINFO is a hierarchical menu 
+system.
+
+All of the other pertinant Cornell documents, such as the Computer Abuse
+Policy, are also available "nearby" the CCC.
+
+----
+Eric Scheirer - Sun Undergrad Lab Consultant - escheire@sunlab.cit.cornell.edu
+
+Any opinions expressed above are mine alone, and are not intended to 
+represent views of the Cornell CS Dept, or Cornell Information Technologies --
+I don't even work for CIT!
+
+
+
+
+------------------------------
+
+From caf-talk Caf Nov 24 16:49:48 1992
+From: jiro@shaman.com
+Subject: Article 3--Re: ALERT RE POSTINGS AND CORNELL ACCESS TO ALT.*.*.EROTICA HIER
+Message-ID: <1992Nov24.125748.19653@shaman.com>
+Date: Tue, 24 Nov 1992 12:57:48 GMT
+
+In article <1992Nov23.215422.18851@dartvax.dartmouth.edu> geoffb@Dartmouth.EDU writes:
+>In <1992Nov19.184048.7621@mnemosyne.cs.du.edu> rkeller@nyx.cs.du.edu (Rod Keller) writes:
+>>Look, it's the net.police!
+>Yes, well, the net.police appear to be working with the FBI this time
+>around. I noticed a story on ClariNews which described an FBI
+>investigation at Cornell and mentioned that a student's room had been
+>searched.
+
+You are quite right. The FBI did search the individual's room and he has
+been detained pending formal charges of distributing child pornography.
+According to the Cornell Daily Sun report I read, his neighbours were
+altogether unsurprised that he was caught for this particular crime. 
+
+I have found Stuart Lynn to not be an overly zealous system administrator.
+His reaction to the virus (where again students were arrested) and to
+this incidence (which involves the Feds) was exactly what was warranted.
+I think Cornell has had enough with being the "Bad Computing Center" of
+the world -- that which emanates viruses and pornography and not research.
+
+
+   Jiro Nakamura
+
+
+ps. Personally I wonder how the students have time for all those foibles...
+Most of them are enginerds, don't they have better things to do like
+xtrek or irc?
+
+-- 
+Jiro Nakamura				jiro@shaman.com (NeXTmail)
+NeXTwatch / Technical Editor		76711,542 (CIS)
+The Shaman Group			+1 607 277-1440 (Voice/Fax)
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Nov  2 12:16:05 1992
+Newsgroups: uiuc.general,alt.comp.acad-freedom.talk,misc.legal,alt.society.civil-liberty,uiuc.civil-liberty
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 4--Due process at state universities
+Message-ID: <Bx3M4p.51M@cs.uiuc.edu>
+Date: Mon, 2 Nov 1992 17:05:12 GMT
+
+Last year, Steven Brack a student at Ohio State Univeristy was
+expelled from his univeristy. Talking with him via the Net and on the
+phone, I was astounded at how sloppy OSU was with due process. For
+example, they didn't even tell him what he was charged with until he
+asked. Then they listed things he was accused of doing and (vague)
+rules that we was accused of breaking but would not say which
+action(s) they thought violated which rule(s). Finally, when he was
+expelled, they listed only the rules they had determined he had
+violated but included no "finding of fact" as to which actions they
+had determined he had actually done. (As far as anyone knows Steven
+was expelled for posting the rude, but Constitutionally protected,
+word "fuck" to a open newsgroup.)
+
+Now due process here at U. of Illinois is being questioned.  Here is a
+short excerpt from the Daily Illini on Oct 29, p 5:
+
+===================================
+Bryan Savage, an Urbana attorney who has represented students arrested
+during last year's demonstrations, said that students' rights to due
+process have been violated.  Savage quoted the Procedures for the
+Subcommittee on Undergraduate Student Conduct of the Senate Committee
+on Student Discipline pamphlet as saying "a quorum for hearing shall
+be a majority of authorized members."  But Savage said that while the
+quorum for the subcommittee is 10 people, only seven were present at
+one of the hearings.  Savage also referred to a memo from Nancy
+Desmond, chairperson of the Subcommittee on Undergraduate Student
+Conduct, which said that students "will not be allowed to question
+directly. They can suggest questions to the chair, and (the
+chairperson) can ask the question" if the chairperson pleases.  But
+the procedures pamphlet also states that the accused student has the
+right to the "opportunity to confront evidence and question any
+witnesses that offer oral testimony," Savage said.
+=========================
+
+I wonder how many students receive unfair hearings. My guess is every
+hearing over the last few years at OSU and U. of Illinois has been
+unfair. I think part of the problem is that the hearings are so secret
+("to protect the privacy of the student") that the procedures can get
+off-track and no one knows for years.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+cases/brack@ohio-state.edu
+=================
+The letters from Ohio State University to Steven Brack including his
+letter of dismissial. Also comments on the letters.
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/cases/brack@ohio-state.edu
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/cases brack@ohio-state.edu
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Nov  8 12:09:32 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: sbrack@jupiter.cse.UTOLEDO.edu (Steven S. Brack)
+Subject: Article 5--(none)
+Message-ID: <9211081708.AA22877@jupiter.cse.utoledo.edu>
+Date: Sun, 8 Nov 1992 07:08:40 GMT
+
+To: caf-talk@eff.org, lighthouse!wiley@uunet.UU.NET (Wiley Hodges)
+Subject: Re: Steven S. Brack case
+Cc: ak541@cleveland.freenet.edu,bmiller@magnus.acs.ohio-state.edu,rdixon@magnus.acs.ohio-state.edu,mleugers@magnus.acs.ohio-state.edu
+Newsgroups: alt.comp.acad-freedom.talk
+
+In article <9211050132.AA12499@lighthouse.lighthouse.com> lighthouse!wiley@uunet.UU.NET (Wiley Hodges) writes:
+: 
+: I'm afraid I've come onto the tail end of this discussion, but I am  
+: left with a couple of outstanding questions. When I retrieved the  
+: files related to Mr. Brack's case from the archive server, I was  
+: surprised to see that there was no formal decision from the  
+: disciplinary board outlining findings of fact and rationale for the  
+: decision amongst those papers. 
+: 
+	There was never a formal decision issued by the panel, only a
+	finding that I violated said provisions of OSU's rules.
+	It's kind of like fighting Jello.  There's nothing there, so
+	I can't really argue to refute it.  Every blow I strike just
+	sucks me deeper in. 
+: 
+: Was such an opinion issued? Are the documents on the server the only  
+: documents which were ever sent to Mr. Brack?
+
+	I currently have a sheaf of papers over an inch thick relating to my
+	case.  What is on the archive server is what I typed in of the 
+	documents.  If someone wants to OCR the documents, I'm willing to
+	provide copies.  I don't have the equipment here.  The basic rationale
+	of the committee's decision seems to have been that Academic COmputing
+	Services (ACS) was correct, without question, in its findings about
+	my case.  Translating this to he courtroom metaphor, this is the 
+	equivalent of the judge deciding that the prosecution's evidence is
+	beyond reproach before opening the case.  I was not allowed to 
+	call witnesses from ACS, nor to compel any witnesses to testify, no
+	matter what their relation to the case.  (Prof. John Bridge, who 
+	brought the complaint about my posting the word 'fuck' to a 
+	newsgroup, for example.)  I was not allowed to put questions to the
+	witnesses, but rather could only suggest questions to the panel.
+	I was not allowed to introduce documentary evidence that would have 
+	shown that ACS gave me permission to do everything I did.  Matters of
+	ACS procedures, including the lack of published rules, were likewise
+	off limits.  Despite this, the hearing lasted over 5 hours, one of
+	the longest they could remember, with my closing argument taking
+	over 30 minutes, including interruptions by the chair, when he thought
+	I was saying things that weren't "at issue." 
+: 
+: I ask these questions because I am surprised by what I *didn't* see  
+: in the correspondence. While those documents very clearly outlined  
+: the provisions of OSU policy which were allegedly violated, they  
+: failed to provide much in the way of evidence or record of testimony  
+: to connect specific actions with those alleged violations.
+
+	The charge to the panel was strictly limited to their finding what
+	rules were violated; they never even attempted to challenge any
+	of the facts ACS presented them. 
+: 
+: I worked for over three years in the Judicial Programs office at the  
+: University of Maryland at College Park, and I would be very surprised  
+: to see a dismissal backed with such slim documentation, and no real  
+: explicit rationale. My reaction to the OSU disciplinary panel's  
+: decision (based on what I have seen) is that it fails to provide any  
+: account of the mental journey which delivered the board to it's  
+: conclusions.  
+: 
+	There was a tape-recorded transcript made of the proceedings, but,
+	upon my asking, I was old that the actual deliberations of the panel,
+	when I was held outside the room, were secret, so I guess we'll never
+	know how the panel arrived at its decision. 
+: 
+: I apologize if all of this is redundant, but I am anxious to learn  
+: more about what seems to be a very strange case...
+
+	I'd like to bring suit against Ohio State, but I don't have that kind
+	of money.  I'd like o find out how OSU reached the decision it did,
+	after the Office of Academic Affairs told ACS that is could find
+	no violations of academic policy.  I'd also like to know whether most
+	Universities have a rule against violating "other university rules &
+	policies," and, if so, if they also apply that rule to cover policies
+	that have never been made available to the person charged.  It's 
+	quite difficult, IMO, to avoid violating rules I can only find out
+	about by violating.  I'd like to know how due process can be maintained
+	without the ability to challenge prosecutorial evidence, without the
+	power to compel witnesses to appear, or to compel the production of
+	documents, or for that matter to directly question the witnesses that
+	did choose to come forward?  Where is the due process?  Where is the
+	Justice?
+							
+--
+Steven S. Brack        |"But the greatest of|   sbrack@jupiter.cse.utoledo.edu
+2021 Roanwood Drive    | these is love."    |  STU0061@uoft01.BITNET 
+Toledo, OH  43613-1605 \____________________/    brack@uoftcse.cse.utoledo.edu 
++1 419 GR4 1010        |  MY OWN  OPINIONS  |   sbrack@maine.cse.utoledo.edu 
+
+
+------------------------------
+
+From caf-talk Caf Nov 16 09:17:11 1992
+Subject: Article 6--McElwaine's postings (was Re: THE DIVINE MASTERS, and Dreams)
+Message-ID: <1992Nov6.065819.22603@gnosys.svle.ma.us>
+From: gst@gnosys.svle.ma.us (Gary S. Trujillo)
+Date: Fri, 6 Nov 1992 06:58:19 GMT
+
+In <1992Nov4.171804.2100@cnsvax.uwec.edu> mcelwre@cnsvax.uwec.edu writes:
+
+>      DREAMS are a very important part of the teachings and practices of
+> Eckankar (referred to in the following article), but NOT of Sant Mat (also
+> mentioned below)...
+
+The following message is informational only.  There is no necessary
+endorsement of its content or any recommendation to act in any par-
+ticular manner.  In fact, I tend to feel that, whatever we might feel
+about the content of Robert's articles, he has as much right as anyone
+to post them, and I see the following attempt to prevent him from doing
+so to be a bit scary, at least in the Usenet context.
+
+That all having been said, I wish Robert McElwaine would make some attempt
+to enter into a discussion, rather than just posting tracts.  It would be
+far more useful, I think, if he were to attempt to respond to what is being
+talked about in this newsgroup from the perspective of what he knows about
+Eckankar, rather than just throwing out canned prefabricated materials.
+
+Gary
+
+> Date: Fri, 16 Oct 1992 13:41:00 CST
+> From: Dan Drumm <DRUMM@CNSVAX.UWEC.EDU>
+> Sender: Law School Discussion List <LAWSCH-L@AMERICAN.EDU>
+> To: Multiple recipients of list LAWSCH-L <LAWSCH-L@AMERICAN.EDU>
+> Reply-To: Law School Discussion List <LAWSCH-L@AMERICAN.EDU>
+> Message-Id: <9210161846.AA20938@unix1.CS.UMASS.EDU>
+>
+>      I would like to acknowledge receipt of your recent
+> complaint concerning materials that your Notes, Conference,
+> or Bulletin Board received from Mr. Robert McElwaine, one of
+> our students here at the University of Wisconsin - Eau
+> Claire.
+>     Mr. McElwaine's activities on the Internet closely
+> parallel similar activities here on campus in which he has
+> used every available public forum to promote his views.
+> Attempts to limit these activities have met with determined
+> and protracted resistance and litigation on his part based
+> upon his First Amendment rights under the United States
+> Constitution.  He contends that the readers of Conferences
+> or Bulletin Boards have no right to infringe on his right of
+> free expression.  However, he does acknowledge and accept
+> that the owners, moderators, or managers of Notes,
+> Conferences, or Bulletin Boards do have the right to remove
+> such material and to request that he not post any other
+> materials.  He has given assurances that upon receipt of
+> such a request that he will cease his activities.
+>           The fastest way to take care of the issue and to
+> prevent your Notes, Conference, or Bulletin Board from being
+> the recipient of additional communications from Mr.
+> McElwaine is to send him Email and request that he stop.
+> That Email should give your name and the name of the
+> Bulletin Board, Notes, or Conference you moderate or
+> control.  You should specifically state that you have the
+> authority to request that he cease and desist from any
+> further postings.  If you are not the administrator, then
+> you should forward this message to the individual who has
+> such authority and request that he/she contact Mr.
+> McElwaine.
+>      I would request that a copy of any correspondence with
+> Mr. McElwaine be also sent to me at CBRENNER@UWEC.EDU.   If,
+> after being requested to stop, he continues to send his
+> materials The University of Wisconsin - Eau Claire will take
+> steps revoke his Internet privileges.
+>      On behalf of the University of Wisconsin - Eau Claire I
+> would like to apologize for any inconvenience Mr. McElwaine
+> has caused and to thank you for helping us address the
+> problem.
+>
+> Sincerely,
+>
+> Charles J. Brenner, Director
+> Computing and Networking Services
+--
+    Gary S. Trujillo                            gst@gnosys.svle.ma.us
+Somerville, Massachusetts              {wjh12,bu.edu,spdcc,ima,cdp}!gnosys!gst
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Nov 16 11:11:21 1992
+Newsgroups: alt.comp.acad-freedom.talk,alt.dreams
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 7--Re: [alt.dreams] McElwaine's postings (was Re: THE DIVINE MASTERS, and Dreams)
+Message-ID: <1992Nov16.161114.15845@eff.org>
+Date: Mon, 16 Nov 1992 16:11:14 GMT
+
+Charles J. Brenner, Director Computing and Networking Services writes:
+
+[...]
+>      I would request that a copy of any correspondence with
+> Mr. McElwaine be also sent to me at CBRENNER@UWEC.EDU.   If,
+> after being requested to stop, he continues to send his
+> materials The University of Wisconsin - Eau Claire will take
+> steps revoke his Internet privileges.
+[...]
+
+I assume that such steps would respect Mr. McElwaine's due process
+rights. But I worry, since explusion from a communications medium is
+not a typical univeristy sanction. (Typical sanctions include things
+like informal warnings, formal warnings, university suspensions.)
+
+I note that labeling Internet access a "privilege" does not remove
+due process requirements.
+
+- Carl
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+faq/due-process
+=================
+* Due Process
+ 
+q: Should users be suspended from the computer pending formal discipline?
+ 
+a: No, with one exception. Just as students should not be expelled from
+...
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.88.144.4), and get file(s):
+
+  pub/academic/faq/due-process
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/faq due-process
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+From caf-talk Caf Nov  2 15:42:30 1992
+Newsgroups: alt.comp.acad-freedom.talk,comp.admin.policy
+From: jaw@owlnet.rice.edu (Joseph A. Watters)
+Subject: Article 8--Re: Preventing Sexual Harassment?
+Message-ID: <Bx3u36.GCx@rice.edu>
+Date: Mon, 2 Nov 1992 19:57:05 GMT
+
+In article <mumble>, john@iastate.edu (John Hascall) writes:
+|> This is outrageous!  If this was the policy -- and I certainly hope it
+|> is not the policy anyplace -- it would be perfectly reasonable for some
+|> bozo to complain to my supervisor that something silly, say my wearing
+|> a pink shirt every Friday, was harassment, and my supervisor would be
+|> required to force me to no longer wear pink shirts?!?
+
+It is policy because it is the law regarding sexual harassment, not
+harassment in general.  The unwelcome behavior must be of a sexual
+nature.  In the case of sexual harassment complaints, the supervisor is
+required to tell you that another employee finds your behavior of a
+sexual nature directed at them unwelcome and that you should stop it.
+If the supervisor were smart, he would explain to you the risk that
+your behavior is putting the company under and putting you in
+particular under.  Depending on the nature of the behavior being
+complained about, and the company's proactiveness, the supervisor may
+also tell you that if you continue the behavior with anyone, you risk
+losing your job very quickly.  If employees had previously been given
+education and information about sexual harassment and some examples of
+harassing behavior, and you engaged in that behavior, you might be
+reprimanded or lose your job immediately.
+
+In some long discussions with some corporate human resources officers,
+I discovered that the law does not require that the person subjected to
+the unwelcome behavior report the behavior to the company before they
+can take other action.  In other words, a company can be held liable
+under the law for the sexually harassing behavior of one of its
+employess regardless of whether or not the company knew the behavior
+was taking place.  This is the technical extreme of the law:  a person
+could be subjected to unwelcome, but trivial behavior of a sexual
+nature one time, and they could immediately file a lawsuit against the
+company and the person individually.  Companies defend against this
+extreme situation (any other less extreme ones) by having an in-company
+mechanism for dealing with sexually harassing behavior, and educating
+their employees about sexual harassment and its consequences.  This
+would presumably make it a lot harder for a jury to find for the
+complainant, particularly if the behavior deemed unwelcome was trivial
+and non-repetitive.
+
+The point that we as system administrators and managers must address is
+the following:  is our task in this arena to do everything possible to
+avoid a lawsuit against the company or university no matter how
+ludicrous, but technically possible, the scenario; or is our task to
+manage the system in a reasonable way, doing our best to balance the
+rights and resposibilities of all the users in accordance with company
+or university policies?
+
+The first choice leads us to all sorts of ridiculous restrictions on
+the users, as our policies must become ever more extreme to cover
+increasingly remote possibilities of ever more extreme and ludicrous
+lawsuit scenarios, as if the mere filing of a lawsuit guarantees that
+the company will be found liable and be forced to pay out huge sums of
+money.  The second choice does leave the institution open to the
+extreme ends of the technical possibilities under the law, but IMO,
+preserves far more valuable rights and freedoms while working to
+prevent the more egregious and commonplace or "reasonable" wrongs that
+the laws are intending to address.
+
+As system administrators or managers, I think we should all seek advice
+from company or university officers empowered to set out the
+institution's positions and response to things like sexual harassment.
+If the company has an "avoid a lawsuit at any cost, to heck with user's
+rights" mentality, then we are pretty much stuck with the logical
+consequences of that.  If the institution's position is that it should
+take reasonable steps to avoid the obvious and egregious behaviors that
+lawsuits can be won on, but it should also preserve the rights of
+others as best it can, then we need not spend our time having
+nightmares about feeling that we have no choice but to implement
+draconian, fascist policies, and vigorously enforcing them.  Individual
+companies or universities are going to have differing levels of risk
+acceptance when it comes to lawsuits.  After all, any company or
+university could theoretically be sued out of existence for any number
+of reasonable things it does every day.  I think our task is to get a
+clear statement from our company or university about the level of risk
+it is willing to tolerate, and implement policies in accordance with
+that.
+
+-- 
+Joseph A. Watters, Jr.		jaw@owlnet.rice.edu
+Deputy Director, Owlnet
+Rice University
+Houston, Texas
+
+
+------------------------------
+
+From caf-talk Caf Nov  2 18:52:58 1992
+Newsgroups: alt.comp.acad-freedom.talk,comp.admin.policy
+From: jaw@owlnet.rice.edu (Joseph A. Watters)
+Subject: Article 9--Re: Preventing Sexual Harassment?
+Message-ID: <Bx42LK.J20@rice.edu>
+Date: Mon, 2 Nov 1992 23:00:55 GMT
+
+In article <mumble>, betsys@cs.umb.edu (Elizabeth Schwartz) writes:
+|> No, we're required to *arbitrate* the dispute. When I get a complaint
+|> I have four primary options:
+|>   1) Ask the person being complained about to do something
+|>   2) Tell the complainer that they are out of bounds.
+|>   3) Refer the matter to my supervisors (if it has major legal or
+|>      policy implications)
+|>   4) set up a meeting between the people involved.
+|> 
+|> Which option is a matter for my professional judgement. If the users
+|> aren't satisfied with my response, they in turn have several options, 
+|> including going to my boss, the department chair, and perhaps the
+|> appropriate grievance committees. 
+|>   In addition, there are informal options, such as asking one's
+|> faculty advisor or professor to intercede.
+|>   Of course, our doors are always open, even if a user has been a
+|> problem in the past. I can't imagine how it works at sites where
+|> people don't talk to each other
+
+What you say is true of employee or user complaints in general, and
+some of your options may be included in your university's sexual
+harassment policies.  However, in the case of complaints of unwelcome
+behavior of a sexual nature (some user displaying sexually oriented
+images on their screen in a public lab, for example), I think your
+options are much more limited if you wish to reduce the possibility
+that the university, and perhaps you personally, will be named in a
+sexual harassment lawsuit.  The reason that a supervisor would tell an
+employee to cease behavior that is of an unwelcome sexual nature is
+because the supervisor is trying to defend the institution's interest
+in not being sued (and possibly losing the suit) for sexual
+harassment.  In your list of options above, in the case of sexual
+harassment, as opposed to other forms of complaint, you definitely do
+not want to exercise option #2.  That is probably the fastest way to
+get your institution involved in a formal sexual harassment complaint
+either with the EEOC or through a lawsuit.  Option #4 is only slightly
+less risky, since the reason the person complained to you in the first
+place is because they probably did not feel comfortable confronting the
+person subjecting them to the unwelcome sexual behavior.  In your case,
+since you are a system administrator and most likely will not be the
+supervisor of the user making the unwelcome sexual behavior complaint,
+the wisest thing for you to do is to take that user's complaint
+straight to his/her supervisor and/or the university EEO officer or
+whomever is empowered to informally resolve sexual harassment
+complaints for students.  Basically, in the case of complaints of
+unwelcome behavior of a sexual nature, always do option #3 if you are
+not that person's supervisor, because it does have major legal
+implications.  Option #1 is a good first step if you are the supervisor
+of one, some, or all of the parties involved.
+
+
+-- 
+Joseph A. Watters, Jr.		jaw@owlnet.rice.edu
+Deputy Director, Owlnet
+Rice University
+Houston, Texas
+
+
+------------------------------
+
+From caf-talk Caf Nov 12 10:37:12 1992
+Newsgroups: comp.org.eff.talk
+Subject: Article 10--Re: Query: Can Universities limit network access &/or 'spy` on users
+Message-ID: <4so4TB5w164w@cellar.org>
+Date: 12 Nov 92 00:35:02 GMT
+
+michaelb@cse.fau.edu (Michael Rogero Brown) writes:
+
+> Basically the situation is this:  We have a department on campus called 
+> "Academic Computer Center" which is in charge of the universities Vax.  This
+> Vax is the gateway on campus to BitNet and the Internet.  However, student
+> accounts on the machine cannot access networks.  Ie, 'ftp', 'telnet', 'rlogin
+> 'rsh', and Internet email are denied to these accounts.  If you get a `sponse
+> my department (Comp Sci & Eng) we use Unix workstations and do not restrict
+> access to networking.  Also the student chapter of the ACM has been running
+> a BBS that gives access to some networking stuff and Usenet access.  This was
+> done because ACC was not providing it.
+
+No doubt about it, that's tacky.  ESPECIALLY the e-mail piece of it.  In my
+mind, it's like saying, "well, we have a library here with a lot of books in
+it.  But you can't check 'em out unless it's for a class.  So, guess what,
+if you want to read a book about past presidential campaigns and you're not
+enrolled in a course in political science, you can't check the book out." 
+Is it legal? yes.  Enforcable?  yes.  But it's also not the kind of thing
+that promotes a lot of learning.  Just my $.02.
+
+> The reason I had heard for ACC not giving networking access was that it
+> would put too much strain on the Vax, despite the fact that all the other
+> departmen with machines (like mine) are using the vax for the network
+> gateway. 
+
+No doubt there would be a lot of strain on the VAX if everything was
+actually done on it.  This part of the argument I can buy; there is a
+difference between using the machine as a network gateway and actually doing
+the work on it.
+
+> What infuriates me is HOW WOULD THEY KNOW HOW PEOPLE ARE USING THIS STUFF?  
+> The only why I see that they would know is if they are spying on student 
+> activties, ie reading their mail to see if its serious or not, etc.  Frankly
+> this is totally unethical, but is it illegal?  I would think users would have
+> some right to privacy in their accounts from the sysadms spying on them.
+
+Well, that depends.  I'm no lawyer, but here's my understanding.  They are
+not allowed to eavesdrop if you have a "reasonable expectation of privacy". 
+(What's reasonable?  I dunno.  Go ask a lawyer.)  If, however, they REMOVE
+your reasonable expectation, by saying, "We may monitor you if we feel like
+it", then they have that right because they own the system.  In a nutshell,
+it depends on what policies are established at your institution.  
+
+Also, it is at least possible that they do not want to have to make
+decisions about policing use of net access.  So they have punted by deciding
+to make sure the issue doesn't come up.
+
+--------------------------------------------------------------------------
+Kyle Barger                     "Beauty, alas, is not relevant to Usenet."
+kbarger@cellar.org      --Brendan Kehoe, _Zen and the Art of the Internet_
+--------------------------------------------------------------------------
+-- 
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+
+------------------------------
+
+From caf-talk Caf Nov 25 20:16:16 1992
+From: nosilla@bsu-cs.bsu.edu (Andrew J. Templin)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 11--Re: State legislatures and acad-f policy
+Message-ID: <3205@bsu-cs.bsu.edu>
+Date: 25 Nov 92 22:06:35 GMT
+
+Previously, 00hfstahlke@leo.bsuvc.bsu.edu has written:
+>I've just read the new academic freedom news summary (for which my thanks go to
+>Carl), and I've finally decided to raise a decidedly political issue that also
+>influences policy and practice.
+>
+>We have a large VAX cluster with e-mail and, as far as I can tell, the full
+>range of newsgroups. [  00hfstahlke goes on to explain what usage the
+VAX Cluster is used for, etc.  Deleted for brevity. ]
+
+>The reason that the purpose for which mail is used is an issue occasionally,
+>and now I also include other non-academic uses like most game-playing, most
+>newsgroups, and most pornographic writing and pictures, is the concern that
+>state legislators, who ultimately decide our funding, may get the impression
+>that we are not good stewards of the resources they have given us and will cut
+>back on university support.  Whether this is a bogeyman or a real concern, it
+>is perceived by many in influential positions to be worth thinking about.  
+
+I would agree completely.
+
+
+>My question, by now obvious, is how we deal with this concern.  Do we let it
+>shape policy?  Do we let it influence practice?  How far?  To keep it
+>continually to the fore is paranoid, but to ignore it completely is reckless. 
+>We are managing these systems for the taxpayers of our state, and we cannot be
+>insensitive to their concerns.
+>
+>I'd like to see some discussion of this side of the free speech and academic
+>freedom issue.  I don't think there are easy answers to it, but someone out
+>there may have greater wisdom on it than I.
+>
+>Herb Stahlke
+>Associate Director
+>University Computing Services
+>Ball State University 
+
+Being a member of the Ball State Community, and having read this 
+newgroup for a quite a while, I would like to comment on University
+Computing Services at Ball State University, and on this subject.
+
+I am HORRIFIED at the idea of letting politicians who know nothing 
+about computer networks and the subculture it creates dictating what
+may and may not be on that system - even if they DO grant the funding.
+However, this is a valid point.  Many at BSU complain about UCS and 
+the way they manage the VAX Cluster we have - but, in 99% of the 
+complaints I have heard, the user wants special privileges ABOVE 
+AND BEYOND the normal privs granted.  Censorship is almost unheard
+of, and you are only limited by the disk space quota. Also, the list of
+newsgroups on UCS's VAX machines is enormous - more than I could possibly read.
+
+Ball State grants a VAX account to anyone who is enrolled or 
+employed at the university  - and, up to now, they could also
+get an account on the Computer Science machine.  (This was revoked
+due to storage space, I understand.)  I, and many others, have 
+benefited greatly as a result - the use of EMail results in a 
+terrific amount of idea exchange, etc.
+
+The net result of this is that there is more computer literacy on 
+this campus than any other campus I have ever seen.  Since this is
+such an important goal with education today, I would think that 
+pointing this out would be a beneficial argument toward keeping the 
+VAX Cluster an "open" system.
+
+NOTE:  I am _not_ a UCS employee.  I have never actually met 
+	Mr. Stahlke, although we have corresponded upon occasion.
+	
+	My point in posting this was to preserve the atmosphere of 
+	expression and learning that has grown at Ball State - it
+	would be a damn shame to see it die.
+
+-- 
+Andrew J. Templin, Confused Programmer, Ball State University
+VAX: 00AJTEMPLIN@bsu-ucs.bsu.edu   ULTRIX: nosilla@bsu-cs.bsu.edu
+"Ad Meorium Cthulhi Gloriam"            "Carpe Carp"
+
+
+------------------------------
+
+From caf-talk Caf Nov 29 16:25:56 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: kadie@cs.uiuc.edu (Carl M. Kadie)
+Subject: Article 12--University of North Texas Computer Policy
+Message-ID: <9211292125.AA01321@herodotus.cs.uiuc.edu>
+Date: Sun, 29 Nov 1992 09:25:42 GMT
+
+
+[Reference: gopher -p "1/UNT Procedures & Policies" gopher.unt.edu]
+
+               COMPUTER RESOURCES SECURITY POLICY
+
+ 1.  PURPOSE:
+
+     The purpose of this document is to:
+
+        * Establish policy for the protection of University
+          computer resources;
+
+        * Assign general responsibility for establishing,
+          implementing, and administering security policies,
+          standards, and procedures; and
+
+        * Establish the associated sanctions for loss,
+          corruption, misuse and/or unauthorized disclosure of
+          University computer resources.
+
+
+ 2.  SCOPE:
+
+     This policy applies to:
+
+        * centrally administered computer systems, departmental
+          computer systems, and personal computers, including all
+          means of accessing the preceding;
+
+        * all computerized institutional data regardless of the
+          office in which it resides or the format in which it is
+          used;
+
+        * any and all users of University computer resources; and
+
+        * all aspects of computer resource security including,
+          but not limited to, accidental or unauthorized
+          destruction, disclosure, misuse, or modification of or
+          access to University computer resources.
+
+     In addition to or in lieu of the above:
+
+        * Use of computer resources which are entrusted to the
+          University by other organizations (e.g., foundations
+          and government agencies) is governed by the terms and
+          conditions agreed upon with those organizations.
+
+        * Use of copyrighted data, software, and materials is
+          governed by the terms and conditions of the copyright.
+
+        * Use of external resources accessed via University
+          computer resources is subject to the guidelines of
+          those external resources.        * All use of University computer resources is subject to
+          federal and state regulations and laws, including, but
+          not limited to:
+
+             * the Texas Computer Crimes Statute (Section 1,
+               Title 7, Chapter 33 of the Texas Penal Code);
+             * Federal Copyright Law, Title 17, Section 117; and
+             * the Family Educational Rights and Privacy Act of
+               1974.
+
+        * Use of University computer resources is subject to all
+          other applicable University policies.
+
+
+ 3.  DEFINITION OF TERMS:
+
+    3.1.  Computerized institutional data - Data owned by the
+          University and used to conduct University business,
+          which is captured, stored, maintained, and/or accessed
+          using University computer systems, including all forms
+          of machine-readable data produced using University
+          computer systems.
+
+    3.2.  Computer hardware assets - Any and all equipment
+          involved in the operation of a computer system,
+          including, but not limited to, computers, data
+          communications equipment, workstations, and various
+          peripherals such as printers and plotters.
+
+    3.3.  Computer software assets - Any and all programs
+          involved in the operation of a computer system,
+          including, but not limited to, operating systems, data
+          communications software, data base management systems,
+          and applications software.
+
+    3.4.  University computer resources - any and all
+          computerized institutional data, computer hardware
+          assets, and computer software assets owned or licensed
+          by the University.
+
+    3.5.  Centrally administered computer system - a computer
+          system, including the supporting data communications
+          network, used for capturing, storing, maintaining, and
+          accessing computerized institutional data under the
+          direct management of the Computing Center.  This
+          includes campus-wide data communications networks such
+          as the broadband and fiber optics networks which span
+          departmental computer systems.
+    3.6.  Departmental computer system - any computer system,
+          including the supporting data communications network,
+          not under the direct management of the Computing Center
+          which contains multiple workstations connected by some
+          type of data communications network, including, but not
+          limited to, departmental minicomputers and the common
+          resources of local area networks (LANs), such as file,
+          database, and print servers, but not including personal
+          computers which can also be used as standalone
+          workstations.
+
+    3.7.  Personal computer - a microcomputer which may be used
+          as a standalone device and/or a workstation on a
+          network.
+
+    3.8.  Computer installation - the department responsible for
+          the operation of a computer system, that is, a
+          University office that maintains computer hardware,
+          software, and services for capturing, storing,
+          maintaining, and accessing computerized institutional
+          data.  The Computing Center is the computer
+          installation for centrally administered computer
+          systems.  The department which owns a departmental
+          computer system is that system's computer installation.
+          
+    3.9.  Workstation - any device capable of receiving data from
+          or transmitting data to a computer system.
+
+    3.10. Administrative application - a specialized automated
+          system used by an office/ department for administrative
+          purposes.  It does not include software tools for
+          microcomputers such as word processing, data base, and
+          spreadsheet software, but does include specialized
+          administrative applications developed using these tools
+          to capture, store, maintain, and/or access computerized
+          institutional data.
+
+    3.11. Data/application steward - The individual(s)
+          responsible for establishing the rights to access
+          specific data elements, a file and/or application.  In
+          this document data steward applies to stewardship of
+          data elements and/or files and application steward
+          applies to stewardship of applications.
+
+    3.12. Data custodian - A person who has de facto control over
+          access to computerized institutional data regardless of
+          medium.  In other words, a person who has a copy of a
+          report is a custodian of the data on that report.  A
+          person who has a copy of data on a diskette is
+          custodian of the data on that diskette.
+    3.13. Computer resources guardian - The person charged with
+          enforcement of security policies and procedures for the
+          computer installation.
+
+    3.14. Computer resources security committee - The committee
+          assigned the responsibility to review policy
+          recommendations for computer resources security for
+          University computer installations.
+
+    3.14. Computer resources security coordinator - A person in
+          the Computing Center (the Associate Vice President for
+          Computing or his/her designee) assigned the
+          responsibility for the formulation of computer security
+          procedures for the centrally administered computer
+          system and for the coordination of procedures for the
+          departmental computer systems and personal computers.
+
+
+ 4.  GENERAL POLICY STATEMENTS:
+
+    4.1.  University computer resources -- general:
+
+            *  University computer resources shall be used solely
+               for legitimate University-related purposes.
+
+            *  University computer resources may not be
+               transported without appropriate authorization.
+
+            *  University security measures must take into
+               account local, state, and federal reporting and
+               auditing requirements, as well as provisions to
+               eliminate, as far as is feasible, the incidence of
+               theft, fraud, destruction, or other abuses of the
+               University computer resources.
+
+            *  Violations or suspected violations of computer
+               measures or controls must be reported at once to
+               management and/or those responsible for computer
+               security.
+
+    4.2.  Access to University computer resources:
+
+            *  Access to University computer resources is
+               considered a privilege granted by the University. 
+               Users of University computer resources must not
+               abuse or allow others to abuse their access to
+               University computer resources.
+
+            *  Access to the University computer resource of any
+               computer installation must be approved by the
+               management of that computer installation.
+
+            *  All individuals authorized to use University
+               computer resources are responsible for all usage
+               of their logon access and should keep their
+               passwords confidential to protect University
+               computer resources.
+
+            *  Users may not access University computer resources
+               without appropriate authorization and then only
+               for the purposes for which their access is
+               authorized.
+
+            *  Any attempt to access or to assist in the access
+               of University computer resources via an
+               unauthorized means is a violation of this policy
+               and may subject the perpetrator(s) to sanctions
+               hereunder.
+
+    4.3.  Computerized institutional data:
+
+            *  All computerized institutional data is considered
+               to be an asset of the University and shall be
+               protected from loss, corruption, misuse, and
+               inappropriate disclosure.
+
+            *  Certain computerized institutional data, by law,
+               is confidential and may not be released.  Other
+               computerized institutional data, by University
+               policy, is confidential and likewise may not be
+               released.  Users of University computer resources
+               are responsible for the protection, privacy and
+               control of all data, regardless of the data
+               storage medium.
+
+    4.4.  Copying of computer software, data, and manuals:
+
+            *  Computer software, computer data, and/or software
+               manuals may not be copied or transmitted
+               electronically without appropriate prior consent.
+
+            *  Computer installations will take appropriate and
+               reasonable steps to inhibit attempts to obtain
+               unauthorized copies of computer software, computer
+               data, and/or software manuals.
+
+
+ 5.  GENERAL RESPONSIBILITIES:
+
+    5.1.  Information Resources Council
+
+       a. The Information Resources Council will review and make
+          recommendations to the Information Resources Steering
+          Committee concerning proposed changes to this policy.       b. The Information Resources Council will have the
+          authority to adopt a set of standards to implement this
+          policy and to approve changes to that set of standards. 
+          These standards will be subject to review by the
+          Information Resources Steering Committee.
+
+    5.2.  Standing Computer Resources Security Committee
+
+       a. The Chairman of the Information Resources Council will
+          appoint a Computer Resources Security Committee to be
+          chaired by a member of and reporting to the Information
+          Resources Council.  The committee membership should
+          include representatives of the major areas of the
+          University.  The committee membership should include as
+          ex-officio members the Computer Resources Security
+          Coordinator and other persons who are knowledgeable of
+          the various computer hardware and software platforms
+          used by the University.
+
+       b. The Computer Resources Security Committee will:
+
+            1. Serve as a forum for the exchange of security
+               information.
+
+            2. Promote discussion of possible computer security
+               policies and procedures.
+
+            3. Make recommendations to the Information Resources
+               Council regarding security issues.
+
+    5.3.  Computer Resources Security Coordinator
+
+       a. The Associate Vice President for Computing or his/her
+          designee will function as computer resources security
+          coordinator for the University.
+
+       b. Among the responsibilities of the Computer Resource
+          Security Coordinator will be:
+
+            1. Ensuring that adequate security procedures,
+               including backup, disaster recovery, and
+               contingency planning, have been formulated for the
+               centrally administered computer systems.
+
+            2. Coordinating the implementation of security
+               procedures, including backup, disaster recovery,
+               and contingency planning, for the departmental
+               computer systems and personal computers.
+
+            3. Establishing mechanisms for monitoring compliance
+               with and violations of University computer
+               resource security policies and standards. 
+               Establish procedures for investigation, logging,
+               and management reporting and follow-up of access
+               violations.
+
+            4. Performing periodic risk assessments and security
+               audits of existing and proposed systems.
+
+            5. Overseeing the development and maintenance of a
+               comprehensive Computer Resource Security Policy
+               Manual to include security procedures to implement
+               University computer resource security policies and
+               standards.
+
+            6. Overseeing the development of training courses for
+               training employees in University computer resource
+               security policies, standards, and procedures.
+
+    5.4.  Department Heads
+
+       a. Department heads shall ensure that their departmental
+          computer systems follow University computer security
+          policies and standards.
+
+       b. Department heads shall ensure that all employees in
+          their department have access to this policy and are
+          familiar with its provisions.
+
+       c. Department heads shall ensure that employees of that
+          department are trained in security measures in their
+          use of University computer resources and that their
+          employees abide by University computer resource
+          policies and standards.
+
+       d. Department heads will take corrective action on
+          security violations within the department and will
+          report serious violations to the Computer Resources
+          Security Coordinator.
+
+       e. Department heads will ensure that computer resource
+          security responsibilities are included in the
+          performance evaluation criteria of appropriate
+          personnel, including the computer resource guardians,
+          data/application stewards, and data custodians.
+
+       f. Department heads will inform appropriate computer
+          resource guardians when employees have terminated so
+          that the terminated employee's access to University
+          computer resources may be disabled.
+
+       g. Department heads will identify data and/or application
+          stewards and computer resource guardians for their
+          departments.    5.5.  Data/Application Stewards
+
+       a. Data/application stewards shall establish the rights to
+          access specific data elements, files, and/or
+          administrative applications via University computer
+          resources.
+
+       b. Data/application stewards shall ensure that the access
+          rights they have designated are enforced by the
+          security mechanisms of the computer system(s) on which
+          the data resides.
+
+       c. Data stewards shall establish the guidelines for
+          dissemination of the data on machine- and human-
+          readable forms within their purview of responsibility
+          and within the context of University policy and State
+          and federal regulations and laws.
+
+    5.6.  Data Custodian
+
+          Data custodians shall ensure that any computerized
+          institutional data in their custody, whether in
+          machine- or human-readable form, is disseminated and/or
+          disclosed in accordance with University policy and the
+          guidelines established by the data steward.
+
+    5.7.  Computer Resource Guardians
+
+       a. Computer resource guardians shall ensure that
+          procedures are put in place for the computer
+          installation to implement University computer resource
+          policies and standards.
+
+       b. Computer resource guardians shall ensure that, if
+          possible, the process by which a user accesses the
+          resources of their computer installation displays a
+          message advising users of their responsibility to
+          comply with the provisions of this policy.
+
+       c. Computer resource guardians are responsible to enforce
+          compliance with provisions of licensing agreements and
+          other computer resource contracts for the computer
+          installation.
+
+    5.8.  Individual Employees/Students
+
+       a. All individuals, whether faculty/staff employees or
+          students, may be required to sign a confidentiality
+          agreement upon receiving the privilege of using
+          University computer resources.       b. All individuals must comply with University computer
+          resource policies and standards.
+
+       c. All individuals authorized to use University computer
+          resources are responsible for all usage of their logon
+          access and should keep their passwords confidential to
+          protect University computer resources.
+
+       d. All individuals who use wide-area network services
+          (such as BITNET or the Internet) provided via
+          University computer resources shall abide by the
+          policies of those networks.
+
+       e. All individuals shall not attempt to access University
+          computer resources for which they have no
+          authorization.
+
+
+ 6. SANCTIONS:
+
+    6.1.  Penalties for violation of this policy range from loss
+          of computer resource usage privileges to dismissal from
+          the University, prosecution, and/or civil action.  Each
+          case will be determined separately on its merits. 
+          Referrals for legal action will be made through the
+          Office of the General Counsel.
+
+    6.2.  If the offender is a faculty member, his or her
+          supervisor (usually the department chair) shall
+          initially recommend to the dean and thereafter to the
+          Provost the appropriate sanction.  When termination is
+          recommended, the faculty member may appeal to the
+          University Review Committee or to the University Tenure
+          Committee, whichever is appropriate per the University
+          of North Texas Faculty Handbook.
+
+    6.3.  If the offender is a staff member, the procedures to be
+          followed are those specified in the "Discipline and
+          Discharge Policy" of the University of North Texas
+          Personnel Policy Manual.
+
+    6.4.  If the offender is a student, the procedures to be
+          followed are those specified in the "Code of Student
+          Conduct and Discipline" as printed in the University of
+          North Texas Student Guidebook.  If the student in
+          violation of this policy is also an employee of the
+          University, sanctions may include termination of
+          employment.
+
+ 
+
+
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

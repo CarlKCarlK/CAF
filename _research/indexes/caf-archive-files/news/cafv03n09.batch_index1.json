@@ -1,0 +1,374 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 28, 1993",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Debate exists over whether 'acceptable use' policies for university resources constitute a restriction on liberty or a necessary management of finite resources.",
+        "Concerns were raised that denying network access to users posting inflammatory material could lead to censorship and lack of due process.",
+        "Arguments were made that universities acting as libraries/bookstores may be exempt from certain 'harmful to minor' laws regarding sexual material.",
+        "Mike Godwin claimed that warning users about monitoring removes their 'reasonable expectation of privacy' under the Fourth Amendment and ECPA."
+      ],
+      "organizations": [
+        "EFF",
+        "CERT",
+        "Dept. of Justice"
+      ],
+      "people": [
+        "Leslie Regan Shade",
+        "Carl Kadie",
+        "Mike Godwin"
+      ],
+      "summary": "This digest abstract summarizes several debates regarding the boundaries of acceptable use in university computing environments. Key discussions include whether gaming via Gopher should be restricted, how administrators should handle inflammatory crossposting without infringing on free speech, and the legal liabilities of universities when minors access sexual material. It also touches upon privacy concerns related to keystroke monitoring by CERT and the Department of Justice.",
+      "title": "Abstract of CAF-News 03.09",
+      "topics": [
+        "acceptable use policy",
+        "academic freedom",
+        "network censorship",
+        "privacy",
+        "keystroke monitoring",
+        "Gopher"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "shade@ice.cc.mcgill.ca (Leslie Regan Shade)",
+      "item_count": 9,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv03n09",
+      "subject": "Article 0 -- Abstract of CAF-News 03.09",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 25, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The availability of free source code allows administrators to modify clients to fit local institutional policies.",
+        "Local network policies cannot and should not be enforced on remote Gopher servers."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "University of Waterloo",
+        "Linköping University"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Roger Watt",
+        "Lars Aronsson"
+      ],
+      "summary": "A discussion regarding whether gaming via the Gopher protocol should be permitted on institutional networks. Wes Morgan argues against imposing local restrictive policies on remote servers and suggests that since Gopher's source code is free, administrators should modify their clients to enforce local rules.",
+      "title": "Re: Access to Games through Gopher",
+      "topics": [
+        "Gopher protocol",
+        "Acceptable Use Policy",
+        "Open Source",
+        "Network Administration"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 25 Feb 1993 14:03:15 GMT",
+      "from": "morgan@engr.uky.edu (Wes Morgan)",
+      "item_count": 9,
+      "item_index": 1,
+      "message_id": "<C30CDG.B2t@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n09",
+      "subject": "Article 2--Re: [comp.infosystems.gopher]  Re: Access to Games through Gopher",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 27, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The cost of computing and networking facilities justifies organizational policies on acceptable resource consumption."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Waterloo",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Roger Watt",
+        "Carl Kadie"
+      ],
+      "summary": "A discussion regarding the restriction of access to games via the Gopher protocol. The author argues that limiting such access is not a matter of censorship or free society, but rather a matter of responsible resource management and cost accountability within an organization.",
+      "title": "Re: Access to Games through Gopher",
+      "topics": [
+        "resource allocation",
+        "acceptable use policy",
+        "Gopher protocol",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 27 Feb 1993 20:34:28 GMT",
+      "from": "Roger Watt <rwwatt@watserv1.uwaterloo.ca>",
+      "item_count": 9,
+      "item_index": 2,
+      "message_id": "<C34JtH.Lq3@watserv1.uwaterloo.ca>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n09",
+      "subject": "Article 3--Re: Access to Games through Gopher",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 28, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Suppressing information on a Gopher server in response to external complaints is an act of censorship.",
+        "Resource accountability (cost) is distinct from the right to disseminate information (liberty)."
+      ],
+      "organizations": [
+        "Northern Illinois University"
+      ],
+      "people": [
+        "Scott Bennett",
+        "Roger Watt"
+      ],
+      "summary": "Scott Bennett argues against the censorship of information disseminated via Gopher servers, distinguishing between the 'free' cost of resources and 'free' as in liberty. He contends that while acceptable use policies are valid for resource management, suppressing the dissemination of public information at the request of outside organizations constitutes inappropriate censorship in an academic environment.",
+      "title": "Article 4--Re: Access to Games through Gopher",
+      "topics": [
+        "censorship",
+        "Gopher protocol",
+        "acceptable use policy",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 28 Feb 1993 04:02:08 GMT",
+      "from": "bennett@mp.cs.niu.edu (Scott Bennett)",
+      "item_count": 9,
+      "item_index": 3,
+      "message_id": "<1993Feb28.040208.17730@mp.cs.niu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n09",
+      "subject": "Article 4--Re: Access to Games through Gopher",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 23, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Network expulsion should be based on written policy rather than personal opinion.",
+        "Users should have the right to a hearing and appeal before losing network access."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl M Kadie",
+        "Russell J. Pagenkopf",
+        "James Kerr"
+      ],
+      "summary": "Carl Kadie responds to a hypothetical scenario regarding the discipline of users posting inflammatory or irrelevant material on netnews. He challenges the notion of simple network access revocation by questioning the lack of due process, appeal mechanisms, and objective criteria for defining prohibited content. The post references EFF FAQ documents on netnews writing policies and due process.",
+      "title": "Article 7--Re: What would you do?",
+      "topics": [
+        "due process",
+        "netnews",
+        "academic freedom",
+        "network access",
+        "censorship"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 23 Feb 1993 19:07:36 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M Kadie)",
+      "item_count": 9,
+      "item_index": 4,
+      "message_id": "<C2x14o.1MA@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n09",
+      "subject": "Article 7--Re: What would you do?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 24, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Educational institutions may rely on loose definitions of research and free speech to justify hosting controversial content compared to corporations.",
+        "The use of search tools like Veronica can bypass local news feed screenings to find restricted materials."
+      ],
+      "organizations": [
+        "University of Montana"
+      ],
+      "people": [
+        "John-David Childs",
+        "Carl Kadie"
+      ],
+      "summary": "John-David Childs discusses the tension between academic freedom and liability regarding access to erotica on university networks. He notes that while educational institutions may justify such content via free speech or research, providing tools like Veronica (a Gopher search engine) could expose universities to lawsuits if minors access inappropriate materials.",
+      "title": "Article 8--Re: alt.binaries.pictures.erotica",
+      "topics": [
+        "academic freedom",
+        "network liability",
+        "content filtering",
+        "Gopher",
+        "Veronica"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 24 Feb 1993 00:48:03 GMT",
+      "from": "jdc@selway.umt.edu (John-David Childs)",
+      "item_count": 9,
+      "item_index": 5,
+      "message_id": "<1993Feb24.004803.13686@selway.umt.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n09",
+      "subject": "Article 8--Re: alt.binaries.pictures.erotica",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 24 Feb 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Most sexual material is constitutionally protected.",
+        "University libraries typically do not verify the age of people accessing sexually explicit print materials.",
+        "Universities acting as providers rather than publishers are unlikely to be held liable for access to obscene material."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation (EFF)"
+      ],
+      "people": [
+        "Carl M Kadie",
+        "John-David Childs"
+      ],
+      "summary": "Carl Kadie responds to concerns that universities could face lawsuits if minors access sexually explicit material via network services like Veronica and Healthline. He argues that such material is generally constitutionally protected and compares network access to university libraries providing adult magazines without age verification. The post includes references to EFF FAQs regarding university liability for Netnews and censorship.",
+      "title": "Re: alt.binaries.pictures.erotica",
+      "topics": [
+        "academic freedom",
+        "network censorship",
+        "university liability",
+        "obscenity laws",
+        "Netnews"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 24 Feb 1993 15:02:53 GMT",
+      "from": "kadie@cs.uiuc.edu (Carl M Kadie)",
+      "item_count": 9,
+      "item_index": 6,
+      "message_id": "<C2yKGu.5B5@cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n09",
+      "subject": "Article 9--Re: alt.binaries.pictures.erotica",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "24 Feb 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Playboy magazine was actively suing BBSes for copyright violations in 1993.",
+        "The author claims that the majority of postings on alt.binaries.pictures.erotica constitute copyright violations."
+      ],
+      "organizations": [
+        "University of California, Berkeley",
+        "Washington University at St. Louis"
+      ],
+      "people": [
+        "Joe Buck",
+        "Carl M Kadie"
+      ],
+      "summary": "Joe Buck argues that the primary legal threat to university news servers carrying erotica groups is copyright infringement rather than obscenity laws. He cites lawsuits by Playboy against BBS operators as evidence that publishers are aggressively protecting their digital assets. The post highlights a tension between free speech and intellectual property rights in early academic network administration.",
+      "title": "Article 10--Re: alt.binaries.pictures.erotica",
+      "topics": [
+        "copyright",
+        "academic freedom",
+        "Usenet",
+        "digital content",
+        "liability"
+      ]
+    },
+    "identity": {
+      "date": "24 Feb 1993 17:21:14 GMT",
+      "from": "jbuck@forney.berkeley.edu (Joe Buck)",
+      "item_count": 9,
+      "item_index": 7,
+      "message_id": "<1mgaqa$lua@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n09",
+      "subject": "Article 10--Re: alt.binaries.pictures.erotica",
+      "to_or_newsgroups": "comp.bbs.misc,misc.legal,news.admin.misc,news.admin.policy,tb.general,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 26, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Public notices about system monitoring eliminate a user's reasonable expectation of privacy.",
+        "The Department of Justice claimed ECPA was ambiguous regarding the capture of intruder keystrokes, which Godwin disputes based on 18 USC 2702 and 2511."
+      ],
+      "organizations": [
+        "EFF",
+        "CERT",
+        "Department of Justice"
+      ],
+      "people": [
+        "Mike Godwin",
+        "James Davies"
+      ],
+      "summary": "Mike Godwin analyzes a CERT advisory regarding the monitoring of remote logins and its relationship to the Electronic Communications Privacy Act (ECPA). He argues that government-mandated warnings about system monitoring serve to eliminate users' 'reasonable expectation of privacy.' This effectively allows law enforcement to bypass warrant requirements under the Fourth Amendment.",
+      "title": "Article 11--The CERT advisory revisited",
+      "topics": [
+        "privacy",
+        "surveillance",
+        "ECPA",
+        "Fourth Amendment",
+        "system monitoring"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 26 Feb 1993 21:10:34 GMT",
+      "from": "mnemonic@eff.org (Mike Godwin)",
+      "item_count": 9,
+      "item_index": 8,
+      "message_id": "<1993Feb26.211034.26616@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n09",
+      "subject": "Article 11--The CERT advisory revisited (Was Re: Company Abrogates Privacy)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

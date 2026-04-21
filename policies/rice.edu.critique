@@ -1,0 +1,282 @@
+!Newsgroups: alt.comp.acad-freedom.talk,comp.admin.policy
+From: kadie@eff.org (Carl M. Kadie)
+Subject:  Re: Rice U. - "System Administrator Statement of Ethics"
+Message-ID: <1992Oct15.135354.17230@eff.org>
+Date: Thu, 15 Oct 1992 13:53:54 GMT
+
+This is a critique of the Rice University System Administrator
+Statement of Ethics. (Information on access to the Statement is
+included with the references at the end of this article.) Strong parts
+of the statement keep users informed and limit the cases when a user's
+files can be modified. The statement could be improved by
+distinguishing between different reasons for sys admin access to files
+(e.g.  maintenance, emergency, investigations of a possible rule
+violations) and by detailing the authorization, notification, and
+documentation requirements for each. As it stands, the policy seem
+incompatible with Family Educational Rights and Privacy Act.
+
+The best parts of the statement say that sys admins should inform
+users about the "degree of privacy and confidentiality enjoyed by
+their data" and that "[s]ys-admin should endeavor to educate users
+about the ways they can increase the confidentiality of their data."
+The section on modification of user data is also pretty good. It says:
+
+>A sys-admin changing a user's file should attempt to:
+
+>	(a) minimize the changes made in order to protect the integrity
+>	of the user's data. Integrity includes both existence and
+>       attributes such as location and access permissions.
+
+>	(b) unless a security incident is being investigated and
+>	notification would jeopardize the investigation, notify the
+>       user of the changes made, including an explanation of the
+>       reasons which made the changes necessary.
+
+>	(c) maintain enough records to be able to justify the action to
+>	management.
+
+
+The heart of the statement, however, is weak. It says:
+
+>Sys-admins may disclose the contents of protected files to others
+>without the user's prior permission when the sys-admin(s) believe
+>that policies or laws were violated.
+
+I believe this standard is too weak and that it violates several legal
+and ethical standards. Legally, it seems to ignore the requirements of
+the Family Educational Rights and Privacy Act which applies to almost
+all public and private universities in the U.S. The Act puts strict
+constraints on what a university employee can disclose about a student
+and to whom that information can be disclosed. In addition, the policy
+might contradict the Electronic Communications Privacy Act (ECPA).
+(Until a court decides if the ECPA applies to universities, no one can
+no for sure; however, a reasonable case can be made that it does.)
+
+Ethically, policy allows searches and disclosure without
+authorization, notification, or documentation. Contrast this with the
+4th Amendment of the U.S. Constitution:
+
+        "The right of the people to be secure in their persons,
+        houses, papers, and effects, against unreasonable searches and
+        seizures, shall not be violated; and no warrants shall issue,
+        but upon probable cause, supported by oath or affirmation, and
+        particularly describing the place to be searched and the
+        persons or things to be seized."
+
+The Constitution does not have legal force on a private university
+such as Rice, but can serve as an ethical model. Read this way, it
+says that searches for evidence of rule breaking should be based on
+reasonable suspicion and should, as a check, be authorized by an
+independent authority.
+
+Another model for computer privacy policy at a university is the
+university's general privacy policy. I don't know Rice's general
+policy, but here is policy at my school, the University of Illinois at
+Urbana:
+
+    "IV. Privacy
+
+    A. Members of the University community have the same rights of
+    privacy as other citizens and surrender none of those rights by
+    becoming members of the academic community. These rights of
+    privacy extend to residence hall living. Nothing in University
+    regulations or contracts shall give University officials authority
+    to consent to a search by police or other government officials of
+    offices assigned or living quarters leased to individuals except
+    in response to a properly executed search warrant or search
+    incident to an arrest.
+
+    B. When the University seeks access to an office assigned or
+    living quarters leased to an individual to determine compliance
+    with provisions of applicable multiple-dwelling unit laws,
+    ordinances, and regulations, or for improvement or repairs, the
+    occupant shall be notified of such action not less that
+    twenty-four hours in advance.  There may be entry without notice
+    in emergencies where imminent danger to life, safety, health, or
+    property is reasonably feared and for custodial service.
+
+    C. The University may not conduct or permit a search of an office
+    assigned or living quarters leased to an individual except in
+    response to a properly executed search warrant or search incident
+    to an arrest."
+
+I believe that "[p]ersonal files on university's computers (for
+example, files in a user's home directory) should have the same
+privacy protection as personal files in university-assigned space in
+an office, lab, or dormitory (for example, files in a graduate
+student's desk). [And that p]rivate communications via computer should
+have the same protections as private communications via telephone."
+
+At the very least, this should mean authorization before nonemergency
+searches and strict limits on disclosure.
+
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+policies/rice.edu
+=================
+* Edu -- Rice U.
+
+Computer policies for Rice University, especially Owlnet. (Rice is a
+private University in Houston, Texas.) Interesting features include a
+Sys Admin Statement of Ethics and student committee that advises on
+policy and handles some of the discipline.
+
+=================
+policies/README
+=================
+* Computer policies from many schools (with critiques)
+
+Computer Policy and Critiques Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is a collection of the computer policies of many schools and
+networks. The collection also includes critiques of some of the
+policies.
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/policies gopher.eff.org
+
+The archive is also accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.77.172.4). It is in directory "pub/academic/policies".
+For email access, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom/policies <filenames>
+
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact Carl Kadie (kadie@eff.org). Directory "widener" contains
+additional policies (but not critiques).
+
+=================
+books/van_tol,_joan_e.records
+=================
+     College and university student records : a legal compendium / 
+edited by Joan E. Van Tol. Washington, D.C. : National Association of
+College and University Attorneys, c1989. 
+     iii, 257 p. ; 28 x 22 cm. 
+       1. Universities and colleges--Law and legislation--United States. 
+  2. Personnel records in education--Law and legislation--United
+States.  I. Van Tol, Joan E.  II. National Association of College and
+University Attorneys (U.S.) 
+     ocm20-290250  
+
+Review: Everything that is known about student records and the law,
+especially the Family Educational Rights and Privcy Act (FERPA,
+Buckley Amendment). The only stuff that it is missing is stuff that
+hasn't been decided yet.
+
+Score: 10 of 10
+
+Excerpts cover provisions on directory information.
+
+=================
+law/ecpa.1986.godwin
+=================
+* Privacy -- E-mail -- ECPA - University Site
+
+Mike Godwin, legal staff for the Electronic Frontier Foundation (EFF)
+says that the Electronic Communications Privacy Act (ECPA) could be
+reasonably construed to protect university email.
+
+=================
+law/ecpa.1986
+=================
+* Privacy -- E-mail -- ECPA -- Excerpts
+
+* ECPA -- 1986
+
+Portions of the Electronic Communications Privacy Act of 1986 (ECPA) related
+to e-mail privacy.
+
+=================
+law/constitution.us
+=================
+* Constitution -- U.S. -- Full Text
+
+The Constitution of the United States
+
+=================
+academic/student.code.uiuc
+=================
+* U. of Illinois at U-C -- Student Code -- Excerpts
+
+Excerpts from the University of Illinois at Urbana-Champaign's Code on
+Campus Affairs and Regulations Applying to All Students (Aug. 1985)
+
+=================
+statements/caf-statement
+=================
+* Computer and Academic Freedom Statement -- Draft
+
+This is an attempt to codify the application of academic freedom to
+academic computers. It reflects our seven months of on-line discussion
+about computers and academic freedom. It covers free expression, due
+process, privacy, and user participation.
+
+Comments and suggestions are very welcome (especially when posted to
+CAF-talk). All the documents referenced are available on-line.
+(Critiqued).
+
+=================
+statements/caf-statement.critique
+=================
+* Computer and Academic Freedom Statement -- Draft -- Critique
+
+yes
+This is a critique of an attempt to codify the application of academic
+freedom to academic computers. It reflects our seven months of on-line
+discussion about computers and academic freedom. It covers free
+expression, due process, privacy, and user participation.
+
+Additional comments and suggestions are very welcome (especially when
+posted to CAF-talk). All the documents referenced are available
+on-line.
+
+=================
+=================
+
+If you have gopher, you can browse the CAF archive with the command
+   gopher gopher.eff.org
+
+These document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/policies/rice.edu
+  pub/academic/policies/README
+  pub/academic/books/van_tol,_joan_e.records
+  pub/academic/law/ecpa.1986.godwin
+  pub/academic/law/ecpa.1986
+  pub/academic/law/constitution.us
+  pub/academic/academic/student.code.uiuc
+  pub/academic/statements/caf-statement
+  pub/academic/statements/caf-statement.critique
+
+To get the file(s) by email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/policies rice.edu
+send acad-freedom/policies README
+send acad-freedom/books van_tol,_joan_e.records
+send acad-freedom/law ecpa.1986.godwin
+send acad-freedom/law ecpa.1986
+send acad-freedom/law constitution.us
+send acad-freedom/academic student.code.uiuc
+send acad-freedom/statements caf-statement
+send acad-freedom/statements caf-statement.critique
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =
+

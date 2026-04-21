@@ -1,0 +1,388 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "August 30, 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "Rice University allows possession of Crack and COPS for security testing, though unauthorized access remains prohibited.",
+        "The University of Manitoba banned alt.sex* newsgroups.",
+        "Baylor University may exclude Usenet newsgroups based on religious doctrine rather than individual article screening.",
+        "CPSR proposed privacy guidelines for the National Research and Education Network (NREN)."
+      ],
+      "organizations": [
+        "EFF",
+        "Rice University",
+        "University of Manitoba",
+        "Baylor University",
+        "CPSR"
+      ],
+      "people": [
+        "Elizabeth M. Reid",
+        "Carl Kadie",
+        "Marc Rotenberg"
+      ],
+      "summary": "This digest abstract summarizes a series of discussions regarding the possession of security tools like Crack and COPS on university systems. It also covers censorship of Usenet newsgroups at the University of Manitoba and Baylor University, as well as privacy guidelines for the National Research and Education Network (NREN).",
+      "title": "Article 0 -- Abstract of CAF-News 02.42",
+      "topics": [
+        "security software",
+        "Usenet censorship",
+        "academic freedom",
+        "network privacy",
+        "system administration policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "emr@eff.org (Elizabeth M. Reid)",
+      "item_count": 9,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n42",
+      "subject": "Article 0 -- Abstract of CAF-News 02.42",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "26 Aug 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Rice University does not explicitly disallow the possession or running of Crack or COPS.",
+        "Policy focuses on prohibiting unacceptable actions rather than specific technologies."
+      ],
+      "organizations": [
+        "Rice University",
+        "Owlnet"
+      ],
+      "people": [
+        "Joseph A. Watters",
+        "Daniel Zabetakis"
+      ],
+      "summary": "Joseph A. Watters discusses Rice University's policy on security auditing tools like Crack and COPS. He states that the university does not ban possession of these tools, but instead prohibits unauthorized system access regardless of the tool used. The administration uses these programs internally to identify vulnerabilities and force users to update passwords or fix security holes.",
+      "title": "Policy regarding Crack",
+      "topics": [
+        "security software",
+        "acceptable use policy",
+        "password auditing",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "26 Aug 1992 21:19:34 GMT",
+      "from": "jaw@owlnet.rice.edu (Joseph A. Watters)",
+      "item_count": 9,
+      "item_index": 1,
+      "message_id": "<BtM0Ko.6zx@rice.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n42",
+      "subject": "Article 1--Re: Policy regarding Crack",
+      "to_or_newsgroups": "comp.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Aug 26, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Academic freedom does not imply automatic organizational support for any endeavor a student or faculty member wishes to undertake.",
+        "Resource allocation can be limited based on the conceptual framework of the department (e.g., Engineering).",
+        "Monitoring user files to enforce software bans is considered unacceptable by the author."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "University of Illinois Urbana-Champaign",
+        "Columbia University"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Carl M. Kadie",
+        "Daniel Zabetakis"
+      ],
+      "summary": "A discussion among system administrators regarding the legality and ethics of banning password-cracking software on university systems. Wes Morgan argues that academic freedom does not entitle users to a 'blank check' for computing resources outside their curricular framework. He suggests that policy-based bans are preferable to invasive surveillance of user files to prevent cracking.",
+      "title": "Policy regarding Crack",
+      "topics": [
+        "password cracking",
+        "acceptable use policy",
+        "academic freedom",
+        "system administration",
+        "surveillance"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 26 Aug 1992 21:40:17 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 9,
+      "item_index": 2,
+      "message_id": "<1992Aug26.174017.1077@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n42",
+      "subject": "Article 2--Re: Policy regarding Crack",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Aug 28, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Immediate account revocation without prior notice is common but often a 'kneejerk reaction' by admins.",
+        "A distinction exists between 'supported non-academic use' (admin-provided) and 'individual non-academic use' (user-created).",
+        "The author proposes a 'leveraged democracy' where users request services, but the admin holds a 'reasonable veto' based on global system resource views.",
+        "Some institutions implemented strict time-of-day access restrictions as a reaction to historical hacking/cracking incidents."
+      ],
+      "organizations": [
+        "University of Kentucky"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Olaf Titz"
+      ],
+      "summary": "A discussion between system administrators regarding the balance of power between admins and users in university computing environments. The participants debate acceptable use policies, specifically concerning gaming, resource quotas, and the ethics of account revocation. They explore models of 'leveraged democracy' where user desires are balanced against technical constraints determined by the administrator.",
+      "title": "Article 4--Re: Policy regarding Crack",
+      "topics": [
+        "Acceptable Use Policy",
+        "System Administration",
+        "Academic Freedom",
+        "Resource Allocation",
+        "User Rights"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 28 Aug 1992 18:09:32 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 9,
+      "item_index": 3,
+      "message_id": "<1992Aug28.140932.657@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n42",
+      "subject": "Article 4--Re: Policy regarding Crack",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "28 Aug 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Academic freedom should mean that all restrictions on resource use must be justified by consensus of the people involved.",
+        "Arbitrary time-of-day access restrictions are often implemented based on political reasons or misunderstandings of 'hacker' activity rather than technical needs.",
+        "Policy development for computer resources should involve a cooperative board of staff and students to avoid administrative dictatorship."
+      ],
+      "organizations": [
+        "University of Karlsruhe"
+      ],
+      "people": [
+        "Olaf Titz"
+      ],
+      "summary": "A discussion between a student and a system administrator regarding the boundaries of academic freedom, administrative oversight of user files, and acceptable use policies. The exchange contrasts technical necessity (e.g., disk quotas) with arbitrary restrictions based on political reasons or perceived 'hacker' activity. It advocates for a democratic approach to policy-making involving both staff and students rather than an 'admin dictatorship'.",
+      "title": "Article 5--Re: Policy regarding Crack",
+      "topics": [
+        "academic freedom",
+        "acceptable use policy",
+        "system administration",
+        "user privacy",
+        "digital rights"
+      ]
+    },
+    "identity": {
+      "date": "28 Aug 92 15:31:08 GMT",
+      "from": "S_TITZ@iravcl.ira.uka.de (Olaf Titz)",
+      "item_count": 9,
+      "item_index": 4,
+      "message_id": "<1992Aug28.153108.2829@rz.uni-karlsruhe.de>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n42",
+      "subject": "Article 5--Re: Policy regarding Crack",
+      "to_or_newsgroups": "comp.admin.policy",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Aug 24, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Academic sysadmins are less likely to rescind email privileges for offensive behavior than commercial sysadmins.",
+        "Email privileges in academic settings are generally only revoked for illegal activities, such as distributing pirate software."
+      ],
+      "organizations": [
+        "University of Kentucky College of Engineering"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Seth Bradley"
+      ],
+      "summary": "Wes Morgan responds to a discussion about handling offensive emails and the practice of reporting users to system administrators. As a sysadmin at the University of Kentucky, Morgan argues that academic institutions are less likely than commercial ones to revoke email privileges for interpersonal conflicts. He suggests that maintaining full communication privileges necessitates accepting occasional offense as part of the digital environment.",
+      "title": "Re: Public posting of private e-mail",
+      "topics": [
+        "netiquette",
+        "sysadmin policy",
+        "academic freedom",
+        "email filtering"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 24 Aug 1992 13:23:53 GMT",
+      "from": "morgan@ms.uky.edu (Wes Morgan)",
+      "item_count": 9,
+      "item_index": 5,
+      "message_id": "<1992Aug24.92353.3596@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n42",
+      "subject": "Article 6--Re: Public posting of private e-mail.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "August 24, 1992",
+      "historical_relevance": "high",
+      "item_type": "pointer",
+      "notable_claims": [
+        "The University of Manitoba banned all newsgroups dealing with sex following unfavorable publicity.",
+        "Blocking entire categories of electronic discussion is characterized as a 'sledgehammer' approach that contradicts academic intellectual freedom."
+      ],
+      "organizations": [
+        "University of Manitoba",
+        "The Globe & Mail",
+        "City-TV"
+      ],
+      "people": [
+        "Dronon Brassmane",
+        "P.G. Blunden",
+        "Tom Turrittin"
+      ],
+      "summary": "Dronon Brassmane shares a letter to the editor from The Globe & Mail regarding the censorship of Usenet newsgroups. The letter criticizes the University of Manitoba for banning all sex-related newsgroups in response to negative media coverage. It argues that such bans violate academic traditions of intellectual freedom and suggests treating electronic media like library collections.",
+      "title": "Censorship Update",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "Usenet",
+        "internet policy",
+        "obscenity"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 24 Aug 1992 20:57:12 GMT",
+      "from": "Dronon Brassmane <dronon@zooid.guild.org>",
+      "item_count": 9,
+      "item_index": 6,
+      "message_id": "<1992Aug24.205712.7453@zooid.guild.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n42",
+      "subject": "Article 7--Censorship Update",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "August 27, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Baylor University screens out all 'alt.' and 'rec.' newsgroups.",
+        "Baylor's computer policy restricts electronic communications to university-related activities only.",
+        "The University of Texas CS department policy is described as broader and vaguer than Baylor's."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Baylor University",
+        "University of Texas"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "William Mygdal"
+      ],
+      "summary": "Carl Kadie discusses reports of Usenet newsgroup screening and message censorship at Baylor University. He compares Baylor's restrictive religious-based environment and computer policies with those of the University of Texas at Austin. The exchange highlights early debates over whether university computer media should be treated like traditional library materials.",
+      "title": "Article 8--Re: (none)",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "acceptable use policies",
+        "academic freedom",
+        "religious institutions"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 27 Aug 1992 15:07:51 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 9,
+      "item_index": 7,
+      "message_id": "<1992Aug27.150751.11322@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n42",
+      "subject": "Article 8--Re: (none)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 21, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Commercialization of NREN will exacerbate privacy problems through the sale of user lists and increased government demands for records.",
+        "Technical safeguards like cryptography are necessary but insufficient without legislative and legal protections.",
+        "The Electronic Communications Privacy Act (ECPA) of 1986 is inadequate as it protects message content but not transaction records."
+      ],
+      "organizations": [
+        "Computer Professionals for Social Responsibility (CPSR)",
+        "National Commission on Libraries and Information Science (NCLIS)",
+        "American Library Association",
+        "Federal Communications Commission (FCC)",
+        "National Security Agency",
+        "Federal Bureau of Investigation"
+      ],
+      "people": [
+        "Marc Rotenberg",
+        "Richard Civille",
+        "Jerome Wiesner"
+      ],
+      "summary": "Marc Rotenberg of CPSR testified before the National Commission on Libraries and Information Science regarding privacy protections for the National Research and Education Network (NREN). He argued that the commercialization of NREN would increase risks of data harvesting and government surveillance. The testimony emphasizes that while cryptography is useful, legal and policy frameworks are essential to protect intellectual freedom.",
+      "title": "Proposed Privacy Guidelines for the NREN",
+      "topics": [
+        "network privacy",
+        "NREN",
+        "commercialization",
+        "cryptography",
+        "surveillance",
+        "data protection"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 30 Aug 1992 20:24:32 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 9,
+      "item_index": 8,
+      "message_id": "<1992Aug30.202432.22763@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n42",
+      "subject": "Article 9--NREN Privacy Policy Proposal by CSPR",
+      "to_or_newsgroups": "",
+      "truncated_for_model": true
+    }
+  }
+]

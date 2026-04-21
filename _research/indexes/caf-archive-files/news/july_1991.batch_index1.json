@@ -1,0 +1,541 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 11, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Student was initially charged with violating 'miscellaneous rules' before receiving specific charges.",
+        "Charges included unauthorized system shutdown and the storage of non-academic files on a Mac server."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "Academic Computing Services",
+        "Electronic Frontier Foundation",
+        "University of Denver"
+      ],
+      "people": [
+        "Steven Brack",
+        "Carl Kadie"
+      ],
+      "summary": "Steven Brack, a student at Ohio State University, was indefinitely expelled from Academic Computing Services (ACS) computers. The charges against him included executing the 'shutdown' command on a Unix system and posting obscenities to Usenet newsgroups. This case highlights early conflicts regarding university computing policies and the vagueness of acceptable use rules.",
+      "title": "Ohio State",
+      "topics": [
+        "student discipline",
+        "acceptable use policy",
+        "Unix",
+        "Usenet",
+        "academic computing"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "Ohio State",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 15, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Lack of communication between system staff and users is the primary cause of abuse problems.",
+        "Students perceive systems as robust 'games' to be explored, while administrators perceive them as fragile legacies.",
+        "The burden of proof for charges against students should rest upon university officials."
+      ],
+      "organizations": [
+        "Ohio State University",
+        "Academic Computing Services (ACS)",
+        "Electronic Frontier Foundation (EFF)",
+        "University of Denver"
+      ],
+      "people": [
+        "Carl Kadie",
+        "Steven Brack",
+        "Sanjay Kapur",
+        "William Murray"
+      ],
+      "summary": "Carl Kadie analyzes the conflict between a student, Steven Brack, and Ohio State's Academic Computing Services (ACS), arguing that the dispute stemmed from poor communication and differing perceptions of system robustness. The post critiques ACS for expelling Brack without due process based on charges including accidental newsgroup postings and file reformatting. Kadie advocates for written policies, respect for freedom of expression, and guaranteed due process for students.",
+      "title": "Re: Ohio State",
+      "topics": [
+        "due process",
+        "system administration",
+        "academic freedom",
+        "user policies",
+        "freedom of expression"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "Re: Ohio State",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "ACS employees were reportedly instructed not to discuss the Brack case on the network.",
+        "There is a dispute over whether ACS has the authority to ban users from departmental machines and subnetworks beyond their own systems."
+      ],
+      "organizations": [
+        "The Ohio State University",
+        "Academic Computing Services (ACS)",
+        "Electronic Frontier Foundation (EFF)"
+      ],
+      "people": [
+        "Steve Romig",
+        "Carl Kadie",
+        "Karl Kleinpaste",
+        "Mr. Brack",
+        "Dr. Dixon"
+      ],
+      "summary": "Steve Romig discusses a dispute involving Mr. Brack and the Academic Computing Services (ACS) at The Ohio State University. The discussion centers on whether ACS had the authority to ban a user from all university networks, including library systems, and the lack of transparency regarding the charges brought against the student.",
+      "title": "Computers and Academic Freedom (news version) 1.15 [should be 1.16?]",
+      "topics": [
+        "network access",
+        "university policy",
+        "due process",
+        "student rights"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Steve Romig <romig@cis.ohio-state.edu>",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<9107151544.AA12012@sonofa.cis.ohio-state.edu>",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "Computers and Academic Freedom (news version) 1.15 [should be 1.16?]",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 1991",
+      "historical_relevance": "high",
+      "item_type": "article",
+      "notable_claims": [
+        "The student admitted to being part of an 'elite group of hackers/phreakers' and assisting in a break-in.",
+        "UGA officials chose Student Judiciary proceedings over criminal charges to better serve the student."
+      ],
+      "organizations": [
+        "University of Georgia",
+        "Electronic Frontier Foundation"
+      ],
+      "people": [
+        "Rita Rouvalis",
+        "Michael Covington",
+        "Carl M. Kadie"
+      ],
+      "summary": "A University of Georgia student was sentenced to a two-quarter suspension by the Student Judiciary after emailing the /etc/passwd file from the Athena system to an external hacker. The university opted for internal disciplinary action via the Student Judiciary rather than pursuing criminal charges. The author argues that the process provided fair due process and measured deliberation during a period of 'hacker hysteria'.",
+      "title": "student suspended for mailing passwords at U. of Georgia",
+      "topics": [
+        "student discipline",
+        "hacking",
+        "academic freedom",
+        "computer security",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1991Jul30.013420.19111@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "student suspended for mailing passwords at U. of Georgia",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Administrative power imbalances in campus computing can lead to the harassment of students without easy recourse.",
+        "Lack of an ombudsman or clear conduct policy makes it difficult for students to challenge sysadmin actions.",
+        "Sysadmins may use their position to blackball students from local employment or insert false statements into university records."
+      ],
+      "organizations": [
+        "Virginia Commonwealth University",
+        "University of Kentucky"
+      ],
+      "people": [
+        "Helen O'Boyle",
+        "Wes Morgan"
+      ],
+      "summary": "Helen O'Boyle describes her struggle against a system administrator at Virginia Commonwealth University (VCU) who harassed her and damaged her academic reputation. She details the failure of university bureaucracy to protect students from administrative abuse and the difficulty of finding an impartial ombudsman. The post argues for equal effort requirements for both sysadmins and users when initiating disciplinary or corrective actions.",
+      "title": "User recourse",
+      "topics": [
+        "sysadmin abuse",
+        "student rights",
+        "university bureaucracy",
+        "due process",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "zaphod.mps.ohio-state.edu!think.com!mintaka!ai-lab!wookumz.gnu.ai.mit.edu!helen@uunet.uu.net",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "\"User recourse\" (LONG) (was: Ohio State)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 26, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Student premises and personal possessions should not be searched without appropriate authorization except in extreme emergencies.",
+        "Students should be present during searches of institution-controlled premises whenever possible."
+      ],
+      "organizations": [
+        "AAUP",
+        "EFF"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "Carl Kadie shares an excerpt from the 1977 AAUP Joint Statement on Rights and Freedoms of Students regarding the investigation of student conduct. The text outlines requirements for authorization and notification before searching premises or personal possessions occupied by students. This highlights early academic discourse on privacy rights and institutional oversight in student environments.",
+      "title": "Ethics of \"Peeking;\" requirement to notify subject",
+      "topics": [
+        "student privacy",
+        "search and seizure",
+        "academic freedom",
+        "institutional policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "Ethics of \"Peeking;\" requirement to notify subject",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.9,
+      "date_or_period": "July 25, 1991",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "There was proposed legislation in 1991 regarding the legality or procedure of computer searches."
+      ],
+      "organizations": [],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl M. Kadie shared a notification regarding proposed legislation concerning the searching of computers. The item serves as an alert to the community about potential legal threats to digital privacy and data access.",
+      "title": "FYI: Proposed law on computer searches",
+      "topics": [
+        "legislation",
+        "computer searches",
+        "privacy",
+        "legal policy"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "\"Carl M. Kadie\" <kadie@cs.uiuc.edu>",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<9107262014.AA00439@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "FYI: Proposed law on computer searches",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "June-July 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Proposed legislation would require a supplement to the inventory of seized electronic material every ten court days.",
+        "The proposal suggests that search warrants for electronic material are fundamentally different from traditional search warrants.",
+        "The draft aims to prevent seized digital gear and files from disappearing into law enforcement custody indefinitely."
+      ],
+      "organizations": [
+        "CPSR-Berkeley",
+        "BMUG",
+        "EFF",
+        "ACLU",
+        "ACM"
+      ],
+      "people": [
+        "Donald G. Ingraham",
+        "Chris Hibbert"
+      ],
+      "summary": "Chris Hibbert shares a draft proposal by Assistant District Attorney Donald G. Ingraham to amend the California Penal Code regarding search warrants for electronically stored material. The proposal seeks to align state law with federal privacy acts and establish strict guidelines for the inventory, analysis, and return of seized digital evidence to protect business and private communications.",
+      "title": "Proposed law on computer searches",
+      "topics": [
+        "search warrants",
+        "digital privacy",
+        "electronic evidence",
+        "California Penal Code",
+        "law enforcement guidelines"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "xanadu!hibbert@uunet.UU.NET",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "Proposed law on computer searches",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "August 2, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The Ohio State ACS policy lacks explicit due process protections for users facing denial of access.",
+        "University computer policies should be developed with the participation of the academic community and consistent with general university standards."
+      ],
+      "organizations": [
+        "The Ohio State University",
+        "Office of Academic Computing",
+        "EFF"
+      ],
+      "people": [
+        "Carl Kadie"
+      ],
+      "summary": "Carl Kadie critiques the 'Policy on Abuse of Computers and Networks' from The Ohio State University's Office of Academic Computing. He argues that the policy lacks due process protections and fails to define 'unreasonable' use or provide clear procedures for appeals. To support his critique, he cites the Joint Statement on Rights and Freedoms of Students regarding procedural standards in disciplinary proceedings.",
+      "title": "Re: Ohio State ACS policy",
+      "topics": [
+        "academic freedom",
+        "due process",
+        "acceptable use policy",
+        "student rights"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "Re: Ohio State ACS policy",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Creating a universal computing policy is ineffective as each institution must decide its own rules.",
+        "Fair and impartial enforcement of institutional policy is more critical than the specific content of the policy itself."
+      ],
+      "organizations": [],
+      "people": [
+        "Aydin Edguer"
+      ],
+      "summary": "Aydin Edguer responds to a discussion about creating computing policy guides for universities. He suggests using RFC 1244 as a framework for identifying key security and access questions rather than attempting to draft a universal policy. Edguer argues that individual institutions must determine their own policies but should apply them fairly and impartially.",
+      "title": "Re: Authority of Public Universities",
+      "topics": [
+        "computing policy",
+        "academic freedom",
+        "system administration",
+        "RFC 1244"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "edguer@alpha.ces.cwru.EDU (Aydin Edguer)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<9108021514.AA12751@charlie.CES.CWRU.Edu>",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "Re: Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 30, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "A proposed amendment by Laurence Tribe would extend constitutional rights to any new technology.",
+        "The amendment would clarify the right to free speech on state university computers tied into the network.",
+        "The right of privacy was first articulated by Brandeis in a late 19th-century Harvard Law Review article."
+      ],
+      "organizations": [
+        "Harvard Law School",
+        "Alaska Supreme Court"
+      ],
+      "people": [
+        "Dean Gottehrer",
+        "Laurence Tribe",
+        "Brandeis"
+      ],
+      "summary": "Dean Gottehrer discusses a proposed constitutional amendment by Laurence Tribe intended to ensure that free speech and privacy protections apply regardless of the technological medium used. Gottehrer argues that such an amendment would explicitly protect freedom of expression on state university computers connected to the network. He also provides a legal context for the right to privacy in the United States.",
+      "title": "27th Amendment",
+      "topics": [
+        "Constitutional Law",
+        "Academic Freedom",
+        "Digital Privacy",
+        "Free Speech",
+        "State Universities"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "\"Dean Gottehrer\"  <FFDMG%ALASKA.BITNET@CORNELLC.cit.cornell.edu>",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "27th Amendment",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 31, 1991",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Public universities are no longer considered 'In Loco Parentis' and the relationship with students is contractual.",
+        "Student newspapers at public institutions generally cannot be censored prior to publication.",
+        "Teachers and administrators at public institutions are generally considered public officials and should search only with a warrant.",
+        "A student's right to attend college is considered a 'property' right under the Fourteenth Amendment."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Partrica A. Hollander",
+        "D. Parker Young",
+        "Donald D. Gehring"
+      ],
+      "summary": "Carl Kadie shares a summary of legal guidelines regarding the constitutional limits on public universities' authority. The text emphasizes that students have contractual and First Amendment rights, as well as protections against unreasonable searches and seizures. It highlights the requirement for due process before a student is deprived of their reputation or right to attend college.",
+      "title": "Authority of Public Universities",
+      "topics": [
+        "academic freedom",
+        "constitutional law",
+        "student rights",
+        "due process",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1991Jul30.202126.7529@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "July 31, 1991",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The relationship between public universities and students is now viewed as contractual rather than 'in loco parentis'.",
+        "Student enrollment creates a property interest that triggers constitutional guarantees at public institutions.",
+        "Teachers acting within their employment scope are agents of the institution, making the institution liable for their acts."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie"
+      ],
+      "summary": "Carl Kadie shares excerpts from a legal guide regarding the shift in public university authority from 'in loco parentis' to a contractual relationship. The text argues that students have contractual and constitutional rights based on tuition payments and institutional advertisements. It also discusses how teachers act as agents of the institution, potentially creating liability for breach of contract.",
+      "title": "Authority of Public Universities",
+      "topics": [
+        "academic freedom",
+        "student rights",
+        "contract law",
+        "institutional liability"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1991Jul31.144939.23532@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/july_1991",
+      "subject": "Re: Authority of Public Universities",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

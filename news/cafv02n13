@@ -1,0 +1,891 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.13 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 13
+
+
+----------------------------------------------------------------------
+
+From: david@swan.vm.iastate.edu (David Swanlund)
+Subject: Article 0 -- Abstract of CAF-News 02.13
+
+[Week ending March 15, 1992
+
+[With this issue March is done. The guest editor for this issue is
+David Swanlund (david@swan.vm.iastate.edu).  - Carl]
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Note 1 is about censorship and SWITCH (in Switzerland -cmk).
+
+1. The majority does not have the right to restrict or censor  
+information desired by the minority, even if that material is  
+offensive. In this regard, "Switch is like a library, worse than that  
+switch is not only censoring their library, they also put up  
+roadblocks and refuse people access to their libraries." Would-be  
+censors should have to "_PROVE_ beyond reasonable doubt in a just  
+court that something is harming others (and arguably that they don't  
+wish to be harmed)" before that something is restricted or censored.
+    <16825.9203091724@pyr.swan.ac.uk>
+
+Note 2 is a forwarded message about a proposed bill to allow easy  
+wire tapping by the FBI.
+
+2.  The Bush administration is a proponent of a bill to ensure that  
+all commercial and private telephone exchanges allow easy wire  
+tapping by the FBI. Non-compliants would be fined up to $10k/day. "At  
+best, the FCC's easy-wiretapping requirements would be a hinderance  
+to commerce", and "At worst, roving wiretaps could become easier."
+    <199203101029.AA06819@eff.org>
+
+Note 3 is about commercial use restriction on the net.
+
+3. "We've built this highway, but imposed these restrictions on who  
+can use the highways, only automotive engineers, so the car doesn't  
+look awfully useful. Imagine if federal highways were 'no commercial  
+use' and you were in the trucking industry...?"
+    <9203130452.AA05819@world.std.com>
+
+Notes 4-7 are about logging ftp usage
+
+4. Creating logs of ftp usage is unneeded. Such logging done without  
+the user's knowledge infringes on the user's right to privacy.
+    <1992Mar11.172359.1124@math.okstate.edu>
+
+5. A point on the side of making logs. "The system log at the  
+Stanford site was the primary link which allowed the traceback of the  
+Macintosh MBDF-A virus to the students who released it (who
+are now involved in criminal proceedings)."
+    <9203111808.AA23181@hibiscus.cit.cornell.edu>
+
+6. Anonymous ftp does not necessarily mean that the process is  
+anonymous. ftp.uu.net is one such system that requires a domain style  
+email address for a password. All file transfers are logged, but the  
+initial login message informs the user of this.
+    <1992Mar12.213307.11252@uunet.uu.net>
+
+7. In response to note 4, (Jim Lick, who runs his own service)  
+"Having guest ftp does not mean you can dump anything you want  
+there." ... "And I am free to refuse service if you don't provide the  
+information I want.  If you don't want to, you don't have to use the  
+service."
+    <jim.700471145@ferkel>
+
+Notes 8-11 continue the discussion of collecting information about  
+system users.
+
+8. Computers make it very easy to collect information about people  
+and their use of a system. This should make people more concerned  
+about the results of such collection.
+    <pimjrINN9pn@agate.berkeley.edu>
+
+9. Default login names are supplied by the client side of ftp,  
+allowing the user to enter what he/she desires. The internet in  
+general will remain insecure "until authentication becomes part of  
+the standard suite of protocols, including application-level  
+protocols, used on the Internet"
+    <1992Mar10.175513.1600@mtholyoke.edu>
+
+10. There may be good reasons to log system access, "But maybe you  
+could live without it, and we'd have a slightly friendlier society."
+    <pj11dINNf4s@agate.berkeley.edu>
+
+11. There are laws regulating credit bureaus or the use of the Social  
+Security Number by different entities. An example of a sysop selling  
+a user's e-mail address to some company for marketing purposes "may  
+be legal but it's not the kind of world I want to live in."
+    <pj5m2INNhta@agate.berkeley.edu>
+
+- David]
+
+
+In this issue:
+
+Alan Cox         76  Censorship
+BOB STRINGFIELD  51  >Privacy Alert
+Barry Shein      89  From Whence Cometh the A. U. P.?
+Eric ' G        113  >Logging system usage (FTP), was Re: NSFnet rules
+Eric Scheirer ,  27  >
+James R Revell   34  >Logging usage of services (FTP)
+Jim Lick         54  >Logging system usage (FTP), was Re: NSFnet rules
+Brian Harvey     39  >NSFnet rules of use and terminus
+Jurgen Botz      42  >
+Brian Harvey     65  >
+Brian Harvey     38  >
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+
+send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Mar 10 00:00:00 1992
+From: iiitac@pyramid.swansea.ac.uk (Alan Cox)
+Newsgroups: news.admin
+Subject: Article 1--Censorship
+Message-ID: <16825.9203091724@pyr.swan.ac.uk>
+Date: 9 Mar 92 17:24:32 GMT
+
+NOTE: Although this discussion is heading towards censorship rather than
+news administration I post it here, since by his own comments the person
+whose points I wish to question doesn't read alt.* and it would be unreasonable
+to deprive him of a chance to see any further things raised. 
+
+Keith@ksmith.UUCP (Keith Smith) writes:
+	
+	In the article several books are mentioned.  One is about HOW TO
+	sexually molest children (What to do to be a pediophile).  All of the
+	references in the article were similar in emotional index.  The summary
+	was that as a LIBRARIAN you have no right to restrict such literature
+	from the library.
+
+Why should there be any argument about restricting such material in the first
+place. Would you prefer to pretend such things didn't exist. As an equally
+extreme counter argument suppose you did censor this book and because of that
+a psychologist failed to make a break through and many children were molested
+without detection.
+	
+	This is SWELL for the LIBRARY ITSELF.  HOWEVER, as a COMMUNITY we (as in
+	Hope Mills, NC) have the RIGHT to decide what we want to PAY FOR that
+	goes into our library AND what we want AVAILABLE there.  If we don't
+	want to pay for it and we don't want to see it, we have the right not
+	to.  THE SAME HOLDS TRUE as the community grows larger as in the STATE
+	and FEDERAL GOVERNMENT.  The fed certianly has the right to restrict
+	federal funds that the MAJORITY of people want to restrict.  The
+	SOLUTION is to sway the MAJORITY's opinion to allow it. 
+
+Ah yes the great democratic myth that the majority are right and can enforce
+their will on the minority. It's fair enough to make everyone drive on the same
+side of a public road, but not to control their reading. Maybe you'd like 
+a system which automatically kills any american who thinks non-christian
+thoughts. Switch is like a library, worse than that switch is not only
+censoring their library, they also put up roadblocks and refuse people
+access to ther libraries - that is totally out of order, you lot shouted 
+enough about the USSR doing that.
+	
+	I don't carry alt.* groups here.  I can't afford it.  I don't want it. 
+	I have a downline site that gets a feed from me.  NO ONE can MAKE me
+	carry them.  You want SWITCH to carry/not carry the feeds? Then you need
+	to make the people pulling the purse strings at SWITCH to do it with
+	PUBLIC PRESSURE by either refusing to use it and finding alternate
+	information sources, or if it is publicly funded by instituting
+	legislation IN YOUR COMMUNITY (no matter what the size of the community)
+	to prohibit the restriction and get the MAJORITY of people to agree with
+	your point of view to get it passed.  If none of that works then MOVE
+	to a different community that has more similar viewpoints than yours.
+
+Unlike switch you aren't saying that you will also stop anyone getting alt.*
+from elsewhere, or that if they paid you the cost of getting alt.* you might
+consider it - Switch are BLOCKING access to other sources too.
+
+Why should it be THEIR problem to prove to the majority - it doesn't affect
+the majority, it doesn't even bother the majority: Ask the average person
+about usenet and they will go 'What's that'. Most people in the world would
+prefer to get on with life and do what they want without harming others. If
+anything it should be up to the censors to _PROVE_ beyond reasonable doubt in
+a just court that something is harming others (and arguably that they don't
+wish to be harmed). Alcohol kills far more people than usenet - believe me.
+I object to such statements as 'MOVE to a different community' - I thought
+driving people out and burning heretics went out in the 16th century. Why
+don't you try moving to a different community - its not easy ask all those
+boat people that your country turns away. Ask the Jews about their several
+thousand years without a homeland. 	
+
+	-- 
+	Keith Smith          uunet!ksmith!keith            5719 Archer Rd.
+	Digital Designs      BBS 1-919-423-4216            Hope Mills, NC 28348-2201
+
+Alan Cox.
+
+Every view expressed in this article is my own, but thats the whole point Im
+trying to make.
+
+
+------------------------------
+
+From caf-talk Caf Mar 10 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: bstring@mainz-emh2.army.mil (BOB STRINGFIELD)
+Subject: Article 2--Re:  Privacy Alert
+Message-ID: <199203101029.AA06819@eff.org>
+Date: Tue, 10 Mar 1992 10:29:34 GMT
+
+
+Forwarded for your general info and reading pleasure....
+--bob
+
+************************
+>From: "Russell E. Whitaker" <71750.2413@CompuServe.COM>
+Subject: Privacy Alert: FORWARDED
+
+Please spread this far and wide.  Libernet subscribers: responses
+to me privately, as I do not subscribe, due to volume.
+
+Russell E. Whitaker                       71750.2413@compuserve.com
+Communications Editor                     AMIX: RWHITAKER
+EXTROPY: The Journal of Transhumanist Thought
+
+There is a bill before congress drafted by the FBI and Justice Department
+that would direct the FCC to specify hardware and software attachments 
+to all commerical and *private* telephone exchanges to allow easy wire
+tapping.
+The Bush administration is a proponent of this bill (no surprise).  The
+bill specifies fines of up to $10k per day to businesses that do not
+comply with the FCC rules.
+
+If anyone has a reference to the bill number or if this has been posted
+to the net to solicit negative feedback to congresscritters, please
+repost here.  I have the text of an article in NYT and Marin Independent
+Journal (found nothing in the SF Chronical on Sunday) and will quote these
+on the net if necessary, but neither article gives the bill number.
+
+As most of you know, we at a junction where privacy can increase if we
+defend it now.  Not even the ACLU is coming out for increasing privacy
+of communication (their position is that the taps must not allow excess
+data access).  At best, the FCC's easy-wiretapping requirements would
+be a hinderance to commerce (e.g., create a packet switched phone
+program that uses TCP/IP and run it over the net; *that* would become
+illegal, but probably unenforceable.)  At worst, roving wiretaps could
+become easier (this is where thousands of lines are scanned with 
+speaker-recognition equipment to catch a particular person using any
+phone in a city).
+
+***********************************************************************
+Robert (Bob) L. Stringfield      Mainz Army Depot
+DMIS   ATTN:  SDSMZ-IS  APO NY 09185
+COML (No ETS or Autovon available): 06131-696328 (Germany)
+FAX: 06131-696467
+bstring@mainz-emh2.army.mil or bstring%mainz-emh2.army.mil@vm1.nodak.edu
+                   Truth:  IGNORANCE hates knowledge....
+*************************************************************************
+
+
+------------------------------
+
+From caf-talk Caf Mar 12 00:00:00 1992
+Newsgroups: eff.mail.com-priv
+From: bzs@world.std.com (Barry Shein)
+Path: eff!eff-gate!usenet
+Subject: Article 3--From Whence Cometh the A. U. P.?
+Message-ID: <9203130452.AA05819@world.std.com>
+Originator: daemon@eff.org
+Sender: com-priv8-forw@lists.psi.com
+Nntp-Posting-Host: eff.org
+Organization: EFF mail-news gateway
+References: <9203122221.AA28884@tmn.com>
+Distribution: eff
+Date: Thu, 12 Mar 1992 18:52:31 GMT
+Approved: usenet@eff.org
+Lines: 86
+
+
+>From: cook@tmn.com (Gordon Cook)
+> An example of the difficulty of the commercial use problem.  As Mitch 
+> pointed out in his short testimony....the commercial use restrictions are 
+> preventing mny information providers from setting up businesses on the net.
+> 
+> Steve Wolff averred toward the very end that this was just not so....any 
+> information provided on behalf of research or education would fall within 
+> acceptable use.
+
+Since a site like World.Std.Com (and, apparently, Dialog.Com for a
+brief period tho the cavalry showed up) can't get ROUTING approval to
+the internet then how can this possibly be true? It's an answer that
+does not hold up to the reality of the situation since one has to get
+approval to even connect a network.
+
+Mitch and I chat frequently, and I'll guess World was an example he
+had in mind. Specifically, we have a vendor here on World, Quantum
+Books, a high-tech bookstore near MIT, who is thus restricted.  Now
+consider the following quote from his Mitch's testimony:
+
+	"Users should be able to order ...
+	books and journals on-line from publishers and vendors."
+
+Can't get a lot closer to a counter-example (to Steve's comment) than
+that.
+
+You can at least in theory order books from Quantum via e-mail (AUP is
+not entirely clear on that use), but unless you're on CIX you can't
+get to Quantum's on-line catalog and other materials here.
+
+And I know from experience, helping sites get hooked up and get AUP
+approval, that the tendency is to not approve commercial-ish use
+although in at least one case it was somewhat due to their own
+experience and knowledge about how to present themselves.
+
+In that specific case I have in mind, NOT being hooked up to the net
+was causing double-billing to the government, essentially, as remote
+sites at Universities and other govt services were accessing them
+through the public dial network, sites which were certainly on the
+NSFnet (MIT was one.)
+
+Now, that was just a plain mistake and I helped fix it, no one was at
+fault particularly, they just didn't explain themselves well and I had
+to interview them to discover this and help them re-write a proposal.
+
+But it's a great example of the atmosphere involved, they were very
+frustrated and were fairly sure they should have been approved. And
+they were right, they just didn't know how to draw out the salient
+points (I thought the double-billing was a pretty good point.)
+
+Another vendor, who I believe wouldn't want me to go into details, is
+right now setting up shop here to provide information services very
+relevant to the NSFnet's mission, and will also be restricted by AUP.
+
+Others have called me to talk about possibilities and the
+conversations ran to just what Mitch described, they find it
+discouraging, from a business perspective, if they consider academia
+and research to be a major part of their audience.
+
+As someone who lives with the realities rather than the hypothetical
+possibilities I can assure everyone it presents a very real obstacle.
+
+It's not fatal as we're offering more access, via CIX, than anyone has
+in history to the general public, but it sure wastes my time just
+explaining the situation a few times per day (I'd be glad to start
+forwarding the e-mail to this list, I'd bet you'll be begging me to
+stop after only a few days.) And I know it has discouraged people, and
+limited possibilities.
+
+I'm not certain what the right answer is, don't take this as a
+condemnation, I do understand the complexities, very much so.
+
+We've built this highway, but imposed these restrictions on who can
+use the highways, only automotive engineers, so the car doesn't look
+awfully useful. Imagine if federal highways were "no commercial use"
+and you were in the trucking industry...?
+
+The worst part is that we'll never get support from those excluded,
+right? Food for thought. Maybe that's why we have a one-lane highway,
+no trucking lobby.
+
+        -Barry Shein
+
+Software Tool & Die    | bzs@world.std.com          | uunet!world!bzs
+Purveyors to the Trade | Voice: 617-739-0202        | Login: 617-739-WRLD
+
+
+------------------------------
+
+From caf-talk Caf Mar 11 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,news.admin
+From: gindrup@math.okstate.edu (Eric `'d'kidd' G..)
+Subject: Article 4--Re: Logging system usage (FTP), was Re: NSFnet rules
+Message-ID: <1992Mar11.172359.1124@math.okstate.edu>
+Date: Wed, 11 Mar 1992 17:23:59 GMT
+
+In article <1992Mar10.172109.14409@ms.uky.edu> morgan@ms.uky.edu (Wes Morgan) writes:
+>
+>As I mentioned in an earlier posting, I'd certainly trash the vast majority
+>of log entries for ftp services.  Would you have a problem if we only logged
+>the ids of those who UPLOADED files?  Were I to establish a public upload
+>area, I'd certainly want to be able to "track down" the submitters of files.
+>
+
+Why?  Once you've deleted any "offending" file, what does it matter who gave
+it to you.  If Johnson&Johnson decides to send you a free sample of (say)
+Band-Aids, then you don't have to accept them.  If they were sent to you by
+me in such a way that you could not have told who sent them (posted in a
+different town, no return address, or to be held by the postmaster if 
+returned, et c...), you could still not accept them and, what's more, you
+couldn't possibly track me down.  But, what's more important is, why
+would you want to?  We entered into an implicit contract whereby I offered
+certain chattels (the file I uploaded) presumably in recompense for the
+use of your system (perhaps the downloading of files).  However, if you
+do not care to recieve my offering of chattels, that is certainly within
+your realm of appropriate behaviour.  But, then, why would you want to
+track me down.  *I* entered our agreement with an open heart and an open
+mind.  Those who would wish to track me down for the reason that they
+disliked my offering of chattel apparently had a hidden motive in their
+entering of the agreement.  What is your hidden agenda in wanting to track
+down those individuals whose views you seem to be at odds with.  It would
+seem more appropriate that you should _critically_ welcome any upload as
+evidence that your ftp services are appreciated and used by the community.
+    What do you fear so much that you would wish to lash out at those who
+are actively supporting your reason to exist as an ftp site - the "free"
+transmission of ideas and information between minds.
+
+>>So, maybe you *do* have a good reason to log access to your system.  But maybe
+>>you could live without it, and we'd have a slightly friendlier society.  It 
+>>might depend on what you keep in /ftp/pub and who you expect to download it.  
+>>The most secure thing would be not to have anonymous ftp at all!
+>
+>What if I have a package (such as, say, NTP) for which I want to keep a list
+>of all the downloaders?  What if I want to use that list for *gasp* updates
+>and bug fixes?  What if I just want to know the more popular files on my
+>systems?
+
+Most software companies generate that information through the submission of
+"registration" cards.  If person A gets your package and then distributes it
+to person B, then how is person B going to get updates if person A doesn't
+transmit them (death, change of job, whatever reason...).  'Twould seem that
+some sort of user registration would be better.  But, then, the registration
+could be bundled with the application and then most of the recipients would
+probably get a copy of the registration card...
+Popularity of files is determinable withut information as to *who* they are
+popular with.  Your average file system usually contains some utilities for
+monitoring use without specifically indicating who is doing what...
+
+>What if I see a large number of downloads from, say, Finland?  If that hap-
+>pened, I'd certainly try to place my stuff in an archive over there; it would
+>certainly save bandwidth, wouldn't it?
+>
+>I agree with some of your points; however, I feel that it boils down to
+>a per-site policy situation.  Personally, I'm going to set up logging when
+>I set up our anonymous ftp site.  If someone has a problem with that, they
+>can always provide some bogus address when asked.  I might even run a
+>daemon to keep a log of all connections to my ftp port, and users would
+>never know about it.
+>
+
+Gee... Maybe they won't notice that phone tap that almost every college-town
+phone has, either, d'ya think...
+
+>
+>Those sites which provide anonymous ftp can, and should, make their own
+>decisions.  This is well and good; my comments came as a reaction to the
+>postings which basically said "you can't do that; it's *wrong*!"  To those
+>people, I say "Feh."  If you don't like the policies at a particular ftp
+>site, don't use that site.  
+>
+
+I couldn't agree more, until such policies interfere with my right to private
+action and interaction.  Interesting semantic point:
+I use the system you administer.  Does that mean I use *your* system?
+It would seem that the system belongs to the organization that owns it.  
+If that is a government institution (e.g. a University, a Gov't contracted
+Company, a Gov't agency (like DARPA)), then all of the laws concerning
+rights to privacy are set down in the public forum.  Specifically those
+informations concerning identity and place of occupation are protected.
+However, it would seem that you want to collect such information without
+my knowledge and therefore without my consent.  If I call from a *.com, 
+then by collecting my address you have ascertained my place of work.  By
+law, you MUST ask my permission before a private citizen may collect or
+use such information.  If I call from a *.edu, then you still get
+information about where I live and, in both my case and I assume yours,
+where I work.  To collect such anformation about me without my knowledge
+is *illegal*.  "Feh." as you like, but the legality of the matter does not
+change.
+
+>  
+>-- 
+> morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+> morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+> morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+>        "I was going to rip your head off, but I'm past that now."
+
+
+`````````````````````````````````````````````````````````````````````````````
+God is an engineer, and his approximation is no better than Plank's Constant.
+
+-'d' Kidd / Eric Idle / ESG / Eric Gindrup
+`````````````````````````````````````````````````````````````````````````````
+`gindrup@hardy.math.okstate.edu     (preferred)	      If at first you don't `
+`						succeed, deficit spend.  It `
+`uucp 'a.cs.okstate.edu!/dev/null'  (flames)	works for the Federal Gov't.`
+`````````````````````````````````````````````````````````````````````````````
+
+
+------------------------------
+
+From caf-talk Caf Mar 11 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: escheire@sunlab.cit.cornell.edu (Eric Scheirer  , HORJ@vax5.cit.cornell.edu)
+Subject: Article 5--Re: Logging system usage (FTP), was Re: NSFnet rules
+Message-ID: <9203111808.AA23181@hibiscus.cit.cornell.edu>
+Date: Wed, 11 Mar 1992 08:08:43 GMT
+
+gindrup@hardy.math.okstate.edu (Eric `'d'kidd' G..) writes:
+
+> Why?  Once you've deleted any "offending" file, what does it matter who gave
+> it to you.  
+.
+.
+.
+>    What do you fear so much that you would wish to lash out at those who
+> are actively supporting your reason to exist as an ftp site - the "free"
+> transmission of ideas and information between minds.
+
+The system log at the Stanford site was the primary link which allowed the
+traceback of the Macintosh MBDF-A virus to the students who released it (who
+are now involved in criminal proceedings).  According to my sources in CIT,
+without the address of the connecting account, it is doubtful that the 
+trace would have been successful.
+
+I completely agree that if such infantile people didn't exist, we would
+have no need for measures of this sort.  Unfortunately, they do.
+
+----
+Eric Scheirer -- Cornell U. -- HORJ@vax5.cit.cornell.edu -- (607) 253-2431
+
+"Small change can often be found under sofa cushions." -- Lazarus Long
+
+
+------------------------------
+
+From caf-talk Caf Mar 12 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk
+From: revell@uunet.uu.net (James R Revell Jr)
+Subject: Article 6--Re: Logging usage of services (FTP)
+Message-ID: <1992Mar12.213307.11252@uunet.uu.net>
+Date: Thu, 12 Mar 1992 21:33:07 GMT
+
+ftp.uu.net is an example of an archive where the "anonymous" in
+anonymous FTP is a myth.  UUNET's archive is available *only* to
+people we can identify.  I recently cracked down on this policy
+due to the large number of abuse.
+
+Guest FTP to ftp.uu.net, via the anonymous or ftp logins, requires
+that the client:
+   . originate the FTP from a host with appropriatly configured
+     reverse server information (ie: a PTR record)
+   . use a password consisting of their domain style email address
+   . not originate from a host we have determined to be involved in
+     security or copyright infringement
+
+We log all file transfers, and the initial login message tells FTP
+users to disconnect if they can't live by that.  I investigate all
+questionable activity and infractions of our archive policy (concerning
+incoming files).  The policy on incoming files is automatically
+displayed to each FTP user when they enter the incoming directory.
+
+As some users and system admins at internet sites may know, I check
+incoming files for various security problems or copyright infringement
+and report all occurences to CERT and other authorities who may be
+involved.  FTP access is denied to hosts causing such problems until
+the problem has been resolved.  The amount of such abuse is simply to
+high to allow to continue.
+
+Are these actions too extreme?  Some will say yes, but if some hot-shot
+prosecutor tries to hold UUNET responsible for some problem with a file
+placed in our archive then we have no choice.
+-- 
+James Revell   sr uunet postmaster   <revell@uunet.uu.net>   /8^{~
+
+
+------------------------------
+
+From caf-talk Caf Mar 15 00:00:00 1992
+Newsgroups: news.admin
+From: jim@ferkel.ucsb.edu (Jim Lick)
+Subject: Article 7--Re: Logging system usage (FTP), was Re: NSFnet rules
+Message-ID: <jim.700471145@ferkel>
+Date: Fri, 13 Mar 1992 07:19:05 GMT
+
+In <1992Mar12.164628.3013@math.okstate.edu> gindrup@math.okstate.edu (Eric `'d'kidd' G..) writes:
+>If you don't want files put there why do you have an anonymous FTP site?
+
+Having guest ftp does not mean you can dump anything you want there.
+
+>It isn't, but sending a message to my sysop that "Mr. X put material on my
+>machine, Y, that is illegal/immoral/*bad*/distasteful/whatever and I want
+                     ^^^^^^^
+If it is indeed illegal, then reporting should be done.  By uploading
+illegal material, you are placing an enormous liability on the sysop
+and the organization owning the system.
+
+>Again, if you don't want anonymous use, why have anonymous login?
+
+OK, that's fair.  My ftp server no longer will accept 'anonymous' as
+a login name.  Now you can only get in as 'ftp' or 'guest'.  This is
+just semantics though.  Sure, anonymous was a bad choice of words,
+but it's dangerous to read so much into one word.  Does having
+'Welcome' in my login message invalidate the restrictions noted in
+that message?
+
+>I fully understand that.  The point is that the administrators are responsible
+>to the owners who are responsible to .... on up to the (omnipresent)
+>Federal Government.
+
+Who are exactly the people who told me I couldn't carry certain files.
+My responsibility (which you acknowledge) includes making sure that
+their restrictions on use are enforced.
+
+>The fact that you publicly offer its use makes it legal for me to use
+>it.
+
+Yes you can use the service, but you cannot use it for *anything*.
+
+>Before you set your opinion on this you'd better check.  This is a'kin' to
+>the legalism that a restaurant or grocery store can not *legally* ask you
+>for your social security number, your place of work, your phone number,
+>your address, nor even your Driver's License number when you remit a check
+>because with this information and your check, it is possible to really
+>screw over your checking account.
+
+And I am free to refuse service if you don't provide the information
+I want.  If you don't want to, you don't have to use the service.
+
+                            Jim Lick		       
+Work: University of California	| Play: 6657 El Colegio #24
+      Santa Barbara		|       Isla Vista, CA 93117-4280
+      Dept. of Mechanical Engr. |	(805) 968-0189 voice/msg
+      2311 Engr II Building     | "Like beauty and sadness/It's hard
+      (805) 893-4113            | to love/With so much to hate/I'm
+      jim@ferkel.ucsb.edu	| feeling worthless" -Life Talking
+
+
+------------------------------
+
+From caf-talk Caf Mar 10 00:00:00 1992
+From: bh@anarres.Berkeley.EDU (Brian Harvey)
+Newsgroups: alt.comp.acad-freedom.talk,news.admin
+Subject: Article 8--Re: NSFnet rules of use and terminus
+Message-ID: <pimjrINN9pn@agate.berkeley.edu>
+Date: 10 Mar 92 16:03:07 GMT
+
+jbotz@mtholyoke.edu (Jurgen Botz) writes:
+>[...]  Are there any good reasons for anyone
+>remaining completely anonymous when transferring data via the Internet
+>if they are not doing anything illegal?  IMHO, no!  If you're
+>transferring pirated software, that's illegal and there's no reason
+>for the net to make allowances for it.  If you're transferring
+>pornography, well, if you think it should be your right to do so, then
+>stand behind it and speak out, don't hide like a sneak!  If you're
+>afraid of losing your job because of your activities... tough.  You
+>have the option of standing behind your principles even in the face of
+>persecution, or buying your pornography at a store. [...]
+
+There is nothing unique to computers or the Internet in this argument.
+It is a very common one between civil libertarians and proponents of
+strong government control.  In many countries, not even horribly
+repressive ones but ones like, for example, France, everyone has to have
+a government Identity Card and carry it with them at all times.  The
+police can card you whenever they want.  In the United States we have
+traditionally avoided that level of government control.  Yes, it would
+make it easier to catch criminals if the government knew where we are
+and what we're doing all the time.  But our tradition is to be more afraid
+of the power of a government than of the harm done by private criminals.
+Of course this is not all-or-nothing; we *do* have a police force, and we
+provide channels for them to gather information about us.  But ordinarily
+they can't gather private information about anyone in particular without
+first convincing a judge that there is a compelling reason.
+
+What changes with computers is that it's incredibly *easy* for authorities
+to collect information about everybody's use of the facilities.  But this
+is a reason for us to be *more* concerned, not less, about such information
+collection.  Most system administrators do not have evil intent, but
+neither do most police officers, I suppose.  But the ones who do (the example
+of J. Edgar Hoover leaps to mind) are extremely dangerous.  And system
+administrators, or police officers, can make errors of judgement in which
+they confuse their own ideals with their public duties -- this is where the
+censorship issues arise, for example.
+
+
+------------------------------
+
+From caf-talk Caf Mar 10 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,news.admin
+From: jbotz@mtholyoke.edu (Jurgen Botz)
+Subject: Article 9--Re: NSFnet rules of use and terminus
+Message-ID: <1992Mar10.175513.1600@mtholyoke.edu>
+Date: Tue, 10 Mar 1992 17:55:13 GMT
+
+In article <DAB.92Mar10094448@moxie.moxie.oswego.edu> dab@moxie.oswego.edu writes:
+>But of course, it seems in principle that the account name is known
+>even to vanilla ftpd, since whenever I log in somewhere, the default
+>login name is my actual account, which I have to override with
+>'anonymous'.  So it must be possible to record that data without too
+>much effort on the part of ftpd.
+
+Not so.  The ``default login name'' is supplied by the *client* side
+of ftp for your convenience.  If you do not accept the default, the
+server (ftpd on remote machine) never gets to see it.  And if clients
+were written so that they provided servers with your local login name
+for logging purposes (which they are not!), there still would be
+nothing to prevent you from modifying your client not to do this, or
+to give a false login name, since there is no authentication mechanism
+as part of the protocol.
+
+To generalize, until authentication becomes part of the standard
+suite of protocols, including application-level protocols, used on
+the Internet, the Internet will remain inherently insecure and it
+will remain trivial to hide/falsify your identity.  However, secure
+authentication protocols exist and have been standardized, and will
+surely be incorporated into the Internet protocols over the coming
+years.
+
+(As an aside, as I understand it one of the things that are holding
+progress in this area back is the fact that the entire class of
+public-key algorithms most ideally suited to secure authentication
+are patented by some MIT mathematicians.  This is one of the things
+the LPF uses as an example of why software patents are A Bad Thing,
+but I'm way out of my area of expertise here, so somone correct me
+if I'm wrong, please.)
+
+I've redirected follow-ups back to alt.comp.acad-freedom.talk only,
+since this has nothing to do with news administration.
+-- 
+Jurgen Botz                  |   Internet: JBotz@mtholyoke.edu
+Academic Systems Consultant  |     Bitnet: JBotz@mhc.bitnet
+Mount Holyoke College        |      Voice: (US) 413-538-2375 (daytime)
+South Hadley, MA, USA        | Snail Mail: J. Botz, 01075-0629
+
+
+------------------------------
+
+From caf-talk Caf Mar 10 00:00:00 1992
+From: bh@anarres.Berkeley.EDU (Brian Harvey)
+Newsgroups: alt.comp.acad-freedom.talk,news.admin
+Subject: Article 10--Re: NSFnet rules of use and terminus
+Message-ID: <pj11dINNf4s@agate.berkeley.edu>
+Date: 10 Mar 92 19:01:01 GMT
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+>You didn't answer Jurgen's question.  If you are connecting to my system,
+>why shouldn't I know your id?  If you are uploading files to my system,
+>why shouldn't I know your id?
+
+I think I did answer it.  I'll try again.  Your question is exactly the same
+as these questions:
+
+"If you are driving on my highway, why shouldn't I record your license plate?"
+
+"If you are shopping in my store, why shouldn't I check your ID?"
+
+"If you enter the city of which I'm the police chief, why shouldn't I keep
+a log of your coming and going?"
+
+The stance behind such questions is not always wrong.  If I visit SAC HQ or
+someplace like that, I'd certainly expect to be carded and my visit to be
+logged.  If I go to a bank, I don't expect to be carded, but I do expect to
+be recorded on videotape -- although, as someone else remarked a while ago,
+I'd also expect those tapes to be recycled if nobody robs the bank that day.
+Social norms are sometimes peculiarly inconsistent about these things: if
+traveling within one country, you have to give your name for an airplane
+ticket, but not for a train ticket.  (Although you don't ordinarily have to
+show an ID even on the plane.)
+
+Still, in the United States it is a tradition, with some court decisions to
+back it up, that we don't card people without a special reason.  This tradition,
+as I said before, comes from a (very sensible imho) distrust of government
+authority.  I think it's a valuable tradition; it's one of the reasons why
+lots of people from other places want to live here.
+
+Sometimes it's a hard decision whether or not a situation merits tighter
+security on entry to something.  I used to live next to a little corner
+grocery store, in San Francisco, a block away from a high school.  The store
+owner had a policy that students (i.e., people who look like teenagers) could
+only enter the store two at a time.  He established that policy because of
+shoplifting losses, and it's easy to sympathize.  At the same time, one result
+of the policy was intense resentment on the part of the kids standing in line,
+most of whom, of course, are perfectly honest.  I'm sure it wasn't fun for the
+proprietor either; he was certainly aware of the resentment, and it must be a
+tense situation to depend for your living on people whom you don't trust and
+who don't like you.  The irony of the situation is that the owner and the
+students needed each other; it was the only store in the immediate neighborhood,
+and a big share of its business came from those kids.
+
+The point of this anecdote isn't that I'm saying who was right or wrong.  I guess
+you could say that the point is this:  In some other country where people get
+carded all the time, the kids might have taken this situation for granted and not
+resented it.  But we have different expectations here.  You could argue that our
+expectations aren't rational or efficient, and certainly they aren't the most
+secure.  But they have compensating advantages.
+
+So, maybe you *do* have a good reason to log access to your system.  But maybe
+you could live without it, and we'd have a slightly friendlier society.  It might
+depend on what you keep in /ftp/pub and who you expect to download it.  The most
+secure thing would be not to have anonymous ftp at all!
+
+But the original question was along the lines of "what do you have to hide?  If
+you're downloading pornography, do it proudly."  And I still say that that
+argument is *exactly* the same as the argument people make in other contexts
+to prefer regimentation over privacy, and the reasons to oppose it are the
+same in the computer context as in the context of cartes d'identite.
+
+
+------------------------------
+
+From caf-talk Caf Mar 10 00:00:00 1992
+From: bh@anarres.Berkeley.EDU (Brian Harvey)
+Newsgroups: alt.comp.acad-freedom.talk
+Subject: Article 11--Re: NSFnet rules of use and terminus
+Message-ID: <pj5m2INNhta@agate.berkeley.edu>
+Date: 10 Mar 92 20:20:18 GMT
+
+jbotz@mtholyoke.edu (Jurgen Botz) writes:
+>You're misunderstanding my intend entirely.  I wasn't talking about
+>making it easy for government authorities to gather information about
+>private individuals, I was talking about making it possible for other
+>private individuals and organizations and government agencies to
+>verify who you are when you are performing transactions with them.
+>Kinda like having to show your driver's license when you write a
+>check, or apply for a library card, etc., you know?  That's something
+>TOTALLY different.  Do you think you should have *right* to show
+>people a fake driver's license?  I think not... you have a right
+>to show them nothing, and they have a right to then refuse dealing
+>with you.  I.e., if you ftp to my machine, I should have a way of
+>making *sure* I know who you are or not let you in.
+
+Well, again, there are two sides to this issue.  In modern times it is not
+only governments who have too much power.  This is why we keep seeing laws
+regulating, for example, credit bureaus, or the use of the Social Security
+Number by both government *and* private entities.  (The latter regulations
+aren't, alas, very effective.)  It's disingenuous to say that I have the
+right not to deal with companies if I don't want to answer their questions.
+That's not true, in practice, unless I want to be a hermit.  I can choose
+a different grocery store, but I can't choose a different phone company.
+In the middle ground, I can choose a different bank, but not a *very*
+different one; they all have the same kinds of self-interest and so they
+all have the same kinds of policies.  That's why phone companies and banks
+are both more tightly regulated than, say, toy stores--although, in
+California at least, even toy stores are bound by privacy regulations.
+They can't ask for my phone number when I use a credit card.
+
+That's why there was all the fuss about that Lotus consumer database product
+whose name I've forgotten.  (Marketplace?)  It wasn't breaking any laws; in
+that narrow sense the providers of the information had the "right" to sell
+the information to Lotus, and Lotus had the "right" to sell it to their
+customers.  But nobody was very happy about the idea because it seemed like
+gratuitous nosy-parkering.  I think much the same is true about your
+hypothetical example in which you sell my e-mail address to some company
+for marketing purposes.  It may be legal but it's not the kind of world
+I want to live in.
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

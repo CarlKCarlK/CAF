@@ -1,0 +1,133 @@
+From caf-talk Caf May 23 00:00:00 1992
+Newsgroups: alt.comp.acad-freedom.talk,comp.security.misc
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: NARCS ON THE NET!
+Message-ID: <1992May23.162904.25110@eff.org>
+Date: Sat, 23 May 1992 16:29:04 GMT
+
+
+fxjwk@acad3.alaska.edu (Jo Knox) writes:
+
+>To the second point: I doubt if the Educational Records act can be applied
+>to individuals' accounts, because it has to do with University records, which
+>are not usually on individuals' accounts.  (If University records are 
+>accessible from an account which is cracked, this might be different.)
+
+parghi@cs.uiuc.edu (Amit Parghi) writes:
+
+>Actually, there was a recent civil suit at UC Berkeley which involved
+>exactly this issue.  Though I don't remember all the details, the University
+>was required to turn over all "university records" pertaining to a student
+>who had been discipilined for (I believe) a computer security offence.  If
+>I recall correctly, the University claimed that any file on any of their
+>machines that mentioned the student would constitute a "university record"
+>and, since there were so many files involved, actually searching for and
+>examining relevant files would constitute an undue burden.
+[...]
+
+There was no civil suit. The student's lawyer only wanted copies of
+the admin email that related to the student (for a disciplinary
+hearing.) In my opinion, this was the student's right under the Family
+Educational Rights and Privacy Act (FERPA). In my opinion, UC
+Berkeley's claim (that student-controlled files are University
+records) was just a legal trick to try to get out of turning over
+*any* material.
+
+The FERPA is very, very unclear on what is and is not a university
+"maintained record". But if the claim of the Berkeley lawyer is true,
+it is illegal for me to read my own email archive at the U. of
+Illinois. Why? Because my email contains tons of personally
+identifiable information about fellow students and I am not a
+university employee with a need to know.
+
+I'm enclosing references and a correction. First the correction:
+
+- Carl
+
+>From caf-talk Caf Jan 22 00:00:00 1992
+>Date: Wed, 22 Jan 92 14:45:45 -0800
+>From: dean2@garnet.berkeley.edu (Dean Pentcheff)
+>Message-Id: <9201222245.AA21751@garnet.berkeley.edu>
+>Subject:  UC Searches Summary 4.
+
+Wednesday January 22, 1992
+
+UC computer search summary number 4.
+        - Dean Pentcheff (dean2@garnet.berkeley.edu)
+====================================================
+
+One final detail for clarification.
+
+In my previous summary I said:
+> The key question here is the interpretation of "university maintained
+> records."  The simple interpretation of the California State Buckley
+> Amendment is that a student is entitled access to conventional
+> administrative or faculty records of their university progress.  In
+> this case, the student's lawyers chose to push an interpretation that
+> made university maintained records encompass any record about the
+> student that exists on university maintained systems.
+
+This turns out not to be quite the case.  It was the University itself
+that chose to interpret the Buckley amendment in this manner.  In the
+University lawyers' opinion, the Buckley amendment forces an
+interpretation that any file with the student's name in it constitutes
+a university-maintained record on a student.  This interpretation was
+_not_ pushed by the student's lawyers, but rather by the University
+itself.
+
+-Dean
+--
+Dean Pentcheff  (Internet: dean2@garnet.berkeley.edu)
+Department of Integrative Biology, University of California, Berkeley CA 94720
+Work Phone: (510) 643-9048   Home Phone: (510) 839-1790    Fax: (510) 643-6264
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+news/january_1992
+=================
+Includes summary #3 of the UC Berkeley case.
+
+=================
+books/van_tol,_joan_e.records
+=================
+     College and university student records : a legal compendium / 
+edited by Joan E. Van Tol. Washington, D.C. : National Association of
+College and University Attorneys, c1989. 
+     iii, 257 p. ; 28 x 22 cm. 
+       1. Universities and colleges--Law and legislation--United States. 
+  2. Personnel records in education--Law and legislation--United
+States.  I. Van Tol, Joan E.  II. National Association of College and
+University Attorneys (U.S.) 
+     ocm20-290250  
+
+Review: Everything that is known about student records and the law,
+especially the Family Educational Rights and Privcy Act (FERPA,
+Buckley Amendment). The only stuff that it is missing is stuff that
+hasn't been decided yet.
+
+Score: 10 of 10
+
+Excerpts cover provisions on directory information.
+
+=================
+=================
+
+These documents are available by anonymous ftp (the preferred method)
+and by email. To get the files via ftp, do an anonymous ftp to
+ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/news/january_1992
+  pub/academic/books/van_tol,_joan_e.records
+
+To get the files my email, send email to archive-server@eff.org.
+Include the line(s) (be sure to include the space before the file
+name):
+
+send acad-freedom/news january_1992
+send acad-freedom/books van_tol,_joan_e.records
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu =

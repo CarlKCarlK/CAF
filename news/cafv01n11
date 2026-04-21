@@ -1,0 +1,670 @@
+Computers and Academic Freedom (news version)
+June 9, 1991
+Vol. 1, No. 11
+Editor: Carl M. Kadie (kadie@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your
+note will appear immediately on the caf-talk mailing list and in
+the alt.comp.acad-freedom.talk newsgroup.
+
+Back issues and a report on the number of CAF readers is available via
+anonymous ftp from eff.org. See file academic/README.
+
+[This compilation includes a call for student and faculty
+participation in policy formation and application. The call is
+endorsed by a sys admin at Berkeley's Open Computing Facility, a place
+where such participation is the standard operating procedure. Also, the
+question "Should users be automatically suspended from the computer if
+they are suspected of an infraction?" is discussed. There is a
+critique of the (soon to be revised?) Ohio State CIS email policy. Due
+process is discussed with examples of punishment without due process
+from UMCP and Ohio State.  Pragmatic benefits of due process are
+asserted.  Finally, the question "Does the availability of GIF images
+of nude people constitute sexual harassment?" is discussed. - Carl]
+
+In this issue:
+
+Carl M. Kadie    29  >Canceling someone else's article
+cgd              49  >Due process and computer policies (was OSU Policies)
+kadie            56  >FYI: Re: Canceling someone else's article
+kadie            28  >Ohio State University CIS Policies
+mojo!russotto    52  
+sbrack           51  >Ohio State University CIS Policies
+kadie            29  >Due process and computer policies (was OSU Policies)
+sbrack           98  -
+jgreely          32  publicly-readable "adult" gifs
+kadie            53  
+jgreely          38  >publicly-readable "adult" gifs
+
+
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+
+Date: Mon, 3 Jun 91 00:19:13 -0500
+From: "Carl M. Kadie" <kadie@cs.uiuc.edu>
+Message-Id: <9106030519.AA25909@herodotus.cs.uiuc.edu>
+Subject: FYI: Re: Canceling someone else's article
+
+Newsgroups: comp.admin.policy
+Path: m.cs.uiuc.edu!kadie
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Re: Canceling someone else's article
+Message-ID: <kadie.675912999@herodotus.cs.uiuc.edu>
+Nntp-Posting-Host: herodotus.cs.uiuc.edu
+Organization: University of Illinois, Dept. of Comp. Sci., Urbana, IL
+References: <qDuu34w164w@bluemoon.uucp> <1991Jun1.164136.4553@herald.usask.ca>
+Date: Mon, 3 Jun 1991 01:36:39 GMT
+
+In <1991Jun1.164136.4553@herald.usask.ca> lowey@herald.usask.ca (Kevin Lowey) writes:
+[...]
+>The UNIVERSITY bought the equipment.  The UNIVERSITY owns the equipment.  The 
+>UNIVERSITY gets to say how the equipment is to be used, who can use it, and 
+>what rules these users have to follow.
+[...]
+
+I would only add that it is the policy of most universities to create
+and administer rules with the participation of faculty and students,
+to respect the privacy of faculty and students (by, for example,
+allowing searches of office space under certain very controlled
+conditions), to make rules clear and specific, to give students
+accused of violating rules a formal hearing (if the student so
+wishes), to promote free expression by saying that "[t]he
+institutional control of campus facilities should not be used as a
+device of censorship."
+
+In my opinion, any university employee who violates this policy should
+be disciplined. For example, a sys admin who expels a student from the
+general university computer system without recourse to a formal
+hearing should find him or herself subject to a formal disciplinary
+hearing.
+
+And, of course, any university computer policy that contradicts
+general university policy (i.e. almost every university computer
+policy I've ever read) is null and void.
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Sat, 8 Jun 1991 10:35:30 GMT
+Message-Id: <CGD.91Jun8023530@monsoon.ocf.Berkeley.EDU>
+Organization: UCB Open Computing Facility
+From: stanford.edu!agate!agate!cgd@uunet.uu.net
+References: , <1991Jun4.160947.7193@eng.umd.edu>, <Z9c2316w164w@bluemoon.uucp>
+Subject: Re: Due process and computer policies (was OSU Policies)
+
+In article <1991Jun8.035801.11343@mailer.cc.fsu.edu> otto@fsu1.cc.fsu.edu (John Otto) writes:
+
+   In article <1991Jun6.200457.7743@eff.org>, kadie@eff.org (Carl Kadie) writes...
+
+   >In the past, I have tried to argue for due process and participation
+   >rights with appeals to idealism and authority (e.g the Joint Statement
+   >on Rights and Freedoms of Students).
+
+   >This thread of conversation highlights the pragmatic reasons for
+   >supporting these rights. Due process gives the disgruntled user a
+   >nondestructive path. It may also helps keep the policy enforcer honest
+   >(to use an expression from poker).  User participation in the
+   >formulation and application of policy gives the policy a feeling of
+   >legitimacy. It also helps fight us vs. them attitudes.
+
+   No. That's not adequate.  What happens with "student participation in the 
+   setting of policy" is that only brown nosers get appointed to the policy 
+   committee.  Even among large groups of students (student governments), 
+   problems have arisen recently with the imposition of political correctness 
+   doctrines.
+
+You say that "only brown nosers get appointed to the policy committee."
+
+I don't think this is true, especially where the students have any say in
+who represents them on the policy committee.  And if the general body
+of students (or users) has no say, then it cannot be said that they
+really participate, or are represented.
+
+I honestly don't think that comments on the wonderful subject of
+"political correctness" (the topic amuses me...) are relevant to this
+discussion - in some things, such as academics, and funding situations,
+arguments can probably be made in favor of PC or against.
+However, in the world of computers, i've yet to see an opinion biased
+by race, creed, color, etc - it simply is not relevant.
+
+If you will attempt to argue that students who *ARE* *REPRESENTED* by
+peers on a policy-making committe (or whatever) are not better off
+(in most cases) than if they were not represented, well, let's just say
+that i'll be very amused.
+
+cgd
+UCB OCF Staff - Though these are my words, and mine alone...
+--
+<          Chris G. Demetriou          | "Everybody's playing the game,       >
+<         cgd@ocf.berkeley.edu         |  But nobody's rules are the same.    >
+<          ...!ucbvax!ocf!cgd          |  Nobody's on nobody's side." - Chess >
+<=============================================================================>
+< Annoyance for hire.  Name a time.  Name a place.  Name a target.  I'm there.>
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Mon, 3 Jun 1991 16:16:30 GMT
+Message-Id: <1991Jun3.161630.10523@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <D2086C338020038B@ccmail.sunysb.edu>
+Subject: Re: FYI: Re: Canceling someone else's article
+
+SKAPUR@ccmail.SUnysb.EDU (Sanjay Kapur) writes:
+[...]
+>I agree that a formal hearing should be required before expulsion from the 
+>general university or departmental computer system.
+
+>Do you agree that suspending computing privileges pending a formal expulsion 
+>hearing is a responsible and required excercise of the powers of a System 
+>Administrator?
+
+To quote the Joint Statement on Rights and Freedoms of Students (JSRFS):
+
+"C. Status of Student Pending Final Action
+
+  Pending action on the charges, the status of a student
+should not be altered, or his right to be present on the
+campus and to attend classes suspended, except for
+reasons relating to his physical or emotional safety and
+well being, or for reasons relating to the safety and well-being
+of students, faculty, or university property."
+
+>Do you also agree that if the hearing finds the student guilty, this finding 
+>should be put in the individual's permanent record (transcript) and, depending 
+>on the incident, may even lead to expulsion from the University itself?
+
+Quoting the JSRFS: 
+
+"To minimize the risk of improper disclosure, academic and
+disciplinary record should be separate, and the conditions of access
+to each should be set forth in an explicit policy statement.
+Transcripts of academic records should contain only information about
+academic status."
+
+So, I don't think that *any* disciplinary info should be on a
+student's academic transcript. On the other hand, computer infractions
+are no less important than other infractions, and so should be treated
+the same (possibly leading to expulsion from the University).
+
+>Can we build an archive site which contains the complete text of University 
+>policies ?  
+
+I encourage everyone to get a copy of their university's student code.
+And if the typing or scanning muse hits you, please email to me
+whatever you feel like putting on-line.
+
+>University Policies may state freedom of expression 
+>as a goal in the first paragraph, but, by the time you get to the 187th (say) 
+>paragraph, they normally have thirty (say) limitations on it.  Also local and 
+>federal laws sometimes override general University Policy making the general 
+>policy null and void while leaving the Computing policy intact.
+
+I haven't seen this. Can you give examples?
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Mon, 3 Jun 1991 17:35:50 GMT
+Message-Id: <1991Jun3.173550.13928@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <1991Jun3.165946.12637@eff.org>
+Subject: Re: Ohio State University CIS Policies
+
+(I understand that these polices will revised soon.)
+
+The policies are better than most. The privacy policy is especially
+good. In my opinion, the weakest policy covers email and netnews.
+
+It says that undergrads are prohibited from posting or emailing off
+campus.  This rule is enforced very selectively. To quote an OSU sys
+admin: "it's just something that's usable as a weapon against the
+occasional real jerk." (I think such selective enforcement is
+despicable.)
+
+The policy justifies email and netnews censorship by referring to "a
+specific obligation to the organizations that operate our computer
+networks". It does not identify an organization or reference an actual
+contract or policy that requires censorship. (I understand the general
+policy of OSU prohibits censorship.)
+
+It is vague, prohibiting "other unsociable [email] acts".
+
+The fatal flaw in the policies is the lack of any notion of due
+process. It looks like a student or a faculty member could be
+suspending or expelled from the computer system at the whim of sys
+admin without recourse to a formal hearing.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 4 Jun 91 16:09:47 GMT
+Message-Id: <1991Jun4.160947.7193@eng.umd.edu>
+Organization: College of Engineering, Maryversity of Uniland, College Park
+From: mojo!russotto@mimsy.umd.edu
+
+References <1991Jun3.165946.12637@eff.org>, <1991Jun3.173550.13928@eff.org>, <1991Jun3.232500.24850@ms.uky.edu>
+Subject : Re: Ohio State University CIS Policies
+
+In article <1991Jun3.232500.24850@ms.uky.edu> morgan@ms.uky.edu (Wes Morgan) writes:
+>In article <1991Jun3.173550.13928@eff.org> kadie@eff.org (Carl Kadie) writes:
+>>
+>>The fatal flaw in the policies is the lack of any notion of due
+>>process. It looks like a student or a faculty member could be
+>>suspending or expelled from the computer system at the whim of sys
+>>admin without recourse to a formal hearing.
+>>
+>
+>Why, oh why, is *everything* turning into a "formal" or "due
+>process" situation?  We've never had any problem with a student
+>that wasn't solved with a face-to-face conversation.  I've 
+>stopped chain letters, obscene files, and email flood wars with
+>a simple "please drop by to see me" message.  Sure, users have
+>been locked out here; this only occurred when the student ignored
+>several requests to come in for a meeting.  I haven't had to lock
+>anyone out yet; those few occurances were several years ago.
+>
+>I realize that "due process" is a student right; however, aren't
+>we getting just a bit too stringent in its application?  Heck, 
+>I guess I'll have to schedule a hearing to kill user processes
+>that are using > 75% of the available system, since it's their
+>final project and I'm infringing their rights.
+>
+>Let's step back, take a deep breath, and look at this from a
+>new perspective, shall we?
+
+I was barred from use of the computer systems at the UMCP computer science
+center without warning.  The message put up when I attempted to log on told
+me to talk to "the System Administrator", whoever the heck that might be. So
+I called the guy I knew logged on as 'root'---  he told me that I had been
+locked out by a different guy, the "accounts administrator".  I talked to this
+'accounts administrator', who told me that he had heard reports that I had
+been 'bothering people' (by messing with X-windows), but that to get my account
+back, I would have to talk to the 'system administrator'.  I talked to him
+again, and was sent back to the 'accounts administrator', who sent me
+back to the 'system administrator'.  I got sick of the obvious runaround, and
+went and applied for a number of new accounts under phony names.  Eventually,
+they brought me to the judicial programs office or having all those accounts,
+and I was found responsible for 'theft of services'.
+
+If there had been some sort of due process in the first place, perhaps I
+wouldn't have had such trouble.  Informal stuff only works when both sides are
+trying for a real solution-- not when the side with more power only wants to
+avoid what they percieve as a problem by getting rid of the student involved.
+--
+Matthew T. Russotto	russotto@eng.umd.edu	russotto@wam.umd.edu
+     .sig under construction, like the rest of this campus.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Tue, 04 Jun 91 17:22:58 EDT
+Message-Id: <Z9c2316w164w@bluemoon.uucp>
+Organization: Blue Moon BBS ((614) 868-998[0][2][4])
+From: cis.ohio-state.edu!zaphod.mps.ohio-state.edu!n8emr!bluemoon!sbrack@uunet.uu.net
+References: , <1991Jun4.160947.7193@eng.umd.edu>
+Subject: Re: Ohio State University CIS Policies
+
+russotto@eng.umd.edu (Matthew T. Russotto) writes:
+
+> In article <1991Jun3.232500.24850@ms.uky.edu> morgan@ms.uky.edu (Wes Morgan) 
+> >In article <1991Jun3.173550.13928@eff.org> kadie@eff.org (Carl Kadie) writes
+> >>
+> >>The fatal flaw in the policies is the lack of any notion of due
+> >>process. It looks like a student or a faculty member could be
+> >>suspending or expelled from the computer system at the whim of sys
+> >>admin without recourse to a formal hearing.
+> >>
+> >
+> >Why, oh why, is *everything* turning into a "formal" or "due
+> >process" situation?  We've never had any problem with a student
+> >that wasn't solved with a face-to-face conversation.  I've 
+> >stopped chain letters, obscene files, and email flood wars with
+> >a simple "please drop by to see me" message.  Sure, users have
+> >been locked out here; this only occurred when the student ignored
+> >several requests to come in for a meeting.  I haven't had to lock
+> >anyone out yet; those few occurances were several years ago.
+> >
+> >I realize that "due process" is a student right; however, aren't
+> >we getting just a bit too stringent in its application?  Heck, 
+> >I guess I'll have to schedule a hearing to kill user processes
+> >that are using > 75% of the available system, since it's their
+> >final project and I'm infringing their rights.
+> >
+> >Let's step back, take a deep breath, and look at this from a
+> >new perspective, shall we?
+> 
+        When I was locked out of my class account early this quarter,
+        I made 15 phone calls to 10 different people, not counting
+        being transferred all over campus.
+
+        Apparently the policy of our system administration is to keep
+        students from solving problems on the local admin level.  My
+        account priveleges were restored after I met with the chair
+        of the department that owned, but did not manage, the system in
+        question.  My telephony took me all the way from my professor
+        to the local system manager to the director of Academic Computing
+        Services, then to the Dean of the Engineering College.  I finally
+        called our University Ombudsperson, who helped me determine who
+        I should have been talking to, as none of the people I talked to
+        directed me to the right place.
+
+
+
+===========================================================================
+Steven S. Brack     sbrack@bluemoon.uucp        The Ohio State University
+sbrack%bluemoon@nstar.rn.com                        sbrack@isis.cs.du.edu
+===========================================================================
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Thu, 6 Jun 1991 20:04:57 GMT
+Message-Id: <1991Jun6.200457.7743@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+
+References <Z9c2316w164w@bluemoon.uucp>, <1991Jun5.143833.21547@eng.umd.edu>, <TED.91Jun5143855@kythera.nmsu.edu>
+Subject : Re: Due process and computer policies (was OSU Policies)
+
+In <TED.91Jun5143855@kythera.nmsu.edu> ted@nmsu.edu (Ted Dunning) writes:
+[...]
+>the use of the word `against' is symptomatic of very deep structural
+>problems in the organization.  once it gets to the point where system
+>administrators consider users to be trouble to be avoided, and users
+>consider system administrators to be obstacles to be bypassed, then
+>there is essentially no hope for constructive action.
+
+In the past, I have tried to argue for due process and participation
+rights with appeals to idealism and authority (e.g the Joint Statement
+on Rights and Freedoms of Students).
+
+This thread of conversation highlights the pragmatic reasons for
+supporting these rights. Due process gives the disgruntled user a
+nondestructive path. It may also helps keep the policy enforcer honest
+(to use an expression from poker).  User participation in the
+formulation and application of policy gives the policy a feeling of
+legitimacy. It also helps fight us vs. them attitudes.
+
+It may seem counterintuitive, but a overly strict policy may encourage
+the very problems it tries to solve.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+From: sbrack
+Just another expatriate MAGNUS user...  8)
+Message-ID: <us7132w164w@bluemoon.uucp>
+References: <u1VZ31w164w@bluemoon.uucp>
+Date: Tue, 04 Jun 91 15:03:41 EDT
+
+csmith writes:
+> sbrack writes:
+> 
+> >         Seriously, if you want to know interesting facts about magnus &
+> >         Ohio State, e-mail me.
+> 
+> We're listening ...  <grin>
+
+        Well, I had an account on HPUXA, OSU's predecessor to MAGNUS.
+        I had news & mail access, along with a UNIX command shell.
+        It was much like having my own UNIX box.  I could write & run
+        programs on it, I could up- & down-load files from all over the
+        world (through the InterNet), & I could gain experience in how
+        large machine operating systems work.
+        
+        I made two mistakes.  First, I ran a command called "fixman,"
+        which I, by default, had permission to run.  This command
+        reformatted the manual pages (like help files) on HPUXA.  I
+        thought it only worked on my manual pages, but the command
+        instead reformatted the manual pages for the entire system.
+        OSU was not pleased 8).  I had a meeting wherein I basically 
+        agreed not to do it again, & to only run a small selection
+        of commands.
+
+        I did that.  But, I got into trouble on news.  HPUXA recieves
+        about the same news groups that bluemoon does.  They cut out
+        some groups, like alt.sex.pictures, but the pretty much allow
+        a large number of news groups.  Well, I was having an argument
+        with a man in alt.flame.  He posted an article to a group
+        called control (which is where cancel messages & other news
+        "control" messages are supposed to go.)  I posted a followup
+        to that article.  What I did not notice until too late was that
+        the author of the original article had set followups to go to
+        3 or 4 completely inappropriate newsgroups.  My followup contained
+        some "not so polite" language, & OSU's systems people received
+        e-mail about my crossposted article.  When I finally heard whwt
+        had happened, my account had been suspended, so I couldn't even
+        cancel my original article.
+
+        I had another meeting.  This time I was told I would not be
+        getting my account back.  Period.  No dicussion at all.
+        So, I was just a little bit upset that I had lost my account
+        over a prank pulled by someone half-a-continent away.  I
+        posted an article in news.admin, from another InterNet account
+        I had at Ohio State, detailing what had happened, & asking their
+        opinions.  I thanked those that agreed with me (my e-mail ran
+        about 10 to 1 in my favor), & attempted to persuade those that
+        didn't to my point of view.  Owing to several less-than-scrupulous
+        people, the discussion degenerated into a flame war.  I was called
+        "an ME freshman who thinks he has the world by the sensitive
+         appendages" by Karl Klienpaste, OSU's resident net.god.  That
+        was not exactly the epitome of proper conduct, but because of his
+        reputation, he was allowed to get away with it.  Shortly
+        thereafter, I realized it was a losing battle, packed it in, &
+        left the debate in news.admin.  At about the same time, I was
+        denied access to my engineering workstation account, which I had
+        been using for news & mail, as well as classwork.  Not having
+        access to that account would have made it impossible to pass
+        my engineering course.
+
+        I got that account back, after calling everyone from my prof to
+        the Dean of the college of Engineering.  We finally agreed that
+        I could have my account back, provided I did not access news or 
+        mail, or any other "non-class-related" fuctions, from that
+        account.  I didn't, & instead started using bluemoon for mail
+        & news.  (No FTP or telnet, though 8()
+
+        OSU's people have harrassed my friends who were using (with my
+        permission) my account at Denver University.  These people jumped
+        to the conclusion that I was using these accounts, rather than
+        simply letting others do so.  OSU suspended three of my friends
+        acounts, & sent a letter "warning" about me to another.
+
+        If you wish to get Ohio State's perspective on this matter,
+        you may write to the parties involved on the OSU side:
+
+        Bob Dixon               rdixon@magnus.acs.ohio-state.edu
+        Bill Miller            bmiller@magnus.acs.ohio-state.edu
+        Clifford Collins      ccollins@magnus.acs.ohio-state.edu
+        Bob DeBula                bobd@magnus.acs.ohio-state.edu
+        Karl Kleinpaste           karl.kleinpaste@osc.edu
+
+        I guarantee that they won't have anything good to say about me,
+        but their responding to what I say about the situation is the
+        only way those of you who are interested can gain an unbiased
+        view of the situation.
+
+
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+| Steven S. Brack                             The Ohio State University |
+|                                                                       |
+|"I may not agree with what you say, but I will fight to the death for  |
+|                      your right to say it."                           |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 7 Jun 91 22:23:41 GMT
+Message-Id: <JGREELY.91Jun7182341@morganucodon.cis.ohio-state.edu>
+Organization: Ohio State University Computer and Information Science
+From: cis.ohio-state.edu!tut.cis.ohio-state.edu!morganucodon.cis.ohio-state.edu!jgreely@uunet.uu.net
+References: , <1991Jun3.165946.12637@eff.org>, <1991Jun3.173550.13928@eff.org>nucodon
+Subject: publicly-readable "adult" gifs
+
+In article <1991Jun7.180227.4515@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>In <JGREELY.91Jun7130139@morganucodon.cis.ohio-state.edu> jgreely@morganucodon.cis.ohio-state.edu (J Greely) writes:
+>>A combination of university rules and state law.
+>Can you be more specific? What rules? What law?
+
+The university's sexual harrassment rules, and the state law on making
+"pornography" available to minors (we *do* get some).  After one
+incident, the chairman (in response to a threatened lawsuit) was quite
+prepared to order all questionable images deleted, and future
+offenders treated harshly.  Fortunately, that didn't happen, but it
+could.
+
+>It sounds like you selectively enforce your disk quotas based on
+>how much the content might embarrass the department chairman.
+
+It sounds like you don't read too well.  If you're within your quota,
+we don't care what you have in there, but in the specific case of R-
+or X-rated graphic images, we care about the file permissions.  The
+only "selective enforcement" of disk quotas is based on the relevance
+of the files to the funded purpose of the system (computer science
+instruction).  If you're over quota because of course work, we'll work
+with you to solve the problem (possibly increasing your quota).  If
+it's because of saved news or GIF files, we'll tell you to get rid of
+them.  How much it "embarrasses the chairman" has *nothing* to do with
+it.
+
+
+				"Sexual harassment at work -- is it a
+				 problem for the self-employed?"
+--
+J Greely (jgreely@cis.ohio-state.edu; osu-cis!jgreely)
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Sat, 8 Jun 1991 02:51:46 GMT
+Message-Id: <1991Jun8.025146.16881@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+
+References <ABRAHAM.91Jun6210025@thiele.iesd.auc.dk>, <JGREELY.91Jun7130139@mo, <JGREELY.91Jun7182341@morganucodon.cis.ohio-state.edu>
+Subject : Re: publicly-readable "adult" gifs (was Re: Ohio State University CIS Policies)
+
+>In article <1991Jun7.180227.4515@eff.org> kadie@eff.org (that's me) writes:
+
+>>Can you be more specific? What rules? What law?
+
+jgreely@morganucodon.cis.ohio-state.edu (J Greely) writes:
+
+>The university's sexual harrassment rules, and the state law on making
+>"pornography" available to minors (we *do* get some).
+[...]
+>[I]n the specific case of R-
+>or X-rated graphic images, we care about the file permissions.
+[...]
+
+(I'll respond with two notes.)
+
+So the question is where does free expression end and harassment
+begin?
+
+Just as I have a right to speak, write, listen, and read; so, I also
+have a right not to speak, not to write, not to listen, and not read.
+The denial of my right not to listen or my right to to read is
+harassment.
+
+Thus, a campus meeting or rally by American's Against the Left-Handed
+(AALH) does not harass me because I don't have to attend the meeting
+and I can avoid the rally.
+
+On the other hand, if AALH members following me home, calling me a
+"dirty lefty", I am being harassed.
+
+Similarly, if you look at a picture of a nude person or show that
+picture with someone who wants to see it, no one is harassed.
+
+When, you display that picture in the office or on an unwilling
+person's X-terminal, you are harassing the unwilling people who
+must view the picture.
+
+You cannot harass me merely by setting file permissions such that
+others can view material that I find offensive.
+
+Finally, I note that Ohio State subscribes to Playboy magazine. (They
+really do; I checked). By collecting these pictures of nude people,
+the library harasses no one. Allowing you to see the pictures,
+harasses no one. On the other hand, if you photocopy the pictures and
+put them on an unwilling person's desk, you harass that person.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 8 Jun 91 21:26:37 GMT
+Message-Id: <JGREELY.91Jun8172637@morganucodon.cis.ohio-state.edu>
+Organization: Ohio State University Computer and Information Science
+From: cis.ohio-state.edu!tut.cis.ohio-state.edu!morganucodon.cis.ohio-state.edu!jgreely@uunet.uu.net
+References: , <1991Jun3.165946.12637@eff.org>, <1991Jun3.173550.13928@eff.org>nucodon
+Subject: Re: publicly-readable "adult" gifs (was Re: Ohio State University CIS Policies)
+
+Carl responded in e-mail (with permission to repost):
+|>Correct.  That's why I started this whole thing by saying "a
+|>*combination* of university rules and state law".
+
+|Can you clarify this?
+
+At the moment, no.  I've defended things about as far as I can based
+on my understanding of the situation.  To put the whole thing to rest
+for good (on the net? hah!) I'll have to meet with the people who
+started this whole mess and read the relevant rules and laws for
+myself.  Since I'll be away at Usenix next week (and, I believe, the
+chairman will be gone when I get back), I don't know when that will
+be.  Maybe I'll get lucky and the whole thing will expire :-)
+
+|(You can post a reply to the net, quoting this note if you wish.)  It
+|seems that the harassment rule might prohibit public display, but
+|would not require restrictive file permissions.
+
+I agree that "public access" to the files does not itself seem like it
+constitutes sexual harrassment, but I do not have the university rules
+to quote from.  Hell, there's always the chance that my explanation of
+the reasons behind this is dead wrong.  I don't *make* policy.  I've
+been known to suggest it, and I'm occasionally forced to improvise,
+but I'm not on the computer committee.
+
+
+				"But *sniff*, you will come
+				 back to play with us again,
+				 won't you?"
+
+					"Of *course* I will!
+					 On the second Tuesday
+					 of next week."
+
+				"Hooway! Hooway!"
+				"Wait!  The *second* Tuesday?"
+--
+J Greely (jgreely@cis.ohio-state.edu; osu-cis!jgreely)
+
+

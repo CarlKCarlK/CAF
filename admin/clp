@@ -1,0 +1,6 @@
+# remove this first line
+#!/bin/csh
+setenv LOCALCL "yoursite.civil-liberty"
+setenv NS "nntpserverforyoursite"
+index2news -n$NS -g$LOCALCL -s
+

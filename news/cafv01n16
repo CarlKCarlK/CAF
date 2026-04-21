@@ -1,0 +1,853 @@
+Computers and Academic Freedom (news version)
+July 1-14, 1991
+Vol. 1, No. 16
+Editor: Carl M. Kadie (kadie@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your
+note will appear immediately on the caf-talk mailing list and in
+the alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is academic/news. Best-of-the-month issues are available as files
+April, May, and June.
+
+Disclaimer: CAF-news is compiled and published by me, Carl M. Kadie.
+It is not an EFF publication. The views I express and editorial
+decisions I make are my own.
+
+[First an apology. In the previous issue (cafn01v15), Wes Morgan
+described the pressures sys admins face caused in part by users. In my
+opening remarks, I said that the article was about "sysadmin abuse"
+[by users]. That was hyperbole. I can say categorically, that I have
+no reason to believe that Mr. Morgan has ever been abused (in any
+literal sense) by his users. (In fact, I think he is well liked and
+respected by the users of his machines.) I apologize for any grief my
+poorly chosen phrase caused.
+
+The first article of this collection, describes how
+Supreme Court's recent endorsement of the gag rule (with respect
+to abortion clinics) might effect universities. The next note
+shows the estimated readership and propagation of the CAF-talk
+newsgroup.
+
+The bulk of this issue discusses the case of Steven Brack at Ohio
+State University. Steven is formally charged with (among other things)
+"obscenity" (i.e. he wrote "fuck you" to an open newsgroup). In a
+small digression from this particular case, Helen C. O'Boyle, a grad
+student at Virginia Commonwealth University, talks about the general
+problem of punishment before (or without) a hearing. The issue
+ends with a request by me, on behalf of Steven, for e-mail letters
+of support.
+
+In this issue:
+
+llama            52 
+Brian Reid       49  USENET Readership report for Jun 91
+kadie            42  Ohio State
+kadie           166  >
+kadie            39  >
+helen           129  >
+karl.kleinpaste  64  >
+kadie            50  >
+helen            78  
+kadie            29  You can help (was Ohio State)
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 8 Jul 91 15:20:54 GMT
+Message-Id: <1991Jul8.152054.22306@dartvax.dartmouth.edu>
+Organization: Dartmouth College, Hanover, NH
+From: zaphod.mps.ohio-state.edu!usc!snorkelwacker.mit.edu!hsdndev!dartvax!eleazar.dartmouth.edu!llama@uunet.uu.net
+
+References <1991Jul5.070355.17751@ms.uky.edu>, <1991Jul7.060754.3327@m.cs.uiuc.edu>, <1991Jul7.160153.20042@ms.uky.edu>J
+~Subject: Re: Bored on the Fourth of July
+
+kherron@ms.uky.edu (Kenneth Herron) writes:
+
+>The clinic funding rule has not outlawed discussion of abortion, it simply
+>prevents the government from helping clinics that do (help that the gov't
+>is not required to give anyway).  No constitutional right is absolute; any 
+>law could be applied to some situation where it could intrude on freedom of 
+>speech; this doesn't make every law unconstitutional.  The recent SC
+>decision on nude dancing contains mention of this.  (Trivial example:
+>a judge can order a jury sequestered and prevent them from discussing the
+>case they're trying.  This is constitutional because the defendant's
+>right to a fair trial and the public's right of justice override the
+>jury's right to freedom of movement and speech, and because jury service
+>is a constitutional duty).  [Kenneth Herron]
+
+In cases such as the ones you mention, the constitutional interests
+are weighed by the court.  The question is which is more important,
+an organizations right to free speech when their activities are
+partially funded by the government, or the governments right to
+refuse to fund organizations based soley on their speech (rather
+than their "actions").  This is a tricky question any way you look
+at it, because it is hard to seperate speech from actions.  I can
+see how reasonable people could disagree on this issue.  Nonetheless,
+I believe that free speech should win out here.  The government can
+find other (constitutional) ways to refuse to fund Planned Parenthood
+if it wishes, whereas the possible abuses of "gag money" at this point
+in our history where so much of our economy is federally controlled
+are frightening to consider.  How many Universities, traditionally
+tolerant of unpopular speech (at least comparitively), accept
+government funding in one way or other?
+
+>Look at it another way:  A clinic does not give up any rights by refusing
+>to accept government money; it doesn't have a right to government money, 
+>and it doesn't have a right to exist if it can't pay its way.  The clinic 
+>must *ask for* and *accept* the money with full knowledge that it can't do
+>abortion counseling.  Thus, it must *voluntarily* give up its right to
+>do abortion counseling.  All of this is legal; a person (or in this case
+>a legal entity) may give up his constitutional rights and then be bound
+>by that decision.  [Kenneth Herron]
+
+The other perspective is:  Our government has decided to make some
+funding available to family planning clinics.  However, clinics with
+otherwise identical services are differentiated in their ability to
+receive funding by the content of their doctor/patient or
+counselor/patient relationship, traditionally a strongly protected
+area of speech.
+
+----------------------------------------------------------------------------
+"Read My Lips: No Nude Texans!" - George Bush clearing up a misunderstanding
+
+From: reid@decwrl.DEC.COM (Brian Reid)
+Newsgroups: news.lists
+Subject: USENET Readership report for Jun 91
+
+This is [not] the full set of data from the USENET readership report
+for Jun 91.  Explanations of the figures are in a companion posting
+[in news.lists].
+
+        +-- Estimated total number of people who read the group, worldwide.
+        |     +-- Actual number of readers in sampled population
+        |     |     +-- Propagation: how many sites receive this group at all
+        |     |     |      +-- Recent traffic (messages per month)
+        |     |     |      |      +-- Recent traffic (kilobytes per month)
+        |     |     |      |      |      +-- Crossposting percentage
+        |     |     |      |      |      |    +-- Cost ratio: $US/month/reader
+        |     |     |      |      |      |    |      +-- Share: % of newsrders
+        |     |     |      |      |      |    |      |   who read this group.
+        V     V     V      V      V      V    V      V
+331  24000   390   79%   448   968.9     5%  0.04   1.5%  comp.org.eff.talk
+615  12000   195   77%     2    26.2   100%  0.00   0.7%  comp.org.eff.news
+691   9400   153   46%   169   376.3     1%  0.03   0.6%  alt.comp.acad-freedom
+                                                                          .talk
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+
+>From kadie Thu Jul 11 23:10:17 1991
+To: cafb-mail
+~Subject: Computers and Academic Freedom mailing list (batch edition)
+Status: R
+
+
+Computers and Academic Freedom mailing list (batch edition)
+Thu Jul 11 23:09:36 EDT 1991
+
+In this issue:
+
+kadie              : Ohio State                                               
+kadie              : Re: Ohio State                                           
+meckler@tigger.jvn : Re: Ohio State                                           
+Amanda Walker <ama : Adventures at Ohio State                                 
+kadie              : Re: Ohio State                                           
+kadie              : Re: Ohio State                                           
+cbmvax!amix!uucp@u : smtp mail failed                                         
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Thu, 11 Jul 1991 13:02:40 GMT
+Message-Id: <1991Jul11.130240.8071@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+Subject: Ohio State
+
+Last quarter Steven Brack, a student at Ohio State, was indefinitely
+expelled from Ohio State's Academic Computing Services (ACS)
+computers.  Next month he is scheduled for his first hearing before
+the Judiciary Committee. The original charges were very vague (for
+example, he was accused of violating "miscellaneous rules"). At Mr.
+Brack's request, he was recently given a list of specific charges.
+
+Mr. Brack is accused of (this list is based on my notes from a
+telephone conversation; any mistakes are mine):
+
+1) typing the command "shutdown" on a Unix computer
+
+2) posting obscenities (i.e. the phrase "fuck you") to national
+builtin boards (i.e. the alt.flame and rec.aquaria newsgroups)
+
+3) being expelled by ACS from all University networks
+
+4) continuing his behavior on a student account on the engineering computer
+
+5) The free print job of another student's account was charged to Mr.
+Brack's social security
+
+6) Another student's account at Ohio State was used to access Mr.
+Brack's public account at the University of Denver.
+
+7a) keeping nonacademic files on the Mac server
+
+b) used multiple (i.e. two) Macs at the same time
+
+8) Stored 24 copies of a program, maliciously
+
+9) [same as #6?] Used an ACS computer, on which he did not have an
+account, to access his account at the University of Denver.
+
+- Carl
+
+p.s. A collection of caf-talk notes relating to Steven Brack and
+Ohio State are available via anonymous ftp from eff.org as file
+academic/ohio-state.
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Thu, 11 Jul 1991 15:37:12 GMT
+Message-Id: <1991Jul11.153712.9886@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <1991Jul11.145817.9405@eff.org>
+Subject: Re: Ohio State
+
+One of most important lessons I have learned from our discussions on
+the Computers and Academic Freedom mailing list is that good
+communications between users and sys admins is critical. As Sanjay
+Kapur, a sys admin at SUNY Stony Brook, wrote on June 20th:
+
+"My experience has taught me that ALL problems of abuse etc. come
+about due to lack of communications between the Systems staff and the
+users.  Direct access to the systems staff who actually manage the
+system in addition to access to a front office (e.g. an accounts
+offoce, a user support office, Student assistants) has to be a central
+element of any policy."
+
+The Ohio State affair could be a case study in what happens when
+communications breaks down and all actions are ascribed to malice.
+
+Remember how this all started. Mr. Brack reformatted the system manual
+pages on an HP workstation.
+
+Academic Computer Services's (ACS) viewpoint: Mr. Brack vandalized the
+system.
+
+Brack's viewpoint: It was an accident; I assumed it would only
+reformat only my personal manual pages. If reformatting is such a
+terrible thing to do, why are the file permissions set so that anyone
+can do it?
+
+In the next event, Mr. Brack got into a heated argument in alt.flame.
+He replied to someone else's note with the message "fuck you". (This
+is exactly the kind of message for which alt.flame was designed.) The
+note that Mr. Brack replied was set so that by default all replies
+would go to not only alt.flame but also rec.aquaria. Thus, Mr. Brack
+posted the message "fuck you" to the aquarium newsgroup.
+
+ACS's viewpoint: Mr. Brack is trying to make Ohio State look bad by
+posting rude messages to the world.
+
+Brack's viewpoint: I was tricked into posting to rec.aquaria. I didn't
+even know that replies could be directed to other groups.
+
+So how can ACS and Mr. Brack view the same events so differently? 
+William Murray's note of June 29 addresses this question:
+
+"The student knows that systems are robust.  'Pac-Man' never broke.
+'King's Quest' never broke.  You could push as hard as you wanted to;
+it never broke.  You could not get out of the 'land.' It did not
+break.  Yet.  Push!  Problems are related to hardware and software,
+not users.  The rules of the game are implicit in the game.  If you
+can do it, it is legitimate.  The way you 'win the game' is to explore
+the land to its outermost boundaries."
+
+"The system administrator knows that systems are fragile.  Most have
+come about by elaboration of earlier systems.  They were not designed
+of a piece.  Even when we do a major upgrade, we often include
+function from earlier systems, usually as an accomodation to users.
+This functionality often includes gratuitous generality and
+flexibility.  The systems have often been extended to support user
+populations which are much larger and less orderly than the ones for
+which the systems were conceived.  The result is systems which are not
+as robust as might be indicated or expected for their current use and
+user populations.  The system administrator knows this."
+
+Here are my comments on the specifics of the Ohio State affair.  [I'm
+quoting from my previous note.] Recall that the Joint Statement
+on Rights and Freedoms of Students says that "[t]he burden of proof
+should rest upon the officials bringing the charge."
+
+>Last quarter Steven Brack, a student at Ohio State, was indefinitely
+>expelled from Ohio State's Academic Computing Services (ACS)
+>computers.  Next month he is scheduled for his first hearing before
+>the Judiciary Committee.
+
+Either 1) Mr. Brack was punished without the chance for a hearing or
+2) that he is in jeopardy of being punished twice for the same offense
+(double jeopardy).
+
+>1) typing the command "shutdown" on a Unix computer
+
+He is not accused of executing this command; as an ordinary user
+it would be impossible for him to execute this command.
+
+>2) posting obscenities (i.e. the phrase "fuck you") to national
+>builtin boards (i.e. the alt.flame and rec.aquaria newsgroups)
+
+The phrase "fuck you" is rude, but protected speech. It is not
+obscene. The posting to rec.aquaria was accidental. The posting
+to alt.flame was consistent with the purpose of that newsgroup.
+
+>3) being expelled by ACS from all University networks
+
+This is not an offense on Mr. Brack's part. If ACS expelled Mr. Brack
+without due process, they have committed an offense.
+
+>4) continuing his behavior on a student account on the engineering computer
+
+Without more specific information this is not a legitimate charge.
+
+>5) The free print job of another student's account was charged to Mr.
+>Brack's social security [number]
+
+The other student charged the free print job to Mr. Brack's social
+security number with Mr. Brack's permission. They did this because
+the file that contained the other student's SSN was corrupted.
+
+>6) Another student's account at Ohio State was used to access Mr.
+>Brack's public account at the University of Denver.
+
+The other student accessed Mr. Brack's account at the University of
+Denver. This violates no Ohio State rules (or rules of the University
+of Denver system).
+
+>7a) keeping nonacademic files on the Mac server
+
+This violated no Ohio State rules. (Rather than ask
+Mr. Brack to remove his files; all his files were deleted.)
+
+>b) used multiple (i.e. two) Macs at the same time
+
+This is a petty accusation. Using multiple Macs when the lab is nearly
+empty violated no Ohio State rules. When asked to move to one Mac
+(because a class was expected), Mr Brack did.
+
+>8) Stored 24 copies of a program, maliciously
+
+This is false. Mr. Brack used 24 meg of disk space, but did
+not store 24 copies of any programs. This violated no Ohio State
+rules. When asked to free up disk space, Mr. Brack did.
+
+>9) [same as #6?] Used an ACS computer, on which he did not have an
+>account, to access his account at the University of Denver.
+
+Same as #6.
+
+In sum, you may not like Mr. Brack. You may have found his "fuck you"
+note offense and his subsequent defense of himself whinny. But whether
+you like him or not, the pettiness and weakness of the charges against
+Mr. Brack (he is not accused of causing any actual damage), support
+the conclusion that this whole affair has more to do with poor
+communications than with computer vandalism.
+
+I would hope that the charges against Mr. Brack would be dropped and
+that his computer expulsion would be ended. In the future, I hope that
+ACS will handle problems less hystically and more professionally by:
+
+1) working with the user community to create and implement a good
+written policy
+
+2) talking *with* (not "at") users when there is a problem 
+
+3) respecting their user's freedom of expression
+
+4) respecting their user's due process rights by punishing (when
+neccessary) users only after the user has had a chance for a hearing.
+
+What do you think?
+
+- Carl
+
+
+References
+
+The full text of all the notes I quoted from are available via
+anonymous ftp to eff.org in files academic/news/June,
+academic/ohio-state, and academic/student-rights.
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Thu, 11 Jul 1991 18:21:20 GMT
+Message-Id: <1991Jul11.182120.12042@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <1991Jul11.145817.9405@eff.org>, <1991Jul11.153712.9886@eff.org>
+Subject: Re: Ohio State
+
+A coorespent has sent me email, defending the authority of sys admins
+to suspend user accounts pending a hearing if the user accounts
+poses a treat to the system.
+
+I agree that a sys admin should have this authority. In fact the Joint
+Statement says much the same thing. It says:
+
+"C. Status of Student Pending Final Action
+
+  Pending action on the charges, the status of a student
+should not be altered, or his right to be present on the
+campus and to attend classes suspended, except for
+reasons relating to his physical or emotional safety and
+well being, or for reasons relating to the safety and well-being
+of students, faculty, or university property."
+
+I don't, however, think this principle applies in the Ohio State case.
+Steven's expulsion from the computer is not temporary while he awaits
+a hearing. It is forever. He has no way to appeal the punishment
+because it was inflicted as an administrative action, not as part of
+University disipline. Steven's only recourse is to charge the ACS
+administrators with official misconduct.
+
+Next month's hearing will decide if Steven should be punished even
+*more* with an official warning from the University, or a suspension
+or expulsion from the University. It will not address his computer
+expulsion.
+
+I think this whole mess could have been avoided if either party had
+acted more maturely. Maybe that was impossible. Steven was a freshman
+and ACS was new (or at least a rapidly growing) organization. Now
+Steven and ACS seem to be in a death grip that could end with Steven's
+expulsion from OSU and employment termination for several ACS
+administrators.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 13 Jul 91 01:39:01 GMT
+Message-Id: <16945@life.ai.mit.edu>
+Organization: The Internet
+From: snorkelwacker.mit.edu!ai-lab!wookumz.gnu.ai.mit.edu!helen@uunet.uu.net
+References: , <1991Jul11.145817.9405@eff.org>, <1991Jul11.153712.9886@eff.org>.edu
+Subject: Re: Ohio State
+
+% cat my_background
+Former undergrad and frequent user of an academic campus network. (4+ years)
+Former academic computer center consultant/programmer. (2+ years)
+Former corporate UNIX network sysadmin. (4 years)
+Current grad student and frequent user of an academic campus network.
+(ie, someone who *has been* a sysadmin, but is currently a user)
+%
+
+Sanjay Kapur and William Murray summarized the sysadmin vs. users conflict in
+long-ago messages:
+
+SK> My experience has taught me that ALL problems of abuse etc. come
+SK> about due to lack of communications between the Systems staff and the
+SK> users. [...]
+
+WM> The student knows that systems are robust. [...]
+WM> The system administrator knows that systems are fragile. [...]
+
+Hmmm....  OK, good.... We seem to have defined a general class of problem
+which arises due to misunderstandings between users and administrators,
+due to environmental, educational and perhaps other differences between
+the two sets of people.  Acknowledging the difference in perspective is a
+good first step.  Now, where to from here?
+
+Let's pick a specific situation.  Let's choose Brack (Russotto would be
+another, perhaps).  As Kadie states in a message from July 11:
+
+CK> The Ohio State affair could be a case study in what happens when
+CK> communications breaks down and all actions are ascribed to malice.
+
+Continuing in <1991Jul11.153712.9886@eff.org> Kadie analyzes the situation
+from that perspective and makes some interesting points.  He goes on to
+discuss nine charges/complaints regarding Mr. Brack's alleged actions,
+presenting explanations/clarifications of those statements.  I didn't see
+the original message which apparently listed the complaints against Mr.
+Brack, but one of them was:
+
+??> 3) being expelled by ACS from all University networks
+
+Kadie's comment on this was:
+
+CK> This is not an offense on Mr. Brack's part.  If ACS expelled Mr. Brack
+CK> without due process, they have committed an offense.
+
+I could not agree more!  Here at Virginia Commonwealth University, the
+"Computer Ethics Policy" is considered a separate document from the
+"University Rules and Procedures Policy" which regulates general VCU
+community member conduct.  Both of those are in turn considered separate
+from the "Academic Integrity Policy" which regulates student conduct
+with respect to academic coursework.  Guess which of the three DOES NOT
+specifically mention "due process" as being required in the application
+of the policy?  Guess what that means for students and staff accused of
+violating it?  Additionally it is common opinion here on the part of
+Faculty and high level Administration that sysadmins are effectively
+exempt from compliance with the Computer Ethics Policy because most of
+it is defined by what the sysadmins themselves consider "appropriate"
+use of VCU "computing resources" on a case by case basis (thus, when
+accounts are turned off wrongfully, etc., sysadmins cannot even be held
+liable for a denial of service).  I am just curious if the bureaucratic
+maze of policies at Ohio State (an even larger university than VCU) has
+similar loopholes.  Anyone care to comment?
+
+Noting that "this whole affair has more to do with poor communications
+than with computer vandalism," Carl Kadie recommends:
+
+CK> I would hope that the charges against Mr. Brack would be dropped and
+CK> that his computer expulsion would be ended. In the future, I hope that
+CK> ACS will handle problems less hystically [sic] and more professionally by:
+CK> 
+CK> 1) working with the user community to create and implement a good
+CK> written policy
+CK> 
+CK> 2) talking *with* (not "at") users when there is a problem 
+CK> 
+CK> 3) respecting their user's freedom of expression
+CK> 
+CK> 4) respecting their user's due process rights by punishing (when
+CK> neccessary) [sic] users only after the user has had a chance for a hearing.
+
+Except for #1 (which I think is an admirable but unachievable goal), it
+sounds great from the user's perspective.  It also sounds non-expedient
+from a system administrator's perspective.  Not all system administrators
+are used to taking the time to do this.  It will be seen as increasing
+their workload.  "We" were busy enough doing support.  We wouldn't want
+to spend time listening to users explain why they did things whose end
+result created more work for us; we'd just want to stop those things
+from happening again.  (note:  addressing ONLY the time-constraint
+factor, not the power-trip factor which seems sometimes to come into
+play.)  Another area of concern is the relationship between the system
+admins and the user community.  System administrators don't want to be
+seen as tolerating too much, lest users get the idea that they can do
+ANYTHING without fear of reprisal.  At the same time, users don't want
+to be blasted for doing something they didn't know was against rules.
+
+It seems to me that from the pragmatic time-constraint perspective,
+the key to making this sound like a good idea to the sysadmins who now
+prefer harsher action is to PROVE it results in a time savings FOR THEM.
+I believe it would, but don't know how to prove it.  Ideas, anyone?
+
+Regarding keeping things from becoming a free-for-all, I think the key
+is simple communication -- and I don't mean a list of specific "Thou Shalt
+Not's" posted in the computer room.  Computer use policies will be vague,
+and appropriateness of specific actions WILL be up to interpretation.  As
+computer people, we know the value of applying "heuristics".  Presumably
+the "algorithm" of determining what is and is not acceptable use of a
+computer includes not just the initial "black and white" knowledge (The
+Policy, known specific rules like "students are not permitted to give
+out their passwords to other students"), but also a bit of information
+gained by observation and experience which can be used as a guide in the
+interpretation of basic policy guidelines.  From both the system admin's
+perspective and the user's perspective, this would seem to include
+information about the environment, the expectations of the people in it,
+and the characteristics of people in it, etc.  The better the heuristics,
+the better each person's interpretation of the policy is likely to be,
+and the less chance of misunderstandings occurring.  Now, how to develop
+that background knowledge?  Communication is one way, though I still don't
+think the system administrator is going to feel it is worth the time.
+And unfortunately, experience is another way.  Yes, this implies that
+some small mistakes probably will be made initially -- by both users and
+system administrators -- and that tolerance of them is very important.
+But it also implies that there are learning and growth processes, and
+provides for taking them into account.  This would surely result in a
+more positive, cooperative environment which encourages constructive
+problem resolution as opposed to attempting to beat problems to death
+with policies.  Seems like an "everyone wins" situation to me...
+--
+Helen C. O'Boyle          | Disclaimer:  just a VCU grad student in no
+isy5hob@cabell.vcu.edu    |              way speaking for the University
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 13 Jul 91 15:15:08 GMT
+Message-Id: <1991Jul13.141842.15316@oar.net>
+Organization: Viento Gigabit Testbed, Ohio Supercomputer Center
+From: snorkelwacker.mit.edu!paperboy!think.com!sdd.hp.com!caen!malgudi!osc.edu!karl.kleinpaste@world.std.com
+References: , <16945@life.ai.mit.edu>.mit.ed
+Subject: Re: Ohio State
+
+Pre-disclaimer:
+I do not represent OSU Academic Computing Services; this is just me.
+I do not represent OSU Academic Computing Services; this is just me.
+I do not represent OSU Academic Computing Services; this is just me.
+
+Four things.
+
+1. Organizational note.  What was once OSU's IRCC (instructional and
+research computer center) organization was renamed ACS (academic
+computing services) a number of months back (about 8, I think) at its
+own request.  This was due to the fact that then-IRCC's focus had long
+since shifted from "computer center"-like activities, leaning much
+more heavily to network and workstation support and related things.
+However, they do still run the Big Bluish Beasties as well.
+
+2. Bogosity check.  helen@wookumz.gnu.ai.mit.edu writes:
+   [Kadie] goes on to
+   discuss nine charges/complaints regarding Mr. Brack's alleged actions...
+   ??> 3) being expelled by ACS from all University networks
+   Kadie's comment on this was:
+   CK> This is not an offense on Mr. Brack's part.  If ACS expelled Mr. Brack
+   CK> without due process, they have committed an offense.
+
+   I could not agree more!
+
+You are agreeing with what is, to the very best of my knowledge, a
+factually incorrect statement in the first place.
+
+I believe that ACS does not have the authority to ban someone from the
+entire university's networks.  They are responsible for the health of
+their own systems (hpuxa and magnus, notably), and for the campus
+Proteon ring and its off-campus connections.  They are not responsible
+for, and have no authority over, individual departments' machines and
+subnetworks.
+
+If EE or CIS or Speech&Hearing or Ag wants to give Mr Brack access,
+they can do so, and they can let him use email & news, too, if they
+want.  If ACS determines that Mr Brack is the source of some other
+network offense while operating from such other machines, then ACS
+technically has the authority to, e.g., disconnect the entity as a
+whole.  ACS has never done such a thing, nor even threatened to do so.
+Believe me, if they'd even threatened such a thing, it would have been
+big news around campus.  ACS has no authority over individuals' access
+to other departments' machines.
+
+3. The topic of Mr Brack came up very, very briefly (all of about 4
+sentences' worth) in last Thursday's network working group meeting.
+Dr Robert Dixon, ACS director, noted that, per the OSU Academic
+Misconduct Committee, ACS will have no response to the current debate
+pending completion of the Committee's investigation.
+
+4. Dr Dixon also observed, in the 3rd of those 4 sentences, that there
+is "much more to the situation than has been said [in the newsgroups]."
+
+Post-disclaimer:
+I do not represent OSU Academic Computing Services; this is just me.
+I do not represent OSU Academic Computing Services; this is just me.
+I do not represent OSU Academic Computing Services; this is just me,
+recalling things said in a public forum 2 days ago.
+
+neither postmaster nor newsadmin any more,
+and thank heavens for small favors,
+--karl
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Sat, 13 Jul 1991 15:40:53 GMT
+Message-Id: <1991Jul13.154053.19782@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <16945@life.ai.mit.edu>, <1991Jul13.141842.15316@oar.net>
+Subject: Re: Ohio State
+
+I thank Karl Kleinpaste for posting. Several email notes to me have
+said maybe folks at ACS would like to join the debate, but can not.
+the debate. Thus, except for (my notes of) the charges against Mr.
+Brack, this debate is likely lopsided.
+
+karl.kleinpaste@osc.edu writes:
+[...]
+>I believe that ACS does not have the authority to ban someone from the
+>entire university's networks.  They are responsible for the health of
+>their own systems (hpuxa and magnus, notably), and for the campus
+>Proteon ring and its off-campus connections.  They are not responsible
+>for, and have no authority over, individual departments' machines and
+>subnetworks.
+
+According to Mr. Brack, ACS did banned him from all university
+networks.  He says a literal reading of the "agreement" would prohibit
+him from using Ohio's computerized library system. I think Mr. Brack
+agrees with Mr. Klinepaste that such a ban (would/does) exceeds ACS's
+authority.
+
+>3. The topic of Mr Brack came up very, very briefly (all of about 4
+>sentences' worth) in last Thursday's network working group meeting.
+>Dr Robert Dixon, ACS director, noted that, per the OSU Academic
+>Misconduct Committee, ACS will have no response to the current debate
+>pending completion of the Committee's investigation.
+
+Just a clarification. ACS tried but failed to level charges against Mr.
+Brack in the OSU Academic Misconduct Committee. Apparently someone
+involved in the Committee was wise enough to note that using two Macs
+at once in a nearly empty computer lab is not an academic offense. Mr.
+Brack *is* being charged by the Judicial Committee.  This is the
+committee that would hear charges against a student who maliciously
+broke a window on University property. [I hope the punishment for
+allowing someone to charge a free print job your social security
+number is not more severe than the punishment for breaking a window.]
+
+>4. Dr Dixon also observed, in the 3rd of those 4 sentences, that there
+>is "much more to the situation than has been said [in the newsgroups]."
+[...]
+
+I posted (to the best of my ability) *all* the charges against Mr.
+Brack. Dr. Dixon's observation reminds me of something Senator Joseph
+McCarthy might have said. ("I have in my pocket a list of known
+hackers.")
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 13 Jul 91 17:12:32 GMT
+Message-Id: <16957@life.ai.mit.edu>
+Organization: The Internet
+From: snorkelwacker.mit.edu!ai-lab!wookumz.gnu.ai.mit.edu!helen@world.std.com
+
+References <1991Jul11.153712.9886@eff.org>, <16945@life.ai.mit.edu>, <1991Jul13.082854.3398@lynx.CS.ORST.EDU>=a
+~Subject: Re: Ohio State
+
+In article <1991Jul13.082854.3398@lynx.CS.ORST.EDU> mickelp@prism.cs.orst.edu (Paul M. Mickel ) writes:
+>In article <16945@life.ai.mit.edu> helen@wookumz.gnu.ai.mit.edu (Helen O'Boyle) writes:
+>[lots deleted for brevity]
+>> [...] It also sounds non-expedient
+>>from a system administrator's perspective.  Not all system administrators
+>>are used to taking the time to do this.  It will be seen as increasing
+>>their workload.  "We" were busy enough doing support.  We wouldn't want
+>>to spend time listening to users explain why they did things whose end
+>>result created more work for us; we'd just want to stop those things
+>>from happening again.  [...]
+>>[...] System administrators don't want to be
+>>seen as tolerating too much, lest users get the idea that they can do
+>>ANYTHING without fear of reprisal.  At the same time, users don't want
+>>to be blasted for doing something they didn't know was against rules.
+>
+>My question here is, in a sense, which comes first, the chicken or the egg?
+
+How about trying both at the same time.... VERY cautiously.
+
+>In this case, you cannot have a system that is used, yet you need people 
+>knowledgeable in the system to handle admin problems. It seems to me that
+>the user must be given more consideration that you imply here, since w/o
+>the user, you have no system to admin.
+
+Oooops...  My "expediency" comments, and any others which seemed to be
+less considerate of users, were meant to describe the kind of sysadmins
+who view users as more of an annoyance in their daily life (which
+involves keeping named running correctly, hacking features into Elm,
+testing file transfer systems and ... um ... displaying "interesting"
+GIFs on their workstations when they think no one is looking).  Or to
+describe organizations which encourage that view.  In the interview for
+one SA position, I was asked if I would be able to "stay away from the
+users", allowing the Help Desk to ALWAYS act as an intermediary (ie, SA
+wouldn't be able to talk to a user without a Help Desk person present).
+I would hope most sysadmins are encouraged to work more closely with
+their users (certainly we've seen examples of that here.... Sanjay
+Kapur, Wes Morgan, etc.).  However, _some_ aren't, and I believe THAT is
+where the problem comes in.  It is necessary to find a "business reason"
+for them to change (after all, they're happy NOW, going along their own
+merry way, trifling with users only when the administration thinks a
+user has "done wrong"), or they won't.  This sounds unnecessarily cold,
+but it IS the way some of them think -- "business reason" is in quotes
+because someone I knew a couple years ago used that term in describing
+why it wasn't practical for him to learn more about the user comunity he
+was supposed to be serving.  Remember that everyone is different.  If
+you don't understand why a certain sys admin views things as he/she
+does, that sys admin probably doesn't understand why YOU view things as
+you do, either.  It is not necessary to agree with everyone, but it
+sure can be helpful to understand why they hold the views they do, even
+(rather, especially) when those views differ from your own.
+
+>And the user who is unhappy w/ the
+>service is likely to take their work elsewhere, if possible.
+>    [...]
+>Paul M. Mickel				mickelp@prism.cs.orst.edu
+>Oregon State University			Corvallis, OR   97331
+>#include <stddisclaimer.h>
+
+I like that line of reasoning a lot, but think that the key is "if
+possible."  Many times, for undergraduates, there IS NO alternative.
+Assignments for certain classes are done on certain systems.  Many
+times, the bulk of computing funding goes to the central campus
+computing organization, and individual departments just don't have
+the money to develop their own alternatives.  The people who run
+these systems have a monopoly.  They do not need to compete on
+"service" with anyone else, because in practicality there is no one
+else.  Whether you think this is good or bad, the situation exists.
+It is necessary to work within this constraint, attempting to understand
+the position these people are in, to have even a moderate chance of
+improving the way things are.
+
+--
+Helen C. O'Boyle          | Disclaimer:  just a VCU grad student in no
+isy5hob@cabell.vcu.edu    |              way speaking for the University
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Sun, 14 Jul 1991 20:35:48 GMT
+Message-Id: <1991Jul14.203548.6278@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+References: , <1991Jul11.145817.9405@eff.org>, <1991Jul11.153712.9886@eff.org>
+Subject: You can help (was Ohio State)
+
+You may be able to help Steven Brack. Steven would be greatful for
+e-mail letters of support. He will offers these letters to the Ohio
+State Judicial Affairs Committee as evidence for his position that
+many the charges against him are ridiculous or petty. (In the worst
+case, Steven will be expelled for typing "fuck you" to alt.flame
+[intentionally] and rec.aquaria [accidentally]). Even very short notes
+may be helpful.
+
+The address to write to is: sbrack%bluemoon@nstar.rn.com
+
+I know from notes and e-mail that some people think that Steven "needs
+an attitute adjustment". (I hope that a bad attitude is not a hanging
+offense at Ohio State University.) Even if you don't want to support
+Steven personally, I urge you write a letter in support of the
+principles of free expression and fair play.
+
+If you have specific information that could help Steven; that would,
+of course, be especially welcome. If you fear my characterization of
+the charges against Steven is inaccurate, I suggest you preface your
+letter with something like "If Carl Kadie's characterization of the
+charges against Steven Brack is accurate, ..."
+
+I'm enclosing my original critique of the charges against Steven.
+There is more information in recent notes in the
+alt.comp.acad-freedom.talk and comp.admin.policy newsgroups (and in
+the comp-academic-freedom-talk mailing list).
+
+- Carl
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+

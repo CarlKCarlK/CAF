@@ -1,0 +1,494 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 8, 1992",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "SWITCH is accused of manipulating public information by blocking specific newsgroups and packets to local eunet chapters.",
+        "The University of Cincinnati moved to terminate accounts for users telnetting to 'game' and IRC hosts.",
+        "Arguments are made that familiarity with network resources, including recreational use, is a valuable professional skill for programmers."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "SWITCH",
+        "University of Cincinnati",
+        "eunet"
+      ],
+      "people": [
+        "Adam C. Gross",
+        "Carl M. Kadie",
+        "William W. Arnold",
+        "Elizabeth M. Reid",
+        "Paul Joslin"
+      ],
+      "summary": "This digest summarizes debates regarding network censorship and acceptable use policies in academic environments. Key discussions focus on SWITCH's filtering of Usenet newsgroups and packets in Switzerland, as well as the University of Cincinnati's policy of terminating accounts for users accessing IRC and game hosts via telnet.",
+      "title": "Abstract of CAF-News 02.12",
+      "topics": [
+        "network censorship",
+        "acceptable use policy",
+        "Usenet",
+        "academic freedom",
+        "IRC"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "ag3j+@andrew.cmu.edu (Adam C. Gross)",
+      "item_count": 12,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 0 -- Abstract of CAF-News 02.12",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 2, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Private organizations acting as information providers for universities can commit censorship.",
+        "SWITCH allegedly used false claims about Swiss law to justify banning newsgroups and discourage secondary feeds."
+      ],
+      "organizations": [
+        "SWITCH",
+        "Mount Holyoke College"
+      ],
+      "people": [
+        "Jurgen Botz",
+        "Brad Templeton"
+      ],
+      "summary": "Jurgen Botz argues against Brad Templeton's claim that a private entity cannot commit censorship. Botz contends that SWITCH, as an information provider for higher education institutions, has a moral responsibility to avoid manipulating information flow. He specifically criticizes SWITCH for claiming banned newsgroups were against Swiss law to discourage member institutions from using secondary feeds.",
+      "title": "Re: Censorship and bigotry come up strong in Switzerland",
+      "topics": [
+        "censorship",
+        "network neutrality",
+        "academic freedom",
+        "Usenet",
+        "Switzerland"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Mar 1992 02:56:34 GMT",
+      "from": "jbotz@mtholyoke.edu (Jurgen Botz)",
+      "item_count": 12,
+      "item_index": 1,
+      "message_id": "<1992Mar2.025634.13544@mtholyoke.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 1--Re: Censorship and bigotry come up strong in Switzerland",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mon, 02 Mar 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Censorship is defined as the use or threat of violence to control information flow.",
+        "Only governments can legally perform censorship in the strict sense.",
+        "The right not to be forced to publish or transmit information is a key component of freedom of expression."
+      ],
+      "organizations": [
+        "ClariNet Communications Corp.",
+        "SWITCH"
+      ],
+      "people": [
+        "Brad Templeton",
+        "Jurgen Botz"
+      ],
+      "summary": "Brad Templeton engages in a debate regarding the definition of censorship in the context of academic and network environments. He argues that true censorship requires the use or threat of force/violence, typically wielded by governments, rather than administrative decisions by universities or network providers. The discussion specifically references actions planned by SWITCH.",
+      "title": "Re: Censorship and bigotry come up strong in Switzerland",
+      "topics": [
+        "censorship",
+        "academic freedom",
+        "freedom of expression",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 02 Mar 1992 08:29:31 GMT",
+      "from": "brad@clarinet.com (Brad Templeton)",
+      "item_count": 12,
+      "item_index": 2,
+      "message_id": "<1992Mar02.082931.21643@clarinet.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 2--Re: Censorship and bigotry come up strong in Switzerland",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "2 Mar 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Usenet is not a public utility or a legal right, but depends on the owners of the hardware.",
+        "SWITCH removed various newsgroups without prior notice via administrative fiat.",
+        "SWITCH previously blocked port 25 (SMTP) to favor X.400 software testing.",
+        "SWITCH was blocking NNTP, Telnet, and FTP traffic to local EUnet/CHUUG sites."
+      ],
+      "organizations": [
+        "SWITCH",
+        "EUnet",
+        "CHUUG",
+        "Swiss Federal Institute of Technology in Lausanne"
+      ],
+      "people": [
+        "Mitchell Wyle",
+        "Brad Templeton",
+        "Chip Salzenberg",
+        "Simon Poole"
+      ],
+      "summary": "Mitchell Wyle discusses the restriction of Usenet newsgroups and network protocols by SWITCH in Switzerland. The post includes a lengthy quote from Chip Salzenberg arguing that Usenet is not a public utility or a right, but subject to the property rights of machine owners. Wyle provides technical evidence of SWITCH blocking specific ports (NNTP, Telnet, FTP) to local EUnet sites.",
+      "title": "Censorship and bigotry come up strong in Switzerland",
+      "topics": [
+        "Usenet",
+        "network censorship",
+        "property rights",
+        "internet protocols",
+        "Switzerland"
+      ]
+    },
+    "identity": {
+      "date": "2 Mar 92 13:50:05 GMT",
+      "from": "wyle@inf.ethz.ch (Mitchell Wyle)",
+      "item_count": 12,
+      "item_index": 3,
+      "message_id": "<1992Mar2.135005.14877@neptune.inf.ethz.ch>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 3--Re: Censorship and bigotry come up strong in Switzerland",
+      "to_or_newsgroups": "ch.general,ch.network,epfl.general,news.admin,eunet.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Mar 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Censorship is defined as the act of an official prohibiting things, rather than a private group choosing not to provide something.",
+        "The decision by a USENET feed to exclude specific newsgroups is not censorship."
+      ],
+      "organizations": [],
+      "people": [
+        "John Stanley",
+        "Jeff Hull"
+      ],
+      "summary": "John Stanley argues against the broad application of the term 'censorship' to describe the actions of private entities or funding bodies. He specifically contends that a USENET feed choosing not to carry certain newsgroups does not constitute censorship, as users remain free to seek alternative feeds.",
+      "title": "Article 4--Re: Censorship and bigotry come up strong in Switzerland",
+      "topics": [
+        "censorship",
+        "USENET",
+        "academic freedom",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "3 Mar 92 00:31:02 GMT",
+      "from": "stanley@skyking.OCE.ORST.EDU (John Stanley)",
+      "item_count": 12,
+      "item_index": 4,
+      "message_id": "<1992Mar3.003102.27987@talon.ucs.orst.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 4--Re: Censorship and bigotry come up strong in Switzerland",
+      "to_or_newsgroups": "ch.general,ch.network,epfl.general,news.admin,eunet.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Mar 92",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "SWITCH is not a private company and follows governmental requests.",
+        "SWITCH proposed allowing newsgroups if the requesting University takes responsibility for them.",
+        "Governmental filtering of legal newsgroups may allow the state to promote or suppress specific information."
+      ],
+      "organizations": [
+        "SWITCH",
+        "EPFL (Ecole Polytechnique Federale de Lausanne)"
+      ],
+      "people": [
+        "Guy Genilloud",
+        "Brad Templeton"
+      ],
+      "summary": "Guy Genilloud discusses the role of SWITCH in managing newsgroup access in Switzerland. He argues that because SWITCH is influenced by governmental organizations, its ability to filter legal newsgroups constitutes a form of censorship. He questions whether universities should be forced to take 'responsibility' for requested newsgroups as a condition for access.",
+      "title": "Censorship and bigotry come up strong in Switzerland",
+      "topics": [
+        "censorship",
+        "network administration",
+        "academic freedom",
+        "Usenet",
+        "Switzerland"
+      ]
+    },
+    "identity": {
+      "date": "3 Mar 92 17:40:31 GMT",
+      "from": "genillou@litsun.epfl.ch (Guy Genilloud)",
+      "item_count": 12,
+      "item_index": 5,
+      "message_id": "<1992Mar3.184031@litsun.epfl.ch>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 5--Re: Censorship and bigotry come up strong in Switzerland",
+      "to_or_newsgroups": "ch.general,ch.network,epfl.general,news.admin,eunet.news",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 2, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Student inaction regarding service shutdowns is often due to a belief that petitions will not effect change.",
+        "Administrators should open policy meetings and seek user input rather than acting arbitrarily."
+      ],
+      "organizations": [],
+      "people": [
+        "Sean Casey",
+        "Mark Hittinger"
+      ],
+      "summary": "Sean Casey responds to Mark Hittinger regarding the shutdown of controversial network services. Casey argues that a lack of student petitions does not imply a lack of seriousness, but rather a systemic distrust of authority. He suggests that administrators should proactively involve users in policy-making instead of acting arbitrarily.",
+      "title": "Article 6--Re: Why I hate IRC",
+      "topics": [
+        "IRC",
+        "student activism",
+        "network policy",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Mar 1992 04:08:35 GMT",
+      "from": "sean@ms.uky.edu (Sean Casey)",
+      "item_count": 12,
+      "item_index": 6,
+      "message_id": "<1992Mar1.230835.9357@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 6--Re: Why I hate IRC",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 2, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators at the University of Cincinnati were killing accounts for connecting to IRC, MUDs, and certain foreign hosts.",
+        "Access to Unix systems was restricted to specific classes (mainly Computer Science) at some universities."
+      ],
+      "organizations": [
+        "University of Cincinnati",
+        "Free Software Foundation",
+        "MIT"
+      ],
+      "people": [
+        "John Schultz",
+        "Michael P. Deignan",
+        "Christopher P. Harr"
+      ],
+      "summary": "A discussion regarding the censorship of telnet connections and account terminations at the University of Cincinnati for accessing IRC or MUDs. John Schultz argues against blanket bans on external connections, citing his use of a guest account at MIT/FSF to gain Unix experience unavailable to non-CS students at his own institution.",
+      "title": "Re: Telnet Censorship",
+      "topics": [
+        "telnet censorship",
+        "academic computing access",
+        "Unix education",
+        "acceptable use policies"
+      ]
+    },
+    "identity": {
+      "date": "Mon, 2 Mar 1992 23:33:19 GMT",
+      "from": "C491153@UMCVMB.missouri.edu (John Schultz)",
+      "item_count": 12,
+      "item_index": 7,
+      "message_id": "<199203022336.AA12510@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 7--Re: Telnet Censorship",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "6 Mar 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Recreational network use (IRC, MUDs) serves as a source of information and professional networking.",
+        "Familiarity with Linux can save institutions money by repurposing existing equipment instead of buying new workstations.",
+        "Proficiency with network resources is a desirable trait for hiring programmers."
+      ],
+      "organizations": [
+        "WPI",
+        "UUNET"
+      ],
+      "people": [
+        "Lawrence C. Foard"
+      ],
+      "summary": "Lawrence C. Foard responds to a claim that gaming on academic computers should be banned due to resource scarcity. He argues that recreational use of the network, including IRC and MUDs, provides professional value and technical skills. He further suggests that familiarity with open-source tools like Linux can reduce institutional costs.",
+      "title": "Article 8--Re: Telnet Censorship",
+      "topics": [
+        "acceptable use policy",
+        "academic freedom",
+        "network resources",
+        "Linux",
+        "IRC"
+      ]
+    },
+    "identity": {
+      "date": "6 Mar 92 04:21:04 GMT",
+      "from": "entropy@wintermute.WPI.EDU (Lawrence C. Foard)",
+      "item_count": 12,
+      "item_index": 8,
+      "message_id": "<1992Mar6.042104.14586@wpi.WPI.EDU>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 8--Re: Telnet Censorship.",
+      "to_or_newsgroups": "alt.censorship",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 7, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Computer policies must be consistent with a university's Student Code to protect freedom of expression and due process.",
+        "Federal courts have consistently struck down speech restrictions at public universities.",
+        "Due process is required before serious punishments can be applied to students for computer infractions."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "University of Illinois at Urbana-Champaign",
+        "Widener University"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Charlie Lindahl"
+      ],
+      "summary": "Carl Kadie responds to a discussion on IRC abuse by arguing that network discipline must be governed by published policies and university judicial procedures. He provides an FAQ and references to the Electronic Frontier Foundation's (EFF) archives regarding computer policy, academic freedom, and relevant case law. The post emphasizes the necessity of due process and user participation in policy development.",
+      "title": "Article 9--Re: Why I hate IRC",
+      "topics": [
+        "due process",
+        "computer usage policy",
+        "academic freedom",
+        "IRC",
+        "case law"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 7 Mar 1992 19:52:13 GMT",
+      "from": "kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)",
+      "item_count": 12,
+      "item_index": 9,
+      "message_id": "<1992Mar7.195213.17699@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 9--Re: Why I hate IRC",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Mar 5, 1992",
+      "historical_relevance": "low",
+      "item_type": "post",
+      "notable_claims": [
+        "The 'filter' program can be used to automatically delete or save emails based on the sender's address."
+      ],
+      "organizations": [
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Brygg Ullmer",
+        "Khaled S. Soufi"
+      ],
+      "summary": "A user asks for a method to block specific email addresses from sending messages. Another user suggests using the 'filter' program associated with the Elm mail client via the .forward file and a filter-rules configuration.",
+      "title": "Is there a way I can block-out certain e-mail?",
+      "topics": [
+        "email filtering",
+        "Elm mail client",
+        "Unix utilities"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 5 Mar 1992 16:40:36 GMT",
+      "from": "ullmer@suna3.cs.uiuc.edu (Brygg Ullmer)",
+      "item_count": 12,
+      "item_index": 10,
+      "message_id": "<1992Mar5.164036.26921@sunb10.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 10--Re: Is there a way I can block-out certain e-mail?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-03-06",
+      "historical_relevance": "low",
+      "item_type": "post",
+      "notable_claims": [
+        "MH can be used to automate the blocking of specific email addresses via .forward and delivery files."
+      ],
+      "organizations": [
+        "University of Illinois Urbana-Champaign"
+      ],
+      "people": [
+        "Mike Schwager",
+        "Khaled S. Soufi"
+      ],
+      "summary": "A user asks for a method to block specific email addresses from sending messages. Mike Schwager suggests using MH (Message Handler) and configuring a .forward file and mail delivery rules to redirect unwanted mail to /dev/null.",
+      "title": "Re: Is there a way I can block-out certain e-mail?",
+      "topics": [
+        "email filtering",
+        "MH (Message Handler)",
+        "Unix utilities"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 6 Mar 1992 02:19:36 GMT",
+      "from": "schwager@cs.uiuc.edu (Mike Schwager)",
+      "item_count": 12,
+      "item_index": 11,
+      "message_id": "<1992Mar6.021936.5715@m.cs.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n12",
+      "subject": "Article 11--Re: Is there a way I can block-out certain e-mail?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

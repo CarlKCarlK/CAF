@@ -1,0 +1,534 @@
+
+=================
+README
+=================
+* Computers and Academic Freedom (CAF) Archive
+
+The CAF Archive is an electronic library of information about
+computers and academic freedom.
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p1/CAF gopher.eff.org
+
+If you have Mosiac or some other WWW client, go to
+   http://www.eff.org/CAF/cafhome.html
+
+It is available via anonymous ftp to ftp.eff.org (192.77.172.4) in
+directory "pub/CAF". It is also available via email. For information
+on email access send email to ftpmail@decwrl.dec.com. In the body of
+your note include the lines:
+  connect ftp.eff.org
+  cd  /pub/CAF
+  get caf
+  cd  /pub/CAF/faq
+  get archive
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+=================
+README.subject-index
+=================
+* Subject Index for the Computers and Academic Freedom Archive
+
+=================
+abstracts
+=================
+* Computers and Academic Freedom News (CAF-News) -- Abstracts
+
+These are abstracts to the Computers and Academic Freedom News
+(CAF-news) for issues before April 11, 1993. Referenced issues of
+CAF-news are available via anonymous ftp to eff.org in directory
+"academic/news".
+
+=================
+academic-porn-conference
+=================
+* Excerpts from a newspaper story about an academic porn conference
+
+=================
+academic
+=================
+* Academic Freedom Statements
+
+General Academic Freedom Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of general academic freedom statements.
+It includes the Statement on the Rights and Freedoms of Students. File
+README is a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/academic gopher.eff.org
+
+The document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/academic/<filename>
+
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com. In
+the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/academic
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+=================
+admin
+=================
+* Administrative Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of documents related to the CAF archive
+and the CAF newsgroups and mailing list. It includes the editorial
+policy of the CAF-News. File README is a detailed description of the
+items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/admin gopher.eff.org
+
+The document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/admin/<filename>
+
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com. In
+the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/admin
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+=================
+anonymity
+=================
+* On individual privacy and the use of "handles"
+
+This article is an excerpt from an issue of FIDONEWS on individual
+privacy and the use of handles.  It accepts the need of a system
+operator to know the name of a user; but suggests that the use of a
+handle is analogous to a request to withhold the name in a letter to
+the editor. The article concludes with a set of guidelines for
+preserving the right to be anonymous.
+
+=================
+banned.1991
+=================
+* Computer material that was banned/challenged in academia in 1991
+
+A list of computer material that was banned at universities during (or
+before) 1991. It summarizes incidents and policies at Ohio State U.,
+the U. of Illinois (two campuses), Case Western U., Boston U., U. of
+Waterloo, U.  of Toledo, Western Washington U., Iowa State U.,
+Pennsylvania State U., U. of Texas, U. of Newcastle, James Madison U.,
+U. of Wisconsin, and others.
+
+=================
+banned.1992
+=================
+* Computer material that was banned/challenged in academia in 1992
+
+A list of computer material that was banned or challenged in academia
+in 1992. The institutions mentioned are:
+
+Ball State U., Boston U. (2), Carnegie Mellon U., German universities,
+Iowa State U. (3), Irish universities, James Madison U., Middle East
+Technical U., North Dakota State U., Pennsylvania State U., Princeton,
+Simon Fraser U., U. of British Columbia, U. of California at Berkeley
+*, U. of Illinois at Urbana-Champaign, U. of Manitoba, U. of Nebraska
+at Lincoln, U. of Newcastle, U. of Ottawa, U. of Texas, U. of Toledo,
+U. of Toronto *, U. of Wyoming, United Kingdom Net, Virginia Public
+Education Network, Virginia Tech, Western Washington U. (& U. of
+Washington), Wilfrid Laurier U. (2), Williams College **
+
+========
+* Site of an unsuccessful challenge
+** College not directly involved.
+
+=================
+banned.1992.original
+=================
+* Computer material that was banned/challenged ...'92 - old version
+
+The first posted version of the list of computer material that was
+banned or challenged in academia in 1992.
+
+=================
+batch
+=================
+* CAF-Talk Archive
+
+This is a directory of notes that have been sent over the
+comp-academic-freedom mailing list. Each file is a list
+of one week's notes (in batch form). Also, see "news".
+
+=================
+books
+=================
+* Bibliography
+
+This is a directory of book references related to Computers and
+Academic Freedom or mentioned in the CAF discussion. The file
+books/README is a bibliography.
+
+=================
+caf
+=================
+* About the CAF mailing lists (and newsgroups)
+
+A description of the comp-academic-freedom-talk mailing list. It is a
+free-forum for the discussion of questions such as: How should general
+principles of academic freedom (such as freedom of expression, freedom
+to read, due process, and privacy) be applied to university computers
+and networks? How are these principles actually being applied? How can
+the principles of academic freedom as applied to computers and
+networks be defended?
+
+=================
+cases
+=================
+* Information about specific CAF cases
+
+Case Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of information about specific computers
+and academic freedom cases. File README is a detailed description of
+the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/cases gopher.eff.org
+
+The document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) by email, send email to
+ftpmail@decwrl.dec.com. In the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/cases
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+=================
+cfpii.pointer
+=================
+* How to access the CFP '92 proceedings
+
+On-line Proceedings for "Computers, Freedom and Privacy II" are
+available to those on the Internet. A WAIS database contains the ASCII
+text of the proceedings courtesy of the ACM.
+
+=================
+civics
+=================
+* Civics Archive
+
+Directory of general documents related to government. It includes the
+U.S. Constitution and (part of the) Canadian constitution and mailing
+addresses for U.S.  Senators and Representatives.
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/civics gopher.eff.org
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.77.172.4). It is in directory "pub/academic/civics".
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com. In
+the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/civics
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+=================
+civil-liberty
+=================
+* Civil Liberty Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of civil liberty statements. It includes
+Briefing Papers from the American Civil Liberties Union. (The ACLU
+material is made available by permission of the American Civil
+Liberties Union)
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/civil-liberty gopher.eff.org
+
+The archive is also accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.77.172.4). It is in directory
+"pub/academic/civil-liberty". To get the file(s) by email, send email
+to ftpmail@decwrl.dec.com. In the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/civil-liberty
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+=================
+faq
+=================
+* Frequently Asked Questions
+
+An archive of frequently asked questions. If you have a WWW browser
+(e.g. Mosaic, Lynx, etc), the URL is 
+         <a href="http://www.eff.org/CAF/faq/">faq</a>
+If you have gopher, the archive is browsable with the command:
+         gopher -p academic/faq gopher.eff.org
+
+The information is also available via anonymous ftp to ftp.eff.org. In
+directory pub/academic/faq get file "README". A list of the questions
+is also available via email. Send email to ftpmail@decwrl.dec.com. In
+the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/faq
+  get README
+
+To get a particular FAQ file, for example, file "email.privacy", use
+anonymous ftp as above or send email to ftpmail@decwrl.dec.com. In the
+body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/faq
+  get email.privacy
+
+Each FAQ file includes the question, an answer, and references to
+additional on-line material.
+
+Disclaimer: The answers are generally not written by lawyers and are
+not authoritative. Each answer is the opinion of its author.
+
+=================
+filters.email
+=================
+* How Unix users can filter out harassing email by themselves
+
+=================
+glossary
+=================
+* Glossary of CAF-releted terms
+
+=================
+k12.networks.survey
+=================
+* EDUCOM servey on computer networking in K12 education
+
+Results of a survey by EDUCOM and IBM on the status of
+computer networking in K12 education.
+
+=================
+law
+=================
+* Law related to Computers and Academic Freedom
+
+CAF Law Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of law related to computers and academic
+freedom. It includes both case law and legislation.
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/law gopher.eff.org
+
+The archive is also accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.77.172.4). It is in directory "pub/academic/law".  To
+get the file(s) by email, send email to ftpmail@decwrl.dec.com. In the
+body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/law
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+=================
+library
+=================
+* Library Policy Statements
+
+Library Policy Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of library policy statements. It
+includes the American Library Association's Freedom To Read statement
+and the ALA Library Bill of Rights. (The ALA material is made
+available by permission of the American Library Association.)
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/library gopher.eff.org
+
+The archive is also accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.77.172.4). It is in directory "pub/academic/library".
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com. In
+the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/library
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+=================
+newabstracts
+=================
+* Computers and Academic Freedom News (CAF-News) -- Abstracts, New
+
+These are abstracts to the Computers and Academic Freedom News
+(CAF-news) from July 04, 1993 on. Referenced issues of CAF-news are
+available via anonymous ftp to eff.org in directory "academic/news".
+
+=================
+news
+=================
+* Computers and Academic Freedom News (CAF-News) -- Back Issues
+
+This is a directory of all issues of the Computers and Academic
+Freedom News. A full list of abstracts is available in file
+"abstracts". The special best-of-the-month issues are named with their
+month, for example, "June".
+
+=================
+policies
+=================
+* Computer policies from many schools (with critiques)
+
+Computer Policy and Critiques Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is a collection of the computer policies of many schools and
+networks. The collection also includes critiques of some of the
+policies.
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/policies gopher.eff.org
+
+The archive is also accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.77.172.4). It is in directory "pub/academic/policies".
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com. In
+the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/policies
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).  Directory "widener"
+contains additional policies (but not critiques).
+
+=================
+recent-changes
+=================
+* Recent changes to the CAF Archive
+
+=================
+reg2rights
+=================
+* History of student regulations at the University of Illinois
+
+... from 1904 to present. Shows how policies evolve.
+
+=================
+statements
+=================
+* Computers and Academic Freedom Statements
+
+Statement Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Frontier Foundation (EFF) Archive]]
+
+This is an on-line collection of computers and academic freedom
+statements. It includes the unofficial, draft "Statement on Computers
+and Academic Freedom". File README is a detailed description of the
+items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+If you have gopher, the archive is browsable with the command:
+  gopher -p academic/statements gopher.eff.org
+
+The document(s) are also available by anonymous ftp (the preferred
+method) and by email. To get the file(s) via ftp, do an anonymous ftp
+to ftp.eff.org (192.77.172.4), and get file(s):
+
+  pub/academic/statements/<filename>
+
+To get the file(s) by email, send email to ftpmail@decwrl.dec.com. In
+the body of your note include the lines:
+  connect ftp.eff.org
+  cd /pub/CAF/statements
+  get <filename1>
+  get <filename2>
+
+where <filenameX> is the name of a file that you want. File README is
+a detailed description of the items in the directory.
+
+For more information, to make contributions, or to report typos
+contact J.S. Greenfield (greeny@eff.org).
+
+=================
+widener
+=================
+* Mirror of ftp.cs.widener.edu:pub/cud/schools/*
+
+It is a collection of the computer polices of many schools. For a
+description of the file see file "widener/Index". Also see directory
+"policies".
+
+=================
+=================
+Last update
+Sun Apr 30 00:04:37 EDT 1995

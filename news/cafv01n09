@@ -1,0 +1,938 @@
+Computers and Academic Freedom (news version)
+Sun June 2, 1991
+Vol. 1, No. 9
+Editor: Carl M. Kadie (kadie@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your
+note will appear immediately on the caf-talk mailing list and in
+the alt.comp.acad-freedom.talk newsgroup.
+
+[This issue covers more topics than usual. The most important
+information is a description of Berkeley's Open Computing Facility
+(OCF), an organization that *democratically* manages computer resources
+for thousands of users. The OCF constitution and bylaws are included.
+
+Other topics discussed are arbitrary searches (re Boston University),
+the need for clear and explicit policy (re U. of Illinois/NCSA), what
+telephone company employees do when they overhear a phone call, how
+email problems can be fixed without reading the body of notes, and
+what do to about (perceived) disk-quota abuse.
+
+The final note announces new distribution methods for the lists and
+tells how to switch.  
+
+- Carl 
+p.s. I hope to switch caf-news to the official digest format soon.  ]
+
+In this issue:
+
+Carl Kadie       30  >Harrassment via email
+Carl Kadie       63  >
+Aydin Edguer     45  >
+Carl Kadie       83  -
+cgd@ocf         393  >Need info on computer acct policy
+cgd@ocf          61  -
+cgd@ocf          42  >
+morgan           57  Email privacy vs. System <> was Re: Harrassment via email
+jbuck            23  >Email privacy vs. System management
+kadie            26  How to quit the mailing lists
+
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Back issues are available via anonymous ftp from eff.org. See file
+academic/README.
+
+Date: Tue, 28 May 91 16:03:41 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105282003.AA04129@eff.org>
+Subject: Re: Harrassment via email
+
+
+kadie (that's me) writes:
+
+>In the name of protecting privacy, the policy attacks privacy. It says
+>the University has the power to "without notice, ... inspect ... any data
+>[or] file"
+>
+
+rickert@cs.niu.edu (Neil Rickert) writes
+[...]
+> Does it?
+
+> Or is it just giving reasonable notice that nothing on the computer can
+>be considered 100% private.
+[...]
+
+I was ambiguous when I wrote that Boston U. asserts the *power* to
+conduct arbitrary searches. It may have been clearer if I had said
+that Boston U. asserts the *right* to conduct arbitrary searches. In
+any case, their policy is not a warning about the technical insecurity
+of their computer system; it is a warning about the administrative
+insecurity of their computer system.
+
+The Boston University policy one-sidedly asserts that the University
+has the right do anything and that faculty and students users have no
+rights at all.
+
+It asserts the right to violate the academic freedoms of faculty and
+student. I condemn it.
+
+Date: Tue, 28 May 91 16:37:04 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105282037.AA04490@eff.org>
+Subject: Re: Harrassment via email
+
+francis%zaphod@gargoyle.uchicago.edu writes:
+
+>>Most people have a hell of a time keeping their private selves
+>>completely distinct from their professional selves.
+
+Sanjay Kapur <SKAPUR@ccmail.sunysb.edu> writes:
+ 
+> Quite a few persons may disagree but it is theft of service to NOT keep them 
+> distinct if you use someone else's (i.e. the University's) resources.
+
+I am not a professional; I am I a university student. [My wife might
+say that I am a professional student :-)]  Are you saying that if
+I read a university library book just for fun, I am a service thief?
+
+[...]
+> 
+> Dorm rooms are "houses", unlike offices which are not covered by the fourth 
+> amendment:
+
+The Supreme court and I disagree with you.
+
+[...]
+> You have a right to prevent only "unreasonable" searches of "your" papers. 
+> Anything in your office is presumed to belong to your employer.  Your office 
+> room building and furniture certainly does so belong and so can be legally 
+> entered into and "searched".  The New Jersey case quoted in this forum a few 
+> weeks back and cited by the ACLU notwithstanding.  Similarly 
+> anything in the computer owned by the university is, under current law, 
+> presumed to belong to the university.
+[...]
+
+As the New Jersey case shows, government ownership of property does
+not necessarily give the government legal authority to search.
+
+Moreover, we are talking about academic rights, not (necessarily)
+legal rights. My university, and I assume others (maybe even yours),
+explicitly guarantees the privacy of office space.
+
+> >Don't be silly.  The University can't punish me for anything legal
+> >which they don't warn me about in advance.  The only power they have
+> >over me is that granted contractually and explicitly when I enroll.
+> 
+> Ignorance of law (or in this case policy) was never a valid defense.  Just 
+> because the University did not inform you does not mean that they can not 
+> punish you.  
+[...]
+
+What if the policy is not even formulated until after the perceived
+offence occurs? This seems to be what happened in the NCSA case:
+someone embarrassed the NCSA; the NCSA formulated a policy that
+prohibiting the embarrassing behavior; the NCSA punished the
+offender. All very ex post facto.
+
+The Joint Statement on Rights and Freedoms of Students says:
+
+"Offenses should be as clearly defined as possible and interpreted in
+a manner consistent with the aforementioned principles of relevance
+and reasonableness. Disciplinary proceedings should be instituted only
+for violations of standards of conduct formulated with significant
+student participation and published in advance through such means as a
+student handbook or a generally available body of institutional
+regulations."
+
+From: Aydin Edguer <edguer@alpha.ces.cwru.edu>
+Message-Id: <9105281736.AA26349@charlie.CES.CWRU.Edu>
+Subject: Re: Harrassment via email
+Date: Tue, 28 May 91 13:36:34 EDT
+X-Mailer: ELM [version 2.3 PL6]
+
+DISCLAIMER: I am not an attorney and this should not be taken as legal advice.
+	I am only trying to quote what seems to me to be relevant portions of
+	U.S. law.
+
+In Message-Id: <6BCE70C6A6002935@ccmail.sunysb.edu> Sanjay Kapur writes:
+> Does anyone know what the law is regarding disclosing information of a 
+> criminal nature by a telephone repairman?  Say a telephone repairman, while 
+> checking line quality or a broken phone overhears a conversation in which a 
+> drug deal or murder are discussed.
+
+While I see no requirement to report the conversation, such a disclosure
+is legal under the ECPA of 1986.
+
+According to USC Title 18, Part I, Chapter 119, section 2511
+ (18 USC ss 2511)
+ (3)(b) A person or entity providing electronic communication
+ service to the  public may divulge the contents of any such
+ communication
+
+	(iv) which were inadvertently obtained by the service
+ provider and which appear to pertain to the commission of a crime,
+ if such divulgence is made to a law enforcement agency.
+
+> Under what circumstances can the phone company monitor the lines of someone 
+> suspected of "phone phreaking" or its modern equivalent?
+
+By monitor, what do you mean?  Do you mean, to listen to the conversation or
+do you mean to record the phone numbers called?
+
+Once again, from the ECPA of 1986 (18 USC ss 2511):
+
+	(2)(h) It shall not be unlawful under this chapter
+
+	(ii) for a provider of electronic communication service
+ to record the fact that a wire or electronic communication was
+ initiated or completed in order to protect such provider, another
+ provider furnishing service toward the completion of the wire or
+ electronic communication, or a user of that service, from fraudu-
+ lent, unlawful or abusive use of such service.
+
+Aydin Edguer
+
+NOTE:	There is a copy of the ECPA available for FTP from EFF.ORG.
+	Readers are encouraged to obtain a copy and read it over.
+
+Date: Tue, 28 May 91 20:58:25 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105290058.AA07655@eff.org>
+Subject: Harrassment via email
+
+In article <9105282037.AA04490@eff.org> kadie@uiuc.edu (that's me) writes:
+>>Moreover, we are talking about academic rights, not (necessarily)
+>>legal rights. My university, and I assume others (maybe even yours),
+>>explicitly guarantees the privacy of office space.
+>>regulations."
+
+Neil W. Rickert <rickert@cs.niu.edu> writes:
+
+>  Does this mean that the janitor does not come in to empty your waste
+>until you have signed an agreement as to when this is permitted?
+
+>  Does this mean that the university never does an inventory check without
+>first making an appointment to enter your office?
+
+>  Or do you just have a meaning of "private" which is different from
+>everybody else.
+
+I am happy to report that the University of Illinois has discovered
+that privacy does not have to be sacrified for sanitation :-)
+[This is mostly a reprint of a note posted May 12th]
+
+Here is what my Univerity's student code says:
+"IV. Privacy
+
+A. Members of the University community have the same rights of
+privacy as other citizens and surrender none of those rights by
+becoming members of the academic community. These rights of privacy
+extend to residence hall living. Nothing in University regulations or
+contracts shall give University officials authority to consent to a
+search by police or other government officials of offices assigned or
+living quarters leased to individuals except in response to a properly
+executed search warrant or search incident to an arrest.
+
+B. When the University seeks access to an office assigned or living
+quarters leased to an individual to determine compliance with
+provisions of applicable multiple-dwelling unit laws, ordinances, and
+regulations, or for improvement or repairs, the occupant shall be
+notified of such action not less that twenty-four hours in advance.
+There may be entry without notice in emergencies where imminent
+danger to life, safety, health, or property is reasonably feared and
+for custodial service.
+
+C. The University may not conduct or permit a search of an office
+assigned or living quarters leased to an individual except in
+response to a properly executed search warrant or search incident to
+an arrest."
+
+And this is what the the Joint Statement on Rights and Freedoms of
+Students says:
+
+'1. Except under extreme emergency circumstances, premises occupied
+by students and the personal possessions of students should not be
+searched unless appropriate authorization has been obtained. For
+premises such as residence halls controlled by the institution, an
+appropriate and responsible authority should be designated to whom
+application should be made before a search is conducted. The
+application should specify the reasons for he search and the objects
+or information sought. The student should be present, if possible,
+during the search. For premises not controlled by the institution,
+the ordinary requirements for lawful search should be followed.'
+
+>From kadie Thu May 30 11:36:22 1991
+To: cafb-mail
+~Subject: Computers and Academic Freedom mailing list (batch edition)
+Status: RO
+
+
+Computers and Academic Freedom mailing list (batch edition)
+Thu May 30 11:36:11 EDT 1991
+
+In this issue:
+
+Ellen Greenblatt < : Subscription                                             
+Neil Rickert <rick : Re: Harrassment via email                                
+: How to quit the mailing lists                                               
+
+The addresses for the list are now:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+Date: Tue, 28 May 91 18:18:27 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105282218.AA05613@eff.org>
+Subject: Re: Need info on computer acct policy
+
+[This is the Constitution of Berkeley's Open Computing Facility, an
+organization that democratically manages computer resources for
+thousands of users.]
+
+                                The OCF Constitution
+
+
+
+          As ratified or amended by votes of the OCF membership: 3 February
+          1989
+
+
+
+                                      Preamble
+
+          We, the computer using community of the Berkeley  campus  of  the
+          University   of  California,  provide  by  this  Constitution  an
+          organization dedicated to the pursuit of obtaining  and  managing
+          open  computing resources.  The intent of this organization is to
+          provide an environment  where  no  member  of  Berkeley's  campus
+          community is denied the computer resources he or she seeks.  This
+          group's spirit can be traced directly to the former Undergraduate
+          Computing  Facility,  however  this  organization's membership is
+          much more widely open.  It is also the intent of  this  group  to
+          appeal  to  all  members  of  the  Berkeley campus community with
+          unsatisfied computing needs and to  provide  a  place  for  those
+          interested  in  computing  to fully explore that interest.  It is
+          the intention of this group that no small number of  people  ever
+          control   the   accessibility  of  any  OCF  sponsored  computing
+          facility.
+
+
+
+                                      Articles
+	
+
+          1.  Name
+          This organization shall be called the Open Computing Facility and
+          may also be referred to as the OCF.
+
+          2.  Members
+
+              2.1.  General Membership
+              Any UC Berkeley student, faculty or staff member  may  be  an
+              OCF Member.
+
+              2.2.  Active Members
+
+                  2.2.1.  Eligibility
+                  Active Membership status is restricted to  U.C.  Berkeley
+                  Faculty and Staff and Registered Students.
+
+                  2.2.2.  During General Meetings
+                  Any member of the  OCF  shall  be  an  Active  Member  by
+                  physical presence at an OCF General Meeting.
+
+
+
+
+
+
+                                    May 28, 1991
+
+
+
+
+
+                                                                          2
+
+
+                  2.2.3.  Between General Meetings
+                  Any OCF Member who has attended an OCF General Meeting in
+                  either  this  semester  or  the one preceding shall be an
+                  active member.
+
+              2.3.  Inactive Members
+              Any  OCF  Member  who  is  not  an  Active  Member  shall  be
+              considered an Inactive Member.
+
+          3.  Officers
+
+              3.1.  Elected Officers
+
+                  3.1.1.  Offices
+                  The only elected offices are  General  Manager  and  Site
+                  Manager(s).
+
+                  3.1.2.  Eligibility
+                  All elected officers must be Active Members.
+
+                  3.1.3.  When Elected
+                  The officers shall  be  elected  at  each  OCF  Elections
+                  Meeting.
+
+                  3.1.4.  Term Of Office
+                  The  officers'  terms  shall  begin   immediately   after
+                  election and last until the next election.
+
+                  3.1.5.  Removal From Office
+                  An officer shall be removed from office if, at a  General
+                  Meeting, the members vote to remove him or her.
+
+                  3.1.6.  Succession
+                  If any elected position becomes vacant, a General Meeting
+                  will be called to elect a replacement.
+
+                  3.1.7.  General Manager Duties
+                  The General Manager is the chief political and  executive
+                  officer of the OCF and shall chair all meetings.
+
+                  3.1.8.  Site Manager Duties
+                  The Site  Manager  is  the  chief  system  manager  of  a
+                  particular  installation  of computing equipment.  In the
+                  absence of the General  Manager,  a  Site  Manager  shall
+                  chair meetings.
+
+              3.2.  Board of Directors
+
+                  3.2.1.  Membership
+
+                      3.2.1.1.  General Manager and Site Manager(s)
+                      The General Manager and Site Manager are  ex  officio
+                      members  of  the  Board and shall have no more and no
+                      less power than any other member of the Board.
+
+
+
+                                    May 28, 1991
+
+
+
+
+
+                                                                          3
+
+
+                      3.2.1.2.  Other Directors
+                      Other  Directors  shall  be  appointed  and   removed
+                      through the OCF Decision Making Process.
+
+                  3.2.2.  Term Of Office
+                  The term shall expire at the next Elections Meeting.
+
+                  3.2.3.  Duties
+                  Directors shall normally be responsible for the creation,
+                  implementation  and  discussion  of  the  majority of OCF
+                  actions.  Also the Board shall review all of the  actions
+                  of   the   General   Manager  and  Site  Manager  at  its
+                  discretion.
+
+              3.3.  Interim Manager
+              When the OCF is not formally in session, or  any  other  time
+              when  there  is a temporary vacancy in an elected office, the
+              OCF Decision Making  Process  shall  designate  a  member  or
+              members to see to it that the OCF functions properly.
+
+          4.  Meetings
+          The OCF is formally in session during the Fall Semester  and  the
+          Spring Semester.  This is the only time General Meetings can take
+          place.  The OCF is informally in session between  the  semesters.
+          During  this  time  the Faculty Sponsors and the Interim Managers
+          are responsible for the functioning of the OCF.
+
+              4.1.  General Meetings
+              The OCF Decision Making Process can call a General Meeting at
+              any time.  When possible, one weeks notice shall be given.
+
+                  4.1.1.  Election Meetings
+                  The Elections Meeting shall, in this order,  approve  the
+                  Faculty  Sponsors,  elect  the General Manager, elect the
+                  Site Managers, appoint Directors and  then  consider  new
+                  business.
+
+                      4.1.1.1.  Fall Meeting
+                      The  OCF  shall  meet  during  the  week  immediately
+                      preceding Thanksgiving.
+
+                      4.1.1.2.  Spring Meeting
+                      The OCF shall meet during the second  week  following
+                      Spring Break.
+
+                  4.1.2.  Special General Meetings
+
+                      4.1.2.1.  How Called
+                      Ten OCF members can call a  Special  General  Meeting
+                      when the normal process for calling a General Meeting
+                      is not feasible.
+
+
+
+
+
+
+                                    May 28, 1991
+
+
+
+
+
+                                                                          4
+
+
+                      4.1.2.2.  Procedure
+                      These ten members must notify the General Manager  if
+                      possible,  provide  prominent  public  notice  of the
+                      meeting at least one week beforehand and must try  to
+                      contact all members of the OCF.
+
+              4.2.  Voting
+
+                  4.2.1.  Elections and General Meetings Quorum
+                  By definition a quorum exists at these meetings.
+
+                      4.2.1.1.  Special General Meetings
+                      Quorum consists of 25% of all Active Members prior to
+                      the meeting.
+
+                  4.2.2.  Board Meetings
+                  Quorum consists of 3/4 of the Board of Directors or  five
+                  Board members, whichever is greater.
+
+                  4.2.3.  Procedure
+
+                      4.2.3.1.  Election of Officers
+                      The election of officers shall be by  secret  ballot.
+                      A  simple  majority of those casting votes (including
+                      abstaining votes) is required. If on the first ballot
+                      no  candidate  receives a simple majority, then there
+                      will be a runoff between the top two candidates.  The
+                      voting  will  continue until one candidate receives a
+                      simple majority.
+
+                      4.2.3.2.  Other Votes
+                      All other votes require a simple majority to pass.
+
+                      4.2.3.3.  Proxy
+                      An OCF Member must be present at a meeting to vote.
+
+          5.  Faculty Sponsors
+          The OCF Faculty Sponsors shall consist of  a  faculty  member  or
+          faculty  members who are dedicated to the functioning of the OCF.
+          These Faculty Sponsors shall be selected  by  the  OCF  Board  of
+          Directors  and  shall  be  subject to selection by the OCF at the
+          Elections Meeting.
+
+          6.  The OCF Decision Making Process
+
+              6.1.  Faculty Sponsors
+              The Faculty Sponsor or Faculty Sponsors shall  have  ultimate
+              authority  over  any  OCF  actions  except for constitutional
+              amendments and the approval of the Faculty Sponsors.
+
+              6.2.  OCF Membership
+              The OCF Active Membership shall have authority over  any  OCF
+              actions except where such action conflicts with Article 6.1.
+
+
+
+
+                                    May 28, 1991
+
+
+
+
+
+                                                                          5
+
+
+              6.3.  OCF Board of Directors
+              The OCF Board of Directors shall have authority over any  OCF
+              actions  except where such action conflicts with Articles 6.1
+              and 6.2.
+
+              6.4.  OCF General Manager
+              The OCF General Manager shall have  authority  over  any  OCF
+              actions except where such action conflicts with Articles 6.1,
+              6.2 and 6.3.
+
+              6.5.  OCF Site Managers
+              OCF Site Managers shall have authority over any  OCF  actions
+              except  where  such  action conflicts with Articles 6.1, 6.2,
+              6.3 and 6.4.
+
+          7.  Bill of Rights
+
+              7.1.  Nondiscrimination
+              The OCF shall not discriminate in any way against any  person
+              by  race,  color,  religion, marital status, national origin,
+              sex, age, sexual  orientation,  handicap,  college  major  or
+              political activity.
+
+              7.2.  Hazing
+              The OCF shall not haze, in accordance with  California  state
+              law.
+
+              7.3.  Grievance
+              Any individual who has a grievance with the OCF  shall  first
+              contact  the  General  Manager.  He or she may then appeal to
+              the Faculty Sponsors and then finally to  the  University  of
+              California through established channels.
+
+              7.4.  Conduct
+              All  users  of  OCF  managed  facilities  shall  comply  with
+              University   of  California  regulations,  including  the  UC
+              Berkeley Student Conduct Code and any OCF regulations.
+
+              7.5.  Freedom of Information
+              All official OCF documents must  be  provided  to  interested
+              parties  without undue delay and the OCF may not charge above
+              cost to do so.
+
+              7.6.  Privacy
+              Individuals' rights of privacy shall not be violated  without
+              reasonable cause.
+
+              7.7.  Rights Not Enumerated
+              The enumeration in this Constitution of certain rights  shall
+              not  be  construed to deny or disparage other rights retained
+              by individuals.
+
+
+
+
+
+
+                                    May 28, 1991
+
+
+
+
+
+                                                                          6
+
+
+          8.  Amendments and Bylaws
+
+              8.1.  Amendments
+
+                  8.1.1.  Process
+                  A  proposed  amendment  to  the  Constitution   must   be
+                  presented  for consideration at a General Meeting. If the
+                  Membership votes to further consider  the  amendment,  it
+                  shall be open for voting for a review period, of not less
+                  than two weeks.  Voting  in  this  case  may  be  through
+                  electronic  or  physical  means.  A  2/3  majority of all
+                  Active Members is required for approval.
+
+                  8.1.2.  Annotation
+                  Whenever this Constitution is amended, an  annotation  of
+                  the  date of ratification shall be added to the beginning
+                  of this document and shall be further  noted  immediately
+                  following the new amendment.
+
+                  8.1.3.  ASUC Records
+                  All amendments, additions, or  deletions  must  be  filed
+                  with  the  ASUC Student Affairs Office within one week of
+                  adoption, and must be in consonance  with  University  of
+                  California and ASUC regulations and policies.
+
+              8.2.  Bylaws
+              Bylaws may be created or modified as needed, through the  OCF
+              Decision Making Process.
+
+          9.  Dissolution
+          The assets of the OCF  constitute  a  continuing  trust  for  the
+          benefit   of   all  members  of  the  Berkeley  campus  community
+          interested in open computing facilities.  In  the  event  of  the
+          dissolution  of  the  OCF  for whatever reason, the assets, after
+          payment or adequate provision  for  payment  of  all  outstanding
+          debts  and  obligations of the OCF shall be transferred to a non-
+          profit fund, foundation or corporation  which  is  organized  and
+          operated  exclusively  for  the  purposes  for  which the OCF was
+          founded.  All unspent ASUC funds shall remain the property of the
+          ASUC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    May 28, 1991
+
+Date: Tue, 28 May 91 18:24:43 -0400
+From: kadie (Carl Kadie)
+Message-Id: <9105282224.AA05658@eff.org>
+Subject: Need info on computer acct policy
+
+[These are the Bylaws of Berkeley's Open Computing Facility, an
+organization that democratically manages computer resources for
+thousands of users. - Carl]
+
+                     Bylaws of the OCF.
+
+
+
+
+
+
+
+1.   The  General  Manager  and  the  Site  Managers  cannot
+     appoint directors except when the OCF is not in session
+     and the Board of Directors cannot make a quorum because
+     there are fewer than five directors in town.
+
+2.   The OCF Board of Directors shall meet weekly.
+
+3.   Any  Director   missing   two   consecutive   regularly
+     scheduled  meetings  will  be  removed  from the Board,
+     regardless of whether the meetings achieve quorum.
+
+4.   OCF Board meetings must be announced to  all  Directors
+     at least twenty-four hours in advance.
+
+5.   Resolutions by the Board of Directors can be put  to  a
+     vote  electronically.  When putting a resolution to the
+     Board  in  this  manner,  all  Board  members  must  be
+     included  in  the  request for votes.  To pass an issue
+     this way, at least half of all the Board  members  must
+     agree.   If  the  motion  fails  to  achieve a majority
+     within seventy-two hours of  being  called  to  such  a
+     vote,  the  motion fails.  The results of the vote will
+     be posted in role call form.
+
+6.   Attendance lists and minutes for all OCF meetings shall
+     be  maintained  for the decisions of that meeting to be
+     valid.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        May 28, 1991
+
+Subject: Re: Need info on computer acct policy
+Date: Tue, 28 May 91 14:07:13 PDT
+From: cgd@ocf.Berkeley.EDU
+
+[kadie@eff.org writes ]
+
+> 
+> Most university computer policies seem to have been set down without
+> serious user participation. Are there exceptions? Has anyone respected
+> academic freedom (and possibly their own student code) and given users
+> a voice?
+> 
+
+I point to the OCF here at UC Berkeley.
+
+With the exception of a faculty sponsor (who is actively non-involved 8),
+we are completely student run.
+
+We have a constitution, and under this constitution, the users of the
+cluster (about 1500) can elect various managers, and, if the elected
+managers do not perform as the users see fit, they can have the
+managers removed and/or overturn their decisions.
+
+There is a board of directors which is also elected that makes most
+policy decisions, and can be removed/overridden by the general
+membership as well.
+
+One interesting point about the entire organization:
+Though we publicize the various mettings heavily, and encourage
+attendance and user interest/activity, there usually ends up
+being less than 20 users at a given general meeting, and i think
+that there are currently 6 users on the BoD.  Even though it's in
+their interest to be involved and help make policy, the vast
+majority of our users are simply interested in being able to get their
+mail, read their news, use irc, or whatever, and are completely
+uninterested in policy.  It seems that the people who are most
+interested are those who *LEFT* the organization in all respects a
+long time ago, and enjoy criticizing the flaws of the current elected
+officers.
+
+<sigh>
+
+cgd
+cgd@ocf.berkeley.edu
+OCF {Staff, BoD}
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: 31 May 91 12:58:01 GMT
+Message-Id: <1991May31.125801.29115@ms.uky.edu>
+Organization: The Puzzle Palace, UKentucky
+From: elroy.jpl.nasa.gov!lll-winken!iggy.GW.Vitalink.COM!widener!ukma!morgan@uunet.uu.net
+Subject: Email privacy vs. System management, was Re: Harrassment via email
+
+There's a very thin line between the privacy of users' email and
+the needs of the system (all users).  Here's how I handle problems
+such as the "reading mail causes core dump/system warning" example
+discussed in earlier messages.
+
+   1) Send a message to the user, asking them to stop by my office.
+   2) Assuming that the user actually comes by my office, we'll go
+      through his mailbox together, with his permission.
+   3) If he doesn't, I would use egrep to look for non-ASCII charac-
+      ters in his mailbox.  Notice that this does not show me any
+      lines other than those which contain non-ASCII characters.  I
+      see no ethical problem here, since I'm not "reading his mail".
+   4) If step 3 does not solve the problem, I might, after clearing
+      this with my boss, extract all header lines from the user's
+      mailbox.  Ethically, this bothers me just a bit; however, I
+      feel that it is justified, since I'm not reading the actual
+      mail.  Heck, on BITNET you can pull the source/destination
+      address from email *while it's in transit*, even if it's not 
+      addressed to you.  Many mail problems are caused by garbled
+      or improper headers; this approach will yield a solution in
+      many cases.
+   5) If step 4 is unsuccessful, I'd send more email to the user,
+      informing him of the problem and asking him to clean out his
+      mailbox. 
+   6) If all else fails, I'll convert his mailbox to a regular text
+      file (by removing the mailer's delimiters, control characters,
+      et cetera) and move it to the user's home directory.  Again, I
+      can do this without actually reading the email.
+
+This plan is relatively simply to implement in UNIX; I can't speak to
+CMS/VMS/PRIMOS/whatever systems.
+
+An aside:  I was recently discussing system administration with a few
+           of our users, and I mentioned that we'd be implementing disk
+           quotas on the email partition. (Note: under the UNIX operating
+           system, all user mailboxes may be maintained in a separate
+           disk partition/file system.)  One of my users commented that
+           a quota system would be an implicit censorship of users, since
+           it would limit the amount of mail that the user could have at
+           one time.  My perspective is that every mailer has a "capture
+           to disk file" feature that allows the user to move a message
+           to his home diskspace.  If the user is close to his quota in 
+           his home diskspace, that's his problem.  As a system administrator, 
+           my respect for the user's privacy does not extend to unlimited 
+           disk space, especially with 1800 users. 8)
+
+Comments, anyone?
+
+Best,
+Wes
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+    Curator of the benchmark archives at wuarchive.wustl.edu <128.252.135.4>
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Fri, 31 May 1991 22:24:22 GMT
+Message-Id: <1991May31.222422.28508@agate.berkeley.edu>
+Organization: University of California, Berkeley
+From: stanford.edu!agate!forney.berkeley.edu!jbuck@decwrl.dec.com
+References: , <EC9EC36B42008C32@ccmail.sunysb.edu>fo
+Subject: Re: Email privacy vs. System management
+
+In article <EC9EC36B42008C32@ccmail.sunysb.edu>, SKAPUR@ccmail.SUnysb.EDU (Sanjay Kapur) writes:
+|> Suppose an account is shared for two purposes: Research and reading mail.  The 
+|> research usage requires a huge quota.  But instead of doing research the user 
+|> uses up the quota for mail.  What can the system administrator do?  How can 
+|> the system administrator be fair to someone who can not justify a research 
+|> need for disk space?
+
+The system administrator is not mother.  If the user is irresponsible, the
+system administrator need not intervene.  Eventually your hypothetical user
+will find out that he has to delete some of the mail to make room for his
+research work, and the problem will solve itself.
+
+Most institutions solve this problem with billing.  What you do is figure out
+how much you're paying for CPUs, hardware, disk space, etc and people can
+have more disk space by having their departments or research projects pay
+more money.  Disks are cheap these days; buy more disk.  In the case of
+instructional computing (class accounts, etc) there will be enough money
+in the budget to give users the use of a certain amount of disk.
+
+--
+Joe Buck
+jbuck@galileo.berkeley.edu	 {uunet,ucbvax}!galileo.berkeley.edu!jbuck	
+
+Received: from USENET by eff with netnews
+	for caft-mail@eff.org (comp-academic-freedom-talk@eff.org);
+	contact usenet@eff if you have questions.
+Date: Wed, 29 May 1991 22:39:33 GMT
+Message-Id: <1991May29.223933.21869@eff.org>
+Organization: The Electronic Frontier Foundation
+From: kadie
+Subject: How to quit the mailing lists
+
+I am happy to report that Computers and Academic Freedom mailing
+lists are now available as newsgroups. The newsgroups are
+
+alt.comp.acad-freedom.talk (gatewayed to comp-academic-freedom-talk)
+
+   - everything posted to alt.comp.acad-freedom.talk and
+     alt.comp.acad-freedom.news, or mailed to caf-talk@eff.org,
+     appears here without human intervention.
+
+alt.comp.acad-freedom.news (a moderated newsgroup corresponding to
+                            comp-academic-freedom-news)
+
+   - the best notes from caf-talk (as selected by me). A collection
+     is posted at the end of each week, and now at the end of each month.
+
+To quit the mailing lists (because, for example, you will be reading
+the newsgroups), send mail to listserv@eff.org. Include the line
+
+    delete comp-academic-freedom-<version>
+
+where <version> is either talk, batch, or news. If that doesn't work,
+sent email to me at caf-talk-request@eff.org.
+
+- Carl
+-- 
+Carl Kadie -- kadie@eff.org or kadie@cs.uiuc.edu -- But I speak for myself.
+
+

@@ -1,0 +1,81 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Aug 3, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The Women's Centre at University of Waterloo is student-funded and student-operated.",
+        "Prevost-Derbecker is a student at the University of Waterloo."
+      ],
+      "organizations": [
+        "University of Waterloo",
+        "Women's Centre"
+      ],
+      "people": [
+        "Murray S. Kucherawy",
+        "Prevost-Derbecker",
+        "Aggerholm",
+        "Wes Morgan",
+        "David Canzi"
+      ],
+      "summary": "A discussion regarding a University of Waterloo (UW) investigation into offensive images on the computer network. The post clarifies that the Women's Centre is a student-funded service and that Prevost-Derbecker is a student.",
+      "title": "UW to probe offensive images in computer network",
+      "topics": [
+        "offensive content",
+        "university policy",
+        "student organizations"
+      ]
+    },
+    "identity": {
+      "date": "Tue, 3 Aug 1993 21:04:43 GMT",
+      "from": "mskucher@math.uwaterloo.ca (Murray S. Kucherawy [MFCF])",
+      "item_count": 2,
+      "item_index": 0,
+      "message_id": "<CB7Bvw.53w@math.uwaterloo.ca>",
+      "source_kind": "news",
+      "source_path": "news/aug_08_1993",
+      "subject": "Re: [KWR] \"UW to probe offensive images in computer network\"",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Aug 6, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Certain newsgroups were censored in the Oklahoma City area following a BBS porn arrest.",
+        "Users utilized telnet and FTP to bypass local content restrictions."
+      ],
+      "organizations": [],
+      "people": [
+        "Carl Kadie",
+        "John"
+      ],
+      "summary": "A user discusses the censorship of specific newsgroups following a BBS-related arrest in Oklahoma City. The author notes that while general internet access remains, certain content has been blocked by administrators. They mention using telnet and FTP as workarounds to access restricted materials.",
+      "title": "Re: BBS Porn Arrest - OKC",
+      "topics": [
+        "censorship",
+        "BBS",
+        "internet access",
+        "newsgroups"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 6 Aug 1993 06:30:31 GMT",
+      "from": "u953002@unx.ucc.okstate.edu (u953002)",
+      "item_count": 2,
+      "item_index": 1,
+      "message_id": "<1993Aug6.063031.22976@osuunx.ucc.okstate.edu>",
+      "source_kind": "news",
+      "source_path": "news/aug_08_1993",
+      "subject": "Re: BBS Porn Arrest - OKC",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 7, 1993",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "System administrators may violate 4th Amendment rights and due process when searching user files to terminate accounts.",
+        "The distribution of any program, regardless of purpose (including viruses), should not be made illegal.",
+        "Lack of explicit policy on FTP logging means users cannot presume their activity is private."
+      ],
+      "organizations": [
+        "EFF",
+        "SRI"
+      ],
+      "people": [
+        "Karl Barrus",
+        "Carl M. Kadie",
+        "William W. Arnold",
+        "Elizabeth M. Reid",
+        "Adam C. Gross",
+        "Mark C. Sheehan",
+        "Aaron Barnhart",
+        "Leslie Regan Shade",
+        "Henry E. Hardy",
+        "Bruce Umbaugh",
+        "Paul Joslin",
+        "J.S. Greenfield"
+      ],
+      "summary": "This abstract summarizes a series of discussions regarding the intersection of computer administration and civil liberties in academic settings. Key debates include the privacy implications of logging anonymous FTP usage, the legality of system administrators searching user files, and the ethics of account revocation for students.",
+      "title": "Abstract of CAF-News 03.06",
+      "topics": [
+        "FTP logging",
+        "user privacy",
+        "due process",
+        "account revocation",
+        "computer ethics"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "elee9sf@Menudo.UH.EDU (Karl Barrus)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 0 -- Abstract of CAF-News 03.06",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 3 Feb 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Many anonymous FTP servers log hostnames, addresses, and file transfers without stated policies.",
+        "Logging on taxpayer-funded servers may be subject to public record laws or intelligence agency profiling."
+      ],
+      "organizations": [],
+      "people": [
+        "Jyrki Kuoppala"
+      ],
+      "summary": "Jyrki Kuoppala initiates a discussion regarding the ethics and legality of logging anonymous FTP server usage. The post questions whether such logs are necessary for law enforcement or constitute an invasion of privacy, particularly when servers are taxpayer-funded. It suggests potential boycotts of servers based on their logging policies.",
+      "title": "Article 1--Logging anon. ftp usage",
+      "topics": [
+        "privacy",
+        "anonymous FTP",
+        "surveillance",
+        "digital ethics",
+        "public funding"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 3 Feb 1993 10:34:42 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<1993Feb3.103442.12179@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 1--Logging anon. ftp usage",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Feb 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators log anonymous FTP activity to identify potential crackers and locate security holes for patching."
+      ],
+      "organizations": [],
+      "people": [
+        "Tom Mandel",
+        "Jyrki Kuoppala"
+      ],
+      "summary": "Tom Mandel responds to a query regarding the practice of logging anonymous FTP usage. He argues that such logging is primarily necessary for system security, identifying crackers, and patching vulnerabilities. He distinguishes between malicious attacks and naive user behavior in these logs.",
+      "title": "Article 2--Re: Logging anon. ftp usage",
+      "topics": [
+        "FTP",
+        "logging",
+        "system security",
+        "privacy",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "3 Feb 93 21:10:57 GMT",
+      "from": "mandel@netcom.com (Tom Mandel)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1993Feb3.211057.22700@netcom.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 2--Re: Logging anon. ftp usage",
+      "to_or_newsgroups": "comp.admin.policy,comp.org.eff.talk,alt.privacy,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 3, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "FTP logs at this state university are not considered public records",
+        "Publicly accessible logs could expose passwords entered by naive users of anonymous FTP"
+      ],
+      "organizations": [
+        "Northern Illinois University"
+      ],
+      "people": [
+        "Neil Rickert",
+        "Jyrki Kuoppala"
+      ],
+      "summary": "Neil Rickert responds to a query regarding whether FTP logs on taxpayer-funded servers should be public records. He argues that such logs are not made public at his state university to protect users who might accidentally enter passwords into the anonymous login prompt.",
+      "title": "Article 3--Re: Logging anon. ftp usage",
+      "topics": [
+        "FTP logs",
+        "privacy",
+        "public records",
+        "taxpayer funding"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 3 Feb 1993 21:42:49 GMT",
+      "from": "rickert@mp.cs.niu.edu (Neil Rickert)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1993Feb3.214249.9068@mp.cs.niu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 3--Re: Logging anon. ftp usage",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "3 Feb 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "A system administrator terminated a user account based on the content of files found within that account.",
+        "The administrator allegedly discussed private file contents with individuals outside of system or departmental administration."
+      ],
+      "organizations": [],
+      "people": [
+        "Brooks Taylor"
+      ],
+      "summary": "Brooks Taylor reports that a system administrator examined their account files and terminated the account based on the content of those files, despite the user claiming the material was legal. The user further alleges that the administrator shared the contents of these files with unauthorized third parties. This post seeks legal advice regarding privacy rights and administrative overreach in computing environments.",
+      "title": "Can the admin look at my files?",
+      "topics": [
+        "privacy",
+        "system administration",
+        "academic freedom",
+        "digital surveillance"
+      ]
+    },
+    "identity": {
+      "date": "4 Feb 1993 16:32:19 -0500",
+      "from": "jcurran@nic.near.net (John Curran)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1ks213$in6@nic.near.net>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 4--Re: Logging anon. ftp usage",
+      "to_or_newsgroups": "comp.admin.policy,comp.org.eff.talk,alt.privacy,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 3, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrator searches of student files may violate 4th Amendment rights against unreasonable search.",
+        "Termination of accounts based on legal content may violate constitutional and contractual rights to freedom of expression.",
+        "Sharing private file contents with non-administrative personnel may violate the Family Educational Rights and Privacy Act (FERPA)."
+      ],
+      "organizations": [
+        "EFF",
+        "University of Florida",
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "Brooks Taylor"
+      ],
+      "summary": "Carl M. Kadie responds to a student whose account was terminated after a system administrator searched their files and shared the contents with others. Kadie suggests that such actions may violate the 4th Amendment, due process rights, freedom of expression, and FERPA. He provides an extensive list of legal references and university policies regarding electronic privacy.",
+      "title": "Re: Can the admin look at my files?",
+      "topics": [
+        "privacy",
+        "system administration",
+        "due process",
+        "FERPA",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 3 Feb 1993 22:50:41 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<1993Feb3.225041.10325@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 6--Re: Can the admin look at my files?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Thu, 4 Feb 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Campus disciplinary committees may lack jurisdiction over former students regarding the search of digital files.",
+        "There is ambiguity regarding whether an 'invalid' or accidentally active account retains privacy protections."
+      ],
+      "organizations": [
+        "Skidmore College Computer Services"
+      ],
+      "people": [
+        "Leo D. Geoffrion"
+      ],
+      "summary": "Leo Geoffrion of Skidmore College seeks advice regarding the privacy rights of a former summer student whose account was accidentally left active and used for password cracking. The college administration is uncertain if they can legally examine the files without a warrant since campus disciplinary committees lack jurisdiction over non-affiliated individuals.",
+      "title": "an unusual privacy/rights question",
+      "topics": [
+        "privacy",
+        "user accounts",
+        "digital forensics",
+        "academic policy",
+        "search and seizure"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 4 Feb 1993 01:36:14 GMT",
+      "from": "ldg@scott.skidmore.edu (Leo D. Geoffrion)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<1993Feb4.013614.25163@scott.skidmore.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 7--an unusual privacy/rights question",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 4, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Campus disciplinary committees may lack jurisdiction over former students regarding computer misuse.",
+        "The ethical status of using an account depends on whether the user believed they still had authorization to use it."
+      ],
+      "organizations": [
+        "Skidmore College",
+        "Vanderbilt University"
+      ],
+      "people": [
+        "Leo D. Geoffrion",
+        "Glenn McGee"
+      ],
+      "summary": "A discussion regarding the privacy rights of a former student whose account was not purged and subsequently used for password cracking. The exchange explores whether administrators can legally or ethically search files on an invalid account without a warrant when campus disciplinary committees lack jurisdiction over non-students.",
+      "title": "Re: an unusual privacy/rights question",
+      "topics": [
+        "privacy",
+        "user accounts",
+        "digital forensics",
+        "academic ethics",
+        "search warrants"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 4 Feb 1993 05:19:00 GMT",
+      "from": "mcgeege@ctrvx1.vanderbilt.edu (MCGEEGE)",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<3FEB199323193511@ctrvx1.vanderbilt.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 8--Re: an unusual privacy/rights question",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 4, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Questions whether the distribution of computer viruses via FTP should be legally prohibited.",
+        "Queries if censoring the upload of viruses is a practice that warrants shunning."
+      ],
+      "organizations": [],
+      "people": [
+        "Jyrki Kuoppala"
+      ],
+      "summary": "Jyrki Kuoppala initiates a discussion regarding the ethics and legality of hosting computer viruses on FTP sites. The post questions whether such distribution should be prohibited by law or if those who censor such uploads should be shunned.",
+      "title": "Ethics of distributing computer viruses",
+      "topics": [
+        "computer viruses",
+        "FTP",
+        "censorship",
+        "digital ethics",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Thu, 4 Feb 1993 10:18:03 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<1993Feb4.101803.29931@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 9--Ethics of distributing computer viruses",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 5, 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The distribution of any program, regardless of intended use, should never be illegal."
+      ],
+      "organizations": [],
+      "people": [
+        "Doug",
+        "Jyrki Kuoppala"
+      ],
+      "summary": "A user responds to a query regarding whether the distribution of computer viruses via FTP should be prohibited by law or shunned. The author argues that the distribution of any program should never be made illegal regardless of its purpose.",
+      "title": "Ethics of distributing computer viruses",
+      "topics": [
+        "computer viruses",
+        "freedom of speech",
+        "software distribution",
+        "legality"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Doug <JDG111@psuvm.psu.edu>",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<93036.140046JDG111@psuvm.psu.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 10--Re: Ethics of distributing computer viruses",
+      "to_or_newsgroups": "comp.org.eff.talk,alt.comp.acad-freedom.talk,alt.censorship",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "4 Feb 1993",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Accessing a file named 'passwrd' on a public anonymous FTP server was interpreted by the host institution as a malicious attempt to break into the system."
+      ],
+      "organizations": [
+        "Stanford Research Institute",
+        "Memphis State University"
+      ],
+      "people": [
+        "Mark C. Langston"
+      ],
+      "summary": "Mark C. Langston describes being accused of attempting to hack into Stanford Research Institute (SRI) after accessing a password file on a public anonymous FTP site. The incident led to disciplinary warnings from his professor and department chair at Memphis State University based on reports from SRI. Langston argues that since the file was in a public directory, accessing it did not constitute a malicious break-in.",
+      "title": "Legal Tangles During FTP at SRI",
+      "topics": [
+        "anonymous FTP",
+        "computer security",
+        "academic discipline",
+        "digital forensics"
+      ]
+    },
+    "identity": {
+      "date": "4 Feb 93 23:02:39 -0600",
+      "from": "langston@memstvx1.memst.edu (Mark C. Langston)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<1993Feb4.230239.5445@memstvx1.memst.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 11--Legal Tangles During FTP at SRI",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Jan 31, 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The EFF FAQ claims that designating computer use as a 'privilege' does not remove due process requirements.",
+        "Deignan argues that allowing suspected bad actors to maintain account access pending a hearing is unfair to other system users."
+      ],
+      "organizations": [
+        "EFF"
+      ],
+      "people": [
+        "Michael P. Deignan",
+        "Carl M. Kadie"
+      ],
+      "summary": "Michael P. Deignan responds to a quoted EFF FAQ regarding due process for computer users. While the EFF argues that users should not be suspended from facilities without due process, Deignan contends that access should be suspended immediately if a user's actions harm other students or system stability.",
+      "title": "Re: FAST CASH!!!",
+      "topics": [
+        "due process",
+        "computer access",
+        "academic discipline",
+        "system administration"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 31 Jan 1993 18:56:56 GMT",
+      "from": "kd1hz@anomaly.sbs.com (Michael P. Deignan)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1993Jan31.185656.10384@anomaly.sbs.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 12--Re: FAST CASH!!!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 3 Feb 1993",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The EFF FAQ argues that declaring computer use a 'privilege' does not remove due process requirements.",
+        "Arguments are presented both for and against the suspension of accounts prior to formal hearings based on system security versus individual fairness."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation (EFF)"
+      ],
+      "people": [
+        "David Barker-Plummer",
+        "Michael P. Deignan",
+        "Carl M. Kadie"
+      ],
+      "summary": "A discussion regarding the ethics of suspending computer access pending formal disciplinary action. The exchange contrasts a position from an EFF FAQ advocating for due process against arguments that immediate suspension is necessary to protect system integrity.",
+      "title": "Re: FAST CASH!!!",
+      "topics": [
+        "due process",
+        "computer access",
+        "academic discipline",
+        "user rights"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 3 Feb 1993 22:11:33 GMT",
+      "from": "plummer@cs.swarthmore.edu (David Barker-Plummer)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<PLUMMER.93Feb3171133@cilantro.cs.swarthmore.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv03n06",
+      "subject": "Article 13--Re: FAST CASH!!!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

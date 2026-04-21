@@ -1,0 +1,527 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "March 1, 1992",
+      "historical_relevance": "high",
+      "item_type": "editor note",
+      "notable_claims": [
+        "Some university system administrators disable student accounts for network congestion or rule violations before notifying the user.",
+        "The 'alt' newsgroups were created outside USENET guidelines to bypass administrative censorship and technical forum restrictions.",
+        "There is a debate regarding whether providing access to banned information (e.g., abortion info in Ireland) via computer networks creates legal liability for the network provider."
+      ],
+      "organizations": [
+        "University of Wisconsin",
+        "Electronic Frontier Foundation",
+        "University of Aston",
+        "University of California, Berkeley",
+        "University of Massachusetts"
+      ],
+      "people": [
+        "Paul Joslin",
+        "Carl M. Kadie",
+        "William W. Arnold",
+        "Elizabeth M. Reid",
+        "Adam C. Gross"
+      ],
+      "summary": "This is an abstract for the CAF-News digest covering various issues of academic and digital freedom. It summarizes discussions on university hate speech rules, newsgroup censorship by network administrators, the history of 'alt' groups, and the practice of system administrators disabling student accounts without prior notice.",
+      "title": "Article 0 -- Abstract of CAF-News 02.10",
+      "topics": [
+        "censorship",
+        "USENET",
+        "student rights",
+        "hate speech",
+        "system administration",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "joslin@tso.uc.edu (Paul Joslin)",
+      "item_count": 13,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 0 -- Abstract of CAF-News 02.10",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 25, 1992",
+      "historical_relevance": "medium",
+      "item_type": "pointer",
+      "notable_claims": [
+        "A federal judge struck down the original 1987 UW hate speech rule as unconstitutionally broad.",
+        "The redrafted rule targeted racial, sexual, or age-related epithets that would make an educational environment hostile."
+      ],
+      "organizations": [
+        "University of Wisconsin System",
+        "UW-Madison",
+        "Chicago Tribune"
+      ],
+      "people": [
+        "Ted Finman",
+        "Gordon Baldwin"
+      ],
+      "summary": "The University of Wisconsin System attempted to redraft a hate speech rule after a federal judge struck down the original 1987 version as unconstitutionally broad. The new draft proposed punishing students for epithets that create a hostile environment or provoke immediate violent responses. This effort followed a previous controversy involving a 'mock slave auction' by a campus fraternity.",
+      "title": "University of Wisconsin rewrites 'hate speech' rule",
+      "topics": [
+        "hate speech",
+        "academic freedom",
+        "campus policy",
+        "First Amendment"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 26 Feb 1992 16:54:17 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 13,
+      "item_index": 1,
+      "message_id": "<1992Feb26.165417.12215@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 1--\"University of Wisconsin rewirtes 'hate speech' rule",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "26 Feb 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The University of Stuttgart banned the sci.military newsgroup for being offensive."
+      ],
+      "organizations": [
+        "University of Stuttgart"
+      ],
+      "people": [
+        "Jyrki Kuoppala"
+      ],
+      "summary": "A discussion regarding the University of Stuttgart's decision to ban the Usenet newsgroup sci.military on the grounds that it was offensive. The author argues against censorship while critiquing the societal paradox of finding military discussions acceptable compared to other taboo topics.",
+      "title": "Article 2--banning sci.military",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "network administration"
+      ]
+    },
+    "identity": {
+      "date": "26 Feb 92 23:28:07 GMT",
+      "from": "jkp@cs.HUT.FI (Jyrki Kuoppala)",
+      "item_count": 13,
+      "item_index": 2,
+      "message_id": "<1992Feb26.232807.4485@nntp.hut.fi>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 2--banning sci.military",
+      "to_or_newsgroups": "comp.org.eff.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "24 Feb 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "SWITCH claimed legal advice suggested they could be sued for redistributing information that others dislike.",
+        "The author argues that if news is filtered, the same logic should apply to e-mail monitoring.",
+        "The author claims SWITCH's status as a foundation allows it to perform actions constitutionally forbidden to the state."
+      ],
+      "organizations": [
+        "SWITCH",
+        "EPFL"
+      ],
+      "people": [
+        "Magnus Kempe",
+        "Peter Gilli"
+      ],
+      "summary": "Magnus Kempe challenges Peter Gilli of SWITCH regarding the network's attempt to categorize or filter newsgroups based on claims of legal liability. Kempe argues that treating a network provider like a bookshop is a flawed legal analogy and questions whether such controls constitute censorship of academic and personal discourse. He further highlights the tension created by SWITCH being a state-funded foundation that may bypass constitutional restrictions on government censorship.",
+      "title": "Article 3--Control by SWITCH",
+      "topics": [
+        "censorship",
+        "network neutrality",
+        "legal liability",
+        "Usenet",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "24 Feb 92 16:35:33 GMT",
+      "from": "magnus@lglsun.epfl.ch (Magnus Kempe)",
+      "item_count": 13,
+      "item_index": 3,
+      "message_id": "<1992Feb24.173533@lglsun.epfl.ch>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 3--Control by SWITCH",
+      "to_or_newsgroups": "ch.general,ch.network,epfl.general,news.admin,eunet.news,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 28, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Local news administrators viewed control messages not issued via inews as 'forged'.",
+        "The creation of alt.* groups followed the principles of 'altnet' rather than standard Usenet hierarchies."
+      ],
+      "organizations": [
+        "Princeton University",
+        "University of Kentucky"
+      ],
+      "people": [
+        "Kenneth Herron",
+        "Paul Falstad",
+        "Gene Spafford"
+      ],
+      "summary": "A discussion regarding a dispute between a user at Princeton University and local system administrators over the creation of the 'alt.folklore.college' newsgroup. The administrator labeled the group a 'forgery' because it was created by a user rather than through official administrative software (inews). The exchange highlights early conflicts between individual user autonomy and institutional control over network resources.",
+      "title": "Article 4--Re: Help! \"Forged\" newsgroups in alt.*!",
+      "topics": [
+        "Usenet",
+        "alt hierarchy",
+        "system administration",
+        "network governance"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 28 Feb 1992 15:02:29 GMT",
+      "from": "kherron@ms.uky.edu (Kenneth Herron)",
+      "item_count": 13,
+      "item_index": 4,
+      "message_id": "<1992Feb28.100229.27960@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 4--Re: Help! \"Forged\" newsgroups in alt.*!",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "27 Feb 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "The 'alt' hierarchy was created to bypass the control of a small group of backbone site administrators.",
+        "System administrators refused to carry comp.women because they viewed it as a non-technical political group.",
+        "The alt hierarchy allowed for propagation via alternate UUCP links, bypassing traditional backbone sites.",
+        "Users interested in academic freedom and civil liberties often avoid formal voting procedures for newsgroup creation, viewing them as fascist."
+      ],
+      "organizations": [
+        "Iowa State University",
+        "UUNET"
+      ],
+      "people": [
+        "Chris Lewis",
+        "Jurgen Botz",
+        "Carl M. Kadie"
+      ],
+      "summary": "The post discusses the origins of the Usenet 'alt' hierarchy as a response to censorship by the 'backbone cabal' and restrictive group creation guidelines. It highlights conflicts over non-technical or political groups, such as comp.women, which were refused propagation by some system administrators despite passing votes. The author notes that proponents of academic freedom and civil liberty groups often prefer the alt hierarchy to avoid what they perceive as fascist voting procedures.",
+      "title": "Article 5--Re: History of \"alt\" groups",
+      "topics": [
+        "Usenet history",
+        "censorship",
+        "alt hierarchy",
+        "network governance",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "27 Feb 92 04:32:24 GMT",
+      "from": "clewis@ferret.ocunix.on.ca (Chris Lewis)",
+      "item_count": 13,
+      "item_index": 5,
+      "message_id": "<3198@ecicrl.ocunix.on.ca>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 5--Re: History of \"alt\" groups",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk,news.misc",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.9,
+      "date_or_period": "28 Feb 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The item addresses the impact of mass media discovering computer networks."
+      ],
+      "organizations": [],
+      "people": [
+        "Douglas W. Jones"
+      ],
+      "summary": "This is a Usenet post from Douglas W. Jones discussing the intersection of mass media and network communication. It appears as part of a larger thread regarding how public visibility of networks affects academic freedom.",
+      "title": "Article 6--Re: Mass media discovering nets",
+      "topics": [
+        "mass media",
+        "network visibility",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "28 Feb 92 17:44:18 GMT",
+      "from": "jones@pyrite.cs.uiowa.edu (Douglas W. Jones,201H MLH,3193350740,3193382879)",
+      "item_count": 13,
+      "item_index": 6,
+      "message_id": "<11169@ns-mx.uiowa.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 6--Re: Mass media discovering nets",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "February 26, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Seizing student devices for memory inspection may lead to lawsuits regarding due process.",
+        "Lack of manual computational skill in programmers contributes to software faults."
+      ],
+      "organizations": [],
+      "people": [
+        "Brinton Cooper",
+        "Todd M. Bezenek"
+      ],
+      "summary": "Brinton Cooper critiques a proposal by Todd M. Bezenek to seize calculators during exams to check memory contents for cheating. Cooper argues that such actions may violate student due process and instead advocates for banning calculators entirely in Computer Science courses. He suggests that manual computation skills are essential for programmers to perform sanity checks on software and reduce human-induced faults.",
+      "title": "Proposal for policy on calculator use during exams (Bezenek 13.16)",
+      "topics": [
+        "academic integrity",
+        "pedagogy",
+        "calculator use",
+        "due process"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "Brinton Cooper <abc@BRL.MIL>",
+      "item_count": 13,
+      "item_index": 7,
+      "message_id": "<caf.talk.2.28.92.abc@BRL.MIL>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 7--Re: Proposal for policy on calculator use during exams (Bezenek 13.16)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-02-26",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "User accounts were disabled without prior warning or communication via available contact methods."
+      ],
+      "organizations": [
+        "University of Aston"
+      ],
+      "people": [
+        "Mark Evans"
+      ],
+      "summary": "Mark Evans reports that his accounts at the University of Aston were disabled without prior notice due to alleged network congestion caused by a program he was running. He criticizes the system administrators for disabling access rather than communicating with the user first.",
+      "title": "Article 8--Sys-admins shooting first",
+      "topics": [
+        "system administration",
+        "user rights",
+        "network management",
+        "account suspension"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 26 Feb 92 19:21:51 GMT",
+      "from": "mpevans@isis.cs.du.edu (Mark Evans)",
+      "item_count": 13,
+      "item_index": 8,
+      "message_id": "<1992Feb26.192151.6435@mnemosyne.cs.du.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 8--Sys-admins shooting first",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "27 Feb 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators at Berkeley frequently disable student accounts without prior due process.",
+        "Universities often treat computer account access as a privilege rather than a right, unlike housing."
+      ],
+      "organizations": [
+        "University of California, Berkeley"
+      ],
+      "people": [
+        "Brian Harvey",
+        "Wes Morgan",
+        "Mark Evans"
+      ],
+      "summary": "Brian Harvey discusses the practice of system administrators disabling user accounts without due process in response to network congestion or complaints. He contrasts the university's treatment of housing as a right versus computer access as a privilege, despite its necessity for coursework. Harvey notes that this pattern is common at UC Berkeley.",
+      "title": "Article 9--Re: Sys-admins shooting first",
+      "topics": [
+        "due process",
+        "system administration",
+        "academic freedom",
+        "computer access rights"
+      ]
+    },
+    "identity": {
+      "date": "27 Feb 92 00:35:52 GMT",
+      "from": "bh@anarres.Berkeley.EDU (Brian Harvey)",
+      "item_count": 13,
+      "item_index": 9,
+      "message_id": "<ohbp8INNr9i@agate.berkeley.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 9--Re: Sys-admins shooting first",
+      "to_or_newsgroups": "alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Feb 29, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "System administrators at the University of Cincinnati were reportedly killing accounts for using IRC, MUDs, and telnetting to certain foreign hosts.",
+        "Some users paid extra fees for their university computer accounts."
+      ],
+      "organizations": [
+        "University of Cincinnati",
+        "University of Massachusetts",
+        "MIT"
+      ],
+      "people": [
+        "Tig Stone",
+        "Michael P. Deignan",
+        "Christopher P. Harr"
+      ],
+      "summary": "A discussion regarding the practice of system administrators deleting user accounts for non-academic activities such as IRC, MUDs, or telnetting to foreign hosts. One participant argues that such harsh disciplinary actions without warning are unjust, especially when users pay for their accounts. The exchange highlights a conflict between strict academic use policies and user expectations of digital freedom.",
+      "title": "Article 10--Re: Telnet Censorship",
+      "topics": [
+        "account termination",
+        "acceptable use policy",
+        "telnet",
+        "system administration",
+        "academic freedom"
+      ]
+    },
+    "identity": {
+      "date": "Sat, 29 Feb 1992 20:16:49 GMT",
+      "from": "s8759859@titan.ucc.umass.edu (Tig Stone)",
+      "item_count": 13,
+      "item_index": 10,
+      "message_id": "<S8759859.92Feb29151649@titan.ucc.umass.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 10--Re: Telnet Censorship.",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "24 Feb 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The Eighth Amendment to the Irish constitution led to the illegalization of distributing abortion information.",
+        "There is legal uncertainty regarding whether allowing access to newsgroup posts containing clinic phone numbers constitutes 'distributing' prohibited information."
+      ],
+      "organizations": [
+        "Trinity College Dublin",
+        "Society for the Protection of the Unborn Child"
+      ],
+      "people": [
+        "Paul Moloney"
+      ],
+      "summary": "Paul Moloney discusses the legal restrictions on distributing abortion information in Ireland and how these laws apply to the internet. He questions whether hosting newsgroup posts containing clinic contact information constitutes illegal distribution under Irish law. The post highlights a tension between national censorship laws and the open nature of network communication.",
+      "title": "Article 11--REPOST: The Irish Abortion Controversy",
+      "topics": [
+        "censorship",
+        "internet law",
+        "academic freedom",
+        "Ireland",
+        "abortion information"
+      ]
+    },
+    "identity": {
+      "date": "24 Feb 92 22:28:48 GMT",
+      "from": "pmoloney@maths.tcd.ie (Paul Moloney)",
+      "item_count": 13,
+      "item_index": 11,
+      "message_id": "<1992Feb24.222848.12187@maths.tcd.ie>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 11--REPOST: The Irish Abortion Controversy",
+      "to_or_newsgroups": "tcd.talk,soc.culture.celtic,talk.abortion,soc.women,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 26 Feb 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "International directory assistance can be used to obtain information banned under Irish law."
+      ],
+      "organizations": [
+        "British Telecom",
+        "Ma Bell",
+        "USN"
+      ],
+      "people": [
+        "Paul Moloney",
+        "drieux"
+      ],
+      "summary": "A discussion regarding the legality and ethics of distributing information about abortion services to individuals in Ireland. The author discusses how international directory assistance and telephone calls can bypass local bans on such information.",
+      "title": "The Irish Abortion Information Question",
+      "topics": [
+        "information access",
+        "censorship",
+        "Irish law",
+        "telecommunications"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 26 Feb 1992 16:51:36 GMT",
+      "from": "drieux@wetware.com (drieux, just drieux)",
+      "item_count": 13,
+      "item_index": 12,
+      "message_id": "<1992Feb26.165136.9723@wetware.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n10",
+      "subject": "Article 12--Re: The Irish Abortion Information Question",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

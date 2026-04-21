@@ -1,0 +1,1920 @@
+Newsgroups: alt.comp.acad-freedom.news
+Subject: Computers and Academic Freedom News 02.17 (Digest)
+Approved: kadie@eff.org
+
+Computers and Academic Freedom News
+Vol. 02, No. 17
+
+
+----------------------------------------------------------------------
+
+From: fnixon@sol.utc.edu (Fred Nixon)
+Subject: Article 0 -- Abstract of CAF-News 02.17
+
+[Week ending April 12, 1992
+
+[Issues #13 and #14 are still in production. This week's
+guest editor is Fred Nixon, fnixon@sol.utc.edu. - Carl]
+
+========================== KEY ================================
+The words after the numbers are a short PARAPHRASES of the
+articles, NOT AN OBJECTIVE SUMMARY and not necessarily my opinion.
+===============================================================
+
+Note 1 is about email privacy.
+
+1.  This is a summary of opinions on email privacy, gleaned from a
+questionnaire distributed to comp.admin.policy, comp.risks, and
+comp.society.
+    <simong.702540159@munagin>
+
+Note 2 is about the FCC and the Net.
+
+2.  Broadcasting regulations do not apply to the net, as FCC
+regulations are an exception to the general rule of government control
+of expression. Three books discussing the limits of free speech are
+mentioned.
+    <1992Mar25.195314.6998@eff.org>
+
+Notes 3-7 are about high school teachers secretly monitoring student
+local-area network use.
+
+3.  Privacy issues arising from the use of LANs are presented. Faculty
+members are using net management tools to observe high school students
+working on the net.  Comments are requested on the legality of, and
+ethical basis for, such activity when it is known to the students, and
+when it is not known to the students.
+    <1992Apr9.125538.5968@bsu-ucs.uucp>
+
+4.  Faculty use of such network management tools may have a legitimate
+use; but casual monitoring should not be allowed. System
+administrators have broader scope for monitoring, extending to
+occasional monitoring. Information gleaned from such sessions should
+remain undisclosed.
+    <1992Apr10.170023.7720@ms.uky.edu>
+
+5.  If the lack of privacy is clear from the start, there is no
+violation of any law when monitoring students. A situation where all
+mail is monitored is described. It is a lab which can be used ONLY for
+class work.
+    <6682@lee.SEAS.UCLA.EDU>
+
+6.  Results of a Supreme Court decision regarding searching grade or
+high school students.  Public School officials can search a grade/high
+school student when "reasonable grounds" exist for finding evidence
+that rules have been broken. States can set stricter standards. An
+annotated reference is included, including quotations from the ACLU
+Handbook, _The Rights of Students_.
+    <1992Apr11.000627.23277@eff.org>
+
+7.  The draft of the unofficial Statement on Computers and Academic
+Freedom does not deal specifically with high school students. Private
+communications should be treated the same regardless of communications
+medium.
+    <1992Apr11.154521.768@eff.org>
+
+Notes 8-9 are about a draft U. of Kentucky policy.
+
+8. The University of Kentucky Student Access and Use Policy is
+submitted for comments. This is not official policy, and is in draft
+form.
+    <1992Apr9.160725.7355@ms.uky.edu>
+
+9.  Review of the UK policy, from the point of view of a academic
+computer center employee and graduate student. Several questions are
+raised, including the restriction of access before the guilt of the
+student is determined.
+    <1992Apr11.150009.6432@news.iastate.edu>
+
+Note 10 is about academic cheating and privacy.
+
+10.  A summary of published material regarding academic cheating;
+backup tapes were examined to determine if collusion had occurred
+between students exchanging email. The students unsuccessfully argued
+they had been set up by an unnamed third party. A summary of risks
+posed by computer systems in an academic setting is included.
+    <b.199204101431.AA12742@eff.org>
+
+Note 11 is about library confidentially.
+
+11.  In a followup to questions about the tracking of library
+materials to patrons, Mr. Hart states that he has never encountered a
+library system which retains the patron/book association after the
+book is returned. "Most libraries will vehemently protect the privacy
+of their patrons."
+    <mhart.702903074@blackjack>
+
+[ guest editor's note: has anyone considered the problem of library
+   system backups? If these are kept for any length of time, the
+   link between the borrower and the book remains traceable as long
+   as the backups are kept around. This could be for years... ]
+
+Note 12 is about the responsibilities that come with free speech.
+
+12.  A quick reminder that free speech carries with it tremendous
+responsibility, and may easily be abused by the majority in pursuit of
+a noble goal. A confrontation with a Klan march, a counter
+demonstration, was planned to shout-down the Klan marchers. "I just
+hate to see well meaning people attempting... to destroy the 1st
+amendment rights of whoever they happen to disagree with".
+    <1992Apr10.184852.26771@magnus.acs.ohio-state.edu>
+
+Note 13 is about proposed anti-pornography legislation in
+Massachusetts.
+
+13.  Information regarding the Massachusetts' anti-pornography
+legislation. This bill would make trafficking in pornographic
+materials a sex discrimination violation (subject to triple damages).
+An explicit :-) exemption is granted public, university, and college
+libraries.
+    <1992Apr12.055744.3899@wpi.WPI.EDU>
+
+- Fred]
+
+
+In this issue:
+
+simon a gregory 515  EMAIL PRIVACY SUMMARY
+Mike Godwin      43  >Your police at work for you!
+Bryan Strawser   72  Privacy on Novell Lans
+Harold Peach     34  >
+The Jester       34  >
+Carl M. Kadie    89  >
+Carl M. Kadie    56  >
+Wes Morgan      389  DRAFT Student Access/Use Policy
+John Hascall    164  >
+Prentiss Riddle  72  Risks of academic cheating by computer
+Michael Hart     38  >USENET Censorship at Iowa State University
+Paul A Prior     60  >Help stop the KKK
+Lawrence C Foard 56  frightening law
+
+
+Computers and Academic Freedom News
+
+Managing Editor:  Carl M. Kadie (kadie@eff.org)
+Administration:   William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Associate Editor: Elizabeth M. Reid (emr@ariel.ucs.unimelb.edu.au)
+Associate Editor: Paul Joslin (joslin@tso.uc.edu)
+Associate Editor: Adam C. Gross (ag3j+@andrew.cmu.edu)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to ftp.eff.org. The
+directory is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the
+line:
+  send acad-freedom README
+
+Disclaimer: This CAF-News abstract was compiled by a guest editor or a
+regular editor (Paul Joslin, Elizabeth M. Reid, Adam C. Gross, or Carl
+M. Kadie). It is not an EFF publication. The views an editor expresses
+and editorial decisions he or she makes are his or her own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+
+------------------------------
+
+From caf-talk Caf Apr  6 00:00:00 1992
+Newsgroups: comp.unix.admin,alt.privacy,comp.admin.policy
+From: simong@mullian.ee.mu.OZ.AU (simon alexander gregory)
+Subject: Article 1--EMAIL PRIVACY SUMMARY
+Message-ID: <simong.702540159@munagin>
+Date: Mon, 6 Apr 1992 06:02:39 GMT
+
+Due to the vast number of responses I received to my offer of a
+summary, I have decided to post the article, rather then mail it out 
+individually.  The summary is as follows :
+
+
+
+
+         ELECTRONIC MAIL ETHICS - Questionnaire Summary on EMAIL PRIVACY.
+         ----------------------------------------------------------------
+
+                       By: Simon. Gregory. (April 1992)
+                       --------------------------------
+      
+
+Author Profile:
+---------------
+
+Name : Simon. Gregory.
+Occupation: Student
+Course : Science/Engineering  (3rd year)
+Email: simong@munagin.ee.mu.oz.au
+
+Institution: University of Melbourne
+Location: Melbourne, Victoria, Australia.
+
+
+Disclaimer:
+-----------
+
+This article does not, in any way, attempt to express my own or Melbourne 
+University's opinions on this issue.  It is simply an impartial summary 
+of some feelings expressed within the computing community.
+
+Abstract:
+---------
+
+Email privacy is an issue which is currently the subject of much debate.
+Should electronic mail be treated with the same respect as traditional
+'snail mail', or should it be viewed in a completely different light?
+Just what are the rights of the postmaster, or the owner of the system
+on which electronic mail is being sent? - Is it really necessary for
+them to have the ability to read the text of any message they choose?
+
+There are no definite answers to these questions, and there probably never 
+will be, however one thing is for certain : as our Society becomes
+increasingly more reliant on computers, the issue which will not
+disappear, or reduce in significance, but rather become an important
+and integral aspect of our future lives.
+
+Introduction:
+-------------
+
+The following letter was placed on the world-wide news network, in the
+groups : comp.admin.policy, comp.risks and comp.society :
+
+	I am currently engaged in an assignment based on the pros and 
+        cons of the monitoring of email systems, and the opinions of 
+        various different groups of people regarding this sensitive issue.
+
+	I would appreciate any forthcoming replies, giving information or
+	opinions on the topic.  Please include your occupation with your
+        reply.
+
+	As a general guide, I include the following questions:
+
+       	     1) Should the postmaster, or others have the right or ability
+	to look at the text of an article?
+
+       	     2) What should the post master do if potentially damaging
+	or illegal information is revealed.  eg. If the spreading of a 
+        virus is revealed through a boast on email,  or two students 
+	are discussing copying a computing assignment.  Should one's 
+        personal privacy be sacrificed in such a case?
+
+       	     3) Should postmasters have a written code of ethics, which is
+	widely known and accepted? 
+
+             4) Would it be more acceptable if people were made aware
+	of when and on what systems reading of mail by an outside party 
+	could occur?
+
+	Your cooperation would greatly be appreciated,
+       		                                     Thankyou.
+               		                                   Simon. Gregory.
+
+
+Within a few hours, I had been (happily) inundated with responses, 
+apparently demonstrating a keen interest, and possibly a little concern, 
+over the issue of Email Privacy. 
+
+The eventual response to my letter (after being posted for 3 working days) 
+totaled over 8000 lines of text, spread between well over 50 respondents.  The following is a summary of the general ideas expressed, and trends 
+illustrated within the replies.
+
+
+Who Responded :
+---------------
+
+Respondents were from all over the World, with (predictively) the 
+majority coming from the U.S.A.  There were also many replies from 
+Australia and the U.K..  There were a multitude of other countries 
+involved, two of the more noteable (or unexpected) being Kuwait and 
+Saudi Arabia.
+
+There was also a wide diversity of occupations.  Systems Administrators,
+Postmasters and Students were by far the most common, however employees
+of companies using email were also represented, in addition to several
+employers and owners of systems.  A wide overview of opinions was thus
+obtained. 
+
+Thankyou :
+----------
+
+I would like to express my gratitude to all of the respondents to my
+request for assistance, without whom this would not have been possible.
+
+
+TEXT :
+------
+
+Should the postmaster, or others have the right or ability
+----------------------------------------------------------
+to look at the text of an article [email letter] ?
+--------------------------------------------------
+
+There was a general consensus that both the Postmaster and the System
+Administrator currently have the ABILITY to examine the contents of any
+Electronic Mail that comes through their system. (although some
+Postmasters claimed to have installed certain protection routines
+to prevent them from doing so.  They no doubt have the ability to
+override this, however). A heated debate erupted, however, over
+whether this power should continue to exist, and for what reasons.
+
+Respondents can (approximately) be divided into three main groups :
+                    
+ 		- Students at Universities.
+
+		- Postmasters, System Administrators, and owners or
+		  managers of computer systems.
+
+		- Other users. (employees etc.)
+
+
+Perhaps predictively, each group seemed to have the same characteristic
+opinion expressed by the vast majority of respondents within that
+group.
+
+Many students expressed their opposition to the monitoring of email
+IN ANY FORM, and not only opposed the RIGHT of a postmaster to look
+at mail, but also challenged whether the ABILITY should continue to
+exist.
+
+Some compared the email to traditional 'pen and paper' type mail, with
+one Computer Science graduate stating :
+
+	"[email] should be given at least the same treatment that First 
+	Class mail is given in the US: The address of the sender and 
+	receiver can be noted (and any info on the outside of the 
+	envelope), but the envelope cannot be opened."
+
+This opinion was echoed by others :
+
+	" If we are going to establish a tradition where people use 
+	email like they use regular mail, they must have the EXPECTATION
+	of privacy. Granted, people know that regular mail can be
+	intercepted, steamed open and read, but they also know that this 
+	is illegal (unless a warrant has been issued). Unless we 
+	establish the same legal protection for email as regular mail, 
+	we relegate it to a situation where unknown administrators, 
+	with unknown rules, and unknown accountability can take whatever
+	action they feel needed for "technical purposes."  This is a 
+	shaky way to establish a new form of communication."
+
+Another student, having been a system manager in the past, pointed
+out that :
+
+	"you have a system operator providing a service to his users. 
+	He may well own the machine, so why should there be areas of
+	the machine that he may not probe etc. If information is being
+	passed which is detrimental to his system security (for example),
+	then surely he should be able to read this??"
+
+However, he concludes (with his own opinion) :
+
+	"Email is quickly become a important (and potentially the most 
+	important) form of communication around the world. I think it
+	is imperetive that the information and views expressed and 
+	shared between two users should be respected and that meer 
+	citizens (ie. those not enpowered by the state) should not be
+	legally allowed to intercept and read these messages."
+
+One Student clarified the question :
+
+	"I do not think that anyone should have the right to arbitrarily 
+	monitor e-mail.  If the systems policy CLEARLY states that
+	e-mail will be monitored then the user of the account has given
+	up this right."
+
+
+While students appeared to be overwhelmingly opposed to email monitoring, 
+general users and employees seemed to take a more moderate approach,
+with a wide range of opinions being expressed.
+
+A Ph.D working at the University of Mississippi was of the opinion that:
+
+	"The ability to look at email on the system should be to allow 
+	the SysAd to solve user problems AT THE INVITATION OF THE USER."
+
+And :
+
+	"[eventually] Postmasters will not be able to look at the "inside 
+	of the envelope" no matter how hard they try. They should get 
+	used to only being able to see headers, because regardless of the 
+	ethics involved, technically it will be [made to be] impossible."
+
+This was supported by an Acedemic Systems Consultant :
+
+	
+	"I think this whole issue will disappear quite soon, 
+	pending the widespread acceptance of public-key cryptography 
+	standards and the wide availability of software that can take 
+	advantage of such.  With such software, the body of a message 
+	would always be encrypted with the recipient's public key, and 
+	privacy would be ensured.  Sometimes technology can pre-empt 
+	policy!"
+	
+One respondent points out :
+
+	"in reality, they [postmasters] do need the ability [to read
+	mail], since oftimes the only way to figure out what is going 
+	wrong with a piece of mail is to look in the file that contains 
+	it to examine the headers.  In a situation like that, it is 
+	very difficult to avoid seeing at least SOME of the text of 
+	the message."
+
+Some came out in support of owner/operators of systems having the
+right to examine mail, due to them paying for the service.  In one
+letter, I was urged to consider the following :
+
+	"- who is paying for the email facility?
+         - what is the potential damage that can be done to/by the 
+	   email user?"
+
+This person continued :
+
+	"if the postmaster is the person responsible for the email 
+	facility at the institution that pays for the facility, 
+	then you can't expect privacy."
+
+And concluded :
+
+	"Now suppose you're an individual who subscribes to email and 
+	pays for it. In this case, you'd like to be protected from 
+	people flooding your mailbox with nonsense."
+
+Many also differentiated between computer systems in different settings,
+generally leaning towards monitoring of academic mail, due to this
+being an environment in which system 'vandalism' is most likely to 
+occur.  Email, they believed, could often reveal such actions before
+any damage was done.
+ 
+
+System Administrators, on the other hand, generally came out in favour 
+of monitoring email, although to various different extents.
+
+One states:
+
+	"[postmasters should have the ability to read email] to find out
+	 who the mail should be forwarded to. Just like the postoffice 
+	 can open undeliverable mail to find out where to send it to."
+
+A slightly stronger viewpoint :
+
+	"[I] really don't think "right" enters into it since the 
+	system administrators are the one's that, in effect, own the
+	machine.  It is a pragmatic issue, not one that should be 
+	looked at with any more importance than that, UNLESS the owners 
+	and/or administrators of the system have guaranteed the privacy 
+	of such communications.  In the absence of any such assurance 
+	or guarantee, I believe the participants of a conversation via 
+	someone else's machine should not *expect* any such privacy."
+
+There were many different views of the postmasters actual role, with
+many Postmasters also being System Administrators, and therefore having
+significant concern over potential damage to the system.
+
+Some were of the opinion that :
+
+	"the postmaster's sole role is to insure the smooth delivery 
+	of mail." 
+
+And that Postmasters should :
+
+	"1. Hear and see no evil [do not look]
+	 2. Speak no evil [if you have to look or see accidentally, 
+	never divulge what you see]"
+
+As another put it :
+
+	"I believe that if you treat the medium with the same respect
+	afforded to a private conversation or phone conversation you 
+	will find the answers to your ethical questions have already 
+	been resolved.  A systems administrator is in essence a postal 
+	worker with an undetectable letter opener."
+
+Others felt that it was their prime responsibility to prevent potential
+damage to the system.
+
+As one replied :
+
+	"as an administrator at a government computing facility, I 
+	have to prevent the use of my machines for illegal purposes. 
+	This, I consider, gives me the right to read any mail that 
+	I see fit."
+
+
+Not everyone fully opposed or supported email privacy.  One person
+in particular came up with a potential solution to the problem, 
+which was that :
+
+	"certain sites sign on as "secure" routing facilities, 
+	guaranteeing that messages routed through their systems will 
+	not be inspected.  Once a database of "secure" sites is 
+	established, then the software (such as the pathalias database) 
+	could be modified to accept a "secure" flag to route only via 
+	those sites at the expense of connectivity or time.  Many sites 
+	with limited resources (such as ours) would be reluctant to agree 
+	to such statement, and they (we) could be excluded from the 
+	"secure" listing, but included in a (probably larger) listing 
+	that could be used for non-secure routing."
+
+
+
+What should the post master do if potentially damaging or illegal 
+-----------------------------------------------------------------
+information is revealed.  eg. If the spreading of a virus is
+------------------------------------------------------------
+revealed through a boast on email,  or two students are discussing
+------------------------------------------------------------------
+copying a computing assignment.  Should one's personal privacy be 
+-----------------------------------------------------------------
+sacrificed in such a case?
+--------------------------
+
+
+In general the copying of a computer assignment was not considered to
+be sufficiently important to warrant a sacrifice of privacy :
+
+
+	"i would favour full rights to the postamster to examine and 
+	take action on user mail, as far as it relates to the safety 
+	and well being of the system. anything outside of that (for 
+	eg., copying assignments) is something i think, that falls 
+	outisde [outside] the jurisdiction of the postmaster."
+
+
+Potentially damaging or illegal information, however, was viewed in
+a completely different light.  Many felt that, in some cases, one's 
+personal privacy should be sacrificed for the common good : 
+
+	"if an offence is uncovered, it should be dealt with, 
+	regardless of how the information was acquired. But if the 
+	information was acquired unethically, *another* offence 
+	(acquiring information unethically) has been committed, and 
+	this offender should be dealt with as well."
+
+
+One respondent compared the "sending of hacking information or viruses 
+by email" to "passing national secrets via telephone." and argued that
+since, in this case a phone tap would be authorised, similar measures 
+should be permissible with email, assuming that there is sufficient
+evidence of such misbehaviour.
+
+
+Another compared it to the "real" Post Office :
+
+	"if I cannot deliver a package, I open it to see whom it is
+	intended to go to.  If I happen to discover some rather 
+	raunchy pictures, that's no business of mine. (IMO)  However, 
+	if I discover explosives, I'm at LEAST going to contact 
+	my supervisor for further instructions!  If it's obviously 
+	rigged for detonation, call the police.  SOMEONE has committed 
+	a serious crime, and I have knowledge of it.  As a good 
+	citizen, I believe that I should report it."
+
+
+Others, however, were opposed to the sacrifice of privacy, under
+any circumstances :
+
+	"the postmaster shouldn't see this anyway.  This goes back 
+	to the post office & the phone company.  Where does it stop? I
+	can call someone and tell them we're going to spread a virus, 
+	so why shouldn't I be able to send email. It should be treated 
+	exactly as any other form [of communication]." 
+
+	"NO. What this means is a potential 'Big Brother is Watching 
+	You'. The dangers to the freedom of people are in my opinion 
+	far greater than the benefits from being able to read 
+	peoples mail."
+
+Perhaps an intermediate approach :
+
+	"given that this is similar to any other sort of eavesdropping, 
+	the right thing to do, for me, is to sit down with the person, 
+	in an environment free of eavesdroppers, tell them what I know, 
+	what kind of a position it puts me in, and what I want them
+	to do about it - which is get it out of my sight and never let 
+	me see it again on the systems I'm responsible for."
+
+
+Should postmasters have a written code of ethics, which is
+----------------------------------------------------------
+widely known and accepted? 
+--------------------------
+
+Overwhelmingly, the response was 'yes' :
+
+	"YOU BET YOUR A** THEY SHOULD!  And make them SIGN IT TOO!  So 
+	that later on, they cannot claim ignorance after the fact."
+
+	"Yes and the tools to make it possible to follow the code in a 
+	practical way."
+
+
+Others pointed out that :
+
+	"Maybe this would be a good idea - its a lawyers paradise 
+	however."
+
+
+There were a few, though, who believed a written code to be unnecessary :
+
+	"I'd rather not put it down in writing: I want to reserve the 
+	right to do anything to anyone at any time, but to have the 
+	users' trust that I won't abuse this. A written document is 
+	not necessary if your sysadmin is trustworthy, and is useless 
+	if he isn't."
+
+
+	"I think the relation between the sysadmin(s) and the users 
+	should be based on trust. No list of rules can compensate for 
+	that."
+
+
+
+Some felt that there probably should be a policy, but doubted that
+it could be agreed upon, while others thought that agreement was
+not necessary :
+
+	"As far as acceptance goes, if the policy is unacceptable 
+	to the user, the user shouldn't be on that system."
+
+
+
+Would it be more acceptable if people were made aware of when 
+-------------------------------------------------------------
+and on what systems reading of mail by an outside party could
+-------------------------------------------------------------
+occur?
+------
+
+
+There was a general feeling that if users ARE to have their mail
+monitored, it is important to make them aware of this :
+
+
+	"People should be told if their email is being monitored since 
+	there is a reasonable expectation that it is NOT being monitored.  
+	Then the user can decide if encryption should be used, or if a 
+	phone call would be more private than email." 
+
+
+	"There is *never* any justification for disturbing privacy 
+	without letting the person know that it's possible.  You have to 
+	give them the option of refusing to use the service."
+
+
+A few felt that no such notice is necessary, however :
+
+	"Anybody *EVER* assuming that email is secure is just plain
+	stupid."
+
+
+It was thought by some, that reading Email could not be made more
+acceptable, even if a warning were to be in place :
+
+
+	"THIS DOESN'T MAKE MONITORING ANY LESS OFFENSIVE!"
+
+	
+	"Of course but not preferable to privacy."
+
+
+	"Not particularly; it's never acceptable"
+
+
+Conclusion :
+------------
+
+It appeared, overall, that the system users were most often opposed to
+the monitoring of Email, although there were some who were supportive,
+under certain circumstances.
+
+System Administrators and Postmasters, on the other hand, almost always
+maintained that they had the need to monitor mail for a variety of 
+different reasons,  although opinions on the extent to which such
+monitoring should occur varied quite markedly.  Generally, owners
+or managers of systems also supported this point of view, since as 
+effective owners, they felt it was their right to do as they pleased,
+and that they required some form of control over the traffic that passed 
+through their often "limited resources". 
+
+
+
+------------------------------
+
+From caf-talk Caf Apr  7 00:00:00 1992
+Newsgroups: alt.bbs,alt.bbs.internet,comp.org.eff.talk
+From: mnemonic@eff.org (Mike Godwin)
+Subject: Article 2--Re: Your police at work for you!
+Message-ID: <1992Mar25.195314.6998@eff.org>
+Date: Wed, 25 Mar 1992 19:53:14 GMT
+
+In article <XgTZHB4w165w@waffle.atl.ga.us> cprice@waffle.atl.ga.us (Clyde Price) writes:
+>> PS. Go [deleted] Uself!
+>
+>        This person likes words you can't broadcast on radio. Instead he
+>broadcasts them on the net.  Can a reasonably knowledgable person
+>address the _legality_ of broadcasting voice-unbroadcastable terms on
+>the net?  (Preferably with statute numbers and judicial citations.)
+
+Broadcasting regulations do not apply to the net. The judicial basis for
+content regulation of broadcasting by the FCC lies in arguments that the
+broadcasting spectrum is a scarce resource (Red Lion Broadcasting v. FCC,
+1969) and that it is a uniquely pervasive medium (FCC v. Pacifica
+Foundation, 1978). FCC regulation of broadcasting is thus an exception to
+the general rule that the government cannot regulate the content of First
+Amendment-protected exercises of freedom of expression.
+
+There is no court case or statute holding that the FCC's content
+restrictions on legal obscenity (the use of the word "fuck" is not,
+itself, legally obscene in any state) or on "indecency" (e.g., George
+Carlin's "Seven Dirty Words" monolog) applies to the Internet, or to any
+other medium.
+
+>        There _are_ limits to "free speech", and I'd like to find the
+>legal references.  Thanks.
+
+The limits on freedom of speech are perhaps not as extensive as you think
+they are. See, for example, Ithiel de Sola Pool's TECHNOLOGIES OF FREEDOM,
+Melville Nimmer's NIMMER ON FREEDOM OF SPEECH, or Lawrence Tribe's
+CONSTITUTIONAL LAW.
+
+
+--Mike
+
+
+
+-- 
+Mike Godwin,     |"Les vrais paradis sont les paradis
+mnemonic@eff.org | qu'on a perdus."
+(617) 864-0665   | 
+EFF, Cambridge   |          --Marcel Proust
+
+
+------------------------------
+
+From caf-talk Caf Apr  9 00:00:00 1992
+From: 00bestrawser@bsu-ucs.uucp (Bryan Strawser)
+Newsgroups: alt.privacy,comp.org.eff.talk,alt.comp.acad-freedom.talk
+Subject: Article 3--Privacy on Novell Lans
+Message-ID: <1992Apr9.125538.5968@bsu-ucs.uucp>
+Date: 9 Apr 92 17:55:38 GMT
+
+Location:
+	The Indiana Academy for Science Mathematics and Humanities, a
+	part of Teacher's College at Ball State University, Muncie, IN
+	United State of America 
+
+	This is a residential high school for gifted and talented students
+	from the State of Indiana.
+
+Computer System:
+	Novell Network 386, 250 user license.  There are two public
+	labs (for students) consisting of almost 60 computers.  Each
+	faculty and administrator (and staff) has a computer with a 
+	network connection, as well as 5 students who have access from
+	their rooms.  
+
+	Some faculty have a program on their office and hiome machines
+	that allows them to access the network over a modem from their
+	home.  This allows them to work from home.
+
+Problem we're having:
+	
+	At least two faculty members have access to a program for the
+	network known as LAN ASSIST.  This program allows them to do
+	several functions, such as:
+
+	CHAT:	brings up a chat window on the screen allowing them
+		to talk to the other user.
+
+	WATCH:  Exactly as it says, let's them watch another user,
+		with/without them knowing it.
+
+	ASSIST:	Same as watch, but intereactive assistance..
+
+	
+	What has happened came about when a faculty member did not come
+	in to work one day, but left his students email telling them
+	to come to class, he would be monitoring them from home with
+	this program.  Several students were alarmed, and brought this
+	to the attention of the student council, who is now investigating
+	the legality and ethical implications of this monitoring.
+
+	I can speak from personal experience that one faculty member
+	consistently in his free time sits and monitors users over and
+	over.  This alarms me because this user is ONLY a faculty member,
+	he is NOT the administrator of our network.
+
+	I will be contacting the EFF about the legality of this situation
+	as related to federal and state (and even local?) laws.
+
+	What do all of you think about this situation?
+
+	From working with Computing Services here at Ball State University,
+	I know that we have a similar program on our VaxCluster, but when
+	we are watching someone IT SHOWS up on the screen and the user thus
+	knows what is going on...  the only time it does not is when
+	one of the system managers does it in order to monitor a KNOWN
+	security violation...
+
+	Ideas?  Comments?
+
+	Please post, I would like to have a good discussion about it! :)
+
+	-Bryan
+
+
+-- 
+Bryan Strawser			   |	  		Ball State University
+University Computing Services	   |			     Muncie, IN 47306
+00bestrawser@leo.bsuvc.bsu.edu     |			 00bestrawser@bsuvax1
+
+
+------------------------------
+
+From caf-talk Caf Apr 10 00:00:00 1992
+Newsgroups: alt.privacy,comp.org.eff.talk,alt.comp.acad-freedom.talk
+From: hgpeach@ms.uky.edu (Harold Peach)
+Subject: Article 4--Re: Privacy on Novell Lans
+Message-ID: <1992Apr10.170023.7720@ms.uky.edu>
+Date: Fri, 10 Apr 1992 21:00:23 GMT
+
+00bestrawser@bsu-ucs.uucp (Bryan Strawser) writes:
+
+
+>	Ideas?  Comments?
+
+I think the circumstances under which the monitoring is occuring is what
+makes the difference.  If you have an instructor who watches his students'
+responses to his instructions during class for the purpose of determining
+whether they are understanding his instruction or for grading their
+performance, then I think such a tool has a legitimate purpose.  If that
+same instructor just happens to log onto the system sometime during the
+day and sees one of his students and starts monitoring him just to see
+what he is up to, then that is not ok -- Nor do I think it would be ok
+for instructors to ever monitor persons who are not a part of their class.
+
+System Administrators, in my view, fall into the same group as telephone
+repair personnel or operators.  It is sometimes necessary for them to 
+monitor activities on their system in order to correct problems.  They
+also have a professional obligation to keep any information they might
+read or see in the course of performing such tasks strictly secret.  I
+am not sure whether even the System Administrator has the right to monitor
+your activities beyond the incidental invasions mentioned above.  Even
+phone company personnel can not target a subscriber and monitor his 
+telephone conversations without a warrant.  It is one thing to see what
+software packages each user is running so as to detect a speed degredation
+problem on a network.  It would be quite another to use your monitoring
+program to track the specific text of a specific user for the purpose
+of tracking his activities or determining his thoughts on a topic.
+
+-- 
+Harold G. Peach, Jr.       ><>       N4FLZ       _%       hgpeach@s.ms.uky.edu
+
+
+------------------------------
+
+From caf-talk Caf Apr 11 00:00:00 1992
+From: ygoland@edison.seas.ucla.edu (The Jester)
+Newsgroups: alt.privacy,comp.org.eff.talk,alt.comp.acad-freedom.talk
+Subject: Article 5--Re: Privacy on Novell Lans
+Message-ID: <6682@lee.SEAS.UCLA.EDU>
+Date: 11 Apr 92 19:17:28 GMT
+
+Here at UCLA we have a similiar situation (re:privacy on novell
+lans) with our computer science mac lab. The lab is a group of 30 or
+so mac's apple talked together with a couple of main servers. The
+lab is fairly isolated. Though its possible to send and recieve net
+mail, no other outside access is allowed. Accounts at the lab are
+granted ONLY for class accounts to be used for class activities. The
+reason that the monitoring situation is similiar is because the lab
+officials have freely admited that they will either A) Run a program
+to read all mail or B) Read all mail themselves in order to see if
+anyone is sending anyone else code through the mail. (Apparently
+there were rampant problems with cheating where by one student would
+send another student the answer to an assignment through mail) So
+now ALL mail is monitored. However I think you would be hard pressed
+to find anyone who would argue with this 'big brother' attitude. The
+accounts are ONLY for class uses and once I brought it to the
+attention of my teacher that the 'academic honest statement' we had
+signed implied that mail was read, he made an announcment in class
+explaining that ALL mail was read and that no one should think it
+was private.
+
+So if the accounts the professor was monitoring were class accounts,
+I have a feeling you will find that he is not in violation of any
+laws. Especially if he made the total lack of privacy clear from the
+start.
+
+				The Jester
+--
+For some reason unintelligible to me, Lord Acton's dictum that
+"Power tends to corrupt and absolute power corrupts absolutely"
+is rarely raised in connection with judges, who...possess power
+..that comes [close] to being absolute"-Judge Bork
+
+
+------------------------------
+
+From caf-talk Caf Apr 10 00:00:00 1992
+Newsgroups: alt.privacy,comp.org.eff.talk,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 6--Re: Privacy on Novell Lans
+Message-ID: <1992Apr11.000627.23277@eff.org>
+Date: Sat, 11 Apr 1992 00:06:27 GMT
+
+digital@bsu-cs.bsu.edu (Digital) writes:
+
+[...]
+> Is there any relavant literature pertainingf to this?  Anything available
+>for FTP that they could get in order to help their case?
+[...]
+
+(Aside: are teachers being spied on, too?  If so, see _Gillard v.
+Schmidt_, reference enclosed.)
+
+In _New Jersey v. T.L.O._, the Supreme Court said:
+
+Public school officals can search a grade or high school student "when
+there are reasonable grounds for suspecting that the search will turn
+up evidence that the student has violated or is violating either the
+law or the rules of the school. Such a search will be permissible in
+its scope when the measure adopted are reasonable to objectives of the
+search are not excessively intrusive in light of age and sex of the
+student and the nature of the infaction.{6}"
+
+Quoted on p. 82 of the ACLU Handbook: _The Rights of Students_, 1988.
+
+Also from the Handbook:
+
+"States can set stricter standards, for example, Louisiana, requires
+full probable cause."
+
+"[Question:] Can student be subject to mass searches?
+ [Answer:] No. The Supreme Court [has not dealt with this.] But a
+number of federal and state courts have ruled that there must a
+reasonable suspeicion directed speciacally at each student before a
+school offical can search students. ..."
+
+"States courts, statutes, and local practices vary widely on the
+question of when students' lockers and desks can be searched."
+
+Here is the Privacy section of the unoffical, draft Statement
+on Computers and Academic freedom:
+
+"III. Privacy
+
+Principle: Personal files on university's computers (for example,
+files in a user's home directory) should have the same privacy
+protection as personal files in university-assigned space in an
+office, lab, or dormitory (for example, files in a graduate student's
+desk). Private communications via computer should have the same
+protections as private communications via telephone."
+
+ANNOTATED REFERENCES
+
+(All these documents are available on-line. Access information follows.)
+
+=================
+law/gillard-v-schmidt
+=================
+Description of an appellate court ruling that the school board could
+not search the desk of a school counselor without a warrant.
+
+=================
+caf-statement
+=================
+This is an attempt to codify the application of academic freedom to
+academic computers. It reflects our seven months of on-line discussion
+about computers and academic freedom. It covers free expression, due
+process, privacy, and user participation.
+
+Comments and suggestions are very welcome (especially when posted to
+CAF-talk). All the documents referenced are available on-line.
+
+=================
+=================
+
+To get these documents by email, send email to archive-server@eff.org.
+Include the line(s):
+
+  send caf-law gillard-v-schmidt
+  send acad-freedom caf-statement
+
+The files are also available via anonymous ftp from ftp.eff.org
+(192.88.144.4) as file(s):
+  pub/academic/law/gillard-v-schmidt
+  pub/academic/caf-statement
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Apr 11 00:00:00 1992
+Newsgroups: alt.privacy,comp.org.eff.talk,alt.comp.acad-freedom.talk
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Article 7--Re: Privacy on Novell Lans
+Message-ID: <1992Apr11.154521.768@eff.org>
+Date: Sat, 11 Apr 1992 15:45:21 GMT
+
+
+I quoted the first draft of the unoffical Statement on Computers and
+Academic Freedom (which I wrote):
+
+>Principle: Personal files on university's computers (for example,
+>files in a user's home directory) should have the same privacy
+>protection as personal files in university-assigned space in an
+>office, lab, or dormitory (for example, files in a graduate student's
+>desk). Private communications via computer should have the same
+>protections as private communications via telephone."
+
+jkogan@eff.org (Julia Kogan) writes:
+
+>Carl, since the "case" before us involves a high school, rather than a
+>university, would you quote or summarize any sections of the Statement
+>dealing with high school students?
+
+None of the draft CAF statement deals explictily with high schoolers.
+
+[...]
+>Furthermore, the last sentence of the draft Statement ("Private
+>communications....") seems amorphous -- quite the broad
+>policy generalization. Is it supposed to apply to high school
+>students, prisoners, and other classes that the S.Ct. has decided
+>have reduced/no privacy interests? 
+[...]
+
+No, only university students. On the other hand, it is a document
+about moral rights, not legal rights, and since it is unofficial, we
+can try to apply it elsewhere.
+
+The gist of the last sentence, "Private communications via computer
+should have the same >protections as private communications via
+telephone", is that computer communications should be treated like
+other communications with respect to privacy (or lack there of).
+
+If high school bathrooms can now be bugged or if any teachers can tap
+the telephones in the student council office (I hope thay can't, but I
+don't know), then I wouldn't expect computer networks to be free of
+spying.
+
+If prison bathrooms can now be bugged or if any guards can tap the
+telephones, (I understand they can tap most calls), then I wouldn't
+expect computer networks to be free of spying.
+
+- Carl
+
+
+
+
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Apr  9 00:00:00 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Article 8--DRAFT Student Access/Use Policy
+Message-ID: <1992Apr9.160725.7355@ms.uky.edu>
+Date: Thu, 9 Apr 1992 20:07:25 GMT
+
+I have been working on a "Student Access and Use Policy".  I've finally
+managed to wrangle it into a manageable form.  I'd like to hear any com-
+ments you may have.
+
+This is NOT an official policy; it has NOT been submitted for review.
+
+(A brief note:  Specific rules are numbered, e.g. 2.1, 2.2, et cetera;
+ everything else may be considered commentary/rationale)
+
+==============================================================================
+University of Kentucky
+Engineering Computing Center
+280 Anderson Hall
+
+DRAFT
+
+                Student Computing Access and Use Policy
+
+
+This document provides an outline of the Engineering Computing Center's
+policies for access and use of ECC systems.  These policies are based on the
+policies of the University; they are not to be considered superior to those
+policies.  
+
+Copies of this policy are available at the ECC offices (280 Anderson Hall) and
+the Engineering PC Laboratory (260 Anderson Hall).  This policy is also
+available in electronic form; contact the ECC staff for electronic retrieval
+instructions.  
+
+The basic University policy for student conduct is the Code of Student
+Conduct, as interpreted in Student Rights and Responsibilities.  Copies of
+this document are available from the Office of the Dean of Students. 
+Enforcement of those policies is the exclusive province of the Dean of
+Students; the Engineering Computing Center will decide if policy violations
+should be forwarded to the Dean of Students.  No disciplinary action will be
+taken against students by the Engineering Computing Center; if such action
+is contemplated, the matter will be remanded to the appropriate office.
+
+Section 1.21 of the Code of Student Conduct defines the offenses for which
+disciplinary action may be applied.  The ECC Access and Use Policy is based
+on several of these definitions; for each clause in the ECC Policy, the
+relevant Section and Paragraph of the Code will be listed.  In the remainder
+of this document, we shall refer to the Code of Student Conduct as "CSC".
+
+This document does not attempt to address every possible situation; rather, 
+it establishes a framework in which each situation may be evaluated.
+
+Questions and/or comments about this policy should be directed to the ECC
+staff in 280 Anderson Hall.  The ECC welcomes your input; we want to
+provide the best possible computing environment to you.
+
+ 
+Section 1: General Access Policies
+
+Each student in the College of Engineering is entitled to use the facilities of
+the Engineering Computing Center.  We believe that computing services are
+an essential part of your engineering education; our mission is to provide
+those services to you.
+
+Engineering Computing Center facilities are developed and maintained solely
+for the use of Engineering students.  Some facilities are essentially
+unrestricted; for instance, anyone may walk into an ECC PC Laboratory and
+use the computer systems there.  However, some facilities and/or services
+require the use of an individual userid.  Access to those facilities and/or
+services is restricted to Engineering students, therefore:
+
+1.1   Use of restricted ECC facilities by those students outside the College
+      of Engineering is prohibited.  [Paragraph 1.21u, CSC] 
+
+Your userid is issued solely for your use; you are not permitted to share your
+userid with others, regardless of their status within or without the
+University.  Therefore:
+
+1.2   Sharing your userid with any other person is prohibited.  [Paragraph
+      1.21u, CSC]
+
+1.3   Using a userid which belongs to another user is prohibited, even if you
+      have been issued a userid of your own.  [Paragraph 1.21u, CSC]
+
+Students in the College of Engineering may receive their own userid from the
+ECC Staff.  If students outside of the College of Engineering have a
+legitimate need for access to ECC systems, they may request their own
+userid.  Applicants should contact the ECC Staff for further assistance.
+
+The status of Engineering students is validated through the Engineering
+Student Records Office; the status of faculty, staff, and guest users is
+validated throught the appropriate Dean or Department Chairman.  Long-
+term access to ECC systems is only granted to Engineering users.  Users
+outside the College of Engineering will only receive temporary access to ECC
+systems.  Therefore:
+
+1.4   Applying for an ECC userid under false pretenses is a punishable
+      disciplinary offense.  [Paragraph 1.21r, CSC]
+
+The ECC Staff may, at a later date, establish specific policies to address
+short-term problems or situations.  You are obligated to follow those short-
+term directives and/or policies, just as you are obligated to follow this
+policy.  You may also receive specific personal instructions from ECC Staff;
+those instructions must be followed as well.  Therefore:
+
+1.5   Failure to comply with directions of ECC Staff acting in the
+      performance of their duties is a punishable disciplinary offense. 
+      [Paragraph 1.21h, CSC]
+
+
+
+Section 2: General Use Policy
+
+An essential aspect of academic freedom is student privacy.  Within the
+bounds set within this policy and subsequent announcements, you are free
+to use ECC facilities in any manner you wish.  A wide range of services and
+facilities are available to you, and we encourage you to use all of them.
+
+If you are granted certain rights as a user of ECC systems, it is reasonable to
+expect you to respect the rights of other users.  
+
+You are allocated a certain amount of disk space on ECC system for storage
+of your files and data.  Each user has their own disk space; you have no need
+to examine the disk space of other users.  The ECC Staff does not, and will
+not, examine student files or data, except during normal computing
+operations (e.g., making system backup tapes).  Therefore:
+
+2.1   Deletion, examination, copying, or modification of files and/or data
+      belonging to other users without their prior consent is prohibited. 
+      [Paragraphs 1.21a, 1.21m, and 1.21q, CSC]
+
+You may be assigned a quota, or limit, on the system resources you may
+consume.  Exceeding your quota(s) may impede the work of other users. 
+Therefore:
+
+2.2   Attempts to evade or change resource quotas are prohibited.
+      [Paragraphs 1.21a, 1.21h, and 1.21u, CSC]
+
+Some ECC systems give you the ability to communicate with other users. 
+Such communication may not always be welcomed by the other users; in
+fact, it may interfere with their work.  Therefore:
+
+2.2   Continued interference with other users, after receipt of a request to
+      cease such activity, is prohibited.  [Paragraph 1.21a, CSC]
+
+While we do not place arbitrary limits on your use of ECC systems, it is quite
+possible for you to consume a significant portion of the systems' resources. 
+As a result, you may impede the work of other users.  If this should occur,
+you will be notified by ECC staff.  Therefore:
+
+2.3   Continued impedance of other users through mass consumption of
+      system resources, after receipt of a request to cease such activity, is
+      prohibited.  [Paragraph 1.21a, CSC]
+
+Your access to ECC systems is based on your academic needs.  We cannot,
+and will not, support "for-profit" operations.  Therefore:
+
+2.4   Use of ECC facilities and/or services for commercial purposes is
+      prohibited.  [Paragraphs 1.21g and 1.21u, CSC]
+
+ECC resources are dedicated to academic work.  At this time, we cannot
+support game or recreational programs.  Therefore:
+
+2.5   The installation/execution of games and/or recreational programs on 
+      ECC systems is prohibited. [Paragraph 1.21u, CSC]
+
+Section 3: Electronic Mail Policy
+
+Electronic mail is one of the most beneficial services provided by the ECC. 
+It enables you to communicate with other users, both here and around the
+world.  The ECC encourages you to use electronic mail for both academic and
+social activities.  However, there are several means by which electronic mail
+may be abused.
+
+Electronic mail is a personal medium; it represents a conversation between
+you and another user.  As such, the ECC will not attempt to regulate the
+content of your electronic mail.  The ECC accepts no responsibility for the
+content of electronic mail you receive.  If you receive a piece of electronic
+mail which you consider offensive, the ECC will not become involved in the
+dispute.  You are reminded that the University does have policies against
+racism, sexism, and sexual harassment; if necessary, you may direct your
+problems to the appropriate University office.
+
+Whenever you send electronic mail, your name and userid are included in
+each mail message.  You are responsible for all electronic mail originating
+from your userid.  Therefore:
+
+3.1   Forgery (or attempted forgery) of electronic mail messages is
+      prohibited.  [Paragraph 1.21u, CSC]
+
+Electronic mail belongs to the recipient.  A user's mailbox is treated in the
+same manner as any other file belonging to that user.  Therefore:
+
+3.2   Attempts to read, delete, copy, or modify the electronic mail of other
+      users are prohibited.  [Paragraphs 1.21a, 1.21m, and 1.21q, CSC]
+
+Each user has a finite amount of disk space reserved for their electronic
+mail.  We believe that electronic mail is a necessary tool in computing. 
+Therefore:
+
+3.3   Deliberate interference with the ability of other users to send/receive
+      electronic mail is prohibited.  [Paragraph 1.21a, CSC]
+
+When single messages are dispatched to numerous users, you are using a
+mechanism known as a mailing list.  The mailing list mechanism can be very
+useful in your academic work; however, large mailing lists can place a serious
+burden on the electronic mail system.  Therefore:
+
+3.4   All mailing lists with more than 10 members must be registered with
+      the ECC staff. [Paragraph 1.21u, CSC]
+
+It is important to note that the ECC staff will make arrangements for large
+mailing lists; however, we will not support mailing lists whose subjects
+violate University policy, State law, or Federal law.  (In any situation where
+this is a possibility, the University Counsel will be asked for a decision.)
+
+Section 4: Network Use Policy
+
+Many ECC systems are connected to local, regional, national, and worldwide
+networks.  These networks allow you to access facilities and services
+provided by computing operations around the world.  Naturally, the ECC
+encourages you to use these facilities; however, some restrictions must be
+place on your use.
+
+With thousands of computer systems joined by networks, it is possible to
+attempt to gain unauthorized access to those systems.  Therefore:
+
+4.1   Use of ECC systems and/or networks in attempts to gain unauthorized
+      access to remote systems is prohibited.  Any such attempts will be
+      reported to the administrators of the remote systems.  [Paragraph
+      1.21u, CSC]
+
+There are a limited number of network ports available to certain systems. 
+It is possible to connect to other systems via ECC systems.  This misuse of
+ECC systems may result in depriving other users of access to our systems. 
+We cannot support use of computers outside of the ECC.  Therefore:
+
+4.2   Use of ECC systems and/or networks to connect to other systems, in
+      evasion of the physical limitations of the remote system/network, is
+      prohibited. [Paragraph 1.21a and 1.21u, CSC]
+
+Some computer systems offer recreational services, which are accessible from
+remote sites through the network(s).  The ECC does not have sufficient
+network resources to support such activities.  In addition, use of ECC
+services for such purposes may prevent other users from accessing ECC
+systems.  Therefore:
+
+4.3   Use of ECC systems and/or networks to access recreational services
+      provided by other sites is prohibited.  [Paragraphs 1.21a and 1.21u,
+      CSC]
+
+There are many sites which provide electronic archive services; some of the
+programs available from those archives are network-based applications.  It
+is essential that the ECC maintain control and management capabilities over
+the network.  Therefore:
+
+4.4   With the exception of classwork assignments, network-based
+      applications will not be installed on ECC systems without the
+      knowledge and consent of the ECC Staff.  [Paragraph 1.21u, CSC]
+
+
+
+
+Section 5: System Security Policy
+
+While the ECC encourages you to learn as much as possible about computing
+and computing systems, we have certain obligations which we must honor.
+
+The operating systems used on ECC systems are copyrighted works; we do
+not have the right to copy system files or install them on other systems.  In
+fact, copying system files is a violation of copyright law.  Therefore:
+
+5.1   The copying of system files is prohibited.  [Paragraphs 1.21f and 1.21u,
+      CSC]
+
+(For the purposes of this policy, any files which do not specifically belong to
+a particular Engineering user are system files.  Files belonging to specific
+users are protected under rule 2.1)
+
+Some programs and/or files on ECC systems are in the public domain; these
+files may be copied and distributed freely.  Any such files will be clearly
+marked as "public domain".  If you are unsure about the status of a particular
+program or file, contact the ECC staff.
+
+Each user of ECC systems is authenticated through the use of a password. 
+This "password protection" is an integral part of the system.  Therefore:
+
+5.2   Decryption of system or user passwords is prohibited.  [Paragraphs
+      1.21a and 1.21u, CSC]
+
+Many copyrighted programs are used on ECC systems.  We have secured
+licenses for the use of these programs.  Those licenses do not allow us to
+make unauthorized copies of the software.  Therefore:
+
+5.3   The copying of copyrighted materials, such as third-party software,
+      without the express written permission of the owner or the proper
+      license, is prohibited.  [Paragraphs 1.21f and 1.21u, CSC]
+
+When presented with improper data, some computing systems and/or
+programs may "crash".  A system/program crash prevents other users from
+accessing the system/program until the problem is remedied.  Therefore:
+
+5.4   Intentional attempts to "crash" ECC systems or programs are
+      punishable disciplinary offenses.  [Paragraphs 1.21a, 1.21p, and 1.21u,
+      CSC]
+
+When you are issued a userid, you are granted a certain set of privileges. 
+There are higher levels of privilege; these levels are restricted to ECC Staff. 
+These higher privileges, if misused or abused, may cause damage to both
+hardware and software; in fact, they may render the system unusable. 
+Therefore:
+
+5.5   Any attempts to secure a higher level of privilege on ECC systems are
+      punishable disciplinary offenses.  [Paragraphs 1.21g 1.21p, and 1.21u,
+      CSC]
+
+
+
+Section 6: Incident Handling
+
+In the event that you, knowingly or unknowingly, violate ECC or University
+policy, you will be contacted by the ECC Staff.  This contact will usually take
+the form of an electronic mail message.  It is your responsibility to follow
+any instructions you may receive from ECC Staff, and to confirm your
+receipt of those instructions.  If you believe that the instructions given to
+you are unreasonable, you should immediately contact the Director of
+Engineering Computing or the Assistant Dean of the College of Engineering. 
+If you do not register your complaint with either the Director of Engineering
+Computing or the Assistant Dean, it is expected that you will follow the
+instructions given to you.  Therefore:
+
+6.1   Disregarding instructions of ECC Staff may result in the temporary
+      revocation of your computing access.
+
+If your access is temporarily revoked, you should immediately contact the
+ECC Staff for an explanation of the situation.  In most cases, the revocation
+will be lifted within 1 working day.  Quite often, temporary revocation is the
+result of a minor, or apparently unintentional, violation of ECC or University
+policy; such revocations will be lifted as soon as the ECC Staff discusses the
+relevant policies with you.
+
+6.2   Temporary revocations of computing access will be dissolved within
+      one working day of the resolution of the violation.
+
+We feel that, in most situations, a temporary revocation, and the dialogue
+which follows, is preferable to an automatic request for disciplinary action.
+
+It is important to note that it is your obligation to contact ECC in the event
+that your computing access is revoked.  
+
+A situation may occur in which, in the opinion of the ECC staff, immediate
+revocation is necessary; in such a situation, you may not receive advance
+notice of the problem.  These cases will be handled in the same manner as
+any other temporary revocation; you should contact the ECC staff as soon
+as possible, so that the revocation may be dissolved.
+
+If the ECC believes that you have committed a significant violation of ECC
+or University policy, the matter will be remanded to the Dean of Students for
+disciplinary procedures under the Code of Student Conduct.  If the Dean of
+Students decides that judicial proceedings are necessary, the ECC will
+provide a restricted form of computer access, so that you may continue your
+academic work during the judicial process.  
+
+6.3   If the Dean of Students initiates disciplinary action against you, the
+      ECC will provide sufficient computing access for the completion
+      and/or continuation of your academic work.  This access may be
+      limited in scope, depending on the nature of the charges against you.
+
+The ECC will abide by the decision of the Dean of Students.  If the Dean of
+Students chooses not to bring disciplinary action against you, or if the
+judicial proceedings are resolved in your favor, your complete access to ECC
+facilities will be immediately restored.
+
+Section 7: Avoiding Violations
+
+7.1   Any attempt to violate the provisions of this policy may result in
+      disciplinary action, regardless of the success or failure of the attempt.
+      [Paragraph 1.21u and 1.21v, CSC]
+
+The best means of avoiding policy violations is communication with the ECC
+Staff.  If you believe that your use of ECC systems may violate this policy,
+you should discuss the matter with the ECC Staff before initiating any
+action.  The ECC may be able to assist you in your work by increasing your
+resource quotas or making additional computing systems available to you. 
+If you have any doubts about the propriety of your actions, it is your
+responsibility to discuss the matter with the ECC Staff.
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+        "I was going to rip your head off, but I'm past that now."
+
+
+------------------------------
+
+From caf-talk Caf Apr 11 00:00:00 1992
+Newsgroups: comp.admin.policy,alt.comp.acad-freedom.talk
+From: john@iastate.edu (John Hascall)
+Subject: Article 9--Re: DRAFT Student Access/Use Policy
+Message-ID: <1992Apr11.150009.6432@news.iastate.edu>
+Date: Sat, 11 Apr 1992 15:00:09 GMT
+
+morgan@ms.uky.edu (Wes Morgan) writes:
+}I have been working on a "Student Access and Use Policy".  I've finally
+}managed to wrangle it into a manageable form.  I'd like to hear any com-
+}ments you may have.
+
+Well, here are my comments.  Well, actually my complaints.  If I
+left it out, I didn't have any questions about it.
+
+John
+My background (bias?) is:
+     ISU Comp Ctr Systems Software Engineer
+     Member of ISU Computor Advisory [to the Provost] Committee
+     Part-time graduate student
+}==============================================================================
+}DRAFT
+}
+}                Student Computing Access and Use Policy
+
+}                                          ... No disciplinary action will be
+}taken against students by the Engineering Computing Center; if such action
+}is contemplated, the matter will be remanded to the appropriate office.
+             [this appears to not be true, see below]
+
+}1.1   Use of restricted ECC facilities by those students outside the College
+}      of Engineering is prohibited.  [Paragraph 1.21u, CSC] 
+
+What about students not in the Engineering College but who are taking
+an Engineering Course?  Where do they fall?
+
+}1.2   Sharing your userid with any other person is prohibited.  [Paragraph
+}      1.21u, CSC]
+}
+}1.3   Using a userid which belongs to another user is prohibited, even if you
+}      have been issued a userid of your own.  [Paragraph 1.21u, CSC]
+
+We also have a rule of one userid per person -- it sounds like this is your
+situation, maybe that is worth saying explicitly.
+
+}The ECC Staff may, at a later date, establish specific policies to address
+}short-term problems or situations.  You are obligated to follow those short-
+}term directives and/or policies, just as you are obligated to follow this
+}policy.  You may also receive specific personal instructions from ECC Staff;
+}those instructions must be followed as well.  Therefore:
+
+Some assurance that these policies and/or instructions will also be in
+accordance with, and not superior to, University policy?
+
+}You are allocated a certain amount of disk space on ECC system for storage
+}of your files and data.  Each user has their own disk space; you have no need
+}to examine the disk space of other users.  The ECC Staff does not, and will
+}not, examine student files or data, except during normal computing
+}operations (e.g., making system backup tapes).  Therefore:
+
+An assurance that files/data `accidentally' seen will be not be divulged?
+
+}2.2   Attempts to evade or change resource quotas are prohibited.
+}      [Paragraphs 1.21a, 1.21h, and 1.21u, CSC]
+
+I assume you *are* allowed to change a quota by requesting a change from ECC?
+
+}While we do not place arbitrary limits on your use of ECC systems, it is quite
+}possible for you to consume a significant portion of the systems' resources. 
+}As a result, you may impede the work of other users.  If this should occur,
+}you will be notified by ECC staff.  Therefore:
+}
+}2.3   Continued impedance of other users through mass consumption of
+}      system resources, after receipt of a request to cease such activity, is
+}      prohibited.  [Paragraph 1.21a, CSC]
+
+How does someone who feels his consumption of resourses is warranted
+(necessary to their academic success) seek appeal?
+
+}Your access to ECC systems is based on your academic needs.  We cannot,
+}and will not, support "for-profit" operations.  Therefore:
+}
+}2.4   Use of ECC facilities and/or services for commercial purposes is
+}      prohibited.  [Paragraphs 1.21g and 1.21u, CSC]
+
+Definition of `for-profit'?  Is, for example, using misc.forsale allowed
+or not allowed.
+
+}ECC resources are dedicated to academic work.  At this time, we cannot
+}support game or recreational programs.  Therefore:
+}
+}2.5   The installation/execution of games and/or recreational programs on 
+}      ECC systems is prohibited. [Paragraph 1.21u, CSC]
+
+Definition of recreational?  News?  Only certain newsgroups?  E-mail?
+Talk?  IRC?  Playing MUD?  Writing MUD?  Writing a program not required
+in any class?  Fortune?  FTP?  Archie?  ...
+
+}Section 3: Electronic Mail Policy
+     :
+}3.4   All mailing lists with more than 10 members must be registered with
+}      the ECC staff. [Paragraph 1.21u, CSC]
+
+I'm sorry, this seems absolutely absurd.
+
+}It is important to note that the ECC staff will make arrangements for large
+}mailing lists; however, we will not support mailing lists whose subjects
+}violate University policy, State law, or Federal law.  (In any situation where
+}this is a possibility, the University Counsel will be asked for a decision.)
+
+How could the existence of a mailing list could be illegal?
+
+}Section 4: Network Use Policy
+    :
+}There are a limited number of network ports available to certain systems. 
+}It is possible to connect to other systems via ECC systems.  This misuse of
+}ECC systems may result in depriving other users of access to our systems. 
+}We cannot support use of computers outside of the ECC.  Therefore:
+}
+}4.2   Use of ECC systems and/or networks to connect to other systems, in
+}      evasion of the physical limitations of the remote system/network, is
+}      prohibited. [Paragraph 1.21a and 1.21u, CSC]
+
+I don't understand this.  For example, we have a system with 1 serial
+connection.  Is telneting to that system an "evasion of the physical
+limitations"???  Why is that banned???
+
+
+}Section 6: Incident Handling
+     :
+}In the event that you, knowingly or unknowingly, violate ECC or University
+}policy, you will be contacted by the ECC Staff.  This contact will usually take
+}the form of an electronic mail message.  It is your responsibility to follow
+}any instructions you may receive from ECC Staff, and to confirm your
+}receipt of those instructions.  If you believe that the instructions given to
+}you are unreasonable, you should immediately contact the Director of
+}Engineering Computing or the Assistant Dean of the College of Engineering. 
+}If you do not register your complaint with either the Director of Engineering
+}Computing or the Assistant Dean, it is expected that you will follow the
+}instructions given to you.  Therefore:
+}
+}6.1   Disregarding instructions of ECC Staff may result in the temporary
+}      revocation of your computing access.
+
+How do you know if they have even received your instructions (e-mail?).
+If, for example, I was not on the system for a week or so, tried to use
+the system some Saturday to complete a project due Monday morning and
+found I my access revoked because I had not followed instructions (that
+I never received) and my academic success was jepordized I would be furious.
+
+Also, in my mind this is punishment -- something you stated at the top
+would not happen.
+
+}If your access is temporarily revoked, you should immediately contact the
+}ECC Staff for an explanation of the situation.  In most cases, the revocation
+}will be lifted within 1 working day.  Quite often, temporary revocation is the
+}result of a minor, or apparently unintentional, violation of ECC or University
+}policy; such revocations will be lifted as soon as the ECC Staff discusses the
+}relevant policies with you.
+
+See above--this is unacceptable.
+
+}The ECC will abide by the decision of the Dean of Students.  If the Dean of
+}Students chooses not to bring disciplinary action against you, or if the
+}judicial proceedings are resolved in your favor, your complete access to ECC
+}facilities will be immediately restored.
+
+Access is restricted BEFORE the guilt of the student is determined?!?
+
+
+------------------------------
+
+From caf-talk Caf Apr 10 00:00:00 1992
+Date: Thu, 9 Apr 92 9:21:08 CDT
+From: riddle@hounix.org (Prentiss Riddle)
+Message-ID: <b.199204101431.AA12742@eff.org>
+Subject: Article 10--Risks of academic cheating by computer
+
+There is an academic cheating brouhaha this semester at the university where I
+work which is brimming over with computer risks.  I am not privy to the details
+of the case, but here is a summary from the published accounts.
+
+This university has an Honor Code governing student cheating which is a source
+of much school pride.  Students agree not to give or receive aid on schoolwork
+and as a result the university can function without the burden of proctored
+exams.  Alleged violations of the Honor Code are taken before the Honor
+Council, an elected student body which has the authority to dole out
+substantial punishments.  Honor Council cases are publicized in the form of
+anonymous abstracts which mask the identities of all parties.
+
+Enter the computer: Earlier this semester, two students were accused of
+colluding on a homework assignment which was done and handed in via one of the
+university's academic computer networks.  Their TA noticed that portions of the
+two students' homework were identical, down to the initials of one of the
+students.  Network officials were asked to examine backup tapes for the period
+of time in question and produced evidence which supported the theory that
+"Student B" had sent homework to "Student A" by electronic mail immediately
+before Student A turned it in.  The students argued that they were innocent and
+were the victims of a frame-up by an unknown "User X" who they alleged had
+gained access to their accounts.  The Honor Council refused to accept the "User
+X" theory and convicted both students.  Student B's conviction was later
+overturned partly on the basis of further evidence supplied by network
+officials which suggested that Student A committed the acts of cheating alone
+by logging in to Student B's account.
+
+Although officially the case is closed, it is the subject of much heated debate
+in the student newspaper and local Usenet newsgroups at the university.  Both
+students continue to maintain their innocence and their supporters have rallied
+around the slogan "Free Student A".
+
+Computer risks seem to surround this case on all sides.  A few which
+come to mind:
+
+-- The risk of cheating by computer in the first place.  While academic
+cheating is as old as academia, the computer can make it, like so many other
+things, easier than ever before.
+
+-- The risk of frame-ups.  While the Honor Council appears to be satisfied that
+the computer evidence substantiates real cheating in this case, it is clear
+that a person with access to one or more users' accounts could at least cause
+them a major nuisance and possibly succeed in framing them of cheating.  With
+the penalties involved going as high as academic suspension from a school which
+costs thousands of dollars per semester, this is no light matter.
+
+-- The complexity of evidence in cases of computer cheating.  Honor council
+members were quoted in the student paper as complaining about the new and
+bewildering kinds of evidence they are asked to consider in computer cheating
+cases, and critics of the Honor Council have complained about the dangers of
+being judged by people who are not users of the systems involved and don't
+thoroughly understand them.
+
+-- The burden on system administrators.  The network official who provided the
+bulk of the evidence estimated that he spent a full week gathering and
+analyzing it.  Since the case came up, the local academic network has extended
+the period of time it keeps daily backups before recycling them.  How much data
+is it reasonable to keep, and to pore over, in order to provide evidence in
+cases like this?  I don't know of a way to determine a firm answer.
+
+-- The danger to trust and to openness.  Both the university's Honor Code and
+the tradition of open exchange of information within the computing community
+are threatened by cases like this.  Must students be kept in a "padded shell"
+to prevent computerized cheating?
+
+-- Prentiss Riddle ("aprendiz de todo, maestro de nada") priddle@hounix.org
+-- 
+Carl Kadie -- I do not represent EFF; this is just me.
+ =kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.3619@layout.berkeley.edu=
+
+
+------------------------------
+
+From caf-talk Caf Apr 10 00:00:00 1992
+From: mhart@blackjack.dt.navy.mil (Michael Hart)
+Newsgroups: comp.society
+Subject: Article 11--Re: USENET Censorship at Iowa State University
+Message-Id: <mhart.702903074@blackjack>
+Date: 10 Apr 92 10:51:14 GMT
+
+
+In <1992Apr7.192956.6898@m.cs.uiuc.edu> kadie@herodotus.cs.uiuc.edu (Carl M.
+ Kadie) writes:
+
+>In article <1992Apr5.205935.29334@m.cs.uiuc.edu>
+>kadie@herodotus.cs.uiuc.edu > (Carl M. Kadie) writes:
+
+>>If your library is like most, it does not keep a record of the books
+>>you check out.
+
+>I meant to say that if it is like most, it does not keep a record of
+>the books you check out *after you return them*. Moreover, no library
+>that I know of maintains an explicit list of people-who-read-material-
+>that-discusses-sex.
+
+See also my other followup to the thread.
+
+No library that I know of, and I worked for a very large library
+system (150 branches) and for a library computer systems vendor,
+_ever_ keeps records, logs, or lists of any type of material that
+a patron gets.
+
+The other day, I went into my library with my wifes card to see what
+she had out, in case any was overdue.  They scanned the barcode,
+and would tell me that she had 3 items out, and when they were due,
+but would not tell me the titles.
+
+Most libraries will vehemently protect the privacy of their patrons.
+
+
+--
+|   Michael G. Hart                   mhart@blackjack.dt.navy.mil    |
+|--------------------------------------------------------------------|
+|     You think _I_ speak for the government or the navy?  HAH!      |
+| Aviation, computers, quality improvement, Northern Exposure, money |
+
+
+------------------------------
+
+From caf-talk Caf Apr 10 00:00:00 1992
+Newsgroups: oh.general,alt.society.civil-liberty
+From: pprior@magnus.acs.ohio-state.edu (Paul A Prior)
+Subject: Article 12--Re: Help stop the KKK
+Message-ID: <1992Apr10.184852.26771@magnus.acs.ohio-state.edu>
+Date: Fri, 10 Apr 1992 18:48:52 GMT
+
+In article <1992Apr10.160932.8430@meaddata.com> paulm@meaddata.com (Paul Marchant) writes:
+>In article <1992Apr10.111523.21899@athena.mit.edu>, wdstarr@athena.mit.edu (William December Starr) writes:
+>|> 
+>|> In article <1992Apr9.231712.18074@ucunix.san.uc.edu>, 
+>|> schectr@ucunix.san.uc.edu (ROBB SCHECTER) said:
+>|> 
+>|> > - On University of Cinncinati campus, we have started organizing a
+>|> > counter-demonstration.  The general idea is for it to be
+>|> > confrontational but not violent.
+>|> 
+>|> > - We hope to mass enough people to drown out any speeches, and
+>|> > defeat any recruiting efforts the Klan will make.
+>|> 
+>|> "Hi there... we're a group of citizens who are concerned about the
+>|> Klan's negative attitudes towards the civil liberties of others, so
+>|> in order to protest against their attitudes we're going to try to
+>|> deprive them of their rights to freedom of speech."
+>|> 
+>|> Bleah.
+>|> 
+>|> -- William December Starr <wdstarr@athena.mit.edu>
+>
+>Well, Bill, I think you have things confused here. If the group were
+>interested in depriving them of their right to freedom of speech, then
+>they might has said something like: we'll shoot anyone who wears a
+>white sheet, phyically block the march, violently attack them, etc...
+>
+>What they are planning on doing, it counter-demonstrate, i.e. exercise
+>their rights to freedom of speech as well. Perhaps you'll decide to
+>join the two groups and witness the exercising of rights in person.
+>
+Shouting down tactics and "confrontational" goals are seemingly ever
+popular strategies in today's society when you disagree with another
+group's platform.  For Queer Nation's shameless lambasting of priests
+during Catholic Mass to the shouting down tactics used by other groups
+to disallow political candidates to speak their minds, it seems to me,
+as noted by William Starr, that it reeks of hypocrisy.
+
+Let me be on record as being disgusted with the ignorant beliefs of the 
+KKK, and I'm not voicing an attack on QN or any other group as well.  
+I just hate to see well meaning people attemping (as is the current
+vogue) to destroy the 1st ammendment rights of whoever they happen
+to disagree with.
+
+After all, what happened to the philosophy of "I may disagree with your
+positions and beliefs, but I will fight to the death to preserve your
+right to express them"?  Today it's more like "You offend me, so I'm going
+to prevent you from speaking, whether by legislation, litigation, or 
+simple mob participation."
+
+
+
+-- 
+--------pprior@magnus.acs.ohio-state.edu----(614) 297-8474----------------
+Paul A. Prior    Ban anchors, not reef tanks   "With friends like this,   
+2nd year medical student		          who needs anemones?"
+The Ohio State U. College of Medicine   Tobacco Kills- Please don't smoke!
+
+
+------------------------------
+
+From caf-talk Caf Apr 12 00:00:00 1992
+Newsgroups: soc.motss,soc.bi,ne.motss,alt.personals,comp.org.eff.talk
+From: entropy@yaya (Lawrence C Foard)
+Subject: Article 13--frightening law
+Message-ID: <1992Apr12.055744.3899@wpi.WPI.EDU>
+Date: Sun, 12 Apr 1992 05:57:44 GMT
+
+The following was recently sent to me after I requested more info about
+something appearing in alt.censorship, if I'm reading it right this would
+outlaw all pornography in Massachusetts. 
+
+>From a newspaper article on it --
+"A bill of divorcement: women are split on anti-pornography law," by
+Thomas C. Palmer, Jr., Boston Globe, March 29, 1992, p.69 -- I've
+gotten part of it, though:
+
+    Sec.2(e): It shall be sex discrimination to produce, sell,
+    exhibit, or distribute pornography, including through private
+    clubs.  This subsection applies only to pornography made using
+    live or dead human beings or animals...
+
+    City, state, and federally funded public libraries or private
+    and public university and college libraries in which pornography
+    is available for study, including on open shelves but excluding
+    special display presentations, shall not be construed to be
+    trafficking in pornography.
+
+    Any woman may bring a complaint hereunder as a woman acting
+    against the subordination of women.  Any man, child, or
+    transsexual who alleges injury by pornography in the way women
+    are injured by it may also complain.
+
+The fun part is that, according to the Globe article:
+
+       The provision that would define trafficking in pornography as
+    sex discrimination, which is already illegal and subject to
+    triple damages, is the most far-reaching and dangerous one,
+    according to an opponent, Nan C. Hunter, a cofounder of the
+    Feminist Anti-Censorship Task Force.
+
+       It is something of a "stealth" provision, buried in the bill
+    but one opponents believe would be used the most -- and of the
+    greatest harm to free expression.  "There is no proof of harm
+    required," Hunter says.  "The other sections at least try to
+    address situations that involve harm and coercion."
+
+As a technical note, the use of the word "illegal" may be misleading
+-- sexual discrimination is a civil offense, not a criminal offense,
+in Massachusetts.  You can't go to prison or be fined for it, but
+you sure as hell can be sued for everything you own...
+
+-- William December Starr <wdstarr@athena.mit.edu>
+
+-------------------------------
+End repost
+
+Obviously if this is for real we have some serious problems. I don't think
+USENET will survive in its present form if this passes.
+-- 
+Disclaimer: All opinions expressed are 99.44% true.            ------  0<p<1  
+Hackers do it for fun.  |  Being Bisexual squares your         \    / therefore
+"Profesionals" do it for money. |  probability of not getting   \  / p^2<p and
+Managers have others do it for them. |  laid on a saturday night.\/ 1-p^2>1-p 
+
+
+
+
+------------------------------
+
+End of Computers and Academic Freedom News (Digest)
+************************************

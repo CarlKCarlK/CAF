@@ -1,0 +1,343 @@
+[
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "1992-11-15",
+      "historical_relevance": "high",
+      "item_type": "abstract",
+      "notable_claims": [
+        "Some academic computer centers may restrict network access based on 'frivolous' use, raising questions about student privacy and mail monitoring.",
+        "There is a noted contradiction at Iowa State University between its library's open-access policy for books and its restrictive policies regarding the alt.sex newsgroup."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Iowa State University"
+      ],
+      "people": [
+        "Mark Sheehan",
+        "John Nagle",
+        "Wes Morgan",
+        "Thomas A Insel",
+        "M T Russotto",
+        "E Schwartz",
+        "Daniel Zabetakis",
+        "Carl M. Kadie"
+      ],
+      "summary": "This digest summarizes various discussions regarding the intersection of law, ethics, and computer use in academic and public settings. Key themes include university monitoring of student network activity, the legality of cross-border data transmission, and the tension between library access policies and Usenet restrictions.",
+      "title": "Abstract of CAF-News 02.56",
+      "topics": [
+        "student privacy",
+        "network monitoring",
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "BBS seizures"
+      ]
+    },
+    "identity": {
+      "date": "",
+      "from": "sheehan@bronze.ucs.indiana.edu (Mark Sheehan)",
+      "item_count": 9,
+      "item_index": 0,
+      "message_id": "",
+      "source_kind": "news",
+      "source_path": "news/cafv02n56",
+      "subject": "Article 0 -- Abstract of CAF-News 02.56",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "error": "Model returned invalid JSON: invalid type: map, expected a string. Content preview: \"```json\\n[\\n  {\\n    \"historical_relevance\": \"high\",\\n    \"item_type\": \"post\",\\n    \"title\": \"Article 1--Re: Contraband data on the Net (again)\",\\n    \"date_or_period\": \"Nov 10, 1992\",\\n    \"summary\": \"John Nagle responds to claims about federal l\"",
+    "identity": {
+      "date": "Tue, 10 Nov 1992 19:27:54 GMT",
+      "from": "nagle@netcom.com (John Nagle)",
+      "item_count": 9,
+      "item_index": 1,
+      "message_id": "<1992Nov10.192754.847@netcom.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n56",
+      "subject": "Article 1--Re: Contraband data on the Net (again)",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 13, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Standard Unix utilities like 'who', 'finger', and 'ps' can be used by any user to monitor individual activity.",
+        "Network traffic profiling (e.g., via port numbers) can identify 'frivolous' use of MUDs or IRC without identifying specific users.",
+        "Mail delivery agent logs are essential for troubleshooting but can be used to profile individual email usage."
+      ],
+      "organizations": [
+        "University of Kentucky",
+        "Florida Atlantic University"
+      ],
+      "people": [
+        "Wes Morgan",
+        "Michael Rogero Brown"
+      ],
+      "summary": "In response to concerns that university administrators are unethically spying on students to justify limiting network access, Wes Morgan explains the technical methods used for system monitoring. He details how standard Unix and VMS utilities (such as ps, netstat, and mail logs) allow admins to profile usage patterns without necessarily reading private content. Morgan argues that such data is essential for troubleshooting, licensing compliance, and resource justification.",
+      "title": "Article 5--Re: Query: Can Universities limit network access &/or 'spy` on users?",
+      "topics": [
+        "privacy",
+        "system administration",
+        "network monitoring",
+        "academic freedom",
+        "user surveillance"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 13 Nov 1992 19:43:18 GMT",
+      "from": "morgan@engr.uky.edu (Wes Morgan)",
+      "item_count": 9,
+      "item_index": 2,
+      "message_id": "<1992Nov13.144319.23661@ms.uky.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n56",
+      "subject": "Article 5--Re: Query: Can Universities limit network access &/or 'spy` on users?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 15, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Personal expressions in .plan files are analogous to physical decorations in a professor's office and should be permitted."
+      ],
+      "organizations": [
+        "University of Illinois at Urbana-Champaign"
+      ],
+      "people": [
+        "Thomas Aaron Insel"
+      ],
+      "summary": "Thomas Aaron Insel responds to a hypothetical scenario regarding whether professors should be allowed to include personal or religious quotes in their .plan files. He argues that such expressions are acceptable, comparing the digital .plan file to a physical office door or wall.",
+      "title": "Article 6--Re: right to have .plan",
+      "topics": [
+        "academic freedom",
+        ".plan files",
+        "digital expression",
+        "faculty rights"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 15 Nov 1992 02:24:47 GMT",
+      "from": "tinsel@uiuc.edu (Thomas Aaron Insel)",
+      "item_count": 9,
+      "item_index": 3,
+      "message_id": "<BxqK1C.MJK@news.cso.uiuc.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n56",
+      "subject": "Article 6--Re: right to have .plan",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 15, 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Distinction made between choosing to read a .plan file versus being required to read one for course information.",
+        "Claim that content in .plan files used as syllabi should be handled by academic superiors rather than system administrators."
+      ],
+      "organizations": [
+        "University of Maryland",
+        "UCLA"
+      ],
+      "people": [
+        "Matthew T. Russotto",
+        "The Jester"
+      ],
+      "summary": "The discussion examines whether professors should be allowed to include non-academic or religious content in their .plan files when those files are used as primary sources for course information. Matthew Russotto argues that while such content may be unethical, it is an academic matter rather than a computer administration issue.",
+      "title": "Article 7--Re: right to have .plan",
+      "topics": [
+        "academic freedom",
+        ".plan files",
+        "acceptable use",
+        "religious expression"
+      ]
+    },
+    "identity": {
+      "date": "Sun, 15 Nov 92 02:27:27 GMT",
+      "from": "russotto@eng.umd.edu (Matthew T. Russotto)",
+      "item_count": 9,
+      "item_index": 4,
+      "message_id": "<1992Nov15.022727.16660@eng.umd.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n56",
+      "subject": "Article 7--Re: right to have .plan",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "11 Nov 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Screening messages would only be effective if a large number of sites implemented it simultaneously.",
+        "Binary groups were used to increase the perceived value or popularity of internet services."
+      ],
+      "organizations": [
+        "UMass Boston"
+      ],
+      "people": [
+        "Elizabeth Schwartz"
+      ],
+      "summary": "Elizabeth Schwartz, a system administrator at UMass Boston, discusses the ethical and technical challenges of managing illegal content on Usenet. She notes that while binary groups are popular and help justify the service, the presence of child pornography is problematic. She argues that individual site screening is ineffective unless adopted widely across many sites.",
+      "title": "Article 8--Re: What about child pornography?",
+      "topics": [
+        "content moderation",
+        "Usenet",
+        "system administration",
+        "illegal content"
+      ]
+    },
+    "identity": {
+      "date": "11 Nov 92 00:37:58 GMT",
+      "from": "betsys@cs.umb.edu (Elizabeth Schwartz)",
+      "item_count": 9,
+      "item_index": 5,
+      "message_id": "<BETSYS.92Nov10193758@ra.cs.umb.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n56",
+      "subject": "Article 8--Re: What about child pornography?",
+      "to_or_newsgroups": "comp.admin.policy,alt.comp.acad-freedom.talk",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Wed, 11 Nov 1992",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "Claims there is no standardized procedure for administrators to determine if content constitutes illegal child pornography.",
+        "Suggests that legality of pornographic content is determined by courts and varies locally."
+      ],
+      "organizations": [],
+      "people": [
+        "Daniel Zabetakis",
+        "Elizabeth Schwartz"
+      ],
+      "summary": "Daniel Zabetakis responds to concerns regarding the presence of child pornography on newsgroups like alt.binaries.pictures.groups. He argues that there is no clear procedural 'test' for administrators to determine the legality of content before it is ruled upon by a court. The discussion highlights the tension between network administration, legal liability, and free expression.",
+      "title": "Article 9--Re: What about child pornography?",
+      "topics": [
+        "content moderation",
+        "legal liability",
+        "Usenet",
+        "academic freedom",
+        "obscenity laws"
+      ]
+    },
+    "identity": {
+      "date": "Wed, 11 Nov 1992 16:17:41 GMT",
+      "from": "dan@cubmol.bio.columbia.edu (Daniel Zabetakis)",
+      "item_count": 9,
+      "item_index": 6,
+      "message_id": "<1992Nov11.161741.2429@news.columbia.edu>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n56",
+      "subject": "Article 9--Re: What about child pornography?",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "12 Nov 92",
+      "historical_relevance": "medium",
+      "item_type": "post",
+      "notable_claims": [
+        "The St. Louis County Public Library used a programmed computer system to block 'minus' material on children's library cards."
+      ],
+      "organizations": [
+        "St. Louis City Public Library",
+        "St. Louis County Public Library",
+        "Data Research Associates, Inc"
+      ],
+      "people": [
+        "Sean Donelan",
+        "Carl M. Kadie"
+      ],
+      "summary": "The author discusses censorship efforts regarding the purchase of Madonna's 'Sex' book at public libraries in St. Louis. The post highlights how the City Public Library cancelled its order due to complaints and tax-funded pornography arguments. Additionally, it notes that the County Public Library used an automated computer system to enforce a policy blocking children from checking out restricted materials.",
+      "title": "Article 10--Re: [UPI] Library attacked for buying Madonna's Sex book",
+      "topics": [
+        "censorship",
+        "library policy",
+        "automated circulation systems",
+        "access control"
+      ]
+    },
+    "identity": {
+      "date": "12 Nov 92 23:36:50 CST",
+      "from": "sean@cobra.dra.com",
+      "item_count": 9,
+      "item_index": 7,
+      "message_id": "<1992Nov12.233650.20@cobra.dra.com>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n56",
+      "subject": "Article 10--Re: [UPI] Library attacked for buying Madonna's Sex book",
+      "to_or_newsgroups": "alt.censorship,soc.libraries.talk,alt.comp.acad-freedom.talk,alt.sex,rec.arts.books",
+      "truncated_for_model": false
+    }
+  },
+  {
+    "classification": {
+      "confidence": 0.95,
+      "date_or_period": "Nov 13, 1992",
+      "historical_relevance": "high",
+      "item_type": "post",
+      "notable_claims": [
+        "Iowa State University restricted access to alt.sex on Netnews.",
+        "ISU cited external criticism and the use of public funds as justifications for restricting objectionable digital content."
+      ],
+      "organizations": [
+        "Electronic Frontier Foundation",
+        "Iowa State University",
+        "Ames Public Library"
+      ],
+      "people": [
+        "Carl M. Kadie",
+        "John Hascall",
+        "Dawn Hayslett"
+      ],
+      "summary": "Carl Kadie contrasts the open access policy of the Ames Public Library regarding controversial materials with Iowa State University's restrictive Netnews policy. The ISU policy restricts access to alt.sex based on concerns over the use of state and federal funds for 'objectionable' content. This highlights a tension between traditional library freedom and early digital network administration.",
+      "title": "Article 11--Re: [UPI] Library attacked for buying Madonna's Sex book",
+      "topics": [
+        "censorship",
+        "Usenet",
+        "academic freedom",
+        "network policy",
+        "public libraries"
+      ]
+    },
+    "identity": {
+      "date": "Fri, 13 Nov 1992 18:16:28 GMT",
+      "from": "kadie@eff.org (Carl M. Kadie)",
+      "item_count": 9,
+      "item_index": 8,
+      "message_id": "<1992Nov13.181628.8561@eff.org>",
+      "source_kind": "news",
+      "source_path": "news/cafv02n56",
+      "subject": "Article 11--Re: [UPI] Library attacked for buying Madonna's Sex book",
+      "to_or_newsgroups": "",
+      "truncated_for_model": false
+    }
+  }
+]

@@ -1,0 +1,274 @@
+Newsgroups: comp.text,comp.text.tex,soc.libraries.talk
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject:  marc2bibtex: A small step toward automatic bibliographies
+Message-ID: <C62FyK.CnB@cs.uiuc.edu>
+Date: Mon, 26 Apr 1993 00:56:44 GMT
+
+Enclosed is marc2bibtex, version, 0.1, a perl program that tries to
+turn MARC records into BibTeX entries. (MARC records are the standard
+format for library records.) An example is also included.
+
+Question #1: What is the best way to get MARC records. I can get them
+from my library computer system, but not for much longer.
+
+Question #2: Is there a bibliographystyle that doesn't print keys?
+
+
+=============== Example ===============
+INPUT:
+
+LCSgated>     am   ocm14-719648  db   09/10/87  09/10/87  11/10/90      4096  Lincoln 
+        MEPSN   $a     $Annarelli, James John.
+        TILA0   $ac    $Academic freedom and Catholic higher education /$
+                       James John Annarelli ; foreword by Charles E. Curran.
+        IMP0    $abc   $New York :$Greenwood Press,$1987.
+        COL     $ac    $xxi, 236 p. ;$25 cm.
+        SET 0   $axv   $Contributions to the study of education,$0196-707X ;$
+                       no. 21
+        NOG     $a     $Includes index.
+        NOB     $a     $Bibliography: p. :221:-230.
+        SUT L   $az    $Academic freedom$United States.
+        SUT L   $az    $Catholic universities and colleges$United States.
+        SBN     $a     $0313254257 (lib. bdg. : alk. paper)
+        LON     $a     $(WaOLN)1245622
+        LON     $a     $ocm14719648 
+        CAS     $acd   $DLC$DLC$UIU
+        GAC     $a     $n-us---
+        CAL0    $ab    $LC487$.A56 1987
+        DDCF    $a2    $378/.121$19
+        FFD      CONF=       FEST=      INDEX=x   ME IN B=x
+             INTEL LV=        FIC=       BIOG=        LAN=eng  DAT KY=s
+                DATE1=1987  DATE2=       CNTY=nyu   ILLUS=      REPRO= 
+             CONTENTS=b     MODRC=      CAT S=    GOV PUB=   CAT FORM=a
+
+OUTPUT:
+
+% From marc2bibtex
+@BOOK{Annarelli1987,
+         Author = "Annarelli, James John",
+         Title = "Academic freedom and Catholic higher education",
+         Publisher = "Greenwood Press",
+         Address = "New York",
+         Year = "1987",
+         COL = "xxi, 236 p. ;$25 cm.",
+         SET_0 = "Contributions to the study of education,$0196-707X ;$ no. 21",
+         NOG = "Includes index.",
+         NOB = "Bibliography: p. :221:-230.",
+         SBN = "0313254257 (lib. bdg. : alk. paper)",
+         LON = "(WaOLN)1245622",
+         LON = "ocm14719648",
+         CAL0 = "LC487$.A56 1987",
+         DDCF = "378/.121$19",
+         Subject = "Academic freedom--United States; Catholic universities and colleges--United States"
+}
+
+
+
+=============== marc2bibtex ========================
+#!/bin/perl
+
+# April 22, 1993 Test and make work on more exmaples - cmk
+# April 1993 Initial Development - Carl Kadie
+
+
+# Bugs: Thinks ", Jr" is another author.
+#       Outputs many fields that you don't care about.
+#       Doesn't wrap lines.
+
+
+@aut[1] = "Author";
+@aut[0] = "Editor";
+
+print "% From marc2bibtex\n";
+
+MAIN: while (<>) {
+  #DEBUG print "at top\n";
+
+# Skip until a MARC records is found
+
+if (eof) {last MAIN;}
+LOOKING: while (<>) {
+     # DEBUGprint "looking: $_\n";
+     if (/^        [A-Z].......\$......\$/) {last LOOKING;}
+     }
+if (eof) {last MAIN;}
+# Step 1. Put continuations on the previous line
+s/^ *//;
+chop;
+$rec = $_;
+FILL: while (<>) {
+  #DEBUG print "filling:$_:\n";
+  if ($_ eq "\n") {last FILL;};
+  chop;
+  if (/^........ /) {
+         s/^ *//;
+         $rec .= " " . $_;
+    } else {
+ 	s/^ *//;
+        $rec .= "\n" . $_;
+    }}
+$rec .= "\n";
+
+   #DEBUG print $rec;
+
+# Step two: Find field name and split fields, format
+
+$out = "";
+@author = ();
+@short = ();
+$authorp = 1;
+$firstauthorp = 1;
+$when="";$subject="";
+;$indent = "         ";
+foreach $l (split(/\n/,$rec)) {
+	($_,$type,$value) = split(/ *\$/,$l,3);
+        $value =~ s/\"/'/g;
+        $value =~ s/[&]/\\\\\&/g;
+	@val = split(/\$/,$value);
+
+       SWITCH1: {
+         /^[AM]E(PS|CN)/ && do {
+	     &BINSNODUP($type);
+	     if (@result{"a"} eq "") {print "warning no $a field in $rec\n"};
+	     $name = $result{"a"};
+	     $name =~ s/[ ,]+$//;
+             if ($name !~ / [A-Z]\.$/) {$name =~ s/[.]+$//;} #if not initial, kill "."
+	     if (@result{"b"} ne "") { # Subnames
+			&BINS($type);
+			     foreach $bi (@b) {
+				     $bi =~ s/[. ,]+$//;
+				     $name .= "--$bi";}
+			}
+	     #print ">$_<\n";
+	     if (/^..CN/) {$name = "{$name}";} #Corp
+	     if ($name ne @author[0]) {
+                     push(@author,$name);
+                    if (/^..CN/) { # make key
+	       		 $val[0] =~ s/,.*$//;
+       			 $val[0] =~ s/[;a-z .]//g;
+        		 push(@short,$val[0]);
+			} else {
+	   		 $val[0] =~ s/,.*$//;
+			 push(@short,$val[0]);
+		        }
+               }
+              #else {print "$name is a dup\n"};
+
+	     if ($firstauthorp) {
+		 $firstauthorp = 0;
+		 if (@result{"e"} ne "") {$authorp = 0;} #editor
+		 }
+
+
+ 	     last SWITCH1;};
+     /^TIL..$/ && do {
+	# Title
+	     &BINS($type);
+	     if ($c[0] =~ /^[ .:,]*edited /i) {$authorp=0;}
+	     $title = join("",@a) . join("",@b);
+	     $title =~ s,[/ .]*$,,; $title =~ s/ :/: /g;
+             $out .= $indent . "Title = \"$title\",\n";
+                  last SWITCH1;};
+         /^EDN$/ && do {
+	# Edition
+	     $val[0] =~ s/[:]//g;
+	     $val[0] =~ s/ ed\.$//;
+             $out .= $indent . "Edition = \"$val[0]\",\n";
+             ($#val == 0) || die "Too many subfields, $#val, in $_";
+                  last SWITCH1;};
+         /^IMP/ && do {
+	# Publication: who, when, where
+	     &BINS($type);
+
+             $who = $b[0];
+	     $who =~ s/[ ,;:]*$//;
+             $out .= $indent . "Publisher = \"$who\",\n";
+
+	     $where = $a[0];
+	     $where =~ s/[:;, ]*$//;
+	     $where =~ s/^[:;, ]*//;
+             $out .= $indent . "Address = \"$where\",\n";
+
+             $when = $c[0];
+ 	     $when =~ s/[ .]*$//;$when =~ s/,.*//;$when =~ s/[a-z: y]//g;
+             $out .= $indent . "Year = \"$when\",\n";
+
+	     if ($#a>1 || $#b>1 || $#c>1 || ($c[0] =~/,/)) {
+                 $out .= $indent . "MorePublisherAddressYear = \"$value\",\n";
+                 }
+                  last SWITCH1;};
+         /^SUT[ -].$/ && do {
+	# Subject line
+	#print ">$_<YES!\n";
+	     $value=~ s/\.$//g;
+	     $value=~ s/\$/--/g;
+	     if ($subject eq "")
+			{$subject = $value;} else {$subject .= "; $value";}
+                  last SWITCH1;};
+         /^PPD$|^CAS$|^FFD |^GAC$|^DDC$|^CAL1$|^SFM2$/ && do {
+	# Junk
+	     #Ignore theses fields
+                  last SWITCH1;};
+         /^FFD / && do {
+	# Junk
+	     #Ignore this field
+                  last SWITCH1;};
+        # Otherwise
+           do { 
+                s/ /_/g;
+		$value =~ s/ +$//;
+                $out .= $indent . "$_ = \"$value\",\n";
+                last SWITCH1;};
+       }
+
+}
+
+reverse(@author);
+$author = join(" and ",@author);
+#print "$author\n";
+$out = $indent . "@aut[$authorp] = \"$author\",\n" . $out;
+
+reverse(@short);
+if ($#short == 0) {$namekey = @short[0];}
+elsif ($#short == 1) {$namekey = "@short[0]&@short[1]";}
+elsif ($#short > 1) {$namekey = "@short[0]EtAl";}
+else {$namekey = "????";}
+$namekey =~ s/[ ()]//g;
+#print "$namekey\n";
+
+if ($subject ne "") {
+	$out .= $indent . "Subject = \"$subject\",\n";}
+
+chop($out);chop($out);
+#print ">$namekey< >$firstname<\n";
+print "\@BOOK{$namekey$when,\n$out\n}\n\n";
+}
+
+sub BINS {
+local($type) = $_[0];
+@a = ();
+@b = ();
+@c = ();
+
+for ($i=0;$i<= $#val;$i++){
+	$t = substr($type,$i,1);
+	$v = @val[$i];
+	eval "push(@$t,\"$v\");\n";
+	#print "push(@$t,\"$v\");\n";
+	}
+reverse(@a);reverse(@b);reverse(@c);
+}
+
+sub BINSNODUP {
+local($type) = $_[0];
+foreach $v ("a","b","q","d","e","t") {$result{$v}="";}
+for ($i=0;$i<= $#val;$i++){
+	$t = substr($type,$i,1);
+	$v = @val[$i];
+ 	$result{$t}=$v;
+	#print "result $t = $v;\n";
+	}
+}
+
+
+

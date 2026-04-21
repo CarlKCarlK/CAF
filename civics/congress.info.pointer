@@ -1,0 +1,13 @@
+[I tried this on March, 17 1993 and it didn't work - Carl]
+
+For up-to-date and comprehensive congressional info via gopher, try:
+
+gopher -p"waissrc:/.WAIS/congress.src" scilibx.ucsc.edu 70
+
+The bookmark is:
+
+Name=Congressional directory
+Type=7
+Port=70
+Path=waissrc:/.WAIS/congress.src
+Host=scilibx.ucsc.edu

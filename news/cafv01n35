@@ -1,0 +1,1924 @@
+Computers and Academic Freedom (news version)
+Vol. 01, No. 35
+
+[Week ending November 3, 1991
+
+The words after a number are a short paraphrase of the article, not
+necessarily my opinion.
+
+Notes 1-3 are news of the week.
+
+1. (Steven Brack, student at Ohio State University:) After a 4 hour
+hearing, "I have been dismissed from the university, with no
+possibility of reentry until 1/93!"
+    <1991Oct28.135044.18831@eff.org>
+
+2. "This past summer, the University [of Pennsylvania]'s Data
+Communications Dept. began electronic monitoring and logging of users'
+annex terminal sessions."  "This action was approved by the management
+of the Data Communications Dept., who did not consult with any larger
+University body."
+    <54609@netnews.upenn.edu>
+
+3. A judge as ruled that CompuServe (a commercial on-line information
+provider) isn't liable for some of the contents of its network. The
+judge compared CompuServe to a public library or a bookstore that
+can't feasible examine every publication it carries.
+    <1991Nov1.195246.13037@eff.org>
+
+Notes 4-6 are about the unofficial, draft Statement on Computers and
+Academic Freedom. To get a copy of the statement and other comments,
+send email to archive-server@eff.org. Include the line:
+  send acad-freedom caf-statement
+
+4. The Draft does not deal with confidentiality well. Computer
+systems, especially Unix, necessarily allow users to monitor the
+status of other users.
+    <1991Oct29.163743.15765@ms.uky.edu>
+
+5. The Statement should be developed and refined by the participants
+of the CAF discussions, but no statement should claim to speak for all
+participants.
+    <1991Oct30.153518.19993@eff.org>
+
+6. The Draft is useful as is. "I have already forwarded a copy of the
+[draft] CAF Statement to the Director of Academic Computer Services at
+the University of Iowa, with my personal recommendation that we adopt
+something like it as policy."
+    <8856@ns-mx.uiowa.edu>
+
+Notes 7-8 are about the law.
+
+7. "Enclosed is the full text of UWM POST v. U. of Wisconsin. This
+recent district court ruling goes into detail about the difference
+between protected offensive expression and illegal harassment. It even
+mentions email." (The judge overturned the U. of Wisconsin's speech
+restrictions.)
+    <1991Oct29.041514.16218@eff.org>
+
+8. README file for the CAF law archive -- This is an on-line
+collection of law related to computers and academic freedom. It
+includes both case law and legislation. To get the newest version of
+the README file, send email to archive-server@eff.org. Include the
+line:
+  send caf-law README
+
+    <1991Oct29.210145.18387@eff.org>
+
+Notes 9-11 are about newsgroup policy.
+
+9. "I think that unmoderated Netnews newsgroups facilities offered by
+most universities are free-speech forums. ... I offer three
+justifications for this opinion."
+    <kadie.688925645@herodotus.cs.uiuc.edu>
+
+10. A previous poster says that a writer's right to post, can be
+overridden by readers' right not to be offended. "[T]here is no
+right-not-to-be-offended." To suppress offensive speech is to censor.
+"The free flow of ideas is the essence of freedom, both academic,
+economic, and political."
+    <9111021803.AA15019@dsacg2.dsac.dla.mil>
+
+11. University sys admins should enforce newsgroup charters including
+charters that discriminate based on sex or viewpoint.
+    <1991Oct29.150556.5266@eff.org>
+
+Notes 12-13 are about Netnews service.
+
+12. Western Washington University continues its ban on roughly 15 news groups.
+    <1991Oct30.040844.8212@henson.cc.wwu.edu>
+
+13. Netnews is not just important to the mission of a Computer Science
+department; it is critical. It teaches students about electronic
+communications and it provides essential information.
+    <FISCHER.91Oct29014752@thor.iesd.auc.dk>
+
+- Carl]
+
+
+In this issue:
+
+Steven S. Brack  38  The Verdict
+Tony Catone      33  Electronic session loggin<>the University of Pennsylvania
+Carl M. Kadie    26  CompuServe Isn't Liable for Contents of its Network
+Wes Morgan       33  >Draft Statement on Computers and Academic Freedom (CAF)
+Carl M. Kadie    49  >
+Douglas W Jones  27  Promulgating the CAF statement
+Carl M. Kadie  1046  >YAHWEH is good! (instead <>ng reams, lets look at cases)
+Carl M. Kadie   175  Updated README file for CAF law subarchive
+Carl M. Kadie    61  >yahweh is good posting
+Robert F Solon   68  >Rights for readers\posters?
+Anonymous        55  >off-topic notes (was yahweh is good posting)
+LittleOne        48  Forget UW, let's talk about Western Washington U!
+Lars P. Fischer  34  >USENET censorship strikes University of Washington!
+
+
+Computers and Academic Freedom News
+
+Editor:      Carl M. Kadie (kadie@eff.org)
+Circulation: William W. Arnold (caf-talk-request@eff.org, warnold@eff.org)
+Publication: Helen C. O'Boyle (helen@eff.org)
+
+To contribute to the list, send email to "caf-talk@eff.org". Your note
+will appear immediately on the caf-talk mailing list and in the
+alt.comp.acad-freedom.talk newsgroup.
+
+Back issues are available via anonymous ftp to eff.org. The directory
+is pub/academic/news. Abstracts of CAF-news are in file
+pub/academic/abstracts. The CAF archive is also available via email.
+For information, send email to archive-server@eff.org. Include the line:
+  send acad-freedom README
+
+Disclaimer: This CAF-news was compiled by me, Carl M. Kadie. It is not
+an EFF publication. The views I express and editorial decisions I make
+are my own.
+
+The addresses for the list are:
+	comp-academic-freedom-talk@eff.org     - for contributions to the list
+		or	caf-talk@eff.org
+	listserv@eff.org    - for automated additions/deletions
+                (send email with the line "help" for details.)
+	caf-talk-request@eff.org    - for administrivia
+
+        Also, if you read newsgroups, look for alt.comp.acad-freedom.talk
+        and alt.comp.acad-freedom.news.
+------------            
+From: sbrack@bluemoon.rn.com (Steven S. Brack)
+Subject: The Verdict
+Message-ID: <1991Oct28.135044.18831@eff.org>
+
+I am guilty!  I have been dismissed from the university, with no
+possibility of reentry until 1/93!
+
+The hearing lasted 4 hrs, we heard fr. 3 witnesses: the chair of
+Engineering Graphics, the Engineering Workstation Facility manager, &
+ACS's security chief.  TThe other three witnesses didn't show up,
+and neither did the two people I wanted to be witnesses (it didn't matter
+because I was told that I had to give 24 hrs notice of any witnesses).
+
+The hearing was pretty fair, although I was blocked from exploring
+some areas of ACS policymaking.  The hearing is decided by proponderance
+of evidence, not by reasonable doubt, so my lack of witnesses really
+hurt me.
+
+Anyway, it looks liek I'm in Toledo to stay.
+
+PS: Will EFF help me now?
+
+                                        -- Steve
+
+As always, feel free to post all or part of this msg.
+
+
+
+ _________________________________________________________________________
+|Steven S. Brack                  |  sbrack%bluemoon@nstar.rn.com         |
+|Jacob E. Taylor Honors Tower     |  sbrack@bluemoon.uucp                 |
+|The Ohio State University        |  sbrack@nyx.cs.du.edu                 |
+|50 Curl Drive                    |  sbrack@isis.cs.du.edu                |
+|Columbus, Ohio 43210-1112   USA  |  brack@ewf.eng.ohio-state.edu         |
+|+1 614 293 7383 or 419 474 1010  |  Steven.S.Brack@osu.edu               |
+ -------------------------------------------------------------------------
+
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: catone@dmark.wharton.upenn.edu (Tony Catone)
+Subject: Electronic session logging at the University of Pennsylvania
+Message-ID: <54609@netnews.upenn.edu>
+Date: 29 Oct 91 07:00:36 GMT
+Sender: news@netnews.upenn.edu
+Nntp-Posting-Host: dmark.wharton.upenn.edu
+
+
+A disturbing situation has come to light at the University of
+Pennsylvania.  This past summer, the University's Data Communications
+Dept. began electronic monitoring and logging of users' annex terminal
+sessions.  The monitoring was limited to those sessions which connected
+to non-Penn hosts directly from our (open) terminal servers.  Local
+logins were not recorded apparently due to disk space limitations
+(logging entire sessions generates megs of data).  The logs were
+scanned, at first exclusively by human readers, later by computer
+programs which filtered keywords and identified sections containing
+these keywords to be read.  Logs of sessions containing "improper
+activities" (Penn was being used as a pass through site by some
+crackers) were kept; the logs of "proper" sessions were deleted.
+
+This action was approved by the management of the Data Communications
+Dept., who did not consult with any larger University body.  In
+particular, the faculty was not consulted and remains largely unaware of
+these actions.  Data Communications admits they impinged on legitimate
+users, but argue they did not and would not do so maliciously.  Many sys
+admins on campus seem to accept this as justification, arguing that
+surveillance is the (acceptable) price one pays for security.
+
+Are there legal arguments one can raise against this policy of
+surveillance?  I have scanned the Electronic Communications Privacy Act
+of 1986 and the other files archived at eff.org, but am uncertain how
+these may apply as Penn is a private institution.
+
+Feel free to respond via posts or email.  I will collect replies and
+post a summary to the group.  Thanks much.
+
+- Tony 
+  catone@dmark.wharton.upenn.edu
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: CompuServe Isn't Liable for Contents of its Network
+Message-ID: <1991Nov1.195246.13037@eff.org>
+Date: Fri, 1 Nov 1991 19:52:46 GMT
+
+[Short excerpts from a Doe Jones News Retrieval story:]
+
+[...]
+  "CompuServe has no more editorial control over such a pubiication
+than does a public library, bookstore or newsstand, and it would be
+no more feasible for CompuServe to examine every publication it
+carries for potentially defamatory statements than it would be for
+any other distributor to do so," wrote Judge Leisure.
+
+[...]
+  The decision won't necessarily have the same direct benefits for
+the Prodigy network, a joint venture of International Business
+Machines Corp. and Sears, Roebuck & Co.  That's because Prodigy has
+an unusual policy of pre-screening its members' public notes. Thus, a
+plaintiff could conceivably argue that Prodigy knew in advance about
+any defamatory or offensive message.
+[...]
+  The new decision could be influential because it tackles free
+speech on an electronic network. But it's unclear how the ruling,
+which involves "publications," would affect bulletin boards on which
+users add comments to an in-house forum.
+[...]
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: morgan@ms.uky.edu (Wes Morgan)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct29.163743.15765@ms.uky.edu>
+Date: 29 Oct 91 16:37:43 GMT
+Article-I.D.: ms.1991Oct29.163743.15765
+References: <1991Oct26.210722.29271@eff.org> <1991Oct29.151912.5910@eff.org>
+
+In article <1991Oct29.151912.5910@eff.org> kadie@eff.org (Carl M. Kadie) writes:
+>Here is a possible interpretation for confidentiality:
+>
+>Interpretation: 'The ethical responsibilities of [sys admins] ...
+>protect the privacy of [computer] users.  Confidentiality extends to
+>"information sought or received, and materials consulted, borrowed or
+>acquired"... .'
+>
+
+This may be difficult to implement.  Certain types of information may, by
+default, require public dissemination.  For instance, if a system
+provides database services via NFS to an individual's workstation, the
+fact that he is using a particular database is available to all users
+(via perusal of the mount tables or the /etc/exports file).  This infor-
+mation *must* be publicly accessible; this is a requirement of
+the NFS software.  
+
+In fact, any user of a Unix system can easily log the actions of any other 
+user. Any user could, for instance, track my usage of telnet and ftp, 
+building a log of the sites to which I connected.  This could be done with 
+a 10-line shell script by any user. 
+
+Many online resources automatically keep logs of their usage as well; 
+that's a completely separate issue.  These automatic logs should be
+protected, to insure the user's privacy.  I don't think that
+administrators can effectively prevent other users from performing such
+monitoring.
+
+-- 
+ morgan@ms.uky.edu    |Wes Morgan, not speaking for|     ....!ukma!ukecc!morgan
+ morgan@engr.uky.edu  |the University of Kentucky's|   morgan%engr.uky.edu@UKCC
+ morgan@ie.pa.uky.edu |Engineering Computing Center| morgan@wuarchive.wustl.edu
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: Draft Statement on Computers and Academic Freedom (CAF)
+Message-ID: <1991Oct30.153518.19993@eff.org>
+References: <199110300740.AA12030@eff.org>
+Date: Wed, 30 Oct 1991 15:35:18 GMT
+
+FFDMG@ALASKA.bitnet (Dean Gottehrer) writes:
+[...]
+>As for what to do with the computers and academic freedom document developed
+>on CAF,
+
+I concur with a previous post that we should develop it using
+parliamentary procedure. I would think the best procedure would be
+modified for use on the net. On the plus side, the net allows many to
+"speak" at once. You can even have votes in parallel. On the minus
+side, it will take days for minor votes to be taken and (if Usenet
+tradition is followed) a month for a major vote to be taken. Has
+anyone had experience with complicated email decision making?
+
+I assume that the final vote will be a major vote on the finished CAF
+Statement. If a majority votes for the Statement, I suggest reporting
+this as "A majority of CAF discussion participants endorse the
+Statement" rather than "The CAF discussion participants endorse the
+Statement." In other words, even a majority of participants should not
+claim to speak for everyone. I don't want anyone to feel that they
+should quit the list because they didn't support the Statement.
+
+> I suggest that we pass it along to the folks at the American
+>Association of University Professors and ask them to consider adopting a 
+>policy that will speak to computers and academic freedom.
+[...]
+
+I've been in contact with one AAUP official. I'm trying to
+get on-line copies of more of their statments.
+
+>Rather than attempt to 
+>come to any decision where a vote is taken, I would urge Carl to keep the 
+>draft and the notes posted in response to it until we finish this thread
+>(assuming that we ever will) and pass all of that along to the AAUP people for>their benefit in drafting a policy the AAUP could adopt.
+[...]
+
+The notes from this thread are available via email. Send email to
+archive-server@eff.org. Include the line:
+  send acad-freedom caf-statement
+
+If the AAUP gets involved, I'd rather give them a finished statement.
+(They, of course, may choose to modify it, but at least they'd
+have a good starting place.)
+
+- Carl
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: jones@pyrite.cs.uiowa.edu (Douglas W. Jones,201H MLH,3193350740,3193382879)
+Subject: Promulgating the CAF statement
+Message-ID: <8856@ns-mx.uiowa.edu>
+Date: 29 Oct 91 21:09:33 GMT
+References: <1991Oct29.191922.14652@eff.org>
+Sender: news@ns-mx.uiowa.edu
+
+by kadie@eff.org (Carl M. Kadie):
+> nbc2134@dsacg2.dsac.dla.mil (Robert F Solon) writes:
+> 
+>>On a general note:  will the final draft of the CAF Statement be
+>>put to a vote of readers?
+> 
+> No plans have been made for creation or promulgation.
+
+The ultimate success of the Computers and Academic Freedom document depends
+on whether or not the principles it advocates are adopted by the academic
+institutions on the net.  A vote of the readership of this forum could be
+useful in convincing reluctant university computer center administrators of
+the degree of consensus behind the CAF document, but that is about all such
+a vote would accomplish.
+
+I have already forwarded a copy of the CAF Statement to the Director of
+Academic Computer Services at the University of Iowa, with my personal
+recommendation that we adopt something like it as policy.  I told him about
+the recent flap in Washington, and said that having a policy in place in
+advance would be a wise idea just in case such a flap comes up here.
+
+I would recommend that others interested in these kinds of matters take
+similar unilateral action instead of worrying about USENET votes and
+similar ventures.
+					Doug Jones
+					jones@cs.uiowa.edu
+
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Re: YAHWEH is good! (instead of quoting reams, lets look at cases)
+Message-ID: <1991Oct29.041514.16218@eff.org>
+References: <39487@hydra.gatech.EDU> <4926@sun13.scri.fsu.edu> <1991Oct26.014323.14716@news.media.mit.edu> <1991Oct29.014134.12586@eff.org> <1991Oct29.015534.13179@eff.org>
+Date: Tue, 29 Oct 1991 04:15:14 GMT
+
+[I've cancelled the posting with the three decisions. I will repost
+each by itself. - Carl]
+
+Enclosed is the full text of UWM POST v. U. of Wisconsin. This recent
+district court ruling goes into detail about the difference betwen
+protected offensive expression and illegal harassment. It even
+mentions email.
+
+----------------------start--------------------------------------
+(Cite as: 1991 WL 206819 (E.D.Wis.))
+
+     The UWM POST, INCORPORATED, Lafi Abdalla, Stephanie Bloomingdale, Kent
+    Farnsworth, Theresa Flynn, Richard D. Leonard, Michael J. Mathias, Marcia
+     Meyer, Ron Novy, Robin Pharo, Carrie Worthen and John Doe, Plaintiffs,
+                                       v.
+       BOARD OF REGENTS OF the UNIVERSITY OF WISCONSIN SYSTEM, Defendant.
+                                    90-C-328.
+                          United States District Court,
+                                 E.D. Wisconsin.
+                                 Oct. 11, 1991.
+                                      ORDER
+
+  WARREN
+
+ *1 On March 29, 1990, the UWM Post, Inc. and others ("plaintiffs") filed
+this action seeking that this Court enter a declaratory judgment that Wis.
+Admin.  Code s UWS 17.06(2) (the "UW Rule") on its face violates:  (1)
+plaintiffs' right of free speech guaranteed by the First Amendment to the
+United States Constitution and by Article I, Section 3 of the Wisconsin
+Constitution and (2) plaintiffs' right to due process and equal protection of
+the laws guaranteed by the Fourteenth Amendment and by Article I, Section 1 of
+the Wisconsin Constitution.  In addition, plaintiffs request that this Court:
+(1) enter a permanent injunction prohibiting the Board of Regents of the
+University of Wisconsin System (the "Board of Regents" or the "Board") and its
+agents and employees from enforcing the UW Rule;  (2) order the Board of
+Regents to vacate the disciplinary action taken against plaintiff John Doe
+under the UW Rule and expunge from his files all records related to that action
+and (3) award plaintiffs their reasonable attorneys' fees and costs pursuant to
+42 U.S.C. s 1988.
+ Now before Court are the parties' cross motions for summary judgment.
+                                 I. BACKGROUND
+ A. DEVELOPMENT OF THE UW RULE
+ In May of 1988, the Board of Regents adopted "Design for Diversity, " a plan
+to increase minority representation, multi-cultural understanding and greater
+diversity throughout the University of Wisconsin System's 26 campuses.  Design
+for Diversity responded to concerns over an increase in incidents of
+discriminatory harassment. [FN1]  For example, several highly publicized
+incidents involving fraternities occurred at the University of Wisconsin--
+Madison.  In May of 1987, a fraternity erected a large caricature of a black
+Fiji Islander at a party theme.  Later that year, there was a fight with racial
+overtones between members of two fraternities.  In October of 1988, a
+fraternity held a "slave auction" at which pledges in black face performed
+skits parroting black entertainers.  See the Capitol Times, Nov. 17, 1988, p.
+25.
+ Design for Diversity directed each of the UW System's institutions to prepare
+non-discriminatory conduct policies.  In addition, pursuant to the plan, the
+Board of Regents approved its "Policy and Guidelines on Racist and
+Discriminatory Conduct," which stated the Board's general policy against
+discrimination and provided guidance to the individual campuses in developing
+their own non-discrimination policies.  Finally, the Board established a
+working group to draft amendments to the student conduct code, Chapter UWS 17,
+to implement its policy system-wide. [FN2]  With the help of UW-Madison Law
+School Professors Gordon Baldwin, Richard Delgado and Ted Firiman, the group
+developed a proposed rule based, in part, on a policy being developed
+simultaneously at the UW-Madison.  The professors agreed that the proposed rule
+would likely withstand attack on First Amendment grounds if it included a
+requirement that the speaker intended to make the educational environment
+hostile for the individual being addressed.
+ *2 At its April 7, 1989 meeting, the Board of Regents discussed issuing the
+proposed rule on an emergency basis in light of the increasing number of
+incidents of racial and discriminatory harassment.  By a 8 to 7 vote, the Board
+decided not to promulgate the rule on an emergency basis.  Instead, the Board
+advanced the proposal through the regular administrative rule-making
+procedure.  On June 8, 1989, the Board held a public hearing to provide an
+opportunity for interested persons to comment on the proposed rule.  On June 9,
+1989, the Board adopted the UW Rule by 12 to 5 vote.
+ B. THE UW RULE
+ The UW Rule provides:
+ UWS 17.06 Offenses defined.  The university may discipline a student in non-
+academic matters in the following situations.
+                                     * * *
+  (2)(a) For racist or discriminatory comments, epithets or other expressive
+behavior directed at an individual or on separate occasions at different
+individuals, or for physical conduct, if such comments, epithets or other
+expressive behavior or physical conduct intentionally:
+  1. Demean the race, sex, religion, color, creed, disability, sexual
+orientation, national origin, ancestry or age of the individual or
+individuals;  and
+  2. Create an intimidating, hostile or demeaning environment for education,
+university-related work, or other university-authorized activity.
+ (b) Whether the intent required under par. (a) is present shall be determined
+by consideration of all relevant circumstances.
+ (c) In order to illustrate the types of conduct which this subsection is
+designed to cover, the following examples are set forth.  These examples are
+not meant to illustrate the only situations or types of conduct intended to be
+covered.
+ 1. A student would be in violation if:
+  a. He or she intentionally made demeaning remarks to an individual based on
+that person's ethnicity, such as name calling, racial slurs, or "jokes";  and
+  b. His or her purpose in uttering the remarks was to make the educational
+environment hostile for the person to whom the demeaning remark was addressed.
+  2. A student would be in violation if:
+  a. He or she intentionally placed visual or written material demeaning the
+race or sex of an individual in that person's university living quarters or
+work area;  and
+  b. His or her purpose was to make the educational environment hostile for the
+person in whose quarters or work area the material was placed.
+  3. A student would be in violation if he or she seriously damaged or
+destroyed private property of any member of the university community or guest
+because of that person's race, sex, religion, color, creed, disability, sexual
+orientation, national origin, ancestry or age.
+  4. A student would not be in violation if, during a class discussion, he or
+she expressed a derogatory opinion concerning a racial or ethnic group.  There
+is no violation, since the student's remark was addressed to the class as a
+whole, not to a specific individual.  Moreover, on the facts as stated, there
+seems no evidence that the student's purpose was to create a hostile
+environment.
+ *3 Wis. Admin.  Code s UWS 17.06(2).
+ Thus, in order to be regulated under the UW Rule, a comment, epithet or other
+expressive behavior must:
+  (1) Be racist or discriminatory;
+  (2) Be directed at an individual;
+  (3) Demean the race, sex, religion, color, creed, disability, sexual
+orientation, national origin, ancestry or age of the individual addressed;  and
+  (4) Create an intimidating, hostile or demeaning environment for education,
+university-related work, or other university-authorized activity.
+ In addition to the rule, the UW System issued and circulated to its students
+and faculty a brochure which explains the rule and provides guidance as to its
+scope and application.  See Discriminatory Harassment:  Prohibited Conduct
+Under Chapter UWS 17 Revisions.  This guide provides some illustrations of
+situations where the UW Rule applies and does not apply:
+  Question 1. In a class discussion concerning women in the workplace, a male
+student states his belief that women are by nature better equipped to be
+mothers than executives, and thus should not be employed in upper level
+management positions.  Is this statement actionable under proposed UWS
+17.06(2)?
+  Answer:  No. The statement is an expression of opinion, contains no epithets,
+is not directed to a particular individual, and does not, standing alone,
+evince the requisite intent to demean or create a hostile environment.
+  Question 2. A student living in the University dormitory continually calls a
+black student living on his floor "nigger" whenever they pass in the hallway.
+May the university take action against the name-caller?
+  Answer:  Yes. The word "nigger" is an epithet, and is directed specifically
+at an individual.  Its use and continuous repetition demonstrate the required
+intent on the part of the speaker to demean the individual and create a hostile
+living environment for him.
+  Question 3. Two university students become involved in an altercation at an
+off-campus bar.  During the fight one student used a racial epithet to prolong
+the dispute.  May the university invoke a disciplinary action?
+  Answer:  Perhaps.  Use of the epithet, and its direction to an individual
+suggests a potential violation of proposed s. UWS 17.06(2);  however, because
+the episode occurred off campus, the intent to create a hostile environment for
+university-authorized activities would be difficult to demonstrate.  Additional
+facts would have to be developed if disciplinary action were to be pursued.
+  Question 4. A group of students disrupts a university class shouting
+discriminating epithets.  Are they subject to disciplinary action under the
+provisions related to regulation of expressive behavior?
+  Answer:  Perhaps.  It is clear that the students are subject to disciplinary
+action for disrupting a class under existing s. UWS 17.06(1)(c)3. The question
+is whether they also violated the newly created provision concerning expressive
+behavior, because they shouted epithets while in the course of other
+misconduct.  If the epithets were directed to individuals within class, and
+were intending to demean them and create an intimidating environment, then the
+behavior might also be in violation of the provision concerning expressive
+misconduct.
+  *4 Question 5. A faculty member, in a genetics class discussion, suggests
+that certain racial groups seem to be genetically pre-disposed to alcoholism.
+Is this statement subject to discipline under Chapter UWS 17?
+  Answer:  No. faculty member is in no case subject to discipline under Chapter
+UWS 17, since that chapter applies only to students.  This situation would not
+warrant disciplinary action under any other policy, either, since it is
+protected expression of an idea.
+ C. ENFORCEMENT OF THE UW RULE
+ To date, at least nine students have been sanctioned under the UW Rule:
+ (1) The University of Wisconsin--Parkside found that a student used
+inappropriate language when he called another student "Shakazulu."  See Kassel
+Aff., Ex. 19.  The university found that the student entered the other
+student's bedroom area as an uninvited guest and proceeded to use inappropriate
+language and that later there was a confrontation between the student and
+residents of the apartment.  See id.  The student was placed on probation and
+required to consult with an alcohol abuse counselor and to "plan a project in
+conjunction with the Center for Education and Cultural Advancement to help
+sensitize [himself] to the issues of diversity."  See id.
+ (2) The University of Wisconsin--Eau Claire found that plaintiff John Doe
+violated the UW Rule by yelling epithets loudly at a woman for approximately
+ten minutes, calling her a "fucking bitch' and "fucking cunt."  See id., Ex.
+20.  Plaintiff John Doe was responding to statements the woman made in a
+university newspaper about the athletic department.  Id. The university placed
+the student on probation for a semester and required him to perform twenty
+hours of community service at a shelter for abused women.  See id.
+ (3) The University of Wisconsin--Oshkosh disciplined a student for angrily
+telling an Asian-American student:  "It's people like you--that's the reason
+this country is screwed up" and "you don't belong here."  Ex. 21.  The student
+also stated that "Whites are always getting screwed by minorities and some day
+the Whites will take over."  Id. The University placed the student on probation
+for seven months and required him to participate in alcohol abuse assessment
+and treatment.
+ (4) The University of Wisconsin--Stevens Point found that a student harassed a
+Turkish-American student by impersonating an immigration official and demanding
+to see immigration documents.  See id.  Ex. 22.  The student signed a "No
+Contest Agreement" admitting violations of the rule as well as violations of
+UWS 17.06(4) (conduct obstructing a university official) and his university
+housing contract.  See id.  The university placed the student on probation for
+eight months.
+ (5) The University of Wisconsin--Stout charged a student involved in a
+physical altercation with two residence hall staff members with calling one of
+them a "piece of shit nigger" and the other a "South American immigrant."  See
+id., Ex. 23.  The university also charged the student with misidentifying
+himself to an investigating officer.  See id.. The student was alleged to have
+violated the UW Rule as well as UWS 17.06(1) (endangering personal safety) and
+17. 06(4) (obstructing a university official). Id. The student waived a formal
+hearing and accepted a seven-month suspension.
+ *5 (6) The University of Wisconsin--Eau Claire disciplined a student under
+the UW Rule for sending a message that stated, "Death to all Arabs ! Die
+Islamic scumbagsl" on a university computer system to an Iranian faculty
+member.   & W Stipulation of Additional Facts, Ex. A. The university formally
+reprimanded the student and placed him on probation for the remainder of the
+semester.  See id.
+ (7) The University of Wisconsin--Stevens Point brought a disciplinary action
+under the UW Rule against a student who stole a TYME automatic bank teller card
+and access number belonging to his dormitory roommate, who is Japanese.  See
+id., Ex. B. The student acknowledged that he had stolen the TYME card, that he
+had twice intercepted and opened the Japanese student's correspondence from the
+bank and that he had successfully withdrawn $60.00 from the Japanese student's
+bank account using the TYME card and personal identification number he had
+stolen.  Id. The student also admitted that he was motivated by his resentment
+that his roommate is Japanese and does not speak, English well.  Id. The
+student signed a no contest agreement, acknowledging that he had violated the
+UW Rule as well as other provisions of the student conduct code.  The student
+was placed on probation through December 31, 1991 and required to take a course
+in ethics or East Asian history and to make restitution.  Id.
+ (8) The University of Wisconsin--Oshkosh disciplined a female student under
+the UW Rule for referring to a black female student as a "fat-ass nigger"
+during an argument.  See id., Ex. C. The university found that the student
+violated the rule and another provision of the student code.  See id.  The
+student, who was already on disciplinary probation, was required to view a
+video on racism and write an essay and a letter of apology and was reassigned
+to another residence hall.  See id.
+ (9) The University of Wisconsin--River Falls disciplined a male student under
+the UW Rule for yelling at a female student in public, "you've gotnicetits.''
+See id., Ex. D. The university placed the student on probation for the
+remainder of his enrollment at the university and required him to apologize to
+the female student, to refrain from any further contact with her and to obtain
+psychological counseling.  See id.
+                                II. DiscussioN
+ Plaintiffs argue that this Court should strike down the UW Rule because it
+violates the overbreadth and vagueness doctrines.
+ A. OVERBREADTH
+ Plaintiffs first argue that the UW Rule is invalid because it is facially
+overbroad.  It is fundamental that statutes regulating First Amendment
+activities must be narrowly drawn to address only the specific evil at hand.
+Broadrick v. Oklahoma, 413 U.S. 601, 611 (1973).  "Because First Amendment
+freedoms need breathing space to survive, government may regulate in the area
+only with narrow specificity."  NAACP v. Button, 371 U.S. 4151 433 (1963).
+ *6 In spite of the above, the Supreme Court has held that "the overbreadth
+doctrine is 'strong medicine" ' and that it should be employed "with
+hesitation, and then 'only as a last resort.' "  See New York v. Ferber, 458
+U.S. 747, 769 (1982) (quoting from Broadrick at 613). only a statute that is
+substantially overbroad may be invalidated on its face.  Ferber at 769.  A
+statute should not be "held invalid on its face merely because it is possible
+to conceive of a single impermissible application ... ' 'Houston v. Hill, 482
+U.S. 451, 458 (1987) (quoting from Broadrick, 630 (Brennan, J. dissenting)).
+ Plaintiffs argue that the UW Rule has overbreadth difficulties because it is a
+content-based rule which regulates a substantial amount of protected speech.
+In Police Department of Chicago v. Mosley, the Supreme Court explained the
+great import of protecting speech from content-based regulation.
+  [A]bove all else, the First Amendment means that government has no power to
+restrict expression because of its message, its ideas, its subject matter, or
+its content.  To permit the continued building of our politics and culture, and
+to assure self-fulfillment for each individual, our people are guaranteed the
+right to express any thought, free from government censorship.  The essence of
+this forbidden censorship is content control.  Any restriction on expressive
+activity because of its content would completely undercut the "profound
+national commitment to the principle that debate on public issues should be
+uninhibited, robust, and wide-open."
+ 408 U.S. 92, 95-96 (1972) (citations omitted).
+ Although the First Amendment generally protects speech from content-based
+regulation, it does not protect all speech.  The Supreme Court has removed
+certain narrowly limited categories of speech from First Amendment protection.
+These categories of speech are considered to be of such slight social value
+that any benefit that may be derived from them is clearly outweighed by their
+costs to order and morality.  Chaplinsky v. New Hampshire, 315 U.S. 568, 572
+(1942).  The categories include fighting words, obscenity and, to a limited
+extent, libel.  Collin v. Smith, 578 F.2d 1197, 1202 (7th Cir.1978), cert.
+denied, 439 U.S. 916 (1978).
+ The Board of Regents argues that the UW Rule falls within the category of
+fighting words.  In the alternative,, the Board asserts that, the balancing
+test set forth in Chapinsky leaves the speech regulated by the UW Rule
+unprotected by the First Amendment.  The Board also argues that the Court
+should find the UW Rule constitutional because its prohibition of
+discriminatory speech parallels Title VII law.  Finally, the Board asserts
+that, even if the Court finds the rule, as written, unconstitutional, it may
+apply a narrowing construction which limits the rule's reach to unprotected
+speech.
+  (1) WHETHER THE SPEECH REGULATED BY THE UW RULE FALLS WITHiN THE FiGHTING
+WORDS DOCTRINE.
+  *7 (a) The Fighting Words Doctrine
+ The Supreme Court in Chapinsky set out the fighting words doctrine.  The
+Chapinsky Court stated:
+  There are certain well-defined and narrowly limited classes of speech, the
+prevention and punishment of which has never been thought to raise any
+Constitutional problem.  These include the lewd and obscene, the profane, the
+libelous, and the insulting or "fighting' ' words--those which by their very
+utterance inflict injury or tend to incite an immediate breach of the peace.
+ Chaplinsky at 571-72 (emphasis added and footnotes omitted).
+ Thus, the Chaplinsly Court set out a two-part definition for fighting words:
+(1) words which by their very utterance inflict injury and (2) words which by
+their very utterance tend to incite an immediate breach of the peace.  The two
+parts of the fighting words definition correspond to different concerns
+regarding reactions to offensive expressions.  See Rutzick, "Offensive Language
+and the Evolution of First Amendment Protection," 9 Harv. C.R.-C.L.L.Rev. 1, 6
+(1974).  The first half relates to the prevention of psychological injury,
+primarily in the form of emotional upset and injury to the ' 'sensibilities' '
+[FN3] of addressees.  The second half addresses the prevention of physical
+retaliation likely to cause a breach of the peace.
+ While the Chaplinsky Court set forth a two-part definition for fighting words,
+it applied only the second half.  The Court did this because the statute in
+question had been construed to regulate only language which tends to incite an
+immediate breach of the peace.  The statute involved in Chaplinsky, Chapter
+378, s 2;  of the Public Laws of New Hampshire, provided:
+  No person shall address any offensive, derisive or annoying word to any other
+person who is lawfully in any street or other public place, nor call him any
+offensive or derisive name, nor make any noise or exclamation in his presence
+and hearing with the intent to deride, offend or annoy him, or to prevent him
+>from pursuing his lawful business or occupation.
+ See Chaplinsky at 569.  The New Hampshire.  Supreme Court construed Chapter
+378 s 2 such that "no words [are] 'forbidden except such as have a direct
+tendency to cause acts of violence by the person to whom, individually, the
+remark is addressed.' "  See id. at 573 (citing State v. Brown, 68 N.H. 200, 38
+A. 731;  State v. McConnell, 70 N.H. 294, 47 A. 267).  The Chaplinsky court
+held that the limited scope of Chapter 378 s 2, as construed by the New
+Hampshire Supreme Court, did not-contravene the constitutional right of free
+expression.  See id.
+ Since Chaplinsky, the Supreme Court has narrowed and clarified the scope of
+the fighting words doctrine in at least three ways.  First, the Court has
+limited the fighting words definition so that it now only includes its second
+half. [FN4]  Second, the Court has stated that in order for words to meet the
+second half of the definition they must "naturally tend to provoke violent
+resentment."  Finally, the Court has held that fighting words must be "directed
+at the person of the hearer."
+ *8 The Supreme Court has reduced the scope of fighting words to include
+only words which tend to incite an immediate breach of the peace.  In Gooding
+v. Wilson, the Supreme Court held that Georgia Code Ann. s 26-6303 was
+overbroad because "the Georgia appellate decisions [had] not construed s 26-
+6303 to be limited in application, as in Chapinsky, to words that 'have a
+direct tendency to cause acts of violence by the person to whom, individually,
+the remark is addressed." '  405 U.S. 518, 524 (1972).  Thus, the Court held
+that s 266303 was unconstitutional because it failed to meet the second half of
+the fighting words doctrine.
+ Section 26-6303 provided:  "Any person who shall, without provocation, use to
+or of another, and in his presence ... opprobrious words or abusive language,
+tending to cause a breach of the peace ... shall be guilty of a misdemeanor."
+Id. at 519.  The Court examined the dictionary definitions of the terms
+"opprobrious" and "abusive' ' and found that they have greater reach than
+"fighting" words.
+  Webster's Third New International Dictionary (1961) defined "opprobrious" as
+"conveying or intended to convey disgrace" and "abusive" as including "harsh
+insulting language."  Georgia appellate decisions have construed s 26-6303 to
+apply to utterances that, although within these definitions, are not "fighting"
+words as Chaplinsky defines them.
+ Id. at 525 (citations omitted).  Thus, even though, s 26-6303 regulated only
+language which inflicts injury or affects the "sensibilities" of the hearer,
+the Supreme Court held that it did not meet the requirements of the fighting
+words doctrine because it was not limited to words which "tend to cause an
+immediate breach of the peace.' ' [FN5]
+ In Collin v. Smith, the Seventh Circuit demonstrated its understanding that
+the definition of fighting words now encompasses only words which tend to
+incite an immediate breach of the peace.  The court stated that "[a] conviction
+for less than words that at least tend to incite an immediate breach of the
+peace cannot be justified under Chaplinsky."  See Collin 578 F.2d at 1203
+(citing Gooding at 524-27).  The Collin court held that three Village of Skokie
+ordinances failed under the fighting words doctrine because the Village did not
+rely on a fear of responsive violence to justify the ordinance.  See id.
+ In addition to limiting the scope of fighting words to words which tend to
+incite an immediate breach of the peace, the Supreme Court has also set forth a
+stringent definition of "breach of peace."  In Gooding, the Court stated that s
+26-6303 failed to meet the requirements of the fighting words doctrine because,
+among other things, the "appellate decisions construing the reach of 'tending
+to cause a breach of peace' underscore that s 26-6303 (was] not limited. to
+words that 'naturally tend to provoke violent resentment.  ' ' ' See Gooding at
+525 (citations omitted). The Court noted that a Georgia Court of Appeals, in
+applying another statute, adopted the common law definition of "breach of
+peace."
+  *9 "The term 'breach of peace' is generic, and includes all violations of
+the public peace or order or decorum;  in other words, it signifies the offense
+of disturbing the public peace or tranquility enjoyed by the citizens of the
+community....  By 'peace' as used in this connection, is meant the tranquility
+enjoyed by the citizens of a municipality or a community where good order
+reigns among its members."
+ Id. at 527 (quoting Samuels v. State, 103 Ga.App. 66, 67, 118 S. E.2d 231;
+232 (1961)).  The Gooding Court held that this definition of breach of peace
+sweeps too broadly.  See id.  Thus, in order to constitute fighting words,
+speech must not merely breach decorum but also must tend to bring the addressee
+to fisticuffs.  Texas v. Johnson, 109 S.Ct. 2533, 2542 (1989).
+ Finally, in Cohen v. California, the Supreme Court held that fighting words
+must be directed at the person of the addressee.  403 U.S. 15 (1971).  In
+Cohen, the petitioner was convicted under California Penal Code s 1415 [FN6]
+for wearing a jacket bearing the words "Fuck the Draft" in the corridor of the
+Los Angeles Courthouse.  The Court held that Mr. Cohen's conduct did not fall
+within the fighting words doctrine because his statement "was clearly not
+'directed to the person of the hearer.' ' 'See Cohen at 20 (quoting Cantwell v.
+Connecticut, 310 U.S. 296, 309 (1940)).
+  (b) APPLICATION OF THE FIGHTING WPRDS DOCTRINE To THE UW RULE,
+ As stated above, in order to be regulated by the rule which the UW has
+adopted, a comment, epithet or other expressive behavior must:
+  (1) be racist or discriminatory;
+  (2) be directed at an individual;
+  (3) demean the race, sex, religion, color, creed, disability, sexual
+orientation, national origin, ancestry or age of the individual;  and
+  (4) create an intimidating, hostile or demeaning environment for education,
+university-related work, or other university-authorized activity.
+ Since the elements of the UW Rule do not require that the regulated speech, by
+its very utterance, tend to incite violent reaction, the rule goes beyond the
+present scope of the fighting words doctrine.
+ The first element of the UW Rule, which requires that the speech be racist or
+discriminatory, describes the content of the speech regulated but does not
+state that the speech must tend to cause a breach of the peace.  The second
+element, which requires that the speech be directed at an individual, meets the
+requirement set forth in Cohen that the speech be "directed to the person of
+the hearer."  In addition, the second element makes it likely that the rule
+will cover some speech which tends to incite violent reaction.  Nevertheless,
+this element does not require that the regulated speech alwaysl tend to incite
+such reaction and is likely to allow the rule to apply to many situations where
+a breach of the peace is unlikely to occur.
+ The third element of the UW Rule requires that the regulated speech demean an
+individual's race, sex, religion, etc.  This element addresses the concerns of
+the now defunct first half of the fighting words definition.  Words which
+demean a person's race, sex, religion, etc. are likely to inflict injury and
+affect a person's sensibilities. [FN7]  Nonetheless, the third element of the
+UW Rule does not address the concerns of the second half of the fighting words
+definition.  Speech may demean an individual's characteristics without tending
+to incite that individual or others to an immediate breach of the peace.
+ *10 The fourth element of the UW Rule requires that the prohibited speech
+create an intimidating, hostile or demeaning environment.  An intimidating,
+hostile or demeaning environment certainly I'disturb(s) the public peace or
+tranquility enjoyed by the citizens of (a university] community.  " However, it
+does not necessarily tend to incite violent reaction.  The creation of a
+hostile environment may tend to incite an immediate breach of peace under some
+circumstances.  Nevertheless, the term "hostile" covers non-violent as well as
+violent situations. [FN8]  Moreover, an intimidating or demeaning environment
+is unlikely to incite violent reaction.  To "intimidate' ' means to "make
+timid;  threaten" or to "discourage or inhibit by or as if by threats."  See
+The American Heritage Dictionary (2nd College Ed.1976), p. 672.  To "demean" is
+to "debase in dignity or stature."  See id. at 376.  Given these definitions
+of "intimidate' ' and "demean," this Court cannot properly f ind that an
+intimidating or demeaning environment tends to incite an immediate breach of
+the peace.
+ The Board of Regents argues, nonetheless, that it is "understandable to expect
+a violent response to discriminatory harassment, because such harassment
+demeans an immutable characteristic which is central to the person's
+identity.  " See Defendant's Combined Brief, p. 27.  The Board states that "the
+victim will feel compelled to respond, not just for his own dignity, but for
+the dignity of his brothers and sisters of like color, national origin or
+creed.  " See id.  The Board asserts, for example, that calling a black student
+a "God damn nigger" is very likely to provoke a violent response.  See id.
+ While the Board is correct that the language regulated by the UW Rule is
+likely to cause violent responses in many cases, the rule regulates
+discriminatory speech whether or not it is likely to provoke such a response.
+It is unlikely that all or nearly all demeaning, discriminatory comments,
+epithets or other expressive behavior which creates an intimidating, hostile or
+demeaning environment tends to provoke a violent response.  Since the UW Rule
+covers a substantial number of situations where no breach of the peace is
+likely to result, the rule fails to meet the requirements of the fighting words
+doctrine.
+
+  (2) WHETHER THE BALANCING TM SET FORTH IN CHAPLINSKY LEAVES THE SPEECH
+REGULATED BY THE UW RULE UNPROTECTED.
+ The Board of Regents next argues that the UW Rule is in harmony with the First
+Amendment because it only regulates speech with minimum social value and which
+has harmful effects.  The Board asserts that this balancing approach is
+consistent with the Supreme Court's holding in Chaplinsky.  In support of this
+assertion, the Board notes that while the Chaplinsky Court created a per se
+rule with respect to fighting words, it used a balancing approach to reach this
+result.  See Defendant's Combined Brief at 19-20 (citing Rutzick, "Offensive
+Language and the Evolution of First Amendment Protection," 9 Harv. C.R.--C.L.
+L.Rev. 1. 2 (1974)).
+ *11 The Board apparently believes that the Supreme Court referred to its
+balancing approach when it stated:
+  It has been well observed that ("fighting words") are no essential part of
+any exposition of ideas, and are of such slight social value as a step to truth
+that any benefit that may be derived from them is clearly outweighed by the
+social interest in order and morality."
+ See Chaplinsky at 572.  The Board is correct that the ChaR'insIM Court
+employed a balancing approach to determine that "certain well-defined and
+narrowly limited classes of speech," such as fighting words, do not deserve
+First Amendment protection.  However, the Chaplinsky court did not state that
+lower courts should employ a balancing approach to identify additional
+categories of speech undeserving of protection.
+ Moreover, the Seventh Circuit has stated that a balancing approach is
+appropriate only for content-neutral speech regulation.  See American
+Bookseller Ass'n. Inc, v. Hudnut, 771 F.2d 323 (7th Cir.1985).  In American
+Booksellers, the Seventh Circuit stated:
+ The Court sometimes balances the value of speech against the costs of its
+restriction, but it does this by category of speech and not by the content of
+partic ular works."  See id, at 331-332.  In support of this assertion, the
+American B ooksellers court cited John Hart Ely, "Flag Desecration:  A Case
+Study in the R oles of Categorization and Balancing in First Amendment
+Analysis," 88 Harv. L.R ev. 1482 (1975), and Geoffrey R.  Stone,, "Restrictions
+of Speech Because of its Content:  The Peculiar Case of Subject-Matter
+Restrictions," 46 U. Chi. L.Rev. 81 (1978).
+ Professor Stone's article identifies two categories of governmental
+restrictions of expression:  content-neutral restrictions and content-based
+restrictions.  Professor Stone defined content-neutral restrictions as those
+which "restrict communication without regard to the message conveyed."  See id.
+at 81.  Examples of these restrictions include ' '[l]aws prohibiting noisy
+speeches near a hospital, banning the erection of any billboards in residential
+communities, or requiring disclosure of the names of leafletteers."  Id. "In
+judging the constitutionality of such restrictions, the Supreme Court engages
+in a balancing of first amendment interests against competing government
+concerns."  Id.
+ Content-based restrictions, on the other hand, "restrict communication because
+of the message conveyed."  Id. Professor Stone listed as examples of these
+types of restrictions "[l]aws prohibiting the publication of specific types of
+'confidential' information, forbidding the hiring of teachers who advocate
+violent overthrow of the government, or banning the display of the swastika in
+certain neighborhoods."  Id. The supreme Court has been especially wary of this
+sort of regulation and has upheld content-based restrictions of speech only
+when they fall within one of the well-defined, narrow classes of unprotected
+speech.  As Professor Stone noted:
+  *12 The Court has, to be sure, permitted content-based restrictions when
+the speech at issue has fallen within one of those special and limited
+categories of expression, such as obscenity, false statements of fact, or
+fighting words, that the Court has found to be of such low value in terms of
+the historical, philosophical, and political purposes of the amendment as to be
+entitled to less than full Constitutional protection.  Outside this "low value"
+realm, however, the Court has embraced a stringently speech-protective set of
+standards, sustaining content-based restrictions of "fully 'protected"
+expression in only the most extraordinary circumstances.
+ Id. at 82 (footnotes omitted).
+ Given the American Booksellers court's clear statement [FN9] and its reference
+to Professor Stone's article, it is evident that this Court may employ a
+balancing approach to determine the constitutionality of the UW Rule only if it
+is content neutral.  It is clear, however, that the UW Rule regulates speech
+based on its content.  The rule disciplines students whose comments, epithets
+or other expressive behavior demeans their addressees' race, sex, religion,
+etc.  See UW Rule s 2(a)(1).  However, the rule leaves unregulated comments,
+epithets and other expressive behavior which affirms or does not address an
+individual's race, sex, religion, etc.
+ Since the UW Rule regulates speech based upon its content, it is not proper
+for this Court to apply a balancing test to determine the constitutionality of
+the rule.  Moreover, this Court finds that, even under the balancing test
+proposed by the Board of Regents, the rule is unconstitutional.
+ (a) BENEFITS SIDE OF BALANCING TEST
+ On the benefits side of its proposed balancing test, the Board of Regents
+argues that the discriminatory speech proscribed by the UW Rule has little or
+no social value since it does not serve as a "step to the truth."  The Board
+states that the proscribed speech lacks social utility because it:  (1) is not
+intended to inform or convince the listener;  (2) is not likely to form any
+part of a dialogue or exchange of views;  (3) does not provide an opportunity
+for reply;  (4) constitutes a kind of verbal assault on the person to whom it
+is directed and (5) is likely to incite reaction.
+ The Board first asserts that the speech proscribed by the UW Rule is not
+intended to inform or convince its listener.  The Court disagrees with this
+assertion.  Most students punished under the rule are likely to have employed
+comments, epithets or other expressive behavior to inform their listeners of
+their racist or discriminatory views.  In addition, nothing in the UW Rule
+prevents it from regulating speech which is intended to convince the listener
+of the speaker's discriminatory position.  Accordingly, the rule may cover a
+substantial number of situations where students are attempting to convince
+their listeners of their positions. [FN10]
+ Moreover, even if the UW Rule did not regulate speech intended to inform or
+convince the listener, the speech the rule prohibits would be protected for its
+expression of the speaker's emotions.  The Supreme Court has held that the
+Constitution protects speech for its emotive function as well as its cognitive
+content.  See Cohen at 26.  "We cannot sanction the view that the constitution,
+while solicitous of the cognitive content of individual speech, has little or
+no regard for that emotive function which, practically speaking, may often be
+the more important element of the overall message sought to be communicated."
+Id. Most, if not all, of the cases covered by the UW Rule are likely to involve
+speech which expresses the speaker's feelings regarding persons of a different
+race, sex, religion, etc.
+ *13 The Board next asserts that the regulated speech lacks First Amendment
+value because it is unlikely to form any part of a dialogue or exchange of
+views and because it does not provide an opportunity for a reply.  In American
+Booksellers, the Seventh Circuit addressed and rejected these arguments.
+  Much of [defendant's] argument rests on the belief that when speech is
+"unanswerable," and the metaphor that there is a "marketplace of ideas" does
+not apply, the First Amendment does not apply either.  The metaphor is time
+honored;  Milton's Aeropagitica and John Stewart Mill's On Liberty defend
+freedom of speech on the ground that the truth will prevail, and many of the
+most important cases under the First Amendment recite this position.  The
+Framers undoubtedly believed it.  As a general matter it is true.  But the
+Constitution does not make the dominance of truth a necessary condition of
+freedom of speech.  To say that it does would be to confuse an outcome of free
+speech with a necessary condition for the application of the amendment.
+American Booksellers at 330;  see also Mills v. Alabama, 384 U.S. 214 (1966).
+ Thirdly, the Board states that the prohibited speech constitutes a kind of
+verbal assault on the addressee.  However, the Supreme Court has already
+performed a balancing test with respect to speech which inflicts injury and has
+found it to be worthy of First Amendment protection.  Accordingly, it would be
+improper for this Court to find the speech regulated by the UW Rule unprotected
+based upon its assaultive characteristics.
+ Finally, the Board argues that the prohibited discriminatory speech lacks
+First Amendment value because of its tendency to incite reaction.  While the
+Board is correct that the discriminatory speech prohibited by the UW Rule may
+in many circumstances tend to incite violent reaction, the rule prohibits
+speech regardless of its tendency to do this.  See supra at 20.  The Supreme
+Court has clearly defined the category of speech which is unprotected due to
+its tendency to incite violent reaction.  This category of speech is limited to
+speech which by its very utterance tends to incite an immediate breach of the
+peace.  It would be improper for this Court to expand the Supreme Court's
+definition of fighting words to include speech which does and speech which does
+not tend to incite violent reaction.
+ (b) COSTS SIDE OF BALANCING TEST
+ On the costs side of the balance, the Board of Regents asserts that speech
+regulated under the UW Rule inflicts great harm since it prevents the
+universities from meeting several "compelling interests":  (1) increasing
+minority representation;  (2) assuring equal educational opportunities;  (3)
+preventing interruption of educational activities;  and (4) preserving an
+orderly and safe campus environment.  Each of these asserted compelling
+interests has substantial difficulties.  Accordingly, the costs side, like the
+benefits side, of the Board's balancing equation fails to support the
+constitutionality of the UW Rule.
+ *14 The Board's first asserted compelling interest is increasing minority
+representation to add to the diversity of University of Wisconsin System
+campuses.  Increasing diversity is "clearly a constitutionally permissible goal
+for an institution of higher education."  University of California Regents v.
+Bakke, 438 U.S. 265, 311-312 (1978).  However, the UW Rule does as much to hurt
+diversity on Wisconsin campuses as it does to help it.  By establishing
+content-based restrictions on speech, the rule limits the diversity of ideas
+among students and thereby prevents the "robust exchange of ideas" which
+intellectually diverse campuses provide.  See id. at 313.
+ The Board's second asserted compelling interest is the provision of equal
+educational opportunities in accordance with the Fourteenth Amendment.  The
+Board notes that the Supreme Court has stated:  "The opportunity for an
+education, where the state has undertaken to provide it, is a right which must
+be made available to all on equal terms."  See Brown v. Board of Education, 347
+U.S. 483, 493 (1954).  However, the Board of Regents presents no evidence that
+it is not already providing education on equal terms.  Any inequality in
+educational opportunities addressed by the Uw Rule is due to the discriminatory
+activity of students, not University of Wisconsin System employees.  Since
+students are generally not state actors, the Board's Fourteenth Amendment equal
+protection argument is inapplicable to this case .
+ The Board's third asserted compelling interest is preventing interruption of
+educational activities.  In support of this assertion, the Board cites a series
+of Supreme Court cases which permit schools to control the activities of
+students which interfere with the opportunity of other students to obtain an
+education.  See Tinker v. Des Moines Indep.  Community School Dist., 393 U.S.
+503 (1969);  Healy v. James, 408 U.S. 169 (1972);  Widmar v. Vincent, 454 U.S.
+263 (1981).  However, these cases allow time, place and manner restrictions on
+speech, not restrictions based upon the speech's content.  See Tinker at 513
+("conduct by the student, in class or out of it, which f or any reason--whether
+it stems from time, p1ace or type of behavior--materially disrupts class work
+or involves substantial disorder or invasion of the rights of others is, of
+course, not immunized by the constitutional guarantee of freedom of speech"
+(emphasis added and citation omitted)).
+ Moreover, the Board's argument under this asserted compelling interest is
+inconsistent with the limits of the fighting words doctrine.  In its briefs,
+the Board has argued that the UW Rule does not cover speech within the
+classroom.  See, e.g., Defendant's Combined Brief at 43.  Accordingly, it has
+been forced to argue that discriminatory speech interrupts educational
+opportunities because of its negative psychological effects on students.
+However, this argument is inconsistent with the fighting words doctrine which
+leaves protected words which inflict injury.
+ *15 Finally, the Board asserts that it has a compelling interest in
+maintaining safety and order on its campuses.  In support of this assertion,
+the Board again argues that speech regulated by the UW Rule is likely to
+provoke violent reaction.  However, as'stated above, a substantial portion of
+the speech regulated by the rule is not likely to provoke such a reaction.
+Accordingly, this Court must find that the Boards' final proposed interest is
+not compelling.
+ Because the UW Rule fails under both the fighting words doctrine and the UW
+System's proposed balancing test, this Court must find the rule overbroad and
+therefore in violation of the First Amendment.
+ (3) PARALLEL TO TITLE VII LAW
+ The Board of Regents argues that this Court should find the UW Rule
+constitutional because its prohibition of discriminatory speech which creates a
+hostile environment has parallels in the employment setting.  The Board notes
+that, under Title VII, an employer has a duty to take appropriate corrective
+action when it learns of pervasive illegal harassment.  See Meritor Savings
+Bank v. Vinson, 477 U.S. 57, 72 (1986).
+ The Board correctly states Title VII law.  However, its argument regarding
+Title VII law has at least three difficulties.  First, Title VII addresses
+employment, not educational, settings.  Second, even if Title VII governed
+educational settings, the Meritor holding would not apply to this case.  The
+Meritor Court held that courts should look to agency principles when
+determining whether an employer is to be held liable for its employee's
+actions.  See id.  Since employees may act as their employer's agents, agency
+law may hold an employer liable for its employees actions.  In contrast, agency
+theory would generally not hold a school liable for its students' actions since
+students normally are not agents of the school.  Finally, even if the legal
+duties set forth in Meritor applied to this case, they would not make the UW
+Rule constitutional.  Since Title VII is only a statute, it cannot supersede
+the requirements of the First Amendment.
+ (4) THE BOARD'S PROPOSED LIMITING CONSTRUCTION
+ The Board of Regents requests that this Court apply a limiting construction to
+the UW Rule if it finds the rule overbroad as written.  The Board states that
+' '[t]he Court [may] hold, if necessary, that the Rule is constitutional to the
+extent that it sanctions discriminatory epithets, insults and personally
+abusive comments but unconstitutional to the extent that it may be applied to
+discriminatory opinions [with some intellectual basis [FN11]].' 'See
+Defendant's Reply Brief at 7.
+ Plaintiffs argue that this Court must decline the Board's invitation to
+interpret the UW Rule. In support of this assertion, plaintiffs cite Boos v.
+Barry, 485 U.S. 312, 330 (1988).  The Boos Court cited Grayned v. Rockford, 408
+U.S. 104, 110 (1972) and Gooding at 520-521 (1972) for the proposition that
+"federal courts are without power to adopt a narrowing construction to a state
+statute unless such a construction is reasonable and readily apparent."  See
+Boos at 330.
+ *16 This Court finds that the Boos decision does not prevent the Court from
+adopting the limiting construction offered by the Board of Regents.  The
+Board's proposed construction is reasonable and readily apparent since the
+guide circulated with the UW Rule indicates that the expression of
+discriminatory opinions and ideas is not prohibited by the Rule.See
+Discriminatory Harassment:  Prohibited Conduct Under Chapter UWS 17 Revisions,
+Questions 1 and 5.
+ This Court, nonetheless, refuses to adopt the limiting construction offered by
+the Board of Regents since that construction fails to solve the UW Rule's
+overbreadth difficulties.  The Board's construction does not prevent the Rule
+>from reaching a substantial amount of speech outside the traditional definition
+of fighting words.  Under the proposed construction, student speech violates
+the UW Rule if it:  (1) is discriminatory;  (2) is directed at an individual;
+(3) demeans the race, sex, religion, etc. of that person;  (4) creates an
+intimidating, hostile or demeaning environment and (5) lacks an intellectual
+basis.  As stated above, the first four elements do not ensure that the rule
+covers only speech which tends to incite violent reaction.  See supra, PP18-
+20.  Likewise, the fifth requirement does not prevent the rule from reaching
+protected speech.  Much speech which meets the first four elements of the UW
+Rule and lacks intellectual support is unlikely to cause an immediate breach of
+the peace.  For example, the comment "you're just a dumb black, woman, or
+homosexual," does not necessarily tend to incite violent reaction even if it
+demeans the addressee and creates an intimidating, hostile or demeaning
+environment.
+ In addition, the proposed limiting construction does not solve the UW Rule's
+difficulties under the Board's proposed balancing test.  The proposed
+construction fails to aid the Board's arguments with respect to the benefits
+side of the balancing test.  The construction may reduce the number of
+situations where the rule is applied to speech which is intended to inform or
+convince the listener.  However, as stated above, the First Amendment protects
+speech for its emotive function even if it lacks cognitive value.  The
+construction may also tend to limit the reach of the rule to speech which is
+unanswerable and constitutes a verbal assault on the person addressed.
+Nonetheless, as mentioned to above, these considerations do not affect the
+protected status of speech.  Finally, the limiting construction may increase
+the probability that the rule will be applied where a student's speech tends to
+cause an immediate breach of the peace.  Nevertheless, as stated above, the
+rule will still cover many situations in which there is little likelihood of
+violent reaction.
+ The Board's limiting construction also fails to make persuasive their
+arguments with respect to the harms side of the balancing test.  The
+construction will ensure that the rule does not limit the diversity of opinions
+on University of Wisconsin System campuses which have intellectual bases.
+However, the First Amendment protects speech regardless of its intellectual
+support.  See Collin at 1203 ("[u]nder the First Amendment there is no such
+thing as a false idea" (quoting Gertz v. Robert Welch, Inc., 418 U.S. 323, 339
+(1974)).
+ *17 The limiting construction also fails to aid the Board's equal
+protection argument since even under the proposed construction, the UW Rule
+does not address discrimination caused by state actors.  The construction also
+does little to help the Board's argument based on its interest in preventing
+interruption of educational opportunities since:  (1) even under the limiting
+construction, the rule amounts to more than a time, place and manner
+restriction on speech and (2) as stated above, the Board's basis for this
+argument is inconsistent with the fighting words doctrine.  Finally, the
+limiting construction fails to make the Board's interest in preserving orderly
+and safe campuses a compelling one.  As stated above, even under the
+construction, the UW Rule will cover much speech which does not tend to incite
+an immediate breach of the peace.
+ B. VAGUENESS
+ A statute is unconstitutionally vague when "men of common intelligence must
+necessarily guess at its meaning."  Broadrick v. Oklahoma, 413 U.S. 603, 607
+(1973).  A statute must give adequate warning of the conduct which is to be
+prohibited and must set out explicit standards for those who apply it.  Id.
+These concerns apply with particular force where the challenged statute affects
+First Amendment rights.  Village of Hoffmann Estates v. The Flipside, Hoffmann
+Estates, Inc., 455 U.S. 489, 499 (1982).  Nonetheless, the chilling effect
+caused by an overly broad statute must be real and substantial and a narrowing
+construction must be unavailable before a court will set it aside.  See Young
+v. American Mini Theaters, 427 U.S. 50, 60 (1976).
+ In our case, plaintiffs argue that the UW Rule is unconstitutionally vague for
+two reasons:  (1) the phrase "discriminatory comments, epithets or other
+expressive behavior" and the term "demean" are unduly vague and (2) the rule
+does not make clear whether the prohibited speech must actually create a
+hostile educational environment or whether speaker must merely intend to create
+such an environment.  Upon review, it appears that the phrase and term referred
+to by plaintiff are not unduly vague.  However, the rule is ambiguous since it
+fails to make clear whether the speaker must actually create a hostile
+educational environment or if he must merely intend to do so.
+ (1) "DisCRIMINATORY COMMENTS EPITHETS AND ABUSIVE LANGUAGE' ' AND ' 'DEMAN' '
+ Plaintiffs first argue that the phrase "discriminatory comments, epithets or
+other expressive behavior" is unduly vague.  In determining the clarity of this
+phrase, it is helpful first to examine the definitions of its key terms.  The
+term "discriminatory" means "[marked by or showing prejudice;  biased." i" The
+American Heritage Dictionary, p. 404.  "Comment" as used in the Rule, means
+"[a) brief statement of fact or opinion, esp. a remark that expresses a
+personal reaction or attitude:  made a comment on the governor's speech."  See
+id., p. 297 (emphasis in original).  "Epithet" is "[a] term used to
+characterize a person or thing," "[a) term used as a descriptive substitute for
+the name or title of a person," or ' '[a]n abusive or contemptuous word or
+phrase."  See id., p. 460.  "Expressive" means ' '[s]erving to express or
+indicate."
+ *18 These key terms appear to have reasonably clear meanings in the context
+of the phrase "discriminatory comments, epithets or expressive behavior."
+Plaintiff argues, however, that the mere recitation of dictionary definitions
+does not show that the rule is reasonably clear since every word has a
+definition.  Plaintiff's argument would have force if the definitions of the
+key terms were ambiguous in the context of the phrase in question or the UW
+Rule. However, the meanings of the terms appear clear and definite in the
+context of the phrase and the rule.
+ Plaintiffs also argue that the phrase is vague based upon the University of
+Wisconsin--Parkside's failure to apply the UW Rule after a student called
+another a "redneck."  A University of Wisconsin--Parkside Associate Dean, Roger
+Howard, found that "it would be very difficult to show that the term "redneck"
+is by itself the equivalent of a discriminatory epithet."  See Kassell Aff. Ex.
+17.
+ It appears that Mr. Howard misapplied the phrase "discriminatory comments,
+epithets or other expressive behavior."  The Random House Dictionary defines
+"redneck" as a "disparaging" name for "an uneducated white farm laborer."  See
+Random House Dictionary of the English Language (unabridged ed.1986), p. 1203.
+In addition, The American Heritage Dictionary describes "redneck" as:
+  Slang. A member of the white rural laboring class, esp. in the southern
+United States. 2. Offensive Slang.  A person who advocates a provincial,
+conservative, often bigoted socio-political attitude considered characteristic
+of a redneck.  See The American Heritage Dictionary, p. 1037 (emphasis in
+original).  Given these definitions of "redneck," Mr. Howard probably should
+have found the student's use of the term constituted a discriminatory epithet.
+However, this single improper application of a portion.of the UW Rule does not
+make the rule vague.  Thus, given the clear dictionary definitions of the key
+terms in the phrase "discriminatory comments, epithets and other expressive
+behavior," this Court finds that the phrase does not have vagueness
+difficulties.
+ Plaintiffs next argue that the term "demean" is unduly vague.  As stated above
+to demean means to debase in dignity or stature.  Thus, a student's speech can
+violate the UW Rule only if it debases the race, sex, religion, etc. of the
+addressee.  This requirement appears reasonably clear and therefore should
+provide adequate warning of the conduct prohibited by the UW Rule and should
+set forth explicit standards for those who apply it.
+ Plaintiffs argue, however, that the requirement of an intent to "demean"
+presents vagueness problems because it causes discriminatory comments, epithets
+or other expressive behavior to violate the rule in one context and not in
+another.  To demonstrate this "problem, " plaintiff cites the application of
+the UW Rule at the University of Wisconsin--Stout and the nonapplication of the
+rule at the University of Wisconsin--Whitewater.  The University of Wisconsin--
+Stout applied the rule where a student called another a "nigger" during an
+altercation.  See Kassel Aff., Ex. 23, p. 2." In contrast, the University of
+Wisconsin--Whitewater found that a white student had not violated the UW Rule
+where he called a black student "nigger" as part of a verbal exchange which led
+to a physical confrontation,.  See id., Ex. 25.  The University explained that
+there was no violation because:
+  *19 .[The student charged) was raised in a racially mixed neighborhood in
+Chicago.  It was common for both blacks and whites in this environment to refer
+to blacks who were not respected, liked or appreciated as "nigger."  As [the
+student] stated, "it's like calling someone an ass or names like that.["]  [The
+student addressed] agreed and stated that this kind of language/name calling
+exists in his neighborhood as well.  [He] also stated that he did not think
+[the] intent [of the student charged) was to demean him personally or racially.
+ Id.
+ Although different results were reached in the above cases, those results were
+not inconsistent.  In the first case, the University of Wisconsin--Stout found
+that the student's comments demeaned his addressee on the basis of her race.
+See Kassel Aff., Ex. 23, p. 3. In contrast, the University of Wisconsin--
+Whitewater reasonably found that the student charged did not demean the race of
+his addressee.
+ The differing results in the two cases were not due to any vagueness in the
+term "demean.  " Rather, they arose from the high standard of proof required
+by s 2(a)(1) of the UW Rule. Since the rule requires that a student must
+intentionally demean his or her addressee's race, sex, religion, etc. in order
+to violate the rule, it is likely that the rule is inapplicable in many
+instances where students use discriminatory language.
+ Thus, the phrase "discriminatory comments, epithets and expressive behavior"
+and the term "demean" do not appear to have vagueness difficulties.
+Nonetheless, as stated above, these terms fail to solve the UW Rule's
+overbreadth difficulties.  The rule clearly reaches beyond the narrow confines
+of the fighting words doctrine.  Although the above terms give students
+adequate notice of the speech which the rule prohibits and provides explicit
+standards f or those who apply the rule, the terms nevertheless allow the rule
+to prohibit protected speech.
+ (2) AMBIGUITY
+ The Court concurs with plaintiffs that the UW Rule is unduly vague because it
+is ambiguous as to whether the regulated speech must actually demean the
+listener and create an intimidating, hostile or demeaning environment for
+education or whether the speaker must merely intend to demean the listener and
+create such an environment.  As plaintiffs note, the rule itself suggests that
+prohibited speech must actually demean the addressee and create an
+intimidating, hostile or demeaning environment.  See UW Rule s 2(a). However,
+the illustrative examples published with the rule in the Wisconsin
+Administrative Code suggest that there is no need to prove that a student' s
+speech had any effect on the listener or the educational environment.  See UWS
+17. 06(2)(c).  In addition, the UW-Milwaukee has interpreted the rule to
+require only the intent to demean or to create a hostile environment.  Kassel
+Aff., Ex. 31.
+ This Court could correct this ambiguity in the UW Rule by interpreting it to
+require either:  (1) the intent to demean the listener and to create an
+intimidating, hostile or demeaning educational environment or (2) the intent to
+and effect of demeaning the listener and creating such an environment.
+However, neither interpretation of the UW Rule saves the rule from its
+overbreadth difficulties.  Accordingly, this Court will not interpret section
+(2)(a) of the rule.
+                                III. CONCLUSION
+ *20 The founding fathers of this nation produced a remarkable document in
+the Constitution but it was ratified only with the promise of the Bill of
+Rights.  The First Amendment is central to our concept of freedom.  The God-
+given "unalienable rights" that the infant nation rallied to in the Declaration
+of Independence can be preserved only if their application is rigorously
+analyzed.
+ The problems of bigotry and discrimination sought to be addressed here are
+real and truly corrosive of the educational environment.  But freedom of speech
+is almost absolute in our land and the only restriction the fighting words
+doctrine can abide is that based on the fear of violent reaction.  Content-
+based prohibitions such as that in the UW Rule, however well intended, simply
+cannot survive the screening which our Constitution demands.
+ Based on the above, this Court GRANTS plaintiffs' motion for summary judgment
+and DENIES the Board of Regents' motion for summary judgment.  Accordingly,
+this Court ORDERS:  (1) that a declaratory judgment be entered that the UW Rule
+on its face violates the overbreadth doctrine and is unduly vague;  (2) that
+the Board of Regents and its agents and employees are permanently enjoined from
+enforcing the UW Rule and (3) that the Board of Regents is required to vacate
+the disciplinary action taken against plaintiff John Doe under the UW Rule and
+to expunge from his file all records related to that action.
+ The Court requests that the parties submit brief ing on plaintiffs' request
+for reasonable attorneys' fees and costs.  Plaintiffs should submit its brief
+and affidavits within twenty (20) days of the entering of this Decision and
+Order.  The UW System shall have an additional ten (10) days to file a response
+and plaintiffs another seven (7) days to file a reply.
+ S0 ORDERED this day of October, 1991, at Milwaukee, Wisconsin.
+
+     FN1. Concerns regarding discriminatory harassment are not unique to the
+    University of Wisconsin System.  At least fifteen colleges and
+    universities, including nine state institutions, have adopted or are
+    considering restrictions on discriminatory hate speech directed at members
+    of historically disadvantaged groups.  103 Harv. L. Rov. 1397 (1990)(citing
+    Wilson, "Colleges" Anti-Harassment Policies Bring Controversy over Free-
+    Speech Issues,1 Chronicle of Higher Educ., Oct. 4, 1989, at A I, Col. I)
+
+     FN2. At oral argument on the parties' motions, the Board's counsel
+    stressed that the University of Wisconsin System does not rely solely upon
+    the UW Rule to combat the problem of discriminatory harassment among
+    students.  Counsel stated that the UW Rule is morely a "two percent
+    solution."  He noted that the system also set and articulated community
+    standards, a "thirty percent solution," and increased education regarding
+    diversity and racism, a "sixty-eight percent solution."
+
+     FN3. The Supreme Court employed the term loongibilities, in Street v. New
+    York, 394 U.S. 576 (1969).  The Street Court stated that the state had:
+    an interest in preventing appellant from uttering wordo so inflammatory
+    that they would provoke others to retaliate physically against him, thereby
+    causing a breach of the peace;  [and) an interest in protecting the
+    sensibilities of passers-by who might be shocked by appellant's words about
+    the American flag....
+    Id. at 591 (emphasis added).
+
+     FN4. The Board concurs that the first half of the fighting words
+    definition now constitutes protected speech.  See Defendant's Combined
+    Brief at 4.
+
+     FN5. Likewise, in Lewis v. City of New Orleans, 415 U.S. 130 (1974), the
+    Supreme Court hold that Now Orleans ordinance 828 M.C.S. s 49-7 had a
+    broader sweep than the definition of 'fighting words.'  Section 49-7
+    provided:
+    It shall be unlawful and a breach of the peace for any person wantonly to
+    curse or revile or to use obscene or opprobrious language toward or with
+    reference to any member of the city police while in actual performance of
+    his duty.
+    See id. at 132.  The Supreme Court previously remanded this case to the
+    Louisiana Supreme Court for reconsideration in light of Gooding.  See id.
+    at 131.  The Louisiana Supreme Court did not ' 'refine or narrow [the words
+    of s 49-71, but took them as they stood:  'The prescriptions are narrow and
+    specific wantonly cursing, reviling, and using obscene or opprobrious
+    language.' "  See id. at 132 (citations omitted).  The Supreme Court found
+    that 'nothing in the opinion of the Louisiana Supreme Court ... [made) any
+    meaningful attempt to limit or properly define--an limited by Chaplinsky
+    and Gooding--opprobrious,' or indeed any other term in s 497.' '  See id.
+    at 133.
+    More recently, in Texas v. Johnson, the Supreme Court hold that the act of
+    flag burning does not fall within the class of fighting words' because it
+    is unlikely to incite an immediate breach of the peace.  109 S.Ct. 2533,
+    2S42 (1989).
+    Nor does Johnson's expressive conduct fall within that class of "fighting
+    words" that are likely to provoke the average person to retaliation, and
+    thereby cause a breach of the peace."  No reasonable onlooker would have
+    regarded Johnson's generalized expression of dissatisfaction with the
+    policies of the Federal Government an a direct personal insult or an
+    invitation to exchange fisticuffs.
+    Id. (citations omitted).
+
+     FN6. Section 1415 prohibits 'maliciously and willfully disturbing) the
+    peace or quiet of any neighborhood or person ... by. offensive conduct. at
+    1Id.
+
+     FN7. The Board notes that discriminatory harassment has harmful effects on
+    its victims.  "The negative effects of hate messages are real and immediate
+    for the victims.'  Matsuda, at 2336.  Studies show that victims of
+    discriminatory harassment have experienced physiological symptoms and
+    emotional distress ranging from fear, rapid pulse rate, difficulty in
+    breathing, nightmares, post-traumatic stress disorder, hypertension,
+    psychosis and simmediateuicide.  Id.
+    The injuries to victims of discriminatory harassment demonstrate the high
+    costs to society which such speech imposes.  However, an stated above, the
+    Supreme Court has determined that speech does not lose its protected status
+    merely because it inflicts injury or disgrace onto its addressees.
+
+     FN8. The American Heritage Dictionary defines the adjective "hostile'
+    as:  "(1) of or pertaining to an enemy.  (2) Fooling or showing enmity;
+    antagonistic.  (3) Not hospitable.'  These definitions of hostile are
+    likely to cover speech which does not invite violent response.
+
+     FN9. The American Booksellers court' s reluctance to apply a balancing
+    approach to content-based restrictions is well founded.  The First
+    Amendment' s protection of speech constitutes a pro-commitment by the
+    government to refrain from restricting the expression of ideas.  This pro-
+    commitment ensures the ' 'continued building of our politics and culture'
+    as well an ' 'self-fulfillment for each individual.' '
+    This commitment to free expression must be unwavering, because there exist
+    many situations where, in the short run, it appears advantageous to limit
+    speech to solve pressing social problems, such an discriminatory
+    harassment.  If a balancing approach In applied, these pressing and
+    tangible short run concerns are likely to outweigh the more amorphous and
+    long run benefits of free speech.  However, the suppression of speech, even
+    where the speech's content appears to have little value and great costs,
+    amounts to governmental thought control.  An individual instance of thought
+    control may not appear to impose great costs on society.  However, if a
+    balancing tent is used there are likely to be many such instances.  Taken
+    an a whole, theme instances will work to dissolve the great benefits which
+    free speech affords.
+
+     FN10. For example, it in likely that the University of Wisconsin--Oshkosh
+    student disciplined for his comments to an Asian-American student wished to
+    convince his listener that he did not belong in America.  See supra, p. 8.
+
+     FN11. Presumedly, the Board's proposed limitation is intended to remove
+    only discriminatory opinions with intellectual bases from the reach of the
+    UW Rule. The term 'opinion' means '[a] belief or conclusion hold with
+    confidence, but not substantiated by positive knowledge or proof.' '  See
+    The American Heritage Dictionary, p. 872.  This definition of opinion would
+    appear to reach all beliefs or conclusions, regardless of their
+    intellectual bases.  However, if this definition of opinion in used in the
+    Board's limiting construction, the construction swallows the rule.  The
+    comment 'you're just a dumb black, woman or homosexual, and the epithets
+    ' 'nigger,' ' ' 'bitch,' ' and ' 'fag' ' all express a speaker's opinion
+    regarding a characteristic of his or her addresses.  Yet this comment and
+    these epithets are among the most base speech addressed by the UW Rule.
+    Accordingly, unless the Board's proposed limitation on the Rule in confined
+    to opinions with some intellectual basis, the limitation will defeat the
+    rule.
+
+     FN12. The student actually called his addressee a "piece of shit nigger,
+    and later stated ' 'fuck you nigger.' '  See id.
+E.D.Wis.,1991.
+ The UWM POST, INCORPORATED, Lafi Abdalla, Stephanie Bloomingdale, Kent
+Farnsworth, Theresa Flynn, Richard D. Leonard, Michael J. Mathias, Marcia
+Meyer, Ron Novy, Robin Pharo, Carrie Worthen and John Doe, Plaintiffs, v. BOARD
+OF REGENTS OF the UNIVERSITY OF WISCONSIN SYSTEM, Defendant.
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+--------------------
+From: kadie@eff.org (Carl M. Kadie)
+Subject: Updated README file for CAF law subarchive
+Message-ID: <1991Oct29.210145.18387@eff.org>
+Date: Tue, 29 Oct 1991 21:01:45 GMT
+
+=================
+README
+-----------------
+CAF Law Archive
+  [part of the Computers and Academic Freedom (CAF) Archive
+     [part of the Electronic Freedom Foundation (EFF) Archive]]
+
+This is an on-line collection of law related to computers and academic
+freedom. It includes both case law and legislation.
+
+The archive is accessible via anonymous ftp and email. Ftp to
+ftp.eff.org (192.88.144.3). It is in directory "pub/academic/law".
+For email access, send email to archive-server@eff.org. Include the
+line:
+      caf-law <filenames>
+where <filenames> is a list of the files that you want. File README is
+a detailed description of the items in the directory.
+
+For more information or to make contributions, contact Carl Kadie
+(kadie@eff.org).
+
+=================
+access.minors
+-----------------
+Comment from the ACLU's Handbook on the _Rights of Authors and
+Artists_ (1984). It says that protecting minors was held to be an
+inadequate justification for such a severe interference with adults'
+First Amendment rights.
+
+=================
+brandenberg-v-ohio
+-----------------
+In e-mail, a correspondent expressed the view that there was no right
+to speech that advocated violence. This response is based on U.S. law.
+It is a summary of the ACLU's Bill of Rights Briefing Paper #10:
+Freedom of Expression. The Supreme Court's standard is that speech may
+not be suppressed or punished unless it is intended to produce
+'imminent lawless action' and it is 'likely to produce such action.'
+
+=================
+constraints.constitutional
+-----------------
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_ by Partrica A. Hollander, D. Parker Young, and Donald D.
+Gehring.  (College Administration Publication, 1985).  Discusses the
+constitutional constraints on public univeristies including the
+requires for freedom of expression, freedom against unreasonable
+searches and seizures, due process, specific rules.
+
+=================
+constraints.contractual
+-----------------
+Comments from _A Practical Guide to Legal Issues Affecting College
+Teachers_. Explains that University Code is part of the contract
+between the student and school. The University can be liable for a
+breach of the contract (i.e. for not following its own rules).
+
+=================
+doe-v-u-of-michigan
+-----------------
+This is Doe v. Univesity of Michigan. In this widely referenced
+decision, the district judge down struck the University's rules
+against discrimatory harassment because the rules were found to be too
+broad and too vague.
+
+=================
+ecpa.1986
+-----------------
+Portions of the Electronic Communications Privacy Act of 1986 (ECPA) related
+to e-mail privacy.
+
+=================
+gillard-v-schmidt
+-----------------
+Description of an appellate court ruling that the school board could
+not search the desk of a school counselor without a warrant.
+
+=================
+goss
+-----------------
+Comments from _Teacher's and the Law_, 3rd edition, by Louis Fischer,
+et al. Published in 1991 by Longman.  It reports that the Supreme
+Court says that some modicum of due process is necessary unless
+the matter is trivial or there is an emergency.
+
+=================
+meritor-v-vinson
+-----------------
+This is Meritor Savings Bank FSB v. Vinson. This is the Supreme Court
+decision that recognized illegal sexual harassment in the form of a
+"hostile environment" at the work place. It is referenced in the two
+university speech code decisions.
+
+=================
+privacy.email
+-----------------
+"Computer Electronic Mail and Privacy", an edited version of a law
+school seminar paper by Ruel T. Hernadex
+
+=================
+privacy.workplace
+-----------------
+Comments from and about _The new hazards of the high technology
+workplace_ see (1991) 104 _Harvard Law Review_ 1898. Talks about email
+and other electronic monitoring.
+
+=================
+rust-v-sullivan
+-----------------
+The decision and decent for the so-called abortion information gag
+rule case. The decision explictly mentions universities as a place
+where free expression is so important that gag rules would not be
+allowed.
+
+=================
+san-diego-committee-v-gov-bd
+-----------------
+Excerpts from San Diego Committee v.  Governing Bd., 790 F.2d 1471
+(1986).  A decision by an appellate court that applied the Supreme
+Court's Public Forum Doctrine.
+
+=================
+stanley-v-magrath
+-----------------
+Comments from _Public Schools Law: Teachers' and Students' Rights_ 2nd
+Ed. by Martha M. McCarthy and Nelda H. Cambron-McCabe, published in
+1987 by Allyn and Bacon, Inc. It says, in part, "[a]lthough school
+boards are not obligated to support student papers, if a given
+publication was originally created as a free speech forum, removal of
+financial or other school board support can be construed as an
+unlawful effort to stifle free expression."
+
+=================
+student-publications.control
+-----------------
+Comments from _School Law: Teachers' and Students' Rights_ by Martha
+M. McCarthy and Nelda H. Cambron-McCabe. It says, in part, "school
+authorities cannot withdraw support from a student publication simply
+because of displeasure with the content" and "the content of a
+school-sponsored paper that is established as a medium for student
+expression cannot be regulated more closely than a nonsponsored
+paper".
+
+=================
+student-publications.libel
+-----------------
+McCarthy and Nelda Cambron-McCabe on what to do about libel in student
+publications.
+
+=================
+student-publications.sharp
+-----------------
+A paraphrase from an ACLU handbook _The Rights of Teachers_. It says
+that generally, speech, if otherwise shielded from punishment by the
+First Amendment, does not lose that protection because its tone is
+sharp.
+
+=================
+uwm-post-v-u-of-wisconsin
+-----------------
+The full text of UWM POST v. U. of Wisconsin. This recent district
+court ruling goes into detail about the difference betwen protected
+offensive expression and illegal harassment. It even mentions email.
+
+=================
+=================
+Last update
+Tue Oct 29 15:40:31 EST 1991
+
+
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: kadie@herodotus.cs.uiuc.edu (Carl M. Kadie)
+Subject: Re: yahweh is good posting
+Message-ID: <kadie.688925645@herodotus.cs.uiuc.edu>
+Date: 31 Oct 91 16:14:05 GMT
+Article-I.D.: herodotu.kadie.688925645
+References: <91294.162201U42054@uicvm.uic.edu> <1991Oct22.210104.4938@eff.org> <1991Oct30.030810.13193@panix.com>
+Sender: news@m.cs.uiuc.edu (News Database (admin-Mike Schwager))
+
+In <1991Oct30.030810.13193@panix.com> eck@panix.com (Mark Eckenwiler) writes:
+
+[...]
+>No-one is claiming that the Yahweh poster can't publish his puerile
+>fantasies in any number of appropriate newsgroups.  What *is* being
+>asserted (by yours truly, anyhow) is that given the structure of the
+>Usenet hierarchy, it's perfectly fitting to demand some semblance of
+>adherence to the charters of the various groups.
+
+>If you disagree, you've got your work cut out for you.  As a first
+>Herculean labor, I suggest calling for and achieving the elimination
+>of all moderated newsgroups.
+[...]
+
+I think that unmoderated Netnews newsgroups facilities offered by most
+universities are free-speech forums. The charters of the newsgroups
+(if any) defines the focus of the forum, not the government-enforced
+boundary of the forum.
+
+I offer three justifications for this opinion.
+
+First, the unmoderated newsgroups at most universities are in practice
+free-speech forums. No university that I know of consistently enforces
+newsgroup charters. If the charter is enforced at all, it is enforced
+as a way to punish the poster of an offensive note. This kind of
+selective enforcement is exactly what was prohibited in _San Diego
+Committee v. Governing Bd_[1]. I think that one reason that most
+universities treat unmoderated newsgroups as free-speech forums is
+that Usenet (and altnet, etc) offer no way to enforce the charters of
+unmoderated newsgroups on posters from other sites.
+
+Second, moderated newsgroups (and mailing lists) offer a popular and
+well-accepted alternative to the free-speech forums of unmoderated
+newsgroups. In practice, forging an approval for an unmoderated
+newsgroup is not tolerated, no matter what the content of the article.
+
+Third, charters are not written to be legally enforceable documents. A
+charter can say almost anything. It could say that this newsgroup is
+only for people of a certain religion; it could say expressions of
+skepticism are not allowed; it could say that offensive articles are
+prohibited. None of these restrictions could be legally enforced by a
+state university.
+
+So, if the charters of newsgroups are not enforceable by the
+government does that mean the end of the Net as we know it?  I don't
+think so. Newsgroup charters are explicit parts of social contracts.
+Experience shows government policing is not necessary; the charters
+can be and are enforced with social pressure. Such enforcement is not
+perfect, but as Gene Spafford quotes in "What is Usenet?": "Anarchy
+means having to put up with things that really piss you off."
+
+- Carl
+
+[1] Excerpts from this case are available via anonymous ftp as
+ftp.eff.org:pub/academic/law/san-diego-committee-v-gov-bd or send
+email to archive-server@eff.org. Include the lines:
+  send academic-law san-diego-committee-v-gov-bd
+  send acad-freedom README
+--
+Carl Kadie -- kadie@cs.uiuc.edu -- University of Illinois at Urbana-Champaign
+
+From: nbc2134@dsacg2.dsac.dla.mil (Robert F Solon)
+Subject: Re: Rights for readers\posters?
+Message-ID: <9111021803.AA15019@dsacg2.dsac.dla.mil>
+Sender: nbc2134@dsacg2.dsac.dla.mil
+Date: 2 Nov 91 08:03:31 GMT
+
+
+
+In reply to the mail from <lamontg@milton.u.washington.edu>...
+>
+>Let me clarify myself.  I don't think that an individual on any site has any
+>"rights" wrt what comes over the net, and what other people on other sites
+>do.  Thus, you don't have the "right" not to be offended, or the "right"
+>not to have to read innapropriate posts (as a *READER*), etc.
+>
+>The only right I think you should have on USENET is the right to freedom
+>of speech, and thus only posters have rights, not readers.  Just like the
+>readers of a newspaper have only the right to pitch the thing or write a
+>letter into the editor (and thereby become a "poster"...)
+>
+>  Friend,
+>>you need to think about what you're saying.  One of the major obligations
+>>of the legal system is the determination of points at which individual rights
+>>become secondary, in favor of group or "societal" rights.  The most common
+>>analogy is the "shouting 'fire' in a crowded theatre" maxim.  Your rights to
+>>free assembly/speech stop at the other person's doorstep.  While the "right
+>>to privacy" has never been explicitly given (it has been constructed from a
+>>broad range of decisions), it most certainly exists, even in an arbitrary
+>>state.
+
+But there is no right-not-to-be-offended.
+
+>>whether you like it or not.  There is a point at which the reader's rights
+>>can override those of the poster.
+
+No, No, a thousand times no!!!
+
+I as a reader have absolutely no right-not-to-be-offended.  If I'm offended by a
+particular idea, that's my problem.  I have no legal recourse, unless I can
+fulfill the legal requirements for libel.  Just because I don't like, or am
+offended by, certain speech does not mean that I have the right to silence it.
+ Universities and colleges that do so in the name of "political correctness"
+or to combat any of the currently-in-vogue "isms" are wrong.  The instant you
+begin censoring speech for content you commit the worst abomination known to
+to civilizization: the supression of ideas.  The free flow of ideas is the
+essense of frredom, both academic, economic, and political.  It is absolutely
+essential that we allow the free flow of ideas.Even ideas we may personally find
+repugnant have worth.  Notice I did not say value, just worth.  We cannot
+suppress ideas.  If I am offended by an idea, I would suggest that I examine
+my own thoughts and ideas to see why.
+
+
+>
+>>I am not commenting on this particular incident, nor am I saying that the
+>>"reader's rights" are preeminent in this case.  I just wanted to point out
+>>that readers DO have rights, within the context of Usenet.
+>
+>Currently, they really don't.  They have the right to express their opinion,
+>but thats about it (and of course, they have the right to change the system,
+>but then then we wouldn not be considering the current situation).  IMHO,
+>this shouldn't change much.  Right now USENET is an absolutely free forum
+>to express any idea that you wish, and I would rather that didn't change
+>-- if that means we have to deal with a few idiots like Yahweh, then thats
+>the price we have to pay...
+
+I agree wholeheartedly.
+
+
+
+Bob Solon, rsolon@dsac.dla.mil
+Administrative Information Branch -- "We Code, You Explode!!"
+Directorate of Resource Management Systems (APCAPS)
+DLA Systems Automation Center, DSAC-BCC       (614) 238-8256  AV 850-8256
+
+From: kadie@eff.org (Anonymous)
+Subject: Re: off-topic notes (was yahweh is good posting)
+Message-ID: <1991Oct29.150556.5266@eff.org>
+References: <1991Oct23.233034.24688@eff.org> <9110240013.AA20625@sentinel.CES.CWRU.Edu> <1991Oct24.222935.19366@eff.org>
+Date: Tue, 29 Oct 1991 15:05:56 GMT
+
+[Here is an anonymous response to my query about how far a sys admin
+should go to enforce a newsgroups charter.  The lines marked with ">"
+are from my previous note. - Carl
+
+> * Does every newsgroups have a charter?
+
+Yes and no.  Each newsgroup does have a short [one line] description.
+Some also have one page [or longer] charters that were either agreed
+upon when the group was created or later by votes.
+
+> * Do your users have access to the charters of every newsgroup you carry?
+
+Yes.  Unfortunately the software used does not make it possible to 
+access the charters upon demand with a single keystroke.
+
+> * How are charters officially decided?
+
+By votes of those interested in the group.
+
+> * If a charter calls for viewpoint discrimination, would you enforce
+> it? (e.g. If the alt.astrology charter says that articles expressing
+> skeptism are not welcome, will you punish skeptical posters?)
+
+Yes.  I would enforce any charter, _if_ I was notified of a violation.
+I do not try to watch all the newsgroups but if someone sends me a
+complaint I will investigate it.
+
+I have yet, in the last 5 years, "punished" someone by removing their
+privileges.  In every case, the act was not malicious (as I think the
+recent one was) but due to ignorance.  As soon as the problem was described
+to the student, they _voluntarily_ took action to remove the article.
+In most cases they tried to take action even before I was notified.
+(me puzzled - "what article xyz in pdq?  It's not there.")
+I honestly think this is true 95% of the time which is why I send mail
+to the user before sending mail to a sysadmin.
+
+> * If a charter calls for sexual discrimination (remember
+> soc.women.only?), will you enforce it?
+
+Yes.  If the group was approved by USENET rules.  I would also support
+a soc.men.only though.  I do believe in free-speech.  I just don't think
+that people using their rights to free-speech should have to deal with
+harrassment.  I think the shouting down of speakers is wrong.  But I have
+no problems with protesting a speaker outside the meeting hall.
+
+> * If a charter says that a person can be barred from posting
+> by a majority vote, will you enforce such a vote?
+
+If you can show me a group that would agree... I will give you an answer.
+As a personal preference, I would be opposed to instituting such a policy.
+
+-- 
+Carl Kadie -- kadie@eff.org, kadie@cs.uiuc.edu, or (anonymous) ap.4352@hri.com
+I do not represent EFF; this is just me.
+
+From: n8810182@henson.cc.wwu.edu (LittleOne)
+Subject: Forget UW, let's talk about Western Washington U!
+Message-ID: <1991Oct30.040844.8212@henson.cc.wwu.edu>
+Date: 30 Oct 91 04:08:44 GMT
+Sender: n8810182@henson.cc.wwu.edu (LittleOne)
+
+FOr those of you who do not know.... due to the article in the Seattle
+Post-Intelligencer of October 15, 1991, Western Washington University
+banned roughly 15 news groups.  Among these groups were the entire
+alt.sex* heirarchy and most the alt.binary groups.  As I understand it
+the UW still has at least alt.sex.  As some of you may find it amusing,
+we still have rec.arts.erotica.  *weak smile*
+
+Anyhow, I find it appalling that a university should ban such news groups
+simply because a state auditor (from the PI article) got his nose out of
+joint due to some, shall we say colorful, newsgroups.  I am waiting for
+permission to post 2 news articles in our own campus paper, the Western
+Front.  Until I get this permission, I can say this much... the banner
+of the groups, Jerry Boles, Vice Provost of Intformation and 
+Telecommunications, seems to know little about how USENET works; the 
+writer of the articles in the Front (our campus newspaper) doesn't seem
+to have the WHOLE story; and lastly, the sysadmin of henson doesn't seem
+to have the qualifications of restoration of the groups acurate.
+
+To elaborate:  Jerry Boles has labeled the alt.sex* newsgroups as 
+'junk mail' and sees fit to "'throw out' the mail they (the people)
+don't want." (The Western Front, October 29, 1991)
+
+The writer for the Front has misquoted people.  (Information given to
+me by Jeff Wandling, ex WWU news manager who's quote was misquoted)
+
+"If any faculty member feels it necessary to bring these files back
+for academic reasons, the files will be brought back, he (Bent Faber,
+henson sysadmin) said." (The Western Front, October 22, 1991).  On
+relable rumour (substanciated off the record by the news manager) a 
+faculty member from the CS department asked that the news groups be
+reinstated.  That was last Friday and they have not reappeared, but
+according to the quote given by Jerry Boles in the article in The
+Western Front of October 29, 1991, "If an instructor requests the
+files for academic reasons, the request will be evaluated on equal
+ground whether it's an alt.sex group or some other group, he (Jerry
+Boles) said."  Now which statement is correct?  I'm personally going
+
+
+to be hot on the trail of some psychology prof. ;)
+
+Any suggestions on how to fight this?
+
+-- 
+     /)               /      /~~\             *  Vickie Hoover           
+    /      * _/__/_  /  _   /    )  __   _    *  n8810182@henson.cc.wwu.edu    
+   /      /  /  /   /  / ) (    /-//  ) / )   *  8810182@nessie.cc.wwu.edu
+  (_____ (_/(_/(_/ /_ (_/_/ \__/ /   /_(_/_/  *  VickieH@nessie.cc.wwu.edu
+
+From: fischer@iesd.auc.dk (Lars P. Fischer)
+Subject: Re: USENET censorship strikes University of Washington!
+Message-ID: <FISCHER.91Oct29014752@thor.iesd.auc.dk>
+Date: 29 Oct 91 01:47:52 GMT
+References: <FISCHER.91Oct26230448@thor.iesd.auc.dk>
+	<1991Oct27.233800.7842@uokmax.ecn.uoknor.edu>
+	<1991Oct28.003732.18070@wpi.WPI.EDU>
+	<1991Oct28.171510.21293@ms.uky.edu>
+Sender: news@iesd.auc.dk
+In-Reply-To: morgan@ms.uky.edu's message of 28 Oct 91 17:15:10 GMT
+
+>>>>> On 28 Oct 91 17:15:10 GMT, morgan@ms.uky.edu (Wes Morgan) said:
+
+Wes> Can you really imagine, for instance, trying to convince a
+Wes> computer science department that they need to spend thousands of
+Wes> dollars on a machine whose exclusive use would have very little
+Wes> to do with their CS mission?  Good luck.
+
+Oh, dear. I'd say that news is certainly *critical* to CS department!
+For one thing, teaching you students to use electronic communication
+for getting information is *damn* important. Second, most faculty and
+system administrators would have a few groups they consider essential
+-- I, for one, can name quite a few technical groups that a critical
+to my "mission".
+
+No, news is serious stuff, and should be handled as such. Any
+university, and *especially* a CS department, should take electronic
+communication seriously and be prepared to allocate the resource for
+it. All else is folly. And, considering that news, email, electronic
+conferencing, etc, are among the few things that need support from
+outside by office, I can thin of few things that are more appropriate
+for allocating shared resources and as task for university computing
+center. Note that a single news server will more often than not be
+enough for an entire campus.
+
+Once you start taking this stuff seriously, it follows that 500 Mbyte
+of 2 Gbyte for news is not what matters, so you might at well get it
+all. Far better than putting someone in the position to judge what is
+good and what is bad. This is rarely a healthy thing for a human to
+do.
+
+/Lars
+--
+Lars Fischer,  fischer@iesd.auc.dk   | It takes an uncommon mind to think of
+CS Dept., Univ. of Aalborg, DENMARK. | these things.  -- Calvin
+
+
