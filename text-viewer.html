@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CAF Text Viewer</title>
+  <style>
+    body {
+      background: #fff;
+      color: #000;
+      font-family: serif;
+      margin: 1.5rem;
+    }
+
+    .toolbar {
+      border-bottom: 1px solid #aaa;
+      font-family: sans-serif;
+      margin-bottom: 1rem;
+      padding-bottom: 0.75rem;
+    }
+
+    .toolbar p {
+      margin: 0.25rem 0;
+    }
+
+    pre {
+      font-family: "Courier New", Courier, monospace;
+      font-size: 0.95rem;
+      line-height: 1.35;
+      margin: 0;
+      white-space: pre-wrap;
+      word-break: normal;
+      overflow-wrap: anywhere;
+    }
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <p><a href="index.html">CAF archive home</a></p>
+    <p id="source"></p>
+  </div>
+  <pre id="content">Loading...</pre>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const file = params.get("file") || "";
+    const content = document.getElementById("content");
+    const source = document.getElementById("source");
+
+    function isSafeRelativePath(path) {
+      return path &&
+        !path.startsWith("/") &&
+        !/^[a-z][a-z0-9+.-]*:/i.test(path) &&
+        !path.split("/").includes("..");
+    }
+
+    if (!isSafeRelativePath(file)) {
+      source.textContent = "No text file selected.";
+      content.textContent = "The text viewer needs a safe relative file path.";
+    } else {
+      source.innerHTML = 'Viewing: <a id="raw-link"></a>';
+      const rawLink = document.getElementById("raw-link");
+      rawLink.href = file;
+      rawLink.textContent = file;
+
+      fetch(file)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`${response.status} ${response.statusText}`);
+          }
+          return response.arrayBuffer();
+        })
+        .then(buffer => {
+          const text = new TextDecoder("windows-1252").decode(buffer);
+          document.title = `${file} - CAF Text Viewer`;
+          content.textContent = text;
+        })
+        .catch(error => {
+          content.textContent = `Could not load ${file}\n\n${error}`;
+        });
+    }
+  </script>
+</body>
+</html>
