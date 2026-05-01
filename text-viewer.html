@@ -32,6 +32,25 @@
       word-break: normal;
       overflow-wrap: anywhere;
     }
+
+    .line {
+      display: block;
+      scroll-margin-top: 1rem;
+    }
+
+    .line:target,
+    .line.selected {
+      background: #fff3a3;
+    }
+
+    .line-number {
+      color: #666;
+      display: inline-block;
+      padding-right: 0.75rem;
+      text-align: right;
+      user-select: none;
+      width: 4.5rem;
+    }
   </style>
 </head>
 <body>
@@ -43,6 +62,7 @@
   <script>
     const params = new URLSearchParams(window.location.search);
     const file = params.get("file") || "";
+    const requestedLine = params.get("line") || params.get("lineno") || "";
     const content = document.getElementById("content");
     const source = document.getElementById("source");
 
@@ -57,10 +77,65 @@
       source.textContent = "No text file selected.";
       content.textContent = "The text viewer needs a safe relative file path.";
     } else {
-      source.innerHTML = 'Viewing: <a id="raw-link"></a>';
+      source.innerHTML = 'Viewing: <a id="raw-link"></a><span id="line-note"></span>';
       const rawLink = document.getElementById("raw-link");
+      const lineNote = document.getElementById("line-note");
       rawLink.href = file;
       rawLink.textContent = file;
+
+      function parseLine(value) {
+        const match = String(value || "").match(/^L?(\d+)$/i);
+        return match ? Number(match[1]) : 0;
+      }
+
+      function targetLine() {
+        const hashLine = parseLine(window.location.hash.slice(1));
+        return parseLine(requestedLine) || hashLine;
+      }
+
+      function lineLink(lineNumber) {
+        const url = new URL(window.location.href);
+        url.searchParams.set("line", String(lineNumber));
+        url.hash = `L${lineNumber}`;
+        return url.pathname + url.search + url.hash;
+      }
+
+      function renderText(text) {
+        const fragment = document.createDocumentFragment();
+        const lines = text.replace(/\r\n/g, "\n").replace(/\r/g, "\n").split("\n");
+
+        content.textContent = "";
+        lines.forEach((line, index) => {
+          const lineNumber = index + 1;
+          const row = document.createElement("span");
+          const number = document.createElement("a");
+          const body = document.createElement("span");
+
+          row.className = "line";
+          row.id = `L${lineNumber}`;
+
+          number.className = "line-number";
+          number.href = lineLink(lineNumber);
+          number.textContent = lineNumber;
+
+          body.textContent = line || " ";
+
+          row.append(number, body);
+          fragment.append(row);
+        });
+
+        content.append(fragment);
+
+        const lineNumber = targetLine();
+        if (lineNumber > 0) {
+          const target = document.getElementById(`L${lineNumber}`);
+          if (target) {
+            target.classList.add("selected");
+            target.scrollIntoView({ block: "start" });
+            lineNote.textContent = ` at line ${lineNumber}`;
+          }
+        }
+      }
 
       fetch(file)
         .then(response => {
@@ -72,7 +147,7 @@
         .then(buffer => {
           const text = new TextDecoder("windows-1252").decode(buffer);
           document.title = `${file} - CAF Text Viewer`;
-          content.textContent = text;
+          renderText(text);
         })
         .catch(error => {
           content.textContent = `Could not load ${file}\n\n${error}`;
