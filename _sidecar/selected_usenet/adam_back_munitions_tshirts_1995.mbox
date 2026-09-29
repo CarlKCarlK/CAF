@@ -1,0 +1,198 @@
+From aba@dcs.exeter.ac.uk Wed Aug 23 19:22:53 1995
+Newsgroups: alt.culture.usenet,alt.culture.internet,alt.cyberpunk,alt.cyberspace,comp.org.eff.talk,alt.comp.acad-freedom.talk,comp.security.misc,alt.fan.joel-furr
+From: aba@dcs.exeter.ac.uk (Adam Back)
+Subject: Re: Perl/RSA t-shirts
+In-Reply-To: jfurr@acpub.duke.edu's message of 22 Aug 1995 14:29:55 -0400
+Message-ID: <DDs3F1.JtD@exeter.ac.uk>
+Sender: news@exeter.ac.uk (news admin)
+Date: Wed, 23 Aug 1995 19:22:53 GMT
+
+
+Joel Furr <jfurr@acpub.duke.edu> writes:
+> There's been so much interest in the concept of perl/RSA t-shirts
+> that more than one person is now making them.  *I* took orders until
+> June 1 and accumulated about 1,500 orders, and have started taking
+> orders for a second batch, with the ordering deadline of September
+> 16.
+
+Cool, glad to see such gleeful ITAR bashing, which is the point of the
+exercise.  Impressive number of orders: 1500!, I've only got ~ 250 in
+the UK from European folks so far (plus a few foreign nationals living
+in the US, who can't be sold the shirts by a distributer in the US due
+to ITAR), but then perhaps ITAR is not so well known in the EU.  Don I
+think has shipped 500 now also, so that's a lot of people walking
+around with munitions T's.  
+
+There may in the future be a French shirt, in honour of their own
+crypto regulations - worse even than ITAR in the US.  The French regs
+are bad -- complete ban, permission required to own or use crypto
+technically required from French government -- which they don't hand
+out readily.  In fact the French regs are so bad that it may even be
+necessary to produce them outside France to avoid technical legal
+problems for the producer should the relevant govt agency decide to
+get picky.
+
+> My shirts do *not* include a markup for profit -- they are sold at a
+> break-even price of $12.36.
+
+Mine are likewise (sold at an estimated break even price, excess due
+to better price obtained from larger than expected order goes to Phil
+Z also), Lucy Chubbs (Australia) are break even also, Don Hensons are
+commercial with 25% of profits to Phil Z, and I see no problem with
+that.
+
+(A small quibble, also is that you on your netstuff pages, do ask for
+a donation to help cover your time, which is fine by me, and you're
+welcome to it, T-shirt tinkering certainly eats time, but some people
+will be honouring this request, and hence feel bound out of politeness
+to pay you extra over your quoted $12.36, so perhaps you are not quite
+comparing like with like - Don = 75% + 25% to Phil Z, Joel = 0% + x%
+donations.  Note that I'm *not* compaining, just defending Don, who
+has been helpful in setting up more T-shirt orders).
+
+> A guy named Don Henson, somewhere in Texas, is also doing similar
+> shirts, and is charging $15.95 -- $3.50 more than I am.  
+
+Mitigated by some other facts:
+
+a) Don is a PGP user, and crypto enthousiast,libertarian and privacy advocate
+b) provided a useful service to people who couldn't get your shirts when 
+   the 1st order ran out, he's still shipping - shipped 2nd batch already
+c) is donating 25% to the Phil Z legal defense fund - with Phil Zs
+   blessing, 
+d) asked permission first (asked me, Phil Zimmermann, and Josh Osborne),and
+e) is always polite and courteous, 
+f) provided a very prompt delivery to those who ordered through him,
+g) takes credit card orders (encrypted with his PGP key for your saftey
+   if you use PGP), also take Netcash,
+h) doesn't require notary signatures
+
+So yes your's are cheaper, however,... credit card dealerships cost
+money, but are convenient to use until ecash gets here for real
+(comeon Digicash *where are you*), his prompt service costs him time,
+and he doesn't require a notary signature (I think they are, or can be
+obtained for free if you shop around?, but there is still
+inconvenience), so his system of payment is entirely on-line, and very
+secure if the purchaser cares to use PGP.
+
+> However, he's also making weird claims like "it's illegal to wear
+> one of these t-shirts in front of someone who's not an American
+> citizen."  That's not true.  In fact, I don't know where he got that
+> idea.  
+
+No, it is true.  Well actually, it is not so black and white, it is
+perhaps debatable (it was debated ad nauseum on cypherpunks list a
+while ago until everyone got sick of the subject), but there is a
+section of the ITAR regulations (what the whole shirt is in honour of
+right?) which says otherwise, this little gem:
+
+Here, verbatim is section 120.17(4) of the ITAR regulations:
+
+> (4)  Disclosing (including oral or visual disclosure) or transferring
+>      technical data to a foreign person, whether in the United States
+>      or abroad
+
+So when you consider that the T-shirt is the technical data, and the
+proud wearer is doing the disclosing you can see where the fun starts,
+and where Don gets his interpretation from.
+
+Disclosing ... visually ... technical data to a foreign person ... in
+the United States.
+
+Sound like a T-shirt? visually? sounds good, to a foreign person,
+plenty of foreign nationals in the US, in your class, your neibour,
+your fellow students, researchers, (heck Adi Shamir the S from RSA is
+a foreign national, leading to amazingly ridiculous conclusions - he
+co-developed it - were his US colleages breaking the law by
+collaborating with him?)
+
+USC 2778 & 2779 say that the penalties for violating ITAR are
+$1,000,000 and/or up to 10 years imprisonment per count of violation.
+
+Full text of ITAR is in John Gilmores ITAR & export collection:
+
+	ftp://ftp.cygnus.com/pub/export/itar.in.full
+
+> Yes, it's illegal to sell strong encryption code in machine readable
+> form to anyone who is not an American citizen, Canadian citizen, or
+> American permanent resident, but it's sure as hell not illegal to
+> walk past someone wearing a shirt with perl/RSA code on the shirt in
+> a machine-readable font.
+
+Well, it is certainly ridiculous, granted, but strict reading of the
+ITARs seem to say just this.
+
+There is much about ITAR which is contested, many (even a goverment
+hearing of the OLC) think that the ITAR regulations are
+unconstitutional, and illegal, but the NSA is still grimly holding on
+to their ability to perform illegal wire-taps.  The EFF is fighting an
+ITAR related case on constitutional grounds at the moment, the Dan
+Bernstein case.  EPIC has extracted documents from the FBI and the NSA
+with FOIA requests which show that even some FBI and NSA lawyers
+believe that they would have a poor case if ITAR gets to the courts
+with a un-constitutional claim.
+
+You will note that there is still a huge government push on for
+escrowed-crypto (read government access to keys - GAK).
+
+This is the big enemy, and what folks should be fighting IMO.
+
+> If people are interested in getting ordering information for the
+> *original* perl/RSA t-shirts, ordering information is available at
+> http://www.danger.com/netstuff.html or by emailing me directly. 
+
+As far as I'm concerned people are welcome to get their shirts from
+you, or anyone else who wishes to print them.  Presumably you have no
+objections as the more other suppliers there are, the less (unpaid)
+work for you?
+
+There are currently 4 suppliers of T-shirts:
+
+EU - me printed in the UK, will ship to anywhere (no ITAR considerations)
+AU - Lucy Chubb <lucyc@suite.sw.oz.au> likewise anywhere
+US - Joel Furr US & Canada only, notary public signature required
+US - Don Henson US & Canada only, credit cards accepted, no notary required
+
+I wrote the code, and Josh Osborne asked you to do the shirt.  The
+whole aim is to get as many shirts as possible out there, and take the
+mick out of the incredibly silly US ITAR regulations, which are costing
+the US software industry estimated 100s of millions of dollars in lost
+trade to EU and other competitors who don't have to contend with ITAR.
+I personally don't see anything grossly unfair, or unethical about Don
+Henson making some profit for his time, he did produce a very fast
+turn-around, and has shipped his 2nd batch before you've even shipped
+the first in spite of the fact that you stopped accepting orders
+around one month before he started accepting orders.  
+
+I'm not complaining, you've been extremely helpful in setting up the
+thing for the 1st batch at Josh Osbornes request, and you have (or
+soon will have) personally shipped more munitions shirts than anyone
+else put together - that's the A1 priority for me - bad publicity for
+ITAR, lots of shirts sold.  Also I couldn't very well complain of your
+turn around time, mine is likely to turn out similarly slow, I've just
+ordered my 1st batch of 250, and people were begining to ask
+(politely) about delivery times.  So I can entirely sympathise with
+having other things to do, and not doing it for a job, etc.  Also 1500
+shirts is a lot of shirts, and a lot of orders to deal with!
+
+My collection of people shipping shirts needs updating to include you
+again, I'll do that, all the details on the perl-rsa sig, and the
+legal background is on:
+
+	http://dcs.ex.ac.uk/~aba/rsa/
+
+It would be helpful if you put a pointer to that on your netstuff page
+for the perl/RSA offer, to ensure that people get the background
+political information which goes with the shirt, which is the whole
+aim with the munitions sig, and T-shirt, tatoo (yes really two people
+in the US are arranging to become a bio-munition), bumper sticker,
+badge, etc., etc.
+
+Adam
+--
+HAVE *YOU* EXPORTED RSA TODAY? --> http://dcs.ex.ac.uk/~aba/rsa/
+--rsa--------------------------8<-------------------------------
+#!/bin/perl -s-- -export-a-crypto-system-sig -RSA-3-lines-PERL
+$m=unpack(H.$w,$m."\0"x$w),$_=`echo "16do$w 2+4Oi0$d*-^1[d2%Sa
+2/d0<X+d*La1=z\U$n%0]SX$k"[$m*]\EszlXx++p|dc`,s/^.|\W//g,print
+pack('H*',$_)while read(STDIN,$m,($w=2*$d-1+length($n)&~1)/2)
