@@ -1,0 +1,282 @@
+From moran@muir.ai.sri.com 1993-02-17T01:05:52Z
+From: moran@muir.ai.sri.com (Doug Moran)
+Newsgroups: comp.org.eff.talk
+Subject: Article 3--Re: Legal Tangles During FTP
+Message-ID: <MORAN.93Feb16170552@muir.ai.sri.com>
+Date: 17 Feb 93 01:05:52 GMT
+
+[Note: events overtook the below message. An escalating stream of abuses
+associated with our appearance in this group has just resulted in us
+having to turn off anonymous FTP.  I decided to submit this message
+anyway because it might still provide some perspective on the situation.]
+
+
+Enough already.
+
+A number of unfounded, unchecked assumptions and conjectures about the
+anonymous FTP situation at my site have come to be treated as fact in
+this newsgroup.  Up to this point, I have refrained from responding
+because I was advised that the thread would quickly die out and the
+falsehoods published here would be soon forgotten.  It has become
+painfully clear that this is not happening and that the characterization
+of our site is moving further and further from the truth.
+
+If you are going to continue this discussion of anonymous FTP policy,
+please create your own strawman (and start a new thread so that our
+name does not continue to appear in the subject line).  Stop fabricating
+actions on our part and using us as the bogeyman.
+
+In an attempt to stop my site from continuing to be maligned in this
+newsgroup, I am going to attempt to clarify the facts.  This message
+is a long one because there are so many misconceptions, distortions,
+and falsehoods to be addressed.  To keep the length manageable, I will
+ignore many of the minor ones.
+
+The thread started with a report by a student that we had overreacted
+to an innocent use of anonymous FTP.  The facts are that the student
+retrieved precisely two files: first the README stating that this was
+not a public archive and then the (dummy) passwd file.  The fact that
+he ignored a wide range of files in the pub directory is inconsistent
+with the characterization repeatedly presented in this newsgroup of
+an innocent browser who did not know that what he was doing was improper.
+See our earlier response for a recapitulation of our actions - it was
+posted to this newsgroup.  We deliberately underreported the event so
+that if nothing else was going on, the student could easily claim 
+innocent intent.  See the exchanges in the thread for additional
+perspectives on this issue and why many System Administrators would agree
+that what we did was reasonable and responsible.
+
+Since so many people have expressed interest in our log of this incident,
+here is the relevant extract:
+  @<HOST> (<USER>@<HOST>) Thu Feb  4 06:18:58 1993
+	get /pub/README
+	get /etc/passwd
+That's it.  All of it (except for the masking of the student's name and
+originating host).  We log only the connection information and GETs and
+PUTs.  Since we do not log CDs and LS/DIRs, we do not know what, if any,
+filename browsing the student did. This level of logging is adequate for
+our needs of identifying the origin of automatic retrieval programs and
+of being able to provide our users with the service of telling them who
+is picking up their files.
+Note: although a number of people complained to this group about not
+having seen this log, again no one thought to contact us and ask for it.
+
+I find it instructive about the attitudes and biases of members of
+this newsgroup that the student's account of events was so readily
+accepted, and that no one attempted to contact us before rushing to
+judgement.  In a situation where skepticism was clearly called for,
+it was given only a perfunctory nod.  Saying "If <questionable_assumption>,
+then ..." is often acceptable when debating abstract ideas, but it is
+very wrong when dealing with someone's reputation.
+
+Important note: several people in defending our actions have said that
+it was not us, but the sysadmins at the student's university, who over-
+reacted.  Be careful: the conclusion that they overreacted is based on
+the assumption that they did what the student claims and that his action
+was an isolated event.  I don't know whether or not this is true, and
+I don't think any of you do either.  Furthermore, if the student's
+university is governed by the usual set of privacy laws and policies,
+the facts need to settle this issue are likely to be protected.  Thus,
+if the sysadmins had good reason for acting as they did, they are
+unlikely to be able to reveal those reasons. And if they didn't,
+they can use "privacy rights" to hide that.  Repeating the point: don't
+jump to conclusions based upon a presentation from just one side.
+
+A related falsehood that keeps popping up is that we "defamed" the
+student to computer facility staff, his department chair, and his
+professor (or some variant thereof).  Our only contact was the single
+report to the sysadmin of the student's site and the acknowledgement
+that we got from them that the report had been received.  We made no
+allegations -- we reported what was in our logs and noted the likely
+interpretation (and identified it as such).  The complete text of this
+message has been reposted endlessly in this newsgroup.
+
+Members of this newsgroup have characterized our sysadmins are idiots
+and incompetents for having a password file in the anonymous FTP area.
+As was subsequently explained by other posters to this newsgroup, a
+dummy passwd file is required by the standard BSD FTP server to support
+the LS command (this requirement has long been documented in the FTPD(8)
+manual page in SunOS).  Given how accessible this information is, I was
+surprised at the number of supposedly knowledgeable contributors who
+pilloried us for this, and I was disappointed by the number of people
+who used it as an excuse to stage minor acts of harassment over the net.
+
+The ridiculing of our site then moved on to what is an admittedly
+poorly written README file.  It was written by an overloaded staff
+member.  Anonymous FTP has long been on our list of things that needed
+to be revisited, but since we had no complaints or other evidence of
+problems, it has never made it to the top of the stack.  You should
+understand that FTP is not a major activity at our site, and hence
+it was very easy for this to drop between the cracks.
+
+When members of this group encountered this file, they did not ask us
+for a clarification or suggest replacing the file with a better statement.
+Instead they posted uninformed conjectures to this newsgroup and then
+proceeded to treat those conjectures as fact.
+
+One such thread is that we could be using a poorly stated policy and a
+questionably placement of the README file to entrap people into violating
+the policy.  This is utter nonsense.  The only action we have ever taken
+with regards to files in /pub is that when we detect that we are being
+swept by an automatic retrieval program, we request to be removed from
+the list of sites scanned.  We have been sensitive to this problem for
+many years because a high visibility sight such as ours may get swept
+nightly by multiple sites, disrupting the legitimate uses of our computers.
+
+The other major thread of unfounded conjecture about our FTP policy is
+that we were putting confidential files in the anonymous FTP area.
+This is a gross distortion of our statement that those files were not
+of general interest.  As an example, a scene-recognition project might
+want to provide a collection of preprocessed images to researchers on
+similar projects.  I see no harm in asking people who don't have the
+programs needed to display those files not to retrieve them.  However,
+it is very easy to explain the harm done by people retrieving megabytes
+of files for which they have no conceivable use: they interfere with
+the attempts of those who have a legitimate interest in retrieving those
+files and they interfere with the other uses of our computers.  Please
+do not claim that our servers have plenty of spare cycles at night --
+our system statistics, and my personal experience, indicate that our
+servers are typically busy throughout the night.
+
+Our invitations to retrieve files are often widely distributed: Our
+invitation to this newsgroup to pick up the two part response of Feb 8
+is one example.  All we want to do is stop people from blindly snarfing
+up everything available at our site.  Please do not criticize us for
+an overly harsh statement of our policy -- harsh statements seem to be
+what is needed to get people to pay attention.
+
+We have been accused of violating our own policy by having a listing
+in the Archie database.  One of those citing this listing states
+ > When archie was first implemented, it automatically tried to access and
+ > catalogue every FTP server it could find.  Many sites objected, since they
+ > didn't really consider themselves "public access".  The archie maintainers
+ > changed things so that it only catalogued sites that gave permission.
+Didn't it occur to anyone that this process might be imperfect, especially
+that files listed before the policy changed might not have been checked?
+
+If the issue of Archie listings had come up, I would have supported
+having an entry for a file of moderate to widespread interest as an
+additional way of propagating the invitation to pick up that file,
+assuming that the listing of specific files would not result in our
+site getting listed as a public archive.  But that was before the
+pummeling that our site took in this newsgroup.  Since the opinion of
+people here seems to be that an invitation to take one file is an
+invitation to take them all, I have asked the Archie database
+administrators to remove all entries related to our site.  I would
+have preferred not to have done this, but we don't need the grief.
+
+We have been widely criticized, often harshly, for not having a more
+sophisticated anonymous FTP configuration.  Because I know of many sites
+with similar circumstances, I will explain why much of this criticism
+is off-base.
+(1). We are a small site with limited resources, and anonymous FTP is
+a low priority.  Our group is composed of 50 people, most of whom are
+researchers.  Our computer facility staff is composed of one operator
+and one system administrator.  Two researchers (me being one) share
+the management of the facility and handle various support tasks as _part_
+of our professional duties.  Several other researchers are available to
+help in emergencies.
+(2).  Many of the people whom we invite to retrieve files from us are
+infrequent and inexperienced users of FTP.  Reminders about basics such
+as binary mode and explanations about compressed files are often needed.
+The current configuration already confuses some of these people.  By
+keeping it as simple and as generic as we can, we make it easier for the
+system staff at the guest's site to help them with their problems.
+(3). The reason why guest accounts are often impractical has been
+explained by number of other contributors to the thread.
+(4). Other aspects of trade-offs between services to our users and
+accessibility from the net were discussed in the second part of our
+first submission to this group.
+In summary, because anonymous FTP is a low priority for our site, we
+attempted to provide this service with a minimum expenditure of system
+staff time.  The README file was intended to keep inadvertent misuse
+of our hospitality to a tolerable level.  Until last week, this had been
+entirely adequate.
+
+The issue of UW FTPD deserves special comment.  A number of submitters
+to this group have taken our decision to not use UW FTPD as evidence
+that we were inept, incompetent, negligent, or maliciously attempting
+to entrap people into violating our access policy.  People should
+remember that UW FTPD is advertised as still being in the beta test
+phase (or so says the README file in the copy I retrieved in January).
+My site has enough problem with beta test software that we are forced
+to use on our primary tasks.  I saw no need to install beta software
+for a low priority, peripheral task, especially when there had been
+absolutely no dissatisfaction with the current system.
+(Note: the software that we are currently using is the standard BSD
+FTPD with an extension that we had acquired from the net several years
+ago).
+
+
+The result of this "discussion" was counterproductive 
+-----------------------------------------------------
+
+People should be aware that the effects of the drubbing administered
+in this newsgroup are almost entirely contrary to the alleged goals
+of EFF.
+
+At the simplest level, we have had to divert computer facility staff
+from productive work to respond to the allegations disseminated by
+this newsgroup and to deal with apparently related actions. Consequently,
+we have not had the time to fix the disputed README file.
+
+We will be installing the UW FTP server.  I do not view this as a good
+thing because its biggest "advantage" over our current setup is that
+it enables us to deny access from other sites, and having the capability
+means that it will eventually be used.  Members of this newsgroup have
+made me painfully aware that attempting to rely on an "honor system"
+will not only invite (incite?) abuse, but will invite public ridicule.
+
+Our site was one of the earliest members of the ARPAnet.  We take pride
+in going out of our way to make resources available to the Internet
+community.  Because of our high visibility on the network and because
+of our close associations with various universities, we are the
+frequent target of a variety of attacks across the net.  The cost to us
+of these attacks is hardly insubstantial, but our computer facility
+staff and our center's management have _chosen_ to bear these costs
+in order to maintain our accessibility from the net, especially from
+universities.  This has not been an easy choice.  I know of too many
+sites that have crumpled under the financial pressures and eliminated
+virtually all access, except mail, from a variety of top-level domains
+(eg EDU).  But the financial burden is not the only pressures on us to
+reduce network access: there are pressures from collaborators' sites.
+
+Because of recent events (some apparently connected with our appearance
+in this newsgroup), the installation of the tcp_wrapper package has
+been raised from the category of "when we have time" (translation: never)
+to a top priority.  I regard this with trepidation because I will be
+taking away one of my management's best excuses for doing nothing when
+it is under pressure to reduce network access.  When we have been under
+attack or threat of attack, my management would ask "what would it take
+to better protect ourselves."  Until now, I could report that blocking
+network access from those sites would require installing and testing
+new software, to which the response has always been "Your time is better
+spent elsewhere".  With the installation of this package, my answer will
+become "One quick edit to a file" and his only responsible decision will
+be "Do it".  At first, these limitations will be temporary, but temporary
+expediencies that get used repeatedly have a tendency to become permanent.
+
+Before the thread started a week ago, if you had asked me whether I
+anticipated my site imposing any noticeable restrictions on access from
+the net, I would have confidently answered that I did not. Today, I
+think the question is not "whether" but "how soon".  If and when this
+happens, remember that we did not go willingly -- some members of this
+newsgroup played a significant role by pushing us onto the slippery
+slope.
+
+Douglas B. Moran			moran@AI.SRI.COM
+
+Disclaimer: this is strictly a personal statement.
+
+Note: I am not a reader of this newsgroup and therefore I am unlikely
+	to see any responses posted here.  If you need a clarification
+	or think that you have a useful suggestion, send me e-mail.
+-- 
+Carl Kadie -- I do not represent any organization; this is just me.
+ = kadie@cs.uiuc.edu =
+
+
+------------------------------
+
+
+
